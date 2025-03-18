@@ -2,8 +2,10 @@ import streamlit as st
 from azure.cosmos import exceptions
 from modules.cosmos_db_connection import get_cosmos_client
 
-container = get_cosmos_client("Marketing AI", "Chats")
-
+container = get_cosmos_client("Customer Insights Platform", "Chats")
+print('this is select page')
+print(f'session state select.py: {st.session_state}')
+print()
 def get_chats(email):
     query = "SELECT * FROM Chats c WHERE c.user.email = @email"
     parameters = [{"name": "@email", "value": email}]
@@ -17,9 +19,6 @@ def set_chat_as_session_state(chat):
         'selected_id': chat['id'],
         'selected_chat_id': chat['chat_id'],
         'messages': chat['messages'],
-        'system': chat['system'],
-        'selected_agent': chat['selected_agent'],
-        'temperature': chat['temperature'],
         'selected_index': chat['selected_index']
     })
 

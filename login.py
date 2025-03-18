@@ -10,12 +10,12 @@ warnings.filterwarnings("ignore")
 
 dotenv.load_dotenv()
 
-container = get_cosmos_client("Marketing AI", "Users")
+container = get_cosmos_client("Customer Insights Platform", "Users")
 
-query = "SELECT * FROM Users u WHERE u.email = 'cookie@gfs.com.au'"
+query = "SELECT * FROM Users u WHERE u.email = 'cookie-cip@gfs.com.au'"
 cookie_data = list(container.query_items(query=query, enable_cross_partition_query=True))[0]
 
-query = "SELECT * FROM Users u WHERE u.email <> 'cookie@gfs.com.au'"
+query = "SELECT * FROM Users u WHERE u.email <> 'cookie-cip@gfs.com.au'"
 user_data = list(container.query_items(query=query, enable_cross_partition_query=True))
 
 config = {}
@@ -41,7 +41,8 @@ authenticator = stauth.Authenticate(
     config['cookie']['key'],
     config['cookie']['expiry_days']
 )
-
+print(f'session state login.py: {st.session_state}')
+print()
 if "authentication_status" not in st.session_state:
     st.session_state["authentication_status"] = None
     st.rerun()
@@ -55,7 +56,7 @@ elif st.session_state['authentication_status']:
     st.session_state['authenticator'] = authenticator
     st.switch_page("pages/select.py")
 elif st.session_state['authentication_status'] == None:
-    if 'marketing-ai-chatbot' in st.session_state['init']:
+    if 'customer-insights-platform' in st.session_state['init']:
         authenticator.login(location="main")
         st.rerun()
     else:

@@ -5,11 +5,11 @@ import uuid
 from datetime import datetime
 import json
 import pandas as pd
-from modules.cosmos_db_connection import get_cosmos_client
+from cosmos_db_connection import get_cosmos_client
 
 load_dotenv()
 
-container = get_cosmos_client("Marketing AI", "Indexes")
+container = get_cosmos_client("Customer Insights Platform", "Indexes")
 
 with open(r'json files/index.json') as f:
     index_data = json.load(f)
@@ -25,6 +25,11 @@ df = pd.DataFrame(rows, columns=["Brand", "Product", "Sale Status", "IndexName"]
 
 for _, row in df.iterrows():
     index_name = row["IndexName"]
+
+    if not index_name:
+        print(f"Skipping row due to missing index_name: {row}")
+        continue
+
     query = f"SELECT * FROM c WHERE c.index_name = '{index_name}'"
     existing_items = list(container.query_items(query=query, enable_cross_partition_query=True))
 
@@ -40,7 +45,7 @@ for _, row in df.iterrows():
     }
 
     try:
-        container.upsert_item(document, partition_key=document["index_name"])
+        container.upsert_item(document)
     except exceptions.CosmosHttpResponseError as e:
         print(f"Error occurred: {e.message}")
         print("Document that caused error:", document)

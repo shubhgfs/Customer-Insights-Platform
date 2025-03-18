@@ -3,7 +3,7 @@ import re
 from azure.cosmos import exceptions
 from modules.cosmos_db_connection import get_cosmos_client
 
-container = get_cosmos_client("Marketing AI", "Citations")
+container = get_cosmos_client("Customer Insights Platform", "Citations")
 
 def get_doc_name_from_query():
     return st.query_params.get("doc_name")
@@ -28,7 +28,7 @@ def get_doc(doc_id):
     parameters = [{"name": "@doc_id", "value": doc_id}]
     
     try:
-        user_data = list(container.query_items(query=query, parameters=parameters, enable_cross_partition_query=True, partition_key=doc_id))
+        user_data = list(container.query_items(query=query, parameters=parameters, enable_cross_partition_query=True))
         return user_data[0] if user_data else None 
     except exceptions.CosmosResourceNotFoundError:
         return None

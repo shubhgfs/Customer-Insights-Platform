@@ -3,7 +3,7 @@ import os
 from azure.cosmos import CosmosClient, exceptions
 from modules.cosmos_db_connection import get_cosmos_client
 
-container = get_cosmos_client("Marketing AI", "Citations")
+container = get_cosmos_client("Customer Insights Platform", "Citations")
 
 def extract_and_format_citations(all_citations):
     citations_formatted = {}
@@ -31,7 +31,7 @@ def update_citations_file(citations_formatted):
                 "doc_id": doc_id,
                 "Date": citation['Date'],
                 "Context": citation['Context']
-            }, partition_key=doc_id)
+            })
         except exceptions.CosmosResourceExistsError:
             continue
 

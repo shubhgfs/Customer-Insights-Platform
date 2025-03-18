@@ -17,7 +17,7 @@ from modules.cosmos_db_connection import get_cosmos_client
 warnings.filterwarnings("ignore", message="{warning_message}")
 dotenv.load_dotenv()
 
-container_index = get_cosmos_client("Marketing AI", "Indexes")
+container_index = get_cosmos_client("Customer Insights Platform", "Indexes")
 
 index_names = get_indexes(container_index)
 selected_index = st.session_state.get("selected_index")
@@ -68,9 +68,16 @@ elif st.session_state['authentication_status']:
         st.session_state["selected_index"] = selected_index
 
     if st.sidebar.button("Confirm Chatbot"):
+        print('confirming chatbot')
+        print(f'session state main.py: {st.session_state}')
+        print()
         if "messages" in st.session_state and len(st.session_state["messages"]) > 1:
             save_session_state()
         del st.session_state["messages"]
+        if "selected_id" in st.session_state:
+            del st.session_state["selected_id"]
+        if "selected_chat_id" in st.session_state:
+            del st.session_state["selected_chat_id"]
         st.session_state["selected_index"] = selected_index
         st.rerun()
 
@@ -102,6 +109,9 @@ elif st.session_state['authentication_status']:
     st.sidebar.markdown("---")
 
     if st.sidebar.button("Go to Select Page"):
+        print('going to select page')
+        print(f'session state main.py: {st.session_state}')
+        print()
         save_session_state()
         st.switch_page("pages/select.py")
 

@@ -5,7 +5,7 @@ import streamlit as st
 from azure.cosmos import exceptions
 from modules.cosmos_db_connection import get_cosmos_client
 
-container = get_cosmos_client("Marketing AI", "Chats")
+container = get_cosmos_client("Customer Insights Platform", "Chats")
 
 def save_session_state():
     session_state_dict = dict(st.session_state)
@@ -32,7 +32,7 @@ def save_session_state():
             print(f"Error occurred while trying to delete document: {e.message}")
 
     try:
-        container.upsert_item(session_state_dict, partition_key=partition_key)
+        container.upsert_item(session_state_dict)
     except exceptions.CosmosHttpResponseError as e:
         print(f"Error occurred: {e.message}")
         print("Document being uploaded:", session_state_dict)
