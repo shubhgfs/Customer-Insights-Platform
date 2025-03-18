@@ -1,0 +1,13 @@
+,Brand,Product,SaleStatus,min_date,max_date,count
+0,ASIA,Life,No Sale,2024-03-21,2025-01-15,114
+1,ASIA,Life,Sale,2025-01-03,2025-01-15,45
+2,OneChoice,Income Protection,No Sale,2024-10-21,2024-11-18,4
+3,OneChoice,Income Protection,Sale,2024-10-01,2025-01-07,33
+4,OneChoice,Life,No Sale,2024-03-21,2025-01-13,115
+5,OneChoice,Life,Sale,2024-12-04,2025-01-15,65
+6,Real,Funeral,No Sale,2024-03-21,2025-01-14,139
+7,Real,Funeral,Sale,2025-01-01,2025-01-15,73
+8,Real,Income Protection,No Sale,2024-03-21,2024-12-23,61
+9,Real,Income Protection,Sale,2024-10-14,2025-01-15,111
+10,Real,Life,No Sale,2024-03-21,2025-01-14,145
+11,Real,Life,Sale,2025-01-02,2025-01-15,48

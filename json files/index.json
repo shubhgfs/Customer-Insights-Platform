@@ -1,0 +1,32 @@
+{
+    "Asia": {
+        "Life": {
+            "Sale": "asia-life-sale",
+            "No Sale": "asia-life-nosale"
+        }
+    },
+    "One Choice": {
+        "Income Protection": {
+            "Sale": "onechoice-incomeprotection-sale",
+            "No Sale": "onechoice-incomeprotection-nosale"
+        },
+        "Life": {
+            "Sale": "onechoice-life-sale",
+            "No Sale": "onechoice-life-nosale"
+        }
+    },
+    "Real": {
+        "Life": {
+            "Sale": "real-life-sale",
+            "No Sale": "real-life-nosale"
+        },
+        "Funeral": {
+            "Sale": "real-funeral-sale",
+            "No Sale": "real-funeral-nosale"
+        },
+        "Income Protection": {
+            "Sale": "real-incomeprotection-sale",
+            "No Sale": "real-incomeprotection-nosale"
+        }
+    }
+}

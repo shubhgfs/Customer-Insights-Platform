@@ -1,0 +1,41 @@
+{
+  "usernames": {
+    "shubhm01": {
+      "email": "shubh.mehta@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Shubh",
+      "last_name": "Mehta",
+      "logged_in": false,
+      "password": "marketingaishubh"
+    },
+    "devasu01": {
+      "email": "devashish.upadhyay@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Devashish",
+      "last_name": "Upadhyay",
+      "logged_in": false,
+      "password": "marketingaidevashish"
+    },
+    "taniab01": {
+      "email": "tania.bradley@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Tania",
+      "last_name": "Bradley",
+      "logged_in": false,
+      "password": "marketingaitania"
+    },
+    "laureo01": {
+      "email": "lauren.ong@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Lauren",
+      "last_name": "Ong",
+      "logged_in": false,
+      "password": "marketingailauren"
+    }
+  },
+  "cookie": {
+    "expiry_days": 30,
+    "key": "8b241ae6-42ec-4861-ad75-3c5d984e22c8",
+    "name": "marketing-ai-chatbot"
+  }
+}
