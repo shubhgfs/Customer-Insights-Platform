@@ -12,22 +12,16 @@ from azure.cosmos import CosmosClient, exceptions
 from modules.process_citations import process_citations
 from modules.save_session_state import save_session_state
 from modules.select_default_index import get_indexes, select_index
-from modules.select_default_agent import get_agents, select_agent
 from modules.cosmos_db_connection import get_cosmos_client
 
 warnings.filterwarnings("ignore", message="{warning_message}")
 dotenv.load_dotenv()
 
 container_index = get_cosmos_client("Marketing AI", "Indexes")
-container_agent = get_cosmos_client("Marketing AI", "Agents")
 
 index_names = get_indexes(container_index)
 selected_index = st.session_state.get("selected_index")
 default_category, default_subcategory, default_status = select_index(index_names, selected_index)
-
-agent_data = get_agents(container_agent)
-selected_agent = st.session_state.get("selected_agent")
-default_agent, default_system, default_temperature = select_agent(agent_data, selected_agent)
 
 authenticator = st.session_state.get('authenticator')
 
@@ -50,7 +44,7 @@ elif st.session_state['authentication_status']:
         http_client=http_client
     )
 
-    st.title("💬 Marketing Chatbot")
+    st.title("💬 Customer Insights Platform")
 
     st.sidebar.title("Select Chatbot")
     categories = index_names["Brand"].unique()
@@ -78,27 +72,6 @@ elif st.session_state['authentication_status']:
             save_session_state()
         del st.session_state["messages"]
         st.session_state["selected_index"] = selected_index
-        st.rerun()
-
-    st.sidebar.markdown("---")
-
-    st.sidebar.title("Select Agent")
-    agents = agent_data['Agent Name'].unique()
-    selected_agent = st.sidebar.selectbox("Agent", agents, index=list(agents).index(default_agent) if default_agent else 0)
-    system = agent_data[agent_data['Agent Name'] == selected_agent]['System'].iloc[0]
-    temperature = agent_data[agent_data['Agent Name'] == selected_agent]['Temperature'].iloc[0]
-
-    if 'selected_agent' not in st.session_state:
-        st.session_state["selected_agent"] = selected_agent
-    if 'system' not in st.session_state:
-        st.session_state["system"] = system
-    if 'temperature' not in st.session_state:
-        st.session_state["temperature"] = temperature
-
-    if st.sidebar.button("Confirm Agent"):
-        st.session_state["selected_agent"] = selected_agent
-        st.session_state["system"] = system
-        st.session_state["temperature"] = temperature
         st.rerun()
 
     st.sidebar.markdown("---")
@@ -157,7 +130,6 @@ elif st.session_state['authentication_status']:
         completion = client.chat.completions.create(
             model=deployment,
             messages=messages,
-            temperature=temperature,
             extra_body={
                 "data_sources": [{
                     "type": "azure_search",
@@ -167,8 +139,7 @@ elif st.session_state['authentication_status']:
                         "authentication": {
                             "type": "api_key",
                             "key": os.environ["AZURE_AI_SEARCH_API_KEY"],
-                        },
-                        "role_information": f'{system}'
+                        }
                     }
                 }],
             }
