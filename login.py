@@ -47,12 +47,13 @@ if "authentication_status" not in st.session_state:
     st.session_state["authentication_status"] = None
     st.rerun()
 elif st.session_state['authentication_status']:
-    st.session_state['user'] = {
-        'email': st.session_state['email'],
-        'username': st.session_state['username'],
-        'name': st.session_state['name'],
-        'role': st.session_state['roles']
-    }
+    if 'user' not in st.session_state:
+        st.session_state['user'] = {
+            'email': st.session_state['email'],
+            'username': st.session_state['username'],
+            'name': st.session_state['name'],
+            'role': st.session_state['roles']
+        }
     st.session_state['authenticator'] = authenticator
     st.switch_page("pages/select.py")
 elif st.session_state['authentication_status'] == None:
