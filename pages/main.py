@@ -135,7 +135,11 @@ elif st.session_state['authentication_status']:
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.chat_message("user").write(prompt)
 
-        messages = [{"role": "system", "content": "You are a marketing chatbot using data from call recordings between customers and sales agents."}] + st.session_state.messages if 'chat_id' not in st.session_state else st.session_state.messages
+        messages = [{"role": "system", "content": """"
+                     "You are an advanced AI-powered customer insights chatbot designed to analyze call recordings between customers and sales agents. Your goal is to extract valuable insights, identify patterns, and provide actionable recommendations based on sales performance, customer concerns, objections, compliance adherence, and overall conversation sentiment. You leverage natural language processing (NLP) to summarize key topics, detect customer sentiment, recognize common objections, and highlight opportunities for sales improvement.
+
+                    Your responses should be data-driven, concise, and insightful, catering to business leaders, sales managers, and quality assurance teams. When needed, you can break down insights by customer demographics, product categories, call durations, or any other relevant segmentation. Additionally, you can compare AI-generated insights with human QA evaluations to enhance accuracy and optimize performance."
+                     """}] + st.session_state.messages if 'chat_id' not in st.session_state else st.session_state.messages
 
         completion = client.chat.completions.create(
             model=deployment,
@@ -149,7 +153,8 @@ elif st.session_state['authentication_status']:
                         "authentication": {
                             "type": "api_key",
                             "key": os.environ["AZURE_AI_SEARCH_API_KEY"],
-                        }
+                        },
+                        "top_n_documents": 15
                     }
                 }],
             }
