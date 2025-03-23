@@ -2,6 +2,7 @@ import os
 import openai
 import dotenv
 import httpx
+import requests
 import streamlit as st
 import streamlit_authenticator as stauth
 import yaml
@@ -30,19 +31,18 @@ if "authentication_status" not in st.session_state:
     st.rerun()
 
 elif st.session_state['authentication_status']:
-    endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT_AQMAGENTICOS")
-    api_key = os.environ.get("AZURE_OPENAI_API_KEY_AQMAGENTICOS")
-    deployment = os.environ.get("AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS")
-    api_version = os.environ.get("AZURE_OPENAI_API_VERSION_AQMAGENTICOS")
+
+    base_url = "http://localhost:3000/api"
+    headers = {
+        "Authorization": f"Bearer {os.environ.get('OLLAMA_API_KEY')}",
+        "Cache-Control": "no-cache",
+        "User-Agent": "PostmanRuntime/7.39.1",
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive"
+    }
 
     http_client = httpx.Client(verify=False)
-
-    client = openai.AzureOpenAI(
-        azure_endpoint=endpoint,
-        api_key=api_key,
-        api_version=api_version,
-        http_client=http_client
-    )
 
     st.title("💬 Customer Insights Platform")
 
@@ -141,26 +141,14 @@ elif st.session_state['authentication_status']:
                     Your responses should be data-driven, concise, and insightful, catering to business leaders, sales managers, and quality assurance teams. When needed, you can break down insights by customer demographics, product categories, call durations, or any other relevant segmentation. Additionally, you can compare AI-generated insights with human QA evaluations to enhance accuracy and optimize performance."
                      """}] + st.session_state.messages if 'chat_id' not in st.session_state else st.session_state.messages
 
-        completion = client.chat.completions.create(
-            model=deployment,
-            messages=messages,
-            extra_body={
-                "data_sources": [{
-                    "type": "azure_search",
-                    "parameters": {
-                        "endpoint": os.environ["AZURE_AI_SEARCH_ENDPOINT"],
-                        "index_name": st.session_state['selected_index'],
-                        "authentication": {
-                            "type": "api_key",
-                            "key": os.environ["AZURE_AI_SEARCH_API_KEY"],
-                        },
-                        "top_n_documents": 15
-                    }
-                }],
-            }
-        )
+        chat_url = f"{base_url}/chat/completions"
+        payload = {
+            "model": "qwq:latest",
+            "messages": messages
+        }
+        response = requests.post(chat_url, headers=headers, json=payload, verify=False)
 
-        msg = process_citations(completion)
+        msg = process_citations(response)
         st.session_state.messages.append({"role": "assistant", "content": msg})
         st.chat_message("assistant").write(msg)
 
