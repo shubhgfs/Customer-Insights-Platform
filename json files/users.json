@@ -15,6 +15,14 @@
       "last_name": "Upadhyay",
       "logged_in": false,
       "password": "marketingaidevashish"
+    },
+    "krisht01": {
+      "email": "krishna.tammireddy@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Krishna",
+      "last_name": "Tammireddy",
+      "logged_in": false,
+      "password": "marketingaikrishna"
     }
   },
   "cookie": {
