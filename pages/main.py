@@ -137,6 +137,7 @@ elif st.session_state['authentication_status']:
                 
         completion = client.chat.completions.create(
                 model="qwq:latest",
+                stream=True,
                 messages=messages,
                 extra_body={
                     "data_sources": [{
@@ -154,9 +155,17 @@ elif st.session_state['authentication_status']:
                 }
             )
             
-        msg = process_citations(completion)
-        st.session_state.messages.append({"role": "assistant", "content": msg})
-        st.chat_message("assistant").write(msg)
+        # msg = process_citations(completion)
+        response_placeholder = st.empty()
+        msg = ''
+        for chunk in completion:
+            if chunk.choices[0].delta.content is not None:
+                msg += chunk.choices[0].delta.content
+                response_placeholder.chat_message("assistant").write(msg)
+        if msg:
+            st.session_state.messages.append({"role": "assistant", "content": msg})
+            response_placeholder.empty()
+            st.chat_message("assistant").write(msg)
         
 elif st.session_state['authentication_status'] is False:
     st.error('Username/password is incorrect')
