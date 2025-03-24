@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 # Ignore .env files
 .env
 *.cip-venv
-=======
-# Ignore .env files
-.env
-*.cip-venv
->>>>>>> 420f5ce56ac3afaf2448ffaf1de83ab063142837
 *.mp4
+*.pyc
