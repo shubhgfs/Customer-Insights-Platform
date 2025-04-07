@@ -32,15 +32,10 @@ if "authentication_status" not in st.session_state:
 
 elif st.session_state['authentication_status']:
 
-    base_url = "http://localhost:3000/api"
-    headers = {
-        "Authorization": f"Bearer {os.environ.get('OLLAMA_API_KEY')}",
-        "Cache-Control": "no-cache",
-        "User-Agent": "PostmanRuntime/7.39.1",
-        "Accept": "*/*",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive"
-    }
+    client = openai.OpenAI(
+        base_url = 'http://localhost:3000/api',
+        api_key=os.environ.get('OLLAMA_API_KEY'),
+    )
 
     http_client = httpx.Client(verify=False)
 
@@ -68,9 +63,6 @@ elif st.session_state['authentication_status']:
         st.session_state["selected_index"] = selected_index
 
     if st.sidebar.button("Confirm Chatbot"):
-        print('confirming chatbot')
-        print(f'session state main.py: {st.session_state}')
-        print()
         if "messages" in st.session_state and len(st.session_state["messages"]) > 1:
             save_session_state()
         del st.session_state["messages"]
@@ -135,23 +127,46 @@ elif st.session_state['authentication_status']:
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.chat_message("user").write(prompt)
 
-        messages = [{"role": "system", "content": """"
-                     "You are an advanced AI-powered customer insights chatbot designed to analyze call recordings between customers and sales agents. Your goal is to extract valuable insights, identify patterns, and provide actionable recommendations based on sales performance, customer concerns, objections, compliance adherence, and overall conversation sentiment. You leverage natural language processing (NLP) to summarize key topics, detect customer sentiment, recognize common objections, and highlight opportunities for sales improvement.
+        system_message = {
+            "role": "system", "content": """You are an advanced AI-powered customer insights chatbot designed to analyze call recordings between customers and sales agents. Your goal is to extract valuable insights, identify patterns, and provide actionable recommendations based on sales performance, customer concerns, objections, compliance adherence, and overall conversation sentiment. You leverage natural language processing (NLP) to summarize key topics, detect customer sentiment, recognize common objections, and highlight opportunities for sales improvement.
 
-                    Your responses should be data-driven, concise, and insightful, catering to business leaders, sales managers, and quality assurance teams. When needed, you can break down insights by customer demographics, product categories, call durations, or any other relevant segmentation. Additionally, you can compare AI-generated insights with human QA evaluations to enhance accuracy and optimize performance."
-                     """}] + st.session_state.messages if 'chat_id' not in st.session_state else st.session_state.messages
-
-        chat_url = f"{base_url}/chat/completions"
-        payload = {
-            "model": "qwq:latest",
-            "messages": messages
-        }
-        response = requests.post(chat_url, headers=headers, json=payload, verify=False)
-
-        msg = process_citations(response)
-        st.session_state.messages.append({"role": "assistant", "content": msg})
-        st.chat_message("assistant").write(msg)
-
+            Your responses should be data-driven, concise, and insightful, catering to business leaders, sales managers, and quality assurance teams. When needed, you can break down insights by customer demographics, product categories, call durations, or any other relevant segmentation. Additionally, you can compare AI-generated insights with human QA evaluations to enhance accuracy and optimize performance."""
+            }
+        
+        messages = [system_message] + st.session_state.messages if 'chat_id' not in st.session_state else st.session_state.messages
+                
+        completion = client.chat.completions.create(
+                model="qwq:latest",
+                stream=True,
+                messages=messages,
+                extra_body={
+                    "data_sources": [{
+                        "type": "azure_search",
+                        "parameters": {
+                            "endpoint": os.environ["AZURE_AI_SEARCH_ENDPOINT"],
+                            "index_name": st.session_state['selected_index'],
+                            "authentication": {
+                                "type": "api_key",
+                                "key": os.environ["AZURE_AI_SEARCH_API_KEY"],
+                            },
+                            "top_n_documents": 15
+                        }
+                    }],
+                }
+            )
+            
+        # msg = process_citations(completion)
+        response_placeholder = st.empty()
+        msg = ''
+        for chunk in completion:
+            if chunk.choices[0].delta.content is not None:
+                msg += chunk.choices[0].delta.content
+                response_placeholder.chat_message("assistant").write(msg)
+        if msg:
+            st.session_state.messages.append({"role": "assistant", "content": msg})
+            response_placeholder.empty()
+            st.chat_message("assistant").write(msg)
+        
 elif st.session_state['authentication_status'] is False:
     st.error('Username/password is incorrect')
 elif st.session_state['authentication_status'] is None:
