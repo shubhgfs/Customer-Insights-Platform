@@ -181,6 +181,12 @@ ORDER BY
     uwa.QuestionSetInstanceID, 
     uwa.DeclineID;
 
+
+
+
+
+
+
 select questionsetinstanceid, * from [HollardDW].[dbo].[FactUWAction] 
 
 -- so 1 questionsetinstanceid can have more than 1 decline reasons.
@@ -191,4 +197,90 @@ order by 1
 
 select * from hfsunderwriting.dbo.product
 
+
+SELECT 
+   fs.DateID,
+   fs.QuoteID,
+   fs.ClientID,
+   fs.Sales,
+   fs.SumInsured,
+   fs.Quotes,
+   fs.ARRA,
+   uw.Brand,
+   uw.Gender,
+   uw.IsSmoker,
+   uw.Section,
+   uw.Question,
+   uw.AnswerValue,
+   uw.Occupation,
+   uw.Age,
+   uw.DeclineReason,
+   uw.UWAppStatus,
+   uw.QuestionSetInstanceStatus,
+   uw.IsDecline,
+   uw.IsCurrent,
+   pt.ProductType
+FROM 
+    [HollardDW].[dbo].[FactSalesActivity] fs
+LEFT JOIN 
+    [HollardDW].[dbo].[FactUWAction] uwa
+    ON fs.ClientID = uwa.ClientID
+LEFT JOIN
+	[HFSUnderwriting].[dbo].[ProductParentChildMapping] prodpcm
+	on fs.productcode = prodpcm.ExternalProductId
+LEFT JOIN
+	[Evolve].[dbo].[tblProductType] pt
+	on fs.ProductTypeID = pt.ProductTypeID
+WHERE 
+    fs.Sales = 0
+    AND fs.Quotes > 0
+    AND uwa.UWAppStatus = 'Declined'
+    AND uwa.QuestionSetInstanceStatus = 'Complete'
+	AND IsDecline=1
+	AND iscurrent=1
+	AND prodpcm.ExternalProductId is null
+
+
+
+
+-- BASE DATA QUERY 
+
+DROP TABLE IF EXISTS [EvolveKPI].[dbo].[tblUnderwritingImpact_CIP]
+SELECT 
+   fs.DateID,
+   fs.QuoteID,
+   fs.ClientID,
+   fs.Sales,
+   fs.SumInsured,
+   fs.Quotes,
+   fs.ARRA,
+   uw.Brand,
+   pt.ProductType,
+   uw.Gender,
+   uw.IsSmoker,
+   uw.Section,
+   uw.Question,
+   uw.AnswerValue,
+   uw.Occupation,
+   uw.Age,
+   uw.DeclineReason,
+   uw.UWAppStatus,
+   uw.QuestionSetInstanceStatus,
+   uw.IsDecline,
+   uw.IsCurrent
+INTO [EvolveKPI].[dbo].[tblUnderwritingImpact_CIP]
+FROM 
+    [HollardDW].[dbo].[FactSalesActivity] fs
+LEFT JOIN 
+    [HollardDW].[dbo].[FactUWAction] uw
+    ON fs.ClientID = uw.ClientID
+LEFT JOIN
+	[HFSUnderwriting].[dbo].[ProductParentChildMapping] prodpcm
+	on fs.productcode = prodpcm.ExternalProductId
+LEFT JOIN
+	[Evolve].[dbo].[tblProductType] pt
+	on fs.ProductTypeID = pt.ProductTypeID
+WHERE 
+    prodpcm.ExternalProductId is null
+	AND fs.DateID BETWEEN '2022-01-01' AND '2025-05-01'
 

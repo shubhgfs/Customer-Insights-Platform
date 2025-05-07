@@ -205,3 +205,52 @@ ORDER BY
         WHEN call_bucket = '26-30' THEN 14
         ELSE 15
     END;
+
+
+WITH Sales AS (
+    SELECT clientid, quoteid, saledatetimeid, suminsured
+    FROM HollardDW.dbo.FactSalesActivity
+    WHERE sales = 1
+),
+ContactHistory AS (
+    SELECT 
+        clientid,
+        NoofAttempts,
+        ISNULL(dtmlastmodified, ISNULL(dtmclosed, dtminserted)) AS activity_date
+    FROM evolve.dbo.tblClientAttemptContactHistory
+),
+ContactAttempts AS (
+    SELECT 
+        s.clientid,
+        s.quoteid,
+        s.saledatetimeid,
+        s.suminsured,
+        ch.activity_date,
+        ch.NoofAttempts
+    FROM Sales s
+    JOIN ContactHistory ch
+        ON s.clientid = ch.clientid
+        AND CAST(ch.activity_date AS DATE) BETWEEN DATEADD(DAY, -30, CAST(s.saledatetimeid AS DATE)) AND CAST(s.saledatetimeid AS DATE)
+),
+Aggregated AS (
+    SELECT 
+        clientid,
+        quoteid,
+        COUNT(*) AS num_contacts_before_sale
+    FROM ContactAttempts
+    GROUP BY clientid, quoteid
+)
+SELECT 
+    ca.clientid,
+    ca.quoteid,
+    ca.saledatetimeid,
+    ca.activity_date,
+    ca.NoofAttempts,
+    ca.suminsured,
+    ag.num_contacts_before_sale
+FROM ContactAttempts ca
+JOIN Aggregated ag
+    ON ca.clientid = ag.clientid AND ca.quoteid = ag.quoteid
+ORDER BY ca.clientid, ca.saledatetimeid, ca.activity_date;
+
+

@@ -54,7 +54,7 @@ ORDER BY
     SalesConversionRate DESC;
 
 
-
+drop table if exists [EvolveKPI].[dbo].[CIP_Lifestyle_Smoking]
 -- Main query: fetch detailed sales activity with client demographic enrichment
 SELECT
     fs.DateID,                          -- Date of the sales activity
@@ -133,6 +133,7 @@ WHERE
 
 -- Filter: Ensure finalized Sum Insured exists
     AND fs.SumInsured IS NOT NULL
+	AND fs.DateID BETWEEN '2022-01-01' AND '2025-05-01'
 
 
 
