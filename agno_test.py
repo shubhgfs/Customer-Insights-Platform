@@ -4,6 +4,9 @@ from agno.tools.sql import SQLTools
 import os
 from dotenv import load_dotenv
 from agno.playground import Playground, serve_playground_app
+import httpx
+
+http = httpx.Client(verify=False)
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -21,12 +24,13 @@ azure_model = AzureOpenAI(
     api_key=api_key,
     azure_endpoint=azure_endpoint,
     azure_deployment=azure_deployment,
-    api_version=api_version
+    api_version=api_version,
+    http_client=http
 )
 
 # Specify the path to your SQLite database file
-lifestyle_db = r"sqlite:////home/shubh/Documents/Customer Insights Platform/lifestyle_smoking_cip.db"
-underwriting_db = r"sqlite:////home/shubh/Documents/Customer Insights Platform/underwriting_impact_cip.db"
+lifestyle_db = r"sqlite:///lifestyle_smoking_cip.db"
+underwriting_db = r"sqlite:///underwriting_impact_cip.db"
 
 underwriting_tool = SQLTools(db_url=underwriting_db)
 lifestyle_tool = SQLTools(db_url=lifestyle_db)
@@ -38,7 +42,7 @@ tool2 = [underwriting_tool, lifestyle_tool]
 agent = Agent(
     name="SQL Analyst Agent",
     model=azure_model,
-    tools=tools,
+    tools=[underwriting_tool],
 )
 
 # Use the agent to interact with the database
