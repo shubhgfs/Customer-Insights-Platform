@@ -63,3 +63,7 @@ SELECT
     COUNT(*) AS TotalSales
 FROM 
     CallsPerSale;
+
+-- Output 
+-- AvgCallsPerSale	MinCallsPerSale	MaxCallsPerSale	TotalSales
+-- 2.19935170178282	 0	38	2468
