@@ -25,8 +25,8 @@ if __name__ == "__main__":
     -- Paste your final SQL query here
     select * 
     from
-    [EvolveKPI].[dbo].[CIP_Lifestyle_Smoking]
+    [EvolveKPI].[dbo].[tblUnderwritingImpact_CIP]
     """
-    sqlite_db_path = "output.sqlite.db"
-    sqlite_table = "lifestyle_factors_smoking"
+    sqlite_db_path = "underwriting_impact_cip.db"
+    sqlite_table = "underwriting_impact_cip"
     sqlserver_to_sqlite(sqlserver_conn_str, sql_query, sqlite_db_path, sqlite_table)
