@@ -2,9 +2,27 @@ from agno.agent import Agent
 from agno.models.azure import AzureOpenAI
 from agno.tools.sql import SQLTools
 import os
+from agno.tools.reasoning import ReasoningTools
 from dotenv import load_dotenv
 from agno.playground import Playground, serve_playground_app
 import httpx
+from agno.vectordb.search import SearchType
+from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
+from agno.knowledge.json import JSONKnowledgeBase
+import json
+from agno.storage.sqlite import SqliteStorage
+
+
+
+storage = SqliteStorage(
+    table_name="tblMaster_CIP",
+    db_file="tmp_usr.db",
+)
+
+# Import and read context from JSON file
+with open(r'agent_config.json', 'r') as f:
+    file = json.load(f)
+    agent_config = file['agent_config']  # Get the agent configuration
 
 http = httpx.Client(verify=False)
 
@@ -25,33 +43,73 @@ azure_model = AzureOpenAI(
     azure_endpoint=azure_endpoint,
     azure_deployment=azure_deployment,
     api_version=api_version,
-    http_client=http
+    # http_client=http
 )
 
+vector_db = Weaviate(
+    collection="master",
+    search_type=SearchType.hybrid,
+    distance=Distance.COSINE,
+    vector_index=VectorIndex.HNSW,
+    local=True,
+    )
+
+knowledge_base = JSONKnowledgeBase(
+    path = r"knowledge",
+    vector_db=vector_db,)
+
+
 # Specify the path to your SQLite database file
-lifestyle_db = r"sqlite:///lifestyle_smoking_cip.db"
-underwriting_db = r"sqlite:///underwriting_impact_cip.db"
-
-underwriting_tool = SQLTools(db_url=underwriting_db)
-lifestyle_tool = SQLTools(db_url=lifestyle_db)
-
-tools = [lifestyle_tool, underwriting_tool]
-tool2 = [underwriting_tool, lifestyle_tool]
+master_db = r"sqlite:////home/shubh/Documents/Customer Insights Platform/tblMaster_CIP.db"
+sql_tool = SQLTools(db_url=master_db)
 
 # Initialize the agent with the Azure model and SQLTools
 agent = Agent(
     name="SQL Analyst Agent",
     model=azure_model,
-    tools=[underwriting_tool],
+    tools=[sql_tool, ReasoningTools(add_instructions=True)],
+    
+    # System message settings from context.json
+    system_message_role="system",
+    system_message=agent_config.get('system_message', None),
+    
+    # Description, goal, and instructions from context.json
+    description=agent_config.get('description', None),
+    goal=agent_config.get('goal', None),
+    instructions=agent_config.get('instructions', None),
+    expected_output=agent_config.get('expected_output', None),
+
+    # Add context
+    context=agent_config.get('context', None),
+    add_context=True,
+    resolve_context=True,
+
+    # Include conversation history to build context
+    add_history_to_messages=True,
+    num_history_runs=10,
+    read_chat_history=True,
+    read_tool_call_history=True,
+
+    # Optional enhancements
+    markdown=True,
+    add_name_to_instructions=True,
+    add_datetime_to_instructions=True,
+    timezone_identifier="Australia/Sydney",
+    add_state_in_messages=False,
+    monitoring=True,
+    search_knowledge=True,
+    knowledge=knowledge_base,
+    storage=storage,
 )
+
 
 # Use the agent to interact with the database
-agent.print_response(
-    "lIST ALL THE TABLES YOU HAVE USING THE LIST TABLE TOOL"
-)
+# agent.print_response(
+#     "lIST ALL THE TABLES YOU HAVE USING THE LIST TABLE TOOL"
+# )
 
-# app = Playground(agents = [agent]).get_app()
+app = Playground(agents = [agent]).get_app()
 
-# if __name__ == "__main__":
-#     # Run the app
-#     serve_playground_app("agno_test:app", reload=True)
+if __name__ == "__main__":
+    # Run the app
+    serve_playground_app("agno_test:app", reload=True)
