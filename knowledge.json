@@ -1,32 +1,282 @@
 [
-    {
-        "id": 1,
-        "user_query": "What is the average Sum Insured (SI) and sales conversion rate for males vs. females?",
-        "reasoning" : "To calculate the average sum insured and sales conversion rate by gender using the unified tblMaster_CIP table, I leveraged the fact that this table already consolidates data from multiple source systems, removing the need for separate joins across FactSalesActivity, DimClient, or other dimensional tables. I focused on entries where Quotes > 0 to ensure that only legitimate leads were considered, avoiding incomplete or abandoned entries. I grouped the data by the Gender column, which is directly available in this table, and calculated the total number of quotes and the number of successful sales by counting rows where Sales = 1. For average sum insured, I used the SumInsured column, averaging it across all quotes for each gender. Since this dataset may still contain multiple records per client due to product pivots (where a client may be declined for a parent product and later sold a child product), I ensured the logic was consistent with the older approach: in a more granular implementation, I would exclude parent product rows when a child product sale exists, using flags derived from the ProductParentChildMapping logic. However, for simplicity in this current master table context, which may already be filtered, I proceeded with only the base filters of Quotes > 0, assuming pivot logic has been handled upstream. The final query grouped by gender and calculated: total quotes, total sales, average sum insured, and sales conversion rate (sales divided by quotes). This approach ensures an accurate and unduplicated view of client outcomes by gender, suitable for executive insights or modeling inputs.",
-        "sql_query": "SELECT \n        m.Gender,\n        COUNT(*) AS TotalQuotes,  -- Total number of quotes for each gender\n        SUM(CASE WHEN m.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales\n        AVG(m.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote\n        CAST(\n            SUM(CASE WHEN m.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) \n            AS DECIMAL(10,4)\n        ) AS SalesConversionRate  -- Sales / Quotes as a decimal\n    FROM \n        [EvolveKPI].[dbo].[tblMaster_CIP] m\n    WHERE \n        m.Quotes > 0  -- Consider only rows where at least one quote was made\n    GROUP BY \n        m.Gender;  -- Aggregate metrics by gender",
-        "output" :[
-            {
-              "Gender": null,
-              "TotalQuotes": 625375,
-              "TotalSales": 79327,
-              "Avg_SumInsured": 14211.1696,
-              "SalesConversionRate": 0.1268
-            },
-            {
-              "Gender": "F",
-              "TotalQuotes": 145495,
-              "TotalSales": 36684,
-              "Avg_SumInsured": 54153.799,
-              "SalesConversionRate": 0.2521
-            },
-            {
-              "Gender": "M",
-              "TotalQuotes": 104671,
-              "TotalSales": 21028,
-              "Avg_SumInsured": 56638.3621,
-              "SalesConversionRate": 0.2009
-            }
-          ],
-        "interpretation": "The total number of quotes is significantly higher for the 'null' gender category (625,375), which likely represents unclassified or missing gender data. Among the genders with specified values, females (F) have 145,495 quotes and an average sum insured of AUD 54,153.80, while males (M) have 104,671 quotes and an average sum insured of AUD 56,638.36. This suggests that, while the number of quotes for females is higher than that for males, males tend to have slightly higher average sum insured values. In terms of the sales conversion rate, females show a higher rate at 25.21% compared to males at 20.09%. This indicates that females have a higher percentage of successful sales relative to the total number of quotes. The null gender category has the lowest conversion rate at 12.68%, which could be due to the absence of specific gender information leading to incomplete or invalid data. These insights are valuable for understanding gender-based trends in insurance sales, including the potential impact of gender on both the average coverage value and the likelihood of converting a quote into a sale."
-    }
+  {
+    "id": 1,
+    "user_query": "What is the average Sum Insured (SI) and sales conversion rate for males vs. females?",
+    "reasoning": "To calculate the average sum insured and sales conversion rate by gender using the unified tblMaster_CIP table, I leveraged the fact that this table already consolidates data from multiple source systems, removing the need for separate joins across FactSalesActivity, DimClient, or other dimensional tables. I focused on entries where Quotes > 0 to ensure that only legitimate leads were considered, avoiding incomplete or abandoned entries. I grouped the data by the Gender column, which is directly available in this table, and calculated the total number of quotes and the number of successful sales by counting rows where Sales = 1. For average sum insured, I used the SumInsured column, averaging it across all quotes for each gender. Since this dataset may still contain multiple records per client due to product pivots (where a client may be declined for a parent product and later sold a child product), I ensured the logic was consistent with the older approach: in a more granular implementation, I would exclude parent product rows when a child product sale exists, using flags derived from the ProductParentChildMapping logic. However, for simplicity in this current master table context, which may already be filtered, I proceeded with only the base filters of Quotes > 0, assuming pivot logic has been handled upstream. The final query grouped by gender and calculated: total quotes, total sales, average sum insured, and sales conversion rate (sales divided by quotes). This approach ensures an accurate and unduplicated view of client outcomes by gender, suitable for executive insights or modeling inputs.",
+    "sql_query": "SELECT \n        m.Gender,\n        COUNT(*) AS TotalQuotes,  -- Total number of quotes for each gender\n        SUM(CASE WHEN m.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales\n        AVG(m.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote\n        CAST(\n            SUM(CASE WHEN m.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) \n            AS DECIMAL(10,4)\n        ) AS SalesConversionRate  -- Sales / Quotes as a decimal\n    FROM \n        [EvolveKPI].[dbo].[tblMaster_CIP] m\n    WHERE \n        m.Quotes > 0  -- Consider only rows where at least one quote was made\n    GROUP BY \n        m.Gender;  -- Aggregate metrics by gender",
+    "output": [
+      {
+        "Gender": null,
+        "TotalQuotes": 625375,
+        "TotalSales": 79327,
+        "Avg_SumInsured": 14211.1696,
+        "SalesConversionRate": 0.1268
+      },
+      {
+        "Gender": "F",
+        "TotalQuotes": 145495,
+        "TotalSales": 36684,
+        "Avg_SumInsured": 54153.799,
+        "SalesConversionRate": 0.2521
+      },
+      {
+        "Gender": "M",
+        "TotalQuotes": 104671,
+        "TotalSales": 21028,
+        "Avg_SumInsured": 56638.3621,
+        "SalesConversionRate": 0.2009
+      }
+    ],
+    "interpretation": "The total number of quotes is significantly higher for the 'null' gender category (625,375), which likely represents unclassified or missing gender data. Among the genders with specified values, females (F) have 145,495 quotes and an average sum insured of AUD 54,153.80, while males (M) have 104,671 quotes and an average sum insured of AUD 56,638.36. This suggests that, while the number of quotes for females is higher than that for males, males tend to have slightly higher average sum insured values. In terms of the sales conversion rate, females show a higher rate at 25.21% compared to males at 20.09%. This indicates that females have a higher percentage of successful sales relative to the total number of quotes. The null gender category has the lowest conversion rate at 12.68%, which could be due to the absence of specific gender information leading to incomplete or invalid data. These insights are valuable for understanding gender-based trends in insurance sales, including the potential impact of gender on both the average coverage value and the likelihood of converting a quote into a sale."
+  },
+  {
+    "id": 2,
+    "user_query": "How does smoker status impact the likelihood of a sale completion and the average finalized Sum Insured (SI)?",
+    "reasoning": "To analyze the impact of smoker status on sales completion and average finalized sum insured, I used the unified tblMaster_CIP table, which consolidates all necessary client, quote, and sales data. This approach eliminates the need for complex joins across multiple tables, as smoker status (IsSmoker), sales outcome (Sales), and sum insured (SumInsured) are all present in this master table. I filtered for records where Quotes > 0 to ensure only valid leads were included. The data was grouped by the IsSmoker column, treating null or missing values as 'Unknown'. For each group, I calculated the total number of quotes, total sales (Sales = 1), total and average sum insured, and the sales conversion rate (total sales divided by total quotes). This method provides a direct and unduplicated view of how smoker status correlates with sales outcomes and coverage values, leveraging the master table's pre-aggregated structure for efficiency and consistency.",
+    "sql_query": "SELECT \n COALESCE(CAST(IsSmoker AS VARCHAR(10)), 'Unknown') AS SmokerStatus,\n COUNT() AS TotalQuotes,\n SUM(CASE WHEN Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,\n CAST(SUM(CASE WHEN Sales = 1 THEN 1.0 ELSE 0 END) / NULLIF(COUNT(), 0) AS DECIMAL(10,4)) AS SalesConversionRate,\n SUM(SumInsured) AS TotalSumInsured,\n CAST(SUM(SumInsured) * 1.0 / NULLIF(COUNT(*), 0) AS DECIMAL(18,2)) AS AverageSumInsured\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0\nGROUP BY IsSmoker;",
+    "output": [
+      {
+        "SmokerStatus": "1",
+        "TotalQuotes": 298721,
+        "TotalSales": 45857,
+        "SalesConversionRate": 0.1535,
+        "TotalSumInsured": 11566390410.0,
+        "AverageSumInsured": 38719.71
+      },
+      {
+        "SmokerStatus": "0",
+        "TotalQuotes": 954316,
+        "TotalSales": 115583,
+        "SalesConversionRate": 0.1211,
+        "TotalSumInsured": 38383131605.0,
+        "AverageSumInsured": 40220.57
+      },
+      {
+        "SmokerStatus": "Unknown",
+        "TotalQuotes": 14140001,
+        "TotalSales": 1273670,
+        "SalesConversionRate": 0.0901,
+        "TotalSumInsured": 131662157029.0,
+        "AverageSumInsured": 9311.33
+      }
+    ],
+    "interpretation": "The data shows that non-smokers (IsSmoker = 0) have the highest number of quotes (954,316) and a slightly higher average sum insured (AUD 40,220.57) compared to smokers (IsSmoker = 1), who have 298,721 quotes and an average sum insured of AUD 38,719.71. However, smokers have a higher sales conversion rate (15.35%) than non-smokers (12.11%), indicating that while fewer smokers apply, they are more likely to convert to a sale. The 'Unknown' category, representing missing or unclassified smoker status, has by far the largest number of quotes (14,140,001) but the lowest conversion rate (9.01%) and the lowest average sum insured (AUD 9,311.33). This suggests that missing smoker status data may be associated with incomplete or lower-quality leads. These insights help quantify the relationship between lifestyle factors and sales outcomes, supporting targeted sales strategies and risk assessment."
+  },
+  {
+    "id": 3,
+    "user_query": "Which sales agents have the highest conversion rates?",
+    "reasoning": "To determine which sales agents have the highest sales conversion rates, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, and agent data. This approach avoids the need for complex joins across FactSalesActivity, DimUserDay, or exclusion tables, as UserID, Sales, and Quotes are all present in the master table. I filtered for records where Quotes > 0 to ensure only valid leads were included. The data was grouped by the UserID column (representing the sales agent). For each agent, I calculated the total number of quotes, total sales (Sales = 1), and the sales conversion rate (total sales divided by total quotes). This method provides a direct and unduplicated view of agent performance, leveraging the master table's structure for efficiency and consistency.",
+    "sql_query": "SELECT \n UserID,\n COUNT() AS TotalQuotes,\n SUM(CASE WHEN Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,\n CAST(SUM(CASE WHEN Sales = 1 THEN 1.0 ELSE 0 END) / NULLIF(COUNT(), 0) AS DECIMAL(10,4)) AS SalesConversionRate\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0\nGROUP BY UserID\nORDER BY SalesConversionRate DESC;",
+    "output": [
+      {
+        "UserID": "CarolC01",
+        "TotalQuotes": 4624,
+        "TotalSales": 1276,
+        "SalesConversionRate": 0.276
+      },
+      {
+        "UserID": "MatthD02",
+        "TotalQuotes": 4641,
+        "TotalSales": 1194,
+        "SalesConversionRate": 0.2573
+      },
+      {
+        "UserID": "JackyT01",
+        "TotalQuotes": 2376,
+        "TotalSales": 579,
+        "SalesConversionRate": 0.2437
+      },
+      {
+        "UserID": "adami01",
+        "TotalQuotes": 705,
+        "TotalSales": 171,
+        "SalesConversionRate": 0.2426
+      },
+      {
+        "UserID": "AbrahA01",
+        "TotalQuotes": 2080,
+        "TotalSales": 479,
+        "SalesConversionRate": 0.2303
+      },
+      {
+        "UserID": "JamieS01",
+        "TotalQuotes": 20973,
+        "TotalSales": 4758,
+        "SalesConversionRate": 0.2269
+      },
+      {
+        "UserID": "DominZ01",
+        "TotalQuotes": 5361,
+        "TotalSales": 1209,
+        "SalesConversionRate": 0.2255
+      },
+      {
+        "UserID": "zohraS01",
+        "TotalQuotes": 23497,
+        "TotalSales": 5289,
+        "SalesConversionRate": 0.2251
+      },
+      {
+        "UserID": "JamesD02",
+        "TotalQuotes": 1700,
+        "TotalSales": 381,
+        "SalesConversionRate": 0.2241
+      },
+      {
+        "UserID": "DidemO01",
+        "TotalQuotes": 15455,
+        "TotalSales": 3434,
+        "SalesConversionRate": 0.2222
+      }
+    ],
+    "interpretation": "The top 10 sales agents by conversion rate are listed above. CarolC01 leads with a conversion rate of 27.60%, followed by MatthD02 (25.73%) and JackyT01 (24.37%). These agents consistently convert a higher proportion of their quotes into sales compared to their peers. The results suggest that these agents may have more effective sales techniques, better lead management, or stronger customer engagement. The conversion rates for the top agents are all above 22%, which is significantly higher than the overall average. This insight can be used for best practice sharing, targeted training, or incentive programs to improve overall sales performance."
+  },
+  {
+    "id": 4,
+    "user_query": "Compare the average finalized SI per agent.",
+    "reasoning": "To compare the average finalized Sum Insured (SI) per sales agent, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, and agent data. This approach avoids the need for complex joins across FactSalesActivity, DimUserDay, or exclusion tables, as UserID, SumInsured, and Quotes are all present in the master table. I filtered for records where Quotes > 0 and SumInsured is not null to ensure only valid leads with finalized SI were included. The data was grouped by the UserID column (representing the sales agent). For each agent, I calculated the total number of quotes, total sum insured, and the average sum insured (total sum insured divided by total quotes). This method provides a direct and unduplicated view of agent performance regarding the value of policies sold, leveraging the master table's structure for efficiency and consistency.",
+    "sql_query": "SELECT \n UserID,\n COUNT() AS TotalQuotes,\n SUM(SumInsured) AS TotalSumInsured,\n CAST(SUM(SumInsured) * 1.0 / NULLIF(COUNT(), 0) AS DECIMAL(18,2)) AS AverageSumInsured\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0 AND SumInsured IS NOT NULL\nGROUP BY UserID\nORDER BY AverageSumInsured DESC;",
+    "output": [
+      {
+        "UserID": "RitaB01",
+        "TotalQuotes": 9176,
+        "TotalSumInsured": 697145964.0,
+        "AverageSumInsured": 75974.93
+      },
+      {
+        "UserID": "AmyG02",
+        "TotalQuotes": 11200,
+        "TotalSumInsured": 821463305.0,
+        "AverageSumInsured": 73344.94
+      },
+      {
+        "UserID": "WhendC01",
+        "TotalQuotes": 5100,
+        "TotalSumInsured": 292923000.0,
+        "AverageSumInsured": 57435.88
+      },
+      {
+        "UserID": "Antong01",
+        "TotalQuotes": 4309,
+        "TotalSumInsured": 238849251.0,
+        "AverageSumInsured": 55430.32
+      },
+      {
+        "UserID": "JamieS01",
+        "TotalQuotes": 20973,
+        "TotalSumInsured": 1077559890.0,
+        "AverageSumInsured": 51378.43
+      },
+      {
+        "UserID": "CamerJ01",
+        "TotalQuotes": 5108,
+        "TotalSumInsured": 252818500.0,
+        "AverageSumInsured": 49494.62
+      },
+      {
+        "UserID": "AlfreA01",
+        "TotalQuotes": 36296,
+        "TotalSumInsured": 1737719798.0,
+        "AverageSumInsured": 47876.34
+      },
+      {
+        "UserID": "MatthD02",
+        "TotalQuotes": 4641,
+        "TotalSumInsured": 219813000.0,
+        "AverageSumInsured": 47363.28
+      },
+      {
+        "UserID": "Rachel03",
+        "TotalQuotes": 6643,
+        "TotalSumInsured": 309598264.0,
+        "AverageSumInsured": 46605.19
+      },
+      {
+        "UserID": "Andreh02",
+        "TotalQuotes": 8637,
+        "TotalSumInsured": 401628709.0,
+        "AverageSumInsured": 46500.95
+      }
+    ],
+    "interpretation": "The top 10 sales agents by average finalized sum insured are listed above. RitaB01 leads with an average SI of AUD 75,974.93, followed by AmyG02 (AUD 73,344.94) and WhendC01 (AUD 57,435.88). These agents consistently sell higher-value policies compared to their peers. The results suggest that these agents may be more effective at upselling, targeting higher-value customers, or working in segments with larger policy sizes. This insight can be used for best practice sharing, targeted training, or incentive programs to improve overall sales value."
+  },
+  {
+    "id": 5,
+    "user_query": "Which specific underwriting topics (e.g., pre-existing conditions, family history mentioned in calls) most frequently lead to non-conversion?",
+    "reasoning": "To identify the underwriting topics that most frequently lead to non-conversion, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, underwriting, and client data. This approach avoids the need for complex joins across FactSalesActivity, FactUWAction, or ProductParentChildMapping, as all necessary fields—Section, Question, DeclineReason, Sales, Quotes, IsDecline, IsCurrent—are present in the master table. I filtered for records where Sales = 0 (no sale), Quotes > 0 (valid lead), IsDecline = 1 (underwriting decline), IsCurrent = 1 (latest application), and UWAppStatus = 'Declined' and QuestionSetInstanceStatus = 'Complete' to ensure only genuine, finalized declines were included. The data was grouped by Section, Question, and DeclineReason to pinpoint the specific underwriting topics and reasons that most often result in a lost sale. For each group, I calculated the number of unique clients (DeclinedClients_NoSales) and unique quotes (AffectedQuotes) affected. This method provides a direct, unduplicated view of the underwriting bottlenecks in the sales process, leveraging the master table's structure for efficiency, accuracy, and consistency. This approach also ensures that only the most recent and relevant decline per client is counted, avoiding overcounting due to multiple applications or product pivots.",
+    "sql_query": "SELECT \n Section,\n Question,\n DeclineReason,\n COUNT(DISTINCT ClientID) AS DeclinedClients_NoSales,\n COUNT(DISTINCT QuoteID) AS AffectedQuotes\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Sales = 0\n AND Quotes > 0\n AND IsDecline = 1\n AND IsCurrent = 1\n AND UWAppStatus = 'Declined'\n AND QuestionSetInstanceStatus = 'Complete'\nGROUP BY Section, Question, DeclineReason\nORDER BY DeclinedClients_NoSales DESC;",
+    "output": [
+      {
+        "Section": "G - Medical History",
+        "Question": "BMI",
+        "declinereason": "Due to Raised BMI and Diabetes.",
+        "DeclinedClients_NoSales": 4145,
+        "AffectedQuotes": 13730
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is your condition a form of schizophrenia, bipolar or psychotic disorder?",
+        "declinereason": "Schizophrenia, bipolar or psychotic disorder",
+        "DeclinedClients_NoSales": 2101,
+        "AffectedQuotes": 7083
+      },
+      {
+        "Section": "C - Height-weight",
+        "Question": "BMI",
+        "declinereason": "due to BMI > 45",
+        "DeclinedClients_NoSales": 1958,
+        "AffectedQuotes": 8553
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Was your condition diagnosed to be heart related?",
+        "declinereason": "Chest Pain, Condition diagnosed as Heart Related",
+        "DeclinedClients_NoSales": 1954,
+        "AffectedQuotes": 6128
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is it a congenital heart condition? (i.e. diagnosed at birth)",
+        "declinereason": "Due to Not Congenital heart condition",
+        "DeclinedClients_NoSales": 1894,
+        "AffectedQuotes": 6864
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "What type of hepatitis have you had or are currently suffering from?",
+        "declinereason": "Hepatitis B or C",
+        "DeclinedClients_NoSales": 1755,
+        "AffectedQuotes": 5443
+      },
+      {
+        "Section": "C - Height-weight",
+        "Question": "BMI",
+        "declinereason": "Due to BMI (> 45)",
+        "DeclinedClients_NoSales": 1729,
+        "AffectedQuotes": 5578
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is it a congenital heart condition? (i.e. diagnosed at birth)",
+        "declinereason": "Due to heart condition",
+        "DeclinedClients_NoSales": 1563,
+        "AffectedQuotes": 4369
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Was it another form of cancer, leukemia, melanoma, brain/bone tumour or malignant tumour?",
+        "declinereason": "Other form of cancer",
+        "DeclinedClients_NoSales": 1486,
+        "AffectedQuotes": 5303
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is your condition a form of schizophrenia or bipolar disorder ?",
+        "declinereason": "Schizophrenia or Bipolar disorder",
+        "DeclinedClients_NoSales": 1163,
+        "AffectedQuotes": 4314
+      }
+    ],
+    "interpretation": "The underwriting topics most frequently leading to non-conversion are primarily related to medical history and biometric factors. Raised BMI (Body Mass Index), especially when combined with diabetes or when BMI exceeds 45, is the most common reason for decline, affecting thousands of clients and quotes. Mental health conditions such as schizophrenia, bipolar, or psychotic disorders, as well as heart-related diagnoses and congenital heart conditions, are also major contributors to lost sales. Other significant decline reasons include hepatitis B or C and a history of certain cancers. These findings highlight the underwriting criteria that act as the biggest barriers to conversion, providing actionable insights for product design, risk management, and targeted customer communication. Addressing or segmenting these high-decline topics could improve overall sales conversion and customer experience."
+  }
 ]
