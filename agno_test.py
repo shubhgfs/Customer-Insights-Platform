@@ -22,7 +22,7 @@ storage = SqliteStorage(
 # Import and read context from JSON file
 with open(r'agent_config.json', 'r') as f:
     file = json.load(f)
-    agent_config = file['agent_config']  # Get the agent configuration
+    agent_config = file['agent_config']
 
 http = httpx.Client(verify=False)
 
@@ -68,29 +68,19 @@ agent = Agent(
     name="SQL Analyst Agent",
     model=azure_model,
     tools=[sql_tool, ReasoningTools(add_instructions=True)],
-    
-    # System message settings from context.json
     system_message_role="system",
     system_message=agent_config.get('system_message', None),
-    
-    # Description, goal, and instructions from context.json
     description=agent_config.get('description', None),
     goal=agent_config.get('goal', None),
     instructions=agent_config.get('instructions', None),
     expected_output=agent_config.get('expected_output', None),
-
-    # Add context
     context=agent_config.get('context', None),
     add_context=True,
     resolve_context=True,
-
-    # Include conversation history to build context
     add_history_to_messages=True,
     num_history_runs=10,
     read_chat_history=True,
     read_tool_call_history=True,
-
-    # Optional enhancements
     markdown=True,
     add_name_to_instructions=True,
     add_datetime_to_instructions=True,
