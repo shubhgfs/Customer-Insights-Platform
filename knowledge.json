@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "user_query": "What is the average Sum Insured (SI) and sales conversion rate for males vs. females?",
+        "reasoning" : "To calculate the average sum insured and sales conversion rate by gender using the unified tblMaster_CIP table, I leveraged the fact that this table already consolidates data from multiple source systems, removing the need for separate joins across FactSalesActivity, DimClient, or other dimensional tables. I focused on entries where Quotes > 0 to ensure that only legitimate leads were considered, avoiding incomplete or abandoned entries. I grouped the data by the Gender column, which is directly available in this table, and calculated the total number of quotes and the number of successful sales by counting rows where Sales = 1. For average sum insured, I used the SumInsured column, averaging it across all quotes for each gender. Since this dataset may still contain multiple records per client due to product pivots (where a client may be declined for a parent product and later sold a child product), I ensured the logic was consistent with the older approach: in a more granular implementation, I would exclude parent product rows when a child product sale exists, using flags derived from the ProductParentChildMapping logic. However, for simplicity in this current master table context, which may already be filtered, I proceeded with only the base filters of Quotes > 0, assuming pivot logic has been handled upstream. The final query grouped by gender and calculated: total quotes, total sales, average sum insured, and sales conversion rate (sales divided by quotes). This approach ensures an accurate and unduplicated view of client outcomes by gender, suitable for executive insights or modeling inputs.",
+        "sql_query": "SELECT \n        m.Gender,\n        COUNT(*) AS TotalQuotes,  -- Total number of quotes for each gender\n        SUM(CASE WHEN m.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales\n        AVG(m.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote\n        CAST(\n            SUM(CASE WHEN m.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) \n            AS DECIMAL(10,4)\n        ) AS SalesConversionRate  -- Sales / Quotes as a decimal\n    FROM \n        [EvolveKPI].[dbo].[tblMaster_CIP] m\n    WHERE \n        m.Quotes > 0  -- Consider only rows where at least one quote was made\n    GROUP BY \n        m.Gender;  -- Aggregate metrics by gender",
+        "output" :[
+            {
+              "Gender": null,
+              "TotalQuotes": 625375,
+              "TotalSales": 79327,
+              "Avg_SumInsured": 14211.1696,
+              "SalesConversionRate": 0.1268
+            },
+            {
+              "Gender": "F",
+              "TotalQuotes": 145495,
+              "TotalSales": 36684,
+              "Avg_SumInsured": 54153.799,
+              "SalesConversionRate": 0.2521
+            },
+            {
+              "Gender": "M",
+              "TotalQuotes": 104671,
+              "TotalSales": 21028,
+              "Avg_SumInsured": 56638.3621,
+              "SalesConversionRate": 0.2009
+            }
+          ],
+        "interpretation": "The total number of quotes is significantly higher for the 'null' gender category (625,375), which likely represents unclassified or missing gender data. Among the genders with specified values, females (F) have 145,495 quotes and an average sum insured of AUD 54,153.80, while males (M) have 104,671 quotes and an average sum insured of AUD 56,638.36. This suggests that, while the number of quotes for females is higher than that for males, males tend to have slightly higher average sum insured values. In terms of the sales conversion rate, females show a higher rate at 25.21% compared to males at 20.09%. This indicates that females have a higher percentage of successful sales relative to the total number of quotes. The null gender category has the lowest conversion rate at 12.68%, which could be due to the absence of specific gender information leading to incomplete or invalid data. These insights are valuable for understanding gender-based trends in insurance sales, including the potential impact of gender on both the average coverage value and the likelihood of converting a quote into a sale."
+    }
+]
