@@ -89,7 +89,7 @@ agent = Agent(
     add_references=True,
     storage=storage,
     show_tool_calls=True,
-    reasoning=False,
+    reasoning=True,
     read_chat_history=True,
     read_tool_call_history=True,
     system_message_role="system",
@@ -102,7 +102,7 @@ agent = Agent(
     add_name_to_instructions=True,
     add_datetime_to_instructions=True,
     timezone_identifier="Australia/Sydney",
-    add_state_in_messages=False,
+    add_state_in_messages=True,
     monitoring=True,
 )
 
