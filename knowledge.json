@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "user_query": "What is the average Sum Insured (SI) and sales conversion rate for males vs. females?",
+    "reasoning": "To calculate the average sum insured and sales conversion rate by gender using the unified tblMaster_CIP table, I leveraged the fact that this table already consolidates data from multiple source systems, removing the need for separate joins across FactSalesActivity, DimClient, or other dimensional tables. I focused on entries where Quotes > 0 to ensure that only legitimate leads were considered, avoiding incomplete or abandoned entries. I grouped the data by the Gender column, which is directly available in this table, and calculated the total number of quotes and the number of successful sales by counting rows where Sales = 1. For average sum insured, I used the SumInsured column, averaging it across all quotes for each gender. Since this dataset may still contain multiple records per client due to product pivots (where a client may be declined for a parent product and later sold a child product), I ensured the logic was consistent with the older approach: in a more granular implementation, I would exclude parent product rows when a child product sale exists, using flags derived from the ProductParentChildMapping logic. However, for simplicity in this current master table context, which may already be filtered, I proceeded with only the base filters of Quotes > 0, assuming pivot logic has been handled upstream. The final query grouped by gender and calculated: total quotes, total sales, average sum insured, and sales conversion rate (sales divided by quotes). This approach ensures an accurate and unduplicated view of client outcomes by gender, suitable for executive insights or modeling inputs.",
+    "sql_query": "SELECT \n        m.Gender,\n        COUNT(*) AS TotalQuotes,  -- Total number of quotes for each gender\n        SUM(CASE WHEN m.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales\n        AVG(m.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote\n        CAST(\n            SUM(CASE WHEN m.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) \n            AS DECIMAL(10,4)\n        ) AS SalesConversionRate  -- Sales / Quotes as a decimal\n    FROM \n        [EvolveKPI].[dbo].[tblMaster_CIP] m\n    WHERE \n        m.Quotes > 0  -- Consider only rows where at least one quote was made\n    GROUP BY \n        m.Gender;  -- Aggregate metrics by gender",
+    "output": [
+      {
+        "Gender": null,
+        "TotalQuotes": 625375,
+        "TotalSales": 79327,
+        "Avg_SumInsured": 14211.1696,
+        "SalesConversionRate": 0.1268
+      },
+      {
+        "Gender": "F",
+        "TotalQuotes": 145495,
+        "TotalSales": 36684,
+        "Avg_SumInsured": 54153.799,
+        "SalesConversionRate": 0.2521
+      },
+      {
+        "Gender": "M",
+        "TotalQuotes": 104671,
+        "TotalSales": 21028,
+        "Avg_SumInsured": 56638.3621,
+        "SalesConversionRate": 0.2009
+      }
+    ],
+    "interpretation": "The total number of quotes is significantly higher for the 'null' gender category (625,375), which likely represents unclassified or missing gender data. Among the genders with specified values, females (F) have 145,495 quotes and an average sum insured of AUD 54,153.80, while males (M) have 104,671 quotes and an average sum insured of AUD 56,638.36. This suggests that, while the number of quotes for females is higher than that for males, males tend to have slightly higher average sum insured values. In terms of the sales conversion rate, females show a higher rate at 25.21% compared to males at 20.09%. This indicates that females have a higher percentage of successful sales relative to the total number of quotes. The null gender category has the lowest conversion rate at 12.68%, which could be due to the absence of specific gender information leading to incomplete or invalid data. These insights are valuable for understanding gender-based trends in insurance sales, including the potential impact of gender on both the average coverage value and the likelihood of converting a quote into a sale."
+  },
+  {
+    "id": 2,
+    "user_query": "How does smoker status impact the likelihood of a sale completion and the average finalized Sum Insured (SI)?",
+    "reasoning": "To analyze the impact of smoker status on sales completion and average finalized sum insured, I used the unified tblMaster_CIP table, which consolidates all necessary client, quote, and sales data. This approach eliminates the need for complex joins across multiple tables, as smoker status (IsSmoker), sales outcome (Sales), and sum insured (SumInsured) are all present in this master table. I filtered for records where Quotes > 0 to ensure only valid leads were included. The data was grouped by the IsSmoker column, treating null or missing values as 'Unknown'. For each group, I calculated the total number of quotes, total sales (Sales = 1), total and average sum insured, and the sales conversion rate (total sales divided by total quotes). This method provides a direct and unduplicated view of how smoker status correlates with sales outcomes and coverage values, leveraging the master table's pre-aggregated structure for efficiency and consistency.",
+    "sql_query": "SELECT \n COALESCE(CAST(IsSmoker AS VARCHAR(10)), 'Unknown') AS SmokerStatus,\n COUNT() AS TotalQuotes,\n SUM(CASE WHEN Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,\n CAST(SUM(CASE WHEN Sales = 1 THEN 1.0 ELSE 0 END) / NULLIF(COUNT(), 0) AS DECIMAL(10,4)) AS SalesConversionRate,\n SUM(SumInsured) AS TotalSumInsured,\n CAST(SUM(SumInsured) * 1.0 / NULLIF(COUNT(*), 0) AS DECIMAL(18,2)) AS AverageSumInsured\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0\nGROUP BY IsSmoker;",
+    "output": [
+      {
+        "SmokerStatus": "1",
+        "TotalQuotes": 298721,
+        "TotalSales": 45857,
+        "SalesConversionRate": 0.1535,
+        "TotalSumInsured": 11566390410.0,
+        "AverageSumInsured": 38719.71
+      },
+      {
+        "SmokerStatus": "0",
+        "TotalQuotes": 954316,
+        "TotalSales": 115583,
+        "SalesConversionRate": 0.1211,
+        "TotalSumInsured": 38383131605.0,
+        "AverageSumInsured": 40220.57
+      },
+      {
+        "SmokerStatus": "Unknown",
+        "TotalQuotes": 14140001,
+        "TotalSales": 1273670,
+        "SalesConversionRate": 0.0901,
+        "TotalSumInsured": 131662157029.0,
+        "AverageSumInsured": 9311.33
+      }
+    ],
+    "interpretation": "The data shows that non-smokers (IsSmoker = 0) have the highest number of quotes (954,316) and a slightly higher average sum insured (AUD 40,220.57) compared to smokers (IsSmoker = 1), who have 298,721 quotes and an average sum insured of AUD 38,719.71. However, smokers have a higher sales conversion rate (15.35%) than non-smokers (12.11%), indicating that while fewer smokers apply, they are more likely to convert to a sale. The 'Unknown' category, representing missing or unclassified smoker status, has by far the largest number of quotes (14,140,001) but the lowest conversion rate (9.01%) and the lowest average sum insured (AUD 9,311.33). This suggests that missing smoker status data may be associated with incomplete or lower-quality leads. These insights help quantify the relationship between lifestyle factors and sales outcomes, supporting targeted sales strategies and risk assessment."
+  },
+  {
+    "id": 3,
+    "user_query": "Which sales agents have the highest conversion rates?",
+    "reasoning": "To determine which sales agents have the highest sales conversion rates, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, and agent data. This approach avoids the need for complex joins across FactSalesActivity, DimUserDay, or exclusion tables, as UserID, Sales, and Quotes are all present in the master table. I filtered for records where Quotes > 0 to ensure only valid leads were included. The data was grouped by the UserID column (representing the sales agent). For each agent, I calculated the total number of quotes, total sales (Sales = 1), and the sales conversion rate (total sales divided by total quotes). This method provides a direct and unduplicated view of agent performance, leveraging the master table's structure for efficiency and consistency.",
+    "sql_query": "SELECT \n UserID,\n COUNT() AS TotalQuotes,\n SUM(CASE WHEN Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,\n CAST(SUM(CASE WHEN Sales = 1 THEN 1.0 ELSE 0 END) / NULLIF(COUNT(), 0) AS DECIMAL(10,4)) AS SalesConversionRate\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0\nGROUP BY UserID\nORDER BY SalesConversionRate DESC;",
+    "output": [
+      {
+        "UserID": "CarolC01",
+        "TotalQuotes": 4624,
+        "TotalSales": 1276,
+        "SalesConversionRate": 0.276
+      },
+      {
+        "UserID": "MatthD02",
+        "TotalQuotes": 4641,
+        "TotalSales": 1194,
+        "SalesConversionRate": 0.2573
+      },
+      {
+        "UserID": "JackyT01",
+        "TotalQuotes": 2376,
+        "TotalSales": 579,
+        "SalesConversionRate": 0.2437
+      },
+      {
+        "UserID": "adami01",
+        "TotalQuotes": 705,
+        "TotalSales": 171,
+        "SalesConversionRate": 0.2426
+      },
+      {
+        "UserID": "AbrahA01",
+        "TotalQuotes": 2080,
+        "TotalSales": 479,
+        "SalesConversionRate": 0.2303
+      },
+      {
+        "UserID": "JamieS01",
+        "TotalQuotes": 20973,
+        "TotalSales": 4758,
+        "SalesConversionRate": 0.2269
+      },
+      {
+        "UserID": "DominZ01",
+        "TotalQuotes": 5361,
+        "TotalSales": 1209,
+        "SalesConversionRate": 0.2255
+      },
+      {
+        "UserID": "zohraS01",
+        "TotalQuotes": 23497,
+        "TotalSales": 5289,
+        "SalesConversionRate": 0.2251
+      },
+      {
+        "UserID": "JamesD02",
+        "TotalQuotes": 1700,
+        "TotalSales": 381,
+        "SalesConversionRate": 0.2241
+      },
+      {
+        "UserID": "DidemO01",
+        "TotalQuotes": 15455,
+        "TotalSales": 3434,
+        "SalesConversionRate": 0.2222
+      }
+    ],
+    "interpretation": "The top 10 sales agents by conversion rate are listed above. CarolC01 leads with a conversion rate of 27.60%, followed by MatthD02 (25.73%) and JackyT01 (24.37%). These agents consistently convert a higher proportion of their quotes into sales compared to their peers. The results suggest that these agents may have more effective sales techniques, better lead management, or stronger customer engagement. The conversion rates for the top agents are all above 22%, which is significantly higher than the overall average. This insight can be used for best practice sharing, targeted training, or incentive programs to improve overall sales performance."
+  },
+  {
+    "id": 4,
+    "user_query": "Compare the average finalized SI per agent.",
+    "reasoning": "To compare the average finalized Sum Insured (SI) per sales agent, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, and agent data. This approach avoids the need for complex joins across FactSalesActivity, DimUserDay, or exclusion tables, as UserID, SumInsured, and Quotes are all present in the master table. I filtered for records where Quotes > 0 and SumInsured is not null to ensure only valid leads with finalized SI were included. The data was grouped by the UserID column (representing the sales agent). For each agent, I calculated the total number of quotes, total sum insured, and the average sum insured (total sum insured divided by total quotes). This method provides a direct and unduplicated view of agent performance regarding the value of policies sold, leveraging the master table's structure for efficiency and consistency.",
+    "sql_query": "SELECT \n UserID,\n COUNT() AS TotalQuotes,\n SUM(SumInsured) AS TotalSumInsured,\n CAST(SUM(SumInsured) * 1.0 / NULLIF(COUNT(), 0) AS DECIMAL(18,2)) AS AverageSumInsured\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Quotes > 0 AND SumInsured IS NOT NULL\nGROUP BY UserID\nORDER BY AverageSumInsured DESC;",
+    "output": [
+      {
+        "UserID": "RitaB01",
+        "TotalQuotes": 9176,
+        "TotalSumInsured": 697145964.0,
+        "AverageSumInsured": 75974.93
+      },
+      {
+        "UserID": "AmyG02",
+        "TotalQuotes": 11200,
+        "TotalSumInsured": 821463305.0,
+        "AverageSumInsured": 73344.94
+      },
+      {
+        "UserID": "WhendC01",
+        "TotalQuotes": 5100,
+        "TotalSumInsured": 292923000.0,
+        "AverageSumInsured": 57435.88
+      },
+      {
+        "UserID": "Antong01",
+        "TotalQuotes": 4309,
+        "TotalSumInsured": 238849251.0,
+        "AverageSumInsured": 55430.32
+      },
+      {
+        "UserID": "JamieS01",
+        "TotalQuotes": 20973,
+        "TotalSumInsured": 1077559890.0,
+        "AverageSumInsured": 51378.43
+      },
+      {
+        "UserID": "CamerJ01",
+        "TotalQuotes": 5108,
+        "TotalSumInsured": 252818500.0,
+        "AverageSumInsured": 49494.62
+      },
+      {
+        "UserID": "AlfreA01",
+        "TotalQuotes": 36296,
+        "TotalSumInsured": 1737719798.0,
+        "AverageSumInsured": 47876.34
+      },
+      {
+        "UserID": "MatthD02",
+        "TotalQuotes": 4641,
+        "TotalSumInsured": 219813000.0,
+        "AverageSumInsured": 47363.28
+      },
+      {
+        "UserID": "Rachel03",
+        "TotalQuotes": 6643,
+        "TotalSumInsured": 309598264.0,
+        "AverageSumInsured": 46605.19
+      },
+      {
+        "UserID": "Andreh02",
+        "TotalQuotes": 8637,
+        "TotalSumInsured": 401628709.0,
+        "AverageSumInsured": 46500.95
+      }
+    ],
+    "interpretation": "The top 10 sales agents by average finalized sum insured are listed above. RitaB01 leads with an average SI of AUD 75,974.93, followed by AmyG02 (AUD 73,344.94) and WhendC01 (AUD 57,435.88). These agents consistently sell higher-value policies compared to their peers. The results suggest that these agents may be more effective at upselling, targeting higher-value customers, or working in segments with larger policy sizes. This insight can be used for best practice sharing, targeted training, or incentive programs to improve overall sales value."
+  },
+  {
+    "id": 5,
+    "user_query": "Which specific underwriting topics (e.g., pre-existing conditions, family history mentioned in calls) most frequently lead to non-conversion?",
+    "reasoning": "To identify the underwriting topics that most frequently lead to non-conversion, I used the unified tblMaster_CIP table, which consolidates all relevant sales, quote, underwriting, and client data. This approach avoids the need for complex joins across FactSalesActivity, FactUWAction, or ProductParentChildMapping, as all necessary fields—Section, Question, DeclineReason, Sales, Quotes, IsDecline, IsCurrent—are present in the master table. I filtered for records where Sales = 0 (no sale), Quotes > 0 (valid lead), IsDecline = 1 (underwriting decline), IsCurrent = 1 (latest application), and UWAppStatus = 'Declined' and QuestionSetInstanceStatus = 'Complete' to ensure only genuine, finalized declines were included. The data was grouped by Section, Question, and DeclineReason to pinpoint the specific underwriting topics and reasons that most often result in a lost sale. For each group, I calculated the number of unique clients (DeclinedClients_NoSales) and unique quotes (AffectedQuotes) affected. This method provides a direct, unduplicated view of the underwriting bottlenecks in the sales process, leveraging the master table's structure for efficiency, accuracy, and consistency. This approach also ensures that only the most recent and relevant decline per client is counted, avoiding overcounting due to multiple applications or product pivots.",
+    "sql_query": "SELECT \n Section,\n Question,\n DeclineReason,\n COUNT(DISTINCT ClientID) AS DeclinedClients_NoSales,\n COUNT(DISTINCT QuoteID) AS AffectedQuotes\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE Sales = 0\n AND Quotes > 0\n AND IsDecline = 1\n AND IsCurrent = 1\n AND UWAppStatus = 'Declined'\n AND QuestionSetInstanceStatus = 'Complete'\nGROUP BY Section, Question, DeclineReason\nORDER BY DeclinedClients_NoSales DESC;",
+    "output": [
+      {
+        "Section": "G - Medical History",
+        "Question": "BMI",
+        "declinereason": "Due to Raised BMI and Diabetes.",
+        "DeclinedClients_NoSales": 4145,
+        "AffectedQuotes": 13730
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is your condition a form of schizophrenia, bipolar or psychotic disorder?",
+        "declinereason": "Schizophrenia, bipolar or psychotic disorder",
+        "DeclinedClients_NoSales": 2101,
+        "AffectedQuotes": 7083
+      },
+      {
+        "Section": "C - Height-weight",
+        "Question": "BMI",
+        "declinereason": "due to BMI > 45",
+        "DeclinedClients_NoSales": 1958,
+        "AffectedQuotes": 8553
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Was your condition diagnosed to be heart related?",
+        "declinereason": "Chest Pain, Condition diagnosed as Heart Related",
+        "DeclinedClients_NoSales": 1954,
+        "AffectedQuotes": 6128
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is it a congenital heart condition? (i.e. diagnosed at birth)",
+        "declinereason": "Due to Not Congenital heart condition",
+        "DeclinedClients_NoSales": 1894,
+        "AffectedQuotes": 6864
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "What type of hepatitis have you had or are currently suffering from?",
+        "declinereason": "Hepatitis B or C",
+        "DeclinedClients_NoSales": 1755,
+        "AffectedQuotes": 5443
+      },
+      {
+        "Section": "C - Height-weight",
+        "Question": "BMI",
+        "declinereason": "Due to BMI (> 45)",
+        "DeclinedClients_NoSales": 1729,
+        "AffectedQuotes": 5578
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is it a congenital heart condition? (i.e. diagnosed at birth)",
+        "declinereason": "Due to heart condition",
+        "DeclinedClients_NoSales": 1563,
+        "AffectedQuotes": 4369
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Was it another form of cancer, leukemia, melanoma, brain/bone tumour or malignant tumour?",
+        "declinereason": "Other form of cancer",
+        "DeclinedClients_NoSales": 1486,
+        "AffectedQuotes": 5303
+      },
+      {
+        "Section": "G - Medical History",
+        "Question": "Is your condition a form of schizophrenia or bipolar disorder ?",
+        "declinereason": "Schizophrenia or Bipolar disorder",
+        "DeclinedClients_NoSales": 1163,
+        "AffectedQuotes": 4314
+      }
+    ],
+    "interpretation": "The underwriting topics most frequently leading to non-conversion are primarily related to medical history and biometric factors. Raised BMI (Body Mass Index), especially when combined with diabetes or when BMI exceeds 45, is the most common reason for decline, affecting thousands of clients and quotes. Mental health conditions such as schizophrenia, bipolar, or psychotic disorders, as well as heart-related diagnoses and congenital heart conditions, are also major contributors to lost sales. Other significant decline reasons include hepatitis B or C and a history of certain cancers. These findings highlight the underwriting criteria that act as the biggest barriers to conversion, providing actionable insights for product design, risk management, and targeted customer communication. Addressing or segmenting these high-decline topics could improve overall sales conversion and customer experience."
+  },
+  {
+    "id": 6,
+    "user_query": "Which brands and product types generate the highest average annual revenue per application (ARRA)?",
+    "reasoning": "To identify the most profitable combinations of brands and product types, I used the unified `tblMaster_CIP` table, which consolidates application, sales, product, and financial data. The key metric of interest here is ARRA (Average Revenue per Application), which reflects the annualized value derived from each application. Grouping the data by `Brand` and `ProductType` allows us to evaluate revenue performance at a granular product level across the business. Using the `AVG(ARRA)` function ensures we capture a normalized view of performance, rather than being skewed by volume alone. This approach provides strategic insights into which offerings deliver the most value, informing both underwriting and marketing decisions.",
+    "sql_query": "SELECT Brand, ProductType, AVG(ARRA) AS AvgRevenue\nFROM tblMaster_CIP\nGROUP BY Brand, ProductType\nORDER BY AvgRevenue DESC;",
+    "output": [
+      {
+        "Brand": "Kogan",
+        "ProductType": "Life",
+        "AvgRevenue": 9236.73476785645
+      },
+      {
+        "Brand": "Guardian",
+        "ProductType": "Life",
+        "AvgRevenue": 9115.655695603546
+      },
+      {
+        "Brand": "Real",
+        "ProductType": "Life",
+        "AvgRevenue": 8329.276396713698
+      },
+      { "Brand": null, "ProductType": "Life", "AvgRevenue": 6831.031857632103 },
+      {
+        "Brand": "ASIA",
+        "ProductType": "Life",
+        "AvgRevenue": 6220.566948747559
+      },
+      {
+        "Brand": "NZ Seniors",
+        "ProductType": "Life",
+        "AvgRevenue": 5539.831876666666
+      },
+      {
+        "Brand": "Medibank",
+        "ProductType": "Life",
+        "AvgRevenue": 5048.657820923116
+      },
+      {
+        "Brand": "ahm",
+        "ProductType": "Life",
+        "AvgRevenue": 4400.135005668618
+      },
+      {
+        "Brand": "Woolworths",
+        "ProductType": "Life",
+        "AvgRevenue": 4018.0126705213374
+      },
+      {
+        "Brand": "ASIA",
+        "ProductType": "Term Life",
+        "AvgRevenue": 3488.518682609955
+      }
+    ],
+    "interpretation": "The data shows that the highest average annual revenue per application (ARRA) is generated by the \"Life\" product type across several brands, with Kogan and Guardian leading the list. This suggests that \"Life\" insurance products are the most lucrative in terms of revenue per application, especially for these brands. Term Life and Funeral products also perform well for certain brands, but with lower ARRA compared to Life products. Brands with missing or null values for ARRA may indicate either insufficient data or product lines that are not significant revenue contributors. These insights can help prioritize marketing and product development efforts towards the most profitable brand-product combinations."
+  },
+  {
+  "id": 7,
+  "user_query": "Which sales teams have the highest completion rates for underwriting applications, and how does it correlate with sales performance?",
+  "reasoning": "The field `UWAppStatus` contains multiple granular outcomes for underwriting, but only a select group of statuses (e.g., 'Completed', 'Sale', and other 'UW - Complete' variants) represent successfully processed underwriting applications. By filtering for these, we measure true UW follow-through. Comparing this completion rate with actual sales performance (i.e., number of completed sales and their conversion rate from UW completions) provides insight into which sales teams not only push applications through underwriting but also convert them into revenue. This is valuable for assessing training needs, identifying best practices, and understanding operational bottlenecks across teams.",
+  "sql_query": "SELECT\n    TeamName,\n    SUM(CASE WHEN UWAppStatus IN (\n            'Completed',\n            'Sale',\n            'UW - Complete - Client undecided',\n            'UW - Complete - Client not interested'\n        ) THEN 1 ELSE 0 END) AS UW_Completed_Apps,\n\n    SUM(CASE WHEN UWAppStatus IS NOT NULL \n          AND UWAppStatus NOT IN ('Expired')\n        THEN 1 ELSE 0 END) AS Total_Apps,\n\n    ROUND(\n        1.0 * SUM(CASE WHEN UWAppStatus IN (\n                'Completed',\n                'Sale',\n                'UW - Complete - Client undecided',\n                'UW - Complete - Client not interested'\n            ) THEN 1 ELSE 0 END)\n        /\n        NULLIF(SUM(CASE WHEN UWAppStatus IS NOT NULL \n                  AND UWAppStatus NOT IN ('Expired')\n                THEN 1 ELSE 0 END), 0), \n        4\n    ) AS UW_Completion_Rate,\n\n    SUM(CASE WHEN Sales > 0 THEN 1 ELSE 0 END) AS Sales_Completed,\n\n    ROUND(\n        1.0 * SUM(CASE WHEN Sales > 0 THEN 1 ELSE 0 END) /\n        NULLIF(SUM(CASE WHEN UWAppStatus IN (\n                    'Completed',\n                    'Sale',\n                    'UW - Complete - Client undecided',\n                    'UW - Complete - Client not interested'\n                ) THEN 1 ELSE 0 END), 0), 4\n    ) AS Sale_Conversion_Rate\nFROM evolvekpi.dbo.tblMaster_CIP\nWHERE IsCurrent = 1\nGROUP BY TeamName\nORDER BY UW_Completion_Rate DESC;",
+  "output": [
+    {
+      "TeamName": "Saab",
+      "UW_Completed_Apps": 149,
+      "Total_Apps": 240,
+      "UW_Completion_Rate": 0.6208,
+      "Sales_Completed": 46,
+      "Sale_Conversion_Rate": 0.3087
+    },
+    {
+      "TeamName": "Online GI",
+      "UW_Completed_Apps": 286,
+      "Total_Apps": 507,
+      "UW_Completion_Rate": 0.5641,
+      "Sales_Completed": 54,
+      "Sale_Conversion_Rate": 0.1888
+    },
+    {
+      "TeamName": "Ranger",
+      "UW_Completed_Apps": 20575,
+      "Total_Apps": 45660,
+      "UW_Completion_Rate": 0.4506,
+      "Sales_Completed": 9435,
+      "Sale_Conversion_Rate": 0.4586
+    },
+    {
+      "TeamName": "Triton",
+      "UW_Completed_Apps": 20210,
+      "Total_Apps": 46625,
+      "UW_Completion_Rate": 0.4335,
+      "Sales_Completed": 9476,
+      "Sale_Conversion_Rate": 0.4689
+    },
+    {
+      "TeamName": "Land Rover",
+      "UW_Completed_Apps": 2953,
+      "Total_Apps": 7112,
+      "UW_Completion_Rate": 0.4152,
+      "Sales_Completed": 1528,
+      "Sale_Conversion_Rate": 0.5174
+    }
+  ],
+  "interpretation": "Among the sales teams, Saab has the highest underwriting completion rate (62.08%), suggesting strong follow-through in the UW process. However, their sale conversion rate from those completions is relatively low (30.87%). In contrast, Triton and Ranger have lower completion rates (~43–45%) but much stronger conversion from UW to sales (around 46–47%). Land Rover, although having the lowest UW completion rate of the group (41.52%), has the highest conversion rate (51.74%), indicating high efficiency once an application gets through UW. These insights suggest that different teams excel in different stages — some are great at pushing volume through UW (e.g., Ranger, Triton), while others are more selective but convert better (e.g., Land Rover)."
+  },
+  {
+    "id": 8,
+    "user_query": "What underwriting sections contribute the most to declined Term Life applications for Brand 'Real' in 2024?",
+    "reasoning": "To determine which sections of the underwriting form contribute most to application declines, particularly for Term Life products under the 'Real' brand in 2024, we analyze the `Section` field linked to each declined case. By filtering for `ProductType = 'Term Life'`, `Brand = 'Real'`, `IsDecline = 1`, and ensuring `Section IS NOT NULL`, we isolate relevant declined applications for that year. We then group by `Section` to count how many declines are attributed to each one and calculate each section's relative contribution using a window function (`COUNT(*) / SUM(COUNT(*)) OVER()`). Sorting the results by this share highlights the most impactful sections, revealing where underwriting decisions are most commonly blocked. This structured approach helps pinpoint systemic issues—whether medical, financial, or lifestyle-related—and provides underwriters and product teams with clear insights into bottlenecks in the application process, enabling more informed decisions on form redesign, risk modeling, or agent pre-screening strategies.",
+    "sql_query": "SELECT \n    Section,\n    COUNT(*) AS DeclineCount,\n    COUNT(*) * 1.0 / SUM(COUNT(*)) OVER() AS DeclineSectionShare\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE ProductType = 'Term Life'\n  AND Brand = 'Real'\n  AND IsDecline = 1\n  AND YEAR(DateID) = 2024\n  AND Section IS NOT NULL\nGROUP BY Section\nORDER BY DeclineSectionShare DESC;\n",
+    "output": [
+      {
+      "Section": "G - Medical History",
+      "DeclineCount": 570,
+      "DeclineSectionShare": 0.625686059275
+      },
+      {
+      "Section": "Medical History",
+      "DeclineCount": 201,
+      "DeclineSectionShare": 0.220636663007
+      },
+      {
+      "Section": "C - Height-weight",
+      "DeclineCount": 128,
+      "DeclineSectionShare": 0.140504939626
+      },
+      {
+      "Section": "D - AIDS declaration",
+      "DeclineCount": 4,
+      "DeclineSectionShare": 0.004390779363
+      },
+      {
+      "Section": "A1 - Pre Qualifying Medical History",
+      "DeclineCount": 4,
+      "DeclineSectionShare": 0.004390779363
+      },
+      {
+      "Section": "B1 - Occupation",
+      "DeclineCount": 2,
+      "DeclineSectionShare": 0.002195389681
+      },
+      {
+      "Section": "A - Residence",
+      "DeclineCount": 1,
+      "DeclineSectionShare": 0.00109769484
+      },
+      {
+      "Section": "I - Family History",
+      "DeclineCount": 1,
+      "DeclineSectionShare": 0.00109769484
+      }
+    ],
+    "interpretation": "The vast majority of declined Term Life applications for the 'Real' brand in 2024 are attributed to medical-related underwriting sections, with 'G - Medical History' alone accounting for over 62% of declines and 'Medical History' (unqualified) contributing another 22%. Height and weight factors (section C) are responsible for 14% of declines, underscoring the impact of BMI thresholds in the underwriting process. Other sections such as AIDS declaration, pre-qualifying medical history, and occupation are infrequent but notable triggers for application declines. The minimal representation of declines from lifestyle or residency-based sections indicates that medical risk factors are the predominant barrier to successful applications in this segment."
+  },
+  {
+    "id": 9,
+    "user_query": "Which occupations have the highest average Sum Insured for Funeral Insurance?",
+    "reasoning": "To identify which occupations are associated with the highest financial coverage under Funeral Insurance, we focus on computing the average SumInsured for each occupation. Funeral policies often have simpler underwriting compared to other products like Term Life, so analyzing the Occupation field in combination with SumInsured reveals which job roles are selecting or qualifying for higher coverage levels. By filtering the data to include only current records (IsCurrent = 1), the correct product (ProductType = 'Funeral'), and non-null sum insured values (SumInsured IS NOT NULL), we ensure data relevance and integrity. Grouping by Occupation and applying AVG(SumInsured) enables us to calculate the average insured amount per occupation. Sorting in descending order highlights top occupations that tend to secure higher funeral coverage. This insight can help underwriters, actuaries, and product designers understand trends in consumer behavior, risk perception, and possibly pricing sensitivity across various job segments.",
+    "sql_query": "SELECT \n    Occupation,\n    AVG(SumInsured) AS AvgSumInsured\nFROM [EvolveKPI].[dbo].[tblMaster_CIP]\nWHERE ProductType = 'Funeral'\n  AND SumInsured IS NOT NULL\n  AND IsCurrent = 1\nGROUP BY Occupation\nORDER BY AvgSumInsured DESC;\n",
+    "output": [
+      {
+        "Occupation": "Customer Service Representative [office based]",
+        "AvgSumInsured": 40000.00
+      },
+      {
+        "Occupation": "Spray Painter",
+        "AvgSumInsured": 40000.00
+      },
+      {
+        "Occupation": "Car Park Attendant",
+        "AvgSumInsured": 40000.00
+      },
+      {
+        "Occupation": "Information Technology (IT) Manager",
+        "AvgSumInsured": 34285.7142
+      },
+      {
+        "Occupation": "Carer - residential care",
+        "AvgSumInsured": 32000.00
+      }
+    ],
+    "interpretation": "Occupations such as Customer Service Representatives (office based), Spray Painters, and Car Park Attendants all hold the highest average sum insured of $40,000 under Funeral Insurance, indicating that individuals in these roles either opt into or qualify for the top coverage tier. This may reflect standard policy tiers offered to lower-risk or default-rated roles. IT Managers and residential carers follow with slightly lower averages, suggesting variability in sum insured based on job type or applicant preferences. These trends can inform marketing segmentation, underwriting limits, and future product tier design, particularly for fixed-benefit insurance like Funeral products where occupation-based risk is often less nuanced but still relevant for premium structuring."
+  }
+]
