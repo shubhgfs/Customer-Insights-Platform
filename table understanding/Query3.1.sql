@@ -65,7 +65,7 @@
 
 --So ccms and contacthistory are validated
 
-How many rows have less ccms records than contact history
+-- How many rows have less ccms records than contact history
 
 WITH ccms_counts AS (
     SELECT clientid, COUNT(*) AS ccms_count

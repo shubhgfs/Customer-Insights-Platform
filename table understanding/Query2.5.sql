@@ -245,7 +245,7 @@ WHERE
 
 -- BASE DATA QUERY 
 
-DROP TABLE IF EXISTS [EvolveKPI].[dbo].[tblUnderwritingImpact_CIP]
+DROP TABLE IF EXISTS [EvolveKPI].[dbo].[tblMaster_CIP]
 SELECT 
    fs.DateID,
    fs.QuoteID,
@@ -258,6 +258,9 @@ SELECT
    pt.ProductType,
    uw.Gender,
    uw.IsSmoker,
+   cl.Suburb,
+   cl.[State],
+   cl.PostCode,
    uw.Section,
    uw.Question,
    uw.AnswerValue,
@@ -266,9 +269,11 @@ SELECT
    uw.DeclineReason,
    uw.UWAppStatus,
    uw.QuestionSetInstanceStatus,
+   dud.UserID,
+   dud.TeamName,
    uw.IsDecline,
    uw.IsCurrent
-INTO [EvolveKPI].[dbo].[tblUnderwritingImpact_CIP]
+INTO [EvolveKPI].[dbo].[tblMaster_CIP]
 FROM 
     [HollardDW].[dbo].[FactSalesActivity] fs
 LEFT JOIN 
@@ -280,7 +285,13 @@ LEFT JOIN
 LEFT JOIN
 	[Evolve].[dbo].[tblProductType] pt
 	on fs.ProductTypeID = pt.ProductTypeID
+INNER JOIN [HollardDW].[dbo].[DimUserDay] dud
+    ON fs.UserID = dud.UserID
+LEFT JOIN [HollardDW].[dbo].[DimClient] cl
+	ON fs.ClientID = cl.ClientID
 WHERE 
     prodpcm.ExternalProductId is null
 	AND fs.DateID BETWEEN '2022-01-01' AND '2025-05-01'
-
+	AND dud.DateID = CAST(GETDATE() AS DATE)
+    AND dud.BusinessFunction = 'Sales'
+    AND dud.IsActive = 1

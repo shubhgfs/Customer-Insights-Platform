@@ -1,0 +1,1 @@
+SELECT COUNT(*) as cnt FROM evolvekpi.dbo.tblMaster_CIP WHERE ProductType = 'Home'  AND Sales = 1  AND DateID BETWEEN 20220101 AND 20221231;

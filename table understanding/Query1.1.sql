@@ -158,27 +158,20 @@ ORDER BY Gender;
 
 -- Final one
 SELECT 
-    cl.Gender,
+    m.Gender,
     COUNT(*) AS TotalQuotes,  -- Total number of quotes for each gender
-    SUM(CASE WHEN fs.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales
-    AVG(fs.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote
+    SUM(CASE WHEN m.Sales = 1 THEN 1 ELSE 0 END) AS TotalSales,  -- Total number of sales
+    AVG(m.SumInsured) AS Avg_SumInsured,  -- Average sum insured per quote
     CAST(
-        SUM(CASE WHEN fs.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) 
+        SUM(CASE WHEN m.Sales = 1 THEN 1.0 ELSE 0 END) / COUNT(*) 
         AS DECIMAL(10,4)
     ) AS SalesConversionRate  -- Sales / Quotes as a decimal
 FROM 
-    [HollardDW].[dbo].[FactSalesActivity] fs
-LEFT JOIN 
-    [HollardDW].[dbo].[DimClient] cl
-    ON fs.ClientID = cl.ClientID
-LEFT JOIN 
-    [HFSUnderwriting].[dbo].[ProductParentChildMapping] prodpcm
-    ON fs.ProductCode = prodpcm.ExternalProductId
+    [EvolveKPI].[dbo].[tblMaster_CIP] m
 WHERE 
-    fs.Quotes > 0  -- Consider only rows where at least one quote was made
-    AND prodpcm.ExternalProductId IS NULL  -- Filter out matched products from mapping table
+    m.Quotes > 0  -- Consider only rows where at least one quote was made
 GROUP BY 
-    cl.Gender;  -- Aggregate metrics by gender
+    m.Gender;  -- Aggregate metrics by gender
 
 
 
