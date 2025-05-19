@@ -1,0 +1,93 @@
+[2 seconds][Customer] : Hi.
+[4 seconds][Agent] : Good afternoon, Shane, it's Emily calling back from Wheel Insurance. How you going?
+[8 seconds][Customer] : Hey.
+[10 seconds][Agent] : I'm good, thank you for asking. I'm giving you a call to follow up on the conversation we had regarding the life insurance to take you through some information and pricing. Just before we continue, I do need to let you know calls are recorded. Any advice you provide is general in nature, I mean suitable to your situation. And I'll get you to confirm your name and your date of birth for me.
+[9 seconds][Customer] : How are you doing, Shine? That's how it's been in 1193.
+[38 seconds][Agent] : Beautiful. And I'll confirm you are of course a male Australian resident, is that right?
+[43 seconds][Customer] : Yep.
+[44 seconds][Agent] : OK, perfect. Thank you and happy for last week as well. By the way. Now, I did want to ask, what's actually made you interested in getting life insurance for yourself?
+[58 seconds][Customer] : Setting, setting my kids up for worst case.
+[1 minutes 2 seconds][Agent] : What was that? Sorry.
+[1 minutes 3 seconds][Customer] : Well, I said, making sure like the family's looked after worst case, like if something else happened.
+[1 minutes 11 seconds][Agent] : Yeah. Beautiful. Just wanting that Peace of Mind that they're going to be taken care of financially. Yeah. Perfect. And when you say family, so do you have like a partner, children?
+[1 minutes 16 seconds][Customer] : Yeah, yeah, I've got both.
+[1 minutes 25 seconds][Agent] : What was that? Sorry.
+[1 minutes 26 seconds][Customer] : I've got both.
+[1 minutes 28 seconds][Agent] : Yeah, perfect. Well, on this policy, you can actually nominate up to five beneficiaries, so you can specify who you actually want that money to go to and even how much you'd want each of them to receive. Now, I'll take you to our cover. I'll explain the benefits, how it all works, if you've got any questions. So jump in, let me know. I'll be happy to help you out. So with our life insurance, it is obviously designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away. So this benefit can be used to help maintain their lifestyle, whether that is helping them pay off a mortgage or any loans or any other costs involved in raising a family. Now it's very easy for you to apply for the cover. We just ask you some lifestyle questions over the phone to see if you are approved. If you're accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause. The only thing not covered is suicide in the 1st 13 months. Now in addition, there is a terminally ill advanced payment included in the cover.
+[2 minutes 34 seconds][Customer] : None.
+[2 minutes 35 seconds][Agent] : So if you were diagnosed with 12 months or less to live by a medical practitioner, we'll pay the claim out in full while you're alive. And that money can be used to help with things like your medical expenses. And you also have the Peace of Mind there's a funeral benefit. So your family can request an advance payout of $10,000 to help with the more immediate expenses like the funeral or any unpaid bills, while the rest of the claim's still being processed. And Shane, I'll also let you know your premium is obviously stepped, which means it will generally increase each year of your age. In addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% with associated increases in the premium. You can, however, opt out of this automatic indexation each year and you can also find information about our premium structure on our website. Now, just before we take you through pricing, have you got any questions or is that all pretty straightforward so far? Yeah, Beautiful. Well, let's take you through some pricing. Have you had a cigarette in the last 12 months? Yeah, no problem. That was a yes. Is that correct?
+[3 minutes 38 seconds][Customer] : Yeah, yeah, yes.
+[3 minutes 55 seconds][Agent] : Yeah, no problem. Me too. Don't worry. Now you can choose anywhere from $100,000 up to a maximum of $1 million. What amount would you like me to quote you on to start with?
+[4 minutes 9 seconds][Customer] : The biggest, Yeah.
+[4 minutes 12 seconds][Agent] : It's just a little hard to hear you. What was that? Sorry.
+[4 minutes 14 seconds][Customer] : Oh, sorry. It's my daughter playing with a bloody iPad. Yeah.
+[4 minutes 19 seconds][Agent] : No, that's OK. The 1,000,000, yeah, beautiful.
+[4 minutes 21 seconds][Customer] : The the highest, Yeah.
+[4 minutes 24 seconds][Agent] : We can have a look at that to begin with. Either way, I'm still happy to go through it. As many quotes as you need. So you just tell me if you want to look at any other amounts.
+[4 minutes 33 seconds][Customer] : Yeah. So I'm, I'm just, yeah. Because I'm just trying to find out like what the maximum cover would cost. But yeah, at the moment I'm not committed to taking anything right now.
+[4 minutes 33 seconds][Agent] : But for sure, OK, that's OK.
+[4 minutes 50 seconds][Customer] : But yeah, I am, I am interested in finding out.
+[4 minutes 57 seconds][Agent] : Yeah, no, no problem whatsoever. We can definitely have a look at some options. We'll take you through pricing either way. There's no obligation. It's entirely up to you whether you do want to take a policy or not. But we'll have a look at a quote for the $1 million to start because that's our maximum.
+[5 minutes 6 seconds][Customer] : Yep, Yep.
+[5 minutes 13 seconds][Agent] : I'm still happy to go through other quotes if need be, though. So you just let me know if you want to look at any lower amounts.
+[5 minutes 19 seconds][Customer] : OK.
+[5 minutes 19 seconds][Agent] : But for $1 million of the life cover, including that terminally or benefit and the funeral advance payment, you'd be looking at a fortnightly premium of $93.07. That's for Fortnite. Does that sound like it would be affordable or would you like to look at some other options?
+[5 minutes 35 seconds][Customer] : OK, well I've got a couple of things happening at the moment and once I know exactly what's going on then I'll be able to determine whether it's suitable or not.
+[5 minutes 59 seconds][Agent] : Sure, that's no problem. I'm more than happy to give you some time to obviously consider it. Have a look at your circumstances as well. What we'll do though, I'll take you through some other options. At least you know if there's some other ones you can consider at the same time. If if for example, we were to look at 600,000 saying that would drop that fortnightly premium down to $55.84 per fortnight. How does that one sound? Does that one sound maybe a little bit more suitable or did you want to look at a third option?
+[6 minutes 32 seconds][Customer] : To be quite honest, I obviously depending on what happens over the next couple of weeks, I would be more inclined for the higher one.
+[6 minutes 48 seconds][Agent] : Yeah, yeah, sure.
+[6 minutes 48 seconds][Customer] : It's yeah, just just waiting to find out on a, on a couple of things with what's going to happen.
+[6 minutes 56 seconds][Agent] : Yeah, no problem. Well, we can absolutely leave it at that maximum amount for now and you can obviously reassess your circumstances. The next step either way from here though, because I know you mentioned you need a couple of weeks, which is fine. We can absolutely give that to you. We'll discuss all your options at the end. But the next step is to still take you through the health and lifestyle questions because this tells us obviously if you're eligible for this cover, but it's also going to tell us if that premium will increase or whether any exclusions will be added onto the see. So at least that way you know, you know whether you're whether we can't even consider you for this cover.
+[7 minutes 22 seconds][Customer] : OK, OK, OK.
+[7 minutes 34 seconds][Agent] : If you're approved, then we can discuss all your options and where to go from there. Just before we go through these questions, I do need to confirm your address. What's your post code 6O36 beautiful and the channel suburb.
+[7 minutes 46 seconds][Customer] : 6036 Butler.
+[7 minutes 56 seconds][Agent] : Just stay with me and your address. Beautiful. That's 34 Tobermory Crescent. Is your postal address that same address?
+[8 minutes 4 seconds][Customer] : 34 Tobermory Crescent Yep, Yep.
+[8 minutes 18 seconds][Agent] : OK, Beautiful. There's another thing I also want to do for you. It's a premium projection. So it's going to give you a bit of an idea of what next year's going to look like for yourself. Now, Shane, as an indication, if you make no changes to the policy, your premium next year will be $104.08 per fortnight. And that's if you do not decline the indexation of the policy, meaning your level of cover would be $1,050,000. And another question I wanted to ask because I know you're obviously still very young, but have you got an up to date will in place for yourself?
+[8 minutes 59 seconds][Customer] : No, not really.
+[9 minutes 1 seconds][Agent] : No, that's no problem at all. The reason why I ask is because we'll actually provide you with a free online legal will valued at $160.00 with the policy.
+[9 minutes 12 seconds][Customer] : OK.
+[9 minutes 12 seconds][Agent] : So if you do want to organise a will, you can absolutely use that. It'll be emailed through and all the instructions will be there for you and we also have something called a real reward. So following your first policy anniversary day, we'll actually refund you 10% of the premiums you've paid in that time. So on this policy here, you'd be looking at getting $241.98 back from us after the first year.
+[9 minutes 39 seconds][Customer] : OK.
+[9 minutes 41 seconds][Agent] : Now to take you through these questions, I've got to reach you through something called a pre underwriting disclosure. Then we'll pull these questions up for you. So this reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other Australian service providers for purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and sludge complaints about breach of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had.
+[10 minutes 28 seconds][Customer] : Yep, that's fine.
+[10 minutes 43 seconds][Agent] : If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. So do you understand and agree to your duties?
+[10 minutes 58 seconds][Customer] : Yep.
+[11 minutes 1 seconds][Agent] : So with these questions, Shane, they're pretty straightforward. I can only accept a definite yes or no answer for most of them. And there's also a heightened late question in there for you as well. But they start off nice and easy. First questions in relation to COVID. So, have you been hospitalized for COVID-19 in the last six months? Or have you been diagnosed with COVID-19 in the last seven days?
+[11 minutes 19 seconds][Customer] : No, no.
+[11 minutes 25 seconds][Agent] : Perfect. Are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia? Does your work require you to go underground? Work at heights above 20 meters, dive in below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore.
+[11 minutes 32 seconds][Customer] : Yes, no.
+[11 minutes 50 seconds][Agent] : The next section is in relation to your height and weight. Please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words, or height and weight ranges. So what is your exact height, either in centimeters or signatures?
+[12 minutes 5 seconds][Customer] : No 180.
+[12 minutes 11 seconds][Agent] : 180 centimeters.
+[12 minutes 13 seconds][Customer] : Yep.
+[12 minutes 14 seconds][Agent] : Perfect. And what is your exact weight?
+[12 minutes 18 seconds][Customer] : When I checked this morning, it was 109.
+[12 minutes 22 seconds][Agent] : Beautiful 109 kilograms.
+[12 minutes 25 seconds][Customer] : Yep.
+[12 minutes 26 seconds][Agent] : Fantastic. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? To the best of your knowledge? Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? Do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5 million?
+[12 minutes 34 seconds][Customer] : No, no, no, no.
+[13 minutes 9 seconds][Agent] : Have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following cancer, tumour, molar, cyst, including skin cancer, sunspots, Melanoma or leukaemia?
+[13 minutes 24 seconds][Customer] : I had a couple of years ago T cell, I don't know what it was called AT cell lymphoma that sit in my skin. Yeah, that's that's gone.
+[13 minutes 38 seconds][Agent] : OK. Was it, sorry, was it some sort of like sunspot or?
+[13 minutes 43 seconds][Customer] : No, they said it was AT cell lymphoma, but instead of being in my lymph nodes, it was in my skin. But it was only in one spot that got excised and it's yeah, completely gone.
+[13 minutes 57 seconds][Agent] : OK so was it a type of cancer?
+[14 minutes][Customer] : Yep.
+[14 minutes 1 seconds][Agent] : OK so we'll put down a yes for you but there is drop down questions so shady. It says based on your response please answer yes or no for each of the following.
+[14 minutes 5 seconds][Customer] : Yeah, yeah.
+[14 minutes 11 seconds][Agent] : Melanoma yes or no? Any other form of skin cancer and or sunspots?
+[14 minutes 14 seconds][Customer] : No, no.
+[14 minutes 24 seconds][Agent] : Sorry because it wasn't technic skin cancer. Is that right?
+[14 minutes 27 seconds][Customer] : Yeah, that's correct. It was a tesa lymphoma, but it was in my skin.
+[14 minutes 29 seconds][Agent] : Yep, yes. So we'll put it down in a different where it says other form of cancer.
+[14 minutes 37 seconds][Customer] : Yep. No, no, no. Yes.
+[14 minutes 37 seconds][Agent] : So we'll just keep going through the next one is mole or cyst, yes or no tumor, other form of cancer, sorry, leukemia, sorry and then other form of cancer was your cancer over 10 years ago.
+[15 minutes 2 seconds][Customer] : No, there's about five. Yeah, about five years ago.
+[15 minutes 9 seconds][Agent] : OK. So based on the last answer given, sharing your application for the last cover is unsuccessful at this time.
+[15 minutes 16 seconds][Customer] : OK.
+[15 minutes 16 seconds][Agent] : So it as a result of the fact that you have had that history of cancer within the last 10 years, once it hits over the 10 year mark, you are more than welcome to give us a call back to look at reapplying. Now you can ask the insurer to review this decision and if you're not happy with the outcome, you can request that we treat this as a complaint. Otherwise, we do have another type of life insurance. It's called a term life cover. I'm happy to take it through a quote for that. See if it is something that you'd be interested in. It's anywhere from 10,000 up to 100,000.
+[15 minutes 50 seconds][Customer] : Oh, no, that's OK. Thanks.
+[15 minutes 52 seconds][Agent] : OK, well definitely feel free to give us a call back once again to 10 years. We'll absolutely be happy to help you out.
+[15 minutes 58 seconds][Customer] : OK, Thank you.
+[16 minutes][Agent] : Thanks so much. Bye.
+[16 minutes 2 seconds][Customer] : Bye.

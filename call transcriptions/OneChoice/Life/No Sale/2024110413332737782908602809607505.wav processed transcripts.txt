@@ -1,0 +1,89 @@
+[5 seconds][Customer] : Hello.
+[6 seconds][Agent] : Hello. Hello. It's Lufiana calling you back from One Choice Life Insurance. How are you?
+[11 seconds][Customer] : Alright, thank you.
+[13 seconds][Agent] : That's good. I'm glad to hear that. I'm giving you a call as we were speaking about the life insurance yesterday and I'm calling to assist you with that now because it's a new call. I just need to do the ID checks and then we continue where we left off. OK, now I need to let you know. All calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. Can I please get you to confirm your full name and your date of birth for me?
+[47 seconds][Customer] : Yeah, immediately 1870.
+[52 seconds][Agent] : Thank you. And can I confirm that you are a female New Zealand resident residing in New Zealand? Thank you. And do you have a middle name?
+[58 seconds][Customer] : Yes, Yeah, they are.
+[1 minutes 3 seconds][Agent] : Yeah, thank you. All right, now let's continue where we left off. Now before we continue where we left off, I just need to ask you, has anything changed to your answers?
+[1 minutes 15 seconds][Customer] : No.
+[1 minutes 16 seconds][Agent] : Thank you. OK. So we were doing $100,000 of the cover, which was $75.41 per month.
+[1 minutes 25 seconds][Customer] : Uh huh.
+[1 minutes 27 seconds][Agent] : So let's do that. Now we've already confirmed all your details, so we'll just going to set it up for you. OK, Now let me do that for you. OK? I'm just going to bring it up. OK. And you've selected, I just want to confirm that you're still happy with it. You've selected the 2nd of October and then from the every month on the second, is that correct? Yes. OK, You're happy with that? OK. And yesterday you told me you want to use an account number, is that correct? Yes. Let's do account number. Alright, whenever you're ready, I'll have the account number and then I'll ask you these questions to set it up.
+[2 minutes 10 seconds][Customer] : Yes, pardon, yes, yeah, I'm just spending on my my computer.
+[2 minutes 34 seconds][Agent] : Yeah, all good, all good. You take your time.
+[2 minutes 49 seconds][Customer] : I don't know what's wrong with the computer. It's not turning off. None.
+[4 minutes 22 seconds][Agent] : Yeah, I'm ready whenever you're ready.
+[4 minutes 21 seconds][Customer] : OK, got it. Yeah. And the bank is 12.
+[4 minutes 29 seconds][Agent] : 12th.
+[4 minutes 31 seconds][Customer] : Yeah, Bank is 3143.
+[4 minutes 36 seconds][Agent] : Yeah.
+[4 minutes 39 seconds][Customer] : Account number is 0055774 and suffix 00.
+[4 minutes 47 seconds][Agent] : Yeah, OK. I'll repeat it for you. So it's 123143005577400, is that correct? And the account name, please?
+[5 minutes][Customer] : Yes, yes, yeah. It's, I mean, yeah, yeah.
+[5 minutes 8 seconds][Agent] : Yes, your full name. OK.
+[5 minutes 19 seconds][Customer] : Yes. My own.
+[5 minutes 10 seconds][Agent] : And Amelia, I just need to ask you these questions and that is do you have authority to operate this bank account online, yes or no, do you? Thank you. And the next question is jointly means you and someone else have to authorize debits together. You can't do it alone. So the question is asking, do you need to jointly authorize debits, yes or no?
+[5 minutes 34 seconds][Customer] : No.
+[5 minutes 35 seconds][Agent] : Thank you. And have you cancelled a direct debit authority for one choice with Pinnacle Life as the initiator and the last nine months on the account you are providing, yes or no?
+[5 minutes 47 seconds][Customer] : No.
+[5 minutes 49 seconds][Agent] : And the next one is, are you happy to set up a direct debit authority without signing a form, yes or no? So the reason we ask, so I'll let you know. So the reason we ask you is this because we do the direct debit request through our end. If you don't want to do it without signing a form, the other option that you've got, I will let you know is you can use a card number.
+[6 minutes 20 seconds][Customer] : OK.
+[6 minutes 21 seconds][Agent] : Yeah.
+[6 minutes 20 seconds][Customer] : I think that should be OK.
+[6 minutes 21 seconds][Agent] : So sorry.
+[6 minutes 26 seconds][Customer] : I think that should be OK to.
+[6 minutes 27 seconds][Agent] : Yeah. So that's OK. Thank you so much. I'll ask you again. So pardon.
+[6 minutes 30 seconds][Customer] : I mean, no cash, there's no cash.
+[6 minutes 36 seconds][Agent] : Direct debit. Yeah. So I'll just ask you. Yeah. Thank you. I'll ask you again. So are you happy to set up a direct debit authority without signing a form? Yes or no?
+[6 minutes 33 seconds][Customer] : I mean, you can do, you can just do that, yeah.
+[6 minutes 46 seconds][Agent] : Yep. Thank you. Alright now in order to proceed I need to read the following declaration and I will need your confirmation at the end. So this reads, you agree. This authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for one choice to direct debit this account in accordance with these terms and conditions, Yes or no? Thank you. Now, Amelia, before I read the final declaration, I want to confirm your details are correct. Again, Your e-mail is justyourfirstname.yourlastname#11@gmail.com and the address that you gave me yesterday was 66 Tennessee Ave. Mangra, E 2024. Is that correct? And that's the same as your postal address, Correct. Beautiful. Now, Amelia, before I read you the final declaration again, I just need to confirm. What title do you go by? Is it Missus? Miss. Miss Ms. Oh, Missus. Mrs.
+[7 minutes 17 seconds][Customer] : Yes, yes, yes, yes, Yes, MRMRS, yes.
+[8 minutes 5 seconds][Agent] : Yeah. OK, Beautiful. That's all Good. OK, Now what I'll do is I'll reach you the final declaration. OK? And then you'll be covered. Alright. And then if your husband, then we can do his one as well after we finish yours. Oh, he's at work. OK, that's OK. I can give him a call back after five. OK, no worries. I'll arrange for that. Let's finish your one first and then we can arrange for a call back with your husband.
+[8 minutes 26 seconds][Customer] : He's at work at the moment and it's like something, yeah, maybe after 5 if it's OK, yeah.
+[8 minutes 43 seconds][Agent] : OK, so this read. Thank you. Amelia via Topoloto, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice life insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and Zed Limited, whom I refer to as GFS, to issue to and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. While providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this Yes or no?
+[10 minutes 3 seconds][Customer] : Yes.
+[10 minutes 4 seconds][Agent] : Thank you. Your answer to the application questions and any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure yes or no?
+[10 minutes 27 seconds][Customer] : Yeah.
+[10 minutes 28 seconds][Agent] : By agreeing to this declaration, you can send to be contacted by us in relation to other products and services. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of and then you have the to Pluto receives 10. Sorry receives $100,000 in the event of life insurance for Amelia via Topoluto Life Insurance. A 50% loading was applied during the application process. A benefit is not paid in the events of suicide in the 1st 13 months of the policy. Your total premium for the first year of cover is $75.41 per month. Your premium is stepped which means that will be calculated each policy anniversary and will generally increase you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this. Included in your premium is an amount paid with the GFS of between 24% and 71% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. I am Best has rated Pinnacle with AB plus financial strength good and triple B minus issue a credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day calling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Now, Amelia, I just have two last questions for you, OK. Are you there? Yeah. OK. So my first question is, do you understand and agree with the declaration, yes or no? Thank you. And lastly is I'm going to send out your documents to you by e-mail and by mail. You'll be covered from today, but nothing will come out until the 2nd of October. Now other than that, would you like any other information now or would you like me to read any part of the policy document to you? Yes or no?
+[12 minutes 16 seconds][Customer] : Yeah, yeah, yeah, yeah, yes.
+[12 minutes 47 seconds][Agent] : Yeah. What do you want me to read? Pardon.
+[12 minutes 52 seconds][Customer] : All these documents, you're gonna send it to me, right?
+[13 minutes 2 seconds][Agent] : Yeah, Yeah. So that's what I said. So what I'll do is I'm, I'm going to send out your documents by e-mail and by mail to you, OK. And you'll be covered from today. But I was letting you know. So other than that, would you like any other information now or would you like me to read any part of the policy document to you? Yes or no? No. OK, no problem. I'll go ahead and accept this for you and send out your documents. Now by e-mail you received today within about 15 minutes. And by mail it takes about 5 to 10 business days to arrive. OK, now yours is all done. OK. Now for your husband. Did you place an inquiry for your husband?
+[13 minutes 4 seconds][Customer] : Oh, yeah, yeah, yeah, no, no, yeah, yeah. But he needs to be here.
+[13 minutes 49 seconds][Agent] : Yeah, that's OK.
+[13 minutes 48 seconds][Customer] : So he's at work at the.
+[13 minutes 49 seconds][Agent] : So what I'll do is I'll. I'll I'll go on to his profile if you've placed an inquiry and I'll set a call back for 5:00 after 5. I can only do Tuesday. Is that OK on Tuesday?
+[14 minutes 3 seconds][Customer] : Yes, that's fine. Yes, that's fine.
+[14 minutes 4 seconds][Agent] : OK So what I'll do is I'll go into his profile and set a call back that way no one else gives him a call until after 5:00.
+[14 minutes 14 seconds][Customer] : OK.
+[14 minutes 12 seconds][Agent] : I'll give him a call now I'll grab his details so I can find his profile. OK, OK, let me just did you place the inquiry under the same number, your number or his number?
+[14 minutes 31 seconds][Customer] : No, I think it's a separate one. I think it's a new number.
+[14 minutes 34 seconds][Agent] : OK, no worries.
+[14 minutes 39 seconds][Customer] : 28 April 68.
+[14 minutes 35 seconds][Agent] : Let's search it up by what's his date of birth, OK. And what's his first name?
+[14 minutes 50 seconds][Customer] : Amanaki tupulos tumanu. Amanaki.
+[14 minutes 54 seconds][Agent] : Amanaki. Amanaki is Amanaki AM ANAKI. Yeah. Amanaki.
+[14 minutes 54 seconds][Customer] : Is it Amanaki La La K I I Yeah.
+[15 minutes 6 seconds][Agent] : Yeah. And what's his last name? Manu. Manu.
+[15 minutes 9 seconds][Customer] : Manuel Manu.
+[15 minutes 11 seconds][Agent] : OK, let me just have a look at it. OK, no worries. Yeah, I can say, uh, mm, hmm.
+[15 minutes 28 seconds][Customer] : Somebody called, there was a guy who called this morning about my husband and I said to him that I wouldn't talk to somebody about my one and you will talk to to me about my, my this one.
+[15 minutes 48 seconds][Agent] : OK, no worries. Yeah, that's OK. So I can give you, I can give a call back. No problem.
+[16 minutes 2 seconds][Customer] : That's it. Yeah.
+[15 minutes 59 seconds][Agent] : I'll give him a call on Tuesday after five and then we can go through it. I'll take him. I'll have to speak to him.
+[16 minutes 8 seconds][Customer] : Alright.
+[16 minutes 7 seconds][Agent] : OK, So what we'll do is I'll take him through the prices and we'll go through the cover with him. I'll ask him the same questions.
+[16 minutes 18 seconds][Customer] : OK, OK.
+[16 minutes 17 seconds][Agent] : OK, no worries. Now let me just set a call back for. Let's have a look after 5 anytime after five.
+[16 minutes 20 seconds][Customer] : Yeah, yeah.
+[16 minutes 29 seconds][Agent] : Yeah, OK, no worries. I'll do that for you. So let's set a call back for after 5:00 on Tuesday and I'll give you a call on the number you're I'm calling you on now.
+[16 minutes 49 seconds][Customer] : Yeah.
+[16 minutes 50 seconds][Agent] : Yeah, OK, no worries. I'll give you a call on the Tuesday when Ammanaki will be there. I can book it in for do you want to do 530 or do you want to do 6:00 on Tuesday?
+[17 minutes 7 seconds][Customer] : Mm, hmm. Maybe 5:30. Mm Hmm. OK. Thank you.
+[17 minutes 12 seconds][Agent] : 53530 OK, no worries. I'll book it in for 5:30. OK. On Tuesday I'll give him a call and I'll I'll speak to you and him again on Tuesday. OK.
+[17 minutes 22 seconds][Customer] : MM hmm.
+[17 minutes 23 seconds][Agent] : You're welcome. I'll speak to you on Tuesday. I hope you enjoy the rest of your day today.
+[17 minutes 28 seconds][Customer] : And you too. Thank you so much.
+[17 minutes 26 seconds][Agent] : OK, thank you. No worries. You take care. Bye.
+[17 minutes 32 seconds][Customer] : You too. Bye.

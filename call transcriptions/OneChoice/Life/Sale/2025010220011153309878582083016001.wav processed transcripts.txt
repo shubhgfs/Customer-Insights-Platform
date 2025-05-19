@@ -1,0 +1,27 @@
+[4 seconds][Agent] : Welcome to One Choice Insurance. You're speaking with Georgia. How can I help you?
+[9 seconds][Customer] : Hi George, I'm sticking around here. Sorry I got a letter from you guys Cos I asked for a quote from you guys for insurance. For life insurance. I've got a reference number here I can give you that if you like.
+[23 seconds][Agent] : Yeah, sure.
+[25 seconds][Customer] : It's to 704-9026.
+[32 seconds][Agent] : OK. Thank you. And just your full name and date of birth, please.
+[37 seconds][Customer] : Yeah, it's 58 of Brownie and one with 66.
+[42 seconds][Agent] : Thank you. OK, let's have a look here. OK, I'm just checking because there's two profiles here for your name, so I'm just checking which one it's under.
+[1 minutes 25 seconds][Customer] : I think, I think, Yeah, I think, I think because I can hear from you. Oh, I wonder if you got a package another one?
+[1 minutes 34 seconds][Agent] : That's alright, I'll have a look and see which one it is. OK, get the other one. OK, alright. Do you mind confirming also just an e-mail address on the policy, your e-mail please?
+[2 minutes 14 seconds][Customer] : Yeah, of course, my e-mail or yeah, it's Vicky Browny. Yeah, vicky.browny1@gmail.com.
+[2 minutes 19 seconds][Agent] : Yeah, thank you. And we've got the phone number that you're calling off as well.
+[2 minutes 29 seconds][Customer] : Yes, yes.
+[2 minutes 30 seconds][Agent] : OK, So the reason for your call, are you calling back to go through with the quote or are you wanting to ask more questions about it?
+[2 minutes 37 seconds][Customer] : You didn't give me A and you didn't give me a quote. You just give us a call, we have a chat and we can inquire the sourceal number. I just want to know what the, you know, the the amount would be, the premiums would be and that so I can sort of set something up with you guys.
+[2 minutes 53 seconds][Agent] : So nothing was sent to you for I think they tried to contact you here, but I think that might be about it at the moment. Let me see.
+[3 minutes 1 seconds][Customer] : Yeah, yeah, I don't. It comes up, it'll come up as spam and I don't know, you know, if you missed a message, I'll be able to answer back, right. But yeah, easy at work. I can't answer them as well.
+[3 minutes 16 seconds][Agent] : It does say that they left a voicemail, but even then, you know, it's been the holiday period and things like that. So, umm, we'll try. Let me see, Do you know how much you were looking at taking out or you'd like a quote on?
+[3 minutes 24 seconds][Customer] : Yeah, about a hundred 110,000, something like that.
+[3 minutes 34 seconds][Agent] : OK hundred 110,000, right? Vicky, let me just get you in touch with one of our sales agents, umm, who would be able to provide you a quote, OK? Umm, and you can go from there.
+[3 minutes 46 seconds][Customer] : Thank you.
+[3 minutes 45 seconds][Agent] : OK, Alright, just bear with me. I may be more than two minutes, but I shouldn't be too long.
+[3 minutes 52 seconds][Customer] : Thank you.
+[3 minutes 53 seconds][Agent] : Thank you. Hey, Vicky, you still there?
+[5 minutes 28 seconds][Customer] : Yes, I am.
+[5 minutes 29 seconds][Agent] : I've got my colleague Jackie on the other line. He's gonna assist you further from here. OK. Perfect.
+[5 minutes 28 seconds][Customer] : Oh, thank you so much.
+[5 minutes 35 seconds][Agent] : Thank you so much, Georgia. Thank you. And Jackie, I have done full name, date of birth and e-mail for that. Awesome. Thank you so much for that. Hi.

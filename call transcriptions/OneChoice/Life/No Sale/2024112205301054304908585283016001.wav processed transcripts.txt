@@ -1,0 +1,90 @@
+[4 seconds][Agent] : Hi, it's Josh calling back from one Choice. How are you today?
+[8 seconds][Customer] : Oh yes, yes, I can hear you.
+[11 seconds][Agent] : Hello, Can you hear me? Yeah, I'm so I'm just giving you a call back to go over the life insurance enquiry. I know that you were speaking to one of my colleagues earlier today and you weren't available at that time. So yeah, it's just the reason I'm giving you a call. It's just to go through that one. I'll just give you to confirm to me your full name and date of birth. OK, no worries then. And can I confirm that you're a female New Zealand resident currently residing in New Zealand?
+[31 seconds][Customer] : Rachel Marie Weller, 7th of the 3rd 76 yes.
+[41 seconds][Agent] : Yep, no worries. Then once again, I'll just let you know that all our calls are recorded. Any advice are provided is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. Alrighty then Rachel. So I'm just having a look here at the notes, Life insurance, serious illness. OK, so you just wanted some life insurance and some serious illness cover that you would just need some financial protection for your family, is that correct?
+[1 minutes 14 seconds][Customer] : Not financial protection, no.
+[1 minutes 17 seconds][Agent] : OK, so you were just wanting to leave them? Were you just wanting to leave the money behind for them?
+[1 minutes 23 seconds][Customer] : Should I just want some life insurance and some trauma cover?
+[1 minutes 25 seconds][Agent] : Yep, of course. OK, no worries then. We'll have a look into that one. Uh, we're just going to some quoting now. Uh, give me one second. Alrighty, Have you had a cigarette in the last 12 months?
+[1 minutes 38 seconds][Customer] : Yes.
+[1 minutes 36 seconds][Agent] : OK, no worries then. And is your current annual income 50K or more?
+[1 minutes 43 seconds][Customer] : Yes.
+[1 minutes 42 seconds][Agent] : OK, no worries then. OK, for the life insurance, the minimum you can choose is 100,000, while the maximum is 1.5 million. What amount would you like me to give you a quote?
+[2 minutes 3 seconds][Customer] : Probably 100.
+[2 minutes][Agent] : And for the life insurance, 100? Yep, that's fine. Alrighty. And so for the $100,000 worth of cover, you would be looking at a indicative fortnightly premium of $22.86. How's that one sounding?
+[2 minutes 4 seconds][Customer] : Is it including trauma?
+[2 minutes 19 seconds][Agent] : That's just for the life insurance. So we'll go into the, we'll add the serious illness cover in place. I'll just tell you a little bit more about what the serious illness is. Umm, so the serious illness cover pays a lump sum benefit if you would have fussed an insured event covered under this policy. So the funds could be used in any way you see fit to assist in any rehabilitation costs or the income replacement that you're recovering. So the insured events under this policy are heart attack, cancer, stroke, or if you were to undergo coronary bypass surgery. Each of these events are defined within the policy and each claim this is against these definitions. So you can apply for coverage anywhere from $50,000 up to a maximum of $50,000 is actually for the serious illness. That's the maximum you can choose for yourself with $100,000 worth of life cover. OK, so to give you a idea, just let me see this one. OK? So for $50,000 worth of serious illness, you would be looking at a fortnightly premium of $29.52 on top of the life insurance.
+[3 minutes 30 seconds][Customer] : I got it too much.
+[3 minutes 30 seconds][Agent] : So altogether you would be sorry, What was that?
+[3 minutes 35 seconds][Customer] : It's too much.
+[3 minutes 35 seconds][Agent] : How much? OK, yeah, because with this one, because the life insurance, umm, is 100,000 umm, because it's 50% of the chosen life insurance benefit of $50,000 up to lesser of 500,000. So that be the life insurance being 100,000. The minimum maximum that we can choose for serious illness is 50K. Umm, So yeah, if if you're not interested in the serious illness, if that's a bit too much, we can just take that one off. But with the life insurance, yeah. How's that 4 nightly premium of $22.86 sounding? That's OK. OK, no worries then.
+[4 minutes 13 seconds][Customer] : That's OK, but I really want them both to be about 20 or $30 a warm. Did you say fortnight?
+[4 minutes 21 seconds][Agent] : Yeah, four night, Yeah.
+[4 minutes 33 seconds][Customer] : Sorry, how much is that all together?
+[4 minutes 25 seconds][Agent] : So the full $50,000 worth for serious illness, the fortnightly premium would be $29.52 for that $152.38.
+[4 minutes 37 seconds][Customer] : Fortnight.
+[4 minutes 38 seconds][Agent] : Yep.
+[4 minutes 41 seconds][Customer] : It's quite a bit, eh?
+[4 minutes 43 seconds][Agent] : Yeah. And unfortunately the the 50,000 for the serious illness is the only amount that I can choose here or that you can choose. But yeah, in terms of the F altogether for the fift, the $52.38 a fortnight if that's signing suitable for yourself at this point in time.
+[5 minutes 6 seconds][Customer] : Not really, I really want it to be lower than that.
+[5 minutes 9 seconds][Agent] : Yeah, I understand that one could. So we can.
+[5 minutes 12 seconds][Customer] : Can you give me a quote for it?
+[5 minutes 12 seconds][Agent] : What was that?
+[5 minutes 17 seconds][Customer] : Can you give me a quote for it?
+[5 minutes 19 seconds][Agent] : Yes, I wouldn't be able to send you through any quoting until we've gone through the health and lifestyle questions because that determines the pricing and the terms of the policy as well. I'll just let you know if the serious.
+[5 minutes 30 seconds][Customer] : OK, Can we see that, please?
+[5 minutes 33 seconds][Agent] : Yeah, of course I'll just le I'll read a bit of verbatim for the serious illness. So there are exclusions on the policy. So any insured events that become apparent before or during the first three months of the serious illness option commencing will not be covered. Full details of all exclusions are set out in your policy document, please.
+[5 minutes 54 seconds][Customer] : Oh, well, the channel's for three months.
+[5 minutes 54 seconds][Agent] : Also, so you wouldn't be covered for any insured events that become apparent before or during the first three months of serious illness option commencing will not be covered.
+[6 minutes 7 seconds][Customer] : Well, it's done.
+[6 minutes 10 seconds][Agent] : Yeah. So for the first three months, yeah, the the serious illness wouldn't be covered.
+[6 minutes 18 seconds][Customer] : It's done.
+[6 minutes 21 seconds][Agent] : But please be aware also that any payment made on the serious illness cover reduces the available life insurance benefit amount. If you also purchase total and permanent disability cover, the TPD benefit amount will also reduce when you have a successful serious illness claim. But I just want to confirm, are you happy for me to add this option or cover to your quote? Serious illness.
+[6 minutes 45 seconds][Customer] : No, I don't really. It's going to cost me more, isn't it?
+[6 minutes 48 seconds][Agent] : Yeah, it's, it's totally up to you. I can remove the serious illness if you would like and we can just go through the health and last half questions for the life insurance.
+[6 minutes 57 seconds][Customer] : I really want the trauma.
+[7 minutes][Agent] : Yeah, I understand that one. But yeah, with this one, yeah, the 50,000 for the serious illness is all we can offer for the for your situation being the life insurance quote, it's only at 100,000.
+[7 minutes 16 seconds][Customer] : It's all you can offer. It's it's sad.
+[7 minutes 18 seconds][Agent] : Yeah, yeah, umm, yeah. So yeah, I understand that you're, you're wanting the trauma cover with life insurance, umm, the, in this case, the $100,000 worth full cover, umm, and the serious illness, the 50,000 for the serious illness is early, umm, what we can offer at this point in time.
+[7 minutes 49 seconds][Customer] : I'll give it a mess.
+[7 minutes 51 seconds][Agent] : Keep in this, OK. And it is that just solely based on the serious, serious illness just being a bit too high?
+[7 minutes 50 seconds][Customer] : I think, yeah, it's been a bit too high in not being able to cover it for three months. I don't really.
+[8 minutes 5 seconds][Agent] : Yeah, I understand.
+[8 minutes 6 seconds][Customer] : I want to be covered straight away.
+[8 minutes 8 seconds][Agent] : I understand that one look. OK, give me one second what I'll do. I'll just send you through some general information for you to have a look at. But if you're interested, feel free to give us a call by forty, $100,000 worth of cover up the serious illness. It's only 50% off that life insurance insurance. So it would only be the 50,000 we're able to offer for that one. And that premium that I've given you that's yearly. It's not. It doesn't really go down or anything like that.
+[8 minutes 37 seconds][Customer] : OK. Can you give me the card and send it through to me?
+[8 minutes 39 seconds][Agent] : Yeah. So I would have to go through the health and lifestyle questions to give you the quote, but all I can do is send you through some general information. Yeah. OK. OK. So with this one too, would you like me to put the serious illness on this quote?
+[8 minutes 54 seconds][Customer] : Yes.
+[8 minutes 55 seconds][Agent] : Yeah. OK then. OK. We'll go into this question now. OK, what I do gotta read to you, it's just a pre underwriting disclosure. It basically just told you what you, we do with your information and what your duty of disclosure is when answering our questions. So just making sure you're answering all our questions honestly. So it just says please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We'll share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract, you have a legal duty to provide to us any information you know or could really be expected to know, which may affect our decision to ensure you and in what terms. You do not need to tell us things that we already know or should know as an insurer, or which reduces the risk we insure at the shooting until the time we enter into the contract. If you further disclose the matter or you make a false same and in answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. So, Rachel, do you understand this? Yes, Sony.
+[10 minutes 19 seconds][Customer] : Pardon.
+[10 minutes 20 seconds][Agent] : Do you understand this?
+[10 minutes 21 seconds][Customer] : Yes, I understand it.
+[10 minutes 21 seconds][Agent] : Yes, Sony, no worries. Then we'll go into this question. So it's going to be a pretty straightforward process. I'm just going to ask you a question and just a clear yes or no.
+[10 minutes 36 seconds][Customer] : Yes, I am.
+[10 minutes 31 seconds][Agent] : So the first question, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand?
+[10 minutes 38 seconds][Customer] : Yes, I am a New Zealand citizen.
+[10 minutes 41 seconds][Agent] : So next section, just in regards to some medical history, have you ever had symptoms of being diagnosed with or treated for or incentive medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Lung disorder excluding asthma, sleep apnea or pneumonia, Cancer or leukemia, excluding skin cancer, kidney disorder, hepatitis, or any disorder of the liver.
+[10 minutes 58 seconds][Customer] : No, no, no, no, no.
+[11 minutes 18 seconds][Agent] : Anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[11 minutes 24 seconds][Customer] : I have bipolar.
+[11 minutes 23 seconds][Agent] : Oh, OK, we'll put you to that one. OK, so this is a bit of a drop down here. So in the last five years, have you attempted suicide or been hospitalized for a mental health condition? OK. And so it just says here, is your condition a form of schizophrenia, bipolar or psychotic disorder?
+[11 minutes 38 seconds][Customer] : No bipolar.
+[11 minutes 46 seconds][Agent] : Yes, that one.
+[11 minutes 52 seconds][Customer] : I think we'll be in this now.
+[11 minutes 56 seconds][Agent] : Sorry, what was that?
+[11 minutes 58 seconds][Customer] : I think we should end this now because it's not going to end well for me with bipolar.
+[11 minutes 57 seconds][Agent] : I mean, there's still a few questions ago. I can still take you through these health and last sort of questions and we can get an outcome for yourself.
+[12 minutes 15 seconds][Customer] : Pardon.
+[12 minutes 16 seconds][Agent] : So yeah, I I can still check your due to health. And last our questions because we still don't know the outcome of the application. So have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for murder, neuron disease or any form of dementia including Alzheimer's disease?
+[12 minutes 24 seconds][Customer] : OK, no.
+[12 minutes 40 seconds][Agent] : No worries then. OK, give me one second, OK, No worries. Then we can stop the application there. So a cover has been approved for yourself, OK. It is subject to the following terms and conditions, OK, So we are able to offer you a benefit amount of $50,000 to $100,000 for policy term of 20 years, OK. So I'll give you a indication of that one. I'll give you a rundown on what exactly would be covered, OK? Also, Please note that we are unable to offer you the serious illness option at this time as well, but I can run you through exactly what you would be covered for for the life insurance. So for the 1st 12 months you would be covered for accidental death only and then after 12 months you would be covered for death due to any cause. However, suicide is not covered in the 1st 13 months of the policy, OK? There is also that terminally ill advanced payment included as well. So basically means after holding your policy for 12 months, if you were diagnosed with 12 months or less delayed by a medical practitioner, then we can pay the claim to you in full. Your beneficiaries will also still be able to request a funeral advance payout of $10,000. OK, I'll just let you know that the premium is stepped, which means it would generally increase each year. But in addition, this policy has automatic indexation, which means each year your benefit amount will increase by 2% with associated increases in premium. So you can opt out of this indexation each year. OK, But forty $100,000 worth of cover, you would be looking at a fortnightly premium now of $71.46. OK OK. Is that just a bit too out of the budget at the moment? Yeah Umm, because we can look at the either 75 or 50,000 if you would like.
+[14 minutes 28 seconds][Customer] : No, no.
+[14 minutes 44 seconds][Agent] : No. OK. Is it Yeah. So it's 100,000.
+[14 minutes 52 seconds][Customer] : Yes.
+[14 minutes 48 seconds][Agent] : I'm, I'm not that you will umm that you will want to OK yeah, I understand that one umm, yeah. Look, if you're because we we can offer you from 50,000 up to 100,000 at this point in time, OK? But yeah, if that's the case, I'll just send you through the quoting for the 100,000 for you to have a look at. And if you ever change your mind and if you're ever interested, feel free to give us a call back, OK?
+[15 minutes 20 seconds][Customer] : OK.
+[15 minutes 21 seconds][Agent] : OK, no worries then. Rachel, you have a good weekend.
+[15 minutes 24 seconds][Customer] : Thank you.
+[15 minutes 23 seconds][Agent] : OK, Alright, bye.
+[15 minutes 27 seconds][Customer] : Bye.

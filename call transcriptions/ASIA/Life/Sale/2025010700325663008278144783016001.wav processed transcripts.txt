@@ -1,0 +1,114 @@
+[2 seconds][Customer] : Hello, Cynthia.
+[4 seconds][Agent] : Hi Cynthia, my name is Ashley. I'm calling from Australian Seniors. How are you?
+[3 seconds][Customer] : Speaking Good. How are you?
+[9 seconds][Agent] : Yeah, doing really well. I'm just giving you a call as we have received some expression of interest online with regards to our life insurance.
+[17 seconds][Customer] : Yes, that's right.
+[19 seconds][Agent] : Just like to assist you further, may I please confirm your full name and your date of birth?
+[23 seconds][Customer] : It's Cynthia Farn and it's 12871.
+[27 seconds][Agent] : Thank you. And lastly, I'll just confirm you are a female Australian resident. Thank you. Please note all of our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. So Cynthia, what had you looking into life insurance? Are you completely new to it? Have you had covered before? MM Hmm, yes.
+[31 seconds][Customer] : Yes, I've got existing cover with real life insurance, so I was.
+[54 seconds][Agent] : Do you have a family as well?
+[56 seconds][Customer] : Yes, yes I do.
+[59 seconds][Agent] : OK, so if you do currently have a policy already in place, we do recommend to you not replace an existing policy. Umm, so let me start again. If you are replacing an existing policy, we recommend that you do not cancel that policy until your application has been approved and you received this policy as your new policy may not be identical to your existing cover.
+[1 minutes 17 seconds][Customer] : Yep, Yep. Mm hmm.
+[1 minutes 22 seconds][Agent] : And lastly, you should also consider the benefits that may not apply or any waiting periods that may start again with seniors life insurance. It is designed to provide that financial protection for your loved ones through a lump sum payment if you were to pass away before your 85th birthday when the policy ends.
+[1 minutes 45 seconds][Customer] : Yep.
+[1 minutes 40 seconds][Agent] : You can choose cover between 10,000 up to 200,000 and actually nominate up to five beneficiaries to receive their nominated benefit amount. If death is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with those upfront funeral costs or any other final expenses you do have at the time. It's very easy to apply. We only ask you 8 yes or no health questions over the phone to see if you are approved.
+[2 minutes 12 seconds][Customer] : Yes.
+[2 minutes 13 seconds][Agent] : If you are accepted and once you commence that policy, you will be covered immediately for death due to any cause except suicide in those first thirteen months. In addition, I hope you never have to use this, but there is also coverage as a terminal ill advanced payment included in this cover. So if you were diagnosed with 24 months or less to live by a specialized medical practitioner, we can also pay that benefit amount in full to help with those medical costs.
+[2 minutes 46 seconds][Customer] : No, not at the moment.
+[2 minutes 43 seconds][Agent] : Did you have any questions for me so far or pretty straightforward? OK, wonderful. So let's go through some pricing together. Umm, to begin with, I do have to ask, have you had a cigarette in the last 12 months? Yes or no?
+[2 minutes 48 seconds][Customer] : Yeah, Yeah, yeah, no. I.
+[2 minutes 59 seconds][Agent] : OK, so we have a couple of options in regards to payments. So you can do fortnightly, monthly or annually. Which works better for you?
+[3 minutes 10 seconds][Customer] : Probably monthly.
+[3 minutes 11 seconds][Agent] : Yeah, sure. OK. So keeping in mind that level of cover, again, this range from 10,000 up to 200,000 and we could of course look at different amounts until we find the right level of cover for you. Do you have a amount in mind you wanted me to start with?
+[3 minutes 27 seconds][Customer] : I'll go the maximum.
+[3 minutes 26 seconds][Agent] : OK, Yeah, sure. So if we're looking at the maximum policy of 200,000, you're looking at a monthly premium of $194.10. That equates to about $6.40 per day.
+[3 minutes 28 seconds][Customer] : Yeah, OK.
+[3 minutes 43 seconds][Agent] : How's that sound in your terms of suitability, price wise, budget? Mm hmm.
+[3 minutes 46 seconds][Customer] : Yeah, Good, good.
+[3 minutes 49 seconds][Agent] : Umm, have you, do you have a will in place already?
+[3 minutes 49 seconds][Customer] : Yeah, yes.
+[3 minutes 53 seconds][Agent] : OK. Because with uh, Australian seniors, we do also offer umm, a free online legal will Umm, so that's complementary with any policy we do provide.
+[4 minutes 10 seconds][Customer] : Mm, Hmm.
+[4 minutes 1 seconds][Agent] : And you will also receive complementary subscription of our Australian Seniors Day magazine with each policy you do take out with. And with life insurance, you do have to be aware that your premium is stepped, which means it will increase each year. So as an indica, if you made no changes to your policy, your premium next year would be roughly $207.69. And if you did need more information about the premium structure, you can find that on our website as well.
+[4 minutes 17 seconds][Customer] : Yes, OK, Yep, Yep.
+[4 minutes 33 seconds][Agent] : So the next steps that we can do is if you're happy to, to take you through the health questions just to ensure you would be eligible for this cover. Are you happy to do that now? OK. Before I do so, may I please have your home address starting with the post code and suburb Minato, not Minato South?
+[4 minutes 44 seconds][Customer] : Yes, Yep, it's 5254 Minato, 9 Minato.
+[5 minutes 3 seconds][Agent] : OK, Thank you. And just the address there, please.
+[5 minutes 6 seconds][Customer] : It's 83 Premima PREA MI double MA Rd.
+[5 minutes 18 seconds][Agent] : Wonderful. I have that here. Thank you for that. You're happy for me to have that as your postal address, OK.
+[5 minutes 24 seconds][Customer] : Yes, actually. Excuse me, could you put the postal address as 5042 at Pasadena?
+[5 minutes 42 seconds][Agent] : So I'll get you to, I just have to bring up the postal address section again. Could you just repeat that first part for yes. Mm hmm, OK, PO Box, sorry. Could you repeat that one more time?
+[5 minutes 47 seconds][Customer] : Yep, 5042 Pasadena and it's PO Box 1025 10/25.
+[6 minutes 12 seconds][Agent] : 10/25 Thank you for that. What was the post code there? I'm so sorry. May I please have the PO Box 1 more time? Sorry.
+[6 minutes 40 seconds][Customer] : 5042, yeah, it's 10/10/25.
+[6 minutes 55 seconds][Agent] : Thank you. OK, perfect. So that's been updated. OK. All right, let me just get back into this application. So what I have to do now, I do have to read you what we call a pre underwriting disclosure agreement. It just takes a couple of minutes to do so.
+[7 minutes 14 seconds][Customer] : Yep.
+[7 minutes 14 seconds][Agent] : So bear with me while I bring that out, OK? So please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other Australian service providers for the purpose of administering a policy or handling claims. A privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this weapons, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty, yes or no?
+[8 minutes 26 seconds][Customer] : Yes.
+[8 minutes 26 seconds][Agent] : Thank you. Before I get into those health questions, I do need to ask you, umm, a question specific to COVID-19. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, a failure or a stroke? In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions?
+[8 minutes 43 seconds][Customer] : No, no, no.
+[9 minutes 3 seconds][Agent] : In the last five years, have you been diagnosed with or treated for any of the following cancers, Lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently soon to be treated with chemotherapy? Do you have a renal kidney condition that currently requires dialysis or transplant? Our doctor has advised will be required in the future. Do you have a liver condition that will require a transplant in the future? Have you been diagnosed with or currently undergoing testing for, or has a doctor advised you to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease? In the last five years, have you attempted suicide or been hospitalized for a mental health condition?
+[9 minutes 22 seconds][Customer] : No, no, no, no, no.
+[9 minutes 59 seconds][Agent] : Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or been diagnosed as having 12 months or less to lift? Fantastic, that concludes the health questions, so just bear with me while this loads up. Umm, you have been fully approved obviously for that application. Congratulations.
+[10 minutes 10 seconds][Customer] : 9 Thank you.
+[10 minutes 22 seconds][Agent] : So what I can do is I can get you immediately covered over the phone today and I can send you those tailored policy documents for yourself to review. The policy does give you a 30 day calling off. So if you decide that this policy isn't suitable, you can cancel within those 30 days and then receive a full refund of any premiums you've paid unless a claim has been made. All we do is collect payment details, either a BSB and account number or a Visa and MasterCard. But you're not required to make any payments today. We generally collect payment, umm, a day that you have picked in the future that is most suitable. So a payday or a day that all of your bills, umm, get collected. Umm, are you happier to do to, to continue doing that? OK, just stay with me while I load this payment details. Actually, before I do that, I just wanna confirm your e-mail address because you will receive those, umm, electronic, umm, documents that'll probably come through within the next half an hour to an hour. If you then will save, uh, physical documents in the mail. So that'll come through, I'll say within the next three to five business days.
+[11 minutes 9 seconds][Customer] : Yes, Yep.
+[11 minutes 43 seconds][Agent] : There is also a form in there for your beneficiaries. So as I've mentioned before, you do pick up five beneficiaries that are most suitable and you can then mail that back to us. So all of that will be in your physical documents for yourself to review. Umm, so I have uhanemailherespacesodivine11@outlook.com.
+[11 minutes 56 seconds][Customer] : OK, That's right.
+[12 minutes 5 seconds][Agent] : Thank you. And I'll just confirm your number as well.
+[12 minutes 11 seconds][Customer] : That's right.
+[12 minutes 7 seconds][Agent] : 04, uh, 19826707 Thank you. And I just wanna make sure you pronounce your last name. Is it fro is it Fran?
+[12 minutes 18 seconds][Customer] : Yeah. Fran.
+[12 minutes 20 seconds][Agent] : Fran?
+[12 minutes 20 seconds][Customer] : Fran.
+[12 minutes 20 seconds][Agent] : OK, wonderful. I just wanna make sure I pronounce that right.
+[12 minutes 21 seconds][Customer] : Yeah, yeah.
+[12 minutes 25 seconds][Agent] : OK. And before I go into those payment details, I just want to confirm we're doing a policy of 200,000 and a monthly premium of $194.10. OK. OK. Umm, how would you like to proceed with payment details? Do you prefer a month or a Visa card or a direct debit of a bank account?
+[12 minutes 36 seconds][Customer] : Yep, an account.
+[12 minutes 53 seconds][Agent] : Yeah, sure. Is this coming from a savings account? OK. Your BSB, whenever you're ready, please. I'm so sorry. You kind of broke up that first couple of numbers there. Thank you. And your account number. Wonderful. And what's that account name under please?
+[12 minutes 56 seconds][Customer] : Yes, and 865102, 065102 10464129 it's Shedies Paparachi Limited. That's SH EE TYZ. Paparachi Limited. Yeah, So PTYLTD. Yeah.
+[13 minutes 41 seconds][Agent] : Limited PTYOTD. So I just wanna make sure I spelled this right. So it's chapter EE TYZ limited.
+[13 minutes 58 seconds][Customer] : S for Sam H EE TYZ. That's that's alright.
+[13 minutes 57 seconds][Agent] : Oh, mm, hmm, limited. And then PDYLTD.
+[14 minutes 10 seconds][Customer] : Hang on, let's start again. So it's Sheedes S for Sam H EE TYZ. And then it's PTYLTD.
+[14 minutes 14 seconds][Agent] : Yes, mm, hmm. Oh, I see. And then limited. OK, I'm with you. OK.
+[14 minutes 24 seconds][Customer] : Yeah, yeah, yeah. Sorry to confuse you.
+[14 minutes 28 seconds][Agent] : And I do have no, that's that's OK. I do have to ask you, do you have authorization to direct debit from this bank account? OK.
+[14 minutes 35 seconds][Customer] : Yes, that's right.
+[14 minutes 40 seconds][Agent] : Is it pronounced sheeties just so I pronounce that right in the declaration.
+[14 minutes 45 seconds][Customer] : Yep, that's right.
+[14 minutes 44 seconds][Agent] : OK, wonderful. Do you have a preference of the date that we can start collecting that every month?
+[14 minutes 52 seconds][Customer] : I'll just make it the 10th of every month.
+[14 minutes 55 seconds][Agent] : Yeah, sure. All right. So I'm putting the first collection date of the 10th of January 2025 and that'll be direct debited every month on the 10th.
+[15 minutes 5 seconds][Customer] : OK, brilliant.
+[15 minutes 6 seconds][Agent] : OK, OK. Thank you for that. Before I read the declaration and organize those policy documents to be sent, I would just confirm your full name is Cynthia Fran. Thank you. So I'm now going to read the declaration. It does take me a couple of minutes to do so. I will ask you very too clear yes or no questions at the end.
+[15 minutes 19 seconds][Customer] : Yes, Yep.
+[15 minutes 28 seconds][Agent] : But if you do have questions throughout this declaration, please feel free to stop me and ask and I will answer those for you.
+[15 minutes 35 seconds][Customer] : OK.
+[15 minutes 36 seconds][Agent] : OK, thank you, Cynthia. Fran, it is important you understand the following information. I will ask you if your agreement, these terms at the end and your policy will not be enforced unless you agree to these terms in full. Seniors life insurance is issued by Hanover Lifely of Australasia Ltd Hanover has an arrangement with Greenstone Financial Services, trading as Australian Seniors Insurance Agency, to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information we have provided when assessing the application. That includes the information we initially collected from you to provide a quote. How does it has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty, yes or no?
+[16 minutes 37 seconds][Customer] : Yes.
+[16 minutes 38 seconds][Agent] : Thank you. We may from time to time provide office. Uh, sorry, let me start again. We may from time to time provide office to you via the communication methods you have provided for us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following. Cynthia Fan received 200,000. In the event of death, if death is a result of an accident, the benefit payment, sorry. The benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. The cover expires on the 11th of the 8th, 2056 at 12:00 AM. Your premium for your first year of cover is $194.10 per month. Your premium is stepped, which means will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium, calculated on a level basis. Over the life of the policy. Your premium will be debited from your nominated bank account in the name of Shat. Is it Shatizi Shatiz UH Pty Ltd Limited, which you are authorized to debit from and have provided to us?
+[18 minutes 3 seconds][Customer] : 80s, yeah.
+[18 minutes 12 seconds][Agent] : We may provide written communications to you via the e-mail address you have provided to us. This will include any legal notices we are required to provide to you. If you'd prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We we have a complaints process which you can access at any time by contacting us. Full details are available online and then the documentation we are sending you. Do you understand and agree with the declaration? Sorry, umm one more time you break up a little bit.
+[19 minutes 17 seconds][Customer] : Yes, yes.
+[19 minutes 22 seconds][Agent] : Thank you. Would you like any other information or would you like me to read any part of the PDF to you?
+[19 minutes 29 seconds][Customer] : No, that's fine.
+[19 minutes 30 seconds][Agent] : All right, thank you so much for that, Cynthia. So I'm now just accepting this declaration on your behalf. As I've mentioned before, obviously check your spam and your e-mail for those documentations.
+[19 minutes 44 seconds][Customer] : OK.
+[19 minutes 42 seconds][Agent] : They'll be sent probably within the hour and three to five business days for those physical documents. Thank you so much for choosing Australian seniors. That's all completed for you. While I have you on the phone, was there anything else I could assist you with now? Yes.
+[19 minutes 56 seconds][Customer] : So I wanted to ask you do vehicle insurance as well. Yeah.
+[20 minutes 2 seconds][Agent] : Car insurance, yeah, we, we do that definitely.
+[20 minutes 7 seconds][Customer] : OK.
+[20 minutes 6 seconds][Agent] : Umm, let me have a look. Who's got no with umm, general insurance. That is another department and I'm just not sure. Umm, let me have a look.
+[20 minutes 8 seconds][Customer] : And home insurance that that's alright. I was just curious to know because I want to start comparing policies, that's all.
+[20 minutes 30 seconds][Agent] : Yeah, of course. Umm, I can try. So I'm just having a look.
+[20 minutes 38 seconds][Customer] : I won't do it now, but I'll probably next week. I'll call back and organise it, that's all.
+[20 minutes 44 seconds][Agent] : Yeah, of course. That's no problem at all.
+[20 minutes 47 seconds][Customer] : Yeah. Brilliant.
+[20 minutes 48 seconds][Agent] : Alright, thanks Cynthia.
+[20 minutes 50 seconds][Customer] : Thank you for your time.
+[20 minutes 51 seconds][Agent] : No problem. You too. Take care. Bye. Bye.
+[20 minutes 51 seconds][Customer] : You have a lovely day, bye.
+[20 minutes 55 seconds][Agent] : Bye.

@@ -1,0 +1,41 @@
+[2 seconds][Agent] : Hi Salila Wadi, it's ADA. I'm calling you from Australian Famous Insurance. How are you today? Oh, OK, so I'm just calling you because we've received expression of interest online with regards to our life insurance. So I can see that you're looking into life insurance this morning. Just so I can help assist you and answer any questions you have. Can you please confirm your full name and your date of birth? Great. Thank you for this information. Now can you confirm that you are a female Australian resident?
+[1 seconds][Customer] : Hello, well May 1978 I see now I'm pretty thin.
+[42 seconds][Agent] : OK, so you're a female and can you confirm they are an Australian resident?
+[50 seconds][Customer] : I don't know why I said, look, I'm Citizen.
+[51 seconds][Agent] : Just a sorry you're an Australian citizen. Yes. So I do require a yes or a no response. So if you can please confirm that you are also an Australian resident. Yes or no?
+[57 seconds][Customer] : Yes, I come from Citizen.
+[1 minutes 13 seconds][Agent] : Yep, sure. So I in order for me to help this issue, I will need to confirm that you're an Australian resident. So I'm Selena what? What date do you know if you're an Australian resident?
+[1 minutes 26 seconds][Customer] : Australian Resident Australian resident.
+[1 minutes 33 seconds][Agent] : Yes. And do you have your your Australian residence, yes or no?
+[1 minutes 48 seconds][Customer] : I live in Australia now.
+[1 minutes 51 seconds][Agent] : Oh, OK, yes. So you you can say yes to the question that I do ask if you're an Australian resident. So, so Leela Wadi, are you an Australian resident? Yep. So no.
+[2 minutes 4 seconds][Customer] : No, I just, I think the do the form apply just how much, how much, how much per month I need to pay for it?
+[2 minutes 14 seconds][Agent] : Yep. So I can help you with this, but in order to be eligible, you need to be an Australian resident. So are you an Australian resident?
+[2 minutes 23 seconds][Customer] : Why? Why didn't my telephone? It's a it's a spam. Why like this?
+[2 minutes 31 seconds][Agent] : Oh, OK, I do apologise about this. I can certainly erase this for you so that our team can look into why another's showing a spam for you. I can definitely reassure you, my name is Cedar and I'm calling you from Australian Seniors Insurance because we we have got information here that you were looking into our services this morning.
+[2 minutes 55 seconds][Customer] : Yeah, I'm looking at it this morning.
+[2 minutes 59 seconds][Agent] : Yes. So Please note that all our calls are recorded and any advice I provide to you is generally nature and that may not be suitable to your situation. So I do need to confirm you that you have confirmed you are a female, but I need to confirm you're an Australian resident and I need a yes or no response. Thank you. So I can proceed with this. Celila Wadi, can you please confirm so that I can have a better understanding of what sparked your interest? So are you new to life insurance or do you currently have some sort of cover in place? Yep. So are you new to life insurance? OK. Do you have life insurance somewhere else or no?
+[3 minutes 14 seconds][Customer] : Yes, yes, I just, I just first time I I tried to exercise for that.
+[3 minutes 49 seconds][Agent] : Oh, OK, sure. So you're just browsing to see on how much it would cost for you, Is that OK? Is that correct?
+[3 minutes 59 seconds][Customer] : Yeah. How much per month?
+[4 minutes 1 seconds][Agent] : Oh, OK, no, sure, I can certainly help you with this. So what I'm going to do first is I'm just going to go through the cover with you over the phone. I can explain to you the features and the benefits we offer. And if you have any questions, just feel free to stop me and I can answer this for you. Is that OK?
+[4 minutes 17 seconds][Customer] : Yeah.
+[4 minutes 18 seconds][Agent] : OK, great. So seniors life insurance that you've looked into is designed to provide financial protection for your loved ones and your family if you were to pass away before your 85th birthday when the policy ends. So you can choose a cover between $10,000 up to $200,000 and you can nominate 5 beneficiaries to receive the nominated benefit amount. So do you have anybody in mind that you would like to nominate as your beneficiary?
+[4 minutes 46 seconds][Customer] : I, I cover, I I'm not sure I cover 2 million or 200,000 something like that.
+[4 minutes 59 seconds][Agent] : Oh, OK. So what I'm going to do, can I just ask what language you speak?
+[4 minutes 55 seconds][Customer] : Is there how much per month I need to pay that I'm speaking with? And tired and loud?
+[5 minutes 12 seconds][Agent] : OK, so Tai and Lao, any one of those languages? Correct. OK, great. Do you have any would would you like a translator or do you understand what I'm saying?
+[5 minutes 15 seconds][Customer] : Yes, English tired and loud I can understand. I have somebody with me yet.
+[5 minutes 32 seconds][Agent] : Oh, OK, now, yes. So I do need to tell you, sorry, just going to continue. So yes, beneficiaries are people. 5 Beneficiaries are people that you choose to receive the amount if you were to pass away before your 85th birthday.
+[5 minutes 54 seconds][Customer] : Like when you put policy, you have to have one beneficiary. There's something happened to you. All the money that you've passed from the from the insurance. Who's gonna get that? That's what they'll be. You are like your parents after you pass it. So they are.
+[6 minutes 13 seconds][Agent] : OK, OK, so Lila would be what I'm going to do is I'm just going to add a translator into alcohol. Is that OK with you? OK, sure. So I'm just going to place you on a brief hold while I while I add someone that speaks Lol or Thai.
+[6 minutes 26 seconds][Customer] : Yes, I speak loud Thai in English, Yeah.
+[6 minutes 39 seconds][Agent] : OK, perfect. Thank you. I'll place you on a brief hold. Thank you so much for waiting. Thank you so much for waiting. Celila Wabi. Yeah, so I do apologize. We are unfortunately unable to find a loud or Thai interpreter at the moment. But what I'm going to do is I'm just going to try to contact them in a few hours. If I am successful, is it OK if I can return your call and call you back at a later time with the interpreter?
+[14 minutes 2 seconds][Customer] : OK. Thank you.
+[14 minutes 4 seconds][Agent] : Yep. So is that OK? In a few hours I can call you back.
+[14 minutes 8 seconds][Customer] : What is the name of the company you were calling from?
+[14 minutes 11 seconds][Agent] : I'm calling from Australian Senior's insurance and I do need to let you know all calls are being recorded. Any advice I provide you is general nature may not be suitable to your situation.
+[14 minutes 23 seconds][Customer] : OK, thank you. Yeah.
+[14 minutes 25 seconds][Agent] : OK, sure. I'll speak to you soon. Thank you.
+[14 minutes 29 seconds][Customer] : Bye.
+[14 minutes 30 seconds][Agent] : Bye.

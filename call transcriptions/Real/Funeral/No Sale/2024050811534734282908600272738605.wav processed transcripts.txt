@@ -1,0 +1,32 @@
+[1 seconds][Agent] : Welcome to Real Insurance. You're speaking with Carol. How can I help you?
+[5 seconds][Customer] : Oh, yes, hi, Carol. So I'm just calling in there to find out, get information.
+[15 seconds][Agent] : Of course.
+[10 seconds][Customer] : It's just that I want to do a, a funeral plan and that's for my mum, if that's OK.
+[16 seconds][Agent] : Yeah, of course. Let me just pop.
+[17 seconds][Customer] : But coming up. Yeah. Oh, OK. Sorry.
+[19 seconds][Agent] : Sorry.
+[20 seconds][Customer] : Sorry.
+[20 seconds][Agent] : What were you saying? I'm S I'm so sorry.
+[20 seconds][Customer] : Oh, no, no, that's OK. Sorry. I was just saying that 'cause I'm 'cause I'm, I'll be paying for it.
+[28 seconds][Agent] : Yep. Perfect.
+[29 seconds][Customer] : Is that right?
+[29 seconds][Agent] : Let.
+[30 seconds][Customer] : Yeah.
+[30 seconds][Agent] : Yeah, of course. Let me pop you through to that right department.
+[34 seconds][Customer] : Thank you.
+[33 seconds][Agent] : Sorry, I'm just in the middle of Transbury. Can you speak, James?
+[52 seconds][Customer] : Thank you.
+[50 seconds][Agent] : OK, just putting you through now and your name.
+[52 seconds][Customer] : T0T 0A.
+[55 seconds][Agent] : Thank you. So I won't be a moment.
+[58 seconds][Customer] : Thank you.
+[1 minutes 9 seconds][Agent] : Ready. Sorry, I was just finalizing transferring.
+[1 minutes 18 seconds][Customer] : That's OK.
+[1 minutes 19 seconds][Agent] : How's your morning been?
+[1 minutes 22 seconds][Customer] : Uh, not too bad actually. I'm actually at work, so I'm just calling. Hey Carol.
+[1 minutes 24 seconds][Agent] : Oh OK, I'll put you through now wants to take out funeral for her parents.
+[1 minutes 31 seconds][Customer] : OK, that's perfect.
+[1 minutes 32 seconds][Agent] : OK for I know go for.
+[1 minutes 34 seconds][Customer] : OK, Thank you. Thanks.
+[1 minutes 36 seconds][Agent] : OK, hang on.
+[1 minutes 41 seconds][Customer] : It's.

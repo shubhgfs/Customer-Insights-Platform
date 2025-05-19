@@ -1,0 +1,82 @@
+[16 seconds][Customer] : Hello.
+[18 seconds][Agent] : Good. Good morning Russell, it's Bash calling you from Australian Seniors Insurance. How are you?
+[23 seconds][Customer] : Good. Thanks.
+[24 seconds][Agent] : That's good Russell. The register for my calls with us for your online enquiry just now for life insurance.
+[30 seconds][Customer] : Yep.
+[31 seconds][Agent] : Yes. I'm going to run through the call. You requested it to answer the question that you might have.
+[36 seconds][Customer] : No. No, really.
+[38 seconds][Agent] : That's all right. We'll look. If you have any questions, you can always let me know.
+[42 seconds][Customer] : Yep.
+[42 seconds][Agent] : Yeah, I do need to. I do need to let you know the whole call is recorded. Any advice I provide This general nature may not be suitable to the situation. And I have your name here as Russell Howard.
+[51 seconds][Customer] : Yep.
+[52 seconds][Agent] : Russell Howard. Thank you. And your date of birth of the 20th of the 1st 1955.
+[58 seconds][Customer] : Correct.
+[59 seconds][Agent] : Thank you. And you are a male Australian resident.
+[1 minutes 2 seconds][Customer] : Yep.
+[1 minutes 4 seconds][Agent] : Thank you for that. Just remind all calls recorded. Any advice provided this general nature but not be suitable to situation. Thank you for confirming your details there with me also. And thanks for putting your details through. And umm, your birthday's coming up in a couple of days. Any plans?
+[1 minutes 19 seconds][Customer] : No, not really.
+[1 minutes 22 seconds][Agent] : No take, no nothing like that. Not fair enough for us to speak to you then. Happy birthday.
+[1 minutes 24 seconds][Customer] : No thank you.
+[1 minutes 30 seconds][Agent] : Umm that's alright Russell, what made you want to look into life insurance?
+[1 minutes 34 seconds][Customer] : No. Well, we haven't gotten these, uh, one of.
+[1 minutes 38 seconds][Agent] : Well not fair enough. Well look, it's very simple and easy to apply for there Russell. Umm it gets paid as a lump sum payment if you were to pass away before your 85th birthday when the policy ends.
+[1 minutes 52 seconds][Customer] : Yep. No hundred cents or what?
+[1 minutes 51 seconds][Agent] : OK, now you could choose cover anywhere between $10,000 all the way up to 200,000 100 sounds good no worries. And we do go through nine yes and no questions relating to your health.
+[2 minutes 13 seconds][Customer] : Yeah, uh huh.
+[2 minutes 5 seconds][Agent] : And if you are accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause except for suicide in the 1st 13 months.
+[2 minutes 17 seconds][Customer] : Yep.
+[2 minutes 17 seconds][Agent] : All right. And we also have a terminally ill advanced payments that means if you were diagnosed with 24 months or less to live by a specialized medical practitioner who will also pay the claim out to you in full. But knock on wood would help. You don't have to use that.
+[2 minutes 32 seconds][Customer] : Yep, Yep.
+[2 minutes 32 seconds][Agent] : Alright, now does that all make sense so far, Russell Alright, now I see you're looking to a joint policy. Is that for yourself and for your partner?
+[2 minutes 44 seconds][Customer] : Yes.
+[2 minutes 45 seconds][Agent] : What's What's your partner's date of birth?
+[2 minutes 53 seconds][Customer] : The seventh of the 6th, 55 KKAY.
+[2 minutes 57 seconds][Agent] : And your partner's name, Thank you. And same surname as yourself and she is a female Australian resident.
+[3 minutes 6 seconds][Customer] : Yep, Yep.
+[3 minutes 13 seconds][Agent] : Thank you. All right, so let's just look into that for you now. Have you had a secret in the last 12 months?
+[3 minutes 31 seconds][Customer] : Yep, I'm a smoker.
+[3 minutes 33 seconds][Agent] : Me too. I've had one about a couple of hours ago. I'm due for another one. Has K had a secret in the last 12 months?
+[3 minutes 39 seconds][Customer] : Yep. Just suppose I could smoke it too.
+[3 minutes 43 seconds][Agent] : And you would cover for the $100,000 each?
+[3 minutes 48 seconds][Customer] : Yep.
+[3 minutes 50 seconds][Agent] : No worries. So for the $100,000 for yourself, Russell is $209.78 a fortnight.
+[4 minutes 2 seconds][Customer] : Yeah, no, don't worry about it.
+[3 minutes 55 seconds][Agent] : And for your wife, if for K it's $185.33 a fortnight, that's alright. We could look at a different amount for you. OK.
+[4 minutes 10 seconds][Customer] : Yep.
+[4 minutes 7 seconds][Agent] : We could look at the 50,000, which is $104.89 for yourself and it's $92.67, OK, which is $197.56 fortnight. Yeah, yeah, or no worries. W Look, we could, like I said, you could choose anywhere between $10,000 all the way up to 200.
+[4 minutes 21 seconds][Customer] : Yeah, don't worry about it not to.
+[4 minutes 33 seconds][Agent] : It's not that's alright. If we look at the twenty $20,000 each altogether it's $79.03 a fortnight. Is we, is that be more suitable for you?
+[4 minutes 44 seconds][Customer] : Yeah, I have to talk to the lawyer for better.
+[4 minutes 42 seconds][Agent] : And K, no worries Sir, for yourself there it's $41.96 a fortnight for 20,000. Is that a bit more affordable for you?
+[4 minutes 59 seconds][Customer] : No, I don't know. I'd like to talk to the wife anyway.
+[5 minutes 5 seconds][Agent] : Fair enough. No worries. Let me just look into that for you. Is your wife available?
+[5 minutes 12 seconds][Customer] : She's not gone out to shopping.
+[5 minutes 15 seconds][Agent] : Fair enough. All right now, Russell, I'll, I'll keep it the 20,000 for yourself, which is $41.96 a fortnight. Yeah, your premium is stepped as well. So that means it will increase itchy as your age. Well, so your premium is step, which means it will increase each year. And as an indication, if you make no changes to the policy, your premium next year will be $44.90 a fortnight for yourself.
+[5 minutes 44 seconds][Customer] : Yeah. Uh huh.
+[5 minutes 46 seconds][Agent] : All right, then you can, you can also find information about our premium structure on our website. Now we do go through those health questions that serve me if you're eligible for the cover, Russell. And since I have you on the phone, we can go through them with you today.
+[5 minutes 57 seconds][Customer] : Yeah, sorry.
+[6 minutes 3 seconds][Agent] : Since I have you on the phone, we can go through the through them with you over the phone today.
+[6 minutes 8 seconds][Customer] : Yep.
+[6 minutes 10 seconds][Agent] : But I do need to note down an address. Can I start with your post code and the suburb and your address?
+[6 minutes 15 seconds][Customer] : 4178 Wynnum WY double NUM Tim Lauren. Close as in Zeal's name.
+[6 minutes 28 seconds][Agent] : Thank you. And that's where you get all your mail.
+[6 minutes 31 seconds][Customer] : Sorry.
+[6 minutes 32 seconds][Agent] : That's where you get all your mail goes down to that post as well.
+[6 minutes 35 seconds][Customer] : Yeah, yeah.
+[6 minutes 36 seconds][Agent] : Thank you. Thank you for that Russell. I'm going to read out a pre underwriting disclosure statement and it states here to. Please be advised that all calls recorded umm for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other Australian service providers for the purpose of this issue. Your policy or handling claims. A privacy policy tells you more, including how to access acreage information and lodge complaints about breaches of privacy. By proceeding, you understand that you applied to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make misrepresentations. This means you need to ensure that you understand each question I ask you and they provide honest, accurate, complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussion you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty?
+[7 minutes 44 seconds][Customer] : Yeah.
+[7 minutes 45 seconds][Agent] : Thank you. And have you been hospitalized for COVID-19 the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[7 minutes 50 seconds][Customer] : No, no.
+[7 minutes 55 seconds][Agent] : In the last five years?
+[8 minutes 3 seconds][Customer] : It was a stroke two years ago.
+[7 minutes 56 seconds][Agent] : Have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke two years ago? Oh, sorry to hear about that. And were you hospitalized for it?
+[8 minutes 11 seconds][Customer] : Just one moment.
+[8 minutes 13 seconds][Agent] : I'm not. Let me see. Now based based on your answer due to the stroke hospitalization, because of the stroke couple of years ago, we are unable to offer you cover at this time for life insurance. Yeah, you can ask the insurer to review this decision and if you're not happy with the outcome, you can request that we treat this as a complaint.
+[8 minutes 40 seconds][Customer] : Yep.
+[8 minutes 41 seconds][Agent] : Would you like to, would you like that?
+[8 minutes 47 seconds][Customer] : Nah, I'll give it a miss.
+[8 minutes 43 seconds][Agent] : So you want to ask the insurer to review this decision, That's all right. Well, look, we do have funeral insurance there Russell, if you like me to explain that, give you some information on the fuel insurance to give you a pricing on that.
+[8 minutes 58 seconds][Customer] : Nah, sure.
+[8 minutes 55 seconds][Agent] : If you like know something you're looking for because we're looking to the health, we are looking to be help when it comes to funeral insurance. It's acceptance guaranteed. Frustrating. Residents age between the ages of UH-40 and 79. Lots of information on funeral insurance. Hello. Hello.
+[9 minutes 48 seconds][Customer] : Yeah.
+[9 minutes 51 seconds][Agent] : Hello.

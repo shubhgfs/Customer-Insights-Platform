@@ -1,0 +1,48 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : OK, sorry about that. I'm not too sure what happened there. Yeah. Were you still able to hear me? Sorry.
+[9 seconds][Customer] : No, no, you, you started to say something.
+[13 seconds][Agent] : Yeah.
+[14 seconds][Customer] : It was just after the when you asked me if I wanted to hear any of the PBS. The PBS products? Yeah.
+[20 seconds][Agent] : PDS OK, no worries. So look, umm, I'll just start. I don't have to read the whole thing there. OK. But just before we do hop into, do you mind just again confirming your full name and date of birth, uh, this time the full legal name if you can as well.
+[30 seconds][Customer] : Yep, Yep. Katrina Elizabeth Bush, 9th of 4th, 1970.
+[36 seconds][Agent] : Thanks Kate. And umm, please be advice. Of course, calls are recorded. Any advice that provides general nature and may not be suitable to your situation. So just that last bit that I read out to yourself as well there, Kate, umm, would you like any other information or would you like me to read any part of the PDS to you?
+[52 seconds][Customer] : No thank you.
+[53 seconds][Agent] : Thanks Kate. And sorry I was asking you a question before, umm, we got cut off here. I just wanted to make sure I'm doing right by you for that cover that you had do yourself. Managed Superfund. OK. Was that still going?
+[1 minutes 5 seconds][Customer] : It is at the moment, yes.
+[1 minutes 7 seconds][Agent] : OK, no worries. Just we do have to let all of our customers know there. OK Umm, if you are replacing an existing policy, uh, we recommend you do not cancel it until your application has been approved and you reviewed this policy in full as it may not be identical to your existing cover. And of course, you should also consider the benefits that may not apply or waiting periods that may start again there as well. OK. But I'll accept that, umm, policy on your behalf as well. OK, So that's all set up for yourself. Again. Thank you for choosing, uh, real insurance there, uh, from my end there. OK. Was there anything else that I can help? Yeah. What did you wanna still have a look there at the intern protection there as well? Yeah, that's right.
+[1 minutes 41 seconds][Customer] : Yeah, so, so in terms of getting a just with it set up in in the same way I will need to have him call or I can ask for the call.
+[1 minutes 54 seconds][Agent] : So, yeah, we need to take just through those questions there as well. Uh, what I provided for yourself is just more so an indicative quote. So, umm, as you would have seen, you know, your prices did change just because of the loadings that were umm, that were applied to your policy there. Like I mentioned in the P uh, in that final declaration there as well. OK, That isn't something that, umm, that is something that you can give us a call and apply to have reviewed in the future there as well when your circumstances change.
+[2 minutes 1 seconds][Customer] : Yep, Yep, Yep, Yep.
+[2 minutes 19 seconds][Agent] : Umm, But yeah, for Jeff, we do need to chat to him personally and I'm taking through those questions there as well. So you could just give us a call anytime he'd like when he's free or otherwise, we can give him a call as well. MMM.
+[2 minutes 31 seconds][Customer] : OK. And do I so that I guess we we kept all together. I mean, maybe it doesn't work that way. We probably have two separate policies. Do we or we would?
+[2 minutes 42 seconds][Agent] : Yeah, that's right. So you'll be able to nominate just as your beneficiaries.
+[2 minutes 55 seconds][Customer] : Yep.
+[2 minutes 45 seconds][Agent] : Uh, there's no differences in pricing anyway, Katrina, if you decided to line it up, umm, uh, or do a joint application or, umm, a single application just means right now you've got that cover in place, which, uh, just to remind you again, uh, that's due to any causes what you're covered for except suicide and the 1st 18 months.
+[3 minutes 2 seconds][Customer] : Yeah, yeah, No, that's fine. Yep. So I do have TH, that's fine. I can get him to to call in.
+[3 minutes 4 seconds][Agent] : Yeah, Yeah, that's fine.
+[3 minutes 10 seconds][Customer] : Just wanted to clarify something on the order index things that you did indicate that that could be opted out. Now the auto index is about increasing the coverage automatically. Is that correct?
+[3 minutes 15 seconds][Agent] : Yeah, Yep, that's right.
+[3 minutes 25 seconds][Customer] : Yep. And it's independent of the premium changing. I mean it's it's related because there could be a premium increase just simply because I should have age, but also a premium increase to cover the hi higher cover amount.
+[3 minutes 40 seconds][Agent] : Yeah, that's right. So just to what was your question specifically? Sorry, Kate. Yeah. OK.
+[3 minutes 39 seconds][Customer] : Yeah, well, I, I'm thinking I would like to opt out of the auto detecting because, but I want to just clarify. So W we've got 500 covered at the moment. If I leave the auto window thing on as you mentioned for next year, it would then go to, well like in 12 months time it would go to 525. So 5 auto.
+[4 minutes 3 seconds][Agent] : Yeah, that's right.
+[4 minutes 4 seconds][Customer] : If I know if I opt out, it just hits at 500. Is that correct?
+[4 minutes 8 seconds][Agent] : Yeah, that's right. That's right.
+[4 minutes 9 seconds][Customer] : Yeah, yeah, OK.
+[4 minutes 10 seconds][Agent] : Exactly right.
+[4 minutes 10 seconds][Customer] : So yeah, yeah. So I would definitely want to opt out of the auto increase please.
+[4 minutes 15 seconds][Agent] : Yeah, no worries.
+[4 minutes 29 seconds][Customer] : You can do it at that point.
+[4 minutes 15 seconds][Agent] : Umm, I believe our, umm, support team might be able to, uh, already set that as a, as a, like a decline to that automatic indexation each year, but every year you get your policy renewal, umm, details and stuff and you can, uh, give us a call before that date.
+[4 minutes 31 seconds][Customer] : Yep. OK. Yeah. OK. No, that's fine. I can. I can do that once I've got those papers. That's fine.
+[4 minutes 31 seconds][Agent] : Yeah, just to, just to let you know, OK, that's just so those papers, uh, your hard copy there is, OK will be at your address there around 3:00 to 5:00 business days, umm, from today. And then you'll get some copies by e-mail as well. Uh, should be within the next half hour or so.
+[4 minutes 52 seconds][Customer] : Yeah, that's fine. Yeah.
+[4 minutes 59 seconds][Agent] : Yeah, no worries.
+[4 minutes 55 seconds][Customer] : So can we have a a look at income protection just to show I've got an idea?
+[5 minutes 2 seconds][Agent] : Yeah, no stress. Give me one second. I'll just have a look if I can get someone to help you out with the income protection. OK.
+[5 minutes 8 seconds][Customer] : Sure. No, that's fine.
+[5 minutes 8 seconds][Agent] : I'm only changing the life department at this moment, so I need to just pop up in a brief while. I'll see if I can get someone to help you out. Won't be too long.
+[5 minutes 15 seconds][Customer] : Thank you.
+[5 minutes 16 seconds][Agent] : Thanks again. Hi again, Ken, thanks for your patience there. We've got a Cam from our UMM IP team there that can help you out with UMM, going through UMM, getting some coverage set up for you software as well. Uh, all the best I can.
+[7 minutes 14 seconds][Customer] : Thank you.
+[7 minutes 15 seconds][Agent] : Thanks. Uh, thanks Simon, I've confirmed for a full details there as well. Thanks. Thanks. Thanks, I appreciate it.

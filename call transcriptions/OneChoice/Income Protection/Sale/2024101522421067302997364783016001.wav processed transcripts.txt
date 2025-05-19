@@ -1,0 +1,48 @@
+[0 seconds][Agent] : Jessica, thank you so much for your patience there. I've got Michael on the line. He's going to be able to assist adding the beneficiaries for your life insurance cover.
+[7 seconds][Customer] : No problem.
+[7 seconds][Agent] : Now, just for the call recording, I would advise that that confirms full name, date of birth, address, phone number and e-mail with the client on this call as well. Thank you so much again for your time. You have a lovely day.
+[17 seconds][Customer] : You too. Take care. Thank you so much for helping me.
+[19 seconds][Agent] : My pleasure. Bye bye.
+[21 seconds][Customer] : Thanks, mate.
+[23 seconds][Agent] : Good morning, husband. My name is Michael from the support department of One Choice Insurance. How are you today?
+[29 seconds][Customer] : That's good. Thank you, Mark. How about yourself?
+[31 seconds][Agent] : I'm great, thanks for asking. I've been told you wanting to add the beneficiaries to the life insurance.
+[37 seconds][Customer] : That's great. Yes.
+[38 seconds][Agent] : Sure, I can give you a hand with that. Now for me to add someone as a beneficiary, I'm going to need to put in a name, date of birth, address and if they have 1A contact number as well. So I'll just confirm that you have those details ready for any all the beneficiaries.
+[53 seconds][Customer] : I do yes.
+[54 seconds][Agent] : Fantastic. Now while I get this ready, I'm just gonna make sure I let you know that when you nominate a beneficiary, you as the policy owner or providing an instruction on who to pay your policy benefit to in the event of your death. And this nomination should be processed in accordance with the conditions of that. And PD, can you please confirm that you understand this and that the information you provide is true, correct. Fantastic. Now going to come with these policies, you can have up to five beneficiaries, but it's not an order of preference. It gets divided between them as a percentage, and as long as it adds up to exactly 100%, you can divide it any way that you'd like. So how many beneficiaries are we adding? MM? Hmm.
+[1 minutes 14 seconds][Customer] : Yes I understand just I have a question like if I add 1 now and later on try and want to change it will that be possible?
+[1 minutes 44 seconds][Agent] : Yes, it is. You can change your beneficiaries at any time, either by using the nomination beneficiaries form or just by giving us a call.
+[1 minutes 51 seconds][Customer] : Oh sweet. Yeah. So at this point, I'll just nominate everything for my husband.
+[1 minutes 56 seconds][Agent] : OK, can I get your husband's date of birth please?
+[1 minutes 59 seconds][Customer] : Yeah, 31st of March.
+[1 minutes 58 seconds][Agent] : And the first name. MM Hmm.
+[2 minutes 2 seconds][Customer] : So 31/3/1985 Alkesh. I'll spell it for you.
+[2 minutes 14 seconds][Agent] : And same sign.
+[2 minutes 8 seconds][Customer] : ALKESH no Singh. Singh, actually. Sorry Mark to be a pain. I've changed my mind. Can I get for him to get 80% and the other beneficiary will be my mum to get 20%?
+[2 minutes 24 seconds][Agent] : That's OK, That's not a problem. We'll finish adding allocations details because I do the percentages at the end now, I'm going to guess it'll be the same postal address as yourself. And did you want me to list a contact number for them?
+[2 minutes 36 seconds][Customer] : Yep yes Yep his contact number is so it's said when you don't even know your husband's contact number.
+[2 minutes 56 seconds][Agent] : Mm hmm. Mm hmm.
+[2 minutes 55 seconds][Customer] : 02/1 661926 I am so bad at cramming this.
+[3 minutes 5 seconds][Agent] : That's how you're doing better than me. Alright. And can I get your mother's date of birth, please?
+[3 minutes 11 seconds][Customer] : My mom's date of birth. So that's 22nd December 1960.
+[3 minutes 12 seconds][Agent] : Mm hmm, mm hmm. And their first name.
+[3 minutes 21 seconds][Customer] : Zohra.
+[3 minutes 26 seconds][Agent] : And surname.
+[3 minutes 21 seconds][Customer] : ZOHRA for alpha is BBBIBI. Sorry.
+[3 minutes 31 seconds][Agent] : Hey, just one moment, just dial 1 moment. And do they prefer Miss Mrs. Ormiz? OK. And what would you like me to put down as the postal address for them?
+[3 minutes 36 seconds][Customer] : Yeah, Miss, she's a widow just the same as ours.
+[3 minutes 54 seconds][Agent] : OK. And would you like me to list the contact number for them?
+[3 minutes 59 seconds][Customer] : You can use the same one as umm, like my husband or my one.
+[4 minutes 4 seconds][Agent] : Not a problem I'll copy all one across because I can see that already alright so we're having 80% for our cash and 20% for the Zorro.
+[4 minutes 8 seconds][Customer] : Yeah, yeah.
+[4 minutes 19 seconds][Agent] : Alright now there's a couple of things I'm gonna confirm with you So first I'm gonna confirm that the beneficiaries have been added. Now when we add beneficiaries to a policy, even though it's a new policy, uh, the PO, uh, policy scheduling, the welcome pack has to show you the status of the cover at the moment that is put into place, which means it's going to say that there's no beneficiaries listed.
+[4 minutes 40 seconds][Customer] : OK, Yeah, sure.
+[4 minutes 39 seconds][Agent] : So when you see that they'd be concerned, I'm sending out this quote, a change of insurance letter, which is gonna have an updated policy schedule that's gonna override that one. So when you get it, please have a look over it. If there's any issues, give us a call, let us know. It is also important to contact to show any of the details for your beneficiaries. Change that. We can update our records and that'll help us avoid any unnecessary delay at time claim when they confirm the proof of identity.
+[5 minutes 4 seconds][Customer] : Hmm. Mm.
+[5 minutes 6 seconds][Agent] : But that's all done for you from this end. Is there anything else I can help you with?
+[5 minutes 10 seconds][Customer] : Sure. No, that was all. Thank you so much.
+[5 minutes 12 seconds][Agent] : Not a problem at all. Thanks for your time. Have a great day.
+[5 minutes 15 seconds][Customer] : You too. Take care, Mark. Thanks.
+[5 minutes 17 seconds][Agent] : Bye.
+[5 minutes 18 seconds][Customer] : Bye.

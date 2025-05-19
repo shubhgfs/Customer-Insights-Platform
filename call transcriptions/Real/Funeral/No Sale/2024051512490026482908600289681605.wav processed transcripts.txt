@@ -1,0 +1,28 @@
+[1 seconds][Agent] : Thank you for calling Bill Insurance. You're speaking with Steph. How can I help you today?
+[5 seconds][Customer] : Oh, hi, yeah, I rang up the other day and someone was gonna ring back but I might have missed their call. I think you have got my details but just wanted to probably get some funeral insurance. Funeral insurance policy.
+[17 seconds][Agent] : Yes, yes, and they can assist you with that.
+[21 seconds][Customer] : OK.
+[20 seconds][Agent] : I'll just let you know that calls are recorded.
+[28 seconds][Customer] : OK. Yeah. Ruth Elizabeth Sandoval, 8th of December 1965.
+[22 seconds][Agent] : Any advice I provide is general in nature, may not be suitable for your situation and just verify your full name and date of birth for privacy, please All right, let's have a look and just confirm you are a female Australian resident. Both correct.
+[41 seconds][Customer] : That's right.
+[41 seconds][Agent] : All right, excuse me, I'll just Oh yes, you're speaking to my colleague AJ. So let me just see if AJ is still here.
+[53 seconds][Customer] : Sure. Yeah. Thank you.
+[52 seconds][Agent] : I'll just place you on a brief hold or it won't be long. Thank you for holding. Appreciate your patience.
+[1 minutes 14 seconds][Customer] : That's alright.
+[1 minutes 15 seconds][Agent] : Umm, he has knocked off for the day, so I can definitely get him to give you a call back tomorrow.
+[1 minutes 21 seconds][Customer] : Oh, so you can't do it?
+[1 minutes 25 seconds][Agent] : Umm, you didn't want to get hold on one SEC? You didn't want umm to give you a call back tomorrow?
+[1 minutes 34 seconds][Customer] : I wouldn't have thought it would matter who did this, really. It's a bit tricky because I'm working full time, so it's it's gonna keep happening, I would assume.
+[1 minutes 43 seconds][Agent] : Yeah, OK, let me just double check. One SEC. I'll just double check.
+[1 minutes 46 seconds][Customer] : Thank you.
+[1 minutes 47 seconds][Agent] : Won't be long.
+[1 minutes 47 seconds][Customer] : Cheers. Hi there, Steph. Thank you.
+[3 minutes 16 seconds][Agent] : That's OK, I'm just going to have the lead. I told her that I was just going to double check, so I said that you weren't here. So I'll just tell her that you are here when?
+[3 minutes 24 seconds][Customer] : Sure.
+[3 minutes 24 seconds][Agent] : I won't transfer him.
+[3 minutes 25 seconds][Customer] : Yeah. Cool. Thank you.
+[3 minutes 25 seconds][Agent] : Just let me know when you're ready.
+[3 minutes 29 seconds][Customer] : Yeah, I'm ready.
+[3 minutes 30 seconds][Agent] : Alright. Thank you. Thank you for holding Ruth. I've got AJ on the line. He's still in the building, so he's going to assist you.
+[3 minutes 38 seconds][Customer] : Oh, OK. Cheers. Thank you, Steph. Uh, hello. Good afternoon.

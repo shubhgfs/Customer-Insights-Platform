@@ -1,0 +1,14 @@
+[1 seconds][Customer] : Hello.
+[4 seconds][Agent] : Good morning. Today you're calling from Real Insurance. How are you?
+[7 seconds][Customer] : Not too bad. How are you?
+[9 seconds][Agent] : That's good. Yeah, really good. Thank you. I'm following up in regards to the expression of interest that we received for the income protection. Yep, be able to go through the quotes and the information with you. So just to start off with, Please note all our calls are recorded. Any advice that provide general in nature and may not be suitable to your situation? I do have the details here that you've answered online. Can I just get to confirm your name and date of birth?
+[15 seconds][Customer] : Yeah, yeah, yeah, yeah. Zachary Farah, 4th of the 9th, 1992.
+[38 seconds][Agent] : Perfect, thank you. And what's got you looking into the income protection for yourself? OK, Yeah, not a problem at all. That's understandable. Yeah.
+[41 seconds][Customer] : I, well, I've actually, I've already got a policy with you guys that I've just had for quite a while and I was, yeah, just looking to update it and yeah, yeah, I was just on that online thing and yeah, filled that out.
+[1 minutes][Agent] : Yeah, OK. Not a problem at all for a new policy. I'll worry. You know, if you wanted to have a look into your existing policy, I'll just have to transfer you through to my support team. OK, It won't be too long. Thank you. And I'll just bring it up. Can I just get you to confirm your. Yeah, just name and date of birth. Just want to double check it all.
+[1 minutes 10 seconds][Customer] : OK, Zachary Farah, 4th of the 9th, 1992.
+[1 minutes 25 seconds][Agent] : Yeah, Yeah, OK, perfect. And you've got income protection. Alright. Just bear with me. It won't be long.
+[1 minutes 34 seconds][Customer] : No worries.
+[2 minutes 50 seconds][Agent] : Zachary, thank you so much for holding.
+[2 minutes 52 seconds][Customer] : Yeah, no worries.
+[2 minutes 54 seconds][Agent] : I have Helen on the line, should be able to assist you from here now. Helen Zachary's confirmed name, date of birth and the policy type as well. Thank you, Zachary. Welcome to the support.

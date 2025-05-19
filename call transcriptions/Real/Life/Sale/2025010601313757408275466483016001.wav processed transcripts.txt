@@ -1,0 +1,30 @@
+[1 seconds][Agent] : Hey, Sharon, thanks for your patience.
+[3 seconds][Customer] : You're welcome.
+[3 seconds][Agent] : I've already shot from my customer support team. He'll be able to help you set up those beneficiaries for yourself.
+[8 seconds][Customer] : Yep.
+[8 seconds][Agent] : Rashad before Sharon, I've confirmed her full details including contact details and proper policy as well. Thank you for your help. Not a problem. Good afternoon, Sharon. My name is Richie from the support team. How are you today?
+[18 seconds][Customer] : Good. Thank you.
+[20 seconds][Agent] : That's good to hear. How many beneficiaries were you planning to add, Sharon?
+[24 seconds][Customer] : This one.
+[26 seconds][Agent] : Not a problem. OK, shown you as the policy owner are providing an instruction on who to pay the policy benefit to in the event of your death.
+[36 seconds][Customer] : Yep.
+[36 seconds][Agent] : This nomination will be processed in accordance with the conditions set out in your product disclosure statement. Can you please confirm that you understand that the information you will provide is true and correct? Yes or no? That's fine. What is that person's name?
+[47 seconds][Customer] : Yes, Leticia, I'll have to spell that for you.
+[1 minutes 5 seconds][Agent] : That's fine. That's her name. Yep.
+[56 seconds][Customer] : It is LETICHI A and her middle name is surname is Arthur, same as mine Arthur.
+[1 minutes 13 seconds][Agent] : Alright, that's her name.
+[1 minutes 19 seconds][Customer] : That is her surname.
+[1 minutes 21 seconds][Agent] : OK.
+[1 minutes 22 seconds][Customer] : The middle name is Jane Jane. So it's Letitia, Jane Arthur.
+[1 minutes 29 seconds][Agent] : That's all good. What's the teacher's date of birth?
+[1 minutes 32 seconds][Customer] : It's the 27th of the 1st, 1990.
+[1 minutes 31 seconds][Agent] : Does she have the same address as you? What's her relation to you? What's her contact number?
+[1 minutes 41 seconds][Customer] : Yes, my daughter, it's 0447392790.
+[1 minutes 50 seconds][Agent] : Yep, Latisha Jane Arthur on the 27th of January 1990. Same address as you. That's your daughter. Contact number is 0447392790. Latisha will receive 100% of the benefit amount under a valid claim. Yes or no?
+[2 minutes 7 seconds][Customer] : Yes, yes.
+[2 minutes 21 seconds][Agent] : Sharon, I can confirm your beneficiaries have been updated, will be sending out a new policy schedule to reflect these changes. Please ensure you checked the information is correct and that's for your request. Uh, now it's also important to contact us should any details of the beneficiary change so we can update our records to avoid any unnecessary delay during the tax process when they supply decrease for identity.
+[2 minutes 45 seconds][Customer] : Yep.
+[2 minutes 46 seconds][Agent] : Is there anything else I can assist with today?
+[2 minutes 48 seconds][Customer] : No, that's all. Thank you so much.
+[2 minutes 51 seconds][Agent] : Thank you so much for your time then. Have a great day. Bye.
+[2 minutes 53 seconds][Customer] : Thank you. Bye.

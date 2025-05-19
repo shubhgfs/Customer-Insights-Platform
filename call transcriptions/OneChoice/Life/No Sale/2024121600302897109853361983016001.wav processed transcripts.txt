@@ -1,0 +1,98 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hey Krishan, it's Chad calling back from Montrose Insurance. How are you today?
+[6 seconds][Customer] : Oh yeah, yeah, good brother.
+[8 seconds][Agent] : Sounds good to hear. I'm just calling about calling back about the enquiry you could do for your life insurance.
+[14 seconds][Customer] : Yep.
+[15 seconds][Agent] : Just so you can dive into this call here though, can you confirm your full name and date of birth for me?
+[20 seconds][Customer] : Krishna Kowacha is my full name and my date of birth is November 5, 1994.
+[24 seconds][Agent] : Yep, no worries. And can I confirm that you still are a male New Zealand resident currently residing in New Zealand?
+[31 seconds][Customer] : Yes.
+[31 seconds][Agent] : Yeah. I haven't moved away since this morning.
+[41 seconds][Customer] : Sorry.
+[35 seconds][Agent] : And Prashan, your preferred title there was that Mister Doctor, what was your preferred title like? Mr. Doctor?
+[46 seconds][Customer] : No, Sir.
+[47 seconds][Agent] : Mr.
+[48 seconds][Customer] : Yep.
+[47 seconds][Agent] : Alright, and just Please note, all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances, Krishan. I also just confirm your e-mail was Krishan 45888. All right, no worries. I'll get this one loaded up for you now. Well, Krishan, just so I can have a better understanding of what sparked your interest. Are you new to life insurance or do you currently have some cover in place?
+[53 seconds][Customer] : Yep, Yep Yep, 45888@gmail.com No, I don't have any insurance.
+[1 minutes 23 seconds][Agent] : Yeah. Well, good. And have you been thinking about life insurance for a while now or is it something that's more recently come up?
+[1 minutes 31 seconds][Customer] : No, just thinking now just because I was going to buy a home and they said health insurance at Campbell St.
+[1 minutes 38 seconds][Agent] : Yep. Yep. So you're looking to buy a home? Yep. OK, no worries. That's sort of what's when you look into it. So was it, did you have kids or something or a partner that you're wanting to cover the mortgage for?
+[1 minutes 41 seconds][Customer] : Yep Yep.
+[1 minutes 52 seconds][Agent] : Is that where you were looking into? Yeah, no. Fair enough.
+[1 minutes 54 seconds][Customer] : I have my partner, no kids.
+[1 minutes 56 seconds][Agent] : No kids. Yeah. OK, all good. So yeah, I get that you're wanting to cover the mortgage if anything was to happen for your partner. Is that right? Oh, good, I totally understand that. That's a very lovely thing that you do want to do for that. Well, I'll quickly run you through some main features and benefits of our cover. I'll take you through pricing as well. Prashanth, if you have any questions, call me along the way. Just stop me and let me know, OK? All right, So our life insurance, it's designed to provide financial protection for your partner through a lump of payment in the unfortunate event if you were to pass away. Now, this benefit could be used to help maintain her lifestyle.
+[2 minutes 4 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, Yep.
+[2 minutes 36 seconds][Agent] : So helping to pay off the mortgage or any unpaid bill.
+[2 minutes 40 seconds][Customer] : But can you hold for a second please?
+[2 minutes 40 seconds][Agent] : Yeah, yeah.
+[2 minutes 43 seconds][Customer] : Yep. Hello. Yep.
+[2 minutes 54 seconds][Agent] : All good. So, yeah, it's basically there to help maintain her lifestyle. She can, she can have help paying off the mortgage or loans, just basically any other costs involved in raising your family. Basically, it's just there to give you that Peace of Mind that if something happened to you, your partner has that financial security.
+[2 minutes 56 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 17 seconds][Agent] : Now you can nominate up to five beneficiaries to receive this amount and they can also request an advance payout of $10,000 to help with funeral costs or any other final expenses at the time as well. And there is also a terminally ill advance payout included in the cover as well.
+[3 minutes 26 seconds][Customer] : OK, OK, OK.
+[3 minutes 36 seconds][Agent] : Now, Krishan, would you keep it nice and simple for you? Everything is done over the phone. There's no forms to fill in medical checks or blood tests to complete. I'll just have to take you through some health and lifestyle questions. And this will determine the final pricing and terms of the policy.
+[3 minutes 46 seconds][Customer] : OK, Yeah, a bit. Can you hold first? I'm sorry.
+[3 minutes 55 seconds][Agent] : Yeah. Oh good.
+[3 minutes 56 seconds][Customer] : Yeah, Yeah, sorry. Actually, I'm on board too.
+[4 minutes 7 seconds][Agent] : Yeah, all good, All good. Well, we'll go through a quick quite together.
+[4 minutes 8 seconds][Customer] : Yeah, yeah.
+[4 minutes 11 seconds][Agent] : Just starting off. Have you had a cigarette in the last 12 months? No, that's the health choice.
+[4 minutes 16 seconds][Customer] : No, I'm not a nonsmoker.
+[4 minutes 19 seconds][Agent] : Very good on you. And is your current in your annual income 50K or more?
+[4 minutes 25 seconds][Customer] : Yes, it's around 75 and 77.
+[4 minutes 26 seconds][Agent] : Yes, no worries. Alrighty, one second. Alright, well Krishan, just keeping in mind you can choose cover from $100,000 to $2,000,000.
+[4 minutes 42 seconds][Customer] : OK, around 800.
+[4 minutes 42 seconds][Agent] : What benefit amount did you want to look at first 800? OK, alrighty, so for $800,000 of cover, you are looking at an indicative payment of $37.08 per fortnight. How's that sounding?
+[5 minutes 7 seconds][Customer] : Yep, that's good.
+[5 minutes 14 seconds][Agent] : So what was that?
+[5 minutes 9 seconds][Customer] : But I just need to think about it and then I can confirm it it it will be just for me or for my wife as well.
+[5 minutes 18 seconds][Agent] : So what I can do, I can give you a wife a call at a later stage and I can run her through the cover as well, but I would have to take her through the health and lifestyle questions. Now Kshawn, that price I've given you right now, it's only indicative at the moment. I do actually have to take you through the health and lifestyle questions.
+[5 minutes 25 seconds][Customer] : OK, OK, OK, OK.
+[5 minutes 36 seconds][Agent] : The final premium and terms of the policy is dependent on the outcome of the application. So we'll go through that one together. Now just before we go through that I do have to read you a pre underwriting disclosure and I'll need a clear yes or no for that one.
+[5 minutes 42 seconds][Customer] : Yep, Yep, Yep.
+[5 minutes 52 seconds][Agent] : So it reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy.
+[6 minutes 17 seconds][Customer] : Yep, Yep.
+[6 minutes 17 seconds][Agent] : I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect the decision to ensure you and on what terms. You do not need to tell the things that we already know or should know as an insurer or which reduces the risk. We insure you have this, Judy, until the time we enter into the contract. If you fail to disclose the matter or you make a false statement in answers our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. Do you understand this yes or no? Alrighty, so we'll go through those health and lifestyle questions now. Just for these questions. I will need a clear yes or no answers for these as well. So just starting off, are you a citizen or permanent resident of New Zealand?
+[6 minutes 51 seconds][Customer] : Yep, Oh yes, Yep, permanent intrusive.
+[7 minutes 6 seconds][Agent] : Yep. Or a citizen of Australia currently residing in New Zealand. So you what? Yep, so are you, are you a permanent resident of New Zealand, residing in New Zealand?
+[7 minutes 11 seconds][Customer] : I'm not, I'm just uh, I'm Indian citizen, but resetting in New Zealand, Yes, Yep.
+[7 minutes 21 seconds][Agent] : OK, so we'll pop a yes down for that question next section. Have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack, and angina? Yes or no. No lung disorder excluding asthma, sleep apnea or pneumonia.
+[7 minutes 42 seconds][Customer] : No, no, no. Much more I think. No.
+[7 minutes 52 seconds][Agent] : No cancer or leukaemia, excluding skin cancer, anxiety, depression or stress requiring medical treatment or any other mental health disorder. Have you been diagnosed with a terminal illness, motor neurone disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy?
+[8 minutes 4 seconds][Customer] : No, no, there's nothing like that inside.
+[8 minutes 20 seconds][Agent] : In the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counselling for drug or alcohol consumption?
+[8 minutes 29 seconds][Customer] : No, there's no Mason choosing.
+[8 minutes 32 seconds][Agent] : Yep. So that was a no for that question. So was that a was that a no?
+[8 minutes 40 seconds][Customer] : Sorry.
+[8 minutes 41 seconds][Agent] : So was it a no for that question?
+[8 minutes 44 seconds][Customer] : Yeah, and she's not using any of the medication.
+[8 minutes 47 seconds][Agent] : So this is for yourself?
+[8 minutes 49 seconds][Customer] : Oh, Yep. No, nothing.
+[8 minutes 52 seconds][Agent] : Yep. So all these questions here have you been ask answering for your partner or yourself?
+[8 minutes 56 seconds][Customer] : No, that's for me as well.
+[8 minutes 58 seconds][Agent] : Yep. So I'm just taking, I'm just taking you through the questions for yourself, for your partner. I will have to take her through a separate application that's not combined with yourself. OK, Yep. So all of those questions, you've answered those so far apart from the residency one, those were the answers all for yourself as well.
+[9 minutes 8 seconds][Customer] : Oh, OK, Yep, Yep.
+[9 minutes 21 seconds][Agent] : Yep. OK, no worries. I'll just ask you this question again. In the last 10 years, have you used illegal drugs, abuse prescription medication or received treatment or counselling for drug or alcohol consumption?
+[9 minutes 35 seconds][Customer] : I'll go sometimes. Not every day. Like not used to it.
+[9 minutes 40 seconds][Agent] : Yep. So have you received treatment or counselling for your alcohol consumption? Yeah.
+[9 minutes 44 seconds][Customer] : Oh no, no, no, nothing like that one.
+[9 minutes 47 seconds][Agent] : OK, no worries, we'll pop that down as a no and Prashanth, I'll just double check all of the answers you've given me so far. That was all the answers for yourself, correct?
+[9 minutes 56 seconds][Customer] : Yep.
+[9 minutes 57 seconds][Agent] : OK, no worries. Alright, well the next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So starting off, what is your exact height? Yep, so you have for me to put 5 feet 11 inches?
+[10 minutes 21 seconds][Customer] : It's 5 feet 11 inch, yeah.
+[10 minutes 30 seconds][Agent] : And what is your exact weight? Yep. So you're happy for me to pop down 90 KGS?
+[10 minutes 34 seconds][Customer] : I'm not too sure about the exact, but around 90 KG somewhere, yeah.
+[10 minutes 43 seconds][Agent] : OK, no worries. Have you experienced any unexplained weight loss of more than 5 KG in the LA last 12 months?
+[10 minutes 53 seconds][Customer] : No.
+[10 minutes 54 seconds][Agent] : OK alrighty. Does your work require you to go underground?
+[11 minutes 6 seconds][Customer] : OK.
+[11 minutes 1 seconds][Agent] : Work at heights above 20 meters, dive to depths below 40 meters, use explosive or travel to areas experiencing war or civil unrest, or work offshore?
+[11 minutes 14 seconds][Customer] : For the how long it's gonna take to this is all questions. Actually, I'm just going to drive my truck now.
+[11 minutes 21 seconds][Agent] : Yep. So I can take you through while you're driving if you'd like, if you wanted to pop it on speaker.
+[11 minutes 26 seconds][Customer] : No, actually, I'll be driving a forklift.
+[11 minutes 29 seconds][Agent] : OK, all good. This may take another 10 minutes or so if you have time.
+[11 minutes 34 seconds][Customer] : Are can we talk around like 430 possibly I will be free at the time.
+[11 minutes 44 seconds][Agent] : Alright, no worries Christian. I'll give you a call back around 4:30.
+[11 minutes 48 seconds][Customer] : Yep, all good. Thank you.
+[11 minutes 49 seconds][Agent] : Alright, bye.

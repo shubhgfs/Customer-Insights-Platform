@@ -1,0 +1,38 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hey, Gabriella, it's Isaiah calling from the Australian Seniors. I was just giving you a call 'cause you expressed your interest online with regards to our life insurance.
+[13 seconds][Customer] : Yeah, sure.
+[14 seconds][Agent] : Yeah. Just so I can assist you further, may I have your full name and date of birth please?
+[19 seconds][Customer] : Yeah.
+[22 seconds][Agent] : Hi.
+[23 seconds][Customer] : You dropped out. You drop.
+[23 seconds][Agent] : Could, could you like, I'm sorry, could you hear me now?
+[26 seconds][Customer] : Yeah.
+[27 seconds][Agent] : Yeah, I was just asking, could I get you to just confirm your full name and date of birth, please?
+[32 seconds][Customer] : Gabriella Baldwin Oh Gabriella Lily Baldwin and my date of birth is the 18th of the 3rd 1956.
+[40 seconds][Agent] : OK. Thank you. Gabriela, please. Now all of our calls are recorded. Any advice or providers General in nature and may not be suitable to your situation. Can I confirm that you are a female Australian resident as well please?
+[52 seconds][Customer] : Yes I am.
+[54 seconds][Agent] : Thank you Gabriella so I can have a bit of understanding of what sparked your interest. Are you need to life insurance or do you currently have some cover in place?
+[1 minutes 1 seconds][Customer] : No, I have some in place, however it's getting too expensive.
+[1 minutes 6 seconds][Agent] : Right, No fair enough. Umm, just a little note, if you are replacing an existing policy, we recommend that you do not cancel that policy until the application has been approved and you have reviewed this policy in full. That's right. And you have reviewed this policy in full as your new policy may not be identical to your existing cover and you S sorry. You should also consider that it may not apply or waiting periods that may start again. So Senior's life Insurance is designed to provide financial protection for your loved ones. A lump sum payment if you were to pass away before your 85th birthday. When the policy ends, you can choose cover between $10,000 and up to $200,000 and nominate up to five beneficiaries to receive their nominated benefit amount. If this is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with funeral costs, to sorry to help with funeral costs or any other final expenses at that time. I just wanted to ask as well, Gabriella, have you have you given any thought to your who your beneficiaries are going to be?
+[2 minutes 9 seconds][Customer] : Yeah, just my daughter.
+[2 minutes 11 seconds][Agent] : Yeah, no fair enough. OK, so just in regards to the actual application, it's fairly easy to apply. We just ask you 8 yes or no questions relating to your health over the phone to see if you are approved. If you are accepted and once you commence the policy, you'll be covered immediately for death due to any cause except suicide in the 1st 13 months. In addition, there is a ill advanced payment included in the cover. If you were diagnosed with 24 months or less to live by a specialized medical practitioner, we can pay your benefit amount in full to help you with medical costs to ensure you receive the best care possible. Do you have any questions for me so far? No. OK, Nope. Let's go through a quote together. To begin with, have you had a cigarette in the last 12 months?
+[2 minutes 49 seconds][Customer] : No, no, I don't know.
+[2 minutes 59 seconds][Agent] : No. OK. No, that's a good choice, Gabriella. Thank you. And, sorry, could I just confirm your, uh, title please?
+[3 minutes 8 seconds][Customer] : Yeah, Miss, miss, miss. MMM.
+[3 minutes 5 seconds][Agent] : Was that miss or misses or doctor or what you preferred Miss. OK, OK, thank you. OK, so keeping in mind the level of cover ranges from $10,000 and up to $200,000, what benefits would you like me to look at 16170?
+[3 minutes 27 seconds][Customer] : No, that 116170, I don't know. I wouldn't mind to see how much 200 is.
+[3 minutes 32 seconds][Agent] : OK, yeah sure.
+[3 minutes 37 seconds][Customer] : MMM.
+[3 minutes 35 seconds][Agent] : We can just start from to make our way down. No problem. OK, so I'll be left for $200,000. You're looking Fortnite, you're looking at a a premium payment of $247.16. That's per Fortnite for the $1000 benefit amount.
+[3 minutes 51 seconds][Customer] : So that's four $400.00 a month.
+[3 minutes 55 seconds][Agent] : Uh, well, fi nearly 500 actually. 247.16 per full night would be a close to 500 a month.
+[4 minutes 4 seconds][Customer] : Wow.
+[4 minutes 7 seconds][Agent] : We can obviously look at how that announces.
+[4 minutes 12 seconds][Customer] : MMM.
+[4 minutes 8 seconds][Agent] : Well, that's the maximum benefit amount to say for example, if we went down to let's say 180, it'll go down to 222.45 per fortnight. And then if we went down to 150, that would go down to 185.37 per fortnight. Keeping in mind all of the policies, regardless of what I'm going to choose, you're getting a free online legal will valued at $160.00 with each policy and a complimentary subscription of the Australian Senior's Day magazine with each policy. And so in terms of the benefit amount, do you want me to look at other amounts as well or which one sounds suitable?
+[4 minutes 46 seconds][Customer] : No, no, you, you're way, way, way more expensive than what I who I've been with. So thank you anyway. I mean, you did have an ad saying, you know, seeing as a get a special rate, but it's not.
+[4 minutes 53 seconds][Agent] : OK, Yeah, it's yeah, no problem at all.
+[5 minutes 1 seconds][Customer] : Thank you, thank you very much.
+[5 minutes 5 seconds][Agent] : Have no good day.
+[5 minutes 6 seconds][Customer] : Bye.
+[5 minutes 6 seconds][Agent] : Bye.

@@ -1,0 +1,117 @@
+[3 seconds][Agent] : Welcome to One Choice. You're speaking with Lufiana. How may I help you?
+[8 seconds][Customer] : Oh, I've just missed a call from this number. Who have I called? Sorry, one choice.
+[14 seconds][Agent] : So we're One Choice. We do funeral insurance and we do life insurance.
+[19 seconds][Customer] : Oh yes, yes, I put through a query I think last night. Thank you for calling me back. I'm sorry about that. I didn't see a research come through.
+[25 seconds][Agent] : Yes, that's OK. Thanks for.
+[29 seconds][Customer] : What do you need from me?
+[31 seconds][Agent] : OK. Let me just find the profile 1st and then I'll be able to help you with it. Let's have a look. What's your first and last name? Thank you. Let's have a look. OK. And can I have your date of birth as well, please? Sorry. 16 of September. Yeah, 19. Sorry, your voice is a bit far. What year is that, 1982?
+[40 seconds][Customer] : Stewart Money 15/9/82 1982 Correct. I'm sorry I'm driving at the moment, but it's OK, we can't.
+[1 minutes 22 seconds][Agent] : That's that's OK. That's all good. I can hear now. It's all good. And can I confirm that you are a Mail New Zealand resident currently residing in New Zealand?
+[1 minutes 32 seconds][Customer] : Yeah.
+[1 minutes 34 seconds][Agent] : Beautiful. I'll just let you know before we start as well and then I can help you with your inquiry. I'll let you know. All calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances now.
+[1 minutes 54 seconds][Customer] : OK. Thank you.
+[1 minutes 54 seconds][Agent] : I'll just confirm that. Beautiful. I'll just confirm that this is the best contact number for you, just in case the line cuts out. I've got 0275915953, is that correct?
+[2 minutes 8 seconds][Customer] : Alright.
+[2 minutes 10 seconds][Agent] : Alright. And I do want to thank you for placing this enquiry through with us and thanks for returning our call. So yeah, we were giving you a call about the funeral insurance enquiry that we received online.
+[2 minutes 23 seconds][Customer] : I think I've got 2 enquiries. I think I've got one for life insurance and funeral insurance.
+[2 minutes 29 seconds][Agent] : OK. Did you put them as different in OK, but they're both under your name.
+[2 minutes 31 seconds][Customer] : Yeah, yeah, I just put them on difference, correct.
+[2 minutes 44 seconds][Agent] : OK, Well, I can explain both to you. We can do the life insurance and then I can explain the funeral one as well because we do have both. We've got life and funeral. Alright, let's have a look at that for you. I'll bring it up for you now. What made you look into what sparked your interest in our life insurance? Our funeral insurance? Yeah. How many children do you have?
+[3 minutes 4 seconds][Customer] : To be honest I have been shopping around anyway so I'm just trying to get a good insight into what it offers and also just having the ability available for my children when I do go so I have 4 in total.
+[3 minutes 29 seconds][Agent] : Nice. So you want that Peace of Mind that if something happened to you, you know your children would? There's something there for your children.
+[3 minutes 38 seconds][Customer] : Correct.
+[3 minutes 40 seconds][Agent] : OK, no problem. Let's have a look. Let me start with the life insurance. I'll tell you how that one works, OK?
+[3 minutes 46 seconds][Customer] : OK.
+[3 minutes 46 seconds][Agent] : And then we'll go through the funeral as well.
+[3 minutes 51 seconds][Customer] : OK. Thank you.
+[3 minutes 50 seconds][Agent] : I can go through both with you and that way if you've got any questions, you can just let me know.
+[3 minutes 57 seconds][Customer] : Thank you.
+[3 minutes 58 seconds][Agent] : Alright, now let's have a look. So with our life insurance, what is designed to do is provide financial protection for your loved one through a lump sum payment if you were to pass away. And this benefit, you know, it can be used to help maintain their lifestyle. So it's there to give you that Peace of Mind that if something happened to you, your family would have that financial security. Alright, now you do have up to five beneficiaries to nominate, so you can choose whoever you want to leave this money to.
+[4 minutes 24 seconds][Customer] : OK, OK.
+[4 minutes 32 seconds][Agent] : All right? Now with our life insurance, we do keep it very nice and simple for you. Everything is done over the phone. That's the reason we give you a call. Now, there's no forms for you to fill in. There's no medical checks or blood tests to complete. All we do is we simply take you through health and lifestyle questions and that will tell us what the final premium will be and what you'll be covered for as well. So it's just very simple, just yes or no, and then that will tell us what the outcome is.
+[4 minutes 41 seconds][Customer] : OK, OK, OK.
+[5 minutes 2 seconds][Agent] : Now before we do that, I'm just going to bring up a indicative quote first. That way we can choose how much cover you want and how much is affordable for you as well. What's suitable and what's what you're looking for basically. So let me do that for you. I'll bring it up. Alright, now, have you had a cigarette in the last 12 months?
+[5 minutes 26 seconds][Customer] : No.
+[5 minutes 27 seconds][Agent] : Thank. Thank you. Alright, and is your current annual income $50,000 or more? Yep, thank you. Alright, let's have a look at this for you. Now with that cover you do have, this is for the life insurance. So you do have the option to choose from $100,000 all the way to $2,000,000.
+[5 minutes 55 seconds][Customer] : OK.
+[5 minutes 54 seconds][Agent] : How much would you like me to quote you on?
+[5 minutes 58 seconds][Customer] : Well, I would love it to be the most, but I'm expecting to choose the higher end then the premium would also. So a minimum of 500,000.
+[6 minutes 14 seconds][Agent] : So would you like me to start at the maximum amount or would you like me to start at 500?
+[6 minutes 21 seconds][Customer] : We may as well because I want to see what that looks like.
+[6 minutes 24 seconds][Agent] : Yep, the 2 million, Yep, let's have a look. So if we do $2,000,000 of the life cover, you are looking at an indicative payment of $117.54 per fortnight.
+[6 minutes 44 seconds][Customer] : OK.
+[6 minutes 47 seconds][Agent] : That's too much.
+[6 minutes 46 seconds][Customer] : Thank you very much for the. Could this not be reviewed over time?
+[6 minutes 55 seconds][Agent] : What needs what the amount?
+[6 minutes 50 seconds][Customer] : Like can I, hi, could you say the E OK.
+[7 minutes][Agent] : So with the premium, they are calculated on the age as well. But if that's not, if that's a lot, we can look at a lower amount for you.
+[7 minutes 12 seconds][Customer] : Yes, please. Let's do this.
+[7 minutes 14 seconds][Agent] : Yeah, let's have a look. And then like later on, if circumstances change and you feel like you require more cover, you can call us and apply to increase your cover. It is subject to eligibility at top of application.
+[7 minutes 13 seconds][Customer] : I'll go for a million and see what that's OK. No worries.
+[7 minutes 30 seconds][Agent] : OK, So if we do $1 million of the life cover, you are looking at a indicative payment of $59.53 per fortnight. That one's better for you.
+[7 minutes 45 seconds][Customer] : Something more achievable that's definitely is. Can I just quickly just get a signal what it was to be 500,000? I do want to be, I do want to keep my realistic in terms of my affordability at the moment.
+[7 minutes 57 seconds][Agent] : Yeah, let's have a look, 500, 500, OK, yeah, yeah, 'cause you do want to make sure it's affordable as well for you. All right? So if we do $500,000 of the life cover, you are looking at an executive payment of $29.58 per fortnight.
+[8 minutes 11 seconds][Customer] : So that's definitely a doable 1.
+[8 minutes 41 seconds][Agent] : Yep.
+[8 minutes 34 seconds][Customer] : And I mean I would like to start off on there because these are come all the way down to 2 million dollars, 500,000 is still a good sum of sum of money.
+[8 minutes 45 seconds][Agent] : Yeah, it's still, you're leaving something for the for the family. So that one's good for you so far.
+[8 minutes 56 seconds][Customer] : Absolutely. I mean, I'll, I'll probably look at their own in a in a year's time and of course see what it would look like if I wanted to increase that amount, but it's a doable amount.
+[9 minutes 5 seconds][Agent] : Yeah, no problem. Alright, I'm glad that's doable for you. OK, Now I'll let you know before I take you through the questions, the yes or no questions. I'll just let you know that you also have the option to add in extra benefits to your cover. We do have the, we've got optional covers, which is serious illness cover, and we've got a total of permanent disability. I can explain those to you and then that way you can tell me if you want me to add it to your quote or not.
+[9 minutes 38 seconds][Customer] : I I know for sure that I want 1 phone.
+[9 minutes 36 seconds][Agent] : OK, So with us, sorry, you would want to. Yeah. OK, let let me explain them to you and that way I'll give you a quote as well for it and then you let me know if you want me to add it or not. So I'll start off with this serious illness. So our serious illness cover pays a lump sum benefit if you were to suffer an insured event covered under this policy. So the funds you know can be used in any way you see fit. And the insured events under this policy are heart attack, cancer, stroke, or if you were to undergo coronary bypass surgery. Now, each of these events are defined within the policy and each claim is assessed against these definitions. And for the serious illness option, I'll tell you how much cover you can choose in this case. So you can do from $50,000 to $250,000 in this case because your life insurance is 500. What I'll do is I'll give you a just, I'll just give you like 50,000 just to give you an idea. You let me know if you want me to look at a different amount. Add it, don't add it.
+[11 minutes 3 seconds][Customer] : None.
+[10 minutes 55 seconds][Agent] : It's completely up to you Now, just to give you an idea, all right, now for $50,000 of the serious illness option, you'll be paying $6.73 per fortnight on top of your life insurance premium. So now for your life insurance and serious illness, you'll be paying $36.31 per fortnight. How does that sound?
+[11 minutes 18 seconds][Customer] : That's too much. Oh, is that in total?
+[11 minutes 29 seconds][Agent] : That's too much.
+[11 minutes 31 seconds][Customer] : No, no, it's that in total including my life insurance.
+[11 minutes 34 seconds][Agent] : Yeah, that's with the life insurance. It's $36.31 per fortnight so far.
+[11 minutes 40 seconds][Customer] : But can I ask That's so say I I do not get cancer but that's why I do get cancer would be eligible for a $50,000 payment for a serious for serious donor and then when I do eventually go my pistol gets a life insurance. Am I sitting here right?
+[12 minutes 2 seconds][Agent] : Yeah, that's what happened. But I just need to let you know a couple more things about it, about the option. So, OK, so I'll let you know that there are exclusions on the policy. So any insured events that become apparent before or during the first three months of the serious illness option commencing will not be covered.
+[12 minutes 25 seconds][Customer] : Stop it.
+[12 minutes 24 seconds][Agent] : Full details of all exclusions are set out in your policy document. Does that make sense? Yeah, Yeah, that's good. I'm glad. I just have to let you know that and also to answer the other question as well. So what happened is please also be aware that any payment made under serious illness cover reduces the available life insurance benefit amount if you also purchase total and permanent disability cover, the TPD benefit. And that will also reduce when you have a successful serious illness claim. So what happens is if you claim for the $50,000 of the serious illness, that reduces your life insurance.
+[13 minutes 8 seconds][Customer] : OK.
+[13 minutes 10 seconds][Agent] : Does that?
+[13 minutes 9 seconds][Customer] : And does it reduce it by that amount of various claims?
+[13 minutes 10 seconds][Agent] : M Yeah. So if if you're claiming obviously for 50,000, if you take 50,000, your life insurance will go down to 450 instead of 500.
+[13 minutes 24 seconds][Customer] : OK at any point?
+[13 minutes 25 seconds][Agent] : Does that make sense?
+[13 minutes 26 seconds][Customer] : That's fine if if they're done so at any point in time. So like as I get older, does the value of my insurance depreciate?
+[13 minutes 41 seconds][Agent] : No. So what happens is with your life insurance. So with the life insurance, I'm just gonna bring it up. Let's tell. I'll tell you what happens.
+[13 minutes 52 seconds][Customer] : Oh, and I'm coming into, I believe, to apologize if we get cuddled.
+[13 minutes 52 seconds][Agent] : So with the life insurance, OK, no problem. I'll give you a call if it gets cut off, but you can still hear me. Beautiful. So what happens is with our life insurance, it does include actually a we do ha, it's got the automatic indexation, right? So, and that means that the benefit amount will increase every year.
+[14 minutes 34 seconds][Customer] : OK.
+[14 minutes 22 seconds][Agent] : So right now if you decide to take out $500,000 of cover next year, that will be $525,000 of cover because of the indexation.
+[14 minutes 45 seconds][Customer] : That's so good. I might end up in seven $2,000,000 mark.
+[14 minutes 36 seconds][Agent] : And that is, you know, just that's just to ensure the level of your cover keeps up with cost of living and then just let it increase. Yeah. So that's that like every year. But if you don't want it to increase, you can opt out of the indexation each year if you don't want it to like go from. Yeah, it's, it's up to you.
+[14 minutes 53 seconds][Customer] : Yeah, OK, no problem.
+[15 minutes 12 seconds][Agent] : You don't have to do that. OK. Now, while we're here at the serious illness, now, like I said, the total would be $36.31 per fortnight at this stage. It's indicative, but and that's for life insurance and the serious illness. So I just need to ask you before I can go on to the next option. So are you happy for me to add this option or cover to your quote or you don't want to add it? It's completely up to you.
+[15 minutes 40 seconds][Customer] : I'm just trying to think of like, because I mean, if you gonna say that's why you're not getting enter or something, it's inevitable from go to dos. So I, I just put it on the quote anyway because then that will give me a better, I'll, I'll have a couple of days to think about it, wouldn't I?
+[16 minutes 2 seconds][Agent] : Yeah, no problem, no problem. And you can like even if you add it and take it out, you can remove it later on if you decide you don't want it all.
+[16 minutes 20 seconds][Customer] : OK.
+[16 minutes 15 seconds][Agent] : Same thing later on if you decide just to take life insurance, you can apply to have the options. It is subject to eligibility at time of application. All right, so I'm, I'm adding it now, is that correct? OK, no worries. And would you like me to explain the other, the other optional cover, which is the total and permanent disability?
+[16 minutes 45 seconds][Customer] : Yes, please.
+[16 minutes 47 seconds][Agent] : OK, let's do that for you now. Do you work a minimum of 20 hours per week?
+[16 minutes 53 seconds][Customer] : Yes.
+[16 minutes 54 seconds][Agent] : OK. And can I ask what your current occupation is?
+[16 minutes 59 seconds][Customer] : I'm, I work in public.
+[17 minutes 6 seconds][Agent] : Public. Sorry, what was that? Public.
+[17 minutes 1 seconds][Customer] : I'm a public service, public public service.
+[17 minutes 12 seconds][Agent] : Public servant?
+[17 minutes 16 seconds][Customer] : And then I'll wait for the Ministry of Social Development.
+[17 minutes 20 seconds][Agent] : OK, let's have a look. OK, let's have a look. Alright, what I'm going to do, I can't find that. What I'm going to do, I'm going to read you all the categories. You tell me which one you fit under. Alright, that way. Yep. I'll just have to read all of them and then you let me know which category you fit under. So the first category is professionals, executive management accounts and lawyer, doctor, pharmacist, clerical roles, professional or administrative roles such as architect, computer analysts, Dr. pharmacist, clerk, etcetera.
+[17 minutes 27 seconds][Customer] : If you're trying to categorise it, OK, OK, none of those.
+[18 minutes 13 seconds][Agent] : Our second category is. The second category is occupations which are primarily non manual but may involve flight manual duties only. Examples are hairdresser, shop assistant, florist, cashew, Taylor, etcetera.
+[18 minutes 28 seconds][Customer] : No.
+[18 minutes 27 seconds][Agent] : And our third option, yeah, our third one is occupations that involve a degree of manual work or trades, gas fitter, electrician, mechanic, sign writer, Boilermaker, gardener, stallman, tyre fitter, welder, etcetera.
+[18 minutes 40 seconds][Customer] : Oh, it'll be more. It'll fall. So more.
+[18 minutes 44 seconds][Agent] : So they're the three categories #2 oh, sorry #1 so it's professionals, executives, management accounts, and lawyer, doctor, pharmacist, cloak and rolls.
+[18 minutes 49 seconds][Customer] : So in the first category, number one, it would fall into that category.
+[19 minutes 5 seconds][Agent] : Sorry.
+[19 minutes 7 seconds][Customer] : It would fall into that category.
+[19 minutes 9 seconds][Agent] : Yeah, the first one. Alright, I can add that one in now. I'll tell you what that one is. You let me know if you want me to add it. So the Total and Permanent Disability TPG cover pays a lump sum benefit in the event that you suffer the loss of lame sore sight or are unable to work for a period of six consecutive months and are not able to return to work in any fields which you are experienced, educated or trained or if you were to suffer loss of independent existence. Now I'll let you know that there's an exclusion under this cover for any intentional self-inflicted injury. Please also be aware that any payment made under total and permanent disability cover reduces the available life insurance benefit amount. Now, if you also purchase serious illness cover, the serious illness benefit amount will also reduce when you have a successful CBD claim. All right, now I'll give. Let's have a look. So for this one you can apply for from $50,000 to $500,000 and that's dependent on your age and chosen life insurance benefit. All right now I'll give you an idea again, I'll I'll start off with the with the 50. So to give you an idea, if I do $50,000 of the TPG option, you will be paying $2.48 per fortnight on top of your life insurance premium.
+[20 minutes 46 seconds][Customer] : None.
+[20 minutes 42 seconds][Agent] : So now for life insurance, TPG and serious illness, your total premium would be $38.79 per fortnight. How does that sound? Sure, that sounds good. And are you hap? Are you happy for me to add this optional cover to your quote?
+[20 minutes 56 seconds][Customer] : Oh yeah, that sounds good.
+[21 minutes 11 seconds][Agent] : Beautiful. All right. Now we're up to the questions now. So the next step is to take you through the health and lifestyle questions. They're just yes or no, and then we just need high end weight as well. But the rest are just yes or no about your health and your lifestyle. We'll do that. That will tell us what the final premium it will be and what will give us an outcome of what you'll be covered for. So let's do that for you now, alright?
+[21 minutes 43 seconds][Customer] : OK.
+[21 minutes 43 seconds][Agent] : Can you still hear me? Sure. Are you still there?

@@ -1,0 +1,148 @@
+[22 seconds][Customer] : Hello.
+[23 seconds][Agent] : Hello, my name is David. I am calling from rail Insurance. How are you today?
+[27 seconds][Customer] : Ah, good. Thank you.
+[29 seconds][Agent] : Oh, that's good to hear Rob.
+[28 seconds][Customer] : Yeah, yeah, yeah.
+[30 seconds][Agent] : Uh, well, the reason for my call today Rod, is just in regards to an online enquiry they received for a funeral cover. So I'm just wanting to take you through the product of course. But before I do, umm, help you out, I just need to let you know that calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation.
+[46 seconds][Customer] : Yeah, sure.
+[46 seconds][Agent] : Could I just start by confirming that I've got the right information here for yourself? Rod?
+[51 seconds][Customer] : Yeah.
+[50 seconds][Agent] : I've got your full name here as Rod Harmon.
+[53 seconds][Customer] : Yep.
+[55 seconds][Agent] : Wonderful.
+[1 minutes][Customer] : Yep. Mine.
+[55 seconds][Agent] : And date of birth here I've got is first of the 8th 1958.
+[1 minutes 2 seconds][Customer] : Yep.
+[1 minutes 3 seconds][Agent] : Awesome. And can I also just confirm that you're a male Australian resident?
+[1 minutes 7 seconds][Customer] : Yes.
+[1 minutes 9 seconds][Agent] : Perfect. Awesome. So thank you for confirming those details for me, Rod, just so I can have a better understanding of why you're looking into funeral insurance today. Are you new to it or do you currently have some cover in place?
+[1 minutes 21 seconds][Customer] : Sorry, yes, yes, yes, new, no new.
+[1 minutes 22 seconds][Agent] : Are you new to funeral uh insurance or do you kind of have some cover uh wonderful yes. So what I'll do for you is I'll explain the main features and benefits and just run through some pricing with you as well, just to explain kind of what you know what comes with the price uh today yes. So what I cover is designed uh to provide for yourself for this. It's designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away, so they can use the funds not only for funeral expenses, but also any other final expenses like unpaid bills as well. Now, is there anyone that you're wanting to, you know, provide that financial protection for or anyone in mind that you might want to be nominated as a beneficiary? Your wife?
+[2 minutes 3 seconds][Customer] : Yeah, probably my wife, but yeah, but I, I'm also we're interested in the two of us having funeral cover.
+[2 minutes 6 seconds][Agent] : OK, Yeah, of course. We can definitely go for, umm, a joint plan today if that's what you'd be interested in.
+[2 minutes 12 seconds][Customer] : Yeah, yeah, Yep, Yep, Yep.
+[2 minutes 16 seconds][Agent] : Umm, so let you know as well that you can nominate up to five beneficiaries as well.
+[2 minutes 21 seconds][Customer] : Oh, OK. Yeah, yeah, probably. And my children. So something like that. Famous.
+[2 minutes 21 seconds][Agent] : Yeah, just to receive their yeah, including the children in there as well. Yes, that's up to.
+[2 minutes 27 seconds][Customer] : Yeah, yeah, OK, alright.
+[2 minutes 29 seconds][Agent] : You can nominate up to five beneficiaries to receive their nominated benefit amount. And if death is due to an accident, what your chosen benefit amount will actually triple. So that's just built in part of the policy. In addition as well, before the policy anniversary following your 75th birthday, if you were to suffer an accidental serious injuries such as quadriplegia or paraplegia, the benefit amount will also triple for yourself.
+[2 minutes 38 seconds][Customer] : Yeah, Right.
+[2 minutes 54 seconds][Agent] : OK, so that's all.
+[2 minutes 56 seconds][Customer] : Yep.
+[2 minutes 55 seconds][Agent] : It's built in part of umm, different ways that you can claim as well.
+[2 minutes 59 seconds][Customer] : Yep.
+[2 minutes 59 seconds][Agent] : So it's easy to apply. There's no medical checks that's required.
+[3 minutes 3 seconds][Customer] : Yep.
+[3 minutes 2 seconds][Agent] : We don't send you that to the doctors to get blood tests or anything like that. As long as you're an Australian resident aged between 40 and 79, acceptance is guaranteed, which you've already covered.
+[3 minutes 11 seconds][Customer] : Yep.
+[3 minutes 11 seconds][Agent] : So you're already accepted for the cover Rd. It's just about finding the right cover for yourself and your wife as well. Yeah.
+[3 minutes 16 seconds][Customer] : Yeah, Yeah, Yeah.
+[3 minutes 17 seconds][Agent] : And just so you know, for the 1st 12 months, you'll be covered for accidental death and accidental serious injury early. After the first 12 months, you'll be covered for death due to any cause. And in addition, there is a terminal illness benefit that's included in the cover as well, which means after holding the policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or left to live by a medical practitioner and that unfortunate instance, what we do, payout the claim to you in full to help with things like medical expenses and to just plan out for the future with your loved ones as well. Yeah.
+[3 minutes 51 seconds][Customer] : Sure.
+[3 minutes 52 seconds][Agent] : Yeah. So how's that sounding to you so far, the whole cover itself?
+[3 minutes 52 seconds][Customer] : Yeah, Yeah, yeah, that sounds, sounds reasonable. Yeah.
+[3 minutes 57 seconds][Agent] : Yeah. And did you have any questions for me so far at this stage?
+[4 minutes 1 seconds][Customer] : No, no, I'm, I'm I've only just started investigating. So this is still just an investigating sort of enquiry so we can get ahead around.
+[4 minutes][Agent] : I know that's a lot of information already yeah fair enough yeah of course OK no no no one no worries.
+[4 minutes 12 seconds][Customer] : So Yep, Yep, Yep.
+[4 minutes 13 seconds][Agent] : Thank you for letting me know the way that you're still shopping at the market as well umm with our cover here right, you can choose between $3000 up to $50,000 and a couple of things tonight as well in regards to this premiums you can uh your premium is level. So what that means is it's designed to stay the same as you get older. There are no yearly increases or anything like that. And when you reach the age of 85, a couple of things happen out to your premiums. I know that's still, you know, quite a few years to go for yourself. But when you reach the age of 85, your premiums will cease. So you'll have nothing more to pay.
+[4 minutes 35 seconds][Customer] : OK, Yep.
+[4 minutes 48 seconds][Agent] : You still remain covered. And you also automatically receive a 25% bonus cover on top of your benefit amount as well.
+[4 minutes 56 seconds][Customer] : Right.
+[4 minutes 55 seconds][Agent] : So that's applied to your benefit amount.
+[4 minutes 57 seconds][Customer] : Yep, Yep.
+[4 minutes 57 seconds][Agent] : So for example, let's say you took a $10,000 policy. When you reach the age of 85, umm, you'll receive an additional 25% of bonus cover, which will bring it up to 12. Uh, 12,500. Yeah, awesome. And you can also find information about our premium structure on our website if you were curious about it.
+[5 minutes 10 seconds][Customer] : Yep, Yep. Great.
+[5 minutes 17 seconds][Agent] : Awesome and along with that with turning 85 as well, that is a big milestone as well. So uh, what you cover also provides you is an early cash out option. So at any time after you reach 885 years of age, you can choose to end your cover and we'll pay you 75% of the funeral insurance benefit. So that might come in handy.
+[5 minutes 35 seconds][Customer] : OK, Yeah, sure.
+[5 minutes 36 seconds][Agent] : That's just an option for yourself, of course, at that stage, but in case you find yourself in a, you know, a tough situation could come in handy for a rainy day sort of thing, you know?
+[5 minutes 44 seconds][Customer] : Yep.
+[5 minutes 45 seconds][Agent] : Awesome. So let's get through, uh, some pricing together Rod, as I mentioned, the level of cover ranges from $3000 up to $15,000. I see on the website you put through a inquire for 9000. Did you want to start off there?
+[5 minutes 57 seconds][Customer] : That that was just, that was just because it was on there. Yeah.
+[5 minutes 59 seconds][Agent] : OK, yeah Well, did you have an, uh uh, benefit amount that you want me to look into first?
+[6 minutes 5 seconds][Customer] : We'll start with the 9 and we'll go from there. I'm I'm interested in what the the costs are.
+[6 minutes 7 seconds][Agent] : Yeah, of course, yeah.
+[6 minutes 9 seconds][Customer] : That's yeah, Yep, Yep.
+[6 minutes 9 seconds][Agent] : And I'm always happy to, umm, just go up and down depending on which, uh, what suits yourself.
+[6 minutes 16 seconds][Customer] : So.
+[6 minutes 14 seconds][Agent] : Affordability, of course, that's one of the most important things to look into these things. Yeah. I'll just collect, uh, some information for your wife as well, just because with the price, it does, uh, it is, umm, dependent on age at time of application as well.
+[6 minutes 16 seconds][Customer] : And it's a joint, a joint thing between my wife and I Yeah, yeah, Yep, Yep.
+[6 minutes 29 seconds][Agent] : So I'll just start off with her details here. What's her first name?
+[6 minutes 33 seconds][Customer] : Cheryl Cher Whale.
+[6 minutes 34 seconds][Agent] : How do I spell that Wonderful and last name is the same as yours hymen?
+[6 minutes 40 seconds][Customer] : Yep, Yep.
+[6 minutes 42 seconds][Agent] : Wonderful got a big test for you here. What? Not a whole lot of people get this right. OK.
+[6 minutes 46 seconds][Customer] : 4th of December, 4th of December, she's 60. So 1960. What's that? 1961 or 60? What's that? Sixty, 6163 or 64, something like that.
+[6 minutes 49 seconds][Agent] : Yep, 6364. I do need a confidence for this one.
+[7 minutes 8 seconds][Customer] : Yeah, I will confirm that. But she's she's 60. Six. She she's her birthday is December and she will be 62. Yeah, she's 61 now. There. He has to work her backwards. I think it's 19/6.
+[7 minutes 18 seconds][Agent] : All right, so she's she's 61 now.
+[7 minutes 25 seconds][Customer] : Yeah, that's 1964. Was she born 1963?
+[7 minutes 26 seconds][Agent] : I'll just check that make sure that 64 so 64 should be 59 years old there now.
+[7 minutes 37 seconds][Customer] : No, she's 6. Must be 60, 62 or 61.
+[7 minutes 36 seconds][Agent] : So, uh, 62 is shown as 61 years old at the at the moment.
+[7 minutes 42 seconds][Customer] : Yeah, yeah, that'd be. Put that in for now.
+[7 minutes 45 seconds][Agent] : Yeah, awesome.
+[7 minutes 46 seconds][Customer] : Yeah. We'll, we'll confirm it. We'll go ahead. Yeah. Yep.
+[7 minutes 48 seconds][Agent] : OK, no worries. So, and can I also just confirm that she's a female Australian resident?
+[7 minutes 54 seconds][Customer] : Yep. Yep. Yep.
+[7 minutes 54 seconds][Agent] : Wonderful. I'll just get this one set up very quickly for her. Just give me a few seconds. Awesome. So I'm just adding that on top. So were you looking at $9000 of cover for the both of you?
+[8 minutes 17 seconds][Customer] : Yeah, we'll start the day. Yeah.
+[8 minutes 16 seconds][Agent] : Of course, no worries.
+[8 minutes 19 seconds][Customer] : Yeah.
+[8 minutes 20 seconds][Agent] : I'll just bring that up for yourself. And so for $9000 of cover for yourself and for Cheryl's worth together, it's coming up as a four nightly premium of $60.90. So it's back together.
+[8 minutes 36 seconds][Customer] : Yeah.
+[8 minutes 36 seconds][Agent] : How's that sounding to you in terms of suitability?
+[8 minutes 40 seconds][Customer] : Yeah. Excuse me. Yeah.
+[8 minutes 42 seconds][Agent] : Yeah, if if you wanted, umm, the individual prices for yourself, that's coming at a premium. A4 nightly payment of $33.28 for sure. It's $27.62 for her. So together that's $60.90 per fortnight.
+[8 minutes 50 seconds][Customer] : Right, Right. Right.
+[8 minutes 58 seconds][Agent] : Yeah. Did you want to look at any of the level of, you know, umm, yeah, of course.
+[9 minutes 2 seconds][Customer] : I know that that's probably enough because I might, as I said, I'm shopping around a little bit and I'll get some grabs. I'll just use the 9000 as a benchmark and then we'll take it from there. Yeah, Yep. Yeah, sure.
+[9 minutes 9 seconds][Agent] : Yeah, of course, and in regards to your nominated benefit amount as well, you can choose to apply to decrease in the future if you feel that the costs are umm going up there in terms of, you know, just what what's suitable for yourself or if you'd like to do a a pop up cover as well.
+[9 minutes 33 seconds][Customer] : Yep.
+[9 minutes 24 seconds][Agent] : We do need to umm, you know, serve those wedding times again for umm, the specific the first of all months that I mentioned earlier, but it's just put on as a additional top up cover, of course, dependent on your eligibility. If you're still within the age range or applying for the product.
+[9 minutes 42 seconds][Customer] : Yeah, sure, sure.
+[9 minutes 42 seconds][Agent] : Yeah, awesome. So I covered the early cash up option. I just need to let you know as well that you may pay more in total premiums over the life of a policy than the benefit amount. Please be aware of this. Insurance does not have a savings or investment element. So if you cancel outside of the 30 days, the cover will stop and you will not receive anything back unless you're eligible for and choose the only cash back offer.
+[9 minutes 55 seconds][Customer] : Yep, Yeah, yeah, sure. OK, understood.
+[10 minutes 6 seconds][Agent] : OK, sorry about that. I just had to abuse myself.
+[10 minutes 12 seconds][Customer] : That's alright.
+[10 minutes 12 seconds][Agent] : I don't want to cuss in your ear. I just got a frog in my throat.
+[10 minutes 19 seconds][Customer] : Yep. No, that was that was handy.
+[10 minutes 16 seconds][Agent] : But what I can do for you today, That's pretty much all the information that I have in regards to this specific funeral product with Yeah. So I know you said that you wanted to shop around 1st, and I'll send you an e-mail with all the information that you need.
+[10 minutes 22 seconds][Customer] : Yep, Yep. That would be great.
+[10 minutes 28 seconds][Agent] : Yeah. Alternatively, what I can do for you though, is I can get you immediately covered over the phone today and I'll send you all the policy documents to review.
+[10 minutes 33 seconds][Customer] : No, no, just just send it, send it, send it through there.
+[10 minutes 36 seconds][Agent] : No worries.
+[10 minutes 37 seconds][Customer] : The inside by e-mail will be fine. Thank you.
+[10 minutes 38 seconds][Agent] : Yeah, of course I'll let you know. Umm, what I can do uh, just because we still need to confirm your wife's, umm, date of birth, just to make sure if that's right yeah. So I'll send you the, the information that you need. This will just be umm, just in regards to the, the quote that we discussed today. I do need to confirm your details. So just before I let you go, so I've got here, uh, just confirm this is the right information here, Rod. So full name as Mr.
+[10 minutes 48 seconds][Customer] : Yep, Yep, Yep.
+[11 minutes 6 seconds][Agent] : Rod Harmon, date of birth, first of the 8th 1958.
+[11 minutes 11 seconds][Customer] : Yep.
+[11 minutes 11 seconds][Agent] : You're in a male Australian resident, is that correct? Awesome. And phone number here is the one I'm just calling off of.
+[11 minutes 13 seconds][Customer] : Yep, Yep, Yep.
+[11 minutes 17 seconds][Agent] : So 0430362999 Awesome. And an e-mail address thativegotherethatsscrolleddownoursystemisrgharman@outlook.com.
+[11 minutes 27 seconds][Customer] : Yep, that's correct.
+[11 minutes 31 seconds][Agent] : I'll send that to you. I should be with you within the next hour.
+[11 minutes 37 seconds][Customer] : Yeah.
+[11 minutes 35 seconds][Agent] : They check your junk mail, though sometimes it does tend to wander in there as well. But otherwise, while I still have you on the phone as well, do you have any questions for me so far?
+[11 minutes 43 seconds][Customer] : No, no, that's, that's that was handy. Thank you.
+[11 minutes 45 seconds][Agent] : Awesome. So I'll give you some time to have a think about it.
+[11 minutes 48 seconds][Customer] : Yeah.
+[11 minutes 48 seconds][Agent] : But what I'll do for yourself today, Rod, I'll give you a call, say tomorrow at around, uh, let's just see what time would be available. Would you be available around 4:00? Yeah, of course. Like, yeah, look at now.
+[11 minutes 59 seconds][Customer] : Look, it's probably a bit early 'cause I, I, I need to text my wife and, and then, so just wait until next week that that would be better.
+[12 minutes 6 seconds][Agent] : There's no worries.
+[12 minutes 7 seconds][Customer] : Yeah.
+[12 minutes 7 seconds][Agent] : What, uh, what day next week would work best for yourself? Yeah. Awesome. I'll set a call back.
+[12 minutes 13 seconds][Customer] : Look, just give us a call during the day between say, between 3:00 and 5:00 TH at this time of day, this time of day is not too bad.
+[12 minutes 23 seconds][Agent] : Yeah, I'll set a call back out on Tuesday next week just to check with how things are going.
+[12 minutes 25 seconds][Customer] : Yeah, Yeah, that'd be great. Yep. Yeah, sure.
+[12 minutes 28 seconds][Agent] : Obviously, if you have any questions or concerns, I'll, umm, and also just to reconfirm your, uh, wife's, uh, age as well, because of course, you know that uh, dicta dictates the final pricing as well.
+[12 minutes 38 seconds][Customer] : Yeah, OK.
+[12 minutes 39 seconds][Agent] : All right, so I'll send you all the information that you need.
+[12 minutes 42 seconds][Customer] : Yeah, right.
+[12 minutes 41 seconds][Agent] : Otherwise, Rod, thank you for your time either way, I'll speak to you next week.
+[12 minutes 44 seconds][Customer] : Thanks for the information.
+[12 minutes 45 seconds][Agent] : Wonderful. No worries.
+[12 minutes 45 seconds][Customer] : Alright, thank you.
+[12 minutes 46 seconds][Agent] : Thank you.
+[12 minutes 47 seconds][Customer] : Bye. Bye.
+[12 minutes 47 seconds][Agent] : Bye for now.

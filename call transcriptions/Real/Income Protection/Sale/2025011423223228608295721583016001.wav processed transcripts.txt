@@ -1,0 +1,91 @@
+[1 seconds][Agent] : Insurance. My name is John. How can I help you?
+[4 seconds][Customer] : Good morning. How are you doing?
+[6 seconds][Agent] : I'm good. Thank you. And yourself?
+[8 seconds][Customer] : I'm good. Thank you. Good. Thank you.
+[19 seconds][Agent] : Sure. Yeah. Can I have your policy number, then?
+[12 seconds][Customer] : I'd like to update some details on my cover policy, beneficial details.
+[22 seconds][Agent] : Hmm. Mm.
+[24 seconds][Customer] : I'll give you my policy number.
+[26 seconds][Agent] : Thank you. Mm Hmm.
+[27 seconds][Customer] : It's 751, 777664.
+[31 seconds][Agent] : Yes, thank you. Just searching for it now. Won't be long. Can I get you confirm your full name and date of birth that we have on file? Thank you.
+[42 seconds][Customer] : Hi, it's Joshua that you hear. It popped up 09/01/80.
+[47 seconds][Agent] : Thank you, Joshua, your e-mail address and the type of policy you have with us.
+[51 seconds][Customer] : I've been 7180. It's a less cover policy.
+[57 seconds][Agent] : Yep, yeah. So what was the rest of the e-mail address after Vince 9180?
+[59 seconds][Customer] : Yeah, ni99180@yahoo.com.
+[1 minutes 7 seconds][Agent] : Thank you.
+[1 minutes 12 seconds][Customer] : That's correct. Yep, that's correct.
+[1 minutes 7 seconds][Agent] : I've got an address of 48 Fogarty St., Gregory Hills, NSW 2557 Mobile 04023336799, just going into your life policy. So I just need to ask you a couple of further security questions for us to be able to do this over the phone with you. Umm, can you confirm your payment frequency and the amount that we debit in dollars and cents?
+[1 minutes 35 seconds][Customer] : It's fortnightly.
+[1 minutes 37 seconds][Agent] : Yes.
+[1 minutes 41 seconds][Customer] : What's this thing?
+[1 minutes 43 seconds][Agent] : Yeah. Don't guess, you have to. Yeah, Yep.
+[1 minutes 42 seconds][Customer] : I think the the new one is 48 for for 46.
+[1 minutes 48 seconds][Agent] : Correct. Yes, that's good enough. Alright, so certainly I can help you with that today, umm, before we update your beneficiaries, I do need to make you aware that when you nominate a beneficiary, you, as the policy owner, are providing an instruction on who to pay the policy benefit to in the event of your death. This nomination will be processed in accordance with the conditions set out in your PDS. Can you please confirm that you understand and the information you'll provide is true and correct?
+[2 minutes 15 seconds][Customer] : Yes, I understand.
+[2 minutes 16 seconds][Agent] : Thank you. Alright so the let's start. The person you wanna add what's their date of birth? Sorry you broke up. What was the date of birth? 22, Yes.
+[2 minutes 24 seconds][Customer] : It's 22 May 22/05/1980.
+[2 minutes 34 seconds][Agent] : 1980 first name.
+[2 minutes 36 seconds][Customer] : Yeah, first name is Fate FAITH.
+[2 minutes 42 seconds][Agent] : Yep. Sorry, was that the surname? Yep, Yep, Yep, Yep.
+[2 minutes 44 seconds][Customer] : And then the surname is J here, MJI NN for M Yeah, the surname is M for Melly, J for Jerry, I for India, H for Harry, I for India, A A for America.
+[3 minutes 8 seconds][Agent] : A for America.
+[3 minutes 19 seconds][Customer] : No, no, no. FA. Faith.
+[3 minutes 9 seconds][Agent] : OK, so so Aith is the first one 50. Sorry, Faith.
+[3 minutes 24 seconds][Customer] : Faith.
+[3 minutes 24 seconds][Agent] : Sorry.
+[3 minutes 24 seconds][Customer] : Yes. Faith.
+[3 minutes 25 seconds][Agent] : Thank you.
+[3 minutes 29 seconds][Customer] : I don't know why.
+[3 minutes 26 seconds][Agent] : The line is you're very faint and and that's why I'm having a hard time.
+[3 minutes 29 seconds][Customer] : I don't know why. I don't know why.
+[3 minutes 31 seconds][Agent] : Yeah, no, that's OK.
+[3 minutes 35 seconds][Customer] : Yep. And correct.
+[3 minutes 32 seconds][Agent] : So FAITH and then NJ for Jane of AHIA, beautiful female Australian resident.
+[3 minutes 45 seconds][Customer] : Yes.
+[3 minutes 47 seconds][Agent] : Just let me just check, OK. Does she prefer to be known as Mrs.
+[3 minutes 56 seconds][Customer] : Mrs.
+[3 minutes 53 seconds][Agent] : Miss or Miss Mrs.? What relation is she to?
+[3 minutes 59 seconds][Customer] : Yes, she's my spouse.
+[4 minutes 3 seconds][Agent] : Thank you. And it's same address then. OK, so 48 Rivie St. OK. Do you have a mobile contact that I can put down for your wife? Yep.
+[4 minutes 4 seconds][Customer] : Yeah, yes, yes, 0407952446.
+[4 minutes 22 seconds][Agent] : So just repeat that 0407952446.
+[4 minutes 27 seconds][Customer] : That's correct.
+[4 minutes 28 seconds][Agent] : OK. Anyone else you wanna add or she's the only one?
+[4 minutes 33 seconds][Customer] : She's the only one, yes.
+[4 minutes 34 seconds][Agent] : OK, so 100% OK and let me just update. Alright, so Josh you I can confirm your beneficiary has now been updated. We'll be sending you a policy schedule to reflect these changes. Please ensure you check the information is correct. It is also important to contact us with any of the details of your beneficiary change so we can update our records to avoid any unnecessary delay during the claims process when they apply their proof of identity. But I can give them to on this call recording safe is your beneficiary. OK?
+[5 minutes 14 seconds][Customer] : Are you able to send me the PDF as well?
+[5 minutes 18 seconds][Agent] : Yeah, I can. I can request. Yeah, I can. Uh, well, the, this is being generated in the back end.
+[5 minutes 28 seconds][Customer] : Uh huh.
+[5 minutes 27 seconds][Agent] : It will be coming through to you. So I can't send this, but I'll send you the PDS to your e-mail address if you like. Joshua.
+[5 minutes 33 seconds][Customer] : Yep, that's fine. Yep, that's fine. That's fine. That's fine.
+[5 minutes 34 seconds][Agent] : OK, I'll log.
+[5 minutes 36 seconds][Customer] : That's fine.
+[5 minutes 36 seconds][Agent] : I'll organize that now for you.
+[5 minutes 38 seconds][Customer] : Yep.
+[5 minutes 38 seconds][Agent] : Was there anything else I can assist?
+[5 minutes 40 seconds][Customer] : I don't know. Maybe the other one would be that. Probably. It's not your area. Income protection. OK.
+[5 minutes 45 seconds][Agent] : I'd have to put you through the sales and you can have a talk to them if you wanted to discuss income protection. Yeah.
+[5 minutes 51 seconds][Customer] : Yep, that's fine.
+[5 minutes 52 seconds][Agent] : OK, let me just let me just first order this letter for you.
+[5 minutes 53 seconds][Customer] : Yep, OK.
+[5 minutes 56 seconds][Agent] : Let me get this one out of the way. And let's have a look. So PDS, give it about half an hour or so, start checking emails from then onwards or regularly. Sometimes we get shunted to the junk folder, so check that area as well please.
+[6 minutes 20 seconds][Customer] : Yep, Yep, Yep. That's fine. I'll keep an eye here. Yeah.
+[6 minutes 28 seconds][Agent] : So I've ordered that and I just put here added beneficiary too policy and OK, umm.
+[7 minutes 9 seconds][Customer] : Oh, maybe just a quick question as well. So if I was to increase my my cover, what, what's the process?
+[7 minutes 4 seconds][Agent] : Alright, so you, you're OK with me to put you through the sales and they can, and you can discuss with them about, Yep, Yep, you have to go through underwriting to be approved, OK. It's not, uh, not a straightforward, we would have to pull out your previous records or what you answered health and lifestyle questions.
+[7 minutes 27 seconds][Customer] : Yeah, yeah, yeah.
+[7 minutes 30 seconds][Agent] : And uh, and that can take about, uh, I don't know, 40 minutes minimum maybe. And, uh, it could be longer depending on how you go through the application. Umm, yeah. But that's, uh, that's what we can do, Joshua. We can, uh, we can give you a quote. Can't guarantee that's what would the price would remain until you go through the application because things can change. When going through the process, we would advise you to revisit your health, your height and weight readings to make sure you've got the current readings that you can supply. You can't guess and if you're, if you're on any type of medication, you may need to have that available in case we need to disclose if you suffer from a high cholesterol or high blood pressure, you may need to give disclose your current readings. Umm, but other than that, we play it by you, OK?
+[7 minutes 53 seconds][Customer] : Oh OK OK. And is there a way I can access what I answered before?
+[8 minutes 25 seconds][Agent] : Yeah, very similar. I don't know whether the questions have changed. I know they were doing some updates, I think they have umm, but umm, yeah, it's a series of health and lifestyle questions we've got to go through.
+[8 minutes 31 seconds][Customer] : Yeah, OK. Alright. That's fine. That's OK.
+[8 minutes 37 seconds][Agent] : Alright, alright, just bear with me. I'm going to transfer you to our sales and you can have a discussion with them about income protection.
+[8 minutes 38 seconds][Customer] : Alright, Alright.
+[8 minutes 45 seconds][Agent] : Just get an idea of what's out there.
+[8 minutes 48 seconds][Customer] : Thank you.
+[8 minutes 48 seconds][Agent] : Uh, just bear with me.
+[8 minutes 49 seconds][Customer] : Thank you.
+[8 minutes 49 seconds][Agent] : No, you're welcome. Uh, let me just to this and all right, hold the line.
+[9 minutes 16 seconds][Customer] : OK. Thank you.
+[10 minutes 10 seconds][Agent] : Joshua, thanks for holding. I apologize for any delay. I've got AJ from our sales department. He'll about to further assist you with your request in regards to income protection. And uh, AJ, just to let you know, I've confirmed with Joshua his full name, date of birth address, contact e-mail and the current policy that he has with us, which is life insurance. Thank you. So I'll be through. Thank you.

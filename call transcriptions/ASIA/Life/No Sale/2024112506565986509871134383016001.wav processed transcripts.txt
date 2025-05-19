@@ -1,0 +1,41 @@
+[3 seconds][Agent] : Hi Tracy, it's Brad calling from Australian Savings. I'm giving you a call as we have received your expression of interest online with regards to our life insurance.
+[2 seconds][Customer] : Speaking yes.
+[12 seconds][Agent] : Yes, how can I assist you further? May I have your full name and your date of birth?
+[16 seconds][Customer] : Tracy Cilicetti 18961.
+[20 seconds][Agent] : Thank you. And Tracy, Please note all our calls are recorded. Any advice that providers general in HR may not be suitable to your situation? Can I confirm that you are a female Australian resident?
+[31 seconds][Customer] : That's correct.
+[32 seconds][Agent] : Perfect. Umm Look Tracy, thank you uh for filling me in and confirming all of that. UMM, looks like I can have a better understanding of what sparked your interest. What's prompted your inquiry into looking into life insurance?
+[43 seconds][Customer] : Curiosity.
+[45 seconds][Agent] : Curiosity.
+[45 seconds][Customer] : Just curious.
+[46 seconds][Agent] : No a are you new to life insurance or do you currently have some cover in place?
+[46 seconds][Customer] : Yeah, no, I don't have any trouble in place.
+[53 seconds][Agent] : OK perfect. So look what I'll do Tracy is I'll explain the main features and benefits and run through some pricing with you.
+[1 minutes][Customer] : OK.
+[59 seconds][Agent] : OK perfect. So essentially seniors life insurance is designed to provide financial protection for your loved ones to a lump sum payment if you were to pass away before your 85th birthday. When the policy ends, you can choose cover between $10,000 up to $200,000 and nominate up to five beneficiaries to receive their nominated benefit amount. If that is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with funeral costs or any other final expenses at the time. It is easy to apply, we just ask you a yes on that questions relating to your help over the phone to see if you are approved. If you are accepted and once you commence the policy, you will be covered immediately for death due to any cause except suicide in the 1st 13 months. In addition, there is a terminally ill advanced payment included in the cover. So if you were diagnosed with 24 months or less to live by, I'm a specialized medical practitioner, We can pay your benefit amount in full to help with medical costs to ensure you receive the best care possible. Umm look Tracy, with regards to your beneficiaries, have you thought about who you'd nominate for, umm, that lump sum payment?
+[2 minutes 11 seconds][Customer] : I probably have, yes.
+[2 minutes 13 seconds][Agent] : Yeah, perfect. And look, just to highlight, you can choose up to five beneficiaries there. OK.
+[2 minutes 19 seconds][Customer] : Yep.
+[2 minutes 19 seconds][Agent] : And did you have any questions for me so far regarding any of the the benefits or the main features?
+[2 minutes 27 seconds][Customer] : No, none at all.
+[2 minutes 28 seconds][Agent] : Perfect, easy. Look, let's go through a quote to we together. I do have a question regarding your smoking status. Have you had a cigarette in the last 12 months?
+[2 minutes 40 seconds][Customer] : I haven't had a cigarette in the last 23 years.
+[2 minutes 44 seconds][Agent] : Perfect, perfect. Even better. Look, prior to receiving that quote, I will need to just grab your e-mail so I can proceed with receiving generating that quote. Yep. B EE mm hmm at gmail.com perfect, Really appreciate that. I really appreciate that.
+[2 minutes 59 seconds][Customer] : It's honey bee goat farm HONEYB EE GOHES arm@gmail.com Yes, correct.
+[3 minutes 14 seconds][Agent] : And just to confirm, it's honeybee goatfarm@gmail.com perfect. OK, so umm, so with regards to the quote, uh, keep in mind the level of cover ranges from 10,000 and up to 200,000 and we can always look at different amounts until you do find the right level of cover. Umm, what benefit amount would you like to look at first?
+[3 minutes 36 seconds][Customer] : Well, a are you able to send? I'm sort of about to do something and I might have to get off the phone.
+[3 minutes 41 seconds][Agent] : Mm hmm.
+[3 minutes 41 seconds][Customer] : Are you able to send a quote through ranging from the 10,000 to the 200,000?
+[3 minutes 47 seconds][Agent] : Uh, so unfortunately we won't be able to send, umm, a whole list of quotes.
+[3 minutes 56 seconds][Customer] : Give me those two. That would be lovely. Just those two.
+[3 minutes 51 seconds][Agent] : I can send you a a quote or one or two quotes, umm, with yeah, which yeah, which ones would you like to go through? So 10,000 Perfect.
+[3 minutes 59 seconds][Customer] : Then 10,000 the lowest and the high and the 200,000.
+[4 minutes 6 seconds][Agent] : OK perfect. So just to highlight, umm, with regards to $10,000 of cover, you are looking at a payment of $8.81 a fortnight. Umm, that does come with uh, a free online legal will as well. Umm, OK perfect and just to highlight, 200,000 to confirm.
+[4 minutes 23 seconds][Customer] : Yep, yes.
+[4 minutes 29 seconds][Agent] : Yep, 200,000 for $200,000 of cover you are looking at a payment of $176.22 a fortnight. Umm, how is that sounding in terms of bili, uh, suitability?
+[4 minutes 46 seconds][Customer] : I'd have to think about it. Can I really have to go now? If you could put that in your name e-mail for me, that would be great.
+[4 minutes 52 seconds][Agent] : Yeah no problem. Umm, what I can do? I can send that out as well as everything that we've chatted about today. Umm, did you want me to shoot, uh, to give you a follow up call just to umm, just to give you some time to think about the quotes?
+[4 minutes 54 seconds][Customer] : OK, I I can, I can follow it up with an e-mail.
+[5 minutes 8 seconds][Agent] : Yeah, no problem at all. Umm, please feel free to give us a call back if you need further information.
+[5 minutes 10 seconds][Customer] : OK, No worries. Thank you so much. Bye.
+[5 minutes 15 seconds][Agent] : Thank you. Bye.

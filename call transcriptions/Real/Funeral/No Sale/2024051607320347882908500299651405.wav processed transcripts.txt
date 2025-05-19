@@ -1,0 +1,202 @@
+[0 seconds][Agent] : Thank you. Hello. Hi.
+[2 seconds][Customer] : Hey, how are you?
+[3 seconds][Agent] : How are you? Hi. Good. Thanks. How are you? I'm good.
+[6 seconds][Customer] : I'm good, thanks for asking.
+[7 seconds][Agent] : Thanks for asking. I have a lady on the phone. She gave me her dad.
+[8 seconds][Customer] : I have a lady on the phone, she gave me her dad's information and she just said she just wants some quotes.
+[13 seconds][Agent] : She gave me her dad.
+[14 seconds][Customer] : So what she gave me was her dad's full name and his date of birth.
+[15 seconds][Agent] : She gave me her dad's full name and he said birth. And of course, she gave me because she was something Quote.
+[17 seconds][Customer] : That's all she gave me 'cause she just wants some quotes to set up a funeral policy.
+[20 seconds][Agent] : So for the first, you know, apologies. OK. Yeah, no worries. So she's the one that's prompted about funeral insurance for her dad.
+[27 seconds][Customer] : That's correct.
+[28 seconds][Agent] : That's correct.
+[28 seconds][Customer] : Her exact wording was I would like some funeral and I'd like some quotes for funeral insurance.
+[29 seconds][Agent] : Her exact wording was I would like some funeral umm, I'd like some quick support funeral insurance.
+[33 seconds][Customer] : Can you help me?
+[34 seconds][Agent] : Can you help me? And a cinema. Of course I can't, but I can't.
+[34 seconds][Customer] : And I said unfortunately I can't, but I've tried 3/4 of my colleagues. You can and I'd go as much information as I could.
+[37 seconds][Agent] : Umm, and I got some information on my cool. No worries that the information you've got there on the screen, is that the dad's or hers?
+[45 seconds][Customer] : That's the dad's.
+[46 seconds][Agent] : That's the bad cool.
+[46 seconds][Customer] : So she actually gave me the dad's full name and his date of birth.
+[47 seconds][Agent] : She actually gave me that dad's full name and his date of birth. Cool. No worries. Umm, yeah, so and the and it's obviously the daughter there. Is that right?
+[57 seconds][Customer] : That's correct, yes.
+[57 seconds][Agent] : That's correct. What's what's what's her name?
+[58 seconds][Customer] : I don't remember her name. I do apologize.
+[1 minutes][Agent] : All good, All good.
+[1 minutes 1 seconds][Customer] : I'm so sorry.
+[1 minutes 1 seconds][Agent] : No worries. Yeah, that's alright. No worries. If you want to pop her through, I'll I'll have a chat to and organise it for her.
+[1 minutes 10 seconds][Customer] : Fantastic.
+[1 minutes 11 seconds][Agent] : Fantastic. Ultra 33.
+[1 minutes 10 seconds][Customer] : Ultra 31.
+[1 minutes 12 seconds][Agent] : Just one. Hi.
+[1 minutes 16 seconds][Customer] : Yes.
+[1 minutes 16 seconds][Agent] : Good afternoon. You've got. Hi. Good afternoon. This is Jamie here from Real Insurance. How are you going?
+[1 minutes 23 seconds][Customer] : Good, good. Jamie, how are you?
+[1 minutes 25 seconds][Agent] : I'm fantastic, thanks for asking. The lovely lady you were just speaking to explain to me that you were possibly looking at getting some quotes for funeral insurance for your dad, is that right?
+[1 minutes 36 seconds][Customer] : Yes please.
+[1 minutes 38 seconds][Agent] : No problem, no worries. Well, what I'll do for you is I'll explain it to you, I'll work out some pricing and if you have any questions let me know. But just please keep in mind that this call is recorded. Any advice I provided in the nature may not be suitable to your situation. And what's your dad's name and date of birth?
+[1 minutes 57 seconds][Customer] : The first name is spelt S for sugar, A for apple, K for kite, I for India, U for umbrella, S for sugar, A for apple.
+[1 minutes 54 seconds][Agent] : The 1st thing is E for E for E for umbrella, S for sugar, E for F Thank you.
+[2 minutes 16 seconds][Customer] : T for Tom, U for Umbrella, R for Robert, E for Echo. B for Bob, E for Echo.
+[2 minutes 11 seconds][Agent] : And his last name, T for Tom, U for Umbrella, R for Robert, A for Apple, D for Tom, A for F. So sorry, TURAGA, did you say?
+[2 minutes 30 seconds][Customer] : Correct? Yes, correct.
+[2 minutes 32 seconds][Agent] : OK, So TURAGA, Turaga, thank you very much. No problem. And what's Sackios's date of birth, please?
+[2 minutes 49 seconds][Customer] : Six. July 1944.
+[2 minutes 47 seconds][Agent] : 6th July 19, 44. Thank you very much. And he is a male and an Australian resident, is that correct? And he's 77 years old.
+[3 minutes 1 seconds][Customer] : Yes, yes, yes.
+[3 minutes 9 seconds][Agent] : No problem. Thank you so much. Well, keep in mind that all calls are recorded. Any advice are provided in nature. May not be your situation. And what I'll do is I'll explain it to you. I'll work out some pricing. And if you have any questions, let me know.
+[3 minutes 23 seconds][Customer] : Thank you. And Lucy.
+[3 minutes 22 seconds][Agent] : OK, thank you. No problem. But what's your first name? Lucy. No worries, Lucy. Lovely talking to you. You're Sakusa's daughter, is that right?
+[3 minutes 38 seconds][Customer] : Yes.
+[3 minutes 41 seconds][Agent] : No worries. That's fine. And does your father already have funeral insurance, or is this new?
+[3 minutes 50 seconds][Customer] : What can I know of with, with, with your company?
+[3 minutes 46 seconds][Agent] : That's what I do with your company.
+[3 minutes 53 seconds][Customer] : I, I, I I don't think so.
+[3 minutes 53 seconds][Agent] : I, I, I don't think no problem. That's fine. Well, we make this insurance really simple and easy for him. There's no medical checks, there's no blood test involved 'cause he's an Australian resident aged between 18 and 79. We're gonna accept him just the way he is. OK.
+[4 minutes 11 seconds][Customer] : Oh, thank you.
+[4 minutes 11 seconds][Agent] : But keep in mind, Yeah, no worries. But just keep in mind, Lucy, that for the 1st 12 months of this insurance, your father will only be covered for accidental death only. And after the first 12 months, he'll be covered for death due to any cause. OK.
+[4 minutes 28 seconds][Customer] : No. OK.
+[4 minutes 31 seconds][Agent] : Now, it'll also come with a terminal illness benefit. This means that after holding the policy for 12 months, if your father was first diagnosed with a terminal illness with 12 months or less to live by medical practitioner, we'll pay the full funeral insurance to him so he can use the money himself for all of his medical expenses.
+[4 minutes 53 seconds][Customer] : Oh, OK.
+[4 minutes 53 seconds][Agent] : Now you can choose, Yep, you can choose a minimum of $3000 up to a maximum of $15,000 of funeral insurance.
+[5 minutes 7 seconds][Customer] : Yeah.
+[5 minutes 4 seconds][Agent] : And whatever amount you choose, the cost that I'll work out for you today, Lucy, that cost will not change. It'll stay the same price from now until Satyusa turns 85 years old, provided you keep the cover in place and make no changes. And if the insurer doesn't change the premium rates once he turns 85, you don't have to pay for it anymore. The payments topple you altogether and on top of that, you will then receive a bonus 25% cover that'll automatically be added on to your insurance amount at no extra cost to you, just as a thank you from us.
+[5 minutes 42 seconds][Customer] : Oh, right.
+[5 minutes 40 seconds][Agent] : OK, but you haven't. Your father will have an option though with this insurance anytime after he turns 85 years old. If he wants to, he can choose to end this policy early and cash out 75% of the benefit amount should he want to do that. But once again, that's optional and that's up to him to decide.
+[6 minutes 4 seconds][Customer] : Oh, I see.
+[6 minutes 4 seconds][Agent] : Any questions so far?
+[6 minutes 7 seconds][Customer] : Yeah, with with that last option I would, that is if you if you need before he reaches 85.
+[6 minutes 14 seconds][Agent] : Before he reaches 85? No anytime after he reaches 85, if he wants to, he can choose to end the policy early and cash out. Which means we will stop the policy and then we will pay him 75% of the funeral insurance amount if he wants to do that. It's optional, it's his choice.
+[6 minutes 34 seconds][Customer] : Oh, I see.
+[6 minutes 36 seconds][Agent] : OK, but don't forget Reme. Yeah, go for it.
+[6 minutes 38 seconds][Customer] : You know, one question, you know, like if if you just curse certainly passes away is is is there any would there be any money left for for for for for his?
+[6 minutes 58 seconds][Agent] : Yes. So with this insurance, he can nominate up to a maximum of five beneficiaries who he wants his money to go to.
+[7 minutes 14 seconds][Customer] : Oh, I see, I see.
+[7 minutes 5 seconds][Agent] : And umm, what we do is we pay the money directly to the nominated beneficiaries when when your father passes away, OK.
+[7 minutes 16 seconds][Customer] : But that's after, after that is after his funeral expenses are paid. Yes.
+[7 minutes 23 seconds][Agent] : So what we do is with this insurance, when your father passes away, we pay the money to the beneficiaries and you can use that money for whatever you like. Like the test?
+[7 minutes 34 seconds][Customer] : Does, does, does, does that exclude the even the expenses for his funeral, like the casket, the flowers that you do? You can.
+[7 minutes 44 seconds][Agent] : We're not we're we're, we are not a funeral parlor. Lucy W All we do is the insurance. So yeah. So what we do is we pay the money to the family and you do you can use that money to arrange his funeral expenses. We don't do that. We just give you the money and you arrange his funeral expenses. You do whatever you like with that money.
+[7 minutes 56 seconds][Customer] : Yeah, Yeah, I get you. I get. Yep.
+[8 minutes 5 seconds][Agent] : Uh, OK, OK, alright, yes, awesome, awesome. But how much funeral insurance would you like me to quote your father on? The minimum is $3000 up to a maximum of $15,000. How much would you like?
+[8 minutes 30 seconds][Customer] : Would it be possible to raise it up a bit more than 15?
+[8 minutes 34 seconds][Agent] : No, the maximum is 15.
+[8 minutes 38 seconds][Customer] : Alright, I I, I, I.
+[8 minutes 48 seconds][Agent] : I'm sorry there Lucy.
+[8 minutes 50 seconds][Customer] : The 1515 thousand, please.
+[8 minutes 53 seconds][Agent] : No problem. Let's have a look. So if you if you go for the maximum 15,000, this insurance will cost you will cost you a fortnight each two weeks it'll come to 100-4444 and $0.23 per fortnight.
+[9 minutes 13 seconds][Customer] : Oh, OK, performance alright, OK.
+[9 minutes 17 seconds][Agent] : $44.23 per fortnight would, would that would that be, would that be suitable for you or do you want me to quote you on something lower than 15,000?
+[9 minutes 36 seconds][Customer] : I'm just worried how because how do the the the feeble expenses is quite is quite high nowadays.
+[9 minutes 41 seconds][Agent] : The the, the, the single expenses is quite is quite high. I understand.
+[9 minutes 50 seconds][Customer] : Yes, Sir.
+[9 minutes 53 seconds][Agent] : Yeah, no problem. That's fine. And would that be affordable for you and comfortable each fortnight?
+[9 minutes 50 seconds][Customer] : I have not leave it at 15 grand kind of I'm just I'm just wanting to ask, can you please leave it at 15 grand?
+[10 minutes 10 seconds][Agent] : I'm just, I'm just trying to ask, uh, can you please leave the 15 grand, but it is a bit lower than that. Uh, no, no, no.
+[10 minutes 14 seconds][Customer] : But we pay a bit lower than the yeah 124 on the phone to to to to to 10 gram.
+[10 minutes 22 seconds][Agent] : Unfortunately, if you wanna, if you wanna pay a little bit less than we have to reduce the $15,000 down to, to, to, to, up to you. It's your choice.
+[10 minutes 41 seconds][Customer] : Yeah.
+[10 minutes 37 seconds][Agent] : You can choose the minimum is 3000 and up to a maximum of 15,000. It's up to you how much do you want me to bring it down to?
+[10 minutes 48 seconds][Customer] : OK, OK. Just give me the 15 gram.
+[10 minutes 53 seconds][Agent] : OK, leave it at 15 and that'll be suitable for you and affordable each fortnight.
+[11 minutes 2 seconds][Customer] : Is it possible that to to pay monthly?
+[11 minutes 4 seconds][Agent] : Possible that would just be monthly, Yes, of course. Yes, definitely. If you prefer monthly payments for the 15,000 that'll come to 1 total payment a month, it'll be $312.50 a month.
+[11 minutes 24 seconds][Customer] : How much you get, how much you get in the fortnight?
+[11 minutes 20 seconds][Agent] : How much you did, how much you didn't get from it, Yes. So per fortnight it'll be exactly $144.23.
+[11 minutes 41 seconds][Customer] : OK, because I'm thinking is that is that 288 monthly?
+[11 minutes 57 seconds][Agent] : No, no it's not. Once again, monthly IS300 and $12.50 a month.
+[11 minutes 51 seconds][Customer] : Is that 288 dollars and a few cents monthly or because I'm just yeah.
+[12 minutes 9 seconds][Agent] : Not every month, not every month has four weeks in the month.
+[12 minutes 15 seconds][Customer] : Oh, I see. I see. I see. Yeah.
+[12 minutes 17 seconds][Agent] : There's 12 months, 12 months in the year compared to 26 fortnights in the year.
+[12 minutes 26 seconds][Customer] : Oh, OK. OK, OK. OK. OK. Can I thank you so much, Howard.
+[12 minutes 39 seconds][Agent] : Thank you so much.
+[12 minutes 39 seconds][Customer] : Thank you for your time.
+[12 minutes 39 seconds][Agent] : How are things for you? Can I, I'll call you back later. Yeah, of course.
+[12 minutes 40 seconds][Customer] : Can I leave it and I'll call you back maybe sometime later because I'm.
+[12 minutes 47 seconds][Agent] : If you mind me a if you mind me asking Lucy, are you going to be paying for this for your dad or is he going to be paying for it himself? You OK? No worries. So keep in mind at the end of the day, if you were happy with what we've spoken about, if you just want some time to speak to your dad about it, double check your finances and make sure it's suitable for you. What we can actually do for you is we can have your dad from today. You're not required to make a payment today. You can choose a day in the future when you'd like for the payments to start and you can review the documents, double check everything. And if you're happy, only on the day that you've chosen is when we'll take out the first payment from your account and it'll come out each month from there on, on that same day or each fortnight.
+[13 minutes 38 seconds][Customer] : That'd be good.
+[13 minutes 38 seconds][Agent] : But if you change your mind, yeah. If you change your mind though, there's no cancellation fees with us.
+[13 minutes 51 seconds][Customer] : Oh, right.
+[13 minutes 44 seconds][Agent] : You can call back, apply to cancel the policy and you won't be penalised if you cancel in the 1st.
+[13 minutes 52 seconds][Customer] : It it, it it it are you still one question? How would I are you still in the in the you know like is the is the in the in the every investigative of the year you guys did better you find of I mean the disk like like a bonus.
+[13 minutes 57 seconds][Agent] : I'm sorry, one question, how would I have yeah, in the, you know like if the if the industry of the year you guys refund of like like bonus, Yes. So how it works, it's a refund back. So with this insurance, once you have the insurance with us for one year following the 1st 12 month anniversary date, we refund you back 10% of all the payments you paid into the insurance.
+[14 minutes 41 seconds][Customer] : I see so like for example 154 per fortnight times two months in the.
+[14 minutes 52 seconds][Agent] : So next year, if you go for the 15,000 following the 1st 12 month anniversary, we will refund you back $375.
+[15 minutes 3 seconds][Customer] : Oh, I see. I see.
+[15 minutes 15 seconds][Agent] : Of course. Yeah.
+[15 minutes 5 seconds][Customer] : Oh, OK, Well, all that I would you maybe the my book can be covered from today and then I, I, I I I'll yes.
+[15 minutes 19 seconds][Agent] : So what we do for you is if you're happy with this, Lucy, we get your father covered from today. We don't take any payments out of your account today, but we note down your banking details and we let you choose a day in the future when you like for the first payment to start.
+[15 minutes 32 seconds][Customer] : Yeah, yeah.
+[15 minutes 37 seconds][Agent] : So whichever day you choose, we'll take out the payment on that same day each month, each day, that same day to each month. OK. Yeah.
+[15 minutes 47 seconds][Customer] : OK, OK. Yep.
+[15 minutes 49 seconds][Agent] : So I can arrange that for you now. Just going back though to the amount, do you prefer the monthly payments or the fortnightly payments?
+[15 minutes 52 seconds][Customer] : Yeah, maybe the fortnightly.
+[16 minutes 4 seconds][Agent] : OK, no problem. So I'll change it back again to fortnightly for you. So that'll be one payment of $144.23 a fortnight. OK. You happy with that? No worries, now I'll just grab some information from you. Lucy. Firstly, what is your full name and your date of birth please?
+[16 minutes 17 seconds][Customer] : Yes, yes, Lucy Torana.
+[16 minutes 31 seconds][Agent] : Yep.
+[16 minutes 33 seconds][Customer] : Date of birth 19/10/70.
+[16 minutes 38 seconds][Agent] : And you are a female and an Australian resident? And what's your address?
+[16 minutes 43 seconds][Customer] : Yes, 270 Lakemba St.
+[16 minutes 55 seconds][Agent] : 770 Lakemba St. Wiley Park 2, 70270. No problem. Thank you. And what's your best telephone number? 04 10 Yep.
+[16 minutes 52 seconds][Customer] : Walipa NSW 270 0410 127819.
+[17 minutes 18 seconds][Agent] : 127, Yep. Thank you very much. No problem. Now does Saku Sakusa, does he live with you at the same address?
+[17 minutes 30 seconds][Customer] : Oh no, he, he, he actually lives in Canberra.
+[17 minutes 35 seconds][Agent] : OK, no worries. I'll just so I'll just need his address. What's his address in Canberra? 16 1/6 Yep.
+[17 minutes 35 seconds][Customer] : This is Miami 1616 Linn close, Fraser.
+[17 minutes 53 seconds][Agent] : Lynn close Fraser Lynn close in Fraser. Do you know the post code of Fraser?
+[17 minutes 56 seconds][Customer] : Yes, I believe it's 2615.
+[18 minutes 14 seconds][Agent] : 2615, thank you. Thank you very much and once again you said 16 Lynn close is that right?
+[18 minutes 16 seconds][Customer] : Yes, Lind.
+[18 minutes 33 seconds][Agent] : Yep, I've got it here. Thank you so much. No problem. And you want me to put down your postal address, have all the documents sent to you, Lucy, or to your father? To my what? My one, please. No problem. So once again, yours is 270 La Kemba St. in Wiley Park. Is that right, 2195? Is that correct?
+[18 minutes 47 seconds][Customer] : 29191 please Yes, yes, correct.
+[19 minutes 13 seconds][Agent] : No problem. Thank you very much. No problem now. Also, do you have an e-mail address?
+[19 minutes 13 seconds][Customer] : 2195 yes. It's lucy@gmail.com.
+[19 minutes 28 seconds][Agent] : lucyturaga@gmail.com. That's it. No problem. Thank you, Lucy. And also has Sakusa. What's his telephone number, please? I'm I'm sorry. Yeah, of course. Yeah. 0426, 0414, 426, 652, no problem. So that's Sakyos's number, is that right?
+[20 minutes 15 seconds][Customer] : Yes, 0414 426, 652 yes.
+[20 minutes 37 seconds][Agent] : No problem. Thank you very much. Perfect. OK, no worries. So just a few more things I need to make sure you understand with this insurance, Lucy. So firstly, your your premiums are level, which means they're designed not to increase as your father gets older, as I mentioned to you previously. Also, you may pay more in total premiums over the life of the policy than the benefit amounts. And finally, please be aware this insurance does not have a savings or investment element. So if you cancel outside of the 30 days, your cover will stop and you won't receive anything back. So I just need to make sure you understand that. Lucy.
+[21 minutes 25 seconds][Customer] : Alright.
+[21 minutes 23 seconds][Agent] : OK, perfect. No worries. So if you're happy with what we arranged once again, what what we do is we get your father covered from today. Once we hang up the phone call, SAC user will be protected with the $15,000 like that funeral insurance. But we let you choose a day in the future when you'd like us to take out the first payment from your account. Once we hang up the call, your father is protected. I'll send out all the documents today to your e-mail address so you can have a good read over everything and also the documents be posted out your address in Wiley Park as well.
+[22 minutes 8 seconds][Customer] : Oh, thank you.
+[22 minutes 6 seconds][Agent] : OK, and after you've had a good read over everything, Lucy. Yeah, no problem. After you've reviewed everything, if you're happy, we'll only take out the first payment from your account on the date you've chosen in the future, and it'll come out each fortnight on that same day. But if you change your mind, you can call back and apply to end the cover with us. OK, great.
+[22 minutes 23 seconds][Customer] : Oh, OK, thank you.
+[22 minutes 31 seconds][Agent] : So we'll let you choose when you'd like to, no problem. So we'll let you now choose when you want for the first payment to come out. We just ask everyone that. As a business, we generally like to have the first payment collected from your account within the next 7 days. When in the next 7 days is suitable for you? Which day would you like?
+[22 minutes 51 seconds][Customer] : Uh, but not this coming Friday, but following Friday.
+[22 minutes 57 seconds][Agent] : No problem. Let me just bring up the calendar. So today is Friday, the 1st of April.
+[23 minutes 8 seconds][Customer] : No. The following Friday, please.
+[23 minutes 4 seconds][Agent] : Are you happy with next Friday, the 8th of April, the the following after that the 15th?
+[23 minutes 14 seconds][Customer] : Yes, please.
+[23 minutes 16 seconds][Agent] : No problem. Can I? Actually it won't allow me to do that because that is a public holiday for you on the Fr on the Friday the 15th is a public holiday. Can I either do it on Thursday the 14th or Monday the elev the 18th for you instead?
+[23 minutes 37 seconds][Customer] : Maybe Monday the 18th.
+[23 minutes 40 seconds][Agent] : Monday the 18th? Monday the 18th?
+[23 minutes 45 seconds][Customer] : Oh sorry, send me the 14th. Sorry.
+[23 minutes 44 seconds][Agent] : No problem if you'll ha Thursday the 14th, did you say?
+[23 minutes 52 seconds][Customer] : Yes please.
+[23 minutes 54 seconds][Agent] : OK, no problem. I'll arrange that for you, Lucy. So once again, only on Thursday the 14th of April, we'll take out the first payment from your account. I'll remind you again that is $144.23 and then it'll come out each fortnight from there on, on the Thursday. You happy with that?
+[24 minutes 17 seconds][Customer] : Yep, happy, happy with that.
+[24 minutes 19 seconds][Agent] : No problem. And what payment method you want to note down all this coming out of your BSB and account number or a Visa, MasterCard or debit card? What would you prefer? Yeah, it's it's your card with your name on it.
+[24 minutes 32 seconds][Customer] : Uh, Visa MasterCard, yes.
+[24 minutes 41 seconds][Agent] : No problem. So what we're going to do for you, because this call is recorded for security purposes while we collect your math, your card details, the call recording will stop and it will recommend after we collect your card details. So when they listen back to the call, they won't hear your number just for security purposes.
+[25 minutes 2 seconds][Customer] : Open.
+[25 minutes][Agent] : OK, so I'll stop the recording for you.
+[25 minutes 57 seconds][Customer] : The. The.
+[26 minutes 38 seconds][Agent] : Great, fantastic. So that card has been registered successfully. Lucy, thank you very much. And I'll just remind you, please be advised that the call recording has now resumed for quality monitoring purposes for you.
+[26 minutes 54 seconds][Customer] : Thank you.
+[26 minutes 52 seconds][Agent] : OK, no problem. Now, finally, I need to read over your declaration too. This will be a confirmation of what we've spoken about today for your father's insurance. Please listen in. It'll only take a minute. At the end of the declaration, there'll be two final questions I need to ask you, and then I can let you go. All your documents be emailed, posted, and yourself will be protected once we hang up the call.
+[27 minutes 21 seconds][Customer] : Yep.
+[27 minutes 19 seconds][Agent] : OK, you're ready, I'll read it to you right away. It says thank you. Saku Sakusa Taraga. It is. It is important you understand the following information. I will ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real funeral cover is issued by Hanover Live free of Australasia Ltd Hanover has an arrangement with Greensome Financial Services trading as real insurance tuition. Arrange this insurance on its behalf. Your answers to the application questions and any related documents form the basis of your contract of insurance and however, relies upon the accuracy of the information you have provided when assessing the application. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website now. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you can central hours to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. You have agreed to take out a single real funeral cover with the following cover. Excuse me, Sakyosa Taraga is covered for $15,000 in the event of death. In the case where death is accidental, the benefit amount will triple coverage for accidental death only for the 1st 12 months of cover, with death by any cause of diagnosis of a terminal illness covered thereafter. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash that option, you will no longer have a right to claim under the policy for that life insured. This policy does not have a savings or investment component component. Coverings if coverings, if coverings, if coverings if cover and it is and it is and it is and it is and it is and it is. Sorry, Lucy, I think the line just cut out there for a SEC. I'll just go back and repeat that paragraph for you.
+[30 minutes 7 seconds][Customer] : Yes.
+[30 minutes 8 seconds][Agent] : So it thank you. So it says this policy does not have the savings or investment components. If cover ends prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off period. Now, if you choose to retain cover beyond age 85, you will be entitled to an additional 25% of bonus cover from that date and you will not be required to pay any further premiums after the life insurance 85th birthday. The bonus cover is not payable if you take out the early cash AD option. Cover for each life insurance ends on the day prior to their 100th birthday. We'll pay the funeral benefit and bonus cover for the life insurance at this point. Your total premium for the first year of cover is $144.23 per fortnight. Your premium is designed to stay the same year on year and will only change if you alter your cover or the insured. That's the premium rates applying to your policy. You may pay more in premiums and the benefit amount over the life of the policy. Included in your premium is an amount payable to real insurance of between 28% and 49.5%. Calculate on the level basis of the life of the policy. Your premium will be debited from your credit card, which you are authorised to debit from and are provided to us. We may provide written communications to you by the e-mail address you have provided to us and this will include any legal notices that are required to provide you in writing. If you would prefer to receive these only by mail, you can update your communication preference at any time now. We will send you a welcome pack including your policy schedule, PDS and FSC via mail if you have provided us with an e-mail address. Your policy schedule also be emailed to today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off.
+[32 minutes 12 seconds][Customer] : Yeah.
+[32 minutes 9 seconds][Agent] : During which you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged a claim. And finally, Lucy, we have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we're sending you. Now Lucy, thanks for your patience with me today. All done for you. Now, I'll ask you two final questions and then I can let you go. You'll be covered once we hang up the your father will be covered once we hang up the call. OK, So the first question says do you understand and agree with the declaration I've read you yes or no, please. Thank you. And finally, would you like any other information about the insurance now or would you like me to read any part of the PDS to you yes or no, please?
+[32 minutes 42 seconds][Customer] : Yep, yes, Hello.
+[33 minutes 7 seconds][Agent] : No worries. Well, let me accept that. And even though the payments won't start until Thursday the 14th of April, your father is covered with us as of right now with this insurance. So welcome aboard.
+[33 minutes 21 seconds][Customer] : Oh, thank you so much.
+[33 minutes 19 seconds][Agent] : OK, no worries, Lucy. My pleasure. Now, when you get your documents, I'm going to add on there my name and my number. So give me a call back if you have any other questions. But welcome your father to Wheel Insurance. OK, all done for you now. Is there anything else I can do for you?
+[33 minutes 41 seconds][Customer] : No, thank you.
+[33 minutes 43 seconds][Agent] : No worries. Well, you have a great day and take care of yourself. All right.
+[33 minutes 47 seconds][Customer] : Thank you. Thank you.
+[33 minutes 49 seconds][Agent] : No worries. See ya. Bye.
+[33 minutes 52 seconds][Customer] : Bye.

@@ -1,0 +1,278 @@
+[10 seconds][Customer] : Hello.
+[11 seconds][Agent] : Hello, Darren, Good afternoon. It's Laura calling from Real Insurance. How've you been?
+[16 seconds][Customer] : Not too bad.
+[15 seconds][Agent] : Not too bad, very good.
+[24 seconds][Customer] : Yes, Yes.
+[19 seconds][Agent] : I've been trying to reach out to you in regards to the income protection we talked about earlier this week, so I just need to get that done with you so I won't take too much of your time. I'll just quickly remind you all calls are recorded.
+[32 seconds][Customer] : OK.
+[31 seconds][Agent] : Darren, any advice I provide you is general in nature and may not be suitable to your situation.
+[37 seconds][Customer] : Yeah, yeah.
+[37 seconds][Agent] : Uh, for the recording. Thank you for the recording, Darren. Can you just quickly confirm your name and date of birth so I can help you out?
+[45 seconds][Customer] : Darren Thirst 4th of May 73.
+[44 seconds][Agent] : 4th of May 73. Beautiful. And you are a male and an Australian resident? Yes or no?
+[53 seconds][Customer] : Yes, yes.
+[54 seconds][Agent] : Beautiful. You do have about 10 minutes time, right?
+[58 seconds][Customer] : Oh, I'm actually out shopping at the moment.
+[56 seconds][Agent] : Umm, oh, I'm actually at shopping at the moment. Uh, do you have about 10 minutes? I just need to ref, uh, put some information in the application that we were going through. So it'll take about 10 to 15 minutes.
+[1 minutes 12 seconds][Customer] : OK, yeah, I'll see how I go.
+[1 minutes 12 seconds][Agent] : OK, yeah, I'll see how I go again.
+[1 minutes 13 seconds][Customer] : Yeah.
+[1 minutes 14 seconds][Agent] : OK Let me know when you need to go. OK?
+[1 minutes 16 seconds][Customer] : OK.
+[1 minutes 16 seconds][Agent] : Uh, Darren, I did read out a duty of care statement last time and you did agree to that. So just remind you about your duty of care to be honest and truthful.
+[1 minutes 24 seconds][Customer] : Yeah. Yeah.
+[1 minutes 24 seconds][Agent] : And just quickly checking again, have your duties changed in the past 30 days? So do you now work less than 15 hours per week? Yes or no?
+[1 minutes 33 seconds][Customer] : No.
+[1 minutes 32 seconds][Agent] : No, Beautiful. OK, let's jump straight into the application where we left.
+[1 minutes 37 seconds][Customer] : OK.
+[1 minutes 38 seconds][Agent] : Umm, so we were talking about your change of occupation that you were telling me about. So I just need to ask you some questions around that. OK, Just bear with me, I'll bring it up.
+[1 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[1 minutes 50 seconds][Agent] : So the question was will your new occupation be in the same industry performing similar duties? You answered no to that. So your first question that the and what are asking is and this is where I manually type your answers. So you kindly bear with me. So the first question, please provide the occupational duties of your current role and your future occupation. So your current role you said as catering assistant, is that right?
+[2 minutes 18 seconds][Customer] : Yes, yes.
+[2 minutes 19 seconds][Agent] : And your future role, What would that be?
+[2 minutes 22 seconds][Customer] : Medical administration.
+[2 minutes 22 seconds][Agent] : Umm, medical administration. Oh, wow. Big change.
+[2 minutes 26 seconds][Customer] : Yeah.
+[2 minutes 26 seconds][Agent] : You're excited? Well, I've got to find the job first.
+[2 minutes 26 seconds][Customer] : Yeah, well, I've got to find the job first.
+[2 minutes 29 seconds][Agent] : Umm finished the course. So awesome. Yeah. Yes. OK, so I'll just add that in here that recently finished umm qualification courses.
+[2 minutes 29 seconds][Customer] : I've just now we finished the course, so yeah, yes, yeah.
+[2 minutes 40 seconds][Agent] : OK, be close. OK. And can you just explain, just very briefly, as a catering assistant, what do you do now? Umm, so food preparation, mm hmm. Kitchen cleaning. Umm, that's fine. I was eating and storing stock. OK, that's fine. Customer service. Umm mm hmm. Preparing food trade for residents.
+[3 minutes 5 seconds][Customer] : So food preparation, kitchen cleaning, receiving and storing stock, customer service, preparing food trays for residents.
+[3 minutes 39 seconds][Agent] : OK, beautiful. And with your future one, what would that be? As a medical admin in medical administration. So you'll be a medical administrator, right?
+[3 minutes 48 seconds][Customer] : So medical, yeah.
+[3 minutes 51 seconds][Agent] : Yes. OK, reception.
+[3 minutes 51 seconds][Customer] : So medical re reception award clerk.
+[3 minutes 57 seconds][Agent] : Medical reception. Sorry, I'm just typing. I just don't want to miss anything.
+[3 minutes 59 seconds][Customer] : Yep, Yep.
+[4 minutes 1 seconds][Agent] : So medical reception and then ward clerk.
+[4 minutes 4 seconds][Customer] : Yeah.
+[4 minutes 3 seconds][Agent] : Yeah, ward clerk, sorry. And then umm, So scheduling medical appointments?
+[4 minutes 8 seconds][Customer] : So scheduling medical appointments?
+[4 minutes 11 seconds][Agent] : Sure. Umm, let's see what else you do.
+[4 minutes 15 seconds][Customer] : Let me see what else you'd do. Medical data entry?
+[4 minutes 16 seconds][Agent] : Umm, medical data entry. Mm hmm.
+[4 minutes 22 seconds][Customer] : Medical style?
+[4 minutes 22 seconds][Agent] : Medical file keeping, uh. That's fine.
+[4 minutes 23 seconds][Customer] : Keeping call centre.
+[4 minutes 30 seconds][Agent] : I think that the data entry beautiful. MMM perfect. I'll put that in here. It's uh, it's an entirely different industry from the sounds of it.
+[4 minutes 52 seconds][Customer] : Sorry, what's that?
+[4 minutes 52 seconds][Agent] : Uh, it's a entirely different industry. It'll be a big change for you. Yeah yeah, that's awesome. I know it's gonna be pretty hard finding.
+[4 minutes 56 seconds][Customer] : Yeah, Yeah, I know it's going to be pretty hard finding a position like that, that.
+[5 minutes][Agent] : MMM, Yeah, hopefully. Yeah.
+[5 minutes 2 seconds][Customer] : Yeah, hopefully I'll be able to break into something.
+[5 minutes 7 seconds][Agent] : Awesome. Did you do any work placement already? Have you done any?
+[5 minutes 10 seconds][Customer] : No, it's all been theory online.
+[5 minutes 10 seconds][Agent] : No, it's all been theory online. Oh, OK. Got it.
+[5 minutes 13 seconds][Customer] : Yes, yes.
+[5 minutes 14 seconds][Agent] : The next question, the next question that the end what is asking is will your income, will your income reduce as a result of your occupation change? No, it'll actually increase.
+[5 minutes 23 seconds][Customer] : No, it'll actually increase.
+[5 minutes 25 seconds][Agent] : OK, so I'll put down. No, it will increase. Is this a voluntary or forced occupation change? Voluntary, right.
+[5 minutes 31 seconds][Customer] : Yeah, it's voluntary.
+[5 minutes 38 seconds][Agent] : OK. And the next question is asking will you be qualified to perform the duties of your new occupation? I'll just, uh, you've already told me that you have completed your qualification course, right? Yes.
+[5 minutes 38 seconds][Customer] : Yeah, yes.
+[6 minutes 5 seconds][Agent] : And you did that online. That's right.
+[6 minutes 8 seconds][Customer] : That's right. Yeah.
+[6 minutes 8 seconds][Agent] : Beautiful. Will your new occupation be subject to contract renewal or will you be a full time employee? Full time, Fingers crossed. And the next question is asking, is there anything you wish to tell us about your occupation change that will assist with the assessment of your application? Anything else you'd like to add?
+[6 minutes 16 seconds][Customer] : Full time, yeah, yeah.
+[6 minutes 34 seconds][Agent] : I think it will definitely be a a higher income that is.
+[6 minutes 32 seconds][Customer] : It's, I think it will definitely be a, a higher income in that industry.
+[6 minutes 38 seconds][Agent] : Yeah, we've already put that in. Anything else? Yeah. Umm, you can leave it as blank. That's fine as well.
+[6 minutes 39 seconds][Customer] : Yeah, yeah, yeah. Just nothing else.
+[6 minutes 45 seconds][Agent] : Yeah, just nothing else.
+[6 minutes 46 seconds][Customer] : No.
+[6 minutes 47 seconds][Agent] : OK, awesome. I'll put on. Not the nothing more to add. OK, Yeah, perfect. And let's move on. So with the next question from here, remember all I need is a yes or no. Do you have a second occupation that generates a taxable income? No. Have you ever been declared bankrupt or placed in receivership, in voluntary liquidation or under administration? Yes. The next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application.
+[6 minutes 53 seconds][Customer] : Yeah, no, yes, right.
+[7 minutes 26 seconds][Agent] : The system does not. Thank you. The system does not allow me to enter any approximate figures, loads or height and weight ranges now in centimeters or feet and inches. What is your exact height? How tall are you? I was 96 centimeters.
+[7 minutes 39 seconds][Customer] : 196 centimetres.
+[7 minutes 41 seconds][Agent] : Perfect. 196 centimeters, right? Yes. What is your exact weight?
+[7 minutes 50 seconds][Customer] : Yes, 135 kilos.
+[7 minutes 53 seconds][Agent] : 135 kilos. Thank you. And Darren, I just need to quickly ask you as well. I'm so sorry. I should have asked this at the beginning before starting the application.
+[8 minutes 5 seconds][Customer] : Right.
+[8 minutes 5 seconds][Agent] : Has anything changed in terms of the information that you had provided to me earlier in regards to your income or anything else? No. OK. Since the last time we, we, we spoke, nothing has changed, right?
+[8 minutes 12 seconds][Customer] : No, Yes.
+[8 minutes 17 seconds][Agent] : Right. And has anything changed in terms of your health and lifestyle since the last time we started the application? Yes or no? No. Beautiful. OK, let's go ahead. Have you experienced any unexplained weight loss of more than 7 kilograms in the last 12 months?
+[8 minutes 24 seconds][Customer] : No, no.
+[8 minutes 35 seconds][Agent] : No, OK. Uh, just to let you know that remember I was telling you the the first time we spoke that sometimes when we go into the application, changes can happen to the terms and conditions, changes can happen. So I can see there is a change here. I can see in regards to your BMI, but let's see how you go with the rest of the application. We can always come back and adjust that.
+[8 minutes 47 seconds][Customer] : OK, OK.
+[8 minutes 53 seconds][Agent] : OK, awesome. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? No. Do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? No. Do you have existing income protection cover? No.
+[9 minutes 4 seconds][Customer] : No, no, no.
+[9 minutes 19 seconds][Agent] : Perfect. So now we are going to move on to your, to move on to your medical history.
+[9 minutes 23 seconds][Customer] : Right.
+[9 minutes 23 seconds][Agent] : Some of these terms may be quite familiar to you now that you're moving on to the health sector and you studied that recently. So let's get straight into it.
+[9 minutes 30 seconds][Customer] : Yeah, Yep.
+[9 minutes 32 seconds][Agent] : Yeah, so just bear with me.
+[9 minutes 36 seconds][Customer] : OK.
+[9 minutes 33 seconds][Agent] : The questions are just loading up, OK? So sorry about this. Umm, it's just taking a few seconds. Perfect. OK, I'm ready. So in this section, the main question for you is have you, have you ever had symptoms of, been diagnosed with or treated for or intend to receive medical advice for any of the following? Again, Darren, all I need is a yes or no at the end, OK?
+[9 minutes 49 seconds][Customer] : That's OK, OK.
+[10 minutes 10 seconds][Agent] : Cancer, tumor, mole or cyst, including skin cancer, sun spots, myeloma or leukemia. Have you ever had an abnormal PSA test or an enlarged prostate?
+[10 minutes 16 seconds][Customer] : No, no.
+[10 minutes 23 seconds][Agent] : No stroke, chest pain, palpitations or heart conditions such as but not limited to heart attack. And sorry, Mr. Woods, stroke, chest pain, palpitations or heart conditions such as, but not limited to heart attack and angina or high blood pressure.
+[10 minutes 44 seconds][Customer] : So it's inclusive of high blood pressure?
+[10 minutes 41 seconds][Agent] : Uh, so it's inclusive of high blood pressure? Yeah. I'll put a yes to disclose that.
+[10 minutes 49 seconds][Customer] : Yeah.
+[10 minutes 48 seconds][Agent] : Then you have high blood pressure. Yes.
+[10 minutes 50 seconds][Customer] : Yes. Yes.
+[10 minutes 51 seconds][Agent] : OK, that's fine. Based on your response, please answer yes or no for each of the following. I'll still have to break it down. Stroke, yes or no? Uh, no chest pain, no pericarditis, no heart condition. For example, heart murmur, heart palpitations, heart attack or angina, but not limited to these conditions.
+[11 minutes 1 seconds][Customer] : No, No, No, No.
+[11 minutes 15 seconds][Agent] : No High blood pressure? Yes.
+[11 minutes 18 seconds][Customer] : Yes.
+[11 minutes 19 seconds][Agent] : Is your high blood pressure caused by heart disease or kidney disease?
+[11 minutes 24 seconds][Customer] : No.
+[11 minutes 23 seconds][Agent] : No Have you been prescribed medication to treat this condition? Yes, The treatment commence within the last three months? No Have you had your blood pressure checked in the past six months by your GP? Yes. Were you told by a doctor that your blood pressure has returned to within normal range the last time you had it checked? Yeah.
+[11 minutes 29 seconds][Customer] : Yes, no, yes, yes.
+[11 minutes 49 seconds][Agent] : Perfect. You're good to go.
+[11 minutes 52 seconds][Customer] : OK.
+[11 minutes 52 seconds][Agent] : High cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yeah, I have high cholesterol.
+[12 minutes][Customer] : Yeah, I have high cholesterol.
+[12 minutes 2 seconds][Agent] : That's fine. Based on your response, please answer yes or no for each of the following. High cholesterol, yes or no. Have you ever had a cholesterol blood test with the result greater than or equal to 7 millimoles per liter? Yes, thank you. That's fine. Have you been advised to take or are you taking medication? Yes.
+[12 minutes 8 seconds][Customer] : Yes, yes, yes.
+[12 minutes 28 seconds][Agent] : And you're still talking about the high cholesterol here. And the question is, was this treatment first prescribed within the last three months? No. Do you know what your cholesterol? Do you know what your cholesterol waiting was when it was last checked? Uh, I think it was 7.1.
+[12 minutes 36 seconds][Customer] : No, I think it was 7.1.
+[12 minutes 46 seconds][Agent] : OK, I'll put a yes. And the next question is asking, uh, what was your last reading? I mean, in minimals per liter, did you say 7.1?
+[12 minutes 57 seconds][Customer] : What do you mean when for that?
+[12 minutes 54 seconds][Agent] : Uh, what do you mean when for that?
+[13 minutes][Customer] : The reading that actually led to being called medication.
+[13 minutes][Agent] : The reading that actually led to being put on medication? Uh, it's, we're just asking the last one. So the question is. So the question was, do you know what your cholesterol rating was when it was last checks? I put a yes. The next question is just asking what was your last rating? Meaning the most recent one. What was your last reading in minimal, in minimals per liter.
+[13 minutes 20 seconds][Customer] : Oh, I think it was like 5.3 what I remember.
+[13 minutes 20 seconds][Agent] : Oh, I think it was like 5.3 is what I remember. Yeah. So are you. You're happy for me to put down 5.3? Yes. Awesome.
+[13 minutes 28 seconds][Customer] : Yes, income protection.
+[13 minutes 29 seconds][Agent] : So nothing has impacted? So nothing has impacted your application? You're still good to go. Next question. Thyroid condition. Yes or no? No. Your logical symptoms such as dizziness or fainting, diabetes, phrase blood sugar, impaired locus tolerance, or impaired fasting turkers. No hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. No epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis.
+[13 minutes 38 seconds][Customer] : No, no, no, no, no.
+[14 minutes 8 seconds][Agent] : No anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[14 minutes 14 seconds][Customer] : Yeah, I've had anxiety and depression.
+[14 minutes 14 seconds][Agent] : Yeah, had, umm, sort of, uh, anxiety and, uh, depression. That's fine. Thank you for letting me know.
+[14 minutes 21 seconds][Customer] : Yes. Yeah.
+[14 minutes 22 seconds][Agent] : That's fine. We'll talk about that. Apart from the anxiety and depression, is your condition of form of schizophrenia, bipolar or psychotic disorder? No, and you have told me what your conditions are, but I still have to read this, uh, the response. I, I have to read the next question with all the four options in there.
+[14 minutes 31 seconds][Customer] : No, yeah.
+[14 minutes 41 seconds][Agent] : If you could kindly tell me which one it is. Is your condition depression, anxiety, post Natal depression or stress including post traumatic stress disorder? Yes or no?
+[14 minutes 52 seconds][Customer] : Sorry. What was that question again?
+[14 minutes 52 seconds][Agent] : Sorry, what was that question again? Yeah. Is your condition depression, anxiety, post Natal depression or stress including post traumatic stress disorder, yes or no?
+[15 minutes 2 seconds][Customer] : Yes.
+[15 minutes 3 seconds][Agent] : If your condition anorexia novosa or bulimia, no. ADHDRADD other mental illness, no.
+[15 minutes 7 seconds][Customer] : No, no, no.
+[15 minutes 13 seconds][Agent] : That's it. So we're only going to talk about anxiety and depression now, OK.
+[15 minutes 17 seconds][Customer] : Right.
+[15 minutes 18 seconds][Agent] : How many episodes have you had which required treatment? Your options are one to 2/3 to 4/5 to six or seven plus, umm, 1 to two. Perfect. Was it more than one episode, yes or no?
+[15 minutes 27 seconds][Customer] : 1:00 to 2:00 Yes.
+[15 minutes 34 seconds][Agent] : Have you had symptoms or treatments for this condition within the last six months? In the last 6 mm? Hmm. Uh, yes.
+[15 minutes 41 seconds][Customer] : In the last six months, Yes.
+[15 minutes 46 seconds][Agent] : Have you ever seriously contemplated or attempted suicide? No.
+[15 minutes 50 seconds][Customer] : No.
+[15 minutes 52 seconds][Agent] : Have the factors or causes that triggered the symptoms been partially or fully removed? Yes or no? Yes.
+[15 minutes 59 seconds][Customer] : Yes.
+[16 minutes 1 seconds][Agent] : In the last 10 years, have you required hospitalization as a result of this condition?
+[16 minutes 7 seconds][Customer] : No.
+[16 minutes 6 seconds][Agent] : No, there is umm, the good news. Sorry, your application is still active so umm, we can move ahead now.
+[16 minutes 15 seconds][Customer] : Right.
+[16 minutes 16 seconds][Agent] : Any illegal drug use, abuse of prescription medication, or received medical advice or counseling for alcohol consumption. Disorder of the kidney or bladder, blood disorder or disease. Sorry asthma or other sorry disorder of the kidney or bladder. Asthma or other respiratory disorder, excluding childhood asthma and just confirming again. Blood disorder or disease. Back or neck pain or disorder.
+[16 minutes 25 seconds][Customer] : No, no, no, no, no, no, no, no.
+[16 minutes 54 seconds][Agent] : Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia. Joint or muscle pain. Ligament injuries, including replacement or sorry. Joint or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Osteoporosis or osteopenia. Any defect of hearing or sight other than which is corrected by glasses or contact lenses.
+[17 minutes 1 seconds][Customer] : No, no, no, no.
+[17 minutes 25 seconds][Agent] : Other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Other than what you have already told me about, have you ever, during your working career, required more than two consecutive weeks of work due to illness or injury? To the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous scoliposis? To the best of your knowledge, have any of your immediate family suffered from cancer, heart conditions, stroke, or other hereditary disease prior to age 60?
+[17 minutes 50 seconds][Customer] : No, no, no, no, no. Yeah.
+[18 minutes 42 seconds][Agent] : Last question other than thank you. Other than one of events like gift certificate or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair thing? Passenger on a recognized airline, Motor racing, parachuting, mountaineering, AB sailing, scuba diving, cheaper than 40 meters, cave or wreck diving, or any other hazardous activity? Yes or no? I would have said no to that one myself. That was the end of your application. So that's all done. The hot pot is done now.
+[19 minutes 11 seconds][Customer] : No, right.
+[19 minutes 20 seconds][Agent] : OK, beautiful. So let me just put it through. So what's going to happen now? It's very simple and easy. As I've mentioned, uh, your application is referred. Your application needs to be referred to the endwire for assessment and that's because of, uh, uh, the change in occupation that we talked about South, the unwaters need to make an assessment based on that. And again, I appreciate you being honest and truthful and putting that truth. The application needs to be referred to the unwater for assessment. Now your application is referred with below terms. OK, So there has been some changes. I'll read them out. So there, there is exclusions. It's related to mental health.
+[19 minutes 30 seconds][Customer] : Yeah, Yeah, yeah, right.
+[19 minutes 58 seconds][Agent] : We've noted one plus episode.
+[20 minutes 10 seconds][Customer] : Right.
+[19 minutes 59 seconds][Agent] : So no benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or arising from mental health disorder or illness, stress, drug or alcohol abuse. OK. OK, and there has been a change to the premium which I was telling you about.
+[20 minutes 13 seconds][Customer] : OK, OK.
+[20 minutes 18 seconds][Agent] : This is due to BMI and I'll tell you what the new premium is. So previously it was 70. If I'm, if I'm so sorry, I can only see the new one, but previously if I'm wrong, wrong, it was $17.00 something per fortnight. Uh, now it's $3032.66 per fortnight.
+[20 minutes 30 seconds][Customer] : Yeah, $32 or 60 something dollars a month.
+[20 minutes 35 seconds][Agent] : Is that still OK with you 30? No, this is fortnight. Remember we were discussing fortnightly pay, so $32.66 per fortnight and that's for one and a half dollars in dollar monthly benefit, 30 days waiting period and six months benefit.
+[20 minutes 43 seconds][Customer] : Yeah, OK.
+[20 minutes 55 seconds][Agent] : Do you want me to make any adjustments or is that OK with you?
+[21 minutes][Customer] : Yeah, that's OK with me. Yes.
+[21 minutes 2 seconds][Agent] : Awesome. And, uh, as I said earlier, the last time when we spoke, I've already explained that your premium is stuck, which means it will generally increase each year as you age and I'll just show you the new one. So as an indication, if you make no changes to the policy, your premium next year will be $35.79 per fortnight. And you can also find information about our premium structure on our website.
+[21 minutes 26 seconds][Customer] : Yeah, yeah. I'm definitely not out of the way.
+[21 minutes 25 seconds][Agent] : OK, yeah, yeah, definitely not just some really cool and solid.
+[21 minutes 28 seconds][Customer] : It's just I'm really poor and solid.
+[21 minutes 31 seconds][Agent] : Uh, no, that's fine. I completely understand. And uh, yeah, I have friends of the same build. Uh, it's just because, say, for example, with muscle, if they're doing into weight training, you know, I understand that. And the other one is a medical expert, they'll be able to understand that. Uh, but we just need to establish a healthy BMR range. And I completely understand where you're coming from.
+[21 minutes 37 seconds][Customer] : Yeah, Yeah, yeah, yeah.
+[21 minutes 50 seconds][Agent] : So we just put that in.
+[21 minutes 52 seconds][Customer] : OK. Yeah.
+[21 minutes 52 seconds][Agent] : And as I said earlier, the last time, Darren, remember with your income protection policy, there is a rehabilitation benefit which pays a reimbursement of up to 50% of your monthly income benefit to a maximum of $3000 to help it, uh, rehabilitation costs whilst planning.
+[22 minutes 9 seconds][Customer] : OK.
+[22 minutes 9 seconds][Agent] : Or we can, or we can reimburse up to six times your income benefit to what cost of equipment or modifications required to assist you return to work. And there is this final expenses benefit attached in here as well, which pays $10,000 in the event that you pass away.
+[22 minutes 19 seconds][Customer] : OK, OK. OK. Yeah.
+[22 minutes 26 seconds][Agent] : OK, beautiful. Now the next step that we are going to do is very simple. Uh, I'll refer this to we are going to refer this to the end water.
+[22 minutes 36 seconds][Customer] : Yeah.
+[22 minutes 35 seconds][Agent] : As I've mentioned now at this point in time, you don't have to, We don't. OK. So this, what we do is so today, because it's a long weekend coming up. So the underwaters may not be able to come back tonight. So they will hopefully come back Tuesday. That's what our next business days. And as soon as they come back, I'll let you know.
+[22 minutes 53 seconds][Customer] : OO OK.
+[22 minutes 53 seconds][Agent] : Now what we do to send it through, what we generally do is attach your payment details and let you, I'll let you pick a payment date in the future. So if you want to align it with the payday, for example, you can do that and I'll read you a declaration so I can get this assessed by the end water. And when the end waters come back, you'll be notified about it.
+[23 minutes 8 seconds][Customer] : O OK.
+[23 minutes 11 seconds][Agent] : OK, beautiful. With the payment date, I know you're out. So I'll just quickly bring up my calendar here. Today is the 28th and it's Thursday. If you want to choose to align it for the payday, you can. So what day do you want your first payment coming out? Keep in mind the otherwise won't come back until the 2nd of April.
+[23 minutes 28 seconds][Customer] : Yeah.
+[23 minutes 28 seconds][Agent] : Yes.
+[23 minutes 28 seconds][Customer] : So is it, can this be cancelled at any time as well?
+[23 minutes 30 seconds][Agent] : So, uh, is it can it be canceled at any time as well?
+[23 minutes 34 seconds][Customer] : Yes. OK.
+[23 minutes 33 seconds][Agent] : The policy itself yeah you can apply to cancel the cover yeah, there's no cancellation fee. So it's $32 a fortnight, $32.66 per fortnight. OK.
+[23 minutes 39 seconds][Customer] : So it's $32 a fortnight, OK.
+[23 minutes 44 seconds][Agent] : And umm, just with the, if you become six, umm, you get how much of your wage? Yeah, I'll just, yeah, go ahead. Sorry. You go Fin, you're finishing and then I'll come 5% of your wage or something. You get.
+[23 minutes 44 seconds][Customer] : And just with the if you become sick, you get how much of your wage, 75% of your wage or something, you get, Yeah.
+[24 minutes 1 seconds][Agent] : So the way the income protection works is that if you are unable to work due to a disabling sickness or injury and yourself or loss of income, we provide a monthly benefit directly to you. Now the income benefit goes up to 70% of your monthly pre tax income. It starts from $1000 that it can go up to $15,000.
+[24 minutes 22 seconds][Customer] : Right.
+[24 minutes 22 seconds][Agent] : And if everything goes well and if you are approved, we also check on what terms you we can also cover. And once it is in place, it'll cover you until your policy anniversary following your 65th birthday.
+[24 minutes 35 seconds][Customer] : Yeah, right.
+[24 minutes 35 seconds][Agent] : And as I mentioned the last time, keep in mind that there are some exclusions that apply as outlined in the PDS and premiums for income protection are generally tax deductible, which can make it even more cost effective for you. So just let us know you can get in touch when the time comes.
+[24 minutes 48 seconds][Customer] : Yeah, OK.
+[24 minutes 49 seconds][Agent] : So we can provide you with a certificate of currency which you can provide to your tax, uh, representative.
+[24 minutes 55 seconds][Customer] : Yeah.
+[24 minutes 55 seconds][Agent] : Now what you had chosen. So what I asked you about, umm, how much monthly benefit amount you would need if your salary is interrupted.
+[25 minutes 5 seconds][Customer] : Yeah, Yeah.
+[25 minutes 5 seconds][Agent] : Uh, you actually selected, let me just bring that up, 1500 dollars, $1500. And, uh, you chose a benefit period of 30 days. Uh, sorry, a benefit period of six months and a waiting period of 30 days on this one. That's what you had chosen the last time.
+[25 minutes 22 seconds][Customer] : OK, Yeah, yeah.
+[25 minutes 24 seconds][Agent] : But if you want, I can make some adjustments here. Do you need me to?
+[25 minutes 29 seconds][Customer] : OK.
+[25 minutes 28 seconds][Agent] : OK, Say, for example, do you want to bring the premium down a bit? Yeah.
+[25 minutes 30 seconds][Customer] : That, yeah, that'd be great.
+[25 minutes 34 seconds][Agent] : OK, awesome.
+[25 minutes 41 seconds][Customer] : Yes, Yes.
+[25 minutes 36 seconds][Agent] : So if I change the 30 days waiting period to 90 days, let me just have a look and see what the premium will be. OK, Just bear with me. I just need to jump into your application. So just to quickly explain as well, umm, and you did confirm the last time that you are employed at the moment, right? Yes.
+[25 minutes 55 seconds][Customer] : Yes. Yes.
+[25 minutes 56 seconds][Agent] : Yeah. OK, so that hasn't changed so yeah, perfect. So the waiting period, remember is the non payment period that you must wait before the income benefit is payable after the insured event.
+[25 minutes 58 seconds][Customer] : No, Yes.
+[26 minutes 8 seconds][Agent] : You can choose 30 days or 90 days. Please keep in mind the income benefit is paid in arrears. So this means if you choose a 30 day waiting period, your first payment would be 60 days after you were first eligible to claim. So if you choose a 90 days waiting period, your first payment would be 120 days after you were first eligible to claim you. Every person has their own individual circumstances.
+[26 minutes 30 seconds][Customer] : OK, Yeah.
+[26 minutes 34 seconds][Agent] : So depending on, uh, your sustainability, umm, so say for example, if you choose the 90 day of waiting period, let me just have a look and see what the payment comes down to. OK, bear with me. Yeah.
+[26 minutes 45 seconds][Customer] : Yeah.
+[26 minutes 46 seconds][Agent] : So keeping everything else the same, if you're bring, if you're extending the waiting period, then now your payment has come down to what it was previously, $16.48 for a fortnight. Is that better now? Yeah, it is.
+[26 minutes 59 seconds][Customer] : Oh, yeah, it is. Yes.
+[27 minutes 2 seconds][Agent] : So 1500, uh, $1500 monthly benefit amount, 90 days waiting period, six months benefit. You're happy now?
+[27 minutes 7 seconds][Customer] : Yeah, yeah, yeah.
+[27 minutes 9 seconds][Agent] : Yeah awesome. Now just coming back to that. So all I need you to do is select A future payment date, again reminding that the, uh, the other writers may not come back until the 2nd of April. So when do you want the first payment coming out?
+[27 minutes 23 seconds][Customer] : OK, sure. Yeah. So, so it's actually, so you have this Wednesday coming. So two weeks from this Wednesday. Is that possible?
+[27 minutes 24 seconds][Agent] : OK sure I have my calendar if you need help Yeah so, umm so it's actually so you have this Wednesday coming Mm hmm so two weeks from this Wednesday is that possible yeah so that next next Wednesday coming is the third and two weeks from then would be the 17th uh yeah I can do that we'll arrange that will extend it up to 17th of April. OK, sure.
+[27 minutes 45 seconds][Customer] : Yeah, yeah, sure.
+[27 minutes 51 seconds][Agent] : And uh, do you want to attach a card or a BSD account for the direct debit? Uh, an account. OK, so nothing will come out of here if everything goes well and the end. And yeah, if it's in place, they, the first payment will come out on the 17th of April.
+[27 minutes 57 seconds][Customer] : An account, Yeah, yeah.
+[28 minutes 6 seconds][Agent] : And you said you're giving me a card, uh, or an account? An account. OK, easy. Is that a savings? A check?
+[28 minutes 11 seconds][Customer] : An account, yeah, it's savings, yeah.
+[28 minutes 15 seconds][Agent] : It's, uh savings yeah and it's in your name, Darren Purse Yeah And what's the BSP number on that? Yeah. 064434 sorry you went too fast for me. I'm so sorry. Can you say that again? 064434 yeah. Is that Commonwealth? Yes. Another account 675, yeah, 986675986, right, yes.
+[28 minutes 21 seconds][Customer] : Yeah, 064434, sorry, 064434 yes, 675986, yes.
+[28 minutes 44 seconds][Agent] : OK, let me just, uh, perfect. So the very last skip there and now is for me to read a verbal declaration that summarizes your income protection cover in between and at the end there'll be 3 simple questions, yes or no, and we'll be all done. Any questions before I read, please? No.
+[28 minutes 57 seconds][Customer] : OK, no.
+[28 minutes 59 seconds][Agent] : Awesome. Let's do this. It goes. Thank you. Darren Purse. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Lottery of Estivation Limited, whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS Trading as Real Insurance, to issue and arrange this insurance on its behalf. Hanover has relied upon the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you equate to. Can you please confirm you have answered all of our questions in accordance with your duty? Yes or no? Yes, perfect. We may from time to time. And sorry, umm, I'm sorry, I know I've told you this already, but just letting you know that premium change that it mentioned earlier, I know I went back and changed that again. Umm, so just letting you know that was due to your BMI, OK?
+[30 minutes 17 seconds][Customer] : Yes, Yeah.
+[30 minutes 33 seconds][Agent] : It'll say in the declaration as well. Thank you. So once again, can you please confirm you have answered all of our questions in accordance with your duty, Yes or no?
+[30 minutes 34 seconds][Customer] : Yes, yes, yes.
+[30 minutes 42 seconds][Agent] : Yes, perfect. We may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover provides the following insurance cover for Darren Purse, a monthly insured amount of $1500 with a waiting period of 90 days and a benefit period of six months. The monthly income benefit table in the event of a claim may be less than the monthly insured amount as your income benefit is limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffered your disabling sickness or injury. Your income benefits can also be reduced if you receive other disability payments from other sources. There is a final expenses benefit of $10,000 paid to your beneficiaries if you pass away while your policy is in place. In addition to the standard exclusions contained within the PDS, the following exclusions apply. So there in Purse Income Protection benefit. No benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or arising from mental health disorder or illness, stress, drug or alcohol abuse. So There in Purse Income Protection benefit. A loading was applied during the application process. By agreeing to this declaration, you agreed to any non standard exclusions or loadings placed on your policy and you understand they will remain in place for the life of the policy. You may you may request for any of these alternative terms to be reviewed at any time by calling us. Your cover expires on April 11th, 2039, 12:00 AM. Your premium for your first year of cover is $16.48 per fortnight. Your premium is a stepped premium which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable by Hanover to GSS of between 37% and 51% to cover costs. Your premium will be debited from your nominated bank account in the name of Darren Purse, which you are authorized to debit from and have provided to us. The policy documentation, PDS and FSC will be sent to you within 5 working days and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. If you are replacing an existing policy with Discover, we recommend that you do not cancel that policy until you have received and reviewed our policy in full. There are risks associated with replacing policies as your new policy may not be identical to your existing cover, and there may be other risks you should consider depending on your circumstances. We have a complaints process that you can access at any time they're contacting us. Full details are available online and in the documentation we are sending you. Now Darren, before I get it all done, I'll ask two questions for you and we'll be all we'll send it through. Do you understand and agree with the declaration I've just read you yes or no? Would you like any other information about the insurance now or would you like me to read any part of the PDS to you, yes or no? No, Perfect. So remember Darren, the commencement of your cover will be subject to final assessment by the insurer. Now if the insurer approves cover without any changes, are you happy for me to record your acceptance of this policy now? And we will send out all your policy information to your e-mail and postal address.
+[34 minutes 40 seconds][Customer] : Yes, no, yes.
+[35 minutes 12 seconds][Agent] : Beautiful. And if there are changes, you and I will have to talk again, Darren, so I can let you know, uh, what the other waters is saying. But if it is as it is, umm, the way I've explained to you to today, I'll, I'll accept it on your behalf and you'll be receiving the policy documents shortly by e-mail and by post after that. OK.
+[35 minutes 33 seconds][Customer] : OK.
+[35 minutes 33 seconds][Agent] : But as I said, if there are changes, I'll talk to you now. I know it's, it's, I know with your work and everything, it's, sometimes it's really hard to reach out to you. The hot pot is done. If there are changes, I will have to talk to you, Darren. So on Tuesday, are you working?
+[35 minutes 46 seconds][Customer] : Well, haven't.
+[35 minutes 44 seconds][Agent] : Uh, well, haven't, yeah. I should be working from 2:00 to 7:00 in the afternoon.
+[35 minutes 47 seconds][Customer] : Yeah, I should be working from 2:00 to 7:00 in the afternoon, but yeah.
+[35 minutes 51 seconds][Agent] : But OK, I'll make a note that talk in the morning. Awesome. I'll make a note. 1230. Perfect.
+[35 minutes 52 seconds][Customer] : So I'll be able to talk in the morning up until about 12:30, yeah.
+[35 minutes 56 seconds][Agent] : I'll make a note of that. So if the unwriters come back in the morning and if there are changes, I'll call you and talk to you about it. OK. And otherwise I'll accept it on your behalf if it is as it is. OK.
+[36 minutes 2 seconds][Customer] : OK, OK.
+[36 minutes 6 seconds][Agent] : All the best. I know I've kept you for so long. I'm so sorry. I said 15 minutes. It went on to 36 minutes. My apologies.
+[36 minutes 14 seconds][Customer] : OK.
+[36 minutes 12 seconds][Agent] : You have a wonderful night with your family and have a happy Easter. Bye. Yes, thanks to you. Bye. Bye now.
+[36 minutes 15 seconds][Customer] : Yeah, same to you. Bye bye.
+[36 minutes 17 seconds][Agent] : Because we are.

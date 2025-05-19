@@ -1,0 +1,90 @@
+[13 seconds][Customer] : Hello.
+[14 seconds][Agent] : Hello, Jody, my name's Luke. I'm calling from real insurance. How are you today?
+[18 seconds][Customer] : Hiya. Good day. I need to make this super quick because I've got to go to work.
+[22 seconds][Agent] : OK, we'll just give you a call in regards to the court to previously going through for the income protection.
+[27 seconds][Customer] : Yeah, OK.
+[27 seconds][Agent] : I'm just to help rehash these benefits, see if we can have you approved for cover, but so I can help you into that for you.
+[37 seconds][Customer] : Jodie Crook, 24th of the 10th, 1980.
+[34 seconds][Agent] : Can I confirm please your full name and date of birth perfect. And please send all our calls recorded. The advice of providers generally nature may not be suitable to your situation, but just to rehash, we have the $4000 a month of income protection for waiting period of 30 days and benefit period of one year coming at $41.57 per fortnight. Did that still sound affordable and suitable for you, JD?
+[1 minutes 2 seconds][Customer] : Yeah, that's fine. I'll start that one for now and then see how we go.
+[1 minutes 6 seconds][Agent] : All right, perfect. And I just need to ask in terms of the health and lifestyle questions that we have already gone through, has anything changed in regards to the users you provided?
+[1 minutes 14 seconds][Customer] : No.
+[1 minutes 16 seconds][Agent] : OK, perfect. And we would just stop to on your weight. So we had your exact time. It's 160 centimeters. And then it just asks what is your exact weight and have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? To the best of your knowledge? Are you infected? We tell you in a high risk category for contracting HIV which causes AIDS. You have definite plans to travel or reside outside of Australia. Are you booked or will be booking travel within the next 12 months?
+[1 minutes 25 seconds][Customer] : 65 kilos No, no, I'm going on a holiday in at the end of September.
+[1 minutes 50 seconds][Agent] : Oh soft pop yes. In which countries do you intend to travel to or reside in?
+[1 minutes 54 seconds][Customer] : We just came to China and for 10 days, 2 cat Thailand.
+[1 minutes 57 seconds][Agent] : Going to Ireland, Thailand. All right, perfect. And and then it just asks we'll be overseas for longer than three consecutive months. Will we be overseas for longer than three consecutive months?
+[2 minutes 1 seconds][Customer] : Yeah, sorry, no, we're just going for a holiday.
+[2 minutes 15 seconds][Agent] : Perfect. And do you have existing income protection cover?
+[2 minutes 13 seconds][Customer] : 10 days no.
+[2 minutes 19 seconds][Agent] : Perfect. And then the next section's in relation to your medical history. So makes up most of the questions it asks. Have you ever had symptoms of being diagnosed with or treated for or intense seek medical advice or any of the following Cancer, tumour, more losses including skin cancer, sunspots, Melanoma or leukemia.
+[2 minutes 36 seconds][Customer] : No. I've had like skin checks for and then like lesion removed, but it was like a precancerous lesion. It wasn't cancerous.
+[2 minutes 46 seconds][Agent] : OK, well we'll put umm yes for that one then. It just says based on your response, please answer yes or no for each of the following. So Melanoma and any other form of skin cancer, indoor sunspots.
+[2 minutes 54 seconds][Customer] : No, it was the sunspot. I'd say it was precancerous. I don't know what they call it. I can't remember what the name. Is it Keris? Keris or something? I don't know.
+[3 minutes 4 seconds][Agent] : OK, well, I'll put, I'll put yes for that one and asked what's your skin cancer indoor sunspot cut out?
+[3 minutes 14 seconds][Customer] : Yeah. Cut out.
+[3 minutes 13 seconds][Agent] : Oh yeah.
+[3 minutes 16 seconds][Customer] : What did you say? Yeah, it was, yeah.
+[3 minutes 17 seconds][Agent] : Was it cut out and then it last, was it basil cell class name of BCC or squamous cell cost name or SCC?
+[3 minutes 27 seconds][Customer] : I don't know. It was teratosis, I think. I don't think it was a carcinoma. I've had two, I think.
+[3 minutes 30 seconds][Agent] : OK, so OK, so I'll put no then and asks have you had more than one skin cancer in the sunspot cut out and then moving on the last small losses.
+[3 minutes 44 seconds][Customer] : Oh, I've had a mole removal as well. Yeah. Yeah.
+[3 minutes 43 seconds][Agent] : So other than what we've already captured a mole removal as well and as has the mole losses being confirmed for 9:00.
+[3 minutes 51 seconds][Customer] : Benign. Yeah.
+[3 minutes 53 seconds][Agent] : And do you have a current lesion that requires follow up treatment or removals recommended by a doctor? And then moving on, it asks tumor, leukemia and other form of cancer.
+[3 minutes 58 seconds][Customer] : No, no, no, no. I had a lump in my breast, but she's biopsy and that was negative. That was clear as well.
+[4 minutes 14 seconds][Agent] : OK, Was that just like a cyst? OK, Well that fits under the molar cysts definition that we've already captured. Then I'm moving on. It asks have you ever had an abnormal cervical smooth?
+[4 minutes 13 seconds][Customer] : So yeah, But yeah, OK, I did. And then I had a repeat. That was OK.
+[4 minutes 31 seconds][Agent] : OK, well what was the abnormality described as by a doctor? So first I've got four options. First option, HPV can put pill in the virus or what virus in one SIM 2. Second option, SIM three. Third option, abnormal cells, precancerous lesion cells or cervical dysplasia.
+[4 minutes 36 seconds][Customer] : Yeah, don't know.
+[4 minutes 46 seconds][Agent] : And 4th option don't know and it asks have your follow up cervical smears been normal since and have you been given clearance by a doctor with no ongoing treatment or monitoring required other than routine cervical smear tests.
+[4 minutes 55 seconds][Customer] : Yes, yes. None of those.
+[5 minutes 4 seconds][Agent] : Moving on to our straight chest pain, palpitations or heart conditions such as not limited to heart attack and angina or high blood pressure, high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting.
+[5 minutes 18 seconds][Customer] : None of those. None of those.
+[5 minutes 20 seconds][Agent] : Diabetes, race, blood sugar, impaired glucose solencer, impaired fasting glucose, hepatitis or any disorder of the liver, stomach, bowel, gall bladder or pancreas. Epilepsy mode and you're on disease. Multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis, anxiety, depression or stress requiring medical treatment. Any other mental health disorder. Any illegal drug use. A piece of prescription medication Received. Medical advice for counseling for alcohol consumption. Disorder of the kidney or bladder. Blood disorder or disease. Asthma, rather respiratory disorder, excluding childhood asthma. Back or neck pain or disorder. Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia. Joint or muscle pain. Ligament injuries including replacement or reconstructive surgery, osteoporosis or osteopenia, any defective hearing on sight of them which is corrected by glasses or contact lenses.
+[5 minutes 30 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no, no, no.
+[6 minutes 29 seconds][Agent] : Then all of them. What you've already told me that in the past three years, have you sought medical advice or treatment by medical practitioner specialists or your waiting results for any medical tests or investigations such as not limited to any surgeries, X-ray scans, blood tests or biopsy?
+[6 minutes 43 seconds][Customer] : I'm haven't, I've got a Goldstone that I'm having out that account or something, isn't it? Yes.
+[6 minutes 49 seconds][Agent] : OK, so we'll go back into another section here, those hepatitis disorder of the liver, stomach, bowel, gallbladder or pancreas.
+[6 minutes 58 seconds][Customer] : Oh, sorry, I missed the gold bladder.
+[6 minutes 56 seconds][Agent] : So we'll put yes for that one then it that's OK. It just says space your responsibly seems a yes or no for each of the following. So it essentially breaks it down.
+[7 minutes 7 seconds][Customer] : No, no, no.
+[7 minutes 5 seconds][Agent] : So hepatitis disorder of the liver, a disorder of the stomach or bowel, gallbladder or pancreas. So I'll put yes. And then it breaks down even further.
+[7 minutes 16 seconds][Customer] : Yeah, at 9:00.
+[7 minutes 16 seconds][Agent] : So any disorder of the pancreas and then gallbladder, I'll put yes. Then I lost was it gold stones?
+[7 minutes 22 seconds][Customer] : Yeah, yeah. Just one goal starting a big one.
+[7 minutes 27 seconds][Agent] : And did you have surgery to treat this condition?
+[7 minutes 30 seconds][Customer] : I'm booked for surgery in October.
+[7 minutes 32 seconds][Agent] : So pop note for that one then if it hasn't been done yet.
+[7 minutes 36 seconds][Customer] : Alright.
+[7 minutes 36 seconds][Agent] : And now that we've captured that there, other than what you've already told me about in the past three years, have you sought medical advice or treatment by medical practitioner specialists or your waiting results for any medical tests investigation such as we're not living 20 surgeries, X-ray scans, blood tests or biopsy.
+[7 minutes 51 seconds][Customer] : I knew what I told you about, I think.
+[7 minutes 49 seconds][Agent] : All right, so, so nothing else other than what you've already told me. And other than what you've already told me that are you contemplating seeking medical advice for any symptoms you're currently experiencing within the next two weeks? And all of them what you've already told me about? Have you ever during your working career required more than two consecutive weeks of work due to illness or injury?
+[7 minutes 53 seconds][Customer] : Yeah, No, no, I can't remember how long I had up in during COVID, but that was because I didn't want to get vaccinated. So I had and leave for about 3 weeks I think. But it yeah.
+[8 minutes 28 seconds][Agent] : OK, well this one specifically due to your own personal illness or injury.
+[8 minutes 33 seconds][Customer] : I don't know what the sign up was on the letter so it wasn't but I wasn't unwell. I don't know what I think usually sent me a letter, but I don't know what it was.
+[8 minutes 39 seconds][Agent] : OK, OK. So but it wasn't due to an illness or injury specifically then?
+[8 minutes 40 seconds][Customer] : I can't remember what it said on it. No, it wasn't, but that might be what SH. I don't know what she said on the letter because it's basically I didn't want to get vaccinated, but so I took. No, no.
+[8 minutes 46 seconds][Agent] : OK, OK, well this, well this one specifically asking if it was due to an illness or injury that you all right, perfect, soap up now. And then the next two are just about your family history. So these are just asking about your mother, father, and your brothers or sisters.
+[9 minutes 3 seconds][Customer] : Yeah, yeah, I really like, I've got to leave for work in 15 minutes and I've got to have a shower. So I'm going to have to ask you how long it's going to be. And if so, we might have to just pick up tomorrow because I'm late for work.
+[9 minutes 15 seconds][Agent] : Umm, so it's got about 3 questions left.
+[9 minutes 18 seconds][Customer] : OK, let's go quick.
+[9 minutes 19 seconds][Agent] : So it's the best of your knowledge of any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adenomatous polyposis? To the best of your knowledge of any of your immediate family suffer from cancer, heart conditions, stroke, rather hard to treat disease prior to age 60 and other than one of events give certificates or vouchers. Do you engage in or intend to engage in any of the following aviation of when there's a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering, ABS sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity? And I do need to ask lastly as well as anything change in regards to your employment or do you now work less than 15 hours a week?
+[9 minutes 28 seconds][Customer] : No, no, no, no. I recovered appointment. I'm I've got casual contracts.
+[10 minutes 6 seconds][Agent] : Perfect. And are you satisfied with the answers you've provided?
+[10 minutes 5 seconds][Customer] : Yeah, I hope so. I would like to read through them if I can, like I need to visually see them, not music them back or anything. I just because obviously you're on my phone and it's audio, It's very different to when you're, you sit down and have time to read stuff.
+[10 minutes 26 seconds][Agent] : OK.
+[10 minutes 24 seconds][Customer] : I, I'm just worried that I could have said something like not and I haven't fully had a chance to answer the question properly. You know, like, don't you forget when you're just asked on the cuff so.
+[10 minutes 26 seconds][Agent] : Well, OK. Well, in terms of this one included, I'll get your final outcome loaded for you. So included in your policy is a rehabilitation benefit along with the final expenses benefit which pays $10,000 and even you pass away to assist for funeral costs or other final expenses. Umm. But today your application is approved with the below terms.
+[10 minutes 52 seconds][Customer] : Yeah, yeah.
+[10 minutes 56 seconds][Agent] : So Max benefit amount benefit. $5000 in two years due to other skin cancer more than one exclusions other skin cancer more than one new benefit will be payable for any disability condition disease to sort the treatment of complications related to a rising from skin cancer, including Melanoma. Gall stones, no surgery, no benefit will be payable under this policy for any disease or the sort of the gallbladder or of the biliary biliary ducts, including any complications arising from treatment thereof. Premium adjustment due to other skin cancer, more than one. So today you've been approved for the 4000 a month of income protection with the waiting period of 30 days and benefit period of one year and that's coming in the final pricing $44.84 per fortnight. Once again, of course, your premium is stepped, which means it will generally increase each year to age. But as an indication, if you make no changes to the policy of premium, next year would be $46.83 a fortnight. Of course, you can also find information about a premium structure on our website. And just keep in mind as well that premiums for income protection are generally tax deductible as well, which can make it even more cost effective for you.
+[12 minutes 3 seconds][Customer] : OK, I'm gonna have to stop you that. Can you send me everything in writing and I'll read it and then if you want to call me in the next couple of days, that's fine. Only my nighty work and then we can go through completing it. But I really just want to read everything that you've just told me, if that's OK. And I have to have to go Cos I'm gonna be late for work and I'm a nurse and it's really important I'm not late for work.
+[12 minutes 18 seconds][Agent] : OK, OK.
+[12 minutes 25 seconds][Customer] : Great.
+[12 minutes 21 seconds][Agent] : Well then as your cover has been fully approved, I wanted to just e-mail you a policy schedule for 4000, a month of income protection, but waiting period of 30 days and the benefit period of one year, that's permission.
+[12 minutes 30 seconds][Customer] : Yep.
+[12 minutes 31 seconds][Agent] : And then if I was to give you a call, I'm not until 6:00 PM WA tonight and I'm on, I can call you anytime from 9:00 AM tomorrow. Is there a time that works best for yourself?
+[12 minutes 42 seconds][Customer] : Tomorrow before this time, like before 12.
+[12 minutes 46 seconds][Agent] : OK, so if I set up at around 10:00 AM.
+[12 minutes 49 seconds][Customer] : Yeah, I have to go. Thank you very much. Alright. Cheers. Bye.
+[12 minutes 51 seconds][Agent] : Nice, you have a lovely day.

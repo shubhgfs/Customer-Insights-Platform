@@ -1,0 +1,81 @@
+[8 seconds][Customer] : Hello to Curtis Speaking.
+[10 seconds][Agent] : Hi there Dakota, My name is Dom calling from Meal Insurance, following up on the enquiry received from yourself just a moment ago for our income protection to take you through in some detail. I'll be happy to provide options available to you and we'll see what suits best. Now this would be Mr.
+[19 seconds][Customer] : Yep, yes.
+[25 seconds][Agent] : Dakota Merritt I'm speaking with no worries. And your date of birth I've received here is the 21st of November 1996, Is that correct?
+[37 seconds][Customer] : That's correct.
+[38 seconds][Agent] : Perfect. And just keep in mind I'll.
+[40 seconds][Customer] : Are they about real life insurance?
+[42 seconds][Agent] : Oh yeah, sorry to continue.
+[42 seconds][Customer] : Sorry, Are they about real life insurance with you guys already?
+[45 seconds][Agent] : Oh, right. Our life insurance. Sure. Yeah, no problems.
+[48 seconds][Customer] : Yeah, I've already got it with you guys, I'm pretty sure.
+[48 seconds][Agent] : Well, yeah, excellent. No worries. I appreciate you then, umm, coming to inquire about our income protection now as well. Uh, and yes, keep in mind our call is recorded. Any advice providers general in nature may not be suitable to your situation. Uh, just to lastly confirm, you are a male and an Australian resident, correct? No problems. Thanks Dakota. And yes, once again, it's good to speak with you today. I appreciate you making the inquiry and following up so soon after. But umm, Dakota, what's prompted you to now look and see, umm, an income protection policy for yourself? Yeah, fair enough.
+[1 minutes 6 seconds][Customer] : Yes, just the work I do can get injured quite easily.
+[1 minutes 28 seconds][Agent] : Yeah, absolutely, I understand. No problems at all. Umm, do you currently work 15 hours or more per week?
+[1 minutes 35 seconds][Customer] : Yeah, I work about 72 hours a week.
+[1 minutes 37 seconds][Agent] : Yeah, fair enough, no problems at all. Uh, what do you do for work?
+[1 minutes 42 seconds][Customer] : Security.
+[1 minutes 43 seconds][Agent] : Ah, fair enough. Not a problem at all. I understand. Easy. So, yeah, certainly plenty of factors that I can never see coming in that top line of work. And, uh, I gather if uh, something was to happen, you'd, uh, the, your income was to be lost due to disabling sickness, injury, etcetera. Umm, the income protection, would that just be to handle things like bills and etcetera for yourself?
+[2 minutes 5 seconds][Customer] : Yes, yes, definitely.
+[2 minutes 6 seconds][Agent] : Yeah, fair enough. No problems. Well, what I'll do is, umm, very simple. Just give you a brief rundown of how the income protection works and then we'll be, uh, I'll take you through some questions. That way we can determine what, uh, aspects of income protection be eligible for.
+[2 minutes 21 seconds][Customer] : Yep.
+[2 minutes 21 seconds][Agent] : But quite simply, we design the cover to provide a monthly income benefit paid directly to you if you're unable to work due to a disabling sickness or injury and you suffer a loss of income. So you're welcome to use it to help cover bills, living costs if your salary is interrupted. And of course, since you work at least 15 hours per week and paid employment, you're more than welcome to apply now. We offer income benefit up to 70% of your monthly pre tax income from $1000 up to a maximum of $15,000. And, uh, when we have found, uh, what would suit you best, it will be easy to apply as I'll just take you through health and lifestyle questions here over the phone to see if you are approved and then if so, on what terms we'll be able to offer cover for you. And when it's in place, it will cover you until your policy anniversary following your 65th birthday. And just keep in mind as well, there are some exclusion that apply and outlined in the PDS. Now another thing to keep in mind as well, the premiums for our income protection insurance, they are generally tax deductible. So when it does come tax time, you're welcome to give our support team a call. You can request a significant in currency, use it at the tax time could potentially help you to yeah, receive something back. It could be potentially more cost effective in that regard.
+[3 minutes 45 seconds][Customer] : No worries.
+[3 minutes 43 seconds][Agent] : OK, thank you. Now, so I'll just ask you some further questions regarding your duties at work. And just keep in mind before answering any of our questions, it is important that you're aware of your duty to answer all of our questions accurately and honestly. Failure to do so could impact your coverage claims time.
+[4 minutes 3 seconds][Customer] : No worries.
+[4 minutes 1 seconds][Agent] : OK, easy. And so I may have jumped the gun with this first question, so I have to ask it again even though I know the answer. Do you work 15 hours or more per week? Yes or no? Is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment, yes or no?
+[4 minutes 13 seconds][Customer] : Yes, Yes.
+[4 minutes 28 seconds][Agent] : Sure. Are you required to perform any physical duties?
+[4 minutes 35 seconds][Customer] : Yes.
+[4 minutes 36 seconds][Agent] : Do you perform heavy physical duties, use heavy machinery or drive a vehicle?
+[4 minutes 42 seconds][Customer] : No.
+[4 minutes 44 seconds][Agent] : Are you qualified, skilled or semi skilled or hold the required licenses to perform your role?
+[4 minutes 51 seconds][Customer] : Yes.
+[4 minutes 53 seconds][Agent] : And do you work in any of the following fields? Aviation as a pilot or crew, entertainment or sporting industry, Air Force, Army, armed forces. Or do you handle explosives, yes or no? And do you regularly work on the ground or underwater, work at heights above 10 meters, work offshore or carry a firearm?
+[5 minutes 7 seconds][Customer] : No, no.
+[5 minutes 20 seconds][Agent] : All right, here it is. So that's your duties. Best assessment out the way. Thanks very much for that. Now we can get in some pricing here. Firstly, I just need to confirm, have you had a cigarette in the last 12 months? Yes or no? Perfect. All right, not a problem at all.
+[5 minutes 34 seconds][Customer] : No, employed.
+[5 minutes 39 seconds][Agent] : Now can I confirm here if you are employed or self-employed employed excellent. So in that regard, pre tax income, just keep in mind while I ask you that question, is the total then annual remuneration paid to you by your employer before tax, excluding super contributions, but including salary and regular commissions or bonuses? OK, uh, so keep you in mind as well, uh, we're able to select the benefit amount anywhere between $1000 up to, uh, the maximum benefit amount. We'll see here. Firstly, what is your annual income before tax?
+[6 minutes 4 seconds][Customer] : Yeah, it it varies between 100 and $110,000.
+[6 minutes 23 seconds][Agent] : Yeah, OK, sure. Uh, between 100 and $110,000. And I guess based on your most recent payslip, umm, which of it's, uh, which figure would be most accurate? Yeah, OK, sure.
+[6 minutes 36 seconds][Customer] : My recent payslip was about $2300 before tax.
+[6 minutes 43 seconds][Agent] : Easy. So if we all right, 2300, all right, no problems. And as the I guess probably better question, better way to phrase this question, your most recent annual income as per I guess the most recent year that's passed, what would that have been before tax?
+[7 minutes 14 seconds][Customer] : I was, I think it was 106,000 and something.
+[7 minutes 19 seconds][Agent] : Yeah, sure. In that case, we'll go with the figure of 106,000, see what that comes up to be based on that. Based on that figure, we'd be able to look anywhere between $1000 up to $6183 as the monthly benefit amount. OK.
+[7 minutes 42 seconds][Customer] : Yep, just 5.
+[7 minutes 42 seconds][Agent] : What amount would you like to look at pricing on Yeah 5000. No worries. All right now, uh, there are OPS, there are options here to select different waiting periods and benefit periods depending on your circumstances. Now, what I refer to there, the waiting period it is the non payment period that you must wait before the income benefit is payable after the insured events. You're able to choose 30 to 30 days or 90 days. And now keep in mind the income benefit, it is paid in arrears. And that means if you choose say for example, a 30 day waiting period, your first payment would be 60 days after you were first eligible to claim. OK, so which waiting period would you like me to quote you on? No worries. And now the benefit. Uh, this is the maximum amount of time that we will pay the income benefit for anyone injury or illness. And so you're able to choose benefit period of either six months, one year, 2 year or five years. Uh, which benefit. Would you like to look at first?
+[8 minutes 26 seconds][Customer] : Yeah, 30 days, six months.
+[8 minutes 52 seconds][Agent] : Six months, No worries. Alright, so for the monthly benefit amount of $5000 covered with a 30 day waiting period and six months benefit. It would come to be a fortnightly premium of $26.31 per fortnight. OK. Uh, thus far, does that sit quite comfortably for you? Uh, no problems in that case. Of course, the next step would be to take you through the health and lifestyle questions, determine the eligibility and the terms of which we can offer the income protection for you.
+[9 minutes 8 seconds][Customer] : Yep, yes, Yep.
+[9 minutes 25 seconds][Agent] : Whilst that loads, I'll give you further insight into some aspects of the policy as we firstly have a rehabilitation benefit. This pays a reimbursement about the 50% of your monthly income benefit up to a maximum of $3000 to help with rehabilitation costs whilst claiming. Or they can reimburse up to six times your income benefit towards costs of equipment or modifications required to assist you return to work. OK and knock on wood, you wouldn't need to use this benefit, but there is also a final expenses benefit which pays $10,000 in the event that you pass away to loved ones of yours that you would list as a beneficiaries to help with funeral costs and any other immediate expenses, OK. Otherwise, with regards to how the premium works over time for the income protection, it is stepped, which means it will generally increase each year as your age.
+[9 minutes 53 seconds][Customer] : Yep, Yep, Yep.
+[10 minutes 21 seconds][Agent] : And as an indication of how this looks over time, let's say for example you were to make no changes to the policy, just bringing up a projection for you, the premium in a year's time would be $26.29 per fortnight. And you can also find information about our premium structure on our website.
+[10 minutes 42 seconds][Customer] : No worries.
+[10 minutes 43 seconds][Agent] : Crazy. Otherwise, let's have a look here. The questions have always finished learning. I'm just going to confirm some further details I've got noted here. Firstly, your e-mail address you received is yes, Sir.
+[10 minutes 55 seconds][Customer] : Yeah, I'm, I might have to jump off the phone soon. I'm just, I'm waiting on a friend. We're going to draw. I'm going to go for a long drive so I might have to get off the phone soon.
+[11 minutes 5 seconds][Agent] : Yeah, sure. No worries. We'll push through as far as you can. You can let me know when you do need to leave. Uh, firstly, the e-mail address ihaveisdakotamerritt@gmail.com. Correct? Excellent. And the contact number we're speaking on today, is this the best point of contact for you?
+[11 minutes 11 seconds][Customer] : Yep, yes, yes.
+[11 minutes 23 seconds][Agent] : No worries. The last thing I'll describe is your address. Could I start with your post code and suburb there in Victoria please? Excellent And what's your address there?
+[11 minutes 31 seconds][Customer] : 3280 Warrnambool 3 Rangill RAINGILL Ave.
+[11 minutes 43 seconds][Agent] : Excellent. And your postal address where you received your mail, would that be the same?
+[11 minutes 47 seconds][Customer] : Yes.
+[11 minutes 48 seconds][Agent] : No worries. OK. And I've got the questions right here. And so I'll just read your pre underwriting disclosure before we proceed. So I'll give you some privacy policy info and outline that you to take reasonable care.
+[12 minutes 1 seconds][Customer] : Yep.
+[11 minutes 59 seconds][Agent] : In your answers it says please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issued cover and other related services. We will share this with your insurer may share with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breach of privacy. But by proceeding, you understand that you're applying to purchase a life insurance policy and as such energy to take reasonable care to not make any misrepresentations. This means you need to ensure you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full if you provided some information to us and the earlier discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline claim or make adjustments to the terms and conditions of your policy. Uh, sorry, Dakota, do you understand and agree to your duty there? Yes or no, David? And these are for the most part, yes or no answers. I'll indicate otherwise where I need to. And once again, uh, if you do need a run, just let me know, OK.
+[12 minutes 55 seconds][Customer] : Yes, no worries.
+[13 minutes 5 seconds][Agent] : Uh, first question here asks, have you been hospitalized for COVID-19 in the last 12 months or have you experienced any ongoing symptoms or complications associated with your COVID-19 infection in the last 30 days?
+[13 minutes 20 seconds][Customer] : No.
+[13 minutes 22 seconds][Agent] : Next question, are you a citizen or permanent resident of Australia or New Zealand currently residing in Australia, yes or no?
+[13 minutes 31 seconds][Customer] : Yes. Yeah. Australian.
+[13 minutes 31 seconds][Agent] : Is it does your the Australian citizen currently residing in Australia, correct.
+[13 minutes 35 seconds][Customer] : Yeah, Yep. I'm going to have to jump off the phone. Sorry matey, my mate's just got here.
+[13 minutes 41 seconds][Agent] : Yeah, Yeah, No worries at all.
+[13 minutes 45 seconds][Customer] : Alright.
+[13 minutes 44 seconds][Agent] : In that case, we'll pick up this conversation again. Would there be a time tomorrow that's preferable for you?
+[13 minutes 50 seconds][Customer] : I'm alright to give you a call tomorrow. I'm just at work. I'm just at the point of time where I'm not busy.
+[13 minutes 54 seconds][Agent] : Yeah, sure. I'll give you a call just before I leave tomorrow then if you if you don't answer, that's fine. We'll just pick up the conversation again on Friday. OK.
+[14 minutes 1 seconds][Customer] : Yep, no worries. Thank you very much, mate.
+[14 minutes 4 seconds][Agent] : Not a problem. I'll send the information.
+[14 minutes 7 seconds][Customer] : Thank you.
+[14 minutes 5 seconds][Agent] : In the meantime, take care. That kind of.
+[14 minutes 10 seconds][Customer] : Thanks. Bye.

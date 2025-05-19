@@ -1,0 +1,69 @@
+[15 seconds][Agent] : Good afternoon. My name is Emily. I'm calling from Real Insurance.
+[13 seconds][Customer] : Hello, thanks.
+[19 seconds][Agent] : Michelle, I'm giving you a call to follow up on the conversation we had regarding the life insurance for yourself just before we continue. I'm so, so sorry. It just cut out a lot there. What was that? Yep.
+[28 seconds][Customer] : I was wondering can't contact with you because I had a cou I was I wanted to speak to you because I I followed up. You know how I told you the mammogram etcetera was like every year? I just followed up with the Queensland, Queensland X-ray just to double check when I had them done over the last 10 years and it wasn't actually every year. So I don't know if that makes any difference to the premium.
+[1 minutes 3 seconds][Agent] : Sorry, umm, just so I can re clarify that with you and I'll just double check whether it could actually impact anything.
+[1 minutes 9 seconds][Customer] : Yeah.
+[1 minutes 9 seconds][Agent] : Uh, just so I can do that. I just need to let you know again, calls are recorded. Any advice you provide is general in nature. It may not be suitable to your situation and I'll just get you to reconfirm your name and date of birth for me. Beautiful. And you are of course a female Australian resident.
+[1 minutes 22 seconds][Customer] : Yeah, Michelle, Jeff is 24th of the 1st 74, correct?
+[1 minutes 30 seconds][Agent] : Perfect. And just while I'm loading it up, I'll just reconfirm in relation to your smoking status and all the questions that I've asked you, has anything changed with your responses? OK, beautiful.
+[1 minutes 40 seconds][Customer] : No, except that mammogram one. I wanted to, yeah.
+[1 minutes 45 seconds][Agent] : Yep, Yep. So just having a look here because that one actually got referred directly to our underwriters for them to assess and they made no changes to the application, OK.
+[1 minutes 55 seconds][Customer] : Oh OK alright that's fine. Now I just want to double check before I yeah press enter.
+[2 minutes 6 seconds][Agent] : Of course.
+[2 minutes 2 seconds][Customer] : And also can I change it to a monthly payment instead of spotlightly?
+[2 minutes 7 seconds][Agent] : Absolutely.
+[2 minutes 7 seconds][Customer] : That was the only other thing.
+[2 minutes 9 seconds][Agent] : Yep. Let me just create a new quote for yourself. Just give me one moment, I won't be too long and I'll let you know what it is.
+[2 minutes 12 seconds][Customer] : OK, OK.
+[2 minutes 22 seconds][Agent] : Sorry, bear with me.
+[2 minutes 25 seconds][Customer] : OK.
+[2 minutes 33 seconds][Agent] : No, sorry, the, the other items never actually came back with any loadings at all. So the skin checks uh, the mammograms and I think there was one other thing we referred off there. Let me just double check again.
+[2 minutes 26 seconds][Customer] : So do you think, you know, when you went to the underwriters, was it the, was it the skin cancers whooping and the asthma, maybe ABS? Yep.
+[2 minutes 44 seconds][Agent] : Umm, and, and this is the sectomy that you have umm, that all came back with no changes whatsoever made to the application. I'll let you know again what those loadings were applied for. Umm, just bear with me and I'll just read them out to you again. All right. Sorry, it's just making me create a brand new application to light it up.
+[2 minutes 59 seconds][Customer] : Yeah, it's annoying.
+[3 minutes 13 seconds][Agent] : Yeah, and it freezes while it's doing that, of course. Now I believe it was due to the asthma was one of those and I think the history of mental health as well.
+[3 minutes 31 seconds][Customer] : Bye.
+[3 minutes 29 seconds][Agent] : Umm, So yeah, it says here, umm, loading for mental health, one to two episodes with symptoms or treatment within the last six months. Umm and also a loading to the asthma requiring more than one inhaler. But the good news is it has noted you as a non-smoker. Umm, so you haven't been loaded based on the smoking statuses on top of that? Umm, but yes. So including those loadings for the $400,000, it works out to be $76.40 per fortnight.
+[4 minutes 6 seconds][Customer] : Yeah. OK. And we can change that to the monthly.
+[4 minutes 11 seconds][Agent] : Sorry, yes, so monthly it works out to be $165.53 a month. It is a bit more than double just because there's not exactly 2 fortnights in every month, but yearly it does work out the exact same either way.
+[4 minutes 27 seconds][Customer] : OK. Yeah. Well, we'll do that then.
+[4 minutes 29 seconds][Agent] : Now are You Beautiful? So you're happy to leave it at the 400,000?
+[4 minutes 34 seconds][Customer] : Yeah, Yep. And can and if, if things change with my health, do I have to notify you or it just gets set based on the how, what I've told you so far?
+[4 minutes 44 seconds][Agent] : It's all based at the time of application, OK.
+[4 minutes 47 seconds][Customer] : OK, Yeah.
+[4 minutes 47 seconds][Agent] : Now with regards to those loadings, you can apply to have loadings review reviewed down the truck subject to eligibility. So I mean, for example, if you stopped receiving any sort of trip, you went six months without symptoms or treatment for mental health, you could for example apply to have that loading reviewed. It is still subject to eligibility.
+[5 minutes 9 seconds][Customer] : Yes.
+[5 minutes 9 seconds][Agent] : Umm, but yeah. So if your circumstances ever change and you ever want to look at that as an option, give us a call. Our support department will be able to explain the process to have that reviewed. OK, Now the good news is that we can organize to get you covered over the phone today. You can still choose a day in the future for the first payment if you end up looking, if you end up looking through it all and you change your mind for any reason, there's no cancellation fees. You're not locked into this.
+[5 minutes 37 seconds][Customer] : Yeah. OK.
+[5 minutes 38 seconds][Agent] : Now, I'll just confirm the other details that we had here. That e-mail address is shellanddell@hotmail.com.
+[5 minutes 46 seconds][Customer] : Yeah, that's it.
+[5 minutes 47 seconds][Agent] : Beautiful. And the address? 17 Jill Street, Holland Park, 4121.
+[5 minutes 52 seconds][Customer] : Yeah, that's it.
+[5 minutes 54 seconds][Agent] : Perfect. And is this your best contact number? I put you back on.
+[5 minutes 57 seconds][Customer] : Yes.
+[5 minutes 59 seconds][Agent] : OK. All right. Fantastic. Now, what day would you like me to note down for the first payment day?
+[6 minutes 6 seconds][Customer] : Umm, what day are we today?
+[6 minutes 9 seconds][Agent] : So today is the 8th of April, the 10th. Yep.
+[6 minutes 8 seconds][Customer] : Umm, umm, uh, maybe if we make it the the 10th, yeah.
+[6 minutes 27 seconds][Agent] : So you're happy with that first pay, that being this Wednesday the 10th and then every month on the 10th.
+[6 minutes 33 seconds][Customer] : Yep Yep.
+[6 minutes 34 seconds][Agent] : Alright, beautiful. And it's nice and easy. We do a direct debit. How would you like to pay with a BSB and account number or Visa or MasterCard?
+[6 minutes 44 seconds][Customer] : I'm not 100% sure and I actually can't do it right now. I'll do it via the e-mail if that's OK.
+[6 minutes 51 seconds][Agent] : Ah, OK. So I'll have to resend that one through for you. And just because we have changed it to monthly as well, I'm not too sure if it ah, does allow you to pick through the e-mail. So I'll just resend it to be safe.
+[7 minutes 3 seconds][Customer] : Oh, OK, OK.
+[7 minutes 4 seconds][Agent] : So you don't have a BSB account number or Visa or MasterCard with you at the moment?
+[7 minutes 9 seconds][Customer] : No, I don't. No.
+[7 minutes 11 seconds][Agent] : Umm, OK, no problem. So obviously to get you covered, we would have to note that down.
+[7 minutes 15 seconds][Customer] : Yes. Yeah.
+[7 minutes 15 seconds][Agent] : Umm, I'm happy to resend you through that e-mail. Oh umm, just follow the buy now button. Umm sorry. Click the buy now button, follow the prompts. Umm, and just a reminder, if it asks for a password, the password is your date of birth, so all 8 digits.
+[7 minutes 24 seconds][Customer] : Yep, Yep. OK, got it.
+[7 minutes 31 seconds][Agent] : Umm, So I'll, I'll send you through that new e-mail pending activation. Umm, what I'll do for you to still keep it open and allocated to me in case there's any issues. I'll still book in a call back for Wednesday. Umm, if you end up setting it up online, though, it just cancels that call back so you won't hear from us. OK.
+[7 minutes 49 seconds][Customer] : Yep. OK, got it.
+[7 minutes 50 seconds][Agent] : All right.
+[7 minutes 50 seconds][Customer] : OK, thanks.
+[7 minutes 51 seconds][Agent] : Beautiful.
+[7 minutes 51 seconds][Customer] : Thanks, Emily. Thank you.
+[7 minutes 53 seconds][Agent] : Yeah, no worries at all. It was lovely speaking with you again. I look forward to speaking to you soon.
+[7 minutes 57 seconds][Customer] : OK, thanks a lot. Bye.
+[7 minutes 59 seconds][Agent] : Thank you. Bye.

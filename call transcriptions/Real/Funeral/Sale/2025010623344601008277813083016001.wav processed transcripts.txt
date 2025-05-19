@@ -1,0 +1,29 @@
+[1 minutes 15 seconds][Agent] : None. Thanks for already did, Denise. I've got my colleague Shanae from the support department. I'll assist you with nominating your beneficiaries for your policy here. Actually, I'll just let you know full ID as well as your contact details have been confirmed. Thanks, DJ. Hi there. My name's Shanae from the support team. How are you today?
+[1 minutes 42 seconds][Customer] : I'm good, thank you. How are you?
+[1 minutes 44 seconds][Agent] : I'm very well. Thank you. My colleague did advise that you were just needing some help with nominating your beneficiaries today.
+[1 minutes 52 seconds][Customer] : I don't need any help. I can just tell you who it is.
+[1 minutes 54 seconds][Agent] : Yeah, of course. I all can do it for you today over the phone. I'll help you now. You can nominate up to five beneficiaries. How many did you have in mind?
+[2 minutes 3 seconds][Customer] : Oh, just one.
+[2 minutes 4 seconds][Agent] : Yeah. What was their first name?
+[2 minutes 6 seconds][Customer] : My daughter, Katie. Kat. i.e.
+[2 minutes 9 seconds][Agent] : Katie. Katie.
+[2 minutes 12 seconds][Customer] : Yes.
+[2 minutes 10 seconds][Agent] : Surname Ro also or what? And what's her date of birth?
+[2 minutes 15 seconds][Customer] : First of the 4th 92.
+[2 minutes 17 seconds][Agent] : I need 2. Perfect. I'll just get Katie's best contact number as well. Yeah, yeah, I'm just going to read that back. It was 0497532441. Thank you. And Katie's home address for me.
+[2 minutes 24 seconds][Customer] : 0497532441 Yep, same address as here, 25 Clarendon St., Pakenham.
+[2 minutes 43 seconds][Agent] : Oh, there we are. That's her home and postal. Put that on here and 100%'s to go to Katie. Yep, there we are. All been done for you. Mr. I can confirm your beneficiary is updated. I'm going to send you a policy schedule actually just to confirm the changes.
+[2 minutes 50 seconds][Customer] : Yes, you need to have Katie's middle name.
+[3 minutes 2 seconds][Agent] : It is optional, so if you'd like, I can add it in.
+[3 minutes 5 seconds][Customer] : Yeah.
+[3 minutes 4 seconds][Agent] : It doesn't need. It's not a requirement though.
+[3 minutes 7 seconds][Customer] : OK, OK. Her name's Loui. Katie Louise. Louise.
+[3 minutes 13 seconds][Agent] : Louise, there we are. I've just added that in. So now you might get, I think the system's automatically going to generate letters.
+[3 minutes 22 seconds][Customer] : Yep.
+[3 minutes 20 seconds][Agent] : So if you get one without Louise in that, disregard it, you'll get another confirming the right details.
+[3 minutes 26 seconds][Customer] : OK.
+[3 minutes 27 seconds][Agent] : Anything else for today though?
+[3 minutes 29 seconds][Customer] : No, that's all. Thank you.
+[3 minutes 31 seconds][Agent] : Appreciate your time. You have a good day.
+[3 minutes 33 seconds][Customer] : OK, bye.
+[3 minutes 34 seconds][Agent] : Bye.

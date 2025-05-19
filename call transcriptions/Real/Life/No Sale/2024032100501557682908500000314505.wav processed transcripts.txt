@@ -1,0 +1,370 @@
+[12 seconds][Customer] : Hello.
+[13 seconds][Agent] : Hi, Tony, it's Luke calling from a real insurance. I'm following up on your racing inquiry for the health insurance, seeing how I can help you there with that one.
+[22 seconds][Customer] : OK, Well, I'm with HPS.
+[23 seconds][Agent] : Yeah, HCF. Yeah, Perfect. Yeah, perfect. So let's go. You looking around?
+[28 seconds][Customer] : So yeah, just wondering, pardon, what's car?
+[35 seconds][Agent] : What?
+[35 seconds][Customer] : Well, a car actually.
+[38 seconds][Agent] : Right.
+[38 seconds][Customer] : They are good.
+[38 seconds][Agent] : Yeah, of course.
+[41 seconds][Customer] : They are good.
+[40 seconds][Agent] : Yeah, OK.
+[42 seconds][Customer] : But yeah, it's just getting a little, we're on a an age pension and yeah, I didn't know if you guys can do any cheaper or not so.
+[55 seconds][Agent] : No, of course. No worries at all there. Well, what we'll do, I'll let you know. The calls are recorded for quality and monitoring purposes. And can you just confirm your full name and date of birth for me?
+[1 minutes 4 seconds][Customer] : Yep, I'm in the next 27th of January 1949.
+[1 minutes 9 seconds][Agent] : Perfect. How do I spell your surname? Sorry.
+[1 minutes 9 seconds][Customer] : Have a Crosby CROSPY.
+[1 minutes 14 seconds][Agent] : Perfect. OK, great. And are you just looking for yourself or?
+[1 minutes 13 seconds][Customer] : Well I'm single. I'm still still with HTS as the single, but I am married and my husband's also with HES.
+[1 minutes 31 seconds][Agent] : Oh, OK. So you look, you're going to look at a couple's policy on this one or keep it as 2 singles.
+[1 minutes 35 seconds][Customer] : No, no, we just leave it single.
+[1 minutes 38 seconds][Agent] : OK, perfect. So we'll just look for you. No worries at all there. All right, well, what we'll do, we'll go through a few questions, make sure we're going to look at the right level of cover there for you. OK, Tony. OK. Now, do you currently have hospital and extras covered with HCF? Perfect. OK. And have you hold hospital cover for more than 10 years?
+[1 minutes 40 seconds][Customer] : Yeah, yeah, yeah.
+[2 minutes 1 seconds][Agent] : Perfect. OK, All right, now what we'll do. We'll start with the hospital cover, OK. Now, do you have any current concerns that you'd like to make sure you're going to be covered for?
+[2 minutes 13 seconds][Customer] : No.
+[2 minutes 14 seconds][Agent] : No. OK, not really.
+[2 minutes 15 seconds][Customer] : Well, no, no, not really none.
+[2 minutes 19 seconds][Agent] : What come what's coming to mind there?
+[2 minutes 22 seconds][Customer] : Well, I just take medications and all of that.
+[2 minutes 26 seconds][Agent] : Yep.
+[2 minutes 25 seconds][Customer] : But yeah, since I had the COVID shot, I've got my blood pressure's higher than normal, but it's down to down to normal range now because I'm on medication.
+[2 minutes 28 seconds][Agent] : OK, right. OK. No, I understand. OK. So is the heart and vascular system something that you'd like to make sure it's going to be on your cover? Yep. OK, perfect. All right. Have you had to use the hospital in the last few years?
+[2 minutes 49 seconds][Customer] : Probably haven't been. I have my gallbladder removed.
+[3 minutes 5 seconds][Agent] : OK, Right. OK.
+[3 minutes 2 seconds][Customer] : I've had my stomach fully removed in 2006, so I'm fine with that. I'm alive.
+[3 minutes 13 seconds][Agent] : Right. That's good to hear.
+[3 minutes 13 seconds][Customer] : Wasn't, yeah, wasn't. Can do it. So that's a major thing.
+[3 minutes 19 seconds][Agent] : Right, right.
+[3 minutes 21 seconds][Customer] : Yeah, it happened in the middle of the night. I had to. I perforated.
+[3 minutes 29 seconds][Agent] : Right.
+[3 minutes 27 seconds][Customer] : I'd bent over a freezer at my job. I had an indoor play centre.
+[3 minutes 32 seconds][Agent] : OK.
+[3 minutes 32 seconds][Customer] : I bent over a freezer to get something out that was in the bottom of the freezer.
+[3 minutes 37 seconds][Agent] : Yep.
+[3 minutes 37 seconds][Customer] : And I had perforated my bow.
+[3 minutes 44 seconds][Agent] : Alright, that must have been very painful.
+[3 minutes 43 seconds][Customer] : So yeah, it was, but that happened at 12:00 in the day and at 2:00 in the morning when I was at the hospital. They couldn't X-ray. At that time in 2006, they didn't have them open all night. So they, the doctor proceeded to take all my stomach. So I had total gastrectomy.
+[4 minutes 4 seconds][Agent] : Oh, right, right. OK, No, I understand. And how's that treating you now?
+[4 minutes 19 seconds][Customer] : No different.
+[4 minutes 20 seconds][Agent] : OK.
+[4 minutes 20 seconds][Customer] : I have I have well, I don't take medication for any of that. I do have a dumping syndrome. If I eat too much something with sugar or carbs, fine carbs, I will shake. Yeah, I shake.
+[4 minutes 36 seconds][Agent] : OK, right.
+[4 minutes 38 seconds][Customer] : But then I know that or I get get a sweat up like a diabetic. So I, I know my body now.
+[4 minutes 49 seconds][Agent] : Of course.
+[4 minutes 48 seconds][Customer] : So yeah, it's all good now.
+[4 minutes 50 seconds][Agent] : OK, OK.
+[4 minutes 51 seconds][Customer] : So yeah, gotta live with it. Yep. I'm alive. So that's what I've got to worry about.
+[4 minutes 53 seconds][Agent] : So you've adapted to to it now right Well, that that's the main thing.
+[5 minutes 1 seconds][Customer] : Yeah.
+[4 minutes 59 seconds][Agent] : That's good to hear that you made that recovery there. OK alright. Is there any family history? Yeah, sorry.
+[5 minutes 6 seconds][Customer] : But yeah, I've had my. Sorry. I've got had my gallbladder removed in 2000. I thought it was 2018. Yeah, 2018, my gallbladder went.
+[5 minutes 15 seconds][Agent] : OK, so not too long ago, right. Perfect. OK.
+[5 minutes 24 seconds][Customer] : That's the lover.
+[5 minutes 24 seconds][Agent] : And, and, and was that just yeah, a normal procedure there?
+[5 minutes 30 seconds][Customer] : Yeah, yeah, yeah.
+[5 minutes 32 seconds][Agent] : OK, perfect. OK Now Tony, is there any family history that you'd like to make sure you're still going to be covered for? No. OK, great. Alright. OK. So whe, when it comes to things like joint replacements and cataracts, are those areas you'd like to make sure is on your cover or not necessarily?
+[5 minutes 41 seconds][Customer] : No, I've actually had my eyes done.
+[5 minutes 57 seconds][Agent] : OK, uh, that's good to hear. Yeah.
+[5 minutes 58 seconds][Customer] : I don't need glasses, but I but I do get sunny with Specsavers and they're they're slightly, yeah, just slightly.
+[6 minutes 15 seconds][Agent] : Prescription.
+[6 minutes 15 seconds][Customer] : They have to put Yeah. So that I can have them.
+[6 minutes 16 seconds][Agent] : Yeah, of course, of course. No, definitely. OK. Well, that's, that's good thing that you use Specsavers there. I'll let you know that we are underwritten by NIB. So we do have an affiliation with Specsavers where our customers can can receive no gap offers on glasses there.
+[6 minutes 30 seconds][Customer] : Yeah, yes.
+[6 minutes 36 seconds][Agent] : Yeah, perfect. OK. Now so you so cataracts and no concern there. How about joint replacements? Was that something that you'd like to have on the cover or or no concerns there?
+[6 minutes 48 seconds][Customer] : OK, Well, I'm 75 in January, so it's always problem I suppose, but I get about 5.
+[6 minutes 57 seconds][Agent] : You get about fine at the moment. That's good to hear. OK.
+[6 minutes 56 seconds][Customer] : Yep, I think so.
+[7 minutes][Agent] : Is it something that's currently on your cover with HCF, you think so? OK, no worries. Well, we can look with and without it, see what's going to be most suitable there for you.
+[7 minutes 4 seconds][Customer] : Yes, yes, yes.
+[7 minutes 10 seconds][Agent] : If it's no concern right now, but you want to have that on the coverage just in case we can look to, we can look to have that as well. OK, Yeah, great. All right. Now for your extras. So I know you mentioned you use a little bit of optical for the prescriptive Sonny's there. What other services are you?
+[7 minutes 18 seconds][Customer] : OK, Yep, I think we have, I think we have optical dental. Oh, not sure on the other.
+[7 minutes 38 seconds][Agent] : That's OK. So what what are you actually using at the moment?
+[7 minutes 42 seconds][Customer] : What do you mean?
+[7 minutes 43 seconds][Agent] : So, so yes, I know you're using the optical. How often do you go to the dentist?
+[7 minutes 49 seconds][Customer] : I went this year and had my teeth cleaned, but that's about all since I've been probably 2 years previous. Yeah.
+[8 minutes][Agent] : OK, perfect. So it's more just general claims, is it?
+[8 minutes 4 seconds][Customer] : Yeah.
+[8 minutes 6 seconds][Agent] : OK? Great. So have you had to do any major dental work or any looking to get any done in the future?
+[8 minutes 14 seconds][Customer] : Oh no, not that I know of. Touch wood.
+[8 minutes 18 seconds][Agent] : Perfect. No, Yeah, that's good to hear. I'm not, I'm not a fan of the dentist myself. OK, Perfect. How about things like physiotherapy or chiropractor? Do you use those services?
+[8 minutes 17 seconds][Customer] : No, I haven't yet. Haven't needed to.
+[8 minutes 35 seconds][Agent] : Perfect. OK.
+[8 minutes 36 seconds][Customer] : Yes, I'm trying to tax it.
+[8 minutes 38 seconds][Agent] : Yep. Yep. No, definitely. OK. And the podiatrist at all or or don't use that service either. Perfect. OK, so, so you're not using your extras all too often there.
+[8 minutes 38 seconds][Customer] : So no, no, don't use that, no.
+[8 minutes 52 seconds][Agent] : OK, great. All right. Well, sounds like we've got, uh, all that information and we can find the cover based on those needs. Uh, we just enter a few of these details and we can get this up and running. Uh, so you're living in Queensland, is that right?
+[9 minutes 6 seconds][Customer] : Yeah.
+[9 minutes 6 seconds][Agent] : Perfect.
+[9 minutes 6 seconds][Customer] : I just want quote. I just wanna.
+[9 minutes 9 seconds][Agent] : Yeah, No, no, definitely, definitely. That's OK. Uh, now, uh, can I confirm that you have full Medicare eligibility? Perfect. OK. Now you may be eligible for the Australian Government rebate.
+[9 minutes 12 seconds][Customer] : Yeah, Yeah, Yeah.
+[9 minutes 24 seconds][Agent] : It is income tested.
+[9 minutes 25 seconds][Customer] : You can hear me.
+[9 minutes 26 seconds][Agent] : Sorry. Yeah, perfect. So you mentioned you're on the pension, so is that under $93,000 a year?
+[9 minutes 28 seconds][Customer] : I think I am, yeah.
+[9 minutes 34 seconds][Agent] : OK, great. I'll put that in there. Alright. And now with HCF, do you pay monthly or fortnightly? How would you like me to present the quote there? Monthly.
+[9 minutes 44 seconds][Customer] : I pay monthly, they direct debit.
+[9 minutes 47 seconds][Agent] : Yeah. Perfect. OK. Do you do you use for medial massage at all?
+[9 minutes 47 seconds][Customer] : Yeah, no.
+[9 minutes 55 seconds][Agent] : OK, no worries. I'll let you know. So the level of cover we're looking at is a silver plus for the hospital. So that's gonna give you cover for those things that we're talking about South joint replacements, rehabilitation in hospital, your heart and vascular system. Uh, and there is other things in there as well, but they'll, the main couple that you were, you were looking towards. Uh, now this is with the real starter extras. OK, So the starter extras gives you annual limits for optical, general and major dental, physiotherapy, chiropractor, uh, osteopathy. And also you get some remedial massage limits in there as well. OK.
+[10 minutes 33 seconds][Customer] : Yeah.
+[10 minutes 31 seconds][Agent] : So if you want to go get a massage, you can use that too. Uh, now were you looking for the $500 excess or the 750 excess?
+[10 minutes 41 seconds][Customer] : Well, I'm on 250 where I am now, but I was, I had vital extras with them.
+[10 minutes 49 seconds][Agent] : OK, right.
+[10 minutes 50 seconds][Customer] : I was was premium but we put it down to vital so.
+[10 minutes 57 seconds][Agent] : Yeah. And the, the main reason why I'm looking at the starter extras here for you today is because you you're not using your extras all too often there. So it still gives you those annual limits if you do want to go get some claims at the dentist or, or claim back on the Sunnys every every year or so, you can do that. But it's not going to give you, it's not going to put a, a all those range of services on there that you're not planning on and and they're just going to waste there. OK, Yeah.
+[11 minutes 9 seconds][Customer] : Yes, OK.
+[11 minutes 25 seconds][Agent] : OK. So did you want to look with the $500 excess for the hospital?
+[11 minutes 29 seconds][Customer] : Well, yes, I wouldn't go by one Cos the one that you've just at the moment so.
+[11 minutes 30 seconds][Agent] : Yep, yeah, of course. No worries. OK. So I'll let you know. So the monthly premium for this one is just $198.58.
+[11 minutes 44 seconds][Customer] : Right.
+[11 minutes 45 seconds][Agent] : Yeah. So how does that com? Sorry.
+[11 minutes 44 seconds][Customer] : Does that include, is that including hospital?
+[11 minutes 49 seconds][Agent] : Yes. So that's the hospital and extras?
+[11 minutes 53 seconds][Customer] : So does that cover private hospital or just public?
+[11 minutes 56 seconds][Agent] : Yeah. No private hospital, of course. Yeah. Did you have any private hospitals in mind? I can look them up, make sure we're contracted with them.
+[12 minutes 5 seconds][Customer] : Oh, well, not really. I mean, it's funny. Every time I've had an operation, I've gone to public.
+[12 minutes 11 seconds][Agent] : Right, Right. OK, well, well, what suburb do you live in? I can't let you know the private hospitals around your area or in your suburb? Yep, Yep.
+[12 minutes 12 seconds][Customer] : Yeah, OK, Logan Village, we live, but the private hospital would probably that's QLD would be Greenslopes or I don't know where Saint Andrews is.
+[12 minutes 36 seconds][Agent] : That's OK.
+[12 minutes 39 seconds][Customer] : Yeah.
+[12 minutes 37 seconds][Agent] : I'll look up Greenslopes private hospital first. OK, so I that's in Green Slopes, the suburb. Yeah, we are contracted with them. Yep.
+[12 minutes 49 seconds][Customer] : Yeah, OK.
+[12 minutes 51 seconds][Agent] : Perfect.
+[12 minutes 51 seconds][Customer] : What about your name, Cruise? I don't know where they are. Yeah.
+[12 minutes 54 seconds][Agent] : Saint Andrews in Queensland in Toowoomba.
+[12 minutes 58 seconds][Customer] : Yeah.
+[12 minutes 58 seconds][Agent] : Yeah. Oh, sorry. No, OK, no worries.
+[12 minutes 58 seconds][Customer] : No, no, I think there's one in Brisbane or Brisbane. Brisbane Hospital.
+[13 minutes 9 seconds][Agent] : In Brisbane.
+[13 minutes 15 seconds][Customer] : No. OK. Yep, my husband went there when we lived.
+[13 minutes 10 seconds][Agent] : So the only Saint Andrews that comes up is Saint Andrew's Toowoomba Hospital, Right. OK. Nice. Right.
+[13 minutes 19 seconds][Customer] : We did come off a farm and Yeah, and before we moved down here, but yeah, he he went to Saint Andrews.
+[13 minutes 32 seconds][Agent] : Right. OK.
+[13 minutes 30 seconds][Customer] : So yeah.
+[13 minutes 35 seconds][Agent] : Yeah. Well, is there any others in the, in the area that you'd know of or, or not really.
+[13 minutes 36 seconds][Customer] : So no, not really, No.
+[13 minutes 43 seconds][Agent] : That's that's OK.
+[13 minutes 44 seconds][Customer] : I mean, it doesn't matter really, as long as we're.
+[13 minutes 44 seconds][Agent] : Well, yeah, well, yeah, well, I'll let you know. We are con contracted with approximately 90% of hospitals around Australia. So there's a high chance that that the hospital near you is, is one of our contracted hospitals.
+[13 minutes 58 seconds][Customer] : Yeah. Who is who is who is she underwriter?
+[13 minutes 59 seconds][Agent] : Yeah, NIB, yeah, I'll let you know on on the policy as well. So, uh, the one I just read out for you, we can also get six weeks for you on that policy for you as well. Yeah.
+[14 minutes 3 seconds][Customer] : Oh, OK, OK, 198.
+[14 minutes 14 seconds][Agent] : So how's that compare 100 and 9858? Yeah. So how's that comparing to HDF for you? Yeah, that's OK. TA take your time, of course, of course.
+[14 minutes 46 seconds][Customer] : That's where it's 40 something.
+[14 minutes 54 seconds][Agent] : You think you're paying around 240 something?
+[14 minutes 57 seconds][Customer] : It's 48.
+[14 minutes 59 seconds][Agent] : Oh wow.
+[14 minutes 58 seconds][Customer] : I think only $50 is it?
+[15 minutes][Agent] : OK, so we can save you a fair bit of money there, $5050 a month. That's good to hear.
+[15 minutes 8 seconds][Customer] : Yeah, I know. It's quite a lot of money.
+[15 minutes 12 seconds][Agent] : Yeah, No, definitely. Well, yeah. Well, if we are saving you that money and it does sound like the right level of cover there for you, Tony, we can definitely get you set up there today. I'll let you know. The whole transfer process from HCF is quite seamless and convenient on your end. We take care of that whole process for you. So we cancel your policy with HCF and then we also can gain something called a transfer certificate, OK. So that will allow us to honor waiting periods. So I've done a lot for back basis. So any waiting period that you've served with HCF, you won't have to reserve with us. Hi. Yeah, yeah, yeah, yeah. Well, but we only started our health insurance in February this year.
+[15 minutes 34 seconds][Customer] : Yep, yeah, it's funny Cos real insurance, I see the telly, your ads all the time and I noticed that you had the medical and I thought, oh, I didn't realise you have some medical as well as oh, OK.
+[16 minutes 11 seconds][Agent] : So, yeah. So it, it's still relatively new, but but yeah, no, it yeah, it has been, has been good start to the year. Yeah. No, I'm so happy we could save you all the all the money as well There. So is, is this something you'd you'd like to get set up and transferred across today? Undecided. Yeah, that's, that's OK. Well.
+[16 minutes 41 seconds][Customer] : I'm just looking for yeah, I was just looking for one of the bank statements that we've got for that account.
+[16 minutes 49 seconds][Agent] : Yeah, it's a HDF. Yeah. No, that's OK. Take your time. But what while you're looking for that, is there any questions that you have or any concerns that I could help clear up there for you?
+[16 minutes 50 seconds][Customer] : Yeah, now yeah, OK. Just my it's no cheaper if your joint anyway is it so?
+[17 minutes 7 seconds][Agent] : I'm not too sure I can for the same level of cover. I can add your husband on, see what it's going to look like as a couple.
+[17 minutes 15 seconds][Customer] : Well, who is actually, He's got in it.
+[17 minutes 24 seconds][Agent] : Right, right.
+[17 minutes 22 seconds][Customer] : So yeah, The thing is he's quite, he's mobile one day and he's not mobile the next day.
+[17 minutes 35 seconds][Agent] : Right. Now I understand.
+[17 minutes 34 seconds][Customer] : So yeah. So his cover and my cover, I usually we've just always kept it separate.
+[17 minutes 44 seconds][Agent] : Right, Right. OK. OK, Now I understand. All right.
+[17 minutes 50 seconds][Customer] : Yeah. So he's in the studio, that's all. I think as different. I don't think he'd need any other cover. Why probably.
+[17 minutes 53 seconds][Agent] : Yeah, Yeah, Yeah.
+[18 minutes 5 seconds][Customer] : I think he's got covered on one. Haven't you?
+[18 minutes 7 seconds][Agent] : Well, yeah, yeah. That that would be covered on yours as well. And I'll let you know the level of extras that we chose for you. Does also have physiotherapy in there as well.
+[18 minutes 18 seconds][Customer] : OK, so it'd probably be about the same for him. Yeah.
+[18 minutes 19 seconds][Agent] : Yeah, uh, yeah, yeah, depend depending on a, a few, uh, different circumstances, but yeah, but yeah. But I, if you did just wanna look for yourself, we can, we can also do that as well. And then, and then you can sit down with him and say if he wanted to transfer across and save that money as well. That's up to you guys.
+[18 minutes 31 seconds][Customer] : OK, So what do you do? You send out a charge for it.
+[18 minutes 47 seconds][Agent] : Yeah, yeah.
+[18 minutes 47 seconds][Customer] : And then what about the Christmas Does that? Well, I'd have a number anyway if something's happened.
+[18 minutes 47 seconds][Agent] : So, so from when we sign you up, you should receive your membership card in seven to 14 business days with WI with yeah, yeah, we, we'd, we'd give you a, a membership number.
+[19 minutes 3 seconds][Customer] : Yeah.
+[19 minutes 2 seconds][Agent] : So if you did have to make a claim, because like I mentioned, any waiting period you've already served, you won't have to reset with us.
+[19 minutes 11 seconds][Customer] : Yeah.
+[19 minutes 8 seconds][Agent] : So you could claim straight away if you did have those things.
+[19 minutes 12 seconds][Customer] : Oh, well, we don't need to. That's the thing. We're not.
+[19 minutes 14 seconds][Agent] : Yeah, yeah.
+[19 minutes 15 seconds][Customer] : We're not loading anything wrong.
+[19 minutes 15 seconds][Agent] : But yeah, yeah. But no, definitely you're right.
+[19 minutes 22 seconds][Customer] : Yeah.
+[19 minutes 18 seconds][Agent] : You would, you would have a membership number straight away And and you and you could, you can either for claiming process, you can either do that online or if you prefer to talk so to someone over the phone. We do have call centers in New South Wales.
+[19 minutes 33 seconds][Customer] : So what? What? Oh, OK, so it's 500 excess, which Peter's paying anyway.
+[19 minutes 43 seconds][Agent] : OK.
+[19 minutes 42 seconds][Customer] : I'm paying 250.
+[19 minutes 50 seconds][Agent] : Yeah, it's once per person per calendar year.
+[19 minutes 44 seconds][Customer] : So for me, that's once a year, right? Right. I had a colonoscopy this year.
+[19 minutes 52 seconds][Agent] : So if you have to go to hospital multiple times, you don't have to pay it after the first time in that calendar year. Sorry.
+[20 minutes 1 seconds][Customer] : I had a colonoscopy earlier this year. Yeah, but he is having one in January, so he'd have. How would that go with him?
+[20 minutes 1 seconds][Agent] : Oh, OK, right with him. So it's it's once per person per calendar year. So he would he would have to pay that on his pH.
+[20 minutes 19 seconds][Customer] : Yeah, 500.
+[20 minutes 23 seconds][Agent] : Yeah. So he would have to because that that'd be the first time of him going to hospital that year, I assume.
+[20 minutes 29 seconds][Customer] : Yeah. Well, it's just a day day clinic thing.
+[20 minutes 33 seconds][Agent] : Yeah.
+[20 minutes 40 seconds][Customer] : Yeah, OK. It's only as the day. That's it, you know the day clinics they have.
+[20 minutes 33 seconds][Agent] : So if he is admitted into hospital as an inpatient, then he would have to pay that excess, right. Yeah. OK.
+[20 minutes 46 seconds][Customer] : Yeah, So still gotta pay it, We understand that.
+[20 minutes 50 seconds][Agent] : Yeah.
+[20 minutes 51 seconds][Customer] : But then he'd be covered all year anyway, wouldn't he? So.
+[20 minutes 55 seconds][Agent] : Yeah. Then, then after, if he's paid that in January, he won't have to pay that until the next calendar year when he goes again.
+[21 minutes 2 seconds][Customer] : Yes. OK.
+[21 minutes 4 seconds][Agent] : Yeah. So how's all this sounding there for you? Is there any other questions that I could help clear up for you?
+[21 minutes 11 seconds][Customer] : Nope, not really I think. OK, so it's 198.
+[21 minutes 20 seconds][Agent] : Yeah, 19858 a month for for yourself.
+[21 minutes 22 seconds][Customer] : Yeah. OK. And do you go up in right?
+[21 minutes 32 seconds][Agent] : Yeah, Yeah.
+[21 minutes 33 seconds][Customer] : I think yeah.
+[21 minutes 33 seconds][Agent] : So our premium increase, Yeah.
+[21 minutes 42 seconds][Customer] : 1st of April, same as HCS.
+[21 minutes 36 seconds][Agent] : So our premium increase is the due to be set I, I believe the 1st of April, right. OK. Yeah, Yeah. So is this something we'd we'd like to go ahead with today?
+[21 minutes 48 seconds][Customer] : OK, Yeah, why not?
+[21 minutes 57 seconds][Agent] : OK, perfect. Well to go ahead we'll just go through the cover in a little bit more detail and then we can get this set up there for you. So with the hospital cover, you're covered for all Medicare recognised services except for the following. OK, so assisted reproductive services, cosmetic surgery, dialysis for chronic kidney failure, pregnancy and birth weight loss surgery and services not covered by Medicare.
+[22 minutes 24 seconds][Customer] : Mm, hmm.
+[22 minutes 25 seconds][Agent] : OK, the minimum benefits payable. So Mbps hospital psychiatric services, this service is partially covered in hospital and there will be significant out of pocket costs if you want to claim on them.
+[22 minutes 37 seconds][Customer] : Mm hmm.
+[22 minutes 37 seconds][Agent] : Now the standard hospital waiting periods are 12 months of pre-existing conditions, two months of non pre-existing conditions, two months of psychiatric care, rehabilitation or palliative care, even for a pre-existing condition. Now you're living in Queensland. Perfect. So you have an accidental injury benefit, which means if you are injured as a result of an accident and you present to AGP or hospital within 72 hours of the accident, we will cover you for treatment relating to the accident. If you're admitted to hospital as an inpatient within 90 days of the accident, this service has a one day waiting period. Now we went over that excess, so that's payable ones per person per calendar year. Now for your extras, uh, I'll rate out the standard extras waiting periods. It's 12 months of major dental, six months of optical, two months of general dental, physiotherapy, chiropractic, osteopathy, and remedial massage. The benefit limits for these services are so you have a combined $300.00 annual limit for physiotherapy, chiropractic, and osteopathy, a combined $800 annual limit for general and major dental, a $150.00 annual limit for remedial massage, and a $200 annual limit for optical. OK, Now all of these services you can claim up to 60% of the cost up to your annual limit.
+[23 minutes 58 seconds][Customer] : Yeah. So how much is your optical OK?
+[23 minutes 56 seconds][Agent] : OK, now, now optical is $200 annual limit, Perfect. OK. Now I'll explain how the offers it works, the one I was telling you about. So the six weeks free, so if we sign you up today, we set the start date today, the six weeks free will be fulfilled in the third month of your policy. So from the 28th of February 2024, you'll get six weeks free from there. OK, perfect. And the two and six month waivers for extras will be fulfilled after the first payment. So, but if, if there is any, uh, extras waiting periods that you have with the two and six months waiting period, we can waive those ones as well for you. OK, Perfect. OK, So we want to get that set up today.
+[24 minutes 38 seconds][Customer] : Yeah, yeah.
+[24 minutes 43 seconds][Agent] : Perfect. OK, OK, great. Now Tony so we can get you set up, I just need to grab some of your details. I'll also let you know this policy gives you a 30 day cooling off. During which you may cancel your policy and any premium paid will be refunded unless a claim has been made. Now just before I grab those details I do need to make you aware. Real health insurance is distributed by Grandson Financial Services Proprietary Limited GFS. GFS acts as an agent, foreign receives a Commission from the issuer and IB Health Funds Limited. We collect your personal information for the purpose of submitting the application. We will disclose this information to NIB, who may also disclose this to other parties, including those outside of Australia, in order to service the policy. If you do not consent to this, we'll be unable to provide you with cover today. Our privacy Policy in Nib's Privacy Policy includes information about lodging complaints, breaches of privacy and how to gain access and correct your information. At any time you can obtain a copy online or by asking us. We may from time to time provide off this to you in relation to our other products and services. You can opt out of this at any time by contacting us. OK, great, that's all done there now. What was your home address, Jenny?
+[25 minutes 56 seconds][Customer] : 14 to 18, Canipa, CANAITA Court, Logan Village, Queensland, 4207. Yep. Not, not you. It's #14 to 18. Dash 18.
+[26 minutes 11 seconds][Agent] : 4207 so is that unit 14218 to make your call number 14 two dash 18 perfect.
+[26 minutes 26 seconds][Customer] : Yeah.
+[26 minutes 24 seconds][Agent] : OK great.
+[26 minutes 26 seconds][Customer] : Two and half 18.
+[26 minutes 28 seconds][Agent] : Perfect. Oh, that's nice. Must keep you busy in the summer mowing, mowing the lawn.
+[26 minutes 33 seconds][Customer] : No, it doesn't keep me. Keep the garden.
+[26 minutes 38 seconds][Agent] : OK great. Like in village great. Now is that your postal address as well?
+[26 minutes 38 seconds][Customer] : Yeah, yeah.
+[26 minutes 44 seconds][Agent] : Perfect. And can I just put this in for you? OK, great. So can a can April was CANAIPA court.
+[27 minutes 6 seconds][Customer] : Yep, correct.
+[27 minutes 6 seconds][Agent] : Yeah, perfect got that right there. OK now the mobile phone number that I've called today, is that your the best number to contact?
+[27 minutes 21 seconds][Customer] : Yeah, that's my mobile.
+[27 minutes 21 seconds][Agent] : Perfect, Perfect.
+[27 minutes 23 seconds][Customer] : Do you want the phone number? Yes.
+[27 minutes 26 seconds][Agent] : If you'd like me to put it on the profile, I can, but we only do need 11 there, but I can put both on. Yep, Yep.
+[27 minutes 31 seconds][Customer] : OK 07554688638.
+[27 minutes 41 seconds][Agent] : Perfect. OK, And your mobile phone number is 0418830233. Perfect. OK. All right. And what was your e-mail address at gmail.com? Great. OK. Your preferred contact method was that home phone, mobile phone or e-mail. Mobile perfect. OK. And your preferred method of correspondence, was that e-mail or standard mail? Perfect.
+[27 minutes 56 seconds][Customer] : Tony Toni Crosby CROH BY19 ohyeah1949@gmail.com Mobile phone probably standard mail still OK? Yep.
+[28 minutes 32 seconds][Agent] : Yeah, no, definitely. OK, Now I'll just read this information for your e-mail address. So by providing your e-mail address, you can send to receiving emails with information about your cover and membership, which may contain personal sensitive information relating to another on your policy. The e-mail address provided will be used to log in to the online member account, so it should be unique to each person and membership. If the e-mail address is shared with someone else, they'll be able to access your online member account. e-mail communication preferences can be managed from the footer of NRB marketing emails or if you're the policy holder, by calling or chatting with us. OK, great, that's done there for you. OK, perfect. Did you want this one starting today?
+[29 minutes 15 seconds][Customer] : Yeah, not as well.
+[29 minutes 16 seconds][Agent] : Perfect. OK. I'll put that in there. OK, OK. I just applied this offer there correctly for you. OK, now because you're exiting from HCF, I do need to ask, can I confirm you wish for us to contact your previous fund to arrange the cancellation of your existing policy and to gain your transfer certificate? Perfect. OK, Now payments may continue with your previous fund until the transfer process is complete. OK, now did you have your Medicaid card number there?
+[29 minutes 58 seconds][Customer] : Yeah, OK, I do.
+[30 minutes 11 seconds][Agent] : Perfect. I'm ready when you are.
+[30 minutes 13 seconds][Customer] : OK, well, getting it out of my phone.
+[30 minutes 16 seconds][Agent] : That's OK. Take your time. 2113 993 perfect. OK. And the expiry date?
+[30 minutes 18 seconds][Customer] : 2113, 9931 Fi 151 No, I'm number one.
+[30 minutes 33 seconds][Agent] : OK, great. 7/24 OK, great.
+[30 minutes 31 seconds][Customer] : I'm number one on the card 7/7/24 I'm on a page pension 3. Do you have that?
+[30 minutes 45 seconds][Agent] : Perfect. No, that that that's OK.
+[30 minutes 45 seconds][Customer] : Do you?
+[30 minutes 46 seconds][Agent] : We don't we don't need that.
+[30 minutes 47 seconds][Customer] : You don't need that, OK.
+[30 minutes 48 seconds][Agent] : That that's OK. All right, great. I'll Add all that to the policy. Now I just need to read out a series of questions to apply the Australian government rebate there for you. OK, I just need to get a yes or a no off the each one. OK Perfect, so do you agree to have your personal information collected by Real Insurance on behalf of NIB to be used to PR pre populate the rebate application to claim the Australian Government rebate on private health insurance as a reduced premium on your behalf? Perfect. OK can you confirm you're either covered by this policy or pay the premium under this policy? Perfect. OK. Are all policy members entitled to a Medicare card? Perfect. The rebate will be applied from your policy start date, the 22nd of the 12th, 2023. Do you declare that the information that you've provided is complete and correct? Do you understand that giving false and misleading information is a serious offence?
+[31 minutes 19 seconds][Customer] : Yeah, yes, yeah, I do.
+[31 minutes 50 seconds][Agent] : Perfect. OK, sorry, I do just need a yes or no for that one.
+[31 minutes 53 seconds][Customer] : Oh, yes, yeah.
+[31 minutes 54 seconds][Agent] : Perfect. Thank you so much for that. Your application received the Australian Government Rebate on Private Health Insurance as reduced premium is complete. I know that you have made this declaration on today's date, the 22nd of the 12th, 2023. More information about the Australian Government Rebate on Private Health insurance is available at privatehealth.gov dot AU. The privacy and security of your personal information is important to us and it's protected by law. We need to collect this information so we can process and manage your applications and payments and provide services to you. We only share your information with other parties where you have agreed or where law allows or acquires it. For more information, go to servicesaustralia.gov dot AU/ privacy. OK, perfect. That's done there. Now. Did you have your direct direct debit details or your base bank account number?
+[32 minutes 36 seconds][Customer] : OK, Yes, it's 124040.
+[32 minutes 46 seconds][Agent] : Yep, perfect. And the account number?
+[32 minutes 51 seconds][Customer] : That's the BSB, and the account number is 20800397.
+[32 minutes 52 seconds][Agent] : OK, Yep, perfect. OK. And the account name, was that just Tony Crosby?
+[33 minutes 2 seconds][Customer] : No, it's actually Peter Crosby. Tony Crosby.
+[33 minutes 6 seconds][Agent] : Peter Crosby. Tony Crosby. OK.
+[33 minutes 8 seconds][Customer] : Yeah.
+[33 minutes 12 seconds][Agent] : Tony Crosby. Perfect. Now, because that is a joint, a joint account, I do need to ask, do you have full authorization to debit from this account? Perfect. OK. We'll make the start date line up with the first payment. Would that be right? OK, perfect. Now, did you want to use this direct debit account for direct credit of claim payments? So if we pay money back to you, do you want it to go into this account? Yeah.
+[33 minutes 10 seconds][Customer] : 10/2, Yeah, yeah, yeah.
+[33 minutes 39 seconds][Agent] : Perfect. OK, so I'll submit all these details here for you. Yeah, that's perfect. That's that's great. Yeah. I'm so happy we could help you out there.
+[33 minutes 44 seconds][Customer] : So I'm saving $50.00 -, 3 cents -3 cents, Yeah.
+[33 minutes 55 seconds][Agent] : OK, great. I'll just get this last bit of information up. OK, perfect. So I've entered your details into the system and your cover commence as of the 22nd of the 12th, 2023. And now I'm going to read you some information regarding your policy. OK, Tony. OK, so the first little bit of information I'm about to read for you, it explains the first payment. It explains how the it's a little bit higher as it does include an extra day. It covers you up to and including your next payment date as well.
+[34 minutes 23 seconds][Customer] : OK.
+[34 minutes 22 seconds][Agent] : OK, OK, so I'll read these exact details there for you. So you got them all down correctly, OK?
+[34 minutes 29 seconds][Customer] : Now my payment gonna come out of HCF for HCF on the 27th.
+[34 minutes 30 seconds][Agent] : Yeah, right.
+[34 minutes 37 seconds][Customer] : Will you, can you pull that already?
+[34 minutes 38 seconds][Agent] : So, yeah, so we, we cancel your policy with HCF as of the start date that you set with us. So you set it today. So we'll cancel that policy for you.
+[34 minutes 47 seconds][Customer] : OK.
+[34 minutes 46 seconds][Agent] : OK, perfect. And now I'll read this out for you. So real health insurance is underwritten by NIB Health Funds Limited. By agreeing to this direct debit request, you have authorized NIB user ID 643039 to arrange for funds to be debited from your nominated account through the bulk electronic clearing system, BECS. Your first payment amount of $204.99 will be drawn on the 22nd of the 12th 2023 and your regular ongoing payment amount of $198.58 will be taken monthly thereforward. Can you please confirm that this is correct? Perfect. OK, so you'll receive a welcome pack that includes important information about your policy. Please read your documentation carefully. I've listed the waiting periods and benefit limits based on your needs. There are others that do apply on this policy. You'll receive your membership card in seven to 14 business days. OK, I you'll have access to. Sorry.
+[35 minutes 22 seconds][Customer] : Yeah, so sorry. When? Yeah, gone. Keep going Cos you keep reading out.
+[35 minutes 49 seconds][Agent] : That's OK. So you, you have access to our online services to process claims and make updates to your policy.
+[35 minutes 55 seconds][Customer] : You can.
+[35 minutes 55 seconds][Agent] : So did you have a question there?
+[35 minutes 58 seconds][Customer] : Yeah, You said we get six weeks free. So when does that kick in?
+[36 minutes 2 seconds][Agent] : Yeah, so, so I, I did mention that before. So the six weeks free will be fulfilled in the third month of your policy.
+[36 minutes 9 seconds][Customer] : OK.
+[36 minutes 8 seconds][Agent] : So on the 20th, on the 28th of February 2024, you'll get six weeks free from there.
+[36 minutes 15 seconds][Customer] : OK, cool.
+[36 minutes 14 seconds][Agent] : OK, yeah, great. Now, did you have a pen and paper there? Tony, I can let you know your member number. OK, So let me know when you're ready.
+[36 minutes 21 seconds][Customer] : Yep, I'm ready.
+[36 minutes 25 seconds][Agent] : Perfect.
+[36 minutes 30 seconds][Customer] : Yep, 5696.
+[36 minutes 26 seconds][Agent] : So 6206, 5696, Yeah. Perfect. Now, last thing, Tony, before you wrap up there, do you wish to add an authority to a third party who'll be able to act on your behalf in the event you're unable to?
+[36 minutes 50 seconds][Customer] : Well, I suppose who would IA? Who would I?
+[36 minutes 52 seconds][Agent] : OK, That's up to.
+[36 minutes 55 seconds][Customer] : Your husband?
+[36 minutes 56 seconds][Agent] : Yeah, that's up to you. We can add your husband on as an authorized party if you'd like. That's up to you.
+[37 minutes 1 seconds][Customer] : OK.
+[37 minutes 4 seconds][Agent] : Perfect. So Peter Crosby and his date of birth, 58535853. Perfect.
+[37 minutes 3 seconds][Customer] : Peter, 5853 So it's real insurance, isn't it?
+[37 minutes 17 seconds][Agent] : Yeah, that's correct. Yeah.
+[37 minutes 19 seconds][Customer] : OK.
+[37 minutes 20 seconds][Agent] : Did you want that to become effective as of today for Peter? Yep.
+[37 minutes 24 seconds][Customer] : Yeah, might as well.
+[37 minutes 25 seconds][Agent] : OK. And he lived in the same address, 14 to 18, Kanapa Court, Logan Village, 4207. Perfect. I'll put that in.
+[37 minutes 29 seconds][Customer] : Yeah, yes, you too.
+[37 minutes 39 seconds][Agent] : OK, just put this in. OK, great. Now please confirm the type of consent you would like to provide from the following list. So number one is authority to inquire only #2 is authority to operate. This will enable them to do everything on the policy that you can except cancel. Yes, to number 2. Was it? Perfect? Thank you for that. OK, so now do you Tony, give consent to Peter on this policy for the authority to operate now and in the future?
+[38 minutes 10 seconds][Customer] : Yeah, yes, yes.
+[38 minutes 24 seconds][Agent] : Perfect. OK, He's been added as an authorised person then. Now that's all done there for you Tony. OK. If there's anything else we can help with or you have any further questions, don't hesitate to give us a call. We'll be more than happy to help you out there.
+[38 minutes 39 seconds][Customer] : OK. Thank you.
+[38 minutes 39 seconds][Agent] : OK, Well, I'm so happy we could help you out there and save that money there. But yeah, like I mentioned, feel free to give us a call if you have any queries, OK?
+[38 minutes 47 seconds][Customer] : Do you wanna I'll just talk to Peter to see if he wants to go across.
+[38 minutes 55 seconds][Agent] : OK.
+[38 minutes 55 seconds][Customer] : Is that alright?
+[38 minutes 55 seconds][Agent] : Yeah, yeah, no worries at all there. No worries. Take your time. OK.
+[38 minutes 58 seconds][Customer] : OK, well one thing one now he was paying 500 excess and it was only 2315095 S probably, yeah, he was gonna go across and pay 250. So it would have been he'd be saving $550 like I would, I think.
+[39 minutes 28 seconds][Agent] : So, so he has the $500 excess at the moment, is that right?
+[39 minutes 33 seconds][Customer] : Yeah, he does. But he did. He rang them and changed to the 250.
+[39 minutes 44 seconds][Agent] : Right.
+[39 minutes 44 seconds][Customer] : So can I just ask as a question, We do.
+[39 minutes 52 seconds][Agent] : Yeah.
+[39 minutes 47 seconds][Customer] : Do we have a waiting of cooling off before coming across how long?
+[39 minutes 52 seconds][Agent] : So yes, I mentioned you have a 30 day cooling off.
+[39 minutes 58 seconds][Customer] : OK. But do we have to wait to use, how long do we have to wait before we can use real insurance like I?
+[40 minutes 10 seconds][Agent] : Sorry. OK.
+[40 minutes 12 seconds][Customer] : OK, So the as I said, he was having a colonoscopy in January. Would that be covered?
+[40 minutes 20 seconds][Agent] : Yeah, Yeah. So like I mentioned, any waiting period that Peter's already served with HCF, he won't have to reserve with us. So he'll be able to claim on that as soon as we receive the whole transfer certificate and everything like that.
+[40 minutes 25 seconds][Customer] : Yeah, Yeah, OK.
+[40 minutes 33 seconds][Agent] : Yeah, so did you wanna, did you wanna talk to him, uh, and then call back or did you wanna keep me on the phone and, and go through it with him?
+[40 minutes 46 seconds][Customer] : Could you call back shortly?
+[40 minutes 49 seconds][Agent] : Yeah, of course I can, I can give you a call.
+[40 minutes 51 seconds][Customer] : OK.
+[40 minutes 51 seconds][Agent] : Call back. Uh, I'll just have to, I'll just create a profile, uh, under Peter's name. How about that? OK, I'm just won't be a second.
+[40 minutes 56 seconds][Customer] : Yeah, yeah, I've found you're right.
+[41 minutes 1 seconds][Agent] : Just bear with me, OK?
+[41 minutes 8 seconds][Customer] : 198 reel insurance, I don't see it. Self cover like HCS will be 100 and 9868.
+[41 minutes 23 seconds][Agent] : OK. So Peter Crosby and what was his date of birth? Sorry, 5853. Perfect. OK, and was your phone number the best to use to get in contact for now or did you want me to call him on his mobile? Sorry, can you just repeat that for me? So 0417?
+[41 minutes 27 seconds][Customer] : 5853 Peter 4/4 on 0417 718393 718313.
+[42 minutes][Agent] : Yep, 393. Perfect. OK, I'll give Peter a call. When would be best time to give Peter a call for this one?
+[42 minutes 15 seconds][Customer] : No, Well, I can't. OK, If you've got to go and have a coffee or something like that and maybe give him a call, I'll just explain to him.
+[42 minutes 29 seconds][Agent] : Yeah, that's OK. I can speak to you on his behalf as well if that's easier. It's up to you guys.
+[42 minutes 38 seconds][Customer] : OK, We'll come and talk. He can give you permission. Yeah, well, well, we'd be getting the same benefits. I think we would. I think you said there'd be CTOS covered as well.
+[42 minutes 54 seconds][Agent] : Yeah. So if we're, if we're looking at the same level of cover, of course you, you would have the same benefits there.
+[43 minutes][Customer] : Yeah.
+[43 minutes 2 seconds][Agent] : Yeah. And you do also have the option if you did want to add him onto your one and have a couple's policy, that's up to you guys.
+[43 minutes 10 seconds][Customer] : And what would the couple's policy cost?
+[43 minutes 13 seconds][Agent] : I'm not exactly sure. I can definitely transfer you to the services team and see if you would upgrade to a couple's policy. They can see what that price would be for you. Did you want me to do that?
+[43 minutes 29 seconds][Customer] : If we're gonna save money, yes. But if we want, we'll leave it the way it is. Yeah. Alright.
+[43 minutes 31 seconds][Agent] : OK, alright, OK. Well how about I transfer you over and you can see if you want to add add Peter on to your policy that we just set up there.
+[43 minutes 45 seconds][Customer] : OK.
+[43 minutes 44 seconds][Agent] : OK, perfect.
+[43 minutes 46 seconds][Customer] : Thank you.
+[43 minutes 46 seconds][Agent] : No worries at all. Lovely talking to you Tony.
+[43 minutes 49 seconds][Customer] : Thank you. Yep.
+[43 minutes 49 seconds][Agent] : I'll just put you on a short hold and transfer you over.
+[43 minutes 53 seconds][Customer] : OK, thank you.
+[43 minutes 52 seconds][Agent] : OK, perfect. No worries. OK.
+[44 minutes 8 seconds][Customer] : Please be advised that your call will be recorded.
+[44 minutes 10 seconds][Agent] : Thank you so much. Thanks. Thanks for having us in the New Year as well for you that you know that's your retirement. Thank you. Bye.

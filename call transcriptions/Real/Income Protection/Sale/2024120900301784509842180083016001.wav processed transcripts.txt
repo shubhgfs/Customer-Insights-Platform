@@ -1,0 +1,18 @@
+[1 seconds][Agent] : Lee, thank you so much for holding.
+[3 seconds][Customer] : You're right.
+[4 seconds][Agent] : I have Mitchell on the line and he'll be able to assist you from here now. Mitchell. Lee has confirmed all details as well.
+[10 seconds][Customer] : Can I just leave the beneficiary for the moment?
+[9 seconds][Agent] : Yeah, of course you can do that. Did you still want to ask questions about the life insurance with Mitchell?
+[15 seconds][Customer] : Yeah, No, no, that's fine.
+[18 seconds][Agent] : No. OK. Yep. No, that's alright. Not a problem at all. You're more than.
+[20 seconds][Customer] : I need to get some now.
+[22 seconds][Agent] : Yeah. No, that's OK. Not a problem, Mitchell. We're all done. Sorry about that. All good. Thank you. You take care.
+[21 seconds][Customer] : Yeah, Sorry.
+[28 seconds][Agent] : Have a lovely day, Lee.
+[30 seconds][Customer] : Thank you.
+[29 seconds][Agent] : Thank you, At least.
+[32 seconds][Customer] : Sorry about that.
+[31 seconds][Agent] : So you're gonna receive all the. No, that's OK. You're gonna receive all the documentation. Umm. So you're more than welcome to give us a call to add beneficiaries on as well.
+[38 seconds][Customer] : OK, thank you.
+[40 seconds][Agent] : That's all right. You're welcome. Thankfully. Take care. Bye.
+[42 seconds][Customer] : OK, thank you. Bye.

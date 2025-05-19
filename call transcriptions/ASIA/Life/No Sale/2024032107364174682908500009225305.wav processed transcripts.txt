@@ -1,0 +1,101 @@
+[2 seconds][Agent] : Welcome to Australian Insurance. You're speaking with Groupa. How can I help?
+[6 seconds][Customer] : Hello Kubai, it's Kenneth 18. How are you?
+[10 seconds][Agent] : Yeah, I'm doing well. Thanks. How are you?
+[12 seconds][Customer] : I'm good. I got funeral insurance for myself and Fabiola.
+[18 seconds][Agent] : OK, Yeah.
+[15 seconds][Customer] : I was just thinking of taking life insurance for myself and Fabiola for 200,000. What could it cost me, please?
+[27 seconds][Agent] : Yeah, no worries. I can take you through that. So just to let you know, first, all of our calls are recorded.
+[33 seconds][Customer] : Yes, Sir.
+[32 seconds][Agent] : Any advice that providers general in nature may not be suitable to your situation? Could I just confirm what was your date of birth as well?
+[37 seconds][Customer] : OK, 27459.
+[42 seconds][Agent] : Yep. Perfect.
+[45 seconds][Customer] : Yes.
+[43 seconds][Agent] : Then you're a male Australian resident, No worries. And again, all calls are recorded. But what I'll do there for you, Kenneth, really quickly, just explain how the life insurance works and then we'll hop into some quotes for you.
+[54 seconds][Customer] : OK, OK.
+[56 seconds][Agent] : Yeah, yourself and your partner there.
+[58 seconds][Customer] : Thank you.
+[58 seconds][Agent] : And feel free to ask any questions along the way there if you think of any.
+[1 minutes 1 seconds][Customer] : OK, thank you. Thank you.
+[1 minutes 2 seconds][Agent] : Yeah, no worries. But are you mainly looking to just protect your wife with the life insurance, leave some money behind if something was to happen?
+[1 minutes 8 seconds][Customer] : Yeah, Yes.
+[1 minutes 10 seconds][Agent] : Yeah, no worries. Yeah, well, that's exactly what the cover is designed to do. So again, all calls recorded. Any advice? Providers general in nature may not be suitable to your situation. Yeah, but that's what the cover is designed to do. So provides a lump sum payment of up to $200,000.
+[1 minutes 10 seconds][Customer] : Yes, yes, yes, yes, yes.
+[1 minutes 26 seconds][Agent] : It goes to whoever you nominated as your beneficiaries if you would have passed away before your 85th birthday when the policy ends. So if you were to pass away due to an accident, we'd pay out triple your benefit amount to your beneficiaries. Yeah.
+[1 minutes 40 seconds][Customer] : OK, OK. Well, that's good.
+[1 minutes 41 seconds][Agent] : So if you had 200,000 be paid out of 600,000, Yeah. Also included is a 20% advance payment for funeral expenses or any other final expenses.
+[1 minutes 52 seconds][Customer] : Yes, yes.
+[1 minutes 52 seconds][Agent] : So 20% of that $200,000 for example, could be used for funeral expenses so your family isn't stressing about that money. And to apply for this one, we take you through about 8 yes or no questions over the phone.
+[1 minutes 59 seconds][Customer] : OK, OK, OK, OK.
+[2 minutes 6 seconds][Agent] : There's no medical checks or blood tests required, so you don't need to go to the doctor's. Yeah. Now, if you are accepted and once you decide to commence the policy, you'll be covered immediately for death due to any cause except for suicide in the 1st 13 months. And yeah, in addition, there is a terminally ill advanced payment as well, which means if you were diagnosed with 24 months or less to live by medi, by specialized medical practitioner, we can pay your benefit amount in full while you're still living.
+[2 minutes 18 seconds][Customer] : O OK, OK, just a minute. Just a minute, just a minute. Just a minute. Sorry, didn't hear me.
+[2 minutes 42 seconds][Agent] : Anyway, so again, terminal your advance payment, if you were diagnosed with 24 months or less to live by a specialised medical practitioner, we can pay your benefit amount in full while you're still living. So you can use that money on medical expenses, get the best care possible or whatever you need there. Yeah. Now any questions so far? They Kenneth or pretty straightforward.
+[2 minutes 56 seconds][Customer] : OK, thank you.
+[3 minutes 3 seconds][Agent] : Yeah, no worries. And you're looking into a joint cover. Were you with you and your wife?
+[3 minutes 1 seconds][Customer] : No, no, pretty safe, but maybe just for me, maybe my depending on what it cost.
+[3 minutes 12 seconds][Agent] : Yeah. Do you want to go through a quote with just yourself 1st and then see how it's sounding?
+[3 minutes 17 seconds][Customer] : OK, OK, thank you.
+[3 minutes 18 seconds][Agent] : Yeah, no worries. So have you had a cigarette in the last 12 months?
+[3 minutes 23 seconds][Customer] : No.
+[3 minutes 24 seconds][Agent] : OK, perfect. And you wanted the 200,000, is that right? You can choose between 10,000 up to 200,000. Where did you want to start 200,000 No worries.
+[3 minutes 31 seconds][Customer] : 200,000 yeah.
+[3 minutes 34 seconds][Agent] : So that one there would come in at a fortnightly premium. So every two weeks of $272.48 a fortnight, is that affordable at that level? They can it to provide that protection for your wife or what do you think? 100 days Let's have a look. So that one would bring it down to $136.24 a fortnight, is that sounding suitable and affordable to provide that protection? What do you think?
+[3 minutes 42 seconds][Customer] : Oh no, no, not really making 100,000 and see how once it comes, I'd like to discuss with my wife. It is quite a lot of money.
+[4 minutes 4 seconds][Agent] : Yeah, that's yeah, of course. Is it sounding like it would fit in your budget or do you want to have a look at another while we while we've got me or what do you think?
+[4 minutes 13 seconds][Customer] : No, no, I have to discuss with my.
+[4 minutes 16 seconds][Agent] : Yeah, yeah, of course.
+[4 minutes 25 seconds][Customer] : No, I'm looking at the 100,000.
+[4 minutes 17 seconds][Agent] : Are you, are you more so leaning towards the 100,000 or did you want to have a look at a few more quotes while you've got me the 100,000? No ways. Yeah, Have a chat with your wife about it, see how she feels about it as well. Now, I'll also let you know there, Kenneth, your premium is stepped, which means it will increase each year. And as an indication, if you make no changes to the policy, your premium next year will be $145.78 a fortnight. So, yeah, roughly about a $10 difference there, roughly.
+[4 minutes 33 seconds][Customer] : OK, OK, OK, OK. Thank you.
+[4 minutes 54 seconds][Agent] : You can also find information about our premium instructional website. The one more thing here I'm going to do there for you, Kenneth, just before I let you go, is take you through those health and lifestyle questions, those eight yes or no ones.
+[5 minutes 6 seconds][Customer] : OK. OK.
+[5 minutes 5 seconds][Agent] : What that does is it just sees if we're eligible for the cover, just make sure you're approved. And then if you do have a chat with your wife and she's happy for you to go ahead with it. Yeah, you can just go straight ahead. You know that you've been approved for it then.
+[5 minutes 19 seconds][Customer] : OK. Thank you.
+[5 minutes 19 seconds][Agent] : So I'm just going to read out this little thing here quickly and then we'll hop into those questions. Won't take too long. This one just outlines how to answer the questions and a few other little things.
+[5 minutes 25 seconds][Customer] : OK, OK.
+[5 minutes 29 seconds][Agent] : So it just says. Please be aware all calls are recorded for quality monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breach of the privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you any provide honest, accurate and complete answers. You need to answer each question in full. Even if you have provided some information to us in any early discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty? Kenneth?
+[6 minutes 27 seconds][Customer] : Yes.
+[6 minutes 28 seconds][Agent] : Yep. Perfect. And 1st question, have you been hospitalised for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Sorry Kenneth. No. OK, perfect. And in the you've never had it. Beautiful. And next one is in the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke? OK. And in the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia is the only conditions?
+[6 minutes 34 seconds][Customer] : No, No, No, no, No, no, no, no, no.
+[7 minutes 5 seconds][Agent] : In the last five years, have you been diagnosed with or treated for any of the following cancers, lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? And do you have a renal kidney condition that currently requires dialysis or transplant or a doctor has advised will be required in the future? And next one, do you have a liver condition that will require a transplant in the future? And have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease? And in the last five years, have you attempted suicide or been hospitalised for your mental health condition? And last one, are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to live?
+[7 minutes 22 seconds][Customer] : No, no, no, no, no, no.
+[8 minutes 15 seconds][Agent] : No, Perfect. That's all the questions there, Kenneth. Are you happy with all the answers?
+[8 minutes 20 seconds][Customer] : Yeah, but you're not pretty expensive. I used to pay like $150,150.00 a month for joint cover.
+[8 minutes 31 seconds][Agent] : You want to you want to see how much it is per month for 150,000 joint. What did you say to it? Just cut it out.
+[8 minutes 37 seconds][Customer] : 100,000 no. That's like you should charge me $150.00 for most of our insurance.
+[8 minutes 45 seconds][Agent] : You want to see what it's like if you're yeah for 150 a month with both of you on it.
+[8 minutes 51 seconds][Customer] : Yes, yes, yes.
+[8 minutes 52 seconds][Agent] : OK. What was your wife's first name and surname and date of birth? Yep. And she was a female Australian resident?
+[8 minutes 55 seconds][Customer] : Fabiola 181861 Yes.
+[9 minutes 6 seconds][Agent] : Yep, no worries.
+[9 minutes 13 seconds][Customer] : A month. A month?
+[9 minutes 7 seconds][Agent] : And so you want the premium to be around $150.00 a fortnight or a month, OK. And you want both of you to have the same level of cover, is that right?
+[9 minutes 20 seconds][Customer] : Yeah, I did.
+[9 minutes 20 seconds][Agent] : Yep. So has she had a cigarette in the last 12 months?
+[9 minutes 24 seconds][Customer] : He doesn't smoke, doesn't think there's no anything.
+[9 minutes 27 seconds][Agent] : In the last 12 months has she had a cigarette?
+[9 minutes 30 seconds][Customer] : No.
+[9 minutes 33 seconds][Agent] : OK, So just to give you an idea, a quote for you both at 100,000 would be a monthly premium of $473.61 a month. Now as we bring it down to one second, OK, So for $30,000 of cover each, it would come to $142.09 a month.
+[10 minutes 8 seconds][Customer] : OK.
+[10 minutes 8 seconds][Agent] : And if we drop it down to to 20,000 each, it would be $94.72 a month.
+[10 minutes 21 seconds][Customer] : Yes.
+[10 minutes 16 seconds][Agent] : So either the 30,000 or the 20,000 sounding like they'd be suitable and affordable there, Kenneth, for you and Fabiola.
+[10 minutes 22 seconds][Customer] : Tell me I will be suitable when I couldn't discuss with them, right.
+[10 minutes 25 seconds][Agent] : Yeah, of course you got to have a chat with her.
+[10 minutes 31 seconds][Customer] : Yes, both of them. Both.
+[10 minutes 27 seconds][Agent] : Would you be leaning more towards both of you having cover or just yourself at around the one both of us. So you'd prefer 30,000 each than just 100,000 of yourself?
+[10 minutes 36 seconds][Customer] : Yes.
+[10 minutes 37 seconds][Agent] : Yeah, no worries.
+[10 minutes 37 seconds][Customer] : Yes.
+[10 minutes 38 seconds][Agent] : So what I'll do there Kenneth, so you can have a chat with Fabio.
+[10 minutes 46 seconds][Customer] : OK, thanks. OK, thanks.
+[10 minutes 41 seconds][Agent] : I'll send out this one to your e-mail at k.atkins@vtown.com dot AU and then I'll give you a call back. Would you have a chat with her today? Would you have a chance to? OK. You have a chat with her tomorrow? No worries. So what I'll do then? Can I?
+[10 minutes 54 seconds][Customer] : No, it's going to work today, tomorrow, tonight.
+[10 minutes 59 seconds][Agent] : I'll skip. Yeah. No worries.
+[10 minutes 59 seconds][Customer] : Talk to you tomorrow, you guys talk to you Monday.
+[11 minutes 3 seconds][Agent] : Yeah. I'll give you a call around the same time on Monday, then. And if you both liked it, we can. Yeah. Figure out a time to get Fabiola through those questions as well.
+[11 minutes 13 seconds][Customer] : OK.
+[11 minutes 13 seconds][Agent] : N.
+[11 minutes 13 seconds][Customer] : Thank you.
+[11 minutes 14 seconds][Agent] : No worries. Thanks, Kenneth. I'll speak to you on Monday.
+[11 minutes 17 seconds][Customer] : Thank you. Bye.
+[11 minutes 18 seconds][Agent] : Cheers. Bye.

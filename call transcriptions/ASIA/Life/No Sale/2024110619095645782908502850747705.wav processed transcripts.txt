@@ -1,0 +1,134 @@
+[5 seconds][Customer] : Hello.
+[6 seconds][Agent] : Hi, I think it's Tim calling from the Australian Seniors Insurance Agency. How you doing today?
+[12 seconds][Customer] : I'm good. How are you? That's good.
+[14 seconds][Agent] : I'm very well, thanks for asking The reason for my call, I can see that you're on our website just a moment ago there looking into the life coverage.
+[21 seconds][Customer] : I was. OK.
+[20 seconds][Agent] : So I'm calling to take you through the information regards to that and also answer any questions you might have.
+[27 seconds][Customer] : OK. Yes, But it is.
+[28 seconds][Agent] : I'll just confirm it's think that I'm speaking with date of birth, 11th of December 68.
+[32 seconds][Customer] : Yeah, yes.
+[38 seconds][Agent] : Perfect. And just confirming you are of course a female Australian restaurant.
+[36 seconds][Customer] : Yep I am. Yes I am.
+[44 seconds][Agent] : Excellent. Just pleasing that our calls are recorded and any advice we provide is general in nature and may not be may not be suitable for your situation.
+[43 seconds][Customer] : Yeah, Yep, Yep.
+[54 seconds][Agent] : If you don't mind me asking, what's stocked the interest up into the life coverage?
+[59 seconds][Customer] : I'm about to do a self managed Superfund, so I'll lose my superannuation insurance through my super company.
+[1 minutes 2 seconds][Agent] : Yep, Yep.
+[1 minutes 7 seconds][Customer] : So I figured I might as well have something that'll keep me covered while I do my own super. Yeah. Manage my own super fund. That's yeah, I'm just keeping my insurance going, that's all.
+[1 minutes 14 seconds][Agent] : OK, all right, no problem, no problem.
+[1 minutes 21 seconds][Customer] : Yeah.
+[1 minutes 20 seconds][Agent] : All right, well, look what I'll do. I'll explain to you how ours works.
+[1 minutes 23 seconds][Customer] : Yeah. OK.
+[1 minutes 23 seconds][Agent] : We can run through the pricing and if you've got any questions along the way, just stop me.
+[1 minutes 28 seconds][Customer] : Yep, Yep. No worries. Yeah.
+[1 minutes 27 seconds][Agent] : OK, So I'll let you know. Firstly, it is very simple and how the life coverage works.
+[1 minutes 35 seconds][Customer] : Yep, Yep, Yep.
+[1 minutes 34 seconds][Agent] : So at the end of the day, it's designed to provide financial protection for your loved ones in the event that touch with something was happening to yourself.
+[1 minutes 42 seconds][Customer] : Yep. Yep.
+[1 minutes 43 seconds][Agent] : Now the way that we do that through a lump sum payment of between $10,000 up to $200,000 depending on your personal needs. But with the coverage as well, it does also include an accidental death benefits.
+[1 minutes 51 seconds][Customer] : OK, Yep, Yep, Yep.
+[1 minutes 56 seconds][Agent] : So because accidents also unexpected and potentially very sudden, we understand there could always be other costs left behind for your loved ones. You know, things like unpaid bills. So we'll pay out a three times benefit in the event of an accidental death just to make sure that any additional expenses that come up can be taken care of as well.
+[2 minutes 13 seconds][Customer] : Yeah, OK, great.
+[2 minutes 16 seconds][Agent] : Policy does also include a terminally ill advanced payment, which means if you were diagnosed with a terminal illness with 12 months, 12 months or less to live by a specialized medical practitioner, we'll pay out the claim in full in that situation so that you can get the best medical care or anything else you might need as well.
+[2 minutes 34 seconds][Customer] : OK, Wonderful.
+[2 minutes 35 seconds][Agent] : Sorry.
+[2 minutes 39 seconds][Customer] : Yep. Yep.
+[2 minutes 36 seconds][Agent] : So it's if you were diagnosed with 24 months or less to live by a specialized medical practitioner, we'll pay the claim in full. Now, the coverage, it's not a guaranteed acceptance. Not everyone is eligible for it. Now, we don't expect you to go through any medical checks, no blood tests, nothing like that.
+[2 minutes 47 seconds][Customer] : Yep, Yep. OK.
+[2 minutes 51 seconds][Agent] : Instead, we just take you through some health questions over the phone.
+[2 minutes 55 seconds][Customer] : Yep.
+[2 minutes 55 seconds][Agent] : And then if you are accepted and once you decide to commence the policy, you'll be covered immediately for that due to any cause.
+[2 minutes 55 seconds][Customer] : OK, OK.
+[3 minutes 1 seconds][Agent] : The only thing not covered is suicide in the 1st 13 months.
+[3 minutes 5 seconds][Customer] : Yep, no worries. OK.
+[3 minutes 7 seconds][Agent] : Now we'll run through the pricing here. Can I just ask, firstly, have you had a cigarette in the last 12 months? Perfect.
+[3 minutes 13 seconds][Customer] : No, no, I think I think 200,000.
+[3 minutes 15 seconds][Agent] : And how much you're actually looking to cover yourself for two 100,000?
+[3 minutes 22 seconds][Customer] : Yep, Yep.
+[3 minutes 22 seconds][Agent] : OK, look, I'll start there. But we can look at as many different amounts as you'd like.
+[3 minutes 27 seconds][Customer] : OK.
+[3 minutes 27 seconds][Agent] : If we're looking at $200,000 live coverage, which will include the $200,000 terminals, which over the 600,000 and you meant for accidental death, all up for that, you're looking at a fortnightly premium of $102.56.
+[3 minutes 35 seconds][Customer] : Yeah, fortnightly. OK. Yeah. Bye.
+[3 minutes 47 seconds][Agent] : OK, So that's for $200,000 coverage there. How does that sound to yourself? Did you want to look at any other amounts?
+[3 minutes 50 seconds][Customer] : Yeah, Yeah, I might look less actually. That sounds a bit high.
+[3 minutes 57 seconds][Agent] : OK.
+[3 minutes 57 seconds][Customer] : Can I? Yeah, let's do that, Yeah.
+[3 minutes 57 seconds][Agent] : How about we look at say 100,000, No problem and I'll let you know as well.
+[4 minutes 5 seconds][Customer] : Oh, good. OK.
+[4 minutes 2 seconds][Agent] : If in the future you want to increase it, you can always give us a call and apply to take an extra coverage, just subject to eligibility at the time.
+[4 minutes 8 seconds][Customer] : Yeah, that's good. Sounds good. Yep. Yep.
+[4 minutes 9 seconds][Agent] : If we dropped it to 100,000, that'll bring it down.
+[4 minutes 15 seconds][Customer] : Yep. Yep. Yep, Yep.
+[4 minutes 12 seconds][Agent] : So that'll bring it down to the 100,000 terminals and we'll triple the 300,000 and it'll bring it down to fortnightly $51.28.
+[4 minutes 22 seconds][Customer] : Perfect. That sounds good. Yep, Yep.
+[4 minutes 24 seconds][Agent] : No problem. Well, I'll take you through the health questions based on that and we'll see if you're eligible for it. Just before I do that, did you have any questions for me so far?
+[4 minutes 32 seconds][Customer] : No, no. All good so far.
+[4 minutes 31 seconds][Agent] : No problem, all good. I'll come to these health questions. I'm just going to read you a pre underwriting disclosure just frames up how to answer the questions.
+[4 minutes 38 seconds][Customer] : OK, alright. Thank you.
+[4 minutes 40 seconds][Agent] : So it just reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes issued covering other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy.
+[5 minutes 6 seconds][Customer] : Mm, Hmm.
+[5 minutes 6 seconds][Agent] : By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question full.
+[5 minutes 15 seconds][Customer] : Yep, OK.
+[5 minutes 23 seconds][Agent] : Even if you have provided some information to us in any earlier discussions you've had, if you do not take reasonable care, you may breach your duty. And if this happens, sure, sure may be entitled to cancel your policy, decline or claim or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty?
+[5 minutes 40 seconds][Customer] : Yes, I do. Yep.
+[5 minutes 39 seconds][Agent] : Yeah, perfect. The first question for yourself is just in regards to the pandemic. So just have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[5 minutes 52 seconds][Customer] : No.
+[5 minutes 54 seconds][Agent] : Perfect. In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke?
+[6 minutes 2 seconds][Customer] : Sorry, say that question again.
+[6 minutes 4 seconds][Agent] : Yeah, no problem, sorry. So in the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke?
+[6 minutes 12 seconds][Customer] : No, but I had a ruptured aneurysm.
+[6 minutes 15 seconds][Agent] : That that's fine. As long as it's not one of those conditions that I just mentioned, that's completely fine.
+[6 minutes 19 seconds][Customer] : No, No, it's not. No.
+[6 minutes 22 seconds][Agent] : That's fine. In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumoniasy only conditions? Uh, in the last five years, have you been diagnosed with or treated for any of the following cancer? So lung cancer, cancer if the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs Or are you currently assumed to be treated with chemotherapy?
+[6 minutes 29 seconds][Customer] : No, no, I have had cancer. Yes. Just just over five years.
+[6 minutes 52 seconds][Agent] : Yeah, yeah. Uh, if, uh, so this is just asking in the last five years.
+[6 minutes 56 seconds][Customer] : In the last five years. Oh, I guess the answer is no for that.
+[7 minutes 2 seconds][Agent] : No problem.
+[7 minutes 1 seconds][Customer] : Within five years. Yep.
+[7 minutes 3 seconds][Agent] : No, that's fine then. And you know currently or soon to be treated with chemotherapy, No, perfect, that's fine then. Do you have a renal so kidney condition that currently requires dialysis of transplant or a doctor's advice will be required in the future? Do you have a liver condition that will require transplant in the future?
+[7 minutes 7 seconds][Customer] : No, No, no, no, no, no, no.
+[7 minutes 25 seconds][Agent] : Have you been diagnosed with or currently undergoing testing for us or provides you'd be tested for motor neuron disease or any form of dementia including Alzheimer's disease in the last five years. Have you attempted suicide or been hospitalized from mental health condition? No and are you experiencing any unexplained symptoms or are you currently undergoing or waiting for results? Any health related tests or investigations or been diagnosed as having 12 months or less to live.
+[7 minutes 33 seconds][Customer] : No, no, no.
+[7 minutes 53 seconds][Agent] : Perfect, That's the last question. So I'll get this sent off. It should just take a moment to come back. Umm, just while we are waiting for come back, I'll just let you know. Just, uh, please be aware that your premium is step, which means it will increase each year. Umm, as an indication, if you do keep it at the same level of cover though, and you make no changes, so next year premium would go up to $54.87. So it's about a three and $0.87. So it's about a $3 increase. Umm, you can also find information about our premium structure on our website.
+[8 minutes 17 seconds][Customer] : OK, OK. Yeah.
+[8 minutes 20 seconds][Agent] : OK, perfect. Now this has come back here and a big congratulations. You have been fully approved for life coverage. The best thing is based on those health and lifestyle questions there, there's been no changes.
+[8 minutes 32 seconds][Customer] : OK, good.
+[8 minutes 32 seconds][Agent] : So very, very good news. I'll let you know what we do for you. So to make sure you're happy with it all, what we do is we organize to have all the policy documents sent out for you today so you can sit down, go through all, make sure it's going to be the right fit for yourself. You'll get an e-mail copy of the documents within the next hour and a post a copy within two to five business days.
+[8 minutes 50 seconds][Customer] : OK.
+[8 minutes 50 seconds][Agent] : We'll cover you while you're looking through the documents, but you're not required to make any payments day. All we do today is we nominate a preferred payment method and we let you select a payment day in the future you're comfortable and happy with to give yourself time to go through everything.
+[9 minutes 2 seconds][Customer] : Yeah, OK. Yeah, that's right.
+[9 minutes 2 seconds][Agent] : OK, I'll double check the e-mail address ivegothereivegotitassimcard.dacic@bigpond.com and I can see you did some pet insurance with us in the past. I've got a postal address here, 7 Bernard St.
+[9 minutes 12 seconds][Customer] : Yeah, I have been up straight. Yeah.
+[9 minutes 20 seconds][Agent] : Doreen.
+[9 minutes 21 seconds][Customer] : That's us. Yeah.
+[9 minutes 21 seconds][Agent] : Yep, Victoria.
+[9 minutes 23 seconds][Customer] : Yeah. Yeah.
+[9 minutes 22 seconds][Agent] : That's still at that address and that's in Victoria.
+[9 minutes 24 seconds][Customer] : Yeah, it is. Yes, Yeah.
+[9 minutes 28 seconds][Agent] : Perfect. And your best contact I'm leaving on the file just 0427137308.
+[9 minutes 34 seconds][Customer] : Yep. Perfect. Yep.
+[9 minutes 35 seconds][Agent] : Perfect. Alright, so as I said, so we don't collect any payments today, but we do link it with a preferred payment method. So just before I do that as well, I'll just let you know the policy will cover you if you pass away at any point before your 85th birthday, which is when the policy ends.
+[9 minutes 50 seconds][Customer] : Mm. Hmm. Yep.
+[9 minutes 49 seconds][Agent] : OK, no problem. Now as I said, so we don't collect any payments today, we just link over the preferred payment method that you select the payment date in the future. What would you prefer to put down?
+[10 minutes 6 seconds][Customer] : Probably a BSB account number.
+[10 minutes 2 seconds][Agent] : We can either do a BSB and account number or a Visa or MasterCard, no problem. Is it a savings or a check account?
+[10 minutes 12 seconds][Customer] : I, I, I won't be giving you the information now. I'd rather have a look through the e-mail, what you've sent through and then I'll do it from there.
+[10 minutes 17 seconds][Agent] : OK, no, OK, look, that's completely fine.
+[10 minutes 22 seconds][Customer] : Yeah, yeah. Do that. Yeah. Great.
+[10 minutes 22 seconds][Agent] : So I can do, I can do one of two things for you, so I can send you out a quote with the link to the PDS or what else thing we can do is OK, alright, no problem, I'll do that for you now.
+[10 minutes 33 seconds][Customer] : Lovely.
+[10 minutes 31 seconds][Agent] : I'll send it out to the e-mail address and I can give you a call back. How much time do you feel like you need to go through it?
+[10 minutes 37 seconds][Customer] : Just calling back on Monday, if that's alright.
+[10 minutes 39 seconds][Agent] : Yeah, I can do that 100%. What time on Monday is good for you?
+[10 minutes 40 seconds][Customer] : Yeah, I'll go through it this weekend. Could be after 10:00 AM, say 11:11 AM.
+[10 minutes 45 seconds][Agent] : I start at 12:00 on Monday. Would 12 be OK?
+[10 minutes 46 seconds][Customer] : Yeah, 12 is fine. Yeah.
+[10 minutes 50 seconds][Agent] : Yep. Perfect.
+[10 minutes 53 seconds][Customer] : Now, what was your name?
+[10 minutes 50 seconds][Agent] : I'll give you a call back on Monday at 12, uh, with Tim.
+[10 minutes 56 seconds][Customer] : Wonderful. Alright, Thank you so much for that, Tim.
+[10 minutes 55 seconds][Agent] : All right, no problem. It's been a pleasure.
+[10 minutes 59 seconds][Customer] : OK, talk to you then.
+[10 minutes 59 seconds][Agent] : I'll speak with you after the weekend. Thanks.
+[11 minutes 1 seconds][Customer] : Thank you. Bye.
+[11 minutes 2 seconds][Agent] : Bye.

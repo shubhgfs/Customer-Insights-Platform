@@ -1,0 +1,173 @@
+[1 seconds][Customer] : Hello.
+[0 seconds][Agent] : There is a Hey, good morning. Marina, this is Kapila. I'm calling from Australian seniors Insurance. How are you?
+[10 seconds][Customer] : I'm good. How are you?
+[11 seconds][Agent] : I'm fine. Thank you. Thanks. I think obviously you're looking to some loss insurance. We're heading onto the pricing. Answer the questions you might have as well before I do that. There's no confirm. I see the Marina, the dense car. Yep, beautiful. Your date of birth.
+[23 seconds][Customer] : They did so yes, But you called me. You called me in the wrong time now.
+[26 seconds][Agent] : Well, wrong time, OK.
+[30 seconds][Customer] : Yes.
+[29 seconds][Agent] : I mean, uh, this take about two minutes to give you the price at least.
+[32 seconds][Customer] : Oh, OK. OK.
+[32 seconds][Agent] : Is that all right? Yeah.
+[33 seconds][Customer] : Because I Yeah, yeah, yeah. I'm looking after my. No, I'm looking after my granddaughter. So it's something.
+[34 seconds][Agent] : Are you at work or something or looking up your granddaughter? Right. OK, good. No, that's all right.
+[41 seconds][Customer] : Yeah.
+[42 seconds][Agent] : All right. So, so as what I want to confirm your date of birth, 13th of November 1964. So you're 60 years young And can I confirm that you are a female Australian resident?
+[47 seconds][Customer] : Yes, yes.
+[52 seconds][Agent] : Just a clear year server. Thank you for that. OK and uh, please the calls are recorded as well and any advice our providers general nature may not be suitable to your situation and the uh, Marina, you speed a couple on from Australian seniors insurance. You can just call me cap for short. OK, now online you've looking at about $200,000 cover. That's the maximum you can offer.
+[1 minutes 6 seconds][Customer] : Mm hmm, OK.
+[1 minutes 11 seconds][Agent] : Your minimum is $10,000.
+[1 minutes 14 seconds][Customer] : Mm hmm.
+[1 minutes 13 seconds][Agent] : OK, umm, so I started off there, but I can give you as many quotes as you want.
+[1 minutes 17 seconds][Customer] : Mm hmm.
+[1 minutes 16 seconds][Agent] : All right, uh, just to smoke. You said this question. Have you had a cigarette in the last 12 months?
+[1 minutes 23 seconds][Customer] : OK.
+[1 minutes 21 seconds][Agent] : You said no, uh, sorry.
+[1 minutes 23 seconds][Customer] : If I had a Sorry, what injury?
+[1 minutes 25 seconds][Agent] : Have you had a have you had a cigarette in the last 12 months?
+[1 minutes 30 seconds][Customer] : I can't hear you properly. Sorry.
+[1 minutes 32 seconds][Agent] : Sorry.
+[1 minutes 32 seconds][Customer] : What did I have?
+[1 minutes 34 seconds][Agent] : So the smoker, so are you a smoker or a medicine?
+[1 minutes 36 seconds][Customer] : No, I'm not smoking. No, no, I'm not smoking.
+[1 minutes 38 seconds][Agent] : OK, OK, so last set again just for compliance. So have you had a cigarette in the last 12 months?
+[1 minutes 44 seconds][Customer] : No, no, no, no. No.
+[1 minutes 45 seconds][Agent] : Beautiful, beautiful. Thanks.
+[1 minutes 45 seconds][Customer] : Thank you.
+[1 minutes 46 seconds][Agent] : Right. OK now, umm, let me load up the quote on the $200,000 first while it's loading up. If you don't mind me asking, is this money to sort of just, uh, leave behind for like your children, your grandchildren, or do you have any debts to pay off like part of a mortgage? What's what's the situation there? Time. Yeah. Right, right, right, right. So mainly for the funeral, is that right?
+[2 minutes 5 seconds][Customer] : I wanted to have something for the funeral because I I am single and I its just very difficult to save money but but you yeah. Do you offer that?
+[2 minutes 22 seconds][Agent] : Sorry. So are you asking, are you asking do we offer?
+[2 minutes 26 seconds][Customer] : Yeah, yeah, yeah.
+[2 minutes 28 seconds][Agent] : Yeah, Yeah, we offer funeral insurance, Yes. So of course.
+[2 minutes 30 seconds][Customer] : OK.
+[2 minutes 30 seconds][Agent] : So this is yeah.
+[2 minutes 30 seconds][Customer] : And also also I can pay some money to give it image for my trip as well, alright.
+[2 minutes 37 seconds][Agent] : Yeah, so it de depends on what So, OK, so just letting you know, if you want funeral insurance that's limited to anywhere from $3000 up to $15,000, that's the level of cover you can take, you know what I mean? Uh, yeah.
+[2 minutes 48 seconds][Customer] : Yeah, but I don't, I don't know how much is here. The cost of that about 20 is going to be enough.
+[2 minutes 54 seconds][Agent] : OK.
+[2 minutes 54 seconds][Customer] : What do you reckon?
+[2 minutes 55 seconds][Agent] : If you want $20,000 with the life insurance, we can offer you $20,000, you know what I mean? But the funeral cover Max, it maxes out of 15,000. All right, so I'll give you an example.
+[2 minutes 59 seconds][Customer] : OK, 15 1/5.
+[3 minutes 4 seconds][Agent] : So do you want me to quote you at 20,000 then of the life insurance? Yeah. OK, so give you an example, $20,000 cover. The life insurance is $14.39 a fortnight, so about $7.00 a week.
+[3 minutes 9 seconds][Customer] : OK, OK, OK.
+[3 minutes 19 seconds][Agent] : OK, Umm, do you want me to quote you on something higher? Because you said you wanted to leave some money behind for your children as well, Right. I'll give you a few more quotes. Let me know how it sounds. I mean, if you were to look at $40,000 cover, you're looking at $28.77 a fortnight. It's about $14.00 a week.
+[3 minutes 26 seconds][Customer] : Yes, yes, I can afford that.
+[3 minutes 37 seconds][Agent] : OK, you can afford that.
+[3 minutes 38 seconds][Customer] : Yeah, OK.
+[3 minutes 39 seconds][Agent] : Do you want me to go a bit higher?
+[3 minutes 41 seconds][Customer] : Yes, please.
+[3 minutes 42 seconds][Agent] : Let's say if you get a $60,000 cover, you're looking at $43.16 a fortnight.
+[3 minutes 42 seconds][Customer] : I'm going to the the previous one.
+[3 minutes 50 seconds][Agent] : Umm, if you've got $100,000 cover, you're looking at $71.93 a fortnight, $80,000 cover is $57.54 a fortnight right now.
+[4 minutes 4 seconds][Customer] : OK, I can do. Oh, OK. Yes. Yes.
+[4 minutes 6 seconds][Agent] : Remember, in the future, you can always apply to reduce the level of cover at any time, and you can always apply to take that extra cover on proper or subject to likability. Yeah, yeah, yeah. That's 100%, yeah.
+[4 minutes 12 seconds][Customer] : Because when I when I retire, I don't know how much I'll gonna be, so maybe I can do a lot more.
+[4 minutes 19 seconds][Agent] : So do you want me to leave it at the 80,000?
+[4 minutes 21 seconds][Customer] : Yes, please.
+[4 minutes 21 seconds][Agent] : That's $57.54 a fortnight to start off with.
+[4 minutes 24 seconds][Customer] : Yes, please. Uh huh.
+[4 minutes 24 seconds][Agent] : OK, Now the, the whole process is gonna take about 5 minutes. I guess if you have 5 minutes, I can get this done for you. All we need to do is take you through 8 questions. Yes or no questions.
+[4 minutes 33 seconds][Customer] : Hmm. Mm.
+[4 minutes 33 seconds][Agent] : If you get approved, you can get you approved. Uh, I'll explain how we set it up. OK, but before I do that, can I just get your address starting with your post code when you're ready?
+[4 minutes 37 seconds][Customer] : No, wait, sorry. Wait. What?
+[4 minutes 43 seconds][Agent] : Your post code for your address. Si, sorry. Yeah. Which? OK, Which suburb of town is it? And the street name and number. So what's the street name and number?
+[4 minutes 42 seconds][Customer] : What 61722172217 its Monterey Miss Monterey the Grand terrace the the street name is the Grand Terrace.
+[5 minutes 9 seconds][Agent] : Ah, the Grand Prairie. OK. And the the number, yeah. Oh yeah, got it. Yeah, thanks for that. So Unit 6 slash 150 to 151, the Grand Parade Monterey. These are those 2217 that's is that where your mail goes as well like you? Yep, postal address as well. Sorry, ma'am, Is that your postal address as well? OK, beautiful. Thanks. Thank. Beautiful. Thanks for that. And do you have a landline number? Just a mobile?
+[5 minutes 11 seconds][Customer] : Uh huh and its 6 plus 150 dash 151 yes yeah, I think everything is there Yeah yeah yeah yeah everything is on that address No, I just have mobile.
+[5 minutes 45 seconds][Agent] : OK.
+[5 minutes 45 seconds][Customer] : I don't have. Yeah.
+[5 minutes 46 seconds][Agent] : So, all right, so 0410232409 and even that.
+[5 minutes 53 seconds][Customer] : Well, that's so. Yeah.
+[5 minutes 51 seconds][Agent] : This is mario_lupeska@yahoo.com beautiful. Thanks. For that I'll. Quickly explain to you how the cover works and, then we'll take you through these eight questions OK. NOW What we do is we pay the money out of the lump sum payment if you were to pass away before your 85th birthday when the policy ends. But it's saying that if you are accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause except suicide in the 1st 13 months.
+[6 minutes 19 seconds][Customer] : Mm. Hmm. Hmm. Mm. OK.
+[6 minutes 19 seconds][Agent] : OK, so if you take Touchwood, touch that if it.
+[6 minutes 23 seconds][Customer] : I don't mind that.
+[6 minutes 22 seconds][Agent] : But if you take it out today, let's say tomorrow you pass it in a car accident or a heart attack, for example, Touchwood, you're gonna be cut for those kind of things straight away. OK, now there's also a terminally ill advanced payment included as well. Hopefully you'll never have to use this Marina. But what it means that at any time you hold the policy, if you would diagnosed with 24 months or less to live by specialized medical practitioner in this case we'll pay out 100% of the life insurance benefit amount to you while you actually live. OK? So you can use that money for whatever you need. OK.
+[6 minutes 30 seconds][Customer] : OK, OK. Hopefully I'm not.
+[6 minutes 51 seconds][Agent] : And just one more thing we got.
+[6 minutes 54 seconds][Customer] : Hopefully I won't. I won't get that.
+[6 minutes 53 seconds][Agent] : Sorry, what was that exactly? Yeah, hopefully you don't have to use that at all. Uh, just one more thing in regards to premium. You might know this already, but your premium is step, which is will increase each year. I'll give you an example. As an indication, if you make no changes to the policy, your premium next year will be, uh, $61.57 a fortnight. So it's gone up by roughly $4.00.
+[7 minutes 14 seconds][Customer] : Oh, OK.
+[7 minutes 13 seconds][Agent] : But we do let you know roughly 4 weeks prior to the policy anniversary date, uh, of what the new premium would be. And you can also find information about our premium structure on our website as well. And like I see you can also try to reduce the level of coverage in time as well.
+[7 minutes 18 seconds][Customer] : Yeah, OK.
+[7 minutes 26 seconds][Agent] : OK, any questions so far? Is it all sounding straightforward?
+[7 minutes 30 seconds][Customer] : So after like my kids gonna have like, completely access to all this. Yes.
+[7 minutes 37 seconds][Agent] : So the the you mean the money?
+[7 minutes 41 seconds][Customer] : Yeah, yeah. I have to go.
+[7 minutes 41 seconds][Agent] : So what happens is you choose who you want the money to go to and we pay the money out out to them.
+[7 minutes 47 seconds][Customer] : Yeah. OK.
+[7 minutes 47 seconds][Agent] : OK, so does it make sense?
+[7 minutes 48 seconds][Customer] : Yeah, yeah, yeah. Mm, hmm.
+[7 minutes 49 seconds][Agent] : So if you choose it, you know, let's say you choose two of your children and you want them to have 5050, then we pay out, for example, 40,040 thousand directly to them. OK. And if they use the money however they want, does that make sense?
+[7 minutes 58 seconds][Customer] : Yeah, yeah, OK, OK. Yes.
+[8 minutes 3 seconds][Agent] : OK, beautiful. So, umm, that's, that's obviously something that you need to do. It's a form I'll send out as well. You just need to, that's the only thing you need to fill out and send it back.
+[8 minutes 11 seconds][Customer] : Mm. Hmm.
+[8 minutes 10 seconds][Agent] : OK, now I'm gonna leave this out. It's a pretty underwriting disclosure statement. It's gonna explain to you a bit about the questions and how you should go about answering them.
+[8 minutes 19 seconds][Customer] : Mm Hmm.
+[8 minutes 19 seconds][Agent] : And we'll go straight into those eight questions. So it's easy. And Marina, please be aware all calls are recorded for quality monitoring purposes. We collect the personal information to provide insurance quotes you should cover and other services. We'll share this with the insure and they share with other asserting service providers for the purpose of administering your policy or handling claims.
+[8 minutes 37 seconds][Customer] : Hmm. Mm.
+[8 minutes 36 seconds][Agent] : A privacy policy tells you more, including how to access and correct the information and lodge complaints about breaches of privacy.
+[8 minutes 45 seconds][Customer] : Mm. Hmm.
+[8 minutes 44 seconds][Agent] : By proceeding, you understand that you are applying to purchase a lost insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and compl late answers. You need to answer each question in full.
+[9 minutes 6 seconds][Customer] : Hmm. Mm.
+[9 minutes 1 seconds][Agent] : Even if you have provided some information to us and any earlier discussions you have had, if you do not take reasonable care may breach of duty. And if this happens, you ensure may be entitled to cancel your policy, decline a claim. We'll make adjustments to the terms and conditions of your policy.
+[9 minutes 16 seconds][Customer] : Mm. Hmm.
+[9 minutes 16 seconds][Agent] : Now do you understand and agree to duty just to clear your server?
+[9 minutes 20 seconds][Customer] : Yep.
+[9 minutes 21 seconds][Agent] : Thanks.
+[9 minutes 22 seconds][Customer] : OK.
+[9 minutes 21 seconds][Agent] : And, and the first question is a lot of COVID-19, OK.
+[9 minutes 25 seconds][Customer] : Mm hmm.
+[9 minutes 26 seconds][Agent] : So it's asking you, have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days, yes or no? OK, first question out of the 8, nice and easy. Good luck. So it's asking you, in the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke, yes or no?
+[9 minutes 31 seconds][Customer] : No, no, hi, please. After the second call it after the second thought of Kobe, I was I had a high blood pressure like the second day after that.
+[10 minutes 2 seconds][Agent] : Yep, that's fine.
+[10 minutes 8 seconds][Customer] : So I I I stayed in the hospital for two days.
+[10 minutes 12 seconds][Agent] : That's OK, that's alright.
+[10 minutes 12 seconds][Customer] : They keep me there.
+[10 minutes 14 seconds][Agent] : OK, so I just wanted to explain something to you, OK? So with these questions, they're asking for specific things. OK, so this question is not asking about high blood pressure, OK?
+[10 minutes 28 seconds][Customer] : Mm, hmm. Hmm. Mm.
+[10 minutes 24 seconds][Agent] : Umm, it's asking if you went to the hospital because of heart attack, heart failure, or a stroke. OK, so there's specific questions.
+[10 minutes 30 seconds][Customer] : No, No, no, no.
+[10 minutes 33 seconds][Agent] : OK, If you want me to repeat the question, I can do that for you.
+[10 minutes 34 seconds][Customer] : OK, No, no, no, no.
+[10 minutes 36 seconds][Agent] : But just.
+[10 minutes 36 seconds][Customer] : OK, fine. No.
+[10 minutes 36 seconds][Agent] : Yeah, so I'm, I'm gonna, I'm gonna, I'm gonna repeat this question for you. In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure, or a stroke? Yes or no? Thank you for that. Now the next question. In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions, yes or no? In the last five years, have you been diagnosed with or treated for any of the following cancers, lung cancer, cancer, the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy, yes or no? Do you have a renal kidney condition that currently requires dialysis or transplant or a doctor has advised will be required in the future, yes or no? Do you have a liver condition that will require a transplant in the future? Yes or no?
+[10 minutes 50 seconds][Customer] : No, no, no, no, no.
+[11 minutes 42 seconds][Agent] : Had been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease? Yes or no? In the last five years, have you attempted suicide or been hospitalized for a mental health condition? Yes or no? Are you experiencing any unexplained symptoms or I currently undergoing a waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to yes or no.
+[11 minutes 52 seconds][Customer] : Like no, no.
+[12 minutes 14 seconds][Agent] : OK, that's the last question. OK umm so just bear with me one SEC while I get the results for you. And, and also if you pass away in an accidental death Marina, what we also do is we will triple your benefit amount. OK?
+[12 minutes 28 seconds][Customer] : Oh, you say they when?
+[12 minutes 27 seconds][Agent] : So instead of $80,000 we'll pay our $240,000 if you if you pass away, if you pass away an accidental debt. OK, now let me just go back to the application. OK, so I've got great news for you. Congratulations Marina, you've been fully approved for the life insurance under the terms and conditions, so well done.
+[12 minutes 36 seconds][Customer] : OK, Thank you very much. Thank you.
+[12 minutes 46 seconds][Agent] : OK, now I'll explain to you how we set this up. Very straightforward. We're gonna cover you from today under the terms and conditions. You choose when you want the first payment to come out so you don't pay anything straight away. Generally customers pick up payday or the day after they get paid from that day. You do get a 30 day cooling off. As well just in case you change your mind for whatever reason within that 30 days. We'll refund any premiums you paid unless the claimants you made.
+[13 minutes 10 seconds][Customer] : OK, OK.
+[13 minutes 10 seconds][Agent] : OK, now what we're gonna do? Also send out the full policy details via e-mail and you get a hard copy by mail as well. The only thing you need to do is once you've read through everything is fill out the beneficiaries form, sign that and send that back to us. OK, now the first payment date, do you want to put it on a payday or the day after you get paid? What's easier for you?
+[13 minutes 24 seconds][Customer] : OK, yeah, it's a the day after.
+[13 minutes 33 seconds][Agent] : OK, so today's the 8th of January. When did you want the 1st? When? When is the day after you get paid?
+[13 minutes 32 seconds][Customer] : Better for today's my payday tonight.
+[13 minutes 41 seconds][Agent] : Mm hmm. OK, so you want me to put it for tomorrow? Is that all right? And it'll come out of before, not from tomorrow. OK. And we can use either BSP and account number or you can use Visa master debit card or credit card. What's easier for you?
+[13 minutes 42 seconds][Customer] : I got my money from work, so like tomorrow, yeah, it's before 9 better from my account from the BSA.
+[14 minutes][Agent] : OK, it's alright. Is it a savings or a check account? And it's under your name, Marina Nedesta.
+[14 minutes 4 seconds][Customer] : Yeah, yeah, yeah.
+[14 minutes 8 seconds][Agent] : Nedesta. OK. And when you're ready, I'll just start off with the BSB number.
+[14 minutes 8 seconds][Customer] : Just give me one SEC.
+[14 minutes 15 seconds][Agent] : Sure. Take your time. Yeah.
+[14 minutes 27 seconds][Customer] : It's 063 will be a 601. Oh my God.
+[14 minutes 34 seconds][Agent] : Sorry, 062, 111. OK, so 062111 And that's Commonwealth Bank account number. You're ready?
+[14 minutes 33 seconds][Customer] : Underneath 01 mm Hmm mm hmm.
+[14 minutes 47 seconds][Agent] : Hmm. Mm. Sorry ma'am, I couldn't hear the last bit. So 1059, 4516, thank you very much for that. OK, And it's under your name and 5th payment date. I'll put it in one and come out of these four months and then on. And uh, what I'm gonna do now is read out the terms and conditions and then we're done. OK, Thank you very much for your patience.
+[14 minutes 47 seconds][Customer] : One 05954516 4516 Thank you for calling me back.
+[15 minutes 9 seconds][Agent] : I do appreciate it in case it's OK so thank you Marina. The dead sky is important. You understand the following information I will ask you to give me these terms at the end of the policy will not be enforced unless you agree to these terms in full serious life insurance issued by Hannibal Life Free Installation Limited. Hannibal has an arrangement with Greenstone Financial Services training as Australian senior insurance agency they share the range. This insurance on its behalf. Hannibalize upon the accuracy of the information you provided when accessing the application that includes the information we initially clicked for me to provide a code. Hannibal has said a target market determination for this product, which describes the type of consumers this product is designed for uh, distribution taxes that consistent with this determination. And you can update a copy on our website. I need to remind you, the dealer to take reasonable care. So I need to remind you that you need to take reasonable care that you agreed to. Can you please confirm you've answered all of our questions in accordance with your duty?
+[16 minutes 3 seconds][Customer] : Yes.
+[16 minutes 1 seconds][Agent] : Just to clear yes or no, That would make some time from what office to other communication methods you're provided to a simulation to other products and services. By agreeing to this declaration, you consent to us to contact you for this purpose. On T of debt, the expected cover pays a lump sum benefit amount of the following worrying that the dense car receives $80,000 in the bit of debt. If debt is as a result of an accident, the benefit payment will include an accident to death benefit which it will create the total payment of triple the benefit amount. The benefit is not paid in the benefit of suicide in the 1st 13 months of the policy. Uh, you cover expires on 12th of November 2000 and 4912 AM. Your premium pay first year accounts $57.54 per fortnight. Your premium is step, which is will be calculated at each policy anniversary and will generally increase each year, including your payment amount payable to Australian seniors are between 14% and 46% of each premium calculated on the level basis over the life of the policy. Your premium be debited from the nominated bank out of the name of Marine and Eden Sky, which you are was debited from that provided to us. We may provide with the communications to you by the e-mail address you provided to us. This will include any legal notices we are required to provide to you. If you prefer to receive these only by American, update you so you can update your communication preference at any time. The policy documentation, PDS and SSG will be mailed to you if you provide us the e-mail address. Your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets and needs. You have a say. They're cooling off pit when you may cancel your policy in. Any premium you may have paid will be refunded in full unless you have lots to claim. There are risks associated with placing policies. As a new policy may not be added to the existing cover. We recommend they do not cancel the existing policy until you have received and read our policy in full with the complaints process that you can access it anytime by contacting us. Full details are available online and the documentation we are sending. 2 questions there for you. First question, do you understand and agree with the declaration just to clear your server? Thanks for that. Would you like any other information or would you like me to read any part of the PDS to your server?
+[17 minutes 47 seconds][Customer] : Yes, yes, no, I'm always.
+[17 minutes 58 seconds][Agent] : Beautiful. So it covered as of now under the terms and conditions. And uh yeah, just look out for that e-mail, take about 1010 to 15 minutes roughly, and then we'll send out a hard copy by mail as well. Any questions at all, give us a call. But look, apart from that, it's been a pleasure and you have a wonderful day. Thank you.
+[18 minutes 12 seconds][Customer] : Thank you very much.
+[18 minutes 13 seconds][Agent] : You're very welcome.
+[18 minutes 13 seconds][Customer] : Thank you for your help.
+[18 minutes 15 seconds][Agent] : Thank you.
+[18 minutes 15 seconds][Customer] : Thank you.
+[18 minutes 15 seconds][Agent] : Bye.
+[18 minutes 15 seconds][Customer] : Have a good day.
+[18 minutes 16 seconds][Agent] : You too. Bye. Bye.
+[18 minutes 17 seconds][Customer] : Bye bye.

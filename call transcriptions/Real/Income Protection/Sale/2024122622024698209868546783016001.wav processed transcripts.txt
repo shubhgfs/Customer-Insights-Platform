@@ -1,0 +1,24 @@
+[4 seconds][Agent] : Hello.
+[5 seconds][Customer] : Hello.
+[6 seconds][Agent] : Hi, good morning. My name is Ishita. I'm calling from the real Insurance customer support. Am I speaking with Ravi?
+[11 seconds][Customer] : Yeah, good morning. This is how are you doing?
+[14 seconds][Agent] : Good, good. Thank you for asking. Is this a good time to talk you? Sorry, we received the after hours call back request from you.
+[21 seconds][Customer] : Yes, because I called at 8:30, but no one has missed the call. But anyway, you can talk to me now. Yeah, I called yesterday, but I don't know what the office tell me. OK?
+[27 seconds][Agent] : Yes, 8:30 today, Yeah, we, we are working 9:00 to 5:00 because of the Christmas holidays. Yeah, umm, but yeah, because I've called you. Also, just to let you know, Please note all our calls recorded. Any advice we provide is general in nature and may not be suitable to your situation. And just for security purposes, could you confirm your full name and date of birth for me, please? Thank you. And just lastly, your e-mail address, please.
+[51 seconds][Customer] : Ravi Kumar Gamuri, 27th October 1973, gamuri27@gmail.com.
+[1 minutes 1 seconds][Agent] : Thank you. This is regarding your life insurance policy. I'm calling you for mobile is the one I'm calling you on and address is Unit 1/10, Hoyer Place, uh, Cherrybrook, NSW 2126.
+[1 minutes 12 seconds][Customer] : Absolutely not.
+[1 minutes 13 seconds][Agent] : Yeah. How can I help you today?
+[1 minutes 15 seconds][Customer] : I'm just looking for the income protection plan before that.
+[1 minutes 22 seconds][Agent] : Mm hmm. OK.
+[1 minutes 18 seconds][Customer] : Actually I just want to know what exactly because I'm like a businessman, I have a company, but I am a happy what I'm getting. But I have not started any payslip from my company account.
+[1 minutes 30 seconds][Agent] : OK.
+[1 minutes 32 seconds][Customer] : Umm, that's what, yeah.
+[1 minutes 32 seconds][Agent] : So for that, Ravi, uh, I'll have to transfer you to our sales department who can help you with that. So I'll place you on a brief hold, might take more than two minutes. It won't be long. OK.
+[1 minutes 40 seconds][Customer] : No worries. Thank you.
+[1 minutes 41 seconds][Agent] : Thank you. Thank you so much for your patience, Ravi.
+[3 minutes 4 seconds][Customer] : Yes, please.
+[3 minutes 5 seconds][Agent] : Yeah, I have Kayla on the line from our sales department. She's gonna help you further with that income protection. And Kayla, I have confirmed full ID check the full name, date of birth, address, uh, phone number, e-mail and policy tag.
+[3 minutes 16 seconds][Customer] : No.
+[3 minutes 16 seconds][Agent] : Thanks so much for that.
+[3 minutes 17 seconds][Customer] : Thank you.

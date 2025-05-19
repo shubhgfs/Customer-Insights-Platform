@@ -1,0 +1,122 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hello, good, good morning there. Joshua, this is Sharman calling you back from real Insurance.
+[9 seconds][Customer] : Yeah. Hi. How are you?
+[10 seconds][Agent] : And I was, I'm doing really well. How are you doing today, Josh?
+[13 seconds][Customer] : Yeah, not too bad. Thank you.
+[15 seconds][Agent] : That's good. Thank you for returning the call.
+[14 seconds][Customer] : It's OK.
+[16 seconds][Agent] : Unfortunately, I was with another customer at the time, so I'm calling you back today to go through their life insurance application with you.
+[24 seconds][Customer] : Yep.
+[24 seconds][Agent] : So Joshua, since this is another brand new call, would you mind to reconfirm me with your full name and date of birth, please?
+[30 seconds][Customer] : Yeah, sure. It's Joshua Thomas, St. 14th of the 10th, 1983.
+[34 seconds][Agent] : Thank you. Just a friendly reminder to you that all of our calls are recorded. Any advice that I do provide, uh, is generally nature and may not be suitable to your situation. OK.
+[44 seconds][Customer] : Yeah, No worries.
+[46 seconds][Agent] : Umm, so Joshua, the last time when I spoke to you, we did, uh, went through the application process about the health and lifestyle. Umm, has anything changed in regards in, in regards to those questions?
+[57 seconds][Customer] : No, no.
+[58 seconds][Agent] : Thank you. And we did have to umm, refer your applications to the underwriter. Umm, that was 1-2 of the reason. One of them was umm, angina and chest pain. And the second reason the application was referred because of the next fusion surgery. And so under that they have come back with some umm, further question in regards to the medical condition. So This is why I was calling you today to ask those questions and resend the application back to the underwriter.
+[1 minutes 15 seconds][Customer] : Yeah, yeah, sure.
+[1 minutes 27 seconds][Agent] : OK, I'll open up the application and to see what is the underwriter is coming up at. So the question that you'd ask, umm, to use is that please have the client find out from his GP the actual findings of angiogram. At this stage, we are not able to rate this risk. Umm, remember you mentioned to me about the angiogram they had done, uh, for the chest pain.
+[1 minutes 57 seconds][Customer] : Yeah. And the finding was the left low flow arterial descent. That was what the finding was.
+[1 minutes 55 seconds][Agent] : That was a once of event correct And the yeah, I think I did mention, but let me have a look. The angiogram finding was the low flow archi uh, RTL this incorrect.
+[2 minutes 19 seconds][Customer] : That's right, yeah.
+[2 minutes 24 seconds][Agent] : OK. Let me drop that in. Do you have to go through your GP to go through the actual findings or do you know?
+[2 minutes 30 seconds][Customer] : I know it really well.
+[2 minutes 32 seconds][Agent] : OK, OK, that's good, that's good. So angiogram findings are so I have noted down as the angiogram findings are the client had the low floor left RTL descent, correct. And do you mind to con like share some more details? So the more information I write down, the more access the customer, the underwriter has to review and access the ricks of of the condition as well. So do you mind to like go through some more details of the left Arkansas TL descent?
+[3 minutes 14 seconds][Customer] : Yeah, I'm not sure what else I can sort of say. It's just EV.
+[3 minutes 17 seconds][Agent] : Like umm, So what do you mean by that? What does what does it low, slow left Archail descend? What does it mean?
+[3 minutes 24 seconds][Customer] : It just meant that the capillaries in that side of the the heart were acting a little bit slower compared to what they should have done. That that's it.
+[3 minutes 35 seconds][Agent] : Hmm, OK.
+[3 minutes 37 seconds][Customer] : That's that's all there is in a nutshell.
+[3 minutes 40 seconds][Agent] : And and you had taken some medication to resolve the issue. Is that correct?
+[3 minutes 46 seconds][Customer] : Yeah, that's right. It was. It was pumping blood out from the heart. I get Stella.
+[3 minutes 47 seconds][Agent] : OK, so the left RTL distance were was working slow on the on the heart, is that how you want me to note it down from the left side? Correct.
+[4 minutes 2 seconds][Customer] : That's right, yeah.
+[4 minutes 3 seconds][Agent] : OK, so the left side of the heart. OK alright, I'm just trying to see some other stuff as well.
+[4 minutes 53 seconds][Customer] : None.
+[4 minutes 44 seconds][Agent] : Just making sure everything has been correct and umm, noted down as accurate as possible to get the best outcome from you, for you, from the underwriter. Thank you so much for your patience there, Joshua. I'm just chopping something. So the left side of the heart was functioning with low block slow. Is that how you how I should note it down? Mm Hmm.
+[5 minutes 25 seconds][Customer] : It was the the capillaries that come from on that side of the lower part of the heart, so not the heart itself.
+[5 minutes 38 seconds][Agent] : Mm hmm.
+[5 minutes 34 seconds][Customer] : It was the the artery that comes out of the heart on that side that was running a little bit slow.
+[5 minutes 41 seconds][Agent] : OK. The left arc you always running a little bit slow with the plot slow.
+[5 minutes 46 seconds][Customer] : That's like.
+[5 minutes 47 seconds][Agent] : Yeah.
+[5 minutes 59 seconds][Customer] : Yeah, because I had, I had it's all this time. It was just that one little area.
+[5 minutes 52 seconds][Agent] : So instead of writing down left side of the heart, I should write down the left arc or you was function with low back flow left arc OK, The heart was fine right?
+[6 minutes 4 seconds][Customer] : Yeah, yeah, yeah. No problems with the heart at all.
+[6 minutes 11 seconds][Agent] : But you felt the pain for one once off your end, correct?
+[6 minutes 15 seconds][Customer] : Yeah, yeah. So it was my heart was functioning OK. It was just that, that one little area.
+[6 minutes 16 seconds][Agent] : The heart was functioning OK, OK. Was functioning OK. And Sir, let me take you back to the day when it happens.
+[7 minutes 7 seconds][Customer] : None.
+[7 minutes 6 seconds][Agent] : So you're feeling yourself pain on the heart. So my apologies, chest pain and then went to the doctor and then the GP had done the angiogram or the specialist, the GP done the angiogram and they found it on the same day that you have the low floor left at your listen.
+[7 minutes 28 seconds][Customer] : Yeah. So the the was done probably a week later and then yeah, that's what that means.
+[7 minutes 33 seconds][Agent] : OK, OK, I'm just going to type it as exactly as the scenario so the underwriter has to whole picture what really happened. The client had felt pane, Felt pane. And you also mentioned about the angina, do you mind to share more on that one as well? Is it the same thing?
+[8 minutes 13 seconds][Customer] : But that that was that was what it was pretty much classified as.
+[8 minutes 17 seconds][Agent] : Angina OK, you want to the GP to to to get the to get it checked and when you went to the GP on that day and what did the doctor tell you?
+[8 minutes 16 seconds][Customer] : Yeah, that that was what I was suspecting. So they had the angio done on.
+[8 minutes 29 seconds][Agent] : Like doctor suspect it was angina.
+[8 minutes 37 seconds][Customer] : Yeah, yeah. That's what it all sort of pointed to. And then the, the the angina was caused by that, that small thing. Yeah.
+[8 minutes 41 seconds][Agent] : OK, OK, that's it was angina, angina and. So the GP asks you to do the angiogram of the client. Once I'll finish typing, I'll go through all the information with you. Just making sure that all the information as accurate as possible in terms of your situation. OK, Angina follows the same week.
+[9 minutes 46 seconds][Customer] : Mm hmm.
+[9 minutes 56 seconds][Agent] : And and you mentioned that the heart was functioning OK and it never felt any more pain in there, right?
+[10 minutes 2 seconds][Customer] : That's great.
+[10 minutes 3 seconds][Agent] : Never felt any pain since since the doctor and umm, once the doctor found about the low flow left actual descend. Umm what did umm what was the follow up Jacob after that?
+[10 minutes 29 seconds][Customer] : It was a three month check up after that and everything was looking good.
+[10 minutes 34 seconds][Agent] : So you were monitored like they monitor you for three months, they gave you the medication for three months.
+[10 minutes 39 seconds][Customer] : No, they like, so they gave me the medication.
+[10 minutes 43 seconds][Agent] : OK.
+[10 minutes 43 seconds][Customer] : Then three months later we had a review and then we stayed on the medication for another three months and that was it.
+[10 minutes 50 seconds][Agent] : So just to be clear on that, Joshua, so the doctor gave you the medication for three months and then then returned back to the doctor to to another angiogram. Is that correct? One is the basic pick up. May I know what what that what it was? I can just a conversation.
+[11 minutes][Customer] : No, no, just a a basic check up and then so just a standard J just a a conversation with the GP about where I was up to. Yeah.
+[11 minutes 9 seconds][Agent] : OK, OK, OK, perfect. So no more like a blood test or any sort of umm, medical test was done on you during the check up, right.
+[11 minutes 17 seconds][Customer] : No, no.
+[11 minutes 18 seconds][Agent] : OK, the client had to give the medication three months and the medication, was it for heart related medication or do you know what, what's the medication name or any sort of information on that?
+[11 minutes 34 seconds][Customer] : No, I can't remember the name of it, but it was, it wasn't a heart medication or a cholesterol medication. It was almost just like, I can't think of what it was called like a almost like a beta blocker type medication, but.
+[11 minutes 45 seconds][Agent] : MMM, like a ho. MMM like a blast cleaning medication or?
+[11 minutes 57 seconds][Customer] : Yeah, it could have been, could have been similar to that. Like I'm sure it was. Yeah. Like a a thinner, but not like as strong as warfarin. It was a sort of a basic sort of thing. I can't believe the name of it.
+[12 minutes 6 seconds][Agent] : Hmm, OK, just it wasn't a warfarin, right? OK, hmm.
+[12 minutes 11 seconds][Customer] : It wasn't warfarin, No, But yeah, yeah.
+[12 minutes 16 seconds][Agent] : That's OK. So just not because you don't know, because I'm not going to give note down anything that you don't know, right. So I'm just going to note down something like the client had given medication for three months and was followed by a check off. Yeah.
+[12 minutes 57 seconds][Customer] : None.
+[13 minutes 5 seconds][Agent] : The follow up check up was just a conversi conversation with the GP if you needed to continue the medication, correct. Of the same medication that you continued for another three months, correct?
+[13 minutes 10 seconds][Customer] : Yeah, yeah, yes.
+[13 minutes 32 seconds][Agent] : And may I know which year was it after that?
+[13 minutes 43 seconds][Customer] : What year? It was 2000, 2000 and 14.
+[13 minutes 57 seconds][Agent] : 2014. And the last check up was the year 2014 as well.
+[14 minutes 12 seconds][Customer] : Yes.
+[14 minutes 16 seconds][Agent] : The last check up on on this medical reason was 2014. And since then you never had to go through those angiogram and never had to take any medication, correct?
+[14 minutes 23 seconds][Customer] : Yes, that's right.
+[15 minutes 8 seconds][Agent] : So you have taken 100% recovery for for that reason?
+[15 minutes 12 seconds][Customer] : Yes, yes.
+[15 minutes 13 seconds][Agent] : OK, I'm glad to hear that.
+[15 minutes 30 seconds][Customer] : Thank you.
+[15 minutes 29 seconds][Agent] : Umm, so Joshua, I'm gonna, uh, read it back to what I have just typed in for you. I'm gonna resend the answer to the underwriter.
+[15 minutes 37 seconds][Customer] : Yep.
+[15 minutes 38 seconds][Agent] : Umm, so the question was to you from the underwriter was please have the client find out from his GP the actual findings of angiogram.
+[15 minutes 47 seconds][Customer] : Mm, hmm.
+[15 minutes 47 seconds][Agent] : At this stage we are not able to rate this risk because you said, you know the findings of angiogram already. You don't need to go back to your GP to get the actual findings.
+[15 minutes 57 seconds][Customer] : That's right. Yep.
+[15 minutes 57 seconds][Agent] : So based on your based on your responses what I have typed in is angiogram findings are the Kleinfeld chest pain.
+[16 minutes 8 seconds][Customer] : Hmm. Mm.
+[16 minutes 6 seconds][Agent] : It was one of even he went to the GP to get get it checked. The doctor suspected it could have been angina and the GP asked the client to do an angiogram the same on the same week. The angiogram report showed the client had low floor left arterial descent.
+[16 minutes 30 seconds][Customer] : Mm. Hmm.
+[16 minutes 30 seconds][Agent] : The left artery was functioning with low blood flow. The client mentioned the UH heart was functioning OK and never felt any pain after. The client had given medication for three months followed by a checkup. The checkup was just a conversation with GP if he needed to continue with the medication. The client umm, continued for another three months of the same medication. Umm, the last check up on this medical reason was in two uh, year 2024 or 2014. My apologies umm.
+[17 minutes 14 seconds][Customer] : That's good.
+[17 minutes 6 seconds][Agent] : Since then the client never had to revisit the doctor or taking any medication to to treat the low floor left at your descent and the client had taken 100% full recovery from this condition. Do you think that it would be accurate to note it down for you?
+[17 minutes 21 seconds][Customer] : Yep, absolutely perfect.
+[17 minutes 23 seconds][Agent] : OK, beautiful. So what I'm going to do now, uh, Joshua, I'm gonna send back that answer to the underwriter. As I said, they're quite efficient. They might come back with further question, or they might come back with an outcome. Umm, I'll let you know if they come back with some further question and if they accept the application without any further changes. You have given me the authority to accept that on your behalf, correct?
+[17 minutes 44 seconds][Customer] : That's right. Yep.
+[17 minutes 45 seconds][Agent] : And the first payment date, unfortunately, because we spoke to you on the, on the 16th of this month and he said the first payment collection day was for, to put down on the 17th because we are still going back and forth with the underwriter. So we have to change the first payment collection day, umm, and change it back to any other day for the future of next week.
+[18 minutes 10 seconds][Customer] : Probably next Thursday.
+[18 minutes 3 seconds][Agent] : So, uh, if you come back with without any changes, which day you want me to put down for the first payment collection day next 24th, next week Thursday.
+[18 minutes 15 seconds][Customer] : Yes, please.
+[18 minutes 16 seconds][Agent] : Perfect. I'll note it down as well at the back end. But in the meantime, let's see if we forget any question back from the underwriter or not. OK.
+[18 minutes 23 seconds][Customer] : No worries at all.
+[18 minutes 24 seconds][Agent] : Oh, thank you so much for your time, Joshua.
+[18 minutes 26 seconds][Customer] : No, no.
+[18 minutes 26 seconds][Agent] : I really appreciate you. Yeah, hopefully we can get a get an outcome from them pretty soon. OK.
+[18 minutes 27 seconds][Customer] : Thank you for all your hard work. Wonderful.
+[18 minutes 32 seconds][Agent] : All right.
+[18 minutes 32 seconds][Customer] : Well, thank you so much for all your hard work. I really do appreciate it.
+[18 minutes 35 seconds][Agent] : Not a problem. Joshua, take care of yourself as well. I'll speak to you soon. Take care.
+[18 minutes 38 seconds][Customer] : OK, you too. Bye.
+[18 minutes 39 seconds][Agent] : Bye.

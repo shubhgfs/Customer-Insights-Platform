@@ -1,0 +1,98 @@
+[0 seconds][Agent] : Are you there, Angela? Yeah, I have Georgia here from our sales team. Now she's going to help you out with a new policy. OK.
+[2 seconds][Customer] : Yeah, Yeah. Alright then.
+[9 seconds][Agent] : All right. All right.
+[9 seconds][Customer] : Thank you.
+[10 seconds][Agent] : Excellent. George, you're just transferring us through now. OK. Thanks, Tracy.
+[13 seconds][Customer] : Alright, thank you.
+[15 seconds][Agent] : Hi, Andrew. My name is George. I'm here from the sales department. How are you today?
+[20 seconds][Customer] : Oh, good. Thanks. Yep.
+[21 seconds][Agent] : That's good. Now, Tracy mentioned that you wanted to look at taking out a new funeral cover. Is that correct?
+[27 seconds][Customer] : Yeah, that's correct.
+[29 seconds][Agent] : Yeah. Well, let's have a look now. Just because it's the first time I'm speaking with you, could I just get you to reconfirm your full name and date of birth for me, please?
+[38 seconds][Customer] : Angela Leanne Bridge, 27th, 11th, 46.
+[43 seconds][Agent] : Beautiful. And you are a female Australian resident, is that correct?
+[49 seconds][Customer] : That's right.
+[50 seconds][Agent] : Excellent. So all calls are recorded. Any advice that provides general in nature may not be suitable to your situation. Now, what I'm going to do, just because it has been quite a while since you did have that policy, I'm just going to take you through and just rejoge your memory in terms of what's actually covered. And then we'll have a look at the different options in terms of premiums and the level of cover. You just let me know if you do think of any questions along the way.
+[50 seconds][Customer] : Yeah, yeah, yeah.
+[1 minutes 14 seconds][Agent] : OK.
+[1 minutes 14 seconds][Customer] : And I've got to change my address and phone number. Alright.
+[1 minutes 14 seconds][Agent] : Are you ready to write?
+[1 minutes 19 seconds][Customer] : Yeah. Yep.
+[1 minutes 19 seconds][Agent] : Yep that's fine, we could do that for you, no issues. Alright so with our policy do just keep in mind for the 1st 12 months you'd be covered for accidental death only after the first 12 months you'd be covered for death due to unique cause. Now we do triple the payout in the event of an accidental death and there is a terminal illness benefit. So this means that after holding your policy for 12 months, if you were diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we then pay that claim out in full to help with things like medical costs. Your premiums are designed to stay the same each year for you as well, and you can also find information about our premium structure on our website. Any questions before we go through pricing?
+[2 minutes 8 seconds][Customer] : No.
+[2 minutes 9 seconds][Agent] : No Perfect. So cover the range between 3000 up to $15,000. We can look at as many amounts as you like, but what amount did you want to have a look at first?
+[2 minutes 24 seconds][Customer] : What did I have before?
+[2 minutes 28 seconds][Agent] : She said it was 8000 that you had before. Did you want to look at 7000 first? Sorry.
+[2 minutes 26 seconds][Customer] : Was it 7 08 logic?
+[2 minutes 34 seconds][Agent] : Sure.
+[2 minutes 35 seconds][Customer] : No, No, stick with the with the aid or just depending on what the payment is.
+[2 minutes 34 seconds][Agent] : I'll give you another, of course, Yeah, because they are based on your age and time of application.
+[2 minutes 43 seconds][Customer] : You know, the payments have probably gone up now, yeah.
+[2 minutes 50 seconds][Agent] : So the banking is being 78 now, but let's have a look at the 8000 and we can work our way down if we need to. So $8000 would be $88.76 per fortnight, so roughly $44.00 per week.
+[2 minutes 50 seconds][Customer] : And yeah, yeah, yeah, yeah, no, that, yeah.
+[3 minutes 5 seconds][Agent] : Do you think that would be manageable or did you want to have a look at? Yeah.
+[3 minutes 11 seconds][Customer] : That'll be OK.
+[3 minutes 12 seconds][Agent] : All right, let's take that down here. Now. I'm going to go ahead and update your contact details as well.
+[3 minutes 21 seconds][Customer] : 2350.
+[3 minutes 18 seconds][Agent] : So what's your post code and your suburb?
+[3 minutes 28 seconds][Customer] : Will it be Armadale?
+[3 minutes 30 seconds][Agent] : Yeah. And what's your street number and name?
+[3 minutes 33 seconds][Customer] : It's actually out of town. It's 500 Diamban Rd.
+[3 minutes 42 seconds][Agent] : What was the selling of that one? Perfect.
+[3 minutes 43 seconds][Customer] : DYANBERIN Wongabinda.
+[3 minutes 48 seconds][Agent] : Yep #500 beautiful. And was that the same post code that you've given me before? 2359?
+[3 minutes 58 seconds][Customer] : Yeah, yeah, yeah. That's Wongabinda. WONGWIBINDA.
+[4 minutes 8 seconds][Agent] : Is that your postal address as well?
+[4 minutes 11 seconds][Customer] : Yeah, that's the postal, yes.
+[4 minutes 16 seconds][Agent] : And what is your contact number? Mm Hmm.
+[4 minutes 12 seconds][Customer] : 500 Dianeben Road, Wangabinda, 2350, 0456191017.
+[4 minutes 28 seconds][Agent] : And that's the only contact number that you do have now.
+[4 minutes 32 seconds][Customer] : Yeah, that's the only one now.
+[4 minutes 34 seconds][Agent] : Perfect. And what's your best e-mail address?
+[4 minutes 38 seconds][Customer] : Oh, well, I don't have an e-mail.
+[4 minutes 40 seconds][Agent] : No, that's OK, we'll post everything out to you. Now. This policy will also include an early cash out option for you as well. So, umm, this means that once you reach the age of 85, you can choose to end the cover. We'll pay you 75% of the funeral insurance benefit and just keep in mind you may pay more in total premiums over the life the policy than the benefit amount. As I've mentioned though, your premiums are designed to stay the same each year, but this insurance does not have a savings or investment element. So if you do cancel outside of the 30 days, the cover will stop and you will not receive anything back. Of course, unless you are eligible for and choose the early cash back offer.
+[4 minutes 43 seconds][Customer] : Yep, Yep.
+[5 minutes 25 seconds][Agent] : Now I just loading up the pricing and the application here just to confirm that you are happy to continue, is that correct?
+[5 minutes 35 seconds][Customer] : Yeah, that's right.
+[5 minutes 36 seconds][Agent] : Perfect. Now when would you like us to debit the first premium? You can choose any date in the future. Yeah, when, when's your next?
+[5 minutes 44 seconds][Customer] : Well, the next pension day, the next age pension. Now I wonder. I should have had that down. Wait a minute.
+[5 minutes 56 seconds][Agent] : Yeah, take your time.
+[5 minutes 55 seconds][Customer] : I might will be the 14th.
+[5 minutes 56 seconds][Agent] : No rush of February.
+[6 minutes 15 seconds][Customer] : No. January. Oh, no. The past that.
+[6 minutes 19 seconds][Agent] : Yeah.
+[6 minutes 20 seconds][Customer] : Yeah, yeah, I'm looking at it wrong.
+[6 minutes 22 seconds][Agent] : So would it then be?
+[6 minutes 23 seconds][Customer] : I've got scribbling rye and all over it.
+[6 minutes 28 seconds][Agent] : So does that mean you got paid yesterday? Yeah, let's do that.
+[6 minutes 30 seconds][Customer] : The 28th is the next one.
+[6 minutes 32 seconds][Agent] : We can do the 28th. Perfect.
+[6 minutes 34 seconds][Customer] : Yeah, the 28th of January. That's right.
+[6 minutes 37 seconds][Agent] : Yeah. So let's do that.
+[6 minutes 37 seconds][Customer] : Sorry.
+[6 minutes 38 seconds][Agent] : No, that's OK. Yeah, we'll do the 28th. And I will need to note down your banking details again. What would be your preference? Visa or MasterCard or BSB and account number.
+[6 minutes 52 seconds][Customer] : Oh yeah, my bank did. Well, I've changed.
+[6 minutes 59 seconds][Agent] : Yeah, yeah.
+[6 minutes 58 seconds][Customer] : Then it was the ANZ before, now it's the Commonwealth Bank.
+[7 minutes 1 seconds][Agent] : Because we'd need to note that down Commonwealth. Perfect. And did you say you wanted to use your BSP and account number? Yeah.
+[7 minutes 9 seconds][Customer] : Yeah, it's direct debit, isn't it?
+[7 minutes 11 seconds][Agent] : Would it be a savings or a checking, correct. That's right.
+[7 minutes 16 seconds][Customer] : Yeah.
+[7 minutes 17 seconds][Agent] : So would that be coming from the savings or check accounts? And savings or check. Perfect. And what would be the BSB number and account number? 42?
+[7 minutes 18 seconds][Customer] : So the branch is Glen Innes NSW in the Commonwealth Bank Just savings O 625-4394, 206-2542 and the account number is 101-6274 five.
+[7 minutes 38 seconds][Agent] : Yeah, mm. Hmm. Perfect.
+[7 minutes 55 seconds][Customer] : That's right. Yeah.
+[7 minutes 49 seconds][Agent] : I'm just going to repeat that back as 10162745 and yeah, come up with Commonwealth and it's just the name of Angela Bridge. Is that right?
+[8 minutes 1 seconds][Customer] : Yeah. Angela Leanne Bridge. Yeah.
+[8 minutes 4 seconds][Agent] : What was the spelling of your middle name? Sorry.
+[8 minutes 7 seconds][Customer] : LEAHARN.
+[8 minutes 12 seconds][Agent] : All right. Now I have one last step, which is just to read out your legal declaration. It's going to have two questions at the end for you, and this does take roughly 4 minutes for me to read.
+[8 minutes 29 seconds][Customer] : Yeah.
+[8 minutes 23 seconds][Agent] : But if you have any questions for me while I read this out, just stop me at any point, OK, perfect. So it begins here with thank you Angela Bridge. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real funeral cover is issued ahead on the Library of Australasia Limited, then we refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services training is real insurance to issue and arrange this insurance on its behalf. Your answers to the application question than any related documents from the basis of your contracted insurance and Handover relies upon the accuracy of the information you have provided when assessing your application. Handover has set a target market determination for this product which describes the type of consumers this product is for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with you, your insurer and they share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. So by agreeing to this declaration you can sense to be contacted by us in relation to other products and services. You cannot tell at this at any time. By contacting us you have agreed to take out a single real funeral cover with the following cover. Angela Bridges covered for $8000 in the event is death. In the case where death is accidental, the benefit amount will triple. Cover is for accidental death only for the 1st 12 months of cover, with death by any causal diagnosis of a terminal illness covered thereafter. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to save a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you'll no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. You can end your cover anytime by contacting us. If you stop paying your premiums, you may end your cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there is no refund in the premiums after the cooling off. If cover continues beyond age 85, the life insurance will receive an additional 25% of bonus cover from that date and not be required to pay any further premiums. The bonus cover is not payable if the early cash AD option has been taken out.
+[11 minutes 4 seconds][Customer] : None.
+[11 minutes 2 seconds][Agent] : Cover for each life insured End of the day prior to their 100th birthday, we will pay the funeral benefit and bonus cover for the life insured. At this point your total premiums your first year of cover is $88.76 per fortnight. Your premiums are level which means they are designed to stay consistent year on year and will only change if the owe to your cover or the insurer adjusted premium rates applying to your to your policy. The insurer can only make a change if it is applied consistently across all policy holders. You may pay more in premiums in the benefit amount over the life of the policy. Included in your premium is an amount payable to real insurance of between 34% and 54% capsulated on a level basis over the life of the policy. Your premium will be debited from your nominated bank account in the name of Angela Leon Bridge, which you are authorized debit from and have provided to us. We may provide range communications to you via the e-mail address you have provided to us and this will include any legal notices you require provide to you in writing. If you would prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be up to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. In which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated to placing policies as your new policy may not be identical to your existing cover and we recommend that you do not cancel any existing policy until you have received your reviewed our policy in full. We have a complaints process which can access at any time by contacting us. Full details are available online in the documentation we are sending you.
+[12 minutes 59 seconds][Customer] : Yes, yeah.
+[12 minutes 51 seconds][Agent] : So two last questions for you here, which is do you understand and agree with the declaration I've just read to you yes or no, and we are posting everything out to you. But in the meantime, would you like me to in the meantime, would you like any other information from me now? Or would you like me to read any part of the PDFs to you? Yes or no?
+[13 minutes 13 seconds][Customer] : No, no, that's fine.
+[13 minutes 16 seconds][Agent] : Well, like I said, everything will be posted out. The only form we need you to fill in and send back to us is just your beneficiary's form, just so we know who we are paying the money out to at the time of the claim. So, yeah, you can post that one back. But yeah, any other questions, don't hesitate to give me a call back. OK. All right. Well, thanks for your time, Angela. You enjoy the rest of your day. Oh, sorry. Still there.
+[13 minutes 44 seconds][Customer] : Sorry.

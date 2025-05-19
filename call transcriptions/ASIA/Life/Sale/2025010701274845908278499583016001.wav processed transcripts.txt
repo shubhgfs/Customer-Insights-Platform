@@ -1,0 +1,170 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hi, Nancy, it's Ed. I'm calling you from Australian Insurance. How are you doing today?
+[6 seconds][Customer] : Yeah, I'm alright.
+[8 seconds][Agent] : That's good to hear. I'm just giving you a call in regards to we can see you had an expression of interest online to some life insurance. Yeah. Just so I can assist you further today, can you please confirm your full name and your date of birth?
+[22 seconds][Customer] : Yeah, I need to repeat that 12th of April 1972.
+[24 seconds][Agent] : Yeah, great. Thank you so much for this information. Please note all our calls are recorded. Any advice I provide is general in nature and may not be suitable to situation. Can I confirm that you are a female Australian resident? Great, thank you so much for this. Now, just so I can have a better understanding and to assist you better than what made you decide to look into signing up for some life insurance.
+[37 seconds][Customer] : Yeah, yeah, just when I passed away. Not touchable.
+[1 minutes 1 seconds][Agent] : Yeah, no, sure. That's correct. So yeah, it is protection for yourself, your family and your friends. It does give a Peace of Mind and definitely reduces just during typical time. Now what I can do is I can go through the cover with you over the phone.
+[54 seconds][Customer] : I don't that, not yet, but yeah, I just want to add one out to the to the to the order, yeah.
+[1 minutes 16 seconds][Agent] : I can explain to you the benefits that we offer and I can answer any questions you have along the way. Is that OK with you? OK perfect. The Seniors Life Insurance is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away before your 85th birthday. When the policy ends, you can choose cover between $10,000 up to $200,000 and nominate up to five beneficiaries to receive the nominated benefit amount.
+[1 minutes 40 seconds][Customer] : Yes, yes.
+[1 minutes 44 seconds][Agent] : Now Nancy, if your death was used or is due to an accident, sorry, your chosen benefit amount will triple and we also include an advance payment of 20% of the benefit amount to help with good cost or any other final expenses at the time. Yeah, now it is easy to apply umm, for Nancy, what we do is we just ask you a yes or no questions relating to your health over the phone to see if you are approved. Now if you are accepted and once you commence the policy, you'll be covered immediately for death due to any cause except for suicide in the 1st 10 months. Yeah. Now, in addition, we also offer a terminally ill advanced payment that's included in the cover. Now, this means that if you were diagnosed with 24 months or less to live by a specialized medical practitioner, what we'll do is we'll pay your benefit amount in full to you while she's still alive just to help with medical costs to ensure that you receive the best care possible. Yes. If you have any questions for me so far, Nancy.
+[2 minutes][Customer] : Yes, yes, yes, yes, no.
+[2 minutes 44 seconds][Agent] : OK, great.
+[2 minutes 43 seconds][Customer] : And it seems a lot.
+[2 minutes 45 seconds][Agent] : Now, now I'll just fix up your title. So is this miss misses or miss?
+[2 minutes 53 seconds][Customer] : Yes.
+[2 minutes 54 seconds][Agent] : OK, perfect. Now what I'm going to do is let's go through a quote together just to see how much and the payments would be. Now to begin with, have you had a cigarette in the last 12 months? Yes or no?
+[3 minutes 7 seconds][Customer] : No, that's right.
+[3 minutes 8 seconds][Agent] : No. Perfect. Great, thank you so much. Now, Nancy, keep in mind the level of cover ranges from $10,000 and up to $200,000. So we can look at different amounts until you find the right level of cover. So what benefit amount would you like me to look at first?
+[3 minutes 24 seconds][Customer] : Depends.
+[3 minutes 26 seconds][Agent] : Yeah, sure. And were you looking to pay this on A4 nightly basis, a monthly basis or an annually basis?
+[3 minutes 25 seconds][Customer] : First, depends how much it is first.
+[3 minutes 35 seconds][Agent] : Alright, perfect. So Nancy, for $10,000 worth of cover, you're looking at a payment of $4.19 per fortnight.
+[3 minutes 45 seconds][Customer] : Well, that's alright.
+[3 minutes 47 seconds][Agent] : Yeah.
+[3 minutes 53 seconds][Customer] : Yeah, look at the 201.
+[3 minutes 48 seconds][Agent] : So, HH, would you like me to look at any other level of cover or OK, so forth? And, and would you like to stick to the fortnightly basis? Alright, so for $200,000 worth of cover, you're looking at a payment of $83.72 per fortnight.
+[4 minutes][Customer] : Yeah, well, they say G but the other one's lower, but the other one's higher.
+[4 minutes 15 seconds][Agent] : Yes. So because this is $200,000, which is the cover that you'll receive if anything was to happen to you, sorry, you're beneficiaries. And then the other amount is the minimum, which is $10,000.
+[4 minutes 27 seconds][Customer] : Yeah.
+[4 minutes 28 seconds][Agent] : Yeah.
+[4 minutes 28 seconds][Customer] : And if you go monthly, how much is it for monthly? Yeah, yeah. So yeah, that you want it.
+[4 minutes 31 seconds][Agent] : Well, for $200,000 or for 10,000, so for the $200,000 monthly, you're looking at a payment of $181.40 per month?
+[4 minutes 46 seconds][Customer] : Oh, that's alright.
+[4 minutes 50 seconds][Agent] : Yeah, so that's $181.40 per month.
+[4 minutes 46 seconds][Customer] : I I just $3 and Fortnite 10 thou 10 like 10,000. That's that's only going to pay for my funeral.
+[4 minutes 57 seconds][Agent] : Sure. So. So according to the Government's Money Smart website, so private funerals typically cost somewhere in the region of $4000 for basic cremation and up to $15,000 for more detailed burial service. Yeah. So this is from finder.com. Yeah, the government's Money Smart work.
+[4 minutes 56 seconds][Customer] : Isn't it really, if you look at it, alright, but 10,010 thousand is not going to be enough, is it for the grand kids and that?
+[5 minutes 21 seconds][Agent] : So would you, would you like to look at $50,000? Yeah. Or. Or was the 10,000 enough?
+[5 minutes 27 seconds][Customer] : 50,000 I'll check the 50,000 out if you want.
+[5 minutes 36 seconds][Agent] : Yeah. And was that month, uh, monthly or fortnightly?
+[5 minutes 34 seconds][Customer] : If you can Fortnite me.
+[5 minutes 41 seconds][Agent] : Alright, perfect. So for $50,000 worth of cover, Nancy, you're looking at 20 DOL, $0.93 per fortnight.
+[5 minutes 49 seconds][Customer] : Oh, yeah, that's alright. No worries.
+[5 minutes 51 seconds][Agent] : Yeah.
+[5 minutes 54 seconds][Customer] : What will you tell me what my grandkids do? I've got 5 grandkids.
+[5 minutes 58 seconds][Agent] : Oh, nice.
+[5 minutes 59 seconds][Customer] : Yeah.
+[6 minutes][Agent] : Yeah.
+[6 minutes][Customer] : I just found my granddaughter and she's born me my birthday. I've got a grandson. His birthday's on the 19th. And the granddaughter is the 29th of April.
+[6 minutes 10 seconds][Agent] : Oh, wow.
+[6 minutes 10 seconds][Customer] : And my daughter and my daughter and my daughter. She's mine's the 12th, hers is the 17th, and the grandson the 19th and then the grand on the 29th.
+[6 minutes 19 seconds][Agent] : Wow.
+[6 minutes 19 seconds][Customer] : So it's the fourth of April.
+[6 minutes 21 seconds][Agent] : Yeah. April babies.
+[6 minutes 20 seconds][Customer] : Yeah, my dad was to look up yourself with her. She's 17, you know, I mean nearly 18.
+[6 minutes 33 seconds][Agent] : Yeah.
+[6 minutes 29 seconds][Customer] : So I'd like it to leave, leave it with, leave it with her, not leave it with her, but have my son to deal with it.
+[6 minutes 36 seconds][Agent] : No, sure.
+[6 minutes 36 seconds][Customer] : And yeah, have me grandkids catch up.
+[6 minutes 37 seconds][Agent] : Yeah, yeah.
+[6 minutes 39 seconds][Customer] : And like, I don't like I want to have it till they're 21 me grandkids.
+[6 minutes 41 seconds][Agent] : So, oh, sure, you can nominate up to five. So when you receive the welcome pack, you do nominate up to five people and you just put it through via the percentages. So yes, you can nominate up to five of your grandchildren, including your son. So that's good. I just want to ask you, Nancy, have you set up a wheel also?
+[7 minutes 3 seconds][Customer] : No, I haven't.
+[7 minutes 4 seconds][Agent] : Oh, OK. Because what we do is we actually provide you with a free online legal bill in your welcome pack that's valid at $160.00. So you received this for free just to help set set you up and also a complimentary subscription of Estrogen is their magazine. Yeah.
+[7 minutes 15 seconds][Customer] : Yeah, yeah, yeah. It seems like I looked at another one. Alright, but it's so expensive. They want. I'll see if they cancel that one because I don't really want to do it. It's forty.
+[7 minutes 21 seconds][Agent] : So would also you do have.
+[7 minutes 32 seconds][Customer] : No, not at the moment. But I looked at it and they said it was $45.00 a fortnight and I can't afford that.
+[7 minutes 34 seconds][Agent] : Oh, OK, Oh, OK. Yeah, this 4 nightly premium for $50,000 is $20.93.
+[7 minutes 48 seconds][Customer] : Yeah.
+[7 minutes 45 seconds][Agent] : So is that affordable for you or do you wanna go a bit lower?
+[7 minutes 48 seconds][Customer] : No, no, that's affordable. Yeah, $20 and what is it?
+[7 minutes 51 seconds][Agent] : Alright, oh perfect. So your premium is stepped, which means it will increase each year. So as an indication, if you make no changes to the policy, your premium next year will be $22.40.
+[8 minutes 4 seconds][Customer] : Yeah, that's alright.
+[8 minutes 5 seconds][Agent] : You you can also find information about a premium structure on our website.
+[8 minutes 16 seconds][Customer] : Yeah.
+[8 minutes 9 seconds][Agent] : Now we do need to make sure first that you are approved to if, if you are eligible for this umm plan. I'm going to do is I'm just going to take you through the health questions to confirm if you are eligible for cover.
+[8 minutes 23 seconds][Customer] : Yep Yep.
+[8 minutes 23 seconds][Agent] : Now before I continue this, can I confirm your post code and your suburb black it perfect. And your and your address there, please, Nancy. Yeah. Kingsley straight black. And is this the same as your postal address?
+[8 minutes 27 seconds][Customer] : 2007 8 Market NSW number 92 Brittany Street Market Yep.
+[8 minutes 45 seconds][Agent] : Perfect. Thank you so much for this. Now what I'm going to do is I'm just going to read you an underwriting disclosure, which is just what we need. This is some terms and conditions to answering the questions.
+[9 minutes][Customer] : Oh.
+[8 minutes 56 seconds][Agent] : I mean, might just take a minute or so and then we'll go straight through to the questions to see if you're actually eligible or approved. All right, perfect. So please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with the insurer and they share it with other Shell and service providers for the purpose of your policy or handling claims. Our privacy policy tells you more, including how to access and correct information and lodge complaints about breaches of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if I provided some information to us in any earlier discussion had. If you do not take reasonable care, you may breach your duty, and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and positions of your policy. Do you understand and agree to your duty? Perfect. Now moving on, I need to ask the following question specific to COVID-19.
+[10 minutes 1 seconds][Customer] : Yep, None.
+[10 minutes 7 seconds][Agent] : Have you been hospitalised for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no?
+[10 minutes 15 seconds][Customer] : None.
+[10 minutes 16 seconds][Agent] : Perfect, thank you so much. Now we'll move on to the health. Last question. So first question, in the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or stroke, yes or no? Thank you. In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions? Yes or no? Thank you. In the last five years, have you been diagnosed with or waited for any of the following cancers? Lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? Yes or no, Thank you. Do you have a renal kidney condition that currently requires dialysis for transplant or a doctor has advised will be required in the future, yes or no? Thank you. Do you under the condition that will require a transplant in the future, yes or no?
+[10 minutes 30 seconds][Customer] : No, no, no, no, no, no.
+[11 minutes 22 seconds][Agent] : Thank you. Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for motor neuron disease or any form of dementia including Alzheimer's disease, Yes or no? Thank you. In the last five years, have you attempted suicide or been hospitalized by mental health condition? Yes or no? Thank you. And lastly, are you experiencing any unexpensing or are you currently undergoing or waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to leave? Yes or no? OK, great. Thank you so much for answering all of this, Nancy. Now, are you satisfied with the answers you provided? I'm going to submit this application now to see if you are approved. Are you OK with this?
+[11 minutes 34 seconds][Customer] : No, no, no, no.
+[12 minutes 10 seconds][Agent] : Alright, perfect. So whilst we're just waiting for that and perfect. So Delta in Nancy, congratulations, your application has been approved. So what I can do for you? Yeah, awesome. So what I can do for you is I can get you immediately covered over the phone today and I will send you all the policy documents to review. Now Nancy, this policy, it gives you a 30 day cooling off. So if you decide the policy is not suitable for you and you wish to cancel within 30 days and you do cancel within 30 days, you will receive a full refund of your premium unless the claim has been made. So what?
+[12 minutes 22 seconds][Customer] : Oh, no, no, that was, that was only 20. It's only $20 something, isn't it?
+[12 minutes 51 seconds][Agent] : Yes. So I'll just go back, confirm that it's $20.93 per fortnight for $50,000 record of color.
+[12 minutes 57 seconds][Customer] : Yeah, that's, that's right.
+[12 minutes 59 seconds][Agent] : Yes, yeah. So what we do now is we just enter your BSB and account number. You're not required to make a payment today. You just select the date in the future that you'd like the first payment to come out of and then that will be the collection date.
+[13 minutes 12 seconds][Customer] : Probably about the 24th. I get paid the 24th.
+[13 minutes 16 seconds][Agent] : OK, so you did it on 24th. So is that when you want the first collection to be?
+[13 minutes 21 seconds][Customer] : Yeah, please.
+[13 minutes 22 seconds][Agent] : OK, Sure. And then every fortnight it would be umm, it'd be every fortnight on Friday. Umm, $20.93 will be deducted for your first payment. Yeah.
+[13 minutes 31 seconds][Customer] : Yeah, well, I I'll just make sure I leave the money in there because see, I don't, I get, I get paid the Monday, but I get paid this Saturday. So it's one day only, like 1 day. Yeah, I think couple of days only.
+[13 minutes 41 seconds][Agent] : Oh, oh, oh, OK. So you get paid on the 24th, so you won be on the. Do you want to take it out on the 25th?
+[13 minutes 51 seconds][Customer] : What day is that?
+[13 minutes 53 seconds][Agent] : Oh, so yes. So we'll have to go the next Monday. So if you get paid on the 24th, so you want it to be taken up the next working day, which will be a Monday, the 27th of January. Does that sound OK with you?
+[13 minutes 52 seconds][Customer] : Monday, Yeah.
+[14 minutes 4 seconds][Agent] : Alright, OK. So because that Monday is a public holiday, the next collection day is the 28th.
+[14 minutes 14 seconds][Customer] : Yeah, that's, I'll leave it in there.
+[14 minutes 15 seconds][Agent] : OK, so the 20th of January, your first collection day of $20.93 and then every fortnight on Tuesday you'll be deducted for your $5000 worth of I'm sorry, $50,000 worth of cover your your plan. Alright, perfect. Now your account, is this a savings or a cheque account?
+[14 minutes 29 seconds][Customer] : Yeah, I've got both. I've got savings and a cheque account.
+[14 minutes 39 seconds][Agent] : OK, so would you based pay an account number you provided for you? So just let me know what account type that is.
+[14 minutes 45 seconds][Customer] : I'm not just store it in my cheque account.
+[14 minutes 52 seconds][Agent] : No, sure. No, you're fine.
+[14 minutes 49 seconds][Customer] : Hang on, I've just got to go on my net 'cause I I won't remember it and I thought that's cheap.
+[15 minutes][Agent] : Yeah.
+[14 minutes 58 seconds][Customer] : 50,000 holiday is tomorrow's about today.
+[15 minutes 20 seconds][Agent] : Sorry. Yep, 799, perfect. And your account number? Yep, Yep. OK. So I'll just read that back to you. So that's UBS space 082799 and your account number is 139325221.
+[15 minutes 21 seconds][Customer] : My BSB is 08/2 799 13932555221 Yep Yep Yep. What was it? The account number again?
+[15 minutes 55 seconds][Agent] : So that's 139325221.
+[15 minutes 57 seconds][Customer] : Yes, Yep, Yep.
+[16 minutes 4 seconds][Agent] : All right, perfect. And is this a a savings or a cheque account, Nancy?
+[16 minutes 7 seconds][Customer] : Check account.
+[16 minutes 8 seconds][Agent] : All right, perfect. And just confirming the account name is under Nancy Lupica.
+[16 minutes 13 seconds][Customer] : Yep.
+[16 minutes 14 seconds][Agent] : All right, great. Now thank you for that. While we, the declaration organize the policy documents to be sent, we'll just confirm your full name is Nancy Lupica.
+[16 minutes 24 seconds][Customer] : Yeah, I'll get a middle name if you want that.
+[16 minutes 27 seconds][Agent] : Oh, OK, sure. I'll definitely need to add this into your account. Can I just have your middle name please? Oh, sorry. Can you please spell this? Yep.
+[16 minutes 35 seconds][Customer] : Yeah, it's for Nina INANTONIN A Yeah, my dad's, my dad's Italian.
+[16 minutes 45 seconds][Agent] : OK, so that's confirming that's for airport I. Oh, OK. So that's Antonia, Correct.
+[16 minutes 53 seconds][Customer] : Yeah.
+[16 minutes 54 seconds][Agent] : Alright. Perfect. So Antonia.
+[16 minutes 59 seconds][Customer] : Yeah. INA, yeah.
+[17 minutes 1 seconds][Agent] : Oh, sorry, ANTOINA.
+[17 minutes 5 seconds][Customer] : No.
+[17 minutes 7 seconds][Agent] : Yep, Yep.
+[17 minutes 6 seconds][Customer] : INKONINA. Antonina.
+[17 minutes 12 seconds][Agent] : Oh, and Selena, perfect. So I've got this updated for you. Great. And I'll walk with you and your e-mail is nancylupica72@gmail.com. OK, perfect. Now I'm just going to proceed with this, sorry. So we'll need to read, umm, a declaration out to you, which is just order, umm, about the policy and terms and conditions. Now it can take around 5:00 to 6:00 minutes.
+[17 minutes 23 seconds][Customer] : Yeah, yeah.
+[17 minutes 39 seconds][Agent] : So I do, uh, yeah, kindly ask for your patience at the end, I'll ask you, umm, just two questions.
+[17 minutes 50 seconds][Customer] : Yeah, no, I might have to go.
+[17 minutes 44 seconds][Agent] : And then after that, we'll all be done and I can, umm, let you guys enjoy the rest of your day, alright? Oh, OK.
+[17 minutes 54 seconds][Customer] : I've got. I had a rash up in my breast and In Your Dreams.
+[17 minutes 59 seconds][Agent] : Oh, I can.
+[17 minutes 59 seconds][Customer] : And now tomorrow it looks like it's infected yellow, but I'm on antibiotics. It is, but I don't know what's gonna happen. If I should just stop. Stop.
+[18 minutes 3 seconds][Agent] : Oh, oh.
+[18 minutes 8 seconds][Customer] : Can I still get the subject?
+[18 minutes 11 seconds][Agent] : Oh, I guess.
+[18 minutes 11 seconds][Customer] : Just make sure it's up in the end.
+[18 minutes 13 seconds][Agent] : Yes.
+[18 minutes 13 seconds][Customer] : I don't think it would be that.
+[18 minutes 16 seconds][Agent] : Oh, and is it?
+[18 minutes 15 seconds][Customer] : Just in case my dad, my dad died of cancer. He had Cellulitis.
+[18 minutes 21 seconds][Agent] : Yeah.
+[18 minutes 23 seconds][Customer] : So I don't want to get that. You know what I mean?
+[18 minutes 25 seconds][Agent] : Oh, yes, yes, sure. It's just a rash, right?
+[18 minutes 28 seconds][Customer] : Yeah. Yeah. That's all it is.
+[18 minutes 30 seconds][Agent] : Oh, OK. Well, I'm sure the best with that.
+[18 minutes 33 seconds][Customer] : Oh, yeah. Thank you.
+[18 minutes 35 seconds][Agent] : Yeah. So I'll just read the declaration out to you. So thank you. Thank you. Nancy and Tanina Lupica, it is important you understand the following information. I will ask for your agreement to these terms, but the end policy will not be enforced. And if you agree to these terms in full. Seniors life insurance is issued by Hanover Library of Australasia Ltd. Hanover has an arrangement with Greenstone Financial Services, traded as Australian Senior Insurance Agency, to issue an arrangement this insurance on its behalf. Hanover relies upon the accuracy of the information provided when assessing the application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of this product is designed for. Our distribution practices are consistent with this determination. You can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty?
+[19 minutes 33 seconds][Customer] : Yeah. Yes.
+[19 minutes 32 seconds][Agent] : Yes or no, correct?
+[19 minutes 35 seconds][Customer] : Thank you.
+[19 minutes 35 seconds][Agent] : Thank you. We great. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to concentrate for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following Nancy Antonina Lupica received $50,000 in the event of death. If death is as a result of an accident, the benefit payment will include an accidental death benefit, which will equate to a total payment of. Triple the benefit amount. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your cover expires on 11th of the 4th 2057 at 12:00 AM. Your premium for your first year cover is $20.93 per fortnight your premium is set. It will be calculated at each policy anniversary and will generally generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium, calculated on the level basis over the last of the policy. Your premium will be debited from your nominated bank account in the name of Nancy Lipica, which you are authorized to debit from and have provided to us. We may provide reading communications to you via the e-mail address you have provided to us. This will include any legal notices we are required to provide to you. If you would prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents. Ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as a new policy may not be identical to existing cover. We recommend that you do not cancel any existing policy as you have received and reviewed our policy in full. We have a complaint process which you can access at any time by contacting us for details available online and then the documentation we're sending you. Do you understand and agree with the declaration, yes or no?
+[21 minutes 45 seconds][Customer] : Yes.
+[21 minutes 45 seconds][Agent] : Would you like any other information or would you like me to read any part of the PDS to you?
+[21 minutes 51 seconds][Customer] : No, it's alright.
+[21 minutes 53 seconds][Agent] : Perfect, thank you so much. Now before I'll let you go, I'm just calling here so just to set this and let it be done and perfect. So that's all set up and ready for you. So thank you so much Nancy for choosing Australian Finnish Insurance. That's all completed for you. Your documents will be with you shortly. Was there anything else I can assist you with today?
+[22 minutes 15 seconds][Customer] : No, that's it.
+[22 minutes 17 seconds][Agent] : OK, sure. Well, thank you so much for choosing Australian Finnish Insurance. I hope you have a great day and all the best with your your test today.
+[22 minutes 25 seconds][Customer] : You too. Thank you.
+[22 minutes 27 seconds][Agent] : Sure, thank you. Bye now.

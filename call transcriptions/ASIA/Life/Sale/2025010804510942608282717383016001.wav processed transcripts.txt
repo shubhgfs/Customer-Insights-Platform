@@ -1,0 +1,25 @@
+[1 seconds][Agent] : Thank you for calling Australian Seniors. My name is Zora. How can I help? I'm so sorry, ma'am. Ma'am, this is.
+[6 seconds][Customer] : Hi love, I was just talking to some man for my life insurance ID BBSP is 064124 and it's got account number 443311.
+[28 seconds][Agent] : I'm so sorry. Can you hear me properly? OK. So this is Australian Seniors. Are you at the right place?
+[31 seconds][Customer] : Yeah, love, Yeah, love.
+[42 seconds][Agent] : What type of insurance? What? What type of insurance? Yeah. Calls are recorded. What's your date of birth?
+[37 seconds][Customer] : I I just rang and about my policy to get my insurance, Life insurance, the 13th and the 3rd 1946.
+[56 seconds][Agent] : First and last name?
+[59 seconds][Customer] : Rollins ROLLIGS Ruth.
+[1 minutes 2 seconds][Agent] : What's your first name, Ma'am? I can't. Were you just. Ha. Do you already have an insurance in place?
+[1 minutes 15 seconds][Customer] : Yeah, I was just talking to you about my insurance.
+[1 minutes 19 seconds][Agent] : Do you remember? OK?
+[1 minutes 20 seconds][Customer] : I went Saint George and they want training and if I'd die.
+[1 minutes 30 seconds][Agent] : I'm so sorry, Ruth. Can I just check with you? You are a female and an Australian resident.
+[1 minutes 35 seconds][Customer] : Yeah. Love.
+[1 minutes 36 seconds][Agent] : OK. Did you say you were just talking to someone?
+[1 minutes 36 seconds][Customer] : Yeah, yeah, it's something to a man. Love.
+[1 minutes 39 seconds][Agent] : Do you remember the name by any chance?
+[1 minutes 46 seconds][Customer] : No.
+[1 minutes 47 seconds][Agent] : That's OK. Let me find out for you.
+[1 minutes 46 seconds][Customer] : Oh, they're trying to ring up Commonwealth and they're not open, but I have got what's the name here?
+[2 minutes 4 seconds][Agent] : OK, just stay with me. You are talking to a colleague of mine. Coupon. I'll just put you through.
+[2 minutes 9 seconds][Customer] : Yeah, hello.
+[2 minutes 9 seconds][Agent] : OK, Stay with me.
+[2 minutes 11 seconds][Customer] : Yeah, hello.
+[3 minutes 30 seconds][Agent] : Hi.

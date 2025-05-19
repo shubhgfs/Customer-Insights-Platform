@@ -1,0 +1,179 @@
+[11 seconds][Agent] : Hello, Bryce.
+[12 seconds][Customer] : Bryce speaking.
+[12 seconds][Agent] : It's hey Bryce, it's Harry calling from real Insurance. How you doing?
+[16 seconds][Customer] : Yeah, good mate. How are you?
+[17 seconds][Agent] : I'm good, thanks. Thanks for asking. We're following up today regarding the income protection enquiry you recently made with us. Awesome. May I grab your name and date of birth to start a software for today, please?
+[23 seconds][Customer] : Oh yeah, Yep, Yep. It's Bryce Armitage, 28th of the 1st, 1982.
+[30 seconds][Agent] : Yep, thanks. Bryce. All calls are recorded. Any advice that provides general in nature may not be suitable to your situation. Now, Bryce, what we were doing is we were getting the occupation record writing requests from underwriting, umm, for your, for your occupation. So what I've got here, so they've said, come back with an e-mail saying.
+[37 seconds][Customer] : Yep, Yep, Yep. Yeah, that's correct.
+[52 seconds][Agent] : So they, they, they did a risk assessment on the role and they, they're assuming the dragline operations is above ground is, oh, that's so all, Umm, yes. So it's all your work is done above ground. Is that right? Only, is that correct? Yeah, perfect. That's fine then. So let me pop in your updated occupation here. So that, uh, we're gonna pop it in as escavator operator employee, uh, that has the same rating. Umm, based.
+[1 minutes 20 seconds][Customer] : The Draglon Enchirada.
+[1 minutes 21 seconds][Agent] : Yeah, yeah. So it's made that's the same money would have this dragon operator from the above ground. So just pop that in now go go. And you work at least 20 hours a week, is that right Bryce?
+[1 minutes 26 seconds][Customer] : Yep, it's that's 86 I think a week.
+[1 minutes 38 seconds][Agent] : Definitely much more last, a bit easier. If you get them done in less than 20 hours it'd be great. It's my dream. But what do you do now Bryce? With the income protection, if you're unable to work, it's due to deciding sickness and injury and you suffer loss of income. We'll pay you a monthly benefit directly to help you cover your bills and living cost whilst yourself interrupted. So obviously you know you get your bills in living costs as we all do. It can also be used to cover things like rent payments and mortgage payments. Did you guys have anything like that in place?
+[1 minutes 54 seconds][Customer] : Yep, we do. We have got income protection at the moment, but yeah, it's ridiculously big.
+[2 minutes 15 seconds][Agent] : Ah, Yep, Yep, I understand. Definitely see where you're coming from. So we'll provide you a comparison to see whether it could offer you one with more value.
+[2 minutes 22 seconds][Customer] : Yeah, that'd be great.
+[2 minutes 23 seconds][Agent] : Perfect so here your real insurance right price, we offer an income amount from $1000 up to 75% of your monthly pre tax income up to a Max of $10,000 a month. Simple to apply. There's no medicals or doctors appointments required. Just go into the health questions. The simple yes or no health questions. Regarding that one, can I please confirm if you are employed or self-employed? Perfect, so pre tax income means the total enumeration paid by our employee to you before tax. This includes salary, employee compulsory regulation, regular commissions and regular bonuses. Based on that, what's your monthly pre tax income?
+[2 minutes 33 seconds][Customer] : Yep, Yep, in probably pre tax is per month I think. Whoops.
+[3 minutes 12 seconds][Agent] : Well if you know yearly I can always use that, it's a bit easier as well.
+[3 minutes 11 seconds][Customer] : It's yeah, it's about 176,000 a year.
+[3 minutes 19 seconds][Agent] : Perfect. So what I'll do, I'll divide that by 12. Divide by 12, which will give you the average monthly income as $14,667. Perfect.
+[3 minutes 30 seconds][Customer] : Yeah, that's about right, roughly.
+[3 minutes 33 seconds][Agent] : Awesome. Now can I confirm that you've earned this level of income on average for the past 12 months?
+[3 minutes 41 seconds][Customer] : Oh, is that sorry mate?
+[3 minutes 42 seconds][Agent] : Can I confirm that you've earned this level of income on average for the past 12 months?
+[3 minutes 46 seconds][Customer] : Yes, I have.
+[3 minutes 47 seconds][Agent] : Awesome. Now there's two other parts income protection, the waiting period and the benefit.
+[3 minutes 53 seconds][Customer] : Yep. How many? How many days?
+[3 minutes 54 seconds][Agent] : The waiting period is the non payment period that you must fight before the income benefits payable after the insured event. So you so you can. So that's the non payment period that you must say before the income benefits is payable after the insured event.
+[4 minutes 6 seconds][Customer] : Yep. Yep.
+[4 minutes 7 seconds][Agent] : You can choose between 30 or 90 days.
+[4 minutes 11 seconds][Customer] : Oh, you can go 30. Yep.
+[4 minutes 10 seconds][Agent] : Please keep in mind perfect. Please keep in mind the income benefits partners. This means if you choose a 30 day waiting period, your first payment would be 60 days after you were first eligible to claim.
+[4 minutes 23 seconds][Customer] : Yep.
+[4 minutes 24 seconds][Agent] : Based on that, which waiting period was it the 30 days?
+[4 minutes 30 seconds][Customer] : I think So what? What else does that 30 day sort of change?
+[4 minutes 35 seconds][Agent] : That's it. No, that's it. It's the price, the main, the main, I guess the main thing, it affects the price.
+[4 minutes 35 seconds][Customer] : Nothing really does it Can can, can I get just the price on both of them?
+[4 minutes 40 seconds][Agent] : 9 days generally cheaper than the 30 option obviously because you're waiting longer without receiving a payment for sure.
+[4 minutes 48 seconds][Customer] : Thank you.
+[4 minutes 48 seconds][Agent] : So I'll, I'll leave it on the 30 to start and then we can always, always look at the 90 days if you want to look at that one as well.
+[4 minutes 51 seconds][Customer] : Yep, Yep.
+[4 minutes 54 seconds][Agent] : Now with that in mind, once you've waited out the waiting period, the benefit.
+[4 minutes 53 seconds][Customer] : Alright, Yep.
+[4 minutes 59 seconds][Agent] : Starts the benefit. Is the maximum amount of time that we will pay the income benefit for anyone in due illness. So you can choose six months, a year, two years or five years. Which benefit. Would you have in mind?
+[5 minutes 14 seconds][Customer] : So what does that sort of like, how does that work, mate?
+[5 minutes 19 seconds][Agent] : So that's, so that's the maximum amount of time that you get paid for that one in your owner. So say if you were on a six month benefit. If you've got to work for three months and you could go back to the last three months, we will pay for three months, right?
+[5 minutes 18 seconds][Customer] : Like, Yep, Yep.
+[5 minutes 32 seconds][Agent] : If you were to work for seven months, then you'd also only get paid for the full six months.
+[5 minutes 37 seconds][Customer] : Yeah, right, right.
+[5 minutes 38 seconds][Agent] : Do you know what I mean?
+[5 minutes 39 seconds][Customer] : Yeah.
+[5 minutes 39 seconds][Agent] : So at least you can choose from six months, a year, two years or five years. Was there an amount you had in mind? All that one?
+[5 minutes 46 seconds][Customer] : I can't even remember what O was on my other one. I think it was. I can't remember what it was actually.
+[5 minutes 55 seconds][Agent] : That's right.
+[5 minutes 55 seconds][Customer] : What is PE? What are they using guy?
+[5 minutes 58 seconds][Agent] : No, actually, I guess it's not a real common one. It's just depending really What suits you. Want me to start at the one year, Make it always go up again from there.
+[6 minutes 5 seconds][Customer] : Yeah, go for me.
+[6 minutes 7 seconds][Agent] : Perfect. Now have you had a cigarette in the last 12 months? Price. Yes or no?
+[6 minutes 10 seconds][Customer] : Nah, mate, Nah.
+[6 minutes 11 seconds][Agent] : Awesome. So the amount of income you can choose to receive every month ranges from $1000 up to a maximum of $10,000 a month.
+[6 minutes 20 seconds][Customer] : Yep.
+[6 minutes 20 seconds][Agent] : What incoming out are you looking to receive monthly?
+[6 minutes 24 seconds][Customer] : Yeah, it'll be lazy. That probably about 10 grand, I suppose.
+[6 minutes 29 seconds][Agent] : Perfect. So for $10,000 in income protection boss and a 30 day waiting period and one year benefit.
+[6 minutes 41 seconds][Customer] : 115, Hang on.
+[6 minutes 35 seconds][Agent] : You would be paying every fortnight $115.59 Yep 115 a $115.59 a fortnight.
+[6 minutes 50 seconds][Customer] : 115 and what cents?
+[6 minutes 54 seconds][Agent] : 59 That's right.
+[6 minutes 52 seconds][Customer] : 98, 9059 Sorry, 59 cents a fortnight.
+[7 minutes][Agent] : That's right.
+[7 minutes 3 seconds][Customer] : That's at 12 months.
+[7 minutes 9 seconds][Agent] : Yep, that's right. So that's the same reason you broke your leg.
+[7 minutes 6 seconds][Customer] : If I can't go back to work, 10 grand a month. Yep, Yep.
+[7 minutes 12 seconds][Agent] : You wait the waiting period out, you then get paid $10, ten, $1000 a month for up until a year or until you're ready to get back to work for that one in your illness. And then but but down the track, I just repeat so on and so forth.
+[7 minutes 22 seconds][Customer] : Yeah, right I and yeah, right I. So does it cover if I if I have an injury outside of work, that's still covered?
+[7 minutes 27 seconds][Agent] : Different injuries and all this is yes, yes.
+[7 minutes 36 seconds][Customer] : Yep. Right.
+[7 minutes 37 seconds][Agent] : So we, we doesn't matter where you hurt yourself or where you become sick.
+[7 minutes 37 seconds][Customer] : I Yep.
+[7 minutes 41 seconds][Agent] : It doesn't matter if it's at work or not at work.
+[7 minutes 46 seconds][Customer] : Yeah. Right.
+[7 minutes 44 seconds][Agent] : That's covered per covers. You should that you hold off course.
+[7 minutes 48 seconds][Customer] : So that that's it. 30 days from from the first. What's the name? Yep.
+[7 minutes 55 seconds][Agent] : Well, the way the way that starts off right is that safer is going to be broke your leg today, say walking home, for example.
+[8 minutes 1 seconds][Customer] : I make it. I I'll give you the call. And that's 30 days from then. No.
+[8 minutes 4 seconds][Agent] : No, no, no, no, no, said the moment you guys see a doctor, obviously if you broke your leg right, you'd go see a doctor.
+[8 minutes 10 seconds][Customer] : Yep.
+[8 minutes 9 seconds][Agent] : The doctor would say you're breaking your leg, you can't work right.
+[8 minutes 14 seconds][Customer] : Yep. That's from then.
+[8 minutes 14 seconds][Agent] : The moment he told you that, the moment he told you that you can't work, that's on the waiting for it starts.
+[8 minutes 19 seconds][Customer] : Yeah, right. I Yep. No worries.
+[8 minutes 23 seconds][Agent] : Yeah.
+[8 minutes 23 seconds][Customer] : No worries mate.
+[8 minutes 25 seconds][Agent] : Awesome. So has that seen any affordability wise for you there, Bryce?
+[8 minutes 29 seconds][Customer] : Yeah, not too bad. Have you got a direct phone number I can give? I can call you straight away.
+[8 minutes 36 seconds][Agent] : Yeah. Uh, no, just just, uh, call every call comes into the call center anyway, but just say umm, you can just quote your details like your name and date of birth. You'll have the record of me speaking to you. So someone just pop you back to me as well, or uh, either way, and you just ask Harry as well and then they'll transfer you through umm.
+[8 minutes 54 seconds][Customer] : Yep. Yeah, that's all. I just, I just would like to talk to my wife before make any decision at all.
+[8 minutes 59 seconds][Agent] : Yeah, for sure. That's fine. So what we'll do is we'll do the extra questions that come with the income protection.
+[9 minutes 6 seconds][Customer] : Yeah.
+[9 minutes 5 seconds][Agent] : OK, now.
+[9 minutes 6 seconds][Customer] : So it's all ready to go and if we make the call, it's all ready to go. Yeah, that's fine.
+[9 minutes 9 seconds][Agent] : Exactly right and 100%. Now Bryce, give me one second. I'm just going to double check something for you as well. Is that alright for me in a quick hold while I just slow that up?
+[9 minutes 18 seconds][Customer] : Hey mate, no worries.
+[9 minutes 19 seconds][Agent] : Thanks. 1 moment. Thanks for waiting and Bryce, are you there with me? Hey, so sorry to be at the wait.
+[11 minutes 13 seconds][Customer] : Hi mate, that's right.
+[11 minutes 15 seconds][Agent] : So what I will do hop into the questions now. We'll just do the following questions that we haven't done because most of the questions with the life insurance that we went through with you the other day, they're mostly the same. It's just a few questions a bit different.
+[11 minutes 24 seconds][Customer] : Yep, Yep.
+[11 minutes 26 seconds][Agent] : I'm just going to quickly read you out a a couple paragraphs of what's right in so Bryce. Please be aware all calls are recorded for quality and monitoring purposes. Any advice that provide similar nature may not be suitable to your situation. We collect your personal information to provide insurance quotes you should cover and other related services. We will share this with your insurer and make sure with other restaurant service providers for the purpose of administering the policy you're handling claims. Our privacy policy tells you more, including how to access incorrect information and lodge complaints for the approaches of privacy. I also need to inform you about your duty of disclosure. Before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect their decision. To ensure you end on what terms you do not need to tell us things that we already know or should know as insurer or we should be secure a screen sure you have this duty into a time into the contract failed to disclose the matter. We make a false statement and answer our questions. We may be able to define the claim, impose your condition on your policy or avoid your policy entirely.
+[12 minutes 33 seconds][Customer] : Yes.
+[12 minutes 30 seconds][Agent] : Do you understand and agree with this yes or no Thanks Bryce. Just with the income protection as well. Mental illness, mental disorder or advantage cover are excluded under this policy. Please be aware that your premium steps, which means it will generally increase each or the age and keep in mind the premise for income. Our income protection is generally tax deductible, which may make it even more cost effective for you as well.
+[12 minutes 42 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 54 seconds][Agent] : Now the question asked, does your work require you to go underground? Working heights above 20 meters, dive depths below 40 meters, Use explosives or travel to areas experiencing war or civil unrest, or work offshore?
+[13 minutes 10 seconds][Customer] : No.
+[13 minutes 10 seconds][Agent] : No, and branch just quickly. Has anything changed for your health and life since we last spoke? Perfect. How many hours do you currently work per week in permanent paid employment? At least 20 hours or more. At least 15 hours to less than 20 hours or less than 16 hours. Perfect. So at least 20 oz or more. Do you have a second occupation that generates a taxable income?
+[13 minutes 15 seconds][Customer] : No more than 20, No.
+[13 minutes 32 seconds][Agent] : Have you ever been declared bankrupt, A place in receivership, involuntary liquidation or under administration?
+[13 minutes 38 seconds][Customer] : No.
+[13 minutes 39 seconds][Agent] : Are you A, employed or B self-employed?
+[13 minutes 42 seconds][Customer] : Employed.
+[13 minutes 43 seconds][Agent] : Have you been in your current occupation for at least 12 months?
+[13 minutes 47 seconds][Customer] : Yes.
+[13 minutes 48 seconds][Agent] : Do you intend to change your current occupation in the next 12 months?
+[13 minutes 51 seconds][Customer] : No.
+[13 minutes 52 seconds][Agent] : Thanks, Bryce. Next section. Oh, that we've got that one or we've got that one saved skipping through. Do you have existing protection cover?
+[14 minutes][Customer] : Yes.
+[14 minutes 1 seconds][Agent] : Do you intend to replace your existing cover with this application if it works out well for you?
+[14 minutes 6 seconds][Customer] : If it works out well, yes.
+[14 minutes 7 seconds][Agent] : Thank you. And have you ever had symptoms of, been diagnosed with, or traded for, or intend to seek medical advice for any of the following back or neck pain or disorder? Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia. Joint or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Osteoporosis or osteopenia. Any defective hearing or sight other than which is corrected by glasses or contact lenses.
+[14 minutes 23 seconds][Customer] : No, no, no, no, no.
+[14 minutes 49 seconds][Agent] : Wonderful boys. Thank you. OK, see my list it's fine. And other than what you have already told me about, have you ever during your working career required more than two particularly weeks off work due to illness or injury And I think that's all the questions done asked me now. Perfect. Thank you so much for answering those questions.
+[15 minutes 7 seconds][Customer] : No, no worries mate.
+[15 minutes 14 seconds][Agent] : Again there for his price with the results not much change. So congratulations every price you're having approved our income protection as well, which is great to see. So that's the the price it says the most. Same with the $115.59 a fortnight for the $10,000 on a 30 day waiting period and one year benefit.
+[15 minutes 33 seconds][Customer] : So what, what? How much would it change if we change it to five years?
+[15 minutes 38 seconds][Agent] : Got a question for the five year benefit.
+[15 minutes 46 seconds][Customer] : $192.00 and what?
+[15 minutes 41 seconds][Agent] : That would be $192.41 a fortnight, 41 cents a fortnight.
+[15 minutes 48 seconds][Customer] : Sorry, fortnight. No worries.
+[15 minutes 54 seconds][Agent] : Now was there an amount that you were, was there, was there a level of color that you were leaning towards with the widing. Benefit.
+[16 minutes 1 seconds][Customer] : Well, I think yeah, the 30 days I think definitely.
+[16 minutes][Agent] : At all 38 and then with the benefit.
+[16 minutes 8 seconds][Customer] : And then I think we're looking, we thought about five years, I think.
+[16 minutes 13 seconds][Agent] : Yep, perfect.
+[16 minutes 20 seconds][Customer] : Yep.
+[16 minutes 14 seconds][Agent] : So what I'll do is I'm going to send you a pre activation link there price for the income protection.
+[16 minutes 22 seconds][Customer] : Is that tomorrow? What? Carney dot McDonald?
+[16 minutes 24 seconds][Agent] : Yeah.
+[16 minutes 25 seconds][Customer] : Yep.
+[16 minutes 25 seconds][Agent] : Do you want me to send it to your e-mail?
+[16 minutes 26 seconds][Customer] : No, no, no. That's fine. That'll be good, mate. Yep. Thank you.
+[16 minutes 29 seconds][Agent] : Perfect. Yeah.
+[16 minutes 35 seconds][Customer] : Yep.
+[16 minutes 30 seconds][Agent] : That way once you're happy with it, they bought, obviously I'll call you back anyway.
+[16 minutes 40 seconds][Customer] : Yep.
+[16 minutes 37 seconds][Agent] : Just checking, just checking to see how everything's going and if you speak to you and you're happy with it, we can organise over the phone.
+[16 minutes 43 seconds][Customer] : Yep. Yep.
+[16 minutes 43 seconds][Agent] : But if you're happy with it in the meantime, you can go online, click the link in his e-mail and Scroll down. There'll be a buy now button. If it asks you for a password price, it'd be your date of birth.
+[16 minutes 53 seconds][Customer] : Date of birth.
+[16 minutes 53 seconds][Agent] : So month, month, day, year, and then sorry, day, month, year, my apologies.
+[16 minutes 58 seconds][Customer] : Oh. Day month. Yep. Day month. Yeah. Yep.
+[16 minutes 58 seconds][Agent] : And then Yep, yeah. And then we'll just, obviously you just pop that in and you keep the buy now, but it'll ask your payment details and it'll ask your date that you want your first time to come out on.
+[17 minutes 8 seconds][Customer] : Yep. Yep.
+[17 minutes 9 seconds][Agent] : It'll also give you a copy of your health and Wells answers as well. So once you're ready, pop it in and you obviously you're done from that point on, you'll be covered.
+[17 minutes 17 seconds][Customer] : Yep.
+[17 minutes 16 seconds][Agent] : But I'll give you a call back myself anyway on Wednesday.
+[17 minutes 20 seconds][Customer] : Yep.
+[17 minutes 20 seconds][Agent] : And then, yeah, if it works so well for you, we can obviously do the same for you over the phone. And if there's any issues do us today. We can just please give us a call and be happy to sort it out and help you out anytime on this one.
+[17 minutes 29 seconds][Customer] : No worries. Thanks very much, Harry.
+[17 minutes 31 seconds][Agent] : Now it's our pleasure Bryce and I'm just confirming that you're obviously you're a male and you're an Australian resident, is that correct?
+[17 minutes 36 seconds][Customer] : That's correct. Yeah. Bye.
+[17 minutes 37 seconds][Agent] : Perfect. Awesome. So I'll send the pre activation through there for you now and then.
+[17 minutes 42 seconds][Customer] : Thank you.
+[17 minutes 42 seconds][Agent] : Yeah, look forward to, I'll call you back on Wednesday at say 5:30.
+[17 minutes 47 seconds][Customer] : Yep, sounds good.
+[17 minutes 48 seconds][Agent] : Works out well. Have a great rest of the day Bryce, been a pleasure. And if there's any other questions let us know. OK.
+[17 minutes 53 seconds][Customer] : Thanks very much, mate.
+[17 minutes 54 seconds][Agent] : Now it's our pleasure.
+[17 minutes 55 seconds][Customer] : See ya. Bye.
+[17 minutes 54 seconds][Agent] : Speak to you soon anytime. Bye.

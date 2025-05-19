@@ -1,0 +1,64 @@
+[3 seconds][Agent] : Hi Mark, it is Rick again from Real Insurance calling back.
+[6 seconds][Customer] : Yeah, you do.
+[5 seconds][Agent] : Anyway look just because we are on a new call, OK, quick reminder calls are recorded. Any advice provided is general in nature and may not be suitable in the situation.
+[15 seconds][Customer] : Yeah.
+[16 seconds][Agent] : Can I just get you to confirm again your name and date of birth for me please?
+[15 seconds][Customer] : OK, Mark, anything other first of the 4th 61?
+[22 seconds][Agent] : Thank you. Alright, so picking up where we left off.
+[30 seconds][Customer] : Yes.
+[25 seconds][Agent] : So you can of course also find information about our premium structures on our website, alright, Our funeral insurance does give you an early cash out option, OK? So at any time after you reach the age of 85, you can choose to end your cover and we will pay you out 75% of the funeral insurance benefit. OK?
+[41 seconds][Customer] : Yeah, yeah. OK.
+[46 seconds][Agent] : Final thing that we do, so next year following your first policy anniversary date, we're going to refund to you 10% of the premiums you've paid us in that time.
+[57 seconds][Customer] : Yeah, sure.
+[55 seconds][Agent] : So that's our little way of saying thank you, alright? And along with all of your policy documents, we give you access as well to free online legal will. So this is done through a company called Safe Will. It's valued at $160.00. It's a fully legal Australian will you can fill out online and have on record what your wishes are.
+[1 minutes 5 seconds][Customer] : Yep, Yeah. OK.
+[1 minutes 14 seconds][Agent] : OK, so you can tick off another box if you haven't sorted anything out there yet.
+[1 minutes 19 seconds][Customer] : Bye.
+[1 minutes 19 seconds][Agent] : Alright, OK, so it's gonna go to pricing now. Do you have any questions for me so far at all?
+[1 minutes 24 seconds][Customer] : No, no, no.
+[1 minutes 25 seconds][Agent] : No, no. Alright. And so remember cover starts from $3000 up to $15,000.
+[1 minutes 31 seconds][Customer] : Yeah.
+[1 minutes 31 seconds][Agent] : How much would you like to be covered for 15?
+[1 minutes 34 seconds][Customer] : 15 Yep. Yep.
+[1 minutes 36 seconds][Agent] : Alright, so for a $15,000 cover, which remember that will pay out $45,000 if your death is by accident, your payment every fortnight is going to be $50.31 and remember that is designed to stay the same and not increase as you get older. Yep, $50.31 a fortnight.
+[1 minutes 53 seconds][Customer] : $50 Yep.
+[1 minutes 57 seconds][Agent] : Hap. Are you happy with that one Mark? Happy to continue. Yep. Now I need to get your home address. Can I get your post code first please?
+[1 minutes 57 seconds][Customer] : Yep, yes, Yep, my address here.
+[2 minutes 9 seconds][Agent] : Yeah, yeah. Yep. Perfect. Thank you.
+[2 minutes 7 seconds][Customer] : I'll just hold a second #8 Connors close Udrum QLD 4556.
+[2 minutes 35 seconds][Agent] : Perfect. And that's your postal address as well. Beautiful. Do you have e-mail at all that I can put you on? No. OK, we'll and we'll post everything out to you.
+[2 minutes 38 seconds][Customer] : Yeah, no mate, no, yeah, sure.
+[2 minutes 47 seconds][Agent] : OK, now with the first payment, it doesn't have to be today, but what date is suitable for you to have that first payment deducted?
+[2 minutes 56 seconds][Customer] : Probably 2 1/2 weeks.
+[3 minutes 1 seconds][Agent] : Yep. So did you want like the Thursday or the Friday in two weeks time?
+[3 minutes 9 seconds][Customer] : Yeah, probably Friday.
+[3 minutes 12 seconds][Agent] : Yep. So that'll be Friday the 24th of January.
+[3 minutes 16 seconds][Customer] : Yeah, sure.
+[3 minutes 17 seconds][Agent] : Yep. And then it'll be every fortnight on the Friday.
+[3 minutes 20 seconds][Customer] : Yeah.
+[3 minutes 19 seconds][Agent] : Yeah, perfect. And then, Mark, I just need to get your BSB number and account number, please.
+[3 minutes 27 seconds][Customer] : PSP and account number.
+[3 minutes 29 seconds][Agent] : Yep.
+[3 minutes 33 seconds][Customer] : PSP.
+[3 minutes 33 seconds][Agent] : Or if it's easier, we can use a debit card, a Visa card or MasterCard if that's easier for you.
+[3 minutes 41 seconds][Customer] : I've got a way. Go to debit cards.
+[3 minutes 57 seconds][Agent] : Yeah. Alright. I'll give me AM, I'll pause the recording. OK. So for security purposes, while obtaining your card details, the call recording will stop and we'll recommence after we've collected those details, OK? None. Reaching out, the final declaration, it takes a couple of minutes. There's two questions at the end, then yes or no answers and then we're done. All right, So just please be advised that the call recording has now resumed for quality and monitoring purposes.
+[4 minutes 57 seconds][Customer] : Yeah, yeah, yeah. OK.
+[5 minutes 6 seconds][Agent] : All right, so the declaration of reads. Thank you. Mark Anthony Gunner, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full.
+[5 minutes 22 seconds][Customer] : Yeah, yeah.
+[5 minutes 22 seconds][Agent] : Real funeral cover is issued by Hanover Life free of Australasia Limited, whom we refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, trading as real insurance, to issue an arrange this insurance on its behalf. Your answers to the application questions and any related documents form the basis of your contract of insurance and Hanover relies upon the accuracy of the information you're provided when assessing your application. However has today target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and to correct your information and lodge complaints about breaches of privacy. By agreeing to this declaration, you consent to be contacted by us in relation to other products and services. You can opt out this at any time. By contacting us, you've agreed to take out a single wheel funeral cover with the following cover. Mark Anthony Garner is covered for $15,000 in the event of death. In the case where death is accidental or if you suffer to find accidental serious injury, the benefit amount will triple.
+[6 minutes 2 seconds][Customer] : Yep, Yep, Yep, Yep.
+[6 minutes 50 seconds][Agent] : Cover is for accidental death only for the 1st 12 months of cover, with death by any cause or diagnosis of a terminal illness covered thereafter. Accidental Serious Injury cover for each Life Insured Underage 75 starts immediately and ends on the policy anniversary following the Life Insured 75th birthday. Once a Life Insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you will no longer have a right to claim under the policy for that Life insured. This policy is an insurance policy and does not have a savings or investment component. You can end your cover at any time by contacting us. If you stop paying your premiums, we may end your cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off.
+[7 minutes 38 seconds][Customer] : Yep, no.
+[7 minutes 45 seconds][Agent] : If cover continues beyond age 85, the life insured will receive an additional 25% of bonus cover from that date and you'll not be required to pay any further premiums. The bonus cover is not payable if the early cash out option has been taken out. Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point. Your total premium for your first year of cover is $50.31 per fortnight. Your premiums are level, which means designed to stay consistent year on year and will only change if you alter your cover while the insurer adjusts the premium rates applying to your policy.
+[8 minutes 22 seconds][Customer] : Yep.
+[8 minutes 22 seconds][Agent] : The insurer can only make a change if it is applied consistently across all policyholders. You may pay more in premiums than the benefit amount over the life of the policy. Included in your premium is an amount payable to real insurance of between 34% and 54%, calculated on a level basis over the life of the policy. Your premium will be debited from your credit card, which you authorized to debit from and have provided to us. We may provide written communications to you via the e-mail address you've provided to us, and this will include any legal notices we are required to provide you in writing. If you'd prefer to receive these only by mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you, and if you've provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you've received and reviewed our policy in full. Finally, we have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation by sending you Mark. Do you understand and agree with the declaration? Thank you. And would you like any other information or would you like me to read any part of the product disclosure statement to you?
+[9 minutes 53 seconds][Customer] : Yeah, no, that's fine.
+[10 minutes 5 seconds][Agent] : Sorry, it was coming out on Friday, the 24th of January and then every fortnight from there.
+[10 minutes 3 seconds][Customer] : Claim had come out OK, no worries, right?
+[10 minutes 14 seconds][Agent] : All right, so you're all covered from now. All right, we'll get those documents. We'll get everything posted out to you. It should arrive in about three to five business days. OK, Alright. Thank you so much, Mark. You have a great day.
+[10 minutes 23 seconds][Customer] : OK, you too.
+[10 minutes 27 seconds][Agent] : You take care.
+[10 minutes 27 seconds][Customer] : Thank you.
+[10 minutes 28 seconds][Agent] : Bye.
+[10 minutes 30 seconds][Customer] : Bye.

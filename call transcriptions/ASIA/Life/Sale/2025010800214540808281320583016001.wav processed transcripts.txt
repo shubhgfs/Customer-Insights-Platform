@@ -1,0 +1,56 @@
+[0 seconds][Agent] : Hello. Are you still there?
+[2 seconds][Customer] : Yeah, I'm still here.
+[4 seconds][Agent] : Thank you so much for your patience. I have Brooke here. She's been to assist you with letting Daniel's daughter as the beneficiaries. And I've let her know we've already done a full ID check or contact details confirmed.
+[14 seconds][Customer] : OK. Thanks very much, Mary.
+[15 seconds][Agent] : Thank you so much. No worries. Thank you. Bye.
+[18 seconds][Customer] : Thank you. Bye.
+[19 seconds][Agent] : Welcome to Australian Cities Insurance customer Support. My name is Brooke. How is that carry?
+[24 seconds][Customer] : I'm good. Thank you. I just want to add my daughter onto the policy. My young daughter. Pardon.
+[26 seconds][Agent] : That's good, not a problem as your beneficiary, a as your beneficiary.
+[35 seconds][Customer] : That's it. Yes, Yes, yes.
+[34 seconds][Agent] : So she's through, she'll receive your sum insured, not a problem. So I can definitely help you with that. What I will need is if I start is her full name, date of birth and and phone number. So do you have all those details?
+[46 seconds][Customer] : Yep, yeah, I've got it all in front of me.
+[49 seconds][Agent] : Perfect, not a problem. I always like to check before we get to that. Alright, and I'll just confirm that you, as the policy owner, are providing an instruction on who to pay the policy benefits you in the event of your death.
+[1 minutes 1 seconds][Customer] : That's right.
+[1 minutes][Agent] : This nomination will be processed in accordance to the conditions set out in your PDS.
+[1 minutes 5 seconds][Customer] : Yep.
+[1 minutes 5 seconds][Agent] : Can you please confirm that you understand and the information you will provide is true and correct? Perfect. Alright, so what's your daughter's first name? Great. Thank you. Surname. Perfect. Thank you.
+[1 minutes 10 seconds][Customer] : O'dooke Kira Ki Double RA Cooper C double OTER the 16th of September 2024. Oh sorry 2004. Sorry.
+[1 minutes 27 seconds][Agent] : Date of birth 2, 1004. Sounds like he's only little.
+[1 minutes 38 seconds][Customer] : Yeah, just no.
+[1 minutes 41 seconds][Agent] : He's not so little.
+[1 minutes 42 seconds][Customer] : It should be 21 this year.
+[1 minutes 45 seconds][Agent] : September 2004.
+[1 minutes 47 seconds][Customer] : Yep.
+[1 minutes 48 seconds][Agent] : Yeah. Not a problem. OK. And she's your daughter. Is she living at the same address or a different address? Same address. So that's 4 Barramay St.
+[1 minutes 54 seconds][Customer] : Yes, she is May St. Manny W Yep.
+[1 minutes 58 seconds][Agent] : Manly West, QLD And the best contact number for Kira. Yeah, yeah, yeah.
+[2 minutes 3 seconds][Customer] : Her telephone number is 0451241609.
+[2 minutes 13 seconds][Agent] : All right.
+[2 minutes 17 seconds][Customer] : That's right.
+[2 minutes 14 seconds][Agent] : And you'd like to receive the full benefit amount, so 100% to go to Cairo. Sure.
+[2 minutes 17 seconds][Customer] : I've, I've got three other kids, but they're all well establishing, you know, and Kyra's my youngest and, you know, make sure. Yeah.
+[2 minutes 28 seconds][Agent] : No, that's all right. Not a problem. So I'll just put 100%.
+[2 minutes 31 seconds][Customer] : Yep. Sakira.
+[2 minutes 30 seconds][Agent] : All right, just applying that now. OK. And I can confirm that your beneficiary has been updated and we'll send you a policy scheduled like this chapter. Check the information is correct.
+[2 minutes 47 seconds][Customer] : OK. Yep. Yep.
+[2 minutes 47 seconds][Agent] : It is also important to contact us should any of the details of your beneficiary change so we can update our records.
+[2 minutes 53 seconds][Customer] : No problem. Yep. No problem.
+[2 minutes 53 seconds][Agent] : This will avoid any unnecessary delay during the claims process when they supply the proof of identity.
+[2 minutes 59 seconds][Customer] : Yep. No.
+[2 minutes 59 seconds][Agent] : And I always recommend as well just letting her know you have a policy so that if something was to happen, she knows just to give us a call and we'll let her know this to be done.
+[3 minutes 6 seconds][Customer] : Oh, she's, she's aware of it. Yeah.
+[3 minutes 8 seconds][Agent] : Oh, perfect. Yeah, nice. Some people don't, but beneficiaries know then yeah, it can be a bit messy and things like that. So I was to say let them know, but there is a policy so they know just to give us a call.
+[3 minutes 9 seconds][Customer] : Yep, yes, Yep. No problems at all.
+[3 minutes 18 seconds][Agent] : Alright, perfect. So that's all done for you.
+[3 minutes 23 seconds][Customer] : OK.
+[3 minutes 23 seconds][Agent] : And so you, because it's set up today.
+[3 minutes 33 seconds][Customer] : OK.
+[3 minutes 26 seconds][Agent] : I think what happens is you'll receive your welcome document, which will have no beneficiary listed, but then you'll receive an additional letter to say that you've made purchase. So. But yeah, that's all done.
+[3 minutes 37 seconds][Customer] : OK. Thanks very much, Brooke.
+[3 minutes 39 seconds][Agent] : That's alright. Not a problem.
+[3 minutes 39 seconds][Customer] : OK, thank you.
+[3 minutes 40 seconds][Agent] : You enjoy the rest of your day.
+[3 minutes 41 seconds][Customer] : OK, thank you. Bye. Bye.
+[3 minutes 43 seconds][Agent] : Thanks, Kerry. Bye.
+[3 minutes 44 seconds][Customer] : Bye.

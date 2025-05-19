@@ -1,0 +1,261 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Oh, hi. Friday, it's Francis. He calling from real insurance. How are you today?
+[6 seconds][Customer] : I'm good. Thank you.
+[7 seconds][Agent] : Excellent, great to hear.
+[15 seconds][Customer] : Yeah, actually just there. Yeah. It's so quick. That's good.
+[9 seconds][Agent] : Friday, we did receive your expression of interest a moment ago in reference to our income protection insurance and also, yeah, yeah, it becomes from the real time Friday during business hours. And look, I guess the reason for that, so we can run you through those options and see if we can help answer any questions that you've got as well.
+[29 seconds][Customer] : Sure.
+[29 seconds][Agent] : Yeah, thank you. Miss Fidy says if I can do that for you, just Please note all calls are recorded. Any advice I provide in general in nature may not be suitable to your situation.
+[29 seconds][Customer] : Yeah, good.
+[39 seconds][Agent] : Now, I've got your details here as Mr. Fidy fam, is that correct?
+[43 seconds][Customer] : That's right.
+[44 seconds][Agent] : Date of birth, first of the 2nd 82.
+[47 seconds][Customer] : That's right.
+[48 seconds][Agent] : Thank you. And Fidy confirmed that you're both a male Australian resident as well.
+[52 seconds][Customer] : Yep, that's correct.
+[53 seconds][Agent] : Thank you so much, Saadi. Now letting you know that I specialize in your life and income protection insurance team. So any questions you've got today, please let me know. Now, I can definitely see that you actually a customer of ours already. You have our life insurance already, is that right?
+[1 minutes 5 seconds][Customer] : That's right. Yeah, that's right. Yeah.
+[1 minutes 7 seconds][Agent] : Beautiful. Now, if I may ask then, Saadi, and thank you so much for that, Sir. But if I can ask, which prompted you to look into income protection for yourself at this stage?
+[1 minutes 16 seconds][Customer] : See, it's, it's more as increasing security and protection for me and the family. And it's actually, you know, the market is changing all the time. So as a matter of security and Peace of Mind, making sure that something can back up my back if anything happened.
+[1 minutes 34 seconds][Agent] : And I can respect that of course. And in your particular scenario there Friday, what specific expenses or financial needs would you prioritize particularly with that coverage?
+[1 minutes 45 seconds][Customer] : Yeah, it's actually my mortgage and credits, this stuff, this, uh, to make it turn up.
+[1 minutes 52 seconds][Agent] : Same mortgage, uh, so your credit related things. So your friends are credit cards, loans, things like that as well.
+[1 minutes 58 seconds][Customer] : That's right. Yeah.
+[2 minutes][Agent] : Beautiful. And you're married with children there. Sorry.
+[2 minutes 2 seconds][Customer] : Yeah, that's correct.
+[2 minutes 3 seconds][Agent] : Yeah. Beautiful. And how many kids we have there, Sir? Beautiful. And look, I guess the reason that we do ask these questions is because I'm sure that you've got a good understanding.
+[2 minutes 6 seconds][Customer] : 2 MM Hmm. Hmm. Mm.
+[2 minutes 13 seconds][Agent] : Umm, our cover is designed to provide the monthly income benefit paid directly to you if you are unable to work due to a disabled sickness or injury and just after a loss of income and as long as you work Friday minimum 15 hours per week in paid employment then you are eligible to apply for the insurance.
+[2 minutes 29 seconds][Customer] : Sure. Yeah. Mm. Hmm.
+[2 minutes 30 seconds][Agent] : Now how our insurance works Friday is that we offer an income benefit of up to 70% of your monthly pre tax income from $1000 up to a maximum of $15,000. Now you may well be aware Friday when you took you out a life insurance, you may have gone through a process to check your eligibility and to get approval, right?
+[2 minutes 43 seconds][Customer] : OK, that's right. Yeah.
+[2 minutes 51 seconds][Agent] : So the process that we have for the income protection, it's basically health and lifestyle questions that you go through.
+[2 minutes 57 seconds][Customer] : Mm. Hmm. Yep.
+[2 minutes 57 seconds][Agent] : And then at the end it will tell us if you're approved and if and if so on what terms we can offer cover for you, OK?
+[3 minutes 5 seconds][Customer] : OK.
+[3 minutes 6 seconds][Agent] : Now if I be letting you know that once the policy is in place, it will cover you until your policy anniversary following your 6 to 5th birthday.
+[3 minutes 13 seconds][Customer] : Mm, hmm.
+[3 minutes 14 seconds][Agent] : Keep in mind that there are some exclusions that applies outlined in the PDS as well for you.
+[3 minutes 19 seconds][Customer] : Mm, hmm.
+[3 minutes 19 seconds][Agent] : OK. So what I'll do here, Feidi is let me bring up the pricing and then we'll go through those options available because with their income protection, you can select certain options to suit your needs and to customize it.
+[3 minutes 30 seconds][Customer] : Hmm. Mm.
+[3 minutes 30 seconds][Agent] : So let me just bring up the first part here for you. So just basically that I'll need to ask you some questions regarding your duties at work. And before answering any of our questions, Feidi, it is important that you are aware of your duty to answer all of our questions accurately and honestly.
+[3 minutes 37 seconds][Customer] : Yep, that's right.
+[3 minutes 46 seconds][Agent] : Umm, failure to do so could impact recovery claims time. Now, first of all, do you work 15 hours or more per week? Yes or no?
+[3 minutes 54 seconds][Customer] : Yes.
+[3 minutes 55 seconds][Agent] : Is your role of an administrative, managerial, or professional nature where you spend the majority of your time indoors in an office or clinical environment, yes or no? Uh.
+[4 minutes 6 seconds][Customer] : Yes, yeah. I just to clarify this question, I am computer professional, I'm developer.
+[4 minutes 16 seconds][Agent] : Beautiful. So in that case, yes. So this is asking as a whole question anyway. I'm not asking if it's just all of them, but even if it's either of them.
+[4 minutes 12 seconds][Customer] : So I'm an office and working from home and this stuff's yeah, Yep, Yep, Yep.
+[4 minutes 23 seconds][Agent] : So is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment? So I'll just reconfirm that would be yes or no?
+[4 minutes 36 seconds][Customer] : Yes.
+[4 minutes 37 seconds][Agent] : And are you required to perform any physical duties, yes or no? And do you work in any of the following fields, aviation as a pilot or crew, entertainment industry, Air Force, Army, armed forces or do you handle also or do you carry a firearm or handle explosives? Yes or no?
+[4 minutes 41 seconds][Customer] : No, No.
+[4 minutes 56 seconds][Agent] : If you said yes, I'd be wondering what kind of IT work you did.
+[5 minutes][Customer] : Yeah, that's right.
+[5 minutes][Agent] : So yeah, yeah. Was that's coming up there Friday. Can I also confirm with yourself there, Sir? Have you had a cigarettes in the last 12 months?
+[5 minutes 10 seconds][Customer] : No.
+[5 minutes 11 seconds][Agent] : And with your current employment status Friday can I also confirm are you currently employed or self-employed now? The reason why we ask that Friday is because we need to confirm what your annual pre tax income is to help determine what level of cover you're eligible to apply for now letting you know that being employed pre tax income is the total annual remuneration paid to you or you're employed before tax, including salary and regular commissions or bonuses, excluding super contributions. OK, yes. So what is your annual pre tax income? Yes, not before tax 123,000 per year. Beautiful. Now Friday is just.
+[5 minutes 18 seconds][Customer] : Employed true be before tax right Yeah 123K yeah, yeah this is with this is without bonus. The bonus is around three, 3500 on top of it.
+[6 minutes 3 seconds][Agent] : OK. So let me have a look here for you. So is that bonus that's a regular Commission or regular bonus that you receive each year? OK. So you can actually add that on file based on that description that I actually mentioned to you, because as long as it's a regular Commission or bonus, then it's something that you can actually add on to that salary if you like. So it's 123,000 + 3 1/2 thousand, is that correct?
+[6 minutes 11 seconds][Customer] : Yeah, yeah, that's correct.
+[6 minutes 30 seconds][Agent] : OK, beautiful. Yes, so let's do that. That way it will give us some more accurate pricing of and, and in terms of the monthly benefit amount. So Friday I can let you know that based on your duties and income, you can select a monthly benefit amount from $1000 up to a maximum of $7378.
+[6 minutes 54 seconds][Customer] : Mm, hmm.
+[6 minutes 53 seconds][Agent] : That's on a monthly basis.
+[6 minutes 55 seconds][Customer] : Hmm. Mm.
+[6 minutes 55 seconds][Agent] : So what amount would you like me to quote you on at this stage? Friday?
+[6 minutes 59 seconds][Customer] : OK. Can you see the maximum first?
+[7 minutes 1 seconds][Agent] : Yeah, so 7378 dollars. OK, beautiful. Umm, and letting you know the is that because you want to just play around with the different options available?
+[7 minutes 5 seconds][Customer] : Yeah, that's right. Yeah.
+[7 minutes 13 seconds][Agent] : Yeah, no, that's all good. Umm, And there's two other options there for you that you can select which we can play around for you as well. But just as a starting point, there's also a waiting period now to let you know that the waiting period is the non payment period that you must wait before the income benefit is paid after the insured event. Now with the C Friday, you can choose 30 days or 90 days. Please keep in mind income benefits paid monthly in arrears. This means if you choose a 30 day waiting period, your first payment would be six days after your first eligible to claim. Second, I confirm which waiting period would you like me to select for you? The 30 days or the 90 days, please?
+[7 minutes 52 seconds][Customer] : So for confirmation the 30 days over 90 days, this is like if any event happen this is the waiting period before I start getting the payment right?
+[8 minutes 3 seconds][Agent] : That is exactly right, yes.
+[8 minutes 4 seconds][Customer] : OK.
+[8 minutes 4 seconds][Agent] : So you see you start to get paid from the 31st day or the 91st day, but because it's paid in arrears, the first time is 30 days after that, but you still get paid for it. But that 30 and 90 days is the non payment period moving forward.
+[8 minutes 17 seconds][Customer] : Let's stay in line today.
+[8 minutes 19 seconds][Agent] : OK. And there's also a benefit. Friday. So the benefit. Is the maximum amount of time that we will pay the income benefits for anyone injury or illness.
+[8 minutes 30 seconds][Customer] : Hmm. Mm.
+[8 minutes 31 seconds][Agent] : So in this case, you can select either six months, a one year, A2 year or A5 year option. So which benefit. Would you like to select for you?
+[8 minutes 40 seconds][Customer] : Six months.
+[8 minutes 42 seconds][Agent] : Beautiful. OK, So what I'll do there finally is let me calculate all that for you Sophie as an indicative cost. Now as part of the insurance I can let you know as well that included in your policy is a rehabilitation benefit along with a final expenses benefit which pays $10,000 in the event that you pass away.
+[9 minutes 1 seconds][Customer] : Yep.
+[9 minutes 1 seconds][Agent] : OK? Now your you may will be aware that your premium is stepped, which means it will generally increase each age.
+[9 minutes 8 seconds][Customer] : Hmm. Mm.
+[9 minutes 8 seconds][Agent] : And what I'll do Friday is I'll let you know what the the premiums are not only for now, but the following year as well. OK.
+[9 minutes 14 seconds][Customer] : That's perfect.
+[9 minutes 15 seconds][Agent] : And if you need to make, you can also find information about our premium structure on our website.
+[9 minutes 20 seconds][Customer] : Hmm. Mm.
+[9 minutes 20 seconds][Agent] : Now finally, given that you also have an existing policy in place for our life insurance, I know that it's a different type of insurance, right?
+[9 minutes 36 seconds][Customer] : Yeah.
+[9 minutes 26 seconds][Agent] : But mostly out of courtesy to yourself that if you are, if you are replacing an existing policy, we recommend that you do not cancel until your application has been approved and you have reviewed this policy in full as it may not be identical to existing cover.
+[9 minutes 42 seconds][Customer] : Mm, hmm.
+[9 minutes 41 seconds][Agent] : And being wonderful Friday that you should also consider the benefits that may not apply or waiting periods may start again as well. OK. But look, I've got the indicative customs here now Friday. But do you have any questions for me in the meantime?
+[9 minutes 53 seconds][Customer] : Hmm. Mm.
+[9 minutes 55 seconds][Agent] : That's beautiful.
+[9 minutes 54 seconds][Customer] : Yeah, I don't know. Yeah.
+[9 minutes 56 seconds][Agent] : So pretty straightforward, beautiful. Now Fidie, I'll let you know that the next step is usually to take you through those sort of lifestyle questions. But given that you wanted to look at different pricing and maybe different options for the waiting period and benefit.
+[10 minutes 9 seconds][Customer] : Mm hmm.
+[10 minutes 9 seconds][Agent] : We can play around with that now. Then once we work out what you want to select, then we can run you through that that process.
+[10 minutes 15 seconds][Customer] : Mm hmm. Mm hmm. Mm hmm.
+[10 minutes 16 seconds][Agent] : But as a starting point if you will check out the maximum level of cover, so $7378 per month worth of as a monthly benefit amount with a night to day waiting period with a benefit period of six months.
+[10 minutes 34 seconds][Customer] : Mm, hmm.
+[10 minutes 27 seconds][Agent] : So each fortnight indicatively that works out at $18.00, so one $818.56 per fortnight.
+[10 minutes 36 seconds][Customer] : Mm hmm.
+[10 minutes 37 seconds][Agent] : And it just states you as well Friday that as an indication if you make no changes to the policy, your premium mix year will be $19.00. So one nine $19.30 per fortnight.
+[10 minutes 51 seconds][Customer] : You said, you said it perfect. Yeah. OK.
+[10 minutes 53 seconds][Agent] : OK, so that's the following year. So based on that their fighting, would you like me to look at, you know, a lower benefit amount or different waiting periods or benefit periods or or do you feel that would be suitable for what you need at this stage? OK. Let me just change that for you 30 days down to 90. So that would make that for you at $36.88 per Fortnite?
+[11 minutes 4 seconds][Customer] : Uh, if we put the waiting period down to 30 days instead of 90, OK, it's double up, I think around double up the price.
+[11 minutes 27 seconds][Agent] : More or less, yes.
+[11 minutes 29 seconds][Customer] : Yeah. OK. Uh, OK, so if we carry 90, it will be around $18.00 point something cents.
+[11 minutes 42 seconds][Agent] : Yeah, $18.56.
+[11 minutes 40 seconds][Customer] : Uh, OK, the OK, OK, so if we keep it in the original, which is the the maximum and the waiting period points today and the purpose for six months and what are the next steps like if I'm interested to continue on, what is the next step of the process?
+[11 minutes 44 seconds][Agent] : So that's for that night today waiting period with the other options mainly the same, yes. So we'll need to check your approval of their file to see if you are eligible for the income protection. So it's those, not the livestock questions that I mentioned to you earlier that we need to take you through, may be quite similar to what you went through for the life insurance, but with income protection, there's a few other questions that's specific to this particular product, OK, which I'll take you through now. And then at the end, if it comes back with a green light, we can explain to yourself, you know, how we can get yourself covered so we can get you out all the documents to review in your own time as an actual policy as well. OK, now what we'll what we'll do there. Friday is just more so to get the formalities out of the way. Your best e-mail is thatstillthefam.fardy@yahoo.com. Your best and only numbers are 0450452728 and you've got 2 addresses on file Friday.
+[12 minutes 36 seconds][Customer] : OK, Yep, Yep, Yep.
+[12 minutes 55 seconds][Agent] : So I've got here your residential address as 17-8 Atlantis Crescent in Gregory Hills 2557 and your postal address as 14 A to Veta St. in Revesby, NSW 2212. Is that still up to date and current?
+[13 minutes 11 seconds][Customer] : Actually, actually the first one is the updated one. So the second one, I need you to change it later. Yeah, it's the 17. A is the correct one.
+[13 minutes 17 seconds][Agent] : OK, so you want to change the OK, so you want to take off the Revesby and put it as the Gregory Hills one.
+[13 minutes 24 seconds][Customer] : Yep, that's right.
+[13 minutes 24 seconds][Agent] : OK, All right, so let me just update that for you. So at least that way we're not sending anything to the Revesby address anymore.
+[13 minutes 30 seconds][Customer] : Yep.
+[13 minutes 30 seconds][Agent] : So let me just change that for you. 228 Atlantis Gregory Hills. Is that the OR and park and all that or?
+[13 minutes 42 seconds][Customer] : Near Orem Park?
+[13 minutes 43 seconds][Agent] : Oh, yeah, yeah. No worries. Yeah.
+[13 minutes 45 seconds][Customer] : Yep.
+[13 minutes 47 seconds][Agent] : There we go. So what I've done there, sorry, just to confirm, I've changed your residential and postal address to now 17-8 Atlantis Crescent, Gregory Hills, 2557. That is all correct now.
+[13 minutes 59 seconds][Customer] : Yeah, that's correct.
+[14 minutes 1 seconds][Agent] : Thank you so much. Now what I'll do there, umm, Fridays.
+[14 minutes 7 seconds][Customer] : Mm, hmm.
+[14 minutes 4 seconds][Agent] : Before we start the application for you, I've just got to read you these two quick paragraphs here, which basically states that when we ask you these questions, if you could please answer honestly and correctly for me.
+[14 minutes 15 seconds][Customer] : Sure.
+[14 minutes 15 seconds][Agent] : Now in addition there Friday, I know that each question may not be relevant to yourself, right? However, if you could please allow me to ask each question in full. Then at the end of each question, I'll personally and I'll prompt you to respond with a yes or no after each question as well, if that's OK with you. OK, so let me just bring it up here Friday so I won't be too long, Sir.
+[14 minutes 33 seconds][Customer] : OK, OK, no problem.
+[14 minutes 39 seconds][Agent] : Thank you so much. OK, here we go. So I'm bringing that up here now. So these two paragraphs there Friday essentially takes about a minute. Like I said, quite simply just states if you could answer the questions honestly, accurately. So bear with me in this way for the following.
+[14 minutes 56 seconds][Customer] : OK.
+[14 minutes 56 seconds][Agent] : So again, Friday, please be aware all calls are recorded for quality and monitoring purposes. And again noting that any advice that you providers general in nature may not be suitable to your situation. We collect the personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy handling claims. Our privacy policy to issue more, including how to access and correct your information and not complaints about breaks your privacy. By proceeding you understand that you are applying to purchase and income protection policy and as such you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any early discussions you have had. If you do not take reasonable care, you may reach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. So if I need to confirm this, Sir, do you understand and agree to your duty, yes or no? Thank you so much. Now the first question is in relation to COVID-19 Friday. And it just reads the following for you. Have you been hospitalized for COVID-19 in the last 12 months? So have you experienced any ongoing symptoms or complications associated with your COVID-19 infection in the last 30 days? Yes or no?
+[16 minutes 5 seconds][Customer] : Yes, hello.
+[16 minutes 28 seconds][Agent] : Beautiful. Now starting the application here. Now the first question reads for you, are you a citizen or permanent residents of Australia or New Zealand? Currently residing in Australia, yes or no? Does your work require you to use explosives, travel to areas experiencing war or civil unrest or work offshore? Yes or no? Now the and I'll reconfirm this Friday, are you a employer to be self-employed? Oh, sorry, we just reconfirmed. Are A employed or B self-employed And have you been in your current occupation in sorry, have you been in your current occupation for at least 12 months? Yes, honour.
+[16 minutes 39 seconds][Customer] : Yes, no, uh, software plus I didn't hear you when employed, yes.
+[17 minutes 13 seconds][Agent] : Do you intend to change your current occupation in the next 12 months? Yes, honour. Now, do you have a second occupation that generates a taxable income? Yes, Honour, have you ever been declared bankrupt or placed in the savership involuntary liquidation or under administration? Yes or no.
+[17 minutes 19 seconds][Customer] : No, no, no.
+[17 minutes 35 seconds][Agent] : Now the next section is in relation to your heights and weight. Please be aware that I'm required to obtain a confident single figure measurement for H in order to continue with the application.
+[17 minutes 45 seconds][Customer] : Mm. Hmm.
+[17 minutes 45 seconds][Agent] : The system does not allow me to enter any approximate figures, words or height and weight ranges.
+[17 minutes 56 seconds][Customer] : 175 centimeter, 103 kilograms.
+[17 minutes 50 seconds][Agent] : So to confirm there Friday, what is your exact height Sir, in either centimeters or feet and inches place and what is your exact weight in kilogram stones or pounds please no worries, let me put that in for you. OK, then moving forward 5, it's now just asking, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? Yes or no? Now, to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV, which causes AIDS? Yes, honor. And do you have, uh, definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? Yes, Honor. Perfect. OK, now we'll bring up the next part here. Finally, you won't belong. So the next question just asks, do you have existing income protection cover?
+[18 minutes 19 seconds][Customer] : No, no, no, no.
+[18 minutes 49 seconds][Agent] : Yes, Honor and up to the health Part 5 in this section here. Now we're going to ask you just one question at the start. That one question applies to all the conditions that are referred to. Then again, after each of the conditions, I'll prompt you for yes or no.
+[19 minutes 4 seconds][Customer] : OK.
+[19 minutes 4 seconds][Agent] : OK, so the question rings. Have you ever had symptoms of being diagnosed with or treated for, or intent to seek medical advice for any of the following? Now the first one reads cancer, tumor, null or cyst, including skin cancer spots, Melanoma or leukemia. Yes Honor. Have you ever had an abnormal PSA test or an enlarged prostate? Yes Honor. Stroke, chest pain, palpitations are heart conditions such as but not limited to heart attack and angina or high blood pressure. Yes Honor.
+[19 minutes 22 seconds][Customer] : No, no, no.
+[19 minutes 38 seconds][Agent] : High cholesterol, Thorid condition, or neurological symptoms such as dizziness or fainting Yes Honor. Diabetes, rice, blood sugar, impaired glucose tolerance or impaired fasting glucose yes Honor. Hepatitis or any disorder of the liver, stomach, bowel, gallbladder, or pancreas yes honor. Epilepsy notes in the wrong disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis yes honor. Anxiety, depression or stress required medical treatment or any other mental health disorder. Yes, Honor. Any illegal drug use? Abusive prescription medication? Obviously. Medical advice or counseling for alcohol consumption, Yes Honor. Disorder of the kidney or bladder, Yes Honor. Blood disorder or disease, Yes Honor.
+[19 minutes 44 seconds][Customer] : No, no, no, no, no, no, no, no, no, no.
+[20 minutes 29 seconds][Agent] : Asthma or other respiratory disorder, excluding childhood asthma, Yes, Honor. Back or neck pain or disorder? Yes Honor. Arthritis, chronic pain, gel, repetitive strain injury, chronic footage syndrome or fibromyalgia Yes Honor. Joint and muscle pain Leg injuries, including replacement or reconstructive surgery, Yes Honor. Osteoporosis, Osteopenia, Yes, Honor.
+[20 minutes 34 seconds][Customer] : No, no, no, no, no, no.
+[20 minutes 55 seconds][Agent] : And the effect of hearing or sites other than which is corrected by glasses or contact lenses? Yes. Honor.
+[21 minutes 4 seconds][Customer] : Can you repeat this question again please?
+[21 minutes 6 seconds][Agent] : Yeah, absolutely fine. So any defective hearing or sights other than which is corrected by glasses or contact lenses? Yes or no?
+[21 minutes 16 seconds][Customer] : It's a tricky question because I'm wearing glasses, so I'm not sure exactly the answer of this one.
+[21 minutes 21 seconds][Agent] : Ah, so, so that's what I was saying. So it's got so if you have like a vision issue, that's fine, right. So it's asking like any defective hearing on site other than which means if it's just glasses of contact lenses, then you can answer no. But if it's for any other, any other thing that you do use other than glasses of contact lenses, then you'd have to answer a yes in that regard.
+[21 minutes 42 seconds][Customer] : Well, OK, so if if that one evision is re related, so I would say.
+[21 minutes 43 seconds][Agent] : OK, yes, so in that case like no one get now Friday I just reconfirm so any defective hearing or sights other than which is corrected by glasses or contact lenses that'll be yes or no beautiful and we're up to the last part. He finally just a handful of questions to go. It's now just asking, other than what you have already told me about in the past three years, have you sought medical advice or treatment by medical practitioner specialists? Are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-ray scans, blood tests or biopsy? Yes, Honor.
+[21 minutes 57 seconds][Customer] : No, no.
+[22 minutes 24 seconds][Agent] : And other than what you have already told me about, are you contemplating seeking medical advice for any symptoms your current experiencing within the next two weeks? Yes, Honor. And other than what you have already told me about, have you ever during your working career required more than two consecutive weeks off work due to illness or injury? Yes, Honor.
+[22 minutes 34 seconds][Customer] : No, no.
+[22 minutes 45 seconds][Agent] : And 3rd last question Friday and we're done for today. This is about family history and it leads to the best of your knowledge, Have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? Yes, Honor and sorry, one second. OK, Perfect. And should I just ask you to the best of your knowledge of any of your immediate family suffer from cancer, heart conditions, stroke or other hereditary disease prior to age 60, yes or no?
+[23 minutes 5 seconds][Customer] : No, the heart disease, yes.
+[23 minutes 27 seconds][Agent] : OK. And for the purpose of the application filing, can I ask who you're referring to please? 50th age. And besides your father, was there anyone else or was it just dad?
+[23 minutes 33 seconds][Customer] : My father, he got I think stroke and he was around 50 of age, I think also my grandfather.
+[23 minutes 45 seconds][Agent] : OK, so this doesn't include extended family fighting. So immediate family is only we're referring to your parents and siblings and only if they're prior to the age of 60. So not including grandparents or uncles and aunties and things like that.
+[23 minutes 57 seconds][Customer] : Sorry, yeah, it's only my father here.
+[24 minutes][Agent] : OK. So in that case, what we'll do is we'll put a yes there for you, given that your dad was under the age of 60 when you had those conditions. So it's now asking father, how many of your immediate families suffered from and this is if applicable with cancer 0123 or more then with heart condition and or stroke 0123 or more and if applicable other hereditary disease 01 or more.
+[24 minutes 3 seconds][Customer] : Yep, 0, 1, 0.
+[24 minutes 31 seconds][Agent] : And last question Friday. And with that, for today, other than one of the events, gift certificate vouchers, do you engage in or intent to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, machinery up sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity, Yes or no?
+[24 minutes 56 seconds][Customer] : No.
+[24 minutes 57 seconds][Agent] : Perfect. And that is the end of the application decided. So what I'll do is I'll have that submitted for you. That'll come back just within a few months to let us know if you've been approved and to see if there's been any changes to anything as well.
+[25 minutes 9 seconds][Customer] : OK.
+[25 minutes 9 seconds][Agent] : OK, just give us 1 moment. OK, So two things I do need to let you know here Friday. So first, all three things. So first of all, the great news is that your application has been approved and your application is approved with the below term. So first of all, there was no added exclusions as well, which is another good thing. The only change that there was Friday, it's showing that that there was actually a premium adjustment. So I do need to advise that we bring MISM to $25.78 per fortnight. And the reason why that's showing that is what they refer to as your BMI, which is due to your BMI levels that you disclosed during the application, generally speaking, your heart to heart ratio, so to speak. OK.
+[25 minutes 56 seconds][Customer] : OK, How much again?
+[25 minutes 57 seconds][Agent] : Yes, So yes, so before it was at $18.56 per fortnight and now it's at $24.78 per fortnight.
+[25 minutes 58 seconds][Customer] : That's how much, OK.
+[26 minutes 10 seconds][Agent] : OK. So the options we have here now Friday is you can always leave it at that maximum level of cover. But given that you're, you've chosen that 90 day waiting period with a benefit period of six months, we can't make that any more or less accordingly. But what we can do that must be benefit amount if you're trying to bring it back down to that sort of 18 to $20.00 per month per fortnight night. We can actually look at a lower benefit amount for you if you'd like us to.
+[26 minutes 38 seconds][Customer] : How much lower to the to $18.00? So it's in the same price Origi original premium?
+[26 minutes 44 seconds][Agent] : Yeah, let me have a look here for you. It will just take me about 30 seconds just to play around with the prices fighting.
+[26 minutes 50 seconds][Customer] : Yep.
+[26 minutes 50 seconds][Agent] : So let me just bring it up for you just one moment, OK? I'm just going to look at 6000 first just to see what that comes to. OK.
+[27 minutes 3 seconds][Customer] : Sorry.
+[27 minutes 3 seconds][Agent] : With all the, I'm just going to look at the $6000 monthly benefit amount for you just to see what that would come to because I've just got to re resubmit it and then it'll bring up the updated pricing based on that amount there and I can let you know as well there finally. But if there is any changes to your BMI moving forward, so you can always have that reassessed moving forward anyway. OK, Now if you were to bring it down to $6000, umm, it doesn't bring it down to the $18.56, but it's $20.96 per fortnight for you based on that $6000 monthly benefit amount.
+[27 minutes 40 seconds][Customer] : OK.
+[27 minutes 46 seconds][Agent] : And like I said, if you're happy to leave it at the 25 odd dollars, umm for that maximum amount, you can do that as well. Just you can let us know. Yes.
+[27 minutes 53 seconds][Customer] : Just as a quick question, this is as an application or this is a quotation for the price you're giving it to me, just to clarify.
+[27 minutes 59 seconds][Agent] : So this is so this is actually given that you've been approved already.
+[28 minutes 8 seconds][Customer] : Yeah.
+[28 minutes 4 seconds][Agent] : So this is actually based on the outcome of the application, which means now that you've been approved and it's got that change, I can then play around with those options and this will be the actual pricing for you.
+[28 minutes 16 seconds][Customer] : Mm hmm. OK. Uh, can, can we hold it off for now? I need to, uh, obviously I need to see if there's any other, uh, provider can give it to me listed because it's jumped from 18 to 24. It's too much. It's, it's, it's jumping a big number now. And this is the fourth month, right? So we took him around $50.00 per month, right?
+[28 minutes 42 seconds][Agent] : Hmm, more or less that's correct.
+[28 minutes 55 seconds][Customer] : Mm hmm.
+[28 minutes 44 seconds][Agent] : So that's the exact fortnight you're right there Friday and whilst you're looking around there, I can let you know umm, because concerning appreciate Friday, you know, if you're trying to work within a certain budget there at this stage, OK, Look, whilst you're looking around, given that you've gone through that process and that you are approved with us Friday, I can let you know that though we're happy for you to look around and get other prices to see if there's anything more suitable.
+[29 minutes 6 seconds][Customer] : Mm hmm.
+[29 minutes 6 seconds][Agent] : You know, given that you've got your life insurance with us as well, what we can do for you there. Finally, we have the alternate process in place here where we can actually get yourself covered based on the option that you would like. Whether it's 6000 or that maximum amount, it is up to you.
+[29 minutes 20 seconds][Customer] : Mm hmm.
+[29 minutes 20 seconds][Agent] : OK, Well get yourself covered for your Peace of Mind. What we'll then do is get all the documents out for you to review.
+[29 minutes 27 seconds][Customer] : Mm hmm.
+[29 minutes 27 seconds][Agent] : OK. And then if you feel there finally, I can let you know that if you start off from the highest level of cover and later on in in time, you can actually give us a call and apply to reduce that level of cover if you need to because it's it's less risk, so to speak. So you can actually apply to reduce the level of cover if you need to, but you can't start off on 6000, apply to increase it in that case, if that makes sense. OK. And then by doing that they're fighting if as long as you're comfortable with that process, what we can do is get you that all the documents to review as well, OK. And then if it's not suitable, there's no lock in contracts with that income protection here anyway, Alright. So it gives you the chance to read through everything just if you need to make those changes, we'll let you know what you're eligible for and then we can we can help you through that process moving forward. But to be able to do that, yeah, we just want to confirm if you do want to leave it at that maximum level of cover or if you did want to reduce it down to maybe 6000 or thereabouts.
+[30 minutes 26 seconds][Customer] : Hmm, OK. Hmm. But if I started now, I'll start paying the premium, right.
+[30 minutes 35 seconds][Agent] : Not necessarily, no, because you can actually choose a payment date that's suitable for you up to 30 days away anyway. Of course, yeah, because there's no luck in contracts.
+[30 minutes 42 seconds][Customer] : So if we go ahead now and if I find something more because I can call and cancel everything, OK. And if I like if if it's done before I do the premium, it doesn't require for me to pay the premium, right?
+[30 minutes 53 seconds][Agent] : And you, that's correct. Yes, if you do, if you apply to cancel before that premium is taken out, then of course, yeah, because nothing's been taken out.
+[31 minutes 5 seconds][Customer] : So we have a calling, we we have a calling of. Right?
+[31 minutes 8 seconds][Agent] : You do 30 days as well.
+[31 minutes 11 seconds][Customer] : OK. If this is the case, OK, we can keep everything that, that, that as the previous assessment not changing in the cover or anything. We can keep it and we have the calling of pre.
+[31 minutes 22 seconds][Agent] : Of course, so that's an option that's there for yourself as well. So if you do want to utilize that Friday, you just give us a call, apply to cancel that and any premiums that you've paid in that time gets refunded back to you in full anyway, as long as the claim hasn't been made.
+[31 minutes 27 seconds][Customer] : MMM, yeah, that's fine. Yeah. So yeah, if we can have this one in place and yeah, we have the putting off. But I need to have the premium to be start to after the 30 days. Is it possible?
+[31 minutes 39 seconds][Agent] : Yep, yes.
+[31 minutes 50 seconds][Customer] : Mm hmm.
+[31 minutes 46 seconds][Agent] : So I'll let you know what day we can choose for you in reference to that, which is the furthest date possible for you. So it's usually up to 30 days away there Friday. So let me have a look here for you. OK, one second. OK. Now also bring up that payment dates for yourself there Friday. So given those options that I gave you before and what options you have available there. So you are happy to have that put in place based on the original choices that you've selected, is that correct? So you can get yourself covered. You have to have the policy in place and be covered with us.
+[32 minutes][Customer] : OK, Yep, Yep, Yep.
+[32 minutes 22 seconds][Agent] : OK, so let me have a look here for you. OK, so it's the 9th today, umm Friday. So just let me play around with the calendar 9th If you do it for the 9th of January, that allows that, yes. So the latest date there Friday would be the 9th of January, which allows us to choose for you.
+[32 minutes 46 seconds][Customer] : That's fine, no problem here.
+[32 minutes 48 seconds][Agent] : OK, beautiful. So we'll do it for that date then Friday. And with your preferred payment method, you can nominate either your base B and account number or debit credit card or use the same account as your life insurance. But I don't have access to that anyway. So you would just need to let us know which account you want us to use there Friday. Beautiful. Is that is that a base B and account number or debit credit card that you used for that?
+[33 minutes 4 seconds][Customer] : I need to use the same one as the life cover and debit card.
+[33 minutes 13 seconds][Agent] : OK. And that's Visa or MasterCard.
+[33 minutes 17 seconds][Customer] : Uh, give me a second.
+[33 minutes 19 seconds][Agent] : Sure.
+[33 minutes 36 seconds][Customer] : So it's a MasterCard.
+[33 minutes 38 seconds][Agent] : OK, beautiful. Now I'll just pause the recording for your security file because we'd never record card details anymore. So let me just pause that for you. So you just basically that for security purposes while obtaining your card details, the call recording will stop and will recommend after we've collected your details.
+[34 minutes 21 seconds][Customer] : The.
+[34 minutes 44 seconds][Agent] : Yes, I'll just close it there because it wasn't opening. So just like just to please be advised that the call recording is now resumed for quality and monitoring purposes.
+[34 minutes 51 seconds][Customer] : None. OK.
+[34 minutes 51 seconds][Agent] : So to answer your question there, Father, you did ask maybe when the recording was off if you do require to have those paying details put in.
+[34 minutes 59 seconds][Customer] : Mm. Hmm.
+[34 minutes 58 seconds][Agent] : So that's your choice there Father to have the policy in place that you are covered. That is a price that we have, so we can provide it. But like I said, rest assured that essentially doesn't get taken out to the nominated day that you've selected anyway. OK, That's to be able to have the policy put in place that you're covered straight away with us.
+[35 minutes 19 seconds][Customer] : OK, that's fine.
+[35 minutes 21 seconds][Agent] : OK, So does that answer your question there?
+[35 minutes 24 seconds][Customer] : Yeah. And after we do this one, you will send me the details like the documents.
+[35 minutes 27 seconds][Agent] : Of course, Of course.
+[35 minutes 28 seconds][Customer] : OK, that's fine.
+[35 minutes 29 seconds][Agent] : So what will happen is I'm just going to open this up again, finally see if we can accept it. But if not, we might need to grab the base ban account number. If this doesn't work, I'm going to try it again, but letting you know once the policy's in place, once I read you the final declaration, we get your acceptance. We e-mail you that policy schedule within that one hour, and then you, we also send you a hard copy within about three to five business days as well.
+[35 minutes 50 seconds][Customer] : OK.
+[35 minutes 50 seconds][Agent] : OK, so just give us one second there. Friday, I'm going to try to open up this payment screen again. Won't belong. OK. So again, for security purposes, while obtaining your card details, the call recording will stop and we'll recommend after we've collected your details.
+[36 minutes 41 seconds][Customer] : None.
+[37 minutes 5 seconds][Agent] : Been accepted and as a result letting you know again to please be advised that the call recording is now resumed for quality and monitoring purposes.
+[37 minutes 13 seconds][Customer] : OK.
+[37 minutes 14 seconds][Agent] : And finally, you are authorized to use that card, of course. Is that correct?
+[37 minutes 18 seconds][Customer] : Sorry.
+[37 minutes 18 seconds][Agent] : Sorry, I'm just confirming that you're authorized to use that card that you provided. Beautiful. Yeah, finally, that brings us to the very end here. Now I'm just going to read you this final declaration takes about two to three minutes to reach. So just bear with me. And then once we get your acceptance, we'll basically let you go and get back to you. Afternoon.
+[37 minutes 22 seconds][Customer] : Yes, OK.
+[37 minutes 38 seconds][Agent] : OK, So let me just bring that up for you. OK, So this rates, thank you for the same. It is important you want to send the following information. I will ask the agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Life RA of Australasia Ltd and we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services and all we refer to as JFS Trading as real Insurance to issue and arrange this insurance on its behalf. Hanover relies upon the information you have provided when association application that includes information will be initially collected from you to provide a quote. Hanover has set a type of market determination for this product which describes the type of concerns this product is designed for.
+[38 minutes 30 seconds][Customer] : None.
+[38 minutes 27 seconds][Agent] : Our distribution practices are consistent with this determination. It can send a copy on our website. I need to remind you of the duty to take reasonable care that you're great to. So Father, can you please confirm you have answered all of your questions in accordance with your duty, yes or no?
+[38 minutes 44 seconds][Customer] : Yes.
+[38 minutes 45 seconds][Agent] : Now it now states that we may from time to time provide offers to you via the communication methods are provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you update. You can update this at any time by contacting us. The accepted cover provides the following insurance cover 4-5 exam. A monthly insured amounts of $7378 with a waiting period of nine days and a benefit period of six months. The monthly income benefit payable in the event of a claim maybe less than the monthly monthly insured amount as your income benefit is under to 70% of your average monthly income over in 12 consecutive months during the two years before you suffered your disabled sickness or injury. Your income benefit can also be reduced if you receive other disability payments from other sources. There is a final expenses benefit of $10,000 paid to your beneficiaries if you pass away while your policy is in place for finding FAN income protection benefit. A loading was applied during the application process. By agreeing to this declaration, you agreed to any non standard exclusions or loading space in your policy and you understand they will remain in place for the life and policy. You may request any of these alternative terms to be reviewed at any time by calling us.
+[40 minutes 2 seconds][Customer] : None.
+[40 minutes 1 seconds][Agent] : Your cover expires in January 9, 2048, 12:00 AM. Your premium for your first year of cover is $25.78 per fortnight. Your premium is step, which means it will be calculated that each policy anniversary and we generally increase each year. Included in your premium is in that payable by handover to JFS of up to sorry of between 37% and 51% to cover costs. Your premium will be debited from your credit card, which are authorized to debit from an app provided to us.
+[40 minutes 30 seconds][Customer] : None.
+[40 minutes 29 seconds][Agent] : The policy documentation, PDS and adversary will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meet your needs. You have a 30 day calling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have the complaints process which you can access anytime by contacting us. Full details are available online and in the documentation we are sending you. So if I were to confirm two final questions. Do you understand and agree with the declaration? Yes or no?
+[41 minutes 16 seconds][Customer] : Yes.
+[41 minutes 16 seconds][Agent] : And last of all, would you like any other information about the insurance now or would you like me to read any part of the PDS to you, Yes or no? So if I think that's all done, so you're now covered for the income protection insurance. When you check your e-mail, please make sure that you check that spam for the first time just in case. But if not, that's all done. Any other questions, feel free to reach back out to us.
+[41 minutes 25 seconds][Customer] : No, that's perfect. Thank you. Sure.
+[41 minutes 38 seconds][Agent] : OK, thanks. All the best to you and your family. And I'll do walk into raw income protection insurance. Take care.
+[41 minutes 46 seconds][Customer] : No problem. Thank you. Bye.
+[41 minutes 47 seconds][Agent] : Thanks. Take care. Bye bye.
+[41 minutes 49 seconds][Customer] : Bye.

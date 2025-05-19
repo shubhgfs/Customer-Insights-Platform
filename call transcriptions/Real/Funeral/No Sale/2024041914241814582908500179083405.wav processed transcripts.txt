@@ -1,0 +1,58 @@
+[1 seconds][Agent] : Good morning, Wheel Insurance. My name. Hi, Shanae. How are you?
+[4 seconds][Customer] : I'm good, thank you. How are you, Shane?
+[6 seconds][Agent] : Good. Good.
+[8 seconds][Customer] : And that's good. I've just called Cecilia here. She has a cover for herself and her husband.
+[13 seconds][Agent] : Yep.
+[13 seconds][Customer] : She did have her two daughters on there, but because of their age, it's expired.
+[18 seconds][Agent] : Yep.
+[18 seconds][Customer] : I told her she's not able to add them back on. They're eligible to take out their own cover.
+[23 seconds][Agent] : Yep.
+[23 seconds][Customer] : She wants a quote to set one up for her daughter. She's 23.
+[27 seconds][Agent] : No worries.
+[27 seconds][Customer] : I can't even do it in a vault here because it's going based off her age and she's 57, so it's not working.
+[31 seconds][Agent] : Yep, uh, all good.
+[34 seconds][Customer] : Let me jump out, alright? And whenever you're ready. I have done all points of ID for Cecilia, by the way. I don't know if you may need to do it again anyway.
+[34 seconds][Agent] : Umm, uh, are you? Have you still got the idea there? Do you mind jumping in and just transferring it straight to one of my agents who's free?
+[50 seconds][Customer] : I'm so sorry. Do you have it there in front of you?
+[52 seconds][Agent] : No, all good. All good.
+[53 seconds][Customer] : I jumped out.
+[53 seconds][Agent] : I'll trans, I'll transfer.
+[54 seconds][Customer] : I'm so sorry.
+[55 seconds][Agent] : All good. No worries, just transfer over. Thanks a lot, Shanae.
+[58 seconds][Customer] : Do 1. Thank you. Have a good day.
+[1 minutes][Agent] : You too.
+[1 minutes 2 seconds][Customer] : Thanks so much for your patience there, Cecilia. I do have my colleague Shane here on the line. He'll be able to assist better. Have a good day. OK. Thanks. Thanks for your help.
+[1 minutes 10 seconds][Agent] : Hi Cecilia, good morning.
+[1 minutes 13 seconds][Customer] : How are you?
+[1 minutes 12 seconds][Agent] : How are you?
+[1 minutes 13 seconds][Customer] : Good.
+[1 minutes 13 seconds][Agent] : I'm good, I'm good.
+[1 minutes 15 seconds][Customer] : Thanks.
+[1 minutes 14 seconds][Agent] : My name is Shannon. I'm one of the managers here. Real.
+[1 minutes 21 seconds][Customer] : Yep.
+[1 minutes 16 seconds][Agent] : I'll just grab one of my, uh, funeral consultants to go through and explain the cover here. Uh, it's for your daughter.
+[1 minutes 24 seconds][Customer] : Yep.
+[1 minutes 23 seconds][Agent] : Umm, she's just advised. Easy done. No worries. Uh, I'll place you on a sorry again. Uh, Cecilia, I'll place you on a quick hold and I'll grab, uh, someone to have this organized for you. Won't be long.
+[1 minutes 33 seconds][Customer] : Thank you. OK, thank you. That's very cool.
+[1 minutes 37 seconds][Agent] : Thanks again.
+[1 minutes 39 seconds][Customer] : Thank you. Yes, yes, yes. So Cecilia on the line, yes.
+[1 minutes 49 seconds][Agent] : Hey, Savesh, so Cecilia on the line, she has cover with us.
+[1 minutes 54 seconds][Customer] : Has cover with us. Yes.
+[1 minutes 55 seconds][Agent] : Uh, so don't go into that profile.
+[1 minutes 55 seconds][Customer] : Uh, so don't go into that profile.
+[1 minutes 57 seconds][Agent] : You'll have to just create a new profile for her daughter and uh, she's looking at cover for her.
+[1 minutes 57 seconds][Customer] : You'll have to just create a new profile for her daughter and, uh, she's looking at cover for her.
+[2 minutes 2 seconds][Agent] : She's in her 20s.
+[2 minutes 3 seconds][Customer] : She's in her 20s. OK for funeral insurance.
+[2 minutes 5 seconds][Agent] : So just Yep.
+[2 minutes 6 seconds][Customer] : Yep. OK.
+[2 minutes 7 seconds][Agent] : So everything from the top on the funeral script.
+[2 minutes 7 seconds][Customer] : On the top of the funeral scripts. OK. Yeah, no problem.
+[2 minutes 11 seconds][Agent] : Thank you.
+[2 minutes 11 seconds][Customer] : We can put that through whenever you're ready.
+[2 minutes 15 seconds][Agent] : Thanks so much for holding there, Cecilia.
+[2 minutes 15 seconds][Customer] : Thank you so much for holding there, Cecilia.
+[2 minutes 16 seconds][Agent] : I have Savesh here and he'll help you organize the funeral cover for your daughter there.
+[2 minutes 16 seconds][Customer] : I have service here, and he'll help you organize the funeral cover for you to order there.
+[2 minutes 20 seconds][Agent] : Thank you.
+[2 minutes 21 seconds][Customer] : Thank you. OK. Thank you. Bye.

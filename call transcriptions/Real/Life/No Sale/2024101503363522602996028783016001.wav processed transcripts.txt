@@ -1,0 +1,214 @@
+[3 seconds][Agent] : Hi there. It's kind of giving you a call from real Insurance. How are you today?
+[0 seconds][Customer] : Hello, please be good yourself.
+[8 seconds][Agent] : Yeah, I'm very good. Thank you for asking. Just giving you that call back in regards to that life insurance inquiry, you're going to speak with my colleagues about that not so long ago there just here today, we'll give you that policy as well as provide you with those pricing options. But just so I can do so, can I just get you to confirm your first name, last name and date of birth?
+[27 seconds][Customer] : Steve Goodzia, 26th of March 1960.
+[32 seconds][Agent] : Perfect. And just confirming as well that you are a male Australian resident.
+[36 seconds][Customer] : I think so. Yes, I am.
+[39 seconds][Agent] : Yeah. Perfect. Thank you so much there, Steve. Now, Please note that all calls are recorded. Any advice that you provide is general in nature and may not be suitable to your situation there. OK, Perfect. Well, what's made you look into the life insurance for yourself there, Steve?
+[53 seconds][Customer] : No, I'm a New Zealand citizen and I'm also becoming an Australian citizen.
+[57 seconds][Agent] : Yeah, Beautiful. OK. Yep.
+[1 minutes][Customer] : So the my current situation as far as New Zealand is concerned, I have a life insurance on my super as well as a trauma insurance.
+[1 minutes 19 seconds][Agent] : OK. Yep. OK. Yep. OK.
+[1 minutes 19 seconds][Customer] : But the the trauma insurance is costing me an arm and a leg, pardon the pun, but it's it's it runs out in March next year on my birthday then it's finished.
+[1 minutes 32 seconds][Agent] : Yep.
+[1 minutes 32 seconds][Customer] : So I'm going to cancel it anyway because it's a it's a waste of my my my time.
+[1 minutes 38 seconds][Agent] : Yep. Mm. Hmm.
+[1 minutes 38 seconds][Customer] : The other thing is the life insurance runs till I'm 70 and then then it stops.
+[1 minutes 45 seconds][Agent] : Yep.
+[1 minutes 44 seconds][Customer] : So my current situation in Australia is my super in Australia is stronger than my super in New Zealand.
+[1 minutes 53 seconds][Agent] : Yep. Beautiful. Yep.
+[1 minutes 53 seconds][Customer] : So I would like to do something in addition on my super, uh, to, to cover my wife should I fall over tomorrow.
+[2 minutes 3 seconds][Agent] : No, certainly. Yes. No, I can understand.
+[2 minutes 3 seconds][Customer] : And, and, and, uh, I'm not willing to take out a trauma 1 because it costs three or four times more than the life insurance because I know the life insurance is, is a reasonably inexpensive because, uh, I mean, my, my dad and my brothers and stuff like that are all in excess of 70 years of age.
+[2 minutes 28 seconds][Agent] : Good to hear.
+[2 minutes 22 seconds][Customer] : And uh, I'm, I'm kind of the youngest and there's nothing wrong with me at the moment, but, but the fact remains that I would like her to be covered should I unfortunately run into something that causes me to fall over so.
+[2 minutes 38 seconds][Agent] : Yes, No, I can understand. I can understand that. Well, that's exactly what this cover is designed to do here, Steve. Uh, but I wanted to let you know, we do generally say that if you are replacing an existing policy, uh, we recommend that you do not cancel it until your application has been approved. Uh, and you have reviewed this policy in full as it may not be identical to your existing cover. Uh, you should also consider the benefits that may not apply or waiting for it to may start again there as well. OK.
+[3 minutes 1 seconds][Customer] : OK, I don't have any life insurance in Australia.
+[3 minutes 5 seconds][Agent] : Yeah, No, that's perfectly fine. That's all good.
+[3 minutes 5 seconds][Customer] : OK, bye.
+[3 minutes 6 seconds][Agent] : We just generally say that when someone says that they've got another policy in place at the moment, regardless of where it is in the world, just to look.
+[3 minutes 13 seconds][Customer] : No, because that, that funny enough, that one, the life insurance I'm going to keep, I'm not getting rid of that.
+[3 minutes 18 seconds][Agent] : Yeah, No, that's perfectly fine. Mm. Hmm.
+[3 minutes 18 seconds][Customer] : So, so look, it's, it's costing me a few dollars a month and, and it's not a problem. So I'm not going to touch that. I'm getting get rid of the trauma one because that's got six months left and then it's gone.
+[3 minutes 27 seconds][Agent] : Yes, No, certainly.
+[3 minutes 29 seconds][Customer] : And, and I'm I don't see why I must waste money in the next six months for that.
+[3 minutes 33 seconds][Agent] : No, that's exactly right.
+[3 minutes 34 seconds][Customer] : And yes, something can happen, but I'm it's one of those things it's it's a dynamic that you have no control over.
+[3 minutes 41 seconds][Agent] : No, that's right. Well, you gotta do what's best for you.
+[3 minutes 42 seconds][Customer] : So that's fine.
+[3 minutes 43 seconds][Agent] : So if that's what's gonna be best for you, that by all means we can definitely help you in that regard. So no, that's no dramas. Well, what I'm gonna do for you today here, Steve, I'm gonna jump into some main features and benefits about this policy here, so you have a good understanding of what we do provide. Umm, and as well umm, we can jump into those pricing options and find that price.
+[3 minutes 57 seconds][Customer] : Yeah, Yeah, that's cool.
+[4 minutes][Agent] : It's gonna suit you best, Uh, perfect. Uh, and as well, umm, if you have any questions for me, please do stop me. I'll be happy to answer those questions for you. Uh, but essentially what our cover is designed to do here, Steve, is to provide financial protection for your loved ones through a lump sum payment if you want to pass away. So as I'm sure you are aware, this can be used to help them pay off any mortgages or loans, uh, maintain their lifestyle and any other cost involved in raising your family. OK, now with us, you can choose anywhere between one to five people to be your beneficiaries to receive that nominated benefit amounts.
+[4 minutes 39 seconds][Customer] : OK, just my wife. Yeah.
+[4 minutes 36 seconds][Agent] : So did you have an idea in mind that he'd like to leave this money to just your wife? Beautiful.
+[4 minutes 41 seconds][Customer] : Yeah.
+[4 minutes 41 seconds][Agent] : Perfect. Well, we do make it nice and easy for you to get her in place. So we send out a form out to you in the mail. You just need to write out her details, sign it off and send it back to us and we'll nominate her for you.
+[4 minutes 52 seconds][Customer] : OK.
+[4 minutes 52 seconds][Agent] : OK now it's very easy to apply with us so we just ask you some help and master questions over the phone to see if you are approved and if so, uh, if you are accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause. The only thing not covered is suicide in the 1st 13 months.
+[5 minutes 14 seconds][Customer] : No, that's that. I've got no problem with.
+[5 minutes 16 seconds][Agent] : No perfect. Good to hear.
+[5 minutes 17 seconds][Customer] : No, I I want to live. I don't want to die.
+[5 minutes 20 seconds][Agent] : No, that's right, No good to hear. Perfect.
+[5 minutes 22 seconds][Customer] : Yeah.
+[5 minutes 22 seconds][Agent] : Uh, now in addition as well there, Steve and knock on wood, I hope this is something you never have to think about. Uh, but there is a terminally ill advance payment that's including the cover here as well. So what that does mean is if you were diagnosed with 12 months or less to live by a medical practitioner, we can then pay your benefit amount in full out to yourself to help out with any of those medical expenses. OK, now we do help out to the family that when you want to pass away as we also include a $10,000 advance payment to help in any funeral costs or any other final extension of time.
+[5 minutes 33 seconds][Customer] : OK, OK, OK.
+[5 minutes 59 seconds][Agent] : OK, Beautiful. Did you have any questions for me so far? No beautiful. Well, to to ease your mind in regards to what this policy does provide. This is a lifetime policy. So as long as you continue to pay the premiums, you will you'll be, you'll continue to be covered with us.
+[6 minutes 2 seconds][Customer] : No, no, no, no. OK.
+[6 minutes 16 seconds][Agent] : OK. So this is a lifetime policy in that sense. But in that what we'll do here, we'll jump straight into those pricing options. We'll get everything all sorted here for you. So I do got to ask you, Steve, have you had a cigarette in the last 12 months?
+[6 minutes 30 seconds][Customer] : Not in the last 12 years of 2024 years.
+[6 minutes 35 seconds][Agent] : Beautiful.
+[6 minutes 36 seconds][Customer] : But I don't smoke. I don't smoke.
+[6 minutes 37 seconds][Agent] : No good to hear. No perfect. Good to hear. And it's very healthy decisions there, especially with the prices they're going out at the moment. So I had no good to hear. It's going to help out with those prices there as well.
+[6 minutes 38 seconds][Customer] : I don't believe it, Michael.
+[6 minutes 47 seconds][Agent] : So not, not perfect. Alrighty. And as well, keeping in mind the level of cover that you can choose from there, Steve, those range from $100,000 up to the maximum of $300,000. So was there an amount you'd like me to look at for you?
+[6 minutes 58 seconds][Customer] : OK, well at this stage, just to compare apples with apples, can you do it for 100,000?
+[7 minutes 5 seconds][Agent] : Yeah, yeah, certainly. Yep.
+[7 minutes 7 seconds][Customer] : The reason, as I said, that's the cover that I have on the one in New Zealand and, and so so no, not the trauma, the life insurance. I've got a life in, I've got a life insurance policy and I've got a trauma.
+[7 minutes 12 seconds][Agent] : The 12 months the, the life insurance, Yep, Yep, yeah, of course.
+[7 minutes 20 seconds][Customer] : I'm going to get rid of the trauma, not the life, the life I'm keeping so.
+[7 minutes 24 seconds][Agent] : No, certainly.
+[7 minutes 35 seconds][Customer] : OK, Yeah.
+[7 minutes 25 seconds][Agent] : Well, with our life insurance at $100,000 for yourself there, Steve, that is coming up to be a fortnightly premium of $75.37 or if you break it down, it comes with about $5.38 per day. So a lot cheaper than your average coffee.
+[7 minutes 41 seconds][Customer] : No, that's true. That's true.
+[7 minutes 42 seconds][Agent] : Yeah, that's it. So how was that standing in terms of suitability for you there, Steve?
+[7 minutes 46 seconds][Customer] : No, no, that that sounds good.
+[7 minutes 48 seconds][Agent] : Oh, perfect.
+[7 minutes 48 seconds][Customer] : Sounds good. I look, I will discuss it with the boss. I'm in with my wife.
+[7 minutes 53 seconds][Agent] : I know what you meant. Don't worry.
+[7 minutes 56 seconds][Customer] : No call.
+[7 minutes 57 seconds][Agent] : No, of course, no, there's definitely something you can do. I do have a few other things I did want to mention to you there, Steve. So the first thing I wanted to let you know is with this policy, we have something we like to call the real reward. So what that is, is following your first policy anniversary date.
+[8 minutes 2 seconds][Customer] : Yep, Yep, Yep.
+[8 minutes 13 seconds][Agent] : So your first 12 months, we are going to refund you 10% the premiums you have paid in that time. So you will receive $195.95 directly back into your pocket there.
+[8 minutes 18 seconds][Customer] : OK, OK.
+[8 minutes 25 seconds][Agent] : Beautiful. Uh, now as well, we do provide you with a free online legal will that's valued at $160.00 with each policy. Uh, so did you have a will in place at the moment?
+[8 minutes 33 seconds][Customer] : OK, I've got a wool in place, but it's, it's one that my wife and I wrote well off the Internet. So it's got no, it's fine and everything. So it's valid.
+[8 minutes 37 seconds][Agent] : Yeah, Yep, yeah. Mm hmm.
+[8 minutes 45 seconds][Customer] : It's just a matter of matter of we didn't at the time we wrote it about six months ago, not six months, six years ago, we were changing.
+[9 minutes][Agent] : Yep.
+[8 minutes 56 seconds][Customer] : There was changes in our lives that we wanted to just put something in place and we we did it then. But I'm more than willing to go with something that you guys can help us with.
+[9 minutes 6 seconds][Agent] : No, exactly. Well it is to another provider. They are called safe will and what they allow you to do is type up your will online. They then have their own legal team that looks over the whole thing for you and make sure it's all put in correctly.
+[9 minutes 14 seconds][Customer] : OK, OK.
+[9 minutes 19 seconds][Agent] : And once they approve it all they send it back to you to then print off & in front of two witnesses.
+[9 minutes 24 seconds][Customer] : Yep.
+[9 minutes 24 seconds][Agent] : And once that's then done, you have yourself at all.
+[9 minutes 27 seconds][Customer] : OK. No, that's good. That's good.
+[9 minutes 27 seconds][Agent] : So we provided to you completely for free and they make it really easy for you to get all in place and as well organized because it's all online now, perfect. Now, if there was to be any changes that you needed to make within that first 12 months of creating that will as well that provided to you completely for free again as well for the 1st 12 months.
+[9 minutes 43 seconds][Customer] : OK, no, that's good.
+[9 minutes 45 seconds][Agent] : Oh, beautiful. Now the next thing I wanted to let you know of first, Dave, is that with this policy here, uh, your premium is steps, which means it will increase, uh, it would generally increase each year at your age, uh, but without with us. In addition, this policy has automatic indexation. So what that means is each year your sum insured will increase by 5% with associated increases in premiums. Uh, and you also have the option to opt out of that automatic indexation each year as well. So I'll jump into that and explain it for you. So as an indic.
+[9 minutes 54 seconds][Customer] : OK, OK, OK, 'cause I know, I understand that I've, I've got no problem with that. It's just WH what is the anticipated increase that that's the question that I'm gonna ask.
+[10 minutes 26 seconds][Agent] : Yeah, of course. Well, let me talk a bit to that one there.
+[10 minutes 29 seconds][Customer] : OK. Yeah. OK.
+[10 minutes 28 seconds][Agent] : So as an indication, if you make no changes to the policy and you allow that to increase for the next year, your premium for the next year would be $91.50 per fortnight and your benefit amount has increased to $105,000, OK.
+[10 minutes 39 seconds][Customer] : OK, OK, OK.
+[10 minutes 42 seconds][Agent] : Now if you were to opt out of that for the next year, you can do so at every year and keep your benefit amount at 100,000. Your fortnightly increase would only go to $87.14.
+[10 minutes 53 seconds][Customer] : OK. No, that's true.
+[10 minutes 54 seconds][Agent] : OK, so you do save this save quite a bit in regards to that, but uh, you do have the option to have a look at it in that, in that regard. If you wanted to increase it, you can. If you don't, you don't have to.
+[11 minutes 3 seconds][Customer] : Yeah. No, that's good.
+[11 minutes 3 seconds][Agent] : OK, perfect. Now you can also find information about our premium structure on our website there. Uh, but Steve, I wanted to ask you, how is it all sounding so far? Mm Hmm.
+[11 minutes 12 seconds][Customer] : That's good. That's good. Look, I'm, I'm, I'm a very pragmatic person. I, I also think very logical and, and what I'm hearing is makes sense and, and there's no problem there.
+[11 minutes 20 seconds][Agent] : Yep, beautiful.
+[11 minutes 25 seconds][Customer] : So that's why, that is also why one of the reasons why I don't want to get rid of the one I have in New Zealand, because that one, that one is doing exactly what you are telling me now.
+[11 minutes 33 seconds][Agent] : Yeah, no, of course, beautiful.
+[11 minutes 38 seconds][Customer] : So, so that's why I say I'm familiar with what's happening and, and, but for me, it's not a, a pie in the sky, if you understand.
+[11 minutes 47 seconds][Agent] : Yeah, I get you, I get you. Well, in that sense then stays the next step there for you was to take you through the health and lifestyle questions there and get you approved for the cover. Uh, but in order for me to do so, I do just gonna take down a couple more details there with you. So can I just confirm your e-mail address? Yep. 266@gmail.com. Beautiful. OK, Uh, and what was your, umm, what was your phone number? I've got 0475865223.
+[11 minutes 56 seconds][Customer] : OK, alright, cool steve.goodsea266@gmail.com 225 otherwise you would not have got hold of me.
+[12 minutes 23 seconds][Agent] : Yeah, no perfect, no perfect. Alrighty. And as well, what was your home address?
+[12 minutes 32 seconds][Customer] : Unit 279 to 81 Albert St.
+[12 minutes 41 seconds][Agent] : Albert St.
+[12 minutes 38 seconds][Customer] : in Wellington, 2027.
+[12 minutes 44 seconds][Agent] : OK, and what was the post code 747? Umm. So would you say the the the suburb was?
+[12 minutes 42 seconds][Customer] : Yeah, 2747 Wellington. WE double RINGTON.
+[13 minutes][Agent] : Beautiful perfect I'll put that in for you now. Beautiful OK and is that the same as your postal address as well? Beautiful Alrighty. OK, I'll just jump out of this because apparently the e-mail didn't save over so it was Steve dot uh, Kotzia, uh, what was the numbers on that one?
+[13 minutes 7 seconds][Customer] : Yes, it's yeah, 2662266. Yep, that's right.
+[13 minutes 21 seconds][Agent] : Sorry, 2 beautiful@gmail.com Perfect. I just wanted to make sure I got that done correctly.
+[13 minutes 30 seconds][Customer] : No problem.
+[13 minutes 31 seconds][Agent] : OK, perfect. Uh, and just before we do Hope and Spurs help and ask our questions there, I do have something we call the pre, uh, the pre underwriting disclosure, but I'm just gonna read off to you. It's just gonna outline all those health questions and how to answer them correctly.
+[13 minutes 41 seconds][Customer] : Yeah, OK, cool.
+[13 minutes 43 seconds][Agent] : There no perfect. So it just says here. Please be aware all calls are recorded for quality and monitoring purposes. Uh, we collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administrating your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchasing in uh, a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any early discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. That just asks, do you understand and agree to your duty, yes or no? Beautiful. Thank you so much for that. I know the first question I have for you before getting into the main ones, uh, is in regards to the pandemic we had go through. So that just asks, have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no?
+[14 minutes 45 seconds][Customer] : Yes, No.
+[15 minutes 3 seconds][Agent] : No, Good to hear. Uh, and are you a citizen or permanent resident of Australia or New Zealand?
+[15 minutes 10 seconds][Customer] : Yes.
+[15 minutes 8 seconds][Agent] : Currently residing in Australia, yes or no Beautiful. Does your work require you to go underground? Work at heights above 20 meters, dive to that's below 40 meters, use explosives or travel to areas experiencing war or civil unrest or work offshore? No, The next section is in relation to your heights and weights. So please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to attend approximate figures, words or heights and weight ranges. So what is your exact heights? How tall are you?
+[15 minutes 23 seconds][Customer] : No One. 1.88 metres.
+[15 minutes 43 seconds][Agent] : Yes. So 188 centimeters.
+[15 minutes 46 seconds][Customer] : Yep, that's correct.
+[15 minutes 46 seconds][Agent] : Yeah. Beautiful. OK. And what is your exact weight?
+[15 minutes 50 seconds][Customer] : 107 kilograms.
+[15 minutes 52 seconds][Agent] : 107 kilograms. Beautiful. OK. And have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months? No, they're all good. I wish that you were OK. Yeah. No.
+[16 minutes 1 seconds][Customer] : Not unexplained, no, no, I like to lose weight, but the fact that they may not not unexplained. I I know I'm I'm trying to lose or you know, I'm continually trying to lose weight because I see the benefit now.
+[16 minutes 18 seconds][Agent] : No, that's right.
+[16 minutes 18 seconds][Customer] : I used to weigh a bit more than that, but a lot more than that.
+[16 minutes 24 seconds][Agent] : No, congratulations.
+[16 minutes 24 seconds][Customer] : But I've I've over, over, over the many, many years I've by good eating and proper eating, I've got my way down.
+[16 minutes 34 seconds][Agent] : That's the main thing. No good to hear. No perfect. OK, now the next question to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? No perfect. And do you have definite plans to travel or reside outside of Australia? Are you booked or will be booked to travel within the next 12 months?
+[16 minutes 45 seconds][Customer] : No to to New Zealand to visit my kids and back. That's all.
+[17 minutes][Agent] : Yeah, beautiful. Perfect. I'll put that in for you there. So I'm saying yes, it does open up saying which countries you tend to travel through or reside in. I can put in New Zealand. That's all good.
+[17 minutes 7 seconds][Customer] : That's right. Yeah.
+[17 minutes 8 seconds][Agent] : New Zealand. Beautiful. OK Is there any other countries you tend to go to? No. Perfect. OK Uh, when will you be overseas for longer than three consecutive months? No. All good.
+[17 minutes 14 seconds][Customer] : No, no, no, definitely not.
+[17 minutes 22 seconds][Agent] : You hope. Perfect. Well, I hope you enjoy your trip.
+[17 minutes 23 seconds][Customer] : Maybe 3 weeks?
+[17 minutes 25 seconds][Agent] : Yeah, that's it. That's it now. Well, I hope you enjoy your trip. It's gonna, I hope it's a, it's a good time. Uh, but no, you will have the peace of minds knowing that this policy does protect you 24/7 worldwide.
+[17 minutes 36 seconds][Customer] : OK, that's good.
+[17 minutes 36 seconds][Agent] : Oh, beautiful. Uh, now do you have existing life insurance policies with other life insurance companies with the combined total sum assured of more than $5 million? No, All good. OK, Now this next section is in relation to your medical history. So the way it works is there is one main question that refers to each and every one of the sub questions and I just need a clear yes or no. And what's rather to the next one?
+[17 minutes 46 seconds][Customer] : No, OK, OK.
+[18 minutes 1 seconds][Agent] : Beautiful. So it just says here, have you ever had symptoms of, been diagnosed with or treated for, or intends to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma or leukemia? Yes or no? Have you ever had an abnormal PSA test or enlarged prostate? Stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure, high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose. Hepatitis. What need? Disorder of the liver, stomach, bowel, gallbladder or pancreas. Epilepsy, multineuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[18 minutes 17 seconds][Customer] : No, no, no, no, no, no, no, no, no, no.
+[19 minutes 4 seconds][Agent] : Any illegal drug use, abusive prescription medication, or received medical advice or counseling for alcohol consumption. Disorder of the kidney or bladder, blood disorder or disease, asthma or other respirators, other respiratory disorder, excluding childhood asthma.
+[19 minutes 10 seconds][Customer] : No, no, no, no, no.
+[19 minutes 23 seconds][Agent] : Beautiful. I think that's the quickest of going through that section there. So well done. OK, perfect. Now, other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Yes or no? Perfect. And other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Perfect. OK, now this next section is in relation to your family history, so we are referring to your immediate family, meaning your father, mother, brothers or sisters. OK, so to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adenomatous polyposis? No, that's it. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 16? Oh, beautiful, good to hear. OK, now the last question here, Steve, is just to see just how much of A DAW you are.
+[19 minutes 48 seconds][Customer] : No, no, OK, OK, that swear words is good, but no, no, OK.
+[20 minutes 44 seconds][Agent] : So other than one of the vents, so gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering up sailing, scuba diving deeper than 14 meters, cable wreck diving or any other hazardous activity? Yes or no?
+[21 minutes 7 seconds][Customer] : No, OK.
+[21 minutes 7 seconds][Agent] : No, you wouldn't catch me doing any of those things like that, don't you worry. Oh, beautiful. OK, I'll put in all those answers in for you there, Steve. And with no surprise, a massive congratulations. You have been fully approved for the cover there. Now being fully approved is the best, best case scenario. So there's been no exclusions, no loadings, nothing that's been placed additionally onto the policy. So well done.
+[21 minutes 31 seconds][Customer] : No, that's good. That's good.
+[21 minutes 32 seconds][Agent] : No, Perfect, Perfect. Well, now that you have been fully approved for the cover here, Steve, we have pretty much gone through everything about the policy here for you. Now, I know you wanted to go back and speak to your partner about that one and make sure that it was gonna be something right for you. So I do have two options available for you here.
+[21 minutes 48 seconds][Customer] : OK.
+[21 minutes 48 seconds][Agent] : The first option is I can get some generic information about the policy and the quote out to you to read through with your partner and make sure it's gonna be right for you. Alternatively, what I can do is I can get that protection in place for you over the phone here today. That way you've got the pace and minds that is, if something was to happen, your partner there would have that financial protection, uh, now, but does it require you to make those payments today? And if you decided that the policy is not suitable for you within the 1st 30 days, we do provide you with that cooling off. There. So you can give us a call, cancel that policy and any premiums you have paid would then be refunded back to you. So umm, that's that is refunded back to you unless a claim has been made. So would you likely to get that generic information out or send out that full policy documentation out of yourself there now once?
+[22 minutes 36 seconds][Customer] : I I, I believe because as I said to you, I'm quite a pragmatic person.
+[22 minutes 40 seconds][Agent] : Yep. Yeah, of course. No, certainly.
+[22 minutes 40 seconds][Customer] : I would prefer to 1st discuss it with her before I go ahead and, and, and The thing is, I'm not going to dawdle on it.
+[22 minutes 52 seconds][Agent] : Yes.
+[22 minutes 49 seconds][Customer] : I'm not going to take six months before I decide that's definitely not the case. I will discuss it with her and I will get back to you as soon as humanly possible.
+[22 minutes 59 seconds][Agent] : No, certainly.
+[22 minutes 59 seconds][Customer] : If you, if you send me the e-mail, I will discuss it with her and I will reply on that e-mail and then you can give me a call or however we want to do it and then take it from there.
+[23 minutes 10 seconds][Agent] : OK, perfect. So what I can what I'm actually going to do for you there, Steve. So because you have been fully approved for the cover, I'm going to e-mail you your policy schedule for the $100,000 that is all pending activation.
+[23 minutes 20 seconds][Customer] : OK, OK. No. Cool.
+[23 minutes 22 seconds][Agent] : So what you can do, you will receive your health and master application questions and your responses.
+[23 minutes 27 seconds][Customer] : Yeah. OK.
+[23 minutes 28 seconds][Agent] : You can go into the e-mail, review what we have discussed today, and when you are ready, you can actually activate the policy for yourself by just clicking the Buy now button.
+[23 minutes 35 seconds][Customer] : OK, OK, cool. No, that's good. That's good.
+[23 minutes 37 seconds][Agent] : OK, now it is all going to be password protected, but that password is just going to be your date of birth.
+[23 minutes 44 seconds][Customer] : OK, no.
+[23 minutes 43 seconds][Agent] : So nice and easy.
+[23 minutes 44 seconds][Customer] : Cool.
+[23 minutes 44 seconds][Agent] : 26/03/1960.
+[23 minutes 47 seconds][Customer] : Cool. Excellent. No, that's good. That's good.
+[23 minutes 49 seconds][Agent] : No, all good otherwise. What I'm gonna do for you as well as Dave to make sure that I'm keeping this application open for you.
+[23 minutes 56 seconds][Customer] : Mm Hmm.
+[23 minutes 55 seconds][Agent] : I'm gonna set up a call back for sometime in the near future. So that way, if I see that it's still open there for you, I can get back in touch with you, answer any questions you may have, and help you out with an inquiry further from there.
+[23 minutes 58 seconds][Customer] : OK, No, that's good.
+[24 minutes 7 seconds][Agent] : No.
+[24 minutes 7 seconds][Customer] : That's good.
+[24 minutes 8 seconds][Agent] : Perfect. So is there going to be a day and time I can give you that call back? Yeah, of course.
+[24 minutes 11 seconds][Customer] : I think it realistically unfortunately tonight, tomorrow night and Thursday night I'm busy with an out of the house training session at work so I'm not going to be able to speak to it tonight. Can we make it for Monday midday?
+[24 minutes 29 seconds][Agent] : Yeah, of course we can certainly. Umm, OK in that regard.
+[24 minutes 32 seconds][Customer] : Because I it, it once I've spoken to her, if it's good, I'm putting it in and I'm gonna activate it and get it going. Not even gonna hassle about that. But that will only be Friday evening.
+[24 minutes 44 seconds][Agent] : Yeah. No, of course.
+[24 minutes 44 seconds][Customer] : So, so, and it's just unfortunate that that is gonna be the case.
+[24 minutes 55 seconds][Agent] : No, I understand.
+[24 minutes 49 seconds][Customer] : And I'm definitely not gonna get home at 9:30 tonight and then start speaking to her about it because I think she, she, she'll love me to bits.
+[24 minutes 58 seconds][Agent] : Yeah, no, I understand completely.
+[24 minutes 57 seconds][Customer] : You know, it was exclamation on the bits.
+[25 minutes 3 seconds][Agent] : No, that's it, that's it. Well, I've got that sent off to you there now, so it should come out to your e-mail address within the next 15 minutes or so.
+[25 minutes 11 seconds][Customer] : Cool.
+[25 minutes 10 seconds][Agent] : I'll give it about an hour just to be safe.
+[25 minutes 12 seconds][Customer] : Yeah.
+[25 minutes 12 seconds][Agent] : Uh, but I have set up a call back for that's, uh, the 21st there.
+[25 minutes 16 seconds][Customer] : OK.
+[25 minutes 15 seconds][Agent] : So I'll give you a call back at 12:00 then.
+[25 minutes 18 seconds][Customer] : Excellent. Thanks a million. I do appreciate your effort.
+[25 minutes 21 seconds][Agent] : That's all good, Steve. That's all good. Well, if I've seen that you have taken out that policy for yourself, my system won't give you that call. So if I don't speak to you, it's been a pleasure and I hope you have yourself a lovely rest of your day.
+[25 minutes 31 seconds][Customer] : Excellent. Fine then.
+[25 minutes 32 seconds][Agent] : Thank you so much. OK, bye now.
+[25 minutes 34 seconds][Customer] : Bye, bye, bye bye.

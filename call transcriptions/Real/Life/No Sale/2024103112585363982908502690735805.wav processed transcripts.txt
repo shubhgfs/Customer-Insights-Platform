@@ -1,0 +1,939 @@
+[2 seconds][Agent] : Welcome to real insurance. You're speaking with guy. How can I help you?
+[6 seconds][Customer] : Hi there mate, I'm just looking to find out some information more or less 'cause I might need eventually some, you know, insurance for me.
+[16 seconds][Agent] : Sorry, mate. You cut out there. What was that?
+[19 seconds][Customer] : Alright, so I'm just looking to get some information because possibly in the future, and I think I might need some, you know, it, it, it's probably what I call it. It's yeah, yeah, yeah. It it's probably important that I may be looking at, you know, fun for my father.
+[38 seconds][Agent] : Funeral funds for your father.
+[39 seconds][Customer] : Yeah, yeah, yeah.
+[39 seconds][Agent] : OK, Yep, I can, I can help you get one organised for him.
+[43 seconds][Customer] : But yeah, I'm also looking for making because I don't understand. Like it's the first time ever really crossing paths with it and all that sort of stuff. So. Yeah.
+[45 seconds][Agent] : What I'll do is yeah, we'll we'll definitely get information out to you either way. But my job's actually explain it to you mate. I've been doing this for around five years now, so I'm happy to, to explaining in depth, ah, every bit about it. I'll give you a chance to ask me questions and I'll clarify and just make sure you, you know how it works. Umm, I'll get you some pricing up while we do that. And if you're happy with everything, I can definitely organize it for you. OK, so today all calls are recorded. Any advice I provide is general in nature, may not be suitable to your situation, of course.
+[1 minutes 4 seconds][Customer] : Yep, Yep, Yep, Yep, Yep.
+[1 minutes 21 seconds][Agent] : And what was? I'll just confirm your details are Sally Mae. What's your date of birth please?
+[1 minutes 26 seconds][Customer] : The 17th of the 6th, 1994. And my full name is Jeremiah Paralyzer Conroy.
+[1 minutes 32 seconds][Agent] : Don't be there. How do I spell your name? Jeremiah? Yep, Yep. And then sorry, first and last name will be enough, if that's OK for you.
+[1 minutes 38 seconds][Customer] : Jeremiah, last name is Conroy. Conroy.
+[1 minutes 51 seconds][Agent] : Conroy.
+[1 minutes 52 seconds][Customer] : So that's DONROY.
+[1 minutes 52 seconds][Agent] : Yep, Yep. Thank you. So it's CON. Roger.
+[2 minutes 1 seconds][Customer] : Yep.
+[1 minutes 59 seconds][Agent] : OY, yeah. All good mate. Thank you. How do you just go by jam or do you prefer a nickname or by Jay?
+[2 minutes 7 seconds][Customer] : No, I have to go back to April J, just under J. Yep.
+[2 minutes 11 seconds][Agent] : OK, yeah, no worries mate. I'll call you Jay if you don't mind. That's all good.
+[2 minutes 12 seconds][Customer] : Yeah, yeah, yeah.
+[2 minutes 17 seconds][Agent] : Thanks, man.
+[2 minutes 15 seconds][Customer] : I'm just gonna get a coffee.
+[2 minutes 18 seconds][Agent] : All good. Now I'll just confirm as well your your dad's details so we can get a quote on him. What's his date of birth?
+[2 minutes 18 seconds][Customer] : Yep, Yep. See, I'm just wondering with his father and all that sort of stuff, Possibly when my sister passed. And then when my mother passed, my sister wanted my personal insurance.
+[2 minutes 38 seconds][Agent] : What's that?
+[2 minutes 38 seconds][Customer] : So I'm not due for that. I'm like, and who does that leave? Yep.
+[2 minutes 40 seconds][Agent] : Sorry, Jay, can you so sorry mate, you can't now quite a bit. Are you able to take me off loudspeaker? Is that OK?
+[2 minutes 46 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, no, yeah. Is that a little bit better?
+[2 minutes 46 seconds][Agent] : Just so I can understand that says better, man.
+[2 minutes 51 seconds][Customer] : Alright. Yep.
+[2 minutes 50 seconds][Agent] : Can you explain that for me?
+[2 minutes 53 seconds][Customer] : So when my mother passed, my sister handled her Funeral arrangements and funds and everything like that.
+[2 minutes 58 seconds][Agent] : Right.
+[2 minutes 58 seconds][Customer] : And this time around, that's why I don't have any understanding of it. This time around I was wanting the more or less handle or will come to an understanding whether or not I can get involved in my father's funeral insurance.
+[3 minutes 8 seconds][Agent] : Yeah, man.
+[3 minutes 9 seconds][Customer] : So that's what I've come to really ask you guys today. But how does it really work?
+[3 minutes 15 seconds][Agent] : Yeah, I'll, I'll, I'll explain everything. That's fine. Umm.
+[3 minutes 18 seconds][Customer] : Yeah.
+[3 minutes 19 seconds][Agent] : So. Let me check it.
+[3 minutes 19 seconds][Customer] : Am I able to have multiple funeral like 'cause she'll probably most likely try she'll put one on for him and might even have it or I'm not sure but I'm just yeah Yep Yep.
+[3 minutes 28 seconds][Agent] : Let me start because, uh, like, umm, with us, uh, you can have a maximum amounts per person with us, but what you do elsewhere, we don't have any say. So if your sister wanted to go get a cover elsewhere, that's our choice. Just with our brands, you can only have a certain amount or up to a certain amount with us for that one person.
+[3 minutes 44 seconds][Customer] : Yep, that's what I thought. Yeah.
+[3 minutes 50 seconds][Agent] : Yeah.
+[3 minutes 50 seconds][Customer] : As long as it's with a different company, I can get some for him either way.
+[3 minutes 53 seconds][Agent] : Yep.
+[3 minutes 53 seconds][Customer] : Yeah, fair enough.
+[3 minutes 54 seconds][Agent] : Yep.
+[3 minutes 54 seconds][Customer] : I knew that. Yeah, I thought so.
+[3 minutes 54 seconds][Agent] : So that, let me, let me check this. I'll explain everything. I'll help you as best I can today, Jay. It's all good. Umm.
+[4 minutes][Customer] : Yep.
+[4 minutes][Agent] : So yeah.
+[4 minutes][Customer] : Cheers, legend.
+[4 minutes][Agent] : Today, today. All calls are recorded.
+[4 minutes 3 seconds][Customer] : Yep.
+[4 minutes 2 seconds][Agent] : Any advice I provide general in nature may not be suitable to your situation. And what's your dad's date of birth, mate?
+[4 minutes 8 seconds][Customer] : Oh, darn it, man. It's Oh yeah.
+[4 minutes 14 seconds][Agent] : So yeah.
+[4 minutes 11 seconds][Customer] : Yeah, I do know roughly it is the 26th of the 12th 54, I believe.
+[4 minutes 21 seconds][Agent] : Yeah.
+[4 minutes 21 seconds][Customer] : I believe it's 54.
+[4 minutes 22 seconds][Agent] : Are you able to check that for me?
+[4 minutes 22 seconds][Customer] : Yeah, no, I could just. Oh, Dad's. I know.
+[4 minutes 28 seconds][Agent] : So is this is this is this 69?
+[4 minutes 29 seconds][Customer] : Dad's birthday. But what year? What year is he? He's 54, isn't he? Be bang on. Yeah, I know. That's why it's going to cause some dramas. It doesn't matter. I think it's. Yeah, I know. Yeah.
+[4 minutes 49 seconds][Agent] : So I need, I need this to be 100% otherwise what I tell you is going to be irrelevant. So.
+[4 minutes 55 seconds][Customer] : Yeah, it should be. Yeah. 54. It should be. Yeah, I know it's 54. It's 54. Yeah.
+[5 minutes 2 seconds][Agent] : OK so is he 69 at the moment? Do you just turn 69?
+[5 minutes 8 seconds][Customer] : Yeah. Yeah. That's 59 each. Yeah, that's correct. Yeah. 54. Yeah. Yeah. I don't know why I'm checking. Yeah. Yeah. Boxing Day. Yeah. That's how I know that one was. Yeah.
+[5 minutes 12 seconds][Agent] : Yep, so so on on on Boxing Day just after Christmas last year, he turns, he turns 69.
+[5 minutes 21 seconds][Customer] : Second after Jesus. Yeah.
+[5 minutes 23 seconds][Agent] : Yep.
+[5 minutes 23 seconds][Customer] : Yeah.
+[5 minutes 24 seconds][Agent] : Alright cool. So 26/12/1954 that are making 69 years old right now, is that right?
+[5 minutes 29 seconds][Customer] : Yeah, that's correct. Yeah.
+[5 minutes 30 seconds][Agent] : OK. And what's his first name?
+[5 minutes 33 seconds][Customer] : Ricky.
+[5 minutes 34 seconds][Agent] : Ricky?
+[5 minutes 36 seconds][Customer] : Yep. No, no, it's it's just Ricky.
+[5 minutes 37 seconds][Agent] : Is his full name Richard by any chance or just Ricky?
+[5 minutes 42 seconds][Customer] : Yes, Ricky.
+[5 minutes 42 seconds][Agent] : Does he have the same same surname as Vijay?
+[5 minutes 45 seconds][Customer] : Yeah, yeah. So same same name. Yeah, that's correct.
+[5 minutes 47 seconds][Agent] : All right man, Well good, got that for you.
+[5 minutes 52 seconds][Customer] : Yeah, that's Yep.
+[5 minutes 50 seconds][Agent] : And he is a male Australian resident, of course, and you are as well. Yep.
+[5 minutes 56 seconds][Customer] : Yeah, that's correct.
+[5 minutes 57 seconds][Agent] : OK, 0432386765, that's your best phone number.
+[6 minutes 2 seconds][Customer] : Yep, that is correct.
+[6 minutes 3 seconds][Agent] : All right mate, got me there. So nothing came up on file.
+[6 minutes 8 seconds][Customer] : Yep.
+[6 minutes 8 seconds][Agent] : OK with us for him, So that's fine. Umm, did you go by Mr.
+[6 minutes 14 seconds][Customer] : No. And it's it's very much possible that no one's gotten onto it at this stage at all.
+[6 minutes 19 seconds][Agent] : Oh, no, no, no, like his title is did you go by Mr. Mr. Conroy? Yeah.
+[6 minutes 23 seconds][Customer] : Yeah, Yeah, yeah, that's correct.
+[6 minutes 24 seconds][Agent] : And what's, what's your best e-mail, Jay? Yep.
+[6 minutes 29 seconds][Customer] : day-so-notthe1tconroyconroy@hotmail.com.
+[6 minutes 37 seconds][Agent] : P for Peter.
+[6 minutes 39 seconds][Customer] : Yep. At hotmail.com.
+[6 minutes 41 seconds][Agent] : So J-P conroy@hotmail.com OK, that's all fixed up.
+[6 minutes 50 seconds][Customer] : Yep. No, that's alright. It's going awry between my relationship with my sister. She's really just, I don't know. I mean, she's been incredibly petty at times.
+[6 minutes 49 seconds][Agent] : All right, so OK with umm, so, so if you don't mind me asking, I don't want to intrude too much, but why, why have you why have you decided to look into getting cover for for you that at the moment for funeral insurance, right?
+[7 minutes 9 seconds][Customer] : So with all this going astray and everything, I don't really want her in full control of his Funeral arrangements. So yeah, it's, it's the worst thing. And it happened with me mother as well, but with me older brother.
+[7 minutes 17 seconds][Agent] : Yep, right.
+[7 minutes 23 seconds][Customer] : And then now for me father, 'cause he's he's got cancer and we're just trying to see it throwing her through meetings and everything like that. And it's just saying, I don't know. She's been incredibly petty. So I'm just looking into maybe handling so much of it myself so I don't get cut out of what actually happens with him by the end of it.
+[7 minutes 36 seconds][Agent] : Alright, alright, mate, I'm sorry to hear about that. That's not nice.
+[7 minutes 42 seconds][Customer] : Yeah, yeah, hopefully things change.
+[7 minutes 43 seconds][Agent] : Yeah, it's, it's funny what what siblings can do in a in a time like that, isn't it? My arm? I I'm not like my parents still living, but my nan passed a few years ago and my dad and his two sisters that happened and my dad was the yeah.
+[7 minutes 44 seconds][Customer] : But either way, yeah, they get N It's such a strange common thing. Hey, that siblings get nasty when like their parent is quite I'll it's it's weird. Yeah, I've heard about it before too.
+[8 minutes 4 seconds][Agent] : Well, well, like my, yeah, my numbers she on especially past and like I everyone kind of lives far. I live close, so I was close to her, but umm, you know, she didn't have a will or anything. My name didn't really have much to leave. But my dad was the villain. Like he went through the house and he took everything he wanted and didn't tell anybody. And, you know, you know, like it was just, no, it wasn't nice.
+[8 minutes 20 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[8 minutes 27 seconds][Agent] : Like there would have been like plenty of stuff my mum would have wanted me to have for my brother or my sister. Not, you know, my dad just went through and just ransacked the placement. So yeah, I can, I completely understand. That was not the first one I've ever seen, really. It's the first one that's happened to me with my family. So I get where you're coming from. I know it's not nice. And I'm sorry That.
+[8 minutes 33 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah they they've got nothing like saying I'm not in like anything that he has. I even had them as any **** like it didn't like like 3 years ago, you know what I mean? Like so these days got nothing to take or anything like that. It's just people just trying to get nasty with just being really nasty. Yeah, I guess.
+[8 minutes 52 seconds][Agent] : Yeah, yeah, I understand. You just wanted to do the right thing, take care of your dad, right?
+[9 minutes 5 seconds][Customer] : Yeah yeah, exactly.
+[9 minutes 5 seconds][Agent] : I completely understand where you're coming from. That's all. Good, man.
+[9 minutes 7 seconds][Customer] : Yeah, I'm seeing it because me mother. So I just want to make sure that they've recovered, he said. As long as they don't have a feeling to come to the end of this company or any other company.
+[9 minutes 13 seconds][Agent] : Yeah, but sorry, cut, cut, cut him that again there for me, Jack.
+[9 minutes 18 seconds][Customer] : Well, I was, I was talking, I was just telling the mother and the kids like de facto that like it's possible for us to actually have something to do with at the end of his funeral or the funeral company. Either way, he can have multiple. That's what I was trying to let her know.
+[9 minutes 31 seconds][Agent] : Yeah, yeah, yeah. Again, we don't have any say what what you know you do elsewhere. Just with us, you're going to be able to go up to a certain amount of coverage. And I did a search for his name, nothing popped up. So it's all good with us. If you want to get this done, you can. So let me explain it to you, mate.
+[9 minutes 44 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah, yeah. All good.
+[9 minutes 52 seconds][Agent] : Please jump in and tell me if you want me to repeat anything, I don't mind and I will make sure you understand everything.
+[9 minutes 57 seconds][Customer] : Yeah, yeah. Cool.
+[9 minutes 57 seconds][Agent] : OK, so realistically the, the funeral insurance here with us at Real, it's designed to provide a cash benefit of up to $15,000 so that you can, ah well, so your dad can leave the money to the loved ones of his choice when he passes away. So realistically, if you want to take the funeral insurance out for him on his behalf, that's fine. That's all good.
+[10 minutes 12 seconds][Customer] : Yeah, yeah, that's what I plan on doing. Yeah.
+[10 minutes 17 seconds][Agent] : You just need to obviously he he would just need to Yep.
+[10 minutes 19 seconds][Customer] : But I understand this time round, I I probably will just leave it to hopefully all goes well. But like, things are getting quite bad. Like, yeah, but hopefully he makes it out and like, you know, this is something that might go on or I shut down for maybe, you know, 10 years because being 69 as it dance and then being getting ill and stuff like that. He it's BA. It's about, it's probably. It's about time we looked at it. Yeah.
+[10 minutes 50 seconds][Agent] : That's right. So pretty much realistic of what happens is if you're going to take this out from that's fine. He'll still need to sign the beneficiary form and you obviously just fill it out so that that's who will get the money, right?
+[11 minutes 1 seconds][Customer] : Yep, he's actually Yep, yeah, yeah, yeah, Yep.
+[11 minutes 2 seconds][Agent] : So go ahead.
+[11 minutes 5 seconds][Customer] : Is there any way to get actual because with my mind, I believe they would have had to because she was incredibly I'll for like those good. You know for the last half of my later life that she was in it in saying that more or less. I mean she was more or less incapacitated mentally from about my from about 13 onwards and she passed when I was about 20 when I was about 232425. Yeah, something I really don't look on in a dark thing, but been saying that I think my sister had to have a power training or something 'cause mum was compa.
+[11 minutes 33 seconds][Agent] : OK, Is your how's your dad at the moment? Does he still take care of his own finances and make his own financial decisions?
+[11 minutes 50 seconds][Customer] : Yeah, yeah. Yeah. Absolutely. Yeah. When he's Yep. Yeah, absolutely. Yeah. Yeah.
+[11 minutes 53 seconds][Agent] : That's fine. Realistically, what happens is you take a policy, there's going to be a beneficiary form that comes with the documents. He needs to sign it. That's it.
+[11 minutes 54 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 1 seconds][Agent] : OK, you can, you can.
+[12 minutes 2 seconds][Customer] : All right. And yeah.
+[12 minutes 2 seconds][Agent] : You can set it up and pay for it.
+[12 minutes 5 seconds][Customer] : Yeah. Mm. Hmm.
+[12 minutes 4 seconds][Agent] : He just needs to make sure that that he signs that form so you can pick up the five people to receive the money on his behalf.
+[12 minutes 11 seconds][Customer] : Yep.
+[12 minutes 10 seconds][Agent] : If he just wants to pick you, that's fine. You can just pick 1. He just needs to make sure he signs that form and you can send it back. That's it.
+[12 minutes 14 seconds][Customer] : Yeah, yeah, yeah.
+[12 minutes 17 seconds][Agent] : So that at the time of the claim, if you're the beneficiary and you call and make the claim, then you'll you're allowed to make the claim. The money goes to you. No one else can call up and claim it if they're not the beneficiary. Does that make sense? Yeah.
+[12 minutes 29 seconds][Customer] : Yeah, yeah, yeah, I understand that.
+[12 minutes 30 seconds][Agent] : So, so, so once you take it, that would be the only thing that needs to be signed and sent back the beneficiary form is that.
+[12 minutes 31 seconds][Customer] : Yeah, I probably it's Yeah, yeah, yeah, yeah.
+[12 minutes 37 seconds][Agent] : Yeah.
+[12 minutes 37 seconds][Customer] : Alright then. Cool. Cool.
+[12 minutes 38 seconds][Agent] : Yeah.
+[12 minutes 38 seconds][Customer] : Yeah. What?
+[12 minutes 38 seconds][Agent] : So it's nice and simple.
+[12 minutes 39 seconds][Customer] : What are your what? Oh, darn it. Yeah. What are your terms and conditions?
+[12 minutes 44 seconds][Agent] : So what?
+[12 minutes 44 seconds][Customer] : Can you tell them all about it on his house? Really, 'cause I know that that's a big questionable one. Like whether 'cause I think people.
+[12 minutes 45 seconds][Agent] : So, so So what I'm so if you just give me give me a give me a SEC J because I'm going to explain everything. I'm going to answer all of this for you. It's pretty straightforward.
+[12 minutes 57 seconds][Customer] : Yeah, yeah. Fair enough.
+[12 minutes 58 seconds][Agent] : I was I was already going to touch on these things because you did let me know you're sick already. OK, mate.
+[12 minutes 58 seconds][Customer] : Yeah, yeah, yeah.
+[13 minutes 3 seconds][Agent] : So I will make sure it's all straightforward and you can make an informed decision if you want to take this through or not.
+[13 minutes 9 seconds][Customer] : Yep.
+[13 minutes 8 seconds][Agent] : OK, So pretty much again, the cover designed to provide a cash benefits to leave a large lump sum of money to the beneficiary of his choice so that they can take care of the funeral expenses. If there's any money leftover after the funeral is paid full, the rest of the money can still be spent however the beneficiary wants to spend it.
+[13 minutes 18 seconds][Customer] : Yeah, yeah, I'm seeing that.
+[13 minutes 27 seconds][Agent] : So whether that's on final expenses like unpaid bills, the bike, or just on themselves, it's really up to that person.
+[13 minutes 32 seconds][Customer] : Yeah, yeah.
+[13 minutes 33 seconds][Agent] : OK, umm, as I was mentioning, he can choose up to five beneficiaries, but if he just wants to pick one, that's fine, I'll just get the whole amount.
+[13 minutes 41 seconds][Customer] : Yeah. Yeah.
+[13 minutes 40 seconds][Agent] : OK, now there's a few benefits, so I just want to go through one by one. I'll give you an example on each. OK, so the first benefit is accidental death, Jay. OK, so if the person insured suffers an accidental death at any time, this policy is enforced from start to finish, which is between now and the age of 100.
+[13 minutes 49 seconds][Customer] : Yeah, yeah, yeah.
+[14 minutes 1 seconds][Agent] : The selected benefit amount will be tripled and paid out to that person's beneficiary.
+[14 minutes 7 seconds][Customer] : OK cool. Yeah. Yeah, yeah. I Yeah, yeah.
+[14 minutes 6 seconds][Agent] : So in the in the case where you have a $10,000 benefit and the person suffers an accidental death, that becomes 30 grand 30,000 and that could be something as simple as a fall, could be a car accident. If the person passes away within 90 days of the accident 1st occurring, that will still be a triple payout. OK, Does that make sense?
+[14 minutes 26 seconds][Customer] : Yeah, that makes clear sense. Yeah. Yep.
+[14 minutes 28 seconds][Agent] : That's the first benefit.
+[14 minutes 30 seconds][Customer] : Just gonna get out of that. Yep.
+[14 minutes 29 seconds][Agent] : OK, Now the second benefit is accidental serious injury.
+[14 minutes 41 seconds][Customer] : Yep.
+[14 minutes 35 seconds][Agent] : So before the policy anniversary, after the person insured 75th birthday, if that person would have suffered an accidental serious injuries such as quadriplegia or paraplegia, the benefit of man will also be tripled in this case.
+[14 minutes 49 seconds][Customer] : Yeah, OK. Yeah.
+[14 minutes 49 seconds][Agent] : Does that make sense?
+[14 minutes 51 seconds][Customer] : Yeah.
+[14 minutes 52 seconds][Agent] : Yep.
+[14 minutes 51 seconds][Customer] : Yeah. What? Yeah. Yeah. Yeah. Mm. Hmm.
+[14 minutes 52 seconds][Agent] : So if that happens, if that happens to him, he'll most likely still be alive, Jay.
+[14 minutes 54 seconds][Customer] : Yeah, yeah, yeah.
+[14 minutes 58 seconds][Agent] : So what what would happen there is the tripled amount would be paid to him so he can use the money for things like medical costs or care or bills, whatever he needs to spend it on. OK.
+[15 minutes 7 seconds][Customer] : Yeah, yeah. Is it possible, man?
+[15 minutes 8 seconds][Agent] : Now if he does get Yep, Yep. OK.
+[15 minutes 10 seconds][Customer] : Oi, I gotta honestly ask, bro, is it possible 'cause my mum was incompatible entirely for the last like probably about 20-4 months of her life, would it have been doubled or tripled?
+[15 minutes 27 seconds][Agent] : Umm, I'm not sure, man. I'm I'm not sure what.
+[15 minutes 24 seconds][Customer] : What you're saying in like it's not, it's not like a full like she didn't go through something that like suddenly made her just like quadriplegic. She just lost like mobility entirely due to like seizures that she had.
+[15 minutes 42 seconds][Agent] : So I'm not sure because I don't know what cover they had. Do you know what I mean?
+[15 minutes 47 seconds][Customer] : Yeah.
+[15 minutes 47 seconds][Agent] : I'm not.
+[15 minutes 47 seconds][Customer] : But like with the I'm, I'm just trying to say like in most, because you're mostly someone with experience in most cases, what's the percentage likelihood in a number, like as in a percentage number that someone would actually get their policy tripled because they actually have lost. And like medically, there was like a heap of doctors that helped us like through palliative care and everything, like giving her stuff to get her yeah, like what she needed for bathing and everything and like the bed was bed sore safe or whatever. Would her stuff like been tripled her payment and and all that information that I've given you, would that most likely be a case of where like, you know, 80 percent, 85%, they would have actually tripled a payout?
+[16 minutes 22 seconds][Agent] : So again, I, I, well, I don't know mate, because I don't know what where the cover was that you know, your mum had. Do you know what I mean?
+[16 minutes 37 seconds][Customer] : Yeah, yeah, yeah.
+[16 minutes 38 seconds][Agent] : So I don't I can talk.
+[16 minutes 39 seconds][Customer] : Because like if my dad loses full capacity, is that like it's PO, it's very possible, man, that he might lose capacity. But yeah, I don't know.
+[16 minutes 46 seconds][Agent] : So it's it's only due to an accident.
+[16 minutes 50 seconds][Customer] : Yeah.
+[16 minutes 49 seconds][Agent] : So what what you were expecting?
+[16 minutes 50 seconds][Customer] : Oh, yeah.
+[16 minutes 51 seconds][Agent] : Yeah.
+[16 minutes 54 seconds][Customer] : Yeah.
+[16 minutes 51 seconds][Agent] : So what with what you're explaining, that was like a medical condition that caused.
+[16 minutes 54 seconds][Customer] : There. There we go. I mean, yeah, exactly, man. You'll cleared it all up. That's not accidental. Yeah. There we go.
+[16 minutes 54 seconds][Agent] : Yeah, Yeah, Yeah.
+[16 minutes 59 seconds][Customer] : All right. Cleared up. No probs. Yep. Yep.
+[16 minutes 58 seconds][Agent] : So, So that that would be at work with us. But again, I don't know about the policy that your sister had for your mom. I don't know. Right.
+[17 minutes 5 seconds][Customer] : Yeah, yeah, yeah. It seems like a broad policy that you guys have that most probably would. Yeah. Seems like a broad policy. Yeah.
+[17 minutes 6 seconds][Agent] : So what well, well, I've, I've, I've only got only got into two benefits. So for my, there's quite a bit more.
+[17 minutes 16 seconds][Customer] : Yep. Oh, really?
+[17 minutes 16 seconds][Agent] : So, umm, just just with that one, OK, we give you a, quite a few things in this.
+[17 minutes 22 seconds][Customer] : Yep.
+[17 minutes 21 seconds][Agent] : So just with that one benefit there the the accidental serious injury benefits. So that's where your dad will get paid out.
+[17 minutes 28 seconds][Customer] : And did you say took in a four just before that? If they took in a four?
+[17 minutes 31 seconds][Agent] : Umm, so let let me explain because umm, I want to get get, I don't want to confuse you too much, right?
+[17 minutes 36 seconds][Customer] : Yeah, yeah, yeah.
+[17 minutes 40 seconds][Agent] : Bear with me there. Just give me one SEC. All right? So I'm just going to explain to you 2 definitions if you can just let me write them out first.
+[17 minutes 59 seconds][Customer] : Yeah, yeah.
+[17 minutes 57 seconds][Agent] : Umm, so accident means an event resulting in bodily injury occurring while the life insured is covered under the policy where the injuries directly and solely caused by unintentional, accidental, violent, external and visible names without any other contributing causes and whether injuries not intentionally self-inflicted. Now that definition fits into accidental death. So that's the first benefit we've already gone through. So accidental death means death occurring is the direct resolver, an accident and where the death occurs within 90 days of the accident. So that's the accidental death benefit.
+[18 minutes 35 seconds][Customer] : Yeah. Can you?
+[18 minutes 33 seconds][Agent] : OK, now the accident.
+[18 minutes 36 seconds][Customer] : Oh, you mean can you? I'm sorry to ask you this, but could you read that whole thing again once more, please? Just that same thing that.
+[18 minutes 40 seconds][Agent] : Yeah, yeah, yeah, yeah.
+[18 minutes 45 seconds][Customer] : Yup. Yup.
+[18 minutes 43 seconds][Agent] : So just remember, man, umm, accidental death is different. Accidental serious injury. OK.
+[18 minutes 49 seconds][Customer] : Yeah, yeah, yeah. OK.
+[18 minutes 49 seconds][Agent] : So don't, don't get confused between the two. One is if you die, the other one is if you're still alive.
+[18 minutes 55 seconds][Customer] : Yeah, Yup.
+[18 minutes 55 seconds][Agent] : OK, so accident means an event resulting in bodily injury occurring while the life insured is covered under this policy where the injuries directly and solely caused by unintentional accidental violence and external and visible means without any other contributing causes and whether injuries not intentionally self-inflicted. Now the reason I'm waiting about definition is because it fits into the accidental death definition. So accidental death means death occurring as the direct result of an accident and whether death occurs within 90 days of the accident. So if you don't have a car accident and he passed away within 90 days of that accident 1st occurring, that's a triple payout. OK, so that's accidental death and the example now the next one is accidental serious injury.
+[19 minutes 20 seconds][Customer] : Yeah, yeah, yeah.
+[19 minutes 42 seconds][Agent] : OK, so there we go. I'll pop this back up.
+[19 minutes 46 seconds][Customer] : Yep.
+[19 minutes 47 seconds][Agent] : OK, so with accidental serious injury, the way this works is before the policy anniversary following your dad's 75th birthday. Between now and that day, if he were to suffer an accidental serious injury such as quadaplasia or paraplasia, the benefit amount will also triple.
+[20 minutes 8 seconds][Customer] : Between now and the 75th birthday.
+[20 minutes 6 seconds][Agent] : So if he's in a car accident and he doesn't pass away, policy anniversary is the day you first pay for the, uh, make payment for cover. Umm, so, and it'll be that same day every year after.
+[20 minutes 20 seconds][Customer] : Sorry.
+[20 minutes 19 seconds][Agent] : OK, so policy anniver.
+[20 minutes 21 seconds][Customer] : And you're saying the time's in between?
+[20 minutes 23 seconds][Agent] : Yep, between now and the policy anniversary after your dad's 75th birthday, so he'll turn 75.
+[20 minutes 30 seconds][Customer] : Yep.
+[20 minutes 30 seconds][Agent] : The next policy anniversary after that birthday is when this benefit will stop. Just this one alone.
+[20 minutes 36 seconds][Customer] : Yep.
+[20 minutes 36 seconds][Agent] : OK. So just remember, someone would have called and get this covered now and that were already 75. They wouldn't even get this benefit that I'm explaining to you.
+[20 minutes 42 seconds][Customer] : Yeah, Yeah.
+[20 minutes 43 seconds][Agent] : OK.
+[20 minutes 43 seconds][Customer] : That's what I understand that. Yeah.
+[20 minutes 44 seconds][Agent] : Yeah, Yeah.
+[20 minutes 45 seconds][Customer] : Yep.
+[20 minutes 45 seconds][Agent] : So just remember if you if you.
+[20 minutes 46 seconds][Customer] : Just a moment. Are you still there?
+[20 minutes 48 seconds][Agent] : Yep.
+[20 minutes 49 seconds][Customer] : Aren't you there?
+[20 minutes 50 seconds][Agent] : Yep.
+[20 minutes 52 seconds][Customer] : OK. Is it possible to let my de facto just listening to this because there's some of the information is a bit it means something maybe? Yeah, Yeah. Is that possible?
+[21 minutes 2 seconds][Agent] : Yeah, it's OK. That's fine.
+[21 minutes 4 seconds][Customer] : Yep. Could you just ask just the policy on accidental and just those please once more and we should be able to get straight through everything else.
+[21 minutes 11 seconds][Agent] : Yeah, that's right, man. I'll just let your partner know as well. All calls are recorded. Any advice that provides general in nature may not be suitable to your situation as well. What was your full name and date of birth there, Joh?
+[21 minutes 23 seconds][Customer] : Johnny JAH double N i.e. i.e.
+[21 minutes 29 seconds][Agent] : Double nie, Johnny. Yeah.
+[21 minutes 31 seconds][Customer] : Yep and Jacob Yep.
+[21 minutes 33 seconds][Agent] : Jacobs.
+[21 minutes 34 seconds][Customer] : JAEODS. Yep.
+[21 minutes 36 seconds][Agent] : And what? What's your date of birth, Johnny?
+[21 minutes 39 seconds][Customer] : 16th and Bothman St.
+[21 minutes 41 seconds][Agent] : OK, Thank you again. My name's Guy. I'm from real Insurance. OK. Umm.
+[21 minutes 49 seconds][Customer] : Are you there? Hello.
+[21 minutes 47 seconds][Agent] : Now, as I was explaining the cover for funeral insurance, Yeah. Yeah. Can you hear me, mate?
+[21 minutes 53 seconds][Customer] : Hello.
+[21 minutes 54 seconds][Agent] : Yep. Are you still there?
+[21 minutes 59 seconds][Customer] : You there?
+[22 minutes][Agent] : Yep.
+[22 minutes 1 seconds][Customer] : Yeah.
+[22 minutes 2 seconds][Agent] : Yep.
+[22 minutes 1 seconds][Customer] : Alright, Yeah, yeah. Go ahead. Please do that. Calls you. Please.
+[22 minutes 3 seconds][Agent] : Yep, Yep, say that again.
+[22 minutes 7 seconds][Customer] : If you could just ask me. Accidental death and accidental serious harm.
+[22 minutes 12 seconds][Agent] : I'll just, I'll start again because I'm still at the start anyway. Umm, Jay.
+[22 minutes 15 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[22 minutes 15 seconds][Agent] : So it's, it's all good.
+[22 minutes 16 seconds][Customer] : Thank you.
+[22 minutes 17 seconds][Agent] : So, so pretty much umm, to go over it nice and clear. The funeral insurance is designed to provide a cash benefit of up to $15,000 so that the money can be left in full to the person person's beneficiary when they pass away. The beneficiary can use the money in full with complete freedom however they want. So funeral expenses, any other final expenses such as unpaid bills, etcetera. The person insured to nominate up to five beneficiaries if they want to receive the money on their behalf, If they just want to choose one, that's fine. That person will get the entire amount. Now with the benefits, there's quite a few, so I'm going to go through each one and give you an example on each. So the first one's accidental death. So if the person insured suffers an accident for death from start to finish while the policy is in force, which is between the now and the age of 100, the selected benefit amount will be triples and paid out to the beneficiary. As an example, this could be something as simple as a full. It could be something like a Yep.
+[23 minutes 12 seconds][Customer] : You're right.
+[23 minutes 14 seconds][Agent] : So again, it could be something simple as a fall, could be something like a car accident. And if the person in short passes away within 90 days of that accident 1st occurring, that will be a triple payout. So in other words, if you had a $15,000 benefit and an accident that is to happen, $45,000 would be paid to the beneficiary. Does that make sense? Yeah. And what about for you, Jay? Does that make sense? Yes. So I just remember I need you to make sure you're taking the range of umm, answering yes or no as well.
+[23 minutes 32 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[23 minutes 42 seconds][Agent] : OK, and I know it's OK if you don't need to be on the phone, but as you want the one doing the insurance. OK, Now the second benefits, accidental serious injury. Sorry, before the policy anniversary following the person in shorts 75th birthday, between now and that day, if that person in short were to suffer an accidental serious injuries such as quadriplasia or paraplasia for example. So let's say Ricky has a car accident. He doesn't pass away, but he becomes a quadriplegic, which means you can't use his arms or his legs anymore. OK, that would be an example. In this case, the benefit amount would be triples. The triple amount will be paid to Ricky so that he can use the money for medical costs, a carer, really whatever he needs to spend it on that it expense like his bills to survive. The original funeral benefit will still remain in place as well after this so that there is still still something paid out for the funeral at the end of the day, even though Ricky's been paid out the triple amount while he's alive in that scenario. Does that make sense?
+[24 minutes 44 seconds][Customer] : Yeah, yeah.
+[24 minutes 46 seconds][Agent] : Yep.
+[24 minutes 46 seconds][Customer] : Yep, I understand.
+[24 minutes 48 seconds][Agent] : OK, cool. Any questions at all about that, Jay?
+[24 minutes 51 seconds][Customer] : No.
+[24 minutes 52 seconds][Agent] : No, all good. Now. There is no medical checks for this cover. It is a guaranteed acceptance for Australian residents between age 40 and 79. OK, so you do not need to jump through any hoops to get this for Ricky and you know, people that are sick already, they can still come and get this policy too. OK. Now in that regard, this is very important. Jay, you did ask about this a bit earlier, and I want to make sure this is very straightforward and clarified for you. For the 1st 12 months, Ricky will only be covered for accidental death and accidental serious injury, which are the 1st 2 benefits we've already gone through.
+[25 minutes 10 seconds][Customer] : Yep, Yep, Yep.
+[25 minutes 29 seconds][Agent] : OK, after holding the policy for the 1st 12 months, at that point moving forward, Ricky will then also be covered for debt due to any cause.
+[25 minutes 37 seconds][Customer] : Yeah, yeah, I know that name.
+[25 minutes 37 seconds][Agent] : Now this means plain and simple, natural causes are not covered in the first four months for anybody that first get to cover like this.
+[25 minutes 44 seconds][Customer] : Yeah, yeah.
+[25 minutes 45 seconds][Agent] : Umm, as people that ask you can come and get this to like, you know, cable with cancers or lung conditions or terminal illnesses, they can still get this like you and I, but that doesn't mean they can turn around and claim on that previous in condition two weeks after getting the policy.
+[25 minutes 58 seconds][Customer] : Yeah, exactly. It's gotta be probably 12 months. Yeah, exactly, bro. I know that one.
+[25 minutes 58 seconds][Agent] : OK, yeah, yeah, cool, cool. So yeah, after holding the policy for the first four months, Ricky will then be covered. So that's due to any calls.
+[26 minutes 8 seconds][Customer] : Yeah.
+[26 minutes 8 seconds][Agent] : Umm, we also will cover Ricky for a terminal illness benefit as well, Jay. Umm, so after you do hold the policy for the first four months, at that point, if Ricky were then first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, umm, then you can actually make the, he can make the call and claim himself and get paid out in full.
+[26 minutes 28 seconds][Customer] : Could you, could you say that one, please? Yeah.
+[26 minutes 28 seconds][Agent] : Umm, so yeah, it's the terminal illness benefit.
+[26 minutes 33 seconds][Customer] : Yeah. Yeah.
+[26 minutes 33 seconds][Agent] : So, so again, after holding the policy for the 1st 12 months, if Ricky would then first diagnosed with the terminal illness such as a terminal cancer, umm, with 12 months or less to leave, confirmed by a medical practitioner, then Ricky can call and make the claim and get paid out in full while he's alive.
+[26 minutes 53 seconds][Customer] : Yeah. Yeah.
+[26 minutes 48 seconds][Agent] : So you can give the money to the beneficiary early to organize the funeral or, you know, he may even need to spend the money on medical costs to get the best care, Right.
+[26 minutes 56 seconds][Customer] : Yeah. Yeah.
+[26 minutes 57 seconds][Agent] : So that's built in just in case as well. Does that all make sense so far?
+[27 minutes][Customer] : Yeah, it does. Yeah. Of course they didn't. Yeah.
+[27 minutes 2 seconds][Agent] : Yes, I, I hope that doesn't ever happen, mate. I've been through that with one of my best mate's dads and it was terrible.
+[27 minutes 4 seconds][Customer] : Yeah, I'll be honest on on like my, my what I mean, I hope you guys end up like quit getting money out of hand and I never get paid out or **** you know, I hope I never have to use it.
+[27 minutes 8 seconds][Agent] : So yes, yes.
+[27 minutes 20 seconds][Customer] : No one speak, you know, I hope, I hope I lose. That's the honesty I hope I think was.
+[27 minutes 21 seconds][Agent] : Well, yeah, then that's well, well, this is going to be that a whole time for Ricky, mate. OK. So obviously it is inevitable we'll have our time, but hopefully it's not for a long time for Ricky, for your sake as well mate. Umm, so pretty much the way the cover works, umm, that's that's it there's a bit more to it. I just want to get you the price first, then I'll explain to you what the rest of the cover does OK, It's very straightforward.
+[27 minutes 26 seconds][Customer] : But anyways, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[27 minutes 48 seconds][Agent] : Umm now Jay, you can choose what you want to ensure Ricky full umm, we'll make sure it's affordable for you. Umm the minimum amount of cover is 3000, the maximum is 15,000.
+[27 minutes 58 seconds][Customer] : Yep, Yep, Yep, Yep.
+[28 minutes 2 seconds][Agent] : You can go in the middle of this, this range in $500 increments.
+[28 minutes 7 seconds][Customer] : By a long shot young man, he's from, he's from New Zealand both and he's got kids in New Zealand with kids. So like people will come from far and wide though to if it all works and and he's got double. My sister almost had one on him, but she was yeah, go ahead, mate.
+[28 minutes 10 seconds][Agent] : OK, OK, Yep, Yep, did, did, did, did, did he still, did he live in Australia or did he live in New Zealand?
+[28 minutes 22 seconds][Customer] : Yeah, yeah. No, he's an Australian citizen since I've been here, man, he, I've, I'm the youngest man everyone and I'm thirty this year.
+[28 minutes 28 seconds][Agent] : Yep, Yep, Yep.
+[28 minutes 31 seconds][Customer] : So, yeah, he's been. Yeah, all of it.
+[28 minutes 33 seconds][Agent] : And he still, he still resides here in Australia.
+[28 minutes 36 seconds][Customer] : Yeah. Yeah.
+[28 minutes 37 seconds][Agent] : Yep, Yep. That's, that's fine.
+[28 minutes 37 seconds][Customer] : You see this stuff, You've got a Medicare number and things like that. No problem. Yes, thank you.
+[28 minutes 39 seconds][Agent] : So say that again.
+[28 minutes 45 seconds][Customer] : You've got a Medicare number, everything like that. No problem. Just trying to do the simple short.
+[28 minutes 49 seconds][Agent] : Oh, no, that's fine. That's OK. As long as he lives here. That's the main thing. Yep. And then once he has it, if he does, you know, decide to move back to New Zealand at any point, he can still keep his cover in place as long as it's paid in Australian dollars from an Australian bank account.
+[28 minutes 48 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah. He's not going back. He said this place isn't home now. So yeah, but it will probably come from back there when he, when he like he gets real close to death it like in maybe the next five years. So if they're told like there's enough to probably, you know, bring your kids over and stuff that none of us have even met too. You know, he's got a lot of history, bro. He, he comes from, yeah.
+[29 minutes 6 seconds][Agent] : OK, that's fair enough. That's all.
+[29 minutes 23 seconds][Customer] : But yeah, it'll it'll help to get back up his story, I think.
+[29 minutes 29 seconds][Agent] : Well, at the end of the day, mate, it can still stay in place even if he does move back. I know he's probably not gone, but if he did, as long as the payments are made in Australian dollars from an Australian bank account, it'll cover him worldwide 24/7 anyway. OK. Umm, now, umm, $15,000 of cover will cost you $69.79 a fortnight, Jay.
+[29 minutes 42 seconds][Customer] : Yeah, yeah, yeah. I understand.
+[29 minutes 50 seconds][Agent] : Umm is that is, is that going to be affordable for you?
+[29 minutes 54 seconds][Customer] : I will have to crunch the numbers with my extra factor, obviously, so that you're more than a thing, $60.70. See how much?
+[30 minutes 2 seconds][Agent] : So yeah, $69.79 a fortnight. That's the biggest amount we can offer. The 15,000.
+[30 minutes 1 seconds][Customer] : 69, yeah, yeah, fine. 26, yeah, yeah, fine. No, no, no. I'll have to crunch the numbers on that one. That's about all.
+[30 minutes 11 seconds][Agent] : Did you want me to lower that or so?
+[30 minutes 16 seconds][Customer] : Because like when I told you I'd probably take a loss and if I knew that it's not going to be a cheap $9 nine a week, $9 nine a week funeral cover. No puts up. I understand that, mate. It's cool. It's cool. But yeah, yeah, yeah. Proceed for the full maximum of that.
+[30 minutes 27 seconds][Agent] : Yeah, yeah, yeah. So, So obviously I can help you with the numbers, mate. Just keep in mind with this cover, you may pay more in total premiums over the life of the policy than the benefit amount.
+[30 minutes 30 seconds][Customer] : Yeah, yeah, yeah, that's fine. Yeah.
+[30 minutes 41 seconds][Agent] : And please be aware this insurance does not have a savings or investment elements. So if you cancel outside of 30 days, your cover will stop and you will not receive anything back. OK umm, so yeah, at the end of the day that's the biggest amount mate, 15,000, so it's going to be the most expensive 1 So 60 dollars, $69.79 a fortnight.
+[30 minutes 54 seconds][Customer] : Yep, Yep, Yep.
+[30 minutes 59 seconds][Agent] : Umm, let's say we looked at 10,000 to get it a bit cheaper for you, that'll be $46.53 a fortnight.
+[31 minutes 4 seconds][Customer] : No, It's, it's got to be Yeah, 1915 thousand. No problem. Then we can, we can handle that, man. It's it's got to be seriously, just I'll get to it. No problem. Then it's it, Yeah.
+[31 minutes 13 seconds][Agent] : Alright that's fine that's all good then. Umm, there's a bit more to it anyway, let me just explain the rest and I'll give you a chance to ask me some questions. So umm, the premium you pay on this cover, your premiums are level, which means they are designed to stay consistent and the same year on year as the person in short gets older.
+[31 minutes 41 seconds][Customer] : Yep.
+[31 minutes 33 seconds][Agent] : Now, that is only up until Ricky turns 85, J So on Ricky's 85th birthday, 33 things will happen to this policy. I'm going to tell you about them all now, one by one. OK, So when Ricky turns 85, the first thing that happens is that the premiums will stop and you will not have to pay for this any longer, OK? But the cover will stay in place up until Ricky turns 100, which means between 85 and 100, which is still covered. You just don't need to pay in that time. So that makes sense.
+[32 minutes 4 seconds][Customer] : Yeah, yeah, yeah.
+[32 minutes 8 seconds][Agent] : Yeah.
+[32 minutes 8 seconds][Customer] : Is that, do you need the premium by the entire amount? Oh, lovely. Oh, Yep. Cool. Cool.
+[32 minutes 8 seconds][Agent] : Any question the premium stop altogether, you don't need to pay for it anymore, right?
+[32 minutes 19 seconds][Customer] : OK. Yep. Yep. Yep.
+[32 minutes 19 seconds][Agent] : So from from 80, from his 85th birthday, from that day onwards, cover still saves in place up into 100, but no more payments.
+[32 minutes 28 seconds][Customer] : Alright, Cool. Yep, Yep.
+[32 minutes 29 seconds][Agent] : OK, right now, that's the first thing. So the second thing that happens when Ricky turns 85 is that we give a bonus cover that gets automatically applied on top of the $15,000 benefit amount so that Ricky will be covered for more money.
+[32 minutes 44 seconds][Customer] : Yep, Yep.
+[32 minutes 43 seconds][Agent] : OK, That will increase it to 25%. Bonus cover, it'll increase to 15K up to $18,750.
+[32 minutes 54 seconds][Customer] : Yep.
+[32 minutes 55 seconds][Agent] : OK, now I'd like to look at this three ways.
+[32 minutes 55 seconds][Customer] : OK, Yeah. Yep.
+[32 minutes 58 seconds][Agent] : So if Ricky passes between now and 85, then we know that the $15,000 benefit is payable unless if it's an accidental death, for example, where it triples to $45,000 right now.
+[33 minutes 12 seconds][Customer] : Yep, Yep, Yep. Yep.
+[33 minutes 15 seconds][Agent] : If Ricky passes away between 85 and 100, then that's where we now know the benefit and the bonus covers payable, which is a total of $18,750 right now.
+[33 minutes 27 seconds][Customer] : Yeah, Yep.
+[33 minutes 28 seconds][Agent] : If it is an accidental death between 85 and 100, then the $18,750 will triple to $56,250. Does that make sense?
+[33 minutes 43 seconds][Customer] : What's that? Yep.
+[33 minutes 44 seconds][Agent] : So if it's an accidental death between 85 and 100 for Ricky, then the benefit and the bonus cover together, which equals $18,750.
+[33 minutes 57 seconds][Customer] : Alright, no problem.
+[33 minutes 54 seconds][Agent] : That amount in full will get tripled and that and that'll go to $56,250.
+[33 minutes 57 seconds][Customer] : Yeah, OK, Yeah.
+[34 minutes 3 seconds][Agent] : OK, now the third scenario is very rare. I don't really know many people that have made it to this age myself.
+[34 minutes 11 seconds][Customer] : Yep. Yep.
+[34 minutes 8 seconds][Agent] : But if he does make it to 100, the cover will finish at that age for Ricky. OK.
+[34 minutes 15 seconds][Customer] : Yep, Yep, Yep.
+[34 minutes 15 seconds][Agent] : What will then happen is the benefit and the bonus cover will be released to Ricky so he can put it aside or give it to the beneficiary or spend it right. And, and, and that, that'll be the $18,750. OK, so you can say that, uh, there are a number of ways that this could potentially be paid out. Uh, so you know how it gets paid out to whom it goes to and how much gets paid. Uh, it all depends on what happens first. As long as the premiums are paid up until the age of 85 for Ricky.
+[34 minutes 38 seconds][Customer] : Yeah, Yep.
+[34 minutes 49 seconds][Agent] : OK, does that make sense?
+[34 minutes 51 seconds][Customer] : Yep. No problem.
+[34 minutes 51 seconds][Agent] : Yep. You can also find information about our premium structure on our website too, Of course.
+[34 minutes 57 seconds][Customer] : Yep.
+[34 minutes 56 seconds][Agent] : Umm OK, now there's one more benefit.
+[34 minutes 58 seconds][Customer] : Yeah, Yep.
+[35 minutes][Agent] : OK Uh, it will become available when Ricky turns 85. Whether or not he asks for it is his choice. OK, It is called the early cash out option. So at anytime after Ricky reaches 85 years of age or over, he can choose to end his own cover if he wants to.
+[35 minutes 10 seconds][Customer] : Yep, Yep, Yep.
+[35 minutes 19 seconds][Agent] : If he does this, we will pay him 75% of his funeral insurance benefit and he could spend that 75% how he wants and the cover finishes right?
+[35 minutes 33 seconds][Customer] : Mm. Hmm.
+[35 minutes 29 seconds][Agent] : So that's realistically there in case the person needed spare money, OK. Again, it doesn't need to be asked for. If you just keeps it in place, you're not paying any more from 85 onwards anyway and you're going to be covered for the benefit in the bonus cover at that point. If I if the early cash option is requested, the bonus cover is not included and 75% of 15,000 will equal $11,250 mate. OK. So just keep that in mind, whether or not he asked for that is his choice.
+[35 minutes 43 seconds][Customer] : Yeah, yeah, yeah.
+[35 minutes 57 seconds][Agent] : OK Umm, now that's how the cover works in full. Ah, we send out a free will kit with the policy in case Ricky needs to organize or update a will for himself. Umm, and we, we do pay you some money back. This money is going to come to you Jake, as you're paying for the policy. Umm, we call this a real reward. So following your first policy anniversary date, we will refund you 10% of the premiums you've paid in that time as a thank you.
+[36 minutes 6 seconds][Customer] : Yep, Yep, Yep.
+[36 minutes 21 seconds][Agent] : So you will get back $181 and $0.46 and you can spend that however you like.
+[36 minutes 29 seconds][Customer] : Alright, cool.
+[36 minutes 30 seconds][Agent] : So that's called the real reward. OK, now just to confirm, can I please confirm you are authorized to purchase this policy on behalf of the insured for Ricky?
+[36 minutes 41 seconds][Customer] : What does that mean? That I can definitely get a signature?
+[36 minutes 44 seconds][Agent] : No, not that just do you have the authority to purchase this on behalf of Ricky?
+[36 minutes 50 seconds][Customer] : What does that mean exactly?
+[36 minutes 52 seconds][Agent] : So like is like I are you allowed to do this for him or well, you are your son, right?
+[36 minutes 56 seconds][Customer] : Yeah, I'm gonna, when I see him and like, you know, he's up to it. I'll talk to him about it in depth. But yeah, I need to know more about the pros and cons and the information about it.
+[37 minutes 3 seconds][Agent] : Yeah, well, that I've, I've explained it to you in full.
+[37 minutes 10 seconds][Customer] : Yeah. Yeah, that's fine. Yeah.
+[37 minutes 10 seconds][Agent] : So is there any questions for me like yet? Do you what do you have any concerns or anything you want me to clear up for you?
+[37 minutes 13 seconds][Customer] : No, no, no.
+[37 minutes 17 seconds][Agent] : No.
+[37 minutes 17 seconds][Customer] : Yep.
+[37 minutes 17 seconds][Agent] : So in that regard is when someone's taking out a policy on behalf of someone else, we just need to confirm that you have the authority to do that.
+[37 minutes 24 seconds][Customer] : Yeah, yeah, I guess.
+[37 minutes 24 seconds][Agent] : Umm, yeah, yeah. So that's all that's saying. So it's just a bit of like I have to write it word for word, but it's really just saying, do you have the authority to purchase this on behalf of your dad?
+[37 minutes 25 seconds][Customer] : Yeah, Yeah, yeah.
+[37 minutes 34 seconds][Agent] : Yeah, Yeah. So I'll just write it back. Can I please confirm you are authorized to purchase this policy on behalf of the insured?
+[37 minutes 34 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[37 minutes 42 seconds][Agent] : Yeah, that's fine. Umm, now umm, is there is there any questions for me or anything I can help you with or clarify about the information I've sent to you?
+[37 minutes 51 seconds][Customer] : No, nothing.
+[37 minutes 52 seconds][Agent] : No. Are you happy with the cover?
+[37 minutes 55 seconds][Customer] : Yeah. Ready to proceed?
+[37 minutes 56 seconds][Agent] : OK, no worries mate. Umm, so I can get your mail recovered over the phone today for Ricky. We will send you all the documentation. OK? So please read it, umm, make sure it's right, even the spelling, everything I've, I've done everything like I need to do for you, but just still check it. Umm, you don't need to pay straight away.
+[37 minutes 56 seconds][Customer] : Yeah, yeah, yeah.
+[38 minutes 15 seconds][Agent] : OK, so we are able to like I'll get the calendar up and you can tell me what day you want the first payment to be, but we'll still cover your dad today for what we've spoken about. Umm, and you don't need to back pay from today until the first payment date either. OK, umm, now I'll just confirm that you're happy to continue with the $15,000 of funeral cover.
+[38 minutes 34 seconds][Customer] : Could I have maybe about yeah, at this stage, look maybe I do have one question.
+[38 minutes 48 seconds][Agent] : And what what would so just can you give me an example of what you would want to modify?
+[38 minutes 41 seconds][Customer] : I can modify all this by contacting you on a business day like a any business day and contact you to modify this right by isn't that good dropping down from 15,000 and maybe 10,000 if I do struggle with the $70.00 fortnightly. But I I don't think that's going to be the case. But if it is, I just want to know is it?
+[39 minutes 1 seconds][Agent] : Yeah, yeah, you can apply to, you can apply to lower the cover at any time. So it's that's called date, that's called decreasing. So yeah, you can apply to do that. If you apply to decrease you cover, your payments will lower accordingly.
+[39 minutes 8 seconds][Customer] : Yeah, yeah, yeah.
+[39 minutes 15 seconds][Agent] : Umm, you can also do it the other way. So if you start loading the maximum you can apply to increase the cover as a top up policy as long as you do it before the person insures 80th birthday. You just need to keep in mind you can't say more than 15,000 altogether per person. The bus.
+[39 minutes 30 seconds][Customer] : Yep. OK, with all that being said, should I have maybe 10 seconds to just discuss this with my sister back Girl about 3.
+[39 minutes 31 seconds][Agent] : OK yeah you can put me, you can put me on hold if you want mate. Take your time.
+[39 minutes 40 seconds][Customer] : Yeah, this was, oh, literally 10 seconds, which like I said, she's enlisting and I'm sure she's on board just as far as.
+[39 minutes 45 seconds][Agent] : Did. Did.
+[39 minutes 45 seconds][Customer] : But I am in everything, Yeah.
+[39 minutes 46 seconds][Agent] : Do you want me to give you a few figures? Like do you want a $10,000 price and stuff like that or no?
+[39 minutes 53 seconds][Customer] : No, no, no, it's fine. I've already just on the phone now and that's the stuff that I'll be paying you guys yearly. And then in five years time, would that cost? And then the 15 Li it'll be in 15 years time, 15 years time, he'll be about 85. And how much I'll pay? I'm. I'm good. Yeah. I'll just discuss what she wants, right.
+[39 minutes 54 seconds][Agent] : OK, Yeah, yeah. Take your time. I'll wait for you. That's fine.
+[40 minutes 12 seconds][Customer] : Yeah. Just 10 seconds. Cheers. Bye.
+[40 minutes 14 seconds][Agent] : That's all.
+[40 minutes 22 seconds][Customer] : Yeah, we're good to go ahead with that one.
+[40 minutes 24 seconds][Agent] : OK, man, no problem. So, yeah, just to confirm, just for the call, are you happy to continue with the $15,000 a funeral cover for $69.79 a fortnight for Ricky? Yeah. All good. Umm. Now what day did you want the first payment to be? You can choose that.
+[40 minutes 33 seconds][Customer] : Yeah, no problem. So what if my plan is not this week? I'm on fortnight from now on Wednesday.
+[40 minutes 45 seconds][Agent] : So if you just let me know a day, I'll check it so well, so you can cut now for me, Jay.
+[40 minutes 56 seconds][Customer] : Oh Yep, so next Wednesday, not this Wednesday, but next Wednesday.
+[40 minutes 56 seconds][Agent] : Yeah, yeah. So the 14th.
+[41 minutes 2 seconds][Customer] : Yep.
+[41 minutes 3 seconds][Agent] : Yep, that's fine. I'll just put in some details for Ricky as well. What's his post code for where he lives and his suburb?
+[41 minutes 10 seconds][Customer] : Post code for Heatley is 4/8 142 AO 3 Heatley.
+[41 minutes 22 seconds][Agent] : Yep. Hate me?
+[41 minutes 25 seconds][Customer] : What? Oh, no, No. Are you going to send it to Dad?
+[41 minutes 23 seconds][Agent] : What's your straight address for where he lives now? I'm going to send it to you, but I'm just going to put in his home address.
+[41 minutes 32 seconds][Customer] : Yeah. Yeah. Yeah.
+[41 minutes 32 seconds][Agent] : So I'm going to the postal address I'm going to put under under yours.
+[41 minutes 33 seconds][Customer] : Yeah, yeah, yeah. No, they just need his address and the postal address of the documents coming to us. Yeah, I know. That's right. Yeah. No, yeah, that's fine. Yeah, that's the address. Yeah.
+[41 minutes 43 seconds][Agent] : Yeah. So what?
+[41 minutes 45 seconds][Customer] : Yeah.
+[41 minutes 44 seconds][Agent] : So I SO4814 Heatley, what's his street address?
+[41 minutes 48 seconds][Customer] : 14 Angus Ave. Avenue.
+[41 minutes 49 seconds][Agent] : 14 Angus and yeah.
+[41 minutes 54 seconds][Customer] : Yep.
+[41 minutes 53 seconds][Agent] : And then the postal address I can put is yours if you want the documents to come to you.
+[41 minutes 56 seconds][Customer] : Yeah, yeah. That's what.
+[41 minutes 56 seconds][Agent] : Umm, what?
+[41 minutes 57 seconds][Customer] : Yeah. Yeah.
+[41 minutes 58 seconds][Agent] : What's your post code?
+[42 minutes][Customer] : Just 9. Galvani St. Wolgaroo, 4811. Yep.
+[42 minutes 2 seconds][Agent] : I said the the post 4811 and then sorry 9.
+[42 minutes 10 seconds][Customer] : Galvani St.
+[42 minutes 12 seconds][Agent] : Oh yeah, I've got that here. That's fine.
+[42 minutes 14 seconds][Customer] : Cool.
+[42 minutes 14 seconds][Agent] : So that's the postal address for you. That's all good. Umm, and that's what that's your address right?
+[42 minutes 18 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[42 minutes 19 seconds][Agent] : That's where you live yeah and then I'll leave. The best e-mail is yoursj-pconroy@hotmail.com.
+[42 minutes 27 seconds][Customer] : Yep, Yep.
+[42 minutes 27 seconds][Agent] : UMM 0432386765 is your best contact and.
+[42 minutes 32 seconds][Customer] : Hey, do you reckon we should wait just two seconds? Should we get it to your e-mail 'cause they have my e-mail like Nikki has mine? Yeah, alright. Yeah. Hey, hey, are you still there?
+[42 minutes 42 seconds][Agent] : Yep, yeah, mate.
+[42 minutes 43 seconds][Customer] : Yep.
+[42 minutes 45 seconds][Agent] : Yeah, sure.
+[42 minutes 43 seconds][Customer] : Can I actually change that e-mail to my extra factor e-mail 'cause that one's a bit insecure. So it's Jay- Jacob. So Jay, all lower case as well.
+[42 minutes 49 seconds][Agent] : Yep, Yep, Yep, Yep.
+[42 minutes 57 seconds][Customer] : Jay jacobs.93@outlook.com. Yeah, yeah, that one's a little bit more secure.
+[43 minutes 8 seconds][Agent] : Oksoj-jacobs.93@outlook.com will be the best e-mail OK.
+[43 minutes 16 seconds][Customer] : I just don't want any of this information to get to anyone because everyone's here to this heck right now. And then, like, blow off something, you know what I mean? And start. Yeah.
+[43 minutes 24 seconds][Agent] : I understand. That's fine.
+[43 minutes 24 seconds][Customer] : But yeah, yeah, 'cause like in regards to this, this is like my dad and my business, you know what I mean? Throughout his entire, like, like practically, when I've grown into a man, I've looked after him better than anyone. Everyone's yeah, yeah. So yeah, I don't. Yeah.
+[43 minutes 26 seconds][Agent] : As long as you're happy for that, that's OK, mate, that's fine. You're going to explain yourself to me mate, and I I understand.
+[43 minutes 41 seconds][Customer] : And then, like, you know, when, when, yeah, yeah. When the end of the road comes, you know, everyone comes out of the woodwork or now I'm, you know, go back like, what, three 5-10 years, you know, like 3-7 years ago. Six years ago, you said, oh, I don't care whether he's dead or not, You know what I mean? But now that he is like, you know, getting to the end of these roads, now everyone wants to pull out another, you know, another, you know, personality. And it's just like, Oh my God, mate.
+[44 minutes 4 seconds][Agent] : I've I've been through it, man. I completely understand. I know how it goes.
+[44 minutes 4 seconds][Customer] : Yeah, yeah, yeah.
+[44 minutes 9 seconds][Agent] : It's all all good. As long as you're confident with that e-mail being the best one, that's fine. And you can call back and apply to, you know, change the details over the phone.
+[44 minutes 16 seconds][Customer] : Yeah, Yeah. Awesome. Yeah.
+[44 minutes 17 seconds][Agent] : Nice and simple if you need to soj-jacobs.93@outlook.com best e-mail.
+[44 minutes 23 seconds][Customer] : No, that's it.
+[44 minutes 24 seconds][Agent] : Yep. OK. And then 0432386765 is your best contact.
+[44 minutes 29 seconds][Customer] : Yeah. Yep.
+[44 minutes 30 seconds][Agent] : OK, no worries. Umm, and Mr. for Ricky's title, is that right?
+[44 minutes 34 seconds][Customer] : Yeah, that's true.
+[44 minutes 35 seconds][Agent] : OK, all good. Umm, so I put in the 14th of February 2024 is the first collection of payment. Nothing will come out before then. Umm, and then from that day will happen every fortnight after on the Wednesdays unless you call us back and tell us otherwise. Is that OK?
+[44 minutes 41 seconds][Customer] : Yep, Yeah, no problem. Yep.
+[44 minutes 51 seconds][Agent] : All good. Did you want to nominate down the savings or check account for payments, Jay?
+[44 minutes 56 seconds][Customer] : I think it's it's just a savings account.
+[44 minutes 58 seconds][Agent] : Yeah, And your name is the accounts.
+[45 minutes 1 seconds][Customer] : Yeah.
+[45 minutes][Agent] : So Jeremiah Conroy there. So Jeremiah Conroy.
+[45 minutes 1 seconds][Customer] : Yep, Yep, Yep.
+[45 minutes 10 seconds][Agent] : Yeah. And the BSB.
+[45 minutes 13 seconds][Customer] : My BSB. Oh yeah, wait, I'll just, yeah, I'll just jump on my phone app and I'll, yeah, let you know. Just give me two seconds.
+[45 minutes 21 seconds][Agent] : Yeah, take your time. That's fine, Jay.
+[45 minutes 24 seconds][Customer] : Yep. Are you there, mate? Yep. So the account number is 064.
+[45 minutes 51 seconds][Agent] : Yeah, still here for you, 064.
+[45 minutes 58 seconds][Customer] : Oh no, this is the BSD actually.
+[45 minutes 57 seconds][Agent] : I'll just confirm the bank. Oh yeah, yeah, that's right, Commonwealth and then the account number.
+[45 minutes 59 seconds][Customer] : Yeah, that's the BSD 064823 and account number 1, 11148 795.
+[46 minutes 16 seconds][Agent] : OK, all good. And it just to reconfirm $69.79 a four and I give you $15,000 a cover of what we've spoken about today for Ricky just to confirm that's suitable and affordable for you.
+[46 minutes 26 seconds][Customer] : Yep, yeah, no problem.
+[46 minutes 30 seconds][Agent] : Alright mate. Now the last thing I need to do for you Jay is redo a declaration which takes maybe 3 to 4 minutes. Please let me know if you need me to repeat anything so I can go back. So just give me a quick yell if that's the case. I need a yes or no for two questions at the end. And then once we finish this, we'll submit it in and your dad will be immediately covered for what we've spoken about today.
+[46 minutes 37 seconds][Customer] : Yep, Yep, Yep.
+[46 minutes 52 seconds][Agent] : And all the documentation will be on the way through e-mail and post for you.
+[46 minutes 56 seconds][Customer] : Cool.
+[46 minutes 56 seconds][Agent] : OK, so I'm going to begin writing this for you now mate. Umm, so it says thank you Ricky Conroy. It is important to understand the following information. I'll ask you agreement to these terms at the end and your policy will not be enforced much for greater these terms in full Real funeral coverage issued by Hanover Life R Air Bolster Limited. Hanover has an arrangement for Greenson Financial Services trading as real insurance to issue and arrange this insurance on it's behalf. Your answer to the application questions and any related documents form the basis of your contracted insurance and however, relies upon the accuracy of the information you have provided when assessing your application. Another has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We close to personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy Policy tells you more, including how to access and to information and lodge complaints about breaches of privacy. We may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By going to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out or visit any time by contacting us. You have agreed to take out a single wheel funeral cover with the following cover. Ricky Conroy is covered for $15,000 in the event of death.
+[48 minutes 28 seconds][Customer] : Yep, Yep.
+[48 minutes 13 seconds][Agent] : In the case of death is accidental or if you suffered a fine accidental serious injury, the benefit amount will triple coverage that accidental death only for the 1st 12 months cover or death by any cause or diagnosis of a terminal illness covered thereafter Accidental serious injury cover for age 5 until underage 75 starts immediately and then from the policy anniversary following a life insured 75th birthday. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash that option, you will no longer have a right to claim under the policy without life insured. This policy is an insurance policy and does not have a savings or investment components. You can end your cover at any time by contacting us. If you stop paying, your premiums may end you'll cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off. If you choose to retain cover beyond age 85, you'll be entitled to an additional 25% of bonus cover from that date and you will not be required to pay any further premiums after the life insured dated 5th birthday. The bonus cover is not payable if you take the early cash out option. Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point your total premium for your first year of cover is $69.79 per fortnight. Your premiums are level which means they are designed to stay consistent year on year and will only change if you alter your cover or the insurer adjust the premium rate applying to your policy. The insurer can only make a change if it is applied consistently across all policyholders. You may pay more in premiums and the benefit amount over the life of the policy. Included in your premium is the amount payable to real insurance of between 32% and 59%, calculated on a level basis over the life of the policy.
+[49 minutes 53 seconds][Customer] : Yep, Yep.
+[49 minutes 59 seconds][Agent] : Your premium will be debited from your nominated bank account in the name of Jeremiah Conroy, which will authorise your debit from and have provided to us. We may provide in communications to you via the e-mail address you have provided to us and this will include any legal notices we are required to provide to in writing. If you would prefer to receive these only via mail, you can update your communication preference at any time. We will send you a welcome pack including your policy schedule, PDS and FSG via mail. If you have provided us with an e-mail address, your policy schedule will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off periods during which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Do you understand and agree with the declaration?
+[50 minutes 51 seconds][Customer] : Yep. Yeah. Yeah. Yes.
+[50 minutes 49 seconds][Agent] : I've read you yes or no, Jay, And while I'm still on this page, umm, and on the phone for you still, would you like any other information about the insurance now or would you like me to read any part of the PDS to you by any chance?
+[51 minutes 4 seconds][Customer] : No. Yep.
+[51 minutes 5 seconds][Agent] : OK, all good mate. So you're now covered for what we've spoken about for Ricky today. OK mate.
+[51 minutes 10 seconds][Customer] : Yep.
+[51 minutes 11 seconds][Agent] : Umm, the hard copy will come in the post within two to five business days.
+[51 minutes 11 seconds][Customer] : Thank you.
+[51 minutes 16 seconds][Agent] : So that's going to come to your postal address. Keep an eye out for that place. Umm, the e-mail copy will come to j-jacobs.93@outlook.com within 2 to 15 minutes today.
+[51 minutes 20 seconds][Customer] : Yep, Yep, Yep. OK, cool.
+[51 minutes 27 seconds][Agent] : UMM, please read through that as well and that e-mail. We will use UMM from time to time to communicate with you in relation to this policy. So just to be sure for now, is that the best e-mail for now in the future?
+[51 minutes 37 seconds][Customer] : Yeah, that's right. Yeah.
+[51 minutes 39 seconds][Agent] : Yep, all good. Umm, now, once everything you've read through and it's all OK, the only thing that needs to be signed and sent back is the UMM beneficiary format.
+[51 minutes 51 seconds][Customer] : Yeah. Yeah.
+[51 minutes 50 seconds][Agent] : So Ricky will need to sign it.
+[51 minutes 53 seconds][Customer] : Yeah. Yeah.
+[51 minutes 53 seconds][Agent] : Just take take it to him and sit down with him.
+[51 minutes 56 seconds][Customer] : Yeah.
+[51 minutes 56 seconds][Agent] : He can put up to five people.
+[52 minutes][Customer] : Yeah.
+[51 minutes 57 seconds][Agent] : Obviously, if you're just going to be the one paying for it, if he decides just to leave it all to you, fair enough. He just needs to make sure he signs it, OK, umm, and then have that sent back, OK.
+[52 minutes 4 seconds][Customer] : Yeah, yeah, yeah.
+[52 minutes 7 seconds][Agent] : And then obviously if he does pass away, the beneficiary will call umm and make the claim and follow the, you know what our claims officer will help with and get everything sorted. OK, Umm it. So that's all done now. Is there anything else that I could do for you today at all? Day.
+[52 minutes 18 seconds][Customer] : Yeah, yeah. No, not with that matter, man. That one's pretty much awkward up. And I thank you for your humanity and just hearing me out, man, with like all of it and what I'm going through, man. I will. I will. Thank you for that.
+[52 minutes 29 seconds][Agent] : Yeah, that's, that's my pleasure mate. Like I said, I've been through something similar and I completely understand. So strong. It's a good thing that you're doing for your dad. Umm, you know, I'll probably eventually do this for my parents one day too, to be honest.
+[52 minutes 35 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[52 minutes 47 seconds][Agent] : Umm, But yeah, it's, it's hopefully everything's OK, So you don't have to claim this for a very long time, but if it does come sooner than later, umm, you know, you'll be able to, you know, send you that off in a nice fashion and, you know, obviously keep that memory.
+[52 minutes 53 seconds][Customer] : Yeah, yeah, yeah. That's that's true. Yeah.
+[53 minutes 1 seconds][Agent] : Yeah, yeah. So I'm going to put you before I let you guys, I'm just going to talk this out. Umm, I'm just putting you down on the notes for 3rd party pay purchaser.
+[53 minutes 10 seconds][Customer] : Yep, yeah.
+[53 minutes 9 seconds][Agent] : OK, So that when you, if you ever call back, we know who you are.
+[53 minutes 13 seconds][Customer] : Yep. No worries. Yeah.
+[53 minutes 12 seconds][Agent] : OK Umm, so I'm just putting you down as Jeremiah Conroy. Umm, I'll put in brackets goes by Jane.
+[53 minutes 21 seconds][Customer] : Yep.
+[53 minutes 19 seconds][Agent] : Umm and I'll just put your phone number down there, 432386765 Umm, OK, one SEC sorry I won't be too long.
+[53 minutes 27 seconds][Customer] : Yep, Yep, no worries.
+[53 minutes 45 seconds][Agent] : I just need to put in your address again so I can see the start of it.
+[53 minutes 48 seconds][Customer] : Yep, no dining St.
+[53 minutes 48 seconds][Agent] : So 9 Galvani St. Yeah. Umm, what suburb is that again? Can you can you spell that?
+[53 minutes 56 seconds][Customer] : just involved her WULGU RU robbery. Yeah, that's correct, 4811.
+[54 minutes 6 seconds][Agent] : Yeah, WWULGURU and the post code, sorry, 4811 and that's, that's Queensland, right?
+[54 minutes 25 seconds][Customer] : Yeah, that's right. Yeah.
+[54 minutes 26 seconds][Agent] : Yep. OK, All right. So I've got that fixed up. So full name. Oh, and I'll just put in your date of birth, 1/1 more time as well. And, and that was, Yep, 17/6/1994. All good.
+[54 minutes 36 seconds][Customer] : Yeah, 17th of the sixth, Yeah, Yep.
+[54 minutes 42 seconds][Agent] : All right, so that's all filled out. I'll put you on the notes as the third party paid purchaser. So we know that you're the one that set this up and you're the one that's paying for it. OK, all good. So if there's that.
+[54 minutes 50 seconds][Customer] : Yeah, I have one last set. Do you guys offer Licmington as well, like genuine licensing or maybe like a regional or like household?
+[54 minutes 59 seconds][Agent] : Yeah, we do, We do.
+[55 minutes 1 seconds][Customer] : Yep.
+[55 minutes 1 seconds][Agent] : Uh, so say that again.
+[55 minutes 3 seconds][Customer] : Like, yeah, you do. That's what I can say.
+[55 minutes 5 seconds][Agent] : Yeah, we do. Life insurance. Yeah. Did you?
+[55 minutes 10 seconds][Customer] : How much does my phone pay up for that one? And how much is it?
+[55 minutes 13 seconds][Agent] : Well, just depends on the person insured getting insured. Is it for you?
+[55 minutes 16 seconds][Customer] : It's I include himself.
+[55 minutes 18 seconds][Agent] : Yeah, it's for you. Umm, you'll be able to look at the full amount based on your age, mate. So the 100,000 is the minimum. Umm, 1,000,000 is the maximum you can go.
+[55 minutes 18 seconds][Customer] : Yeah, Yep, yeah, yeah.
+[55 minutes 30 seconds][Agent] : You can go in the middle of that in, umm, 50 thousands. So whatever you start with, there's just to start with and you can, uh, you can apply to change it a million.
+[55 minutes 35 seconds][Customer] : Yeah, Yep.
+[55 minutes 41 seconds][Agent] : Bear with me there. I just I need to create your profile to get your price on that's all.
+[55 minutes 53 seconds][Customer] : All good.
+[56 minutes 4 seconds][Agent] : Did you just reconfirm, Jay, you are a male Australian resident?
+[56 minutes 8 seconds][Customer] : Yep.
+[56 minutes 9 seconds][Agent] : Yep. One second. I'm just trying to load everything up for you as quick as I can.
+[56 minutes 21 seconds][Customer] : Yeah. All good.
+[56 minutes 19 seconds][Agent] : OK, I'll just confirm. Jay, have you had a cigarette in the last 12 months? Yeah, that's all right. So with just to give you a bit of an overview, this one's very straightforward, The life cover, it's designed to provide financial protection for your loved ones through a lump sum payment.
+[56 minutes 22 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[56 minutes 50 seconds][Agent] : If you were to pass away. The beneficiaries can still spend this money however they want as well.
+[56 minutes 55 seconds][Customer] : Yep.
+[56 minutes 54 seconds][Agent] : And obviously you would decide who the money gets released to. You can pick up the five people as a beneficiary.
+[57 minutes][Customer] : Yep. Yep. Yep.
+[56 minutes 59 seconds][Agent] : OK umm, so whether whether they spend it on mortgages, loans, debts or just maintaining a lifestyle, it's really just up to the beneficiary.
+[57 minutes 8 seconds][Customer] : Yep.
+[57 minutes 6 seconds][Agent] : You leave the money to umm, it's easy to apply for this one. You need to get approved for.
+[57 minutes 12 seconds][Customer] : Yep, Yep. Yep, Yep, Yep.
+[57 minutes 11 seconds][Agent] : There's about a five to six minute yes or no help from last all questionnaire that I that I obviously help you through and I'll try my best to get your proofs if you get accepted. And then once you decide to commence the policy, you will be covered immediately if you get you to any course straight away.
+[57 minutes 26 seconds][Customer] : Yeah, cool.
+[57 minutes 26 seconds][Agent] : So you don't need to serve a waiting period on that.
+[57 minutes 29 seconds][Customer] : Yep.
+[57 minutes 29 seconds][Agent] : As soon as we give you the cover, you'll cover there and then. OK. The the only thing that is not covered on this cover is suicide in the 1st 13 month period. That is all. OK.
+[57 minutes 40 seconds][Customer] : But it's covered after the second month.
+[57 minutes 42 seconds][Agent] : That is, Yep.
+[57 minutes 44 seconds][Customer] : Yeah, cool, cool.
+[57 minutes 45 seconds][Agent] : OK, OK, now in addition to that, there's a terminally ill advanced payment built into the cover.
+[57 minutes 50 seconds][Customer] : Yep, Yep.
+[57 minutes 50 seconds][Agent] : OK. Umm, with this one, obviously I have a dozen up until you mate, but there's no waiting period on it.
+[58 minutes 5 seconds][Customer] : Yep. OK.
+[57 minutes 56 seconds][Agent] : If you get diagnosed with 12 months or less to leave by a medical practitioner that's with a terminal illness, then you call yourself, you make the claim, you get paid out in full, OK, So that way you can decide how the money spent. So your medical costs, you might want to set your family up. You might want to take off a bucket list with your family so you can create those memories. It's really up to you, OK, There's, there's also a funeral benefit built into this cover.
+[58 minutes 13 seconds][Customer] : Yeah, yeah, yeah.
+[58 minutes 19 seconds][Agent] : It's a $10,000 advance payment so that when your beneficiaries claim, they can request that and use it for funeral costs and final expenses.
+[58 minutes 27 seconds][Customer] : Yep. Yep.
+[58 minutes 27 seconds][Agent] : OK, so that's how the life cover works. Is there any questions?
+[58 minutes 32 seconds][Customer] : No. No questions. No.
+[58 minutes 33 seconds][Agent] : OK. Oh, good. And you said you wanted to look at the maximums, the million?
+[58 minutes 37 seconds][Customer] : Yep. Yep.
+[58 minutes 38 seconds][Agent] : Yeah.
+[58 minutes 38 seconds][Customer] : Definitely. Yep.
+[58 minutes 47 seconds][Agent] : So we can offer you the $1 million of coverage I, umm, for a fortnightly premium of $93.07.
+[58 minutes 55 seconds][Customer] : OK, how much for? What am I?
+[58 minutes 57 seconds][Agent] : OK, Do you want? So what I might do is I'll give you the breakdown 1st and then we can move upwards. Is that OK? Might make it a bit easier.
+[59 minutes 5 seconds][Customer] : Yeah, yes, Sir.
+[59 minutes 5 seconds][Agent] : I'll get also.
+[59 minutes 8 seconds][Customer] : Yep.
+[59 minutes 6 seconds][Agent] : I'll get, I'll still get you the quarter, but just just so you can say it nice and simple.
+[59 minutes 14 seconds][Customer] : Yep.
+[59 minutes 11 seconds][Agent] : Per $100,000 of cover, it'll cost you $9.31 a fortnight, right? So each $100,000 extra you want to just keep in mind it will be an extra $9.31 per 100,000 that you add on.
+[59 minutes 18 seconds][Customer] : Yep, Yep, Yep.
+[59 minutes 26 seconds][Agent] : OK, So for for 1/4, so 250,000 you'd be looking at just loading up now $23.27 a 49. How does that sound?
+[59 minutes 40 seconds][Customer] : That's probably the one. How much for? How much was 400,000?
+[59 minutes 45 seconds][Agent] : Yeah, just load it up for you. And what? Remember whatever you choose here Jays, just to start on. OK, umm, let me, let me just explain this here while I'm loading that price. So if someone starts lower than the maximum, that person can call back before they turn 65 and apply for a large increase on their benefit. The thing is, uh, the eligibility is you need to get approved again before you turn 65 through the questions to look at increasing large amounts and what it'll depend on when you call to. So whatever your age is when you call, umm, and you, if you do get approved again, uh, you'll then be showing what your options are increasing in large amounts and you can pick and choose from your options at that time.
+[59 minutes 53 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah. Mm. Hmm.
+[1 hours 26 seconds][Agent] : OK, so that's one option. Some people might start high and then they might not need that much later. So you can apply to decrease at any time. If you applied a decrease to cover, the payments will lower accordingly. OK, so again, just to just explain that to me so that you know, whatever you're choosing here, it's just to start on, there are ways subject to eligibility to have this change over time, OK? Umm, so for 400,000 that would be $37.23 a fortnight.
+[1 hours 44 seconds][Customer] : Yeah, yeah, yeah. I'll, I'll put it down for 750, man. I'll, I'll make it 750.
+[1 hours 1 minutes 6 seconds][Agent] : Southeast 750, So that would be, uh, $69.80 a fortnight.
+[1 hours 1 minutes 8 seconds][Customer] : Yeah, yeah, yeah, yeah. No problem. Yeah, that's the number, man. Yeah.
+[1 hours 1 minutes 18 seconds][Agent] : OK, You can, yeah.
+[1 hours 1 minutes 19 seconds][Customer] : It's it's just enough for what I need, for everyone that's around me that I care for and it's not too party to.
+[1 hours 1 minutes 26 seconds][Agent] : OK. So you can afford that as well.
+[1 hours 1 minutes 29 seconds][Customer] : Yeah, yeah, def. I can definitely afford that one and it'd still be enough. You get it right?
+[1 hours 1 minutes 31 seconds][Agent] : OK Yeah. So you're right to cover both the funeral for your data in this one.
+[1 hours 1 minutes 39 seconds][Customer] : Yeah, it's gonna be, it's gonna be a bit like, I don't know how it's gonna be when I talk to like when I let it be known that like I need a signature and this what's happening. So it, it might not be immediate, but, but yeah. Oh, so I'll pay this one first. No problem. Yeah. So yeah, let's get this one happening.
+[1 hours 1 minutes 39 seconds][Agent] : OK All right. So you want to so remember the other ones in place already in the first time?
+[1 hours 1 minutes 56 seconds][Customer] : Yeah, yeah.
+[1 hours 1 minutes 59 seconds][Agent] : It'll be on the 14th of February. That's OK. Yeah.
+[1 hours 2 minutes 1 seconds][Customer] : That's yeah, that's yeah, yeah, yeah. Don't worry. Yeah, I'm not. I'm not worried about losing 70.com. Yeah, that's fine. That's fine.
+[1 hours 2 minutes 9 seconds][Agent] : All right. Right. So so, umm, do you want to do this one as well?
+[1 hours 2 minutes 15 seconds][Customer] : Yeah, yeah. For, yeah. For 7:50. Yeah. Yep. No problem.
+[1 hours 2 minutes 15 seconds][Agent] : OK, 750,000 Alright, alright, no worries. Alright cool.
+[1 hours 2 minutes 23 seconds][Customer] : Yeah, that's yeah, yeah. No problem. Yep.
+[1 hours 2 minutes 24 seconds][Agent] : So I do need to take you through a few more things on this cover your premium steps, which means it would generally increase age of your age.
+[1 hours 2 minutes 34 seconds][Customer] : Yep.
+[1 hours 2 minutes 34 seconds][Agent] : Now in addition, this policy does have automatic indexation. Now I want to explain to you exactly how this works so you know what to do.
+[1 hours 2 minutes 42 seconds][Customer] : Yep.
+[1 hours 2 minutes 41 seconds][Agent] : OK, Jay, every 12 months you will get a renewal, OK?
+[1 hours 2 minutes 45 seconds][Customer] : Yeah, yeah.
+[1 hours 2 minutes 46 seconds][Agent] : Please look for them, please read them and please look for the automatic indexation on this policy for yourself, OK?
+[1 hours 2 minutes 53 seconds][Customer] : Yeah, yeah.
+[1 hours 2 minutes 53 seconds][Agent] : What it, what it means is each year your sum insured, which is the amount of money you're covered for the 750,000 that will automatically increase by 5% with associated increases in premium. So in short, you'll be covered for more. If you let it happen, it's going to cost you extra as well.
+[1 hours 3 minutes 9 seconds][Customer] : Yeah. Yeah.
+[1 hours 3 minutes 9 seconds][Agent] : Now you can opt out of this automatic indexation each year when you don't want it there.
+[1 hours 3 minutes 12 seconds][Customer] : Yeah. Yeah.
+[1 hours 3 minutes 13 seconds][Agent] : OK, Now I'm going to give you an example so you know exactly what to do next year. Is that OK?
+[1 hours 3 minutes 17 seconds][Customer] : Yeah.
+[1 hours 3 minutes 18 seconds][Agent] : Yeah.
+[1 hours 3 minutes 18 seconds][Customer] : Yeah. Yeah.
+[1 hours 3 minutes 19 seconds][Agent] : So you can say at the moment we're sitting at $69.80 a fortnight. It's giving you 750K. Let's Fast forward to the future. You get your first renewal and you read it. So it says here Jeremiah Conroy, please be aware that all of our premium projections are indicative only and assume that you do not make any amendments to your cover. As an example, if you do not decline the indexation on your policy, the premium payable in your following year of cover will be $73.29 a fortnight, OK. What will happen there is your benefit amount will then increase to $787,500 of cover, right?
+[1 hours 3 minutes 25 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah. I want that new account back. Yeah. That's good. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+[1 hours 3 minutes 55 seconds][Agent] : So, yeah, so maybe every single year up until the policy anniversary after your 75th birthday, you get, you're going to be able to say this, right? So you might not need it to increase every year, only some years.
+[1 hours 4 minutes 3 seconds][Customer] : Yeah, yeah.
+[1 hours 4 minutes 7 seconds][Agent] : So just always look for it. If you're happy with it, leave it. If you're not that year, that's where you call us and tell us you want to opt out. That's all.
+[1 hours 4 minutes 14 seconds][Customer] : Yeah. Yeah.
+[1 hours 4 minutes 14 seconds][Agent] : OK, So I just want to show you next year if you would opt out instead, so you can see the difference. OK.
+[1 hours 4 minutes 20 seconds][Customer] : Mm, Hmm. Yeah.
+[1 hours 4 minutes 20 seconds][Agent] : So as as an example, let's say you get the renewal and you decide to decline the indexation on the policy instead.
+[1 hours 4 minutes 26 seconds][Customer] : Mm. Hmm. Yep.
+[1 hours 4 minutes 25 seconds][Agent] : As an example, the premium payable in the following year of cover would be $69.80 a fortnight and the benefit amount would remain the same as the $750,000 for that next 12 month period as well.
+[1 hours 4 minutes 38 seconds][Customer] : Yep. Yep.
+[1 hours 4 minutes 37 seconds][Agent] : OK, so as an indication, if you make no changes to the policy, that's what your premiums will be next year, $69.80 a fortnight and as you can see, that's the same as this year.
+[1 hours 4 minutes 47 seconds][Customer] : Yep.
+[1 hours 4 minutes 46 seconds][Agent] : OK, Now you can also find information about our premium structure on our website.
+[1 hours 4 minutes 53 seconds][Customer] : Yep.
+[1 hours 4 minutes 52 seconds][Agent] : OK, Any questions around that at all or is that pretty clear? Cool.
+[1 hours 4 minutes 57 seconds][Customer] : No, that's pretty clear and I'm happy for that. Yep.
+[1 hours 4 minutes 59 seconds][Agent] : So you know what to do Yep cool no problems.
+[1 hours 5 minutes 5 seconds][Customer] : Yeah. Yep.
+[1 hours 5 minutes 3 seconds][Agent] : I just want to make sure you understand umm now we, we give you money back on this one Tuesday so you'll get back. Umm, so the real reward the way I explained it before, it's the same on the life cover too. So you get back $181.49. You can spend that how you want.
+[1 hours 5 minutes 17 seconds][Customer] : Yep.
+[1 hours 5 minutes 19 seconds][Agent] : Umm, we'll send you out a free will kit for yourself mate. So if you need to organize the will, you're more than welcome to do that with the kit.
+[1 hours 5 minutes 25 seconds][Customer] : Yep. Yep.
+[1 hours 5 minutes 24 seconds][Agent] : OK, umm, and the next step is to take you through the, uh, the questions, if you can help me as best you can tonight, this nice and simple J you can tell me a yes or no for each question. OK, Umm, I just need to fill out your details now.
+[1 hours 5 minutes 36 seconds][Customer] : OK, Yep.
+[1 hours 5 minutes 39 seconds][Agent] : Umm, I know I did it on your dad's profile, but just for years. So I just need to put in your address again.
+[1 hours 5 minutes 44 seconds][Customer] : Yep. No.
+[1 hours 5 minutes 43 seconds][Agent] : Umm, it was for the post code Woolguru. Yep.
+[1 hours 5 minutes 47 seconds][Customer] : 990-4811 Yep. Gevani St.
+[1 hours 5 minutes 51 seconds][Agent] : And then nine Gabon, that's it family there.
+[1 hours 5 minutes 57 seconds][Customer] : Yep.
+[1 hours 5 minutes 57 seconds][Agent] : So I can't I can't say that anymore. So if you can help me with it, umm, I've got that down.
+[1 hours 6 minutes 1 seconds][Customer] : Yep.
+[1 hours 6 minutes 1 seconds][Agent] : So so I'm going to put that as your home and postal address. 9 Galvani St.
+[1 hours 6 minutes 5 seconds][Customer] : Yep.
+[1 hours 6 minutes 4 seconds][Agent] : Wigguru QLD 4811. Yep, you got you got by Mr. Fuel title gay.
+[1 hours 6 minutes 7 seconds][Customer] : Yep, Yep, Yep.
+[1 hours 6 minutes 11 seconds][Agent] : Yep. Umm, and what Ah, the e-mail. Do you want me to put your e-mail down or the other e-mail?
+[1 hours 6 minutes 18 seconds][Customer] : The other e-mail, please, would be nice. Yeah.
+[1 hours 6 minutes 19 seconds][Agent] : OK, can you repeat it for me? Yep, Yep.
+[1 hours 6 minutes 21 seconds][Customer] : So it should be jay-jacobjotnojatobs.93@outlook.com.
+[1 hours 6 minutes 34 seconds][Agent] : So again, j-jacobs.93@outlook.com.
+[1 hours 6 minutes 38 seconds][Customer] : Yep.
+[1 hours 6 minutes 39 seconds][Agent] : OK, no worries mate. That's all fixed up. All right, I need to read you a quick message that outlines how we need to answer the questions together formally.
+[1 hours 6 minutes 48 seconds][Customer] : Yep.
+[1 hours 6 minutes 48 seconds][Agent] : I'll brace through that and then you just tell me if you need help through these questions.
+[1 hours 6 minutes 53 seconds][Customer] : Yep.
+[1 hours 6 minutes 51 seconds][Agent] : But again to make it nice and simple mate you can just tell me yes or no OK?
+[1 hours 6 minutes 56 seconds][Customer] : Yeah, yeah, I'm good.
+[1 hours 6 minutes 57 seconds][Agent] : I'll try and get you approved as best I can.
+[1 hours 7 minutes 1 seconds][Customer] : Yep, Yep.
+[1 hours 6 minutes 59 seconds][Agent] : OK so it says here. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other training service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access incorrect your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase SO life insurance policy and as such, you have a duty to take reasonable care. It's not making misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full. Even if you have provided some information to us and any earlier discussions you have had. If you do not take reasonable care, you may break your duty. And if this happens, your insurer may be entitled to cancel your policy to find a claim or make adjustments to the terms and conditions of your policy. Do you understand and agreed to Judy J, yes or no?
+[1 hours 7 minutes 57 seconds][Customer] : Yeah, yeah, definitely. Yeah. Yeah.
+[1 hours 7 minutes 58 seconds][Agent] : Thank you, mate. So first one's nice and simple. It's for COVID, so it says. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no? Are you a citizen or permanent resident of Australia or New Zealand currently residing in Australia, yes or no?
+[1 hours 8 minutes 11 seconds][Customer] : No, I'm a permanent citizen of Australia.
+[1 hours 8 minutes 20 seconds][Agent] : And and you currently live in Australia as well. Yeah.
+[1 hours 8 minutes 28 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[1 hours 8 minutes 29 seconds][Agent] : So I'm, I'm going to, I'm going to put a yes down for you. OK. Is that all right?
+[1 hours 8 minutes 33 seconds][Customer] : Sounds good.
+[1 hours 8 minutes 34 seconds][Agent] : OK, cool. That's, that's fine. The way you've answered it, by the way, it's all good. Umm, the next one says, does your work require you to go underground? Work at heights above 20 meters, dive to that's below 40 meters, use explosives or travel to areas experiencing more or civil unrest, or work offshore. Yes or no?
+[1 hours 8 minutes 50 seconds][Customer] : No, no, none of that.
+[1 hours 8 minutes 52 seconds][Agent] : Now the next section is in relation to your height and weight. So please be aware that I'm required to obtain a confidence single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So I'll break this one in half for you, Jay, to make it easier. What is your exact height?
+[1 hours 9 minutes 1 seconds][Customer] : Yep, Yep, Yep.
+[1 hours 9 minutes 7 seconds][Agent] : Please mate? How tall were you?
+[1 hours 9 minutes 10 seconds][Customer] : 157 cents.
+[1 hours 9 minutes 11 seconds][Agent] : 157 centimeters. And what is your exact weight? Please mate.
+[1 hours 9 minutes 14 seconds][Customer] : Yeah, it is 73, I believe I would be T Yeah, 73 kilos.
+[1 hours 9 minutes 25 seconds][Agent] : I can put down, I can put down the last time you weighed yourself. So the last time you weighed yourself for your 73 kilos?
+[1 hours 9 minutes 32 seconds][Customer] : Yeah, yeah. M more close.
+[1 hours 9 minutes 33 seconds][Agent] : Yep, Yep. So 157 centimeters in height and the last time you weighed yourself is 73 kilograms. Is that right?
+[1 hours 9 minutes 34 seconds][Customer] : Yeah, yeah, yeah, yeah, that's correct.
+[1 hours 9 minutes 43 seconds][Agent] : And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[1 hours 9 minutes 49 seconds][Customer] : Yeah, Yeah, that's what I'm saying here. Yeah. Yep.
+[1 hours 9 minutes 51 seconds][Agent] : So that one's unexplained, mate.
+[1 hours 9 minutes 54 seconds][Customer] : Oh, no, no. I need to. No.
+[1 hours 9 minutes 56 seconds][Agent] : Yeah.
+[1 hours 9 minutes 56 seconds][Customer] : I know what I'm doing.
+[1 hours 9 minutes 57 seconds][Agent] : Yeah.
+[1 hours 9 minutes 56 seconds][Customer] : No, no, no, no.
+[1 hours 9 minutes 58 seconds][Agent] : No, I read it's. Don't be sorry. People get stuck on that one a lot. It's all good.
+[1 hours 10 minutes 2 seconds][Customer] : Yeah, Yeah.
+[1 hours 10 minutes 2 seconds][Agent] : So just to write, write it back. Have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? OK, That's fine, mate. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV, which causes AIDS?
+[1 hours 10 minutes 6 seconds][Customer] : No, No, no. No. Nothing.
+[1 hours 10 minutes 19 seconds][Agent] : I've got a travel question here for you, Jay.
+[1 hours 10 minutes 22 seconds][Customer] : Yep.
+[1 hours 10 minutes 23 seconds][Agent] : Keyword for this one is the word definite.
+[1 hours 10 minutes 26 seconds][Customer] : Yep. Yeah, yeah, yeah, yeah.
+[1 hours 10 minutes 26 seconds][Agent] : So realistically, if you've already booked it and you're going or if you're going to book it and you're going to go and there's a time frame, I'll write out to you, OK, So it says do you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months? Yes or no? OK. So you will be covered worldwide 24/7 under this policy. J just for Peace of Mind for you, OK? Do you have existing life insurance policies with other life insurance companies with a combined total? Some are short of more than $5 million.
+[1 hours 10 minutes 44 seconds][Customer] : No, no.
+[1 hours 11 minutes][Agent] : Have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sun spots, Melanoma or leukaemia? Yes or no.
+[1 hours 11 minutes 14 seconds][Customer] : No, nothing.
+[1 hours 11 minutes 15 seconds][Agent] : Have you ever had an abnormal PSA test or an enlarged prostate?
+[1 hours 11 minutes 20 seconds][Customer] : No, no, nothing.
+[1 hours 11 minutes 19 seconds][Agent] : Yes or no, Thank you mate, thank you. Uh, stroke, chest pain, palpitations or heart conditions such as they're not limited to heart attack and angina or high blood pressure. Yes or no.
+[1 hours 11 minutes 33 seconds][Customer] : None of them. Yep. Yep. Yeah. No.
+[1 hours 11 minutes 31 seconds][Agent] : So remember just a yes or a no if that's OK Jay, that's right. Just because when I'm clicking them, I only have the option for a yes or no. OK, So it's all good.
+[1 hours 11 minutes 44 seconds][Customer] : Yep. Yep.
+[1 hours 11 minutes 44 seconds][Agent] : Umm, so I've, I've done that for you anyway, so that's fine. The next one says high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting.
+[1 hours 11 minutes 54 seconds][Customer] : No, nothing. No. Oh, sorry about that.
+[1 hours 11 minutes 56 seconds][Agent] : That's all. I've got you man, it's all good.
+[1 hours 11 minutes 56 seconds][Customer] : No, no, no.
+[1 hours 11 minutes 58 seconds][Agent] : Umm, the next one says diabetes, high blood sugar, impaired glucose tolerance or impaired fasting glucose, hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas, epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Now, so again, have you ever had symptoms of being diagnosed with or treated for, or intends to seek medical advice for any of the following anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no? The next one says any illegal drug use, abuse of prescription medication or received medical advice or counselling for alcohol consumption.
+[1 hours 12 minutes 20 seconds][Customer] : No, no, no. But I, I, I might fall back to that question that you just said about mental health when I was 20, back in 2000, 2015 to 14, I did was admitted to a, what do they call that to a rehab centre here in Townsville.
+[1 hours 13 minutes 5 seconds][Agent] : OK, Yep, Yep, that's it.
+[1 hours 13 minutes 8 seconds][Customer] : So yeah, I should probably make that known.
+[1 hours 13 minutes 11 seconds][Agent] : That's all right man, that's fine. Umm, you just let me know. I'm, we'll try and get through this. I'm going to come back to that one. Put a yes. Umm, I just need to break it down. So if you, you can just answer yes or no and we'll, we'll try and get through it.
+[1 hours 13 minutes 13 seconds][Customer] : Yeah, yeah, yeah, yeah. Yep.
+[1 hours 13 minutes 22 seconds][Agent] : So, umm, when I put a yes to the mental health disorder question, so anxiety, depression or stress requiring medical treatment or any other mental health disorder, I, I put a yes and it says is your condition of form of schizophrenia, bipolar or psychotic disorder.
+[1 hours 13 minutes 40 seconds][Customer] : I think it was a psychotic disorder.
+[1 hours 13 minutes 45 seconds][Agent] : So did did I say what disorder you have?
+[1 hours 13 minutes 42 seconds][Customer] : I believe it was related to no, because they said it was all just alcohol induced and stress and alcohol induced and it was it wasn't permanent. I showed no permanent signs or anything, but it was just yeah, that I needed some time to to myself, more or less. Yeah, Yeah. No, they didn't give me any permanent diagnosis, I don't believe.
+[1 hours 13 minutes 58 seconds][Agent] : OK, all right.
+[1 hours 14 minutes 6 seconds][Customer] : Yeah.
+[1 hours 14 minutes 6 seconds][Agent] : Well, that that is that one. I think that'd be more like like a like they would have told you what the psychotic disorder was if you have one, right?
+[1 hours 14 minutes 13 seconds][Customer] : Yeah. And and they say, like I said, we're going to obviously stop seeing you and we're giving you the tools for like proceeding your wife that you'll need Cos this is only like temporary, you know what I mean? And I haven't seen them for so many years then. Yeah, yeah, man, Yeah. So, yeah, 'cause I asked them, they might do like, tell people I have something to disrespect me from other working, like other careers or anything throughout life. And I said no, at this stage we don't, like, nudge you with anything. But you know what I mean? You, it was only temporary, the stress that you were suffering. So you know what I mean? But yeah, yeah, yeah. Just more like a mental breakdown, yeah. And stuff.
+[1 hours 14 minutes 24 seconds][Agent] : Right, all right, umm, I just, it'll be there so, so it's just stress, right? Umm, OK, because, uh, I guess we, we just need to make sure we're answering this properly because if you, if we do get you the cover and, and you go to claim, your medical history will be reviewed for the life insurance.
+[1 hours 15 minutes 6 seconds][Customer] : Yeah, yeah, yeah, yeah, obviously.
+[1 hours 15 minutes 13 seconds][Agent] : Umm, so to be obtained and reviewed.
+[1 hours 15 minutes 14 seconds][Customer] : Well, yeah, yeah. Do they have any numbers? Yep, Yep.
+[1 hours 15 minutes 15 seconds][Agent] : Umm, well, maybe like maybe, umm, well like if you can't answer it, maybe you could call the doctor and find out or you could go see the doctor and find out.
+[1 hours 15 minutes 26 seconds][Customer] : Can you just put that will just Aussie Yeah, so Cos I don't want to say nose and then not get covered for that then more of that. So put up on down the yeah.
+[1 hours 15 minutes 31 seconds][Agent] : So, so if I do put a yes, it'll decline and I won't be able to offer you the cover. So I just want to find out if it is what it actually is so we can keep moving forward because I want to put a yes for just guessing if it's not what it is.
+[1 hours 15 minutes 46 seconds][Customer] : Yeah, yeah.
+[1 hours 15 minutes 45 seconds][Agent] : Do you know what I mean?
+[1 hours 15 minutes 47 seconds][Customer] : Fair enough. Fair enough.
+[1 hours 15 minutes 47 seconds][Agent] : I don't want, I don't want to decline you based on the guests.
+[1 hours 15 minutes 48 seconds][Customer] : Yeah, Yeah.
+[1 hours 15 minutes 50 seconds][Agent] : Umm, and I'd love to be able to help you out.
+[1 hours 15 minutes 53 seconds][Customer] : Yeah.
+[1 hours 15 minutes 52 seconds][Agent] : OK, sorry, this one's very specific and saying is, is your condition of form of schizophrenia, bipolar or psychotic disorder?
+[1 hours 16 minutes][Customer] : No, no, yeah, it's like it it so, so at this point could I further up, back up and call you? Like could I further it and back it up by later in the week? Like after this phone call, I get in contact with the family doctor and just say to him, look, I've already got the policy and it could cost me about 70 bucks for in the next fortnight.
+[1 hours 16 minutes 1 seconds][Agent] : So are you able to find that out for me to be very like because I want to make we would do it. We do it the other way around.
+[1 hours 16 minutes 22 seconds][Customer] : But if you could give me some credible information that relays to Yep. Alright then. OK, thanks.
+[1 hours 16 minutes 27 seconds][Agent] : So you go find that out for me first and then we'll finish it once you know the answer with the live. That's how we do with the life insurance. So you need to be sure it's it's it's not like it's not like the funeral. Remember, the few ones got no questions to be asked, right? So as long as as long as you're an Australian resident between age 40 and 79, you can get a funeral insurance, right? That's guaranteed. Where's this one's not? This one's very strict on the question. So find that out for me, mate. I'll put it on hold. Everything else advanced will save.
+[1 hours 16 minutes 36 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[1 hours 16 minutes 58 seconds][Agent] : OK, We don't need to go.
+[1 hours 16 minutes 58 seconds][Customer] : Can tonight W would you personally, would you feel comfortable and just going through and and saying as a yes, 'cause I'd I'd like to get off the phone call and be able to say that like, you know what I mean, me kids and you know, me, the ex old lady, you know, I've got cover.
+[1 hours 17 minutes 13 seconds][Agent] : So I can't do that mate. I'm not allowed to. Yeah, but I can still go through the rest of the. I'll go through the rest for you and then we'll just leave that one blank and you can go and point out for me. We'll come back and answer that last question.
+[1 hours 17 minutes 20 seconds][Customer] : Yep, yeah, yeah.
+[1 hours 17 minutes 26 seconds][Agent] : OK.
+[1 hours 17 minutes 26 seconds][Customer] : All good, all good.
+[1 hours 17 minutes 27 seconds][Agent] : So at the moment I'm going to leave the mental health one is blank as we'll have to answer that later. The next one was, have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following any illegal drug use, abusive prescription medication, or received medical advice or counseling for alcohol consumption? So did you say that you did have medical advice or counseling for alcohol consumption? Yep.
+[1 hours 17 minutes 55 seconds][Customer] : Yeah, yeah, I guess so.
+[1 hours 17 minutes 57 seconds][Agent] : Yep.
+[1 hours 17 minutes 56 seconds][Customer] : Yeah, Yeah.
+[1 hours 17 minutes 59 seconds][Agent] : So then it says when I put that in as a yes, it breaks it down further and it says illegal drugs, abusive prescription medication or treatment for drug addiction, IE methadone or Suboxone. Yes or no? No. OK Ah, the next one says have you sought medical advice or counseling for your alcohol consumption within the past 10 years? OK, That's fine. So it's outside of those 10 years.
+[1 hours 18 minutes 11 seconds][Customer] : No, no, yeah.
+[1 hours 18 minutes 27 seconds][Agent] : Yeah, that's fine. No change on that. That's great. OK. Umm, moving forwards, next question.
+[1 hours 18 minutes 36 seconds][Customer] : No, nothing. Nothing.
+[1 hours 18 minutes 33 seconds][Agent] : Disorder of the kidney or bladder, blood disorder or disease, asthma or other spiritual disorder excluding childhood asthma.
+[1 hours 18 minutes 46 seconds][Customer] : No.
+[1 hours 18 minutes 46 seconds][Agent] : OK, that's fine mate. We're doing very well. There's about 5 to go, umm, well, six including the, the, uh, mental health one, but we'll do that when you speak to the doctor, uh, and no change has been made. So if I were doing very well, OK.
+[1 hours 18 minutes 49 seconds][Customer] : Yep, Yep, Yep.
+[1 hours 19 minutes 1 seconds][Agent] : Umm, the next one says other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as they're not limited to any surgeries, X-rays, scans, blood tests or biopsy, Yes or no?
+[1 hours 19 minutes 23 seconds][Customer] : No.
+[1 hours 19 minutes 24 seconds][Agent] : And other than what you have already told me about, are you contemplating seeking medical advice or any symptoms you are currently experiencing within the next two weeks?
+[1 hours 19 minutes 32 seconds][Customer] : No.
+[1 hours 19 minutes 33 seconds][Agent] : To family history questions for you, Jay.
+[1 hours 19 minutes 36 seconds][Customer] : Yep.
+[1 hours 19 minutes 37 seconds][Agent] : These are only going to ask us about immediate family and that is either father, mother, brother or sisters only.
+[1 hours 19 minutes 43 seconds][Customer] : Yep.
+[1 hours 19 minutes 43 seconds][Agent] : OK, To the best of your knowledge, have any of your immediate family living or deceased ever being diagnosed with polycystic kidney disease, Huntington's disease, or familial abernitis, polyposis?
+[1 hours 19 minutes 56 seconds][Customer] : No.
+[1 hours 19 minutes 57 seconds][Agent] : To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke, or other hereditary disease prior to age 60? So, so only if they were diagnosed before 60.
+[1 hours 20 minutes 10 seconds][Customer] : No, Yeah. No, no, not before. No. Yeah, my dad's older.
+[1 hours 20 minutes 16 seconds][Agent] : So, so, so, so your mom or your dad not before 60, older than that yet, OK. And and your mom didn't get diagnosed with any of those things before 60? OK, OK, that's good. And brothers and sisters, same thing.
+[1 hours 20 minutes 28 seconds][Customer] : No, no, no. Right. They're all, they're all quite Instead.
+[1 hours 20 minutes 34 seconds][Agent] : OK, All right, cool. So that would be enough for that whole question, is that right?
+[1 hours 20 minutes 36 seconds][Customer] : Yeah, yeah. Yeah.
+[1 hours 20 minutes 41 seconds][Agent] : OK, awesome. Thank you.
+[1 hours 20 minutes 41 seconds][Customer] : No, Yep.
+[1 hours 20 minutes 44 seconds][Agent] : Last question on this section and says other than one of events such as a gift certificate or a voucher for example, Jay, do you, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognised airline, motor racing, parachuting, mountaineering, upsailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity? Yes or no?
+[1 hours 21 minutes 17 seconds][Customer] : Yeah, yeah, yeah, that's yeah.
+[1 hours 21 minutes 18 seconds][Agent] : You do, that's all. Yeah. So remember that. It's it's not a bad thing to say. As to it's all good.
+[1 hours 21 minutes 21 seconds][Customer] : I do intend to yeah, yes, I but I'm sure there's a design, life insurance pay. But even though it's drag racing, all that sort of stuff, eh, that's just yeah, I'll, I'll. But what does it say if I say yeah to motor racing?
+[1 hours 21 minutes 35 seconds][Agent] : Well, yeah, it's all right. That's fine. It's probably like it might just be a bit more of a risk. It might exclude you for that particular circumstance. Huh. Say that again. But yeah, if you're going to intend to do it, we need to put it down.
+[1 hours 21 minutes 49 seconds][Customer] : And how many years does that take through W how recent 'cause I won't be probably anything on a track within the next three years, if not longer, probably even longer than that maybe is. Is there a time frame for it or not?
+[1 hours 22 minutes 8 seconds][Agent] : It's it's in general, Yeah.
+[1 hours 22 minutes 7 seconds][Customer] : Just all in 10 or all all right.
+[1 hours 22 minutes 10 seconds][Agent] : So so I'll write it back slower. So other than so remember A1 off event doesn't count.
+[1 hours 22 minutes 13 seconds][Customer] : Yeah, yeah, yeah.
+[1 hours 22 minutes 15 seconds][Agent] : If it's a one off event, you don't need to say yes. So for example, someone might get given like a certificate for skydiving for Christmas. That's a one off event. Do you know what I mean? Because they're not going to do what every day, they're going to do it once and that's it. But if a, if a skydiving instructor came through and they skydive three times a day because of their job, they'd have to say yes.
+[1 hours 22 minutes 24 seconds][Customer] : Yeah, yeah.
+[1 hours 22 minutes 35 seconds][Agent] : Does that make sense?
+[1 hours 22 minutes 35 seconds][Customer] : Yep.
+[1 hours 22 minutes 36 seconds][Agent] : Yeah.
+[1 hours 22 minutes 36 seconds][Customer] : Yeah, I know.
+[1 hours 22 minutes 37 seconds][Agent] : All right, cool. I'll write it all back. So and remember, it's, it's it's not right or wrong. Like if you say yes to this, OK, just means you've got to call off. You do cool things, it's all good.
+[1 hours 22 minutes 46 seconds][Customer] : Yeah.
+[1 hours 22 minutes 45 seconds][Agent] : So other than one of events, for example, gift certificate or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline? Motor racing, parachuting, mountaineering, add sailing, scuba diving deeper than 40 meters, cable wreck diving, or any other hazardous activity. So you wanted me to put a yes for motor racing? Yep, that's fine, it's all good. I need to get rid of the ones that don't apply to you first.
+[1 hours 23 minutes 7 seconds][Customer] : Yeah, yeah, yeah.
+[1 hours 23 minutes 13 seconds][Agent] : OK, so it says based on your response, please enter yes or no for each of the following aviation. Other than this, if they're paying passenger or crew for a recognized passenger airline, yes or no?
+[1 hours 23 minutes 22 seconds][Customer] : No, no, I just want to be a passenger. Yeah. I don't intend to do anything else but be a passenger.
+[1 hours 23 minutes 29 seconds][Agent] : Oh, yeah, yes. So remember, other than means, that's OK.
+[1 hours 23 minutes 29 seconds][Customer] : So that's yeah, yeah.
+[1 hours 23 minutes 33 seconds][Agent] : So that that one's more saying aviation be a flyer plane.
+[1 hours 23 minutes 37 seconds][Customer] : No, no, I don't. No, Yeah.
+[1 hours 23 minutes 38 seconds][Agent] : Yeah, yeah, that, that that's what's that, That's what that one's asking. So aviation other than as a fare paying passenger or crew for a recognised passenger airline, yes or no? Cool. That's fine, man. That's all good mountaineering. What climbing will add sailing, long distance sailing, Hang Gliding, excluding one time glides, Skydiving or parachuting, excluding one time jumps, scuba diving.
+[1 hours 23 minutes 39 seconds][Customer] : No, no, no, no, no, no, no, no.
+[1 hours 24 minutes 8 seconds][Agent] : Then I'm going to put a yes to this next one.
+[1 hours 24 minutes 12 seconds][Customer] : Yep.
+[1 hours 24 minutes 9 seconds][Agent] : It says Motorsports, excluding recreational trail bike riding. So by the sounds of you drive like cars on the track, like drugs, Yeah.
+[1 hours 24 minutes 18 seconds][Customer] : Yeah, I want, Yeah, I want to get towards that. Yeah, Yep.
+[1 hours 24 minutes 21 seconds][Agent] : All right, all right. So put a yes for that and says are your motor sport activities limited to auto cross hill climbs, gymkhanas, karting, sprints, only rallies, drag racing Are reliability trials yes or no?
+[1 hours 24 minutes 40 seconds][Customer] : No, none of them.
+[1 hours 24 minutes 41 seconds][Agent] : So what would, what would you be doing?
+[1 hours 24 minutes 41 seconds][Customer] : No, just the one time track of that. Yeah, Yeah.
+[1 hours 24 minutes 47 seconds][Agent] : You know what, what, what would the track event they would it be like a rally or would it be a drive race? What would it be?
+[1 hours 24 minutes 59 seconds][Customer] : Was put down a drag. Yeah, Drag. Yeah.
+[1 hours 25 minutes 2 seconds][Agent] : Is that what it is though, Because drives just straight line. So are you doing circuits?
+[1 hours 25 minutes 12 seconds][Customer] : Yeah, I would say circuit means more than drag. I I never intended to go drag. I intended to go circuit.
+[1 hours 25 minutes 17 seconds][Agent] : So actually like driving around the track like umm, like just like, I don't know what you have up there. I'm, I'm from Sydney.
+[1 hours 25 minutes 17 seconds][Customer] : Yeah, yeah, yeah.
+[1 hours 25 minutes 25 seconds][Agent] : So we have, we have Eastern Creek Raceway, so people can just take their cars there and do the tracks and do the time trials and whatnot. Is that what you're going to do?
+[1 hours 25 minutes 26 seconds][Customer] : I'm just yeah, yeah, yeah, yeah, yeah, yeah.
+[1 hours 25 minutes 36 seconds][Agent] : Yep. OK, so that wouldn't be on the list. So it's fine. I have to put a no for that. Again, we don't want to be answering this wrongly.
+[1 hours 25 minutes 36 seconds][Customer] : More or less, Yeah, yeah, yeah, yeah.
+[1 hours 25 minutes 44 seconds][Agent] : And an exclusion pops up. Yep.
+[1 hours 25 minutes 45 seconds][Customer] : The only thing I'd like has a lot more power. And like, you know, they're like they're, they're serious like money involved with drag cars. And like, I'm just talking about building cars that were so you don't got to build them through the street legal legality. Like just we can build a car just for track and it makes it less, less constricting on how we build it then you know what I mean? That's that's all we want to do. Yeah.
+[1 hours 26 minutes 4 seconds][Agent] : Yeah, I know. I I know, I understand. So it's just because that one's obviously not on the list because it's only got order cross hill climbs and Connors karting sprints, only valleys drag racing or the liability trials. So I'll put up. Yeah. So, yeah, Yeah, obviously circuits aren't there, so I'll put a no, which is fine. It does exclude you for it. OK, But just for that one thing. So it says no life benefits shall be payable under this policy for any claim arising as a result of practice for or participation in Motorsports. OK. So you'll still be covered for the rest of the policy in your everyday life, just not when you're doing practice or participation for in Motorsports. Does that make sense? Yeah.
+[1 hours 26 minutes 7 seconds][Customer] : But yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah. Because I'm, I'm more or less than you get, I'll put it in black and white because like I'm up around with cars that much and everything like that. There's the other times that I'm driving around and everything like that. Just normally I end up in car accidents and whatever else because I'm around cars. I explain it because I'm around cars all the time, you know what I mean? So like, it's my career, it's my wife's, all that sort of stuff. So it's trying to happen a car accident once in a while, you know what I mean? And if you just start racking them up, it's just a big hang in my ****. Like you could just. Yeah, it's either bad, not the good.
+[1 hours 27 minutes 17 seconds][Agent] : So, so remember, it's not, it's not excluding you for driving your car down the street legally, it's excluding you for racing, right?
+[1 hours 27 minutes 24 seconds][Customer] : Yeah, yeah, yeah. I want to be covered for legally in a car accident, like someone just like wiped me out or something like that.
+[1 hours 27 minutes 26 seconds][Agent] : So like, yeah, that's fine, that's fine, but not on a track.
+[1 hours 27 minutes 31 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[1 hours 27 minutes 34 seconds][Agent] : So.
+[1 hours 27 minutes 35 seconds][Customer] : Understandable. Yeah. But that's right.
+[1 hours 27 minutes 35 seconds][Agent] : So just keep keep in mind, so all it says is no life benefits, you'll be payable under this policy for any claim arising as a result of practice for or participation in Motorsports in general. So if you're just driving your car down the road to go to the shops or something or to work, that's not Motorsports.
+[1 hours 27 minutes 36 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah. Great. That's what we wanted. Yeah. Great.
+[1 hours 27 minutes 53 seconds][Agent] : Yep, Yep, that's all good. So just do you understand and agree to that exclusion? Is that OK?
+[1 hours 27 minutes 59 seconds][Customer] : Yeah. Yep. Beauty.
+[1 hours 28 minutes][Agent] : Yep, all good. The the last one who says any other hazardous to suits or sports to do anything else?
+[1 hours 28 minutes 6 seconds][Customer] : No, nothing else.
+[1 hours 28 minutes 7 seconds][Agent] : OK, all right then, that's all good. So the only change so far was that exclusion for Motorsports mate.
+[1 hours 28 minutes 14 seconds][Customer] : Yep.
+[1 hours 28 minutes 13 seconds][Agent] : Umm everything else was good, but we need to find out about the mental health.
+[1 hours 28 minutes 18 seconds][Customer] : Yeah, I know that. I pick. I pick up my now the Aikenville where we are, our family doctor. I'll give him a call all the way up. Yeah. What do you want to say?
+[1 hours 28 minutes 18 seconds][Agent] : OK, Umm, Yep, yeah, if you can, if you could.
+[1 hours 28 minutes 28 seconds][Customer] : But it it was in the sense that they can't really even find anything on record about it anymore because it was such a yeah, yeah, it was such a long time and such a small issue, but they never even really filed an anything, you know?
+[1 hours 28 minutes 38 seconds][Agent] : So what, what do you want to do?
+[1 hours 28 minutes 40 seconds][Customer] : So what? I Yeah.
+[1 hours 28 minutes 40 seconds][Agent] : You want to write this question, Jay, if you can write this question down for me, ask them the question. It'll be nice and simple.
+[1 hours 28 minutes 47 seconds][Customer] : Yeah. Alright, Cool, cool.
+[1 hours 28 minutes 47 seconds][Agent] : So just ask, ask, ask them this question. So just say, did I have any form of schizophrenia, bipolar or psychotic disorder at any point in my life and see what they say.
+[1 hours 28 minutes 58 seconds][Customer] : OK, yeah.
+[1 hours 28 minutes 59 seconds][Agent] : So do you want me to write? Do you want to write it down? I'll go a bit slower if you like.
+[1 hours 28 minutes 59 seconds][Customer] : Alright then I'll I'll get to that one. Yeah. No, I can, I can. Yeah, I can speak that exactly back to them. Quote UN quote.
+[1 hours 29 minutes 9 seconds][Agent] : Yeah, just say, just say schizophrenia by polo, psychotic disorder.
+[1 hours 29 minutes 14 seconds][Customer] : Yep.
+[1 hours 29 minutes 13 seconds][Agent] : I need to confirm whether or not, umm, you've had any of those conditions at any time in your life.
+[1 hours 29 minutes 19 seconds][Customer] : Yep. No worries. Alright then.
+[1 hours 29 minutes 18 seconds][Agent] : OK, Yep. Cool. And if we just need to know yes or no, and then we can continue on or like, if I have to put a yes, it's going to be a decline we're not going to be able to cover. But, umm, obviously if you, we need to be telling the truth. So just find out again, I don't want to give you the cover if you're not going to be covered. Does that make sense?
+[1 hours 29 minutes 30 seconds][Customer] : Yeah, yeah, yeah.
+[1 hours 29 minutes 38 seconds][Agent] : Yep. OK.
+[1 hours 29 minutes 38 seconds][Customer] : Yeah, Yeah, Right.
+[1 hours 29 minutes 39 seconds][Agent] : I'm I'm happy to. Yeah.
+[1 hours 29 minutes 40 seconds][Customer] : Then I'll and then yeah, get back to you.
+[1 hours 29 minutes 43 seconds][Agent] : Cool. I'll put it. Yeah, mate, it's not directly. Just ask for me. So just 131948.
+[1 hours 29 minutes 42 seconds][Customer] : Do you have a direct number I can call 13 like 1048? Yep.
+[1 hours 29 minutes 54 seconds][Agent] : Just ask the guy. So G for golf, U for uniform, Y for yellow.
+[1 hours 29 minutes 58 seconds][Customer] : Yep. Cool. Alright then.
+[1 hours 29 minutes 59 seconds][Agent] : Yeah, I'm, I'm, I'm here Monday to Fridays, mate, always come here. Uh, you can get me between 9:00 and 5:00. Uh, Thurs, Thursday, I'm working late 12:00 to 8:00. Well, I remember I'm in NSW, so we're an hour ahead of you at the moment.
+[1 hours 30 minutes 6 seconds][Customer] : Yep, Yeah, yeah, I I'm gonna try and call the family doctor, but maybe the one that we've known long enough and then see what he says about on that and then I'll get back to ya.
+[1 hours 30 minutes 20 seconds][Agent] : Well, I'm here for another hour today, mate, so you can get back to me. Give me a call. OK, Well, good.
+[1 hours 30 minutes 20 seconds][Customer] : Alright man, that's got a good plan and thanks for getting me up.
+[1 hours 30 minutes 25 seconds][Agent] : I'll, I'll, that's all right that it's my pleasure to help you mate, but you seem like a nice place mate, so I'm happy to help you. Umm, I'll call you back Wednesday. If I don't hear from you, I'll put you for a call in the middle of the day. Umm, but hopefully you can find out and give me a call and we'll sort you out.
+[1 hours 30 minutes 36 seconds][Customer] : Yep, Yep. Legend. No worries. OK, Thank you. Bye.
+[1 hours 30 minutes 42 seconds][Agent] : Thanks Jay. Hope you have a good day mate. Thank you.

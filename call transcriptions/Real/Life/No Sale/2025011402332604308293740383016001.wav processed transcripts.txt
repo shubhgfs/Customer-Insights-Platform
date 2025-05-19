@@ -1,0 +1,8 @@
+[3 seconds][Agent] : Welcome to V life insurance B to copy line. How can I help you?
+[7 seconds][Customer] : I had a missed call from this number.
+[9 seconds][Agent] : OK, let's just have a quick look here Sir uh, what's your full name and date of birth, please?
+[15 seconds][Customer] : Amy Jewell, 7th of the 2nd 1980.
+[13 seconds][Agent] : When you're ready yes OK, I'll be looking for some insurance online. Let me just double check that, uh, OK, yes. So you spoke to my colleague Adam, uh, and we got some life insurance. OK, Let me just see if he's available. OK, Bear me one SEC.
+[34 seconds][Customer] : Yep.
+[32 seconds][Agent] : So he's, he's been trying to call you see if he's available. Thank you. Thanks for the baby. I've got that. I'm on the line. Thank you.
+[1 minutes 40 seconds][Customer] : OK, thanks.

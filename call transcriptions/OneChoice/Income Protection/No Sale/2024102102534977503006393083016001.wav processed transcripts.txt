@@ -1,0 +1,261 @@
+[3 seconds][Agent] : Hi Gabby, my name is Francis. I'm calling from one choice. How are you today?
+[7 seconds][Customer] : I'm good, thank you.
+[8 seconds][Agent] : That's good to hear. Look Gabby, I'm just calling in regards to an enquiry that was popped into our website for some income protection.
+[15 seconds][Customer] : Yep. Yep.
+[16 seconds][Agent] : Perfect. Well, first of all, thank you so much for putting through that quote request. What I'll do is I'll take some basic information from you, explain the features and benefits of the cover and run through some prices here with you.
+[28 seconds][Customer] : OK, Sweet.
+[29 seconds][Agent] : Perfect. I'll let you know as well that all calls are recorded. Any advice? Our provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances now, just confirm that I'm speaking to Mr. Gabriel Newton.
+[46 seconds][Customer] : Yep, that's correct.
+[48 seconds][Agent] : Thank you. I've got your date of birth. Here is the 13th of November 1998.
+[53 seconds][Customer] : Yep, that's correct.
+[55 seconds][Agent] : Thank you. Can I also confirm that you're on Highland, New Zealand resident and that you are currently residing in New Zealand? Thanks so much for confirming those details there for me, Gabriel, so I can get a better understanding of what sparked your interest. Umm, are you new to income protection or do you have some current case at the moment?
+[1 minutes 1 seconds][Customer] : Yep, I am No, I've, I've never had it.
+[1 minutes 22 seconds][Agent] : Uh huh. Oh, OK.
+[1 minutes 15 seconds][Customer] : So basically the situation is, is that I, I work in Australia offshore on the oil rigs, but if I ever get injured, I'm not sure that Australia has like the same ACC cover as New Zealand.
+[1 minutes 34 seconds][Agent] : No, no. Oh, fair enough. OK, so let's see what we can do for you here. But at the moment you are, you are currently residing in New Zealand, right?
+[1 minutes 43 seconds][Customer] : Yeah, I love the New Zealand.
+[1 minutes 44 seconds][Agent] : And you are OK And you are a New Zealand resident.
+[1 minutes 47 seconds][Customer] : Yep, Yep.
+[1 minutes 48 seconds][Agent] : OK.
+[1 minutes 48 seconds][Customer] : I just work in Australia. I work month on month off out of New Zealand. Yep.
+[1 minutes 51 seconds][Agent] : Oh, OK yeah, OK. Alright, so fair enough. Let's see. I'll explain the way our cover works here for you. Alrighty. So with our UMM. Income Protection is designed to provide a monthly income benefit paid directly to you if you were unable to work due to a disabling sickness or injury and you suffer loss of income. OK, now we offer an income benefit of up to 75% of your monthly pre tax income. Now there are no medicals or blood tests. We don't get you to fill out any forms. It's a very simple process done all over the phone for you. We ask you a series of health and lifestyle questions.
+[2 minutes 32 seconds][Customer] : Yep.
+[2 minutes 33 seconds][Agent] : With those questions, the majority of them are a yes or a no answer. OK, and this will determine the, the pricing and the, and the policy of the term of the PO uh, sorry, the pricing and the term of the policy. Now Gabriel, once in place, umm, it'll cover you until the PO until your policy anniversary from your 65th birthday. Now keep in mind that there are some exclusions that are outlined in the policy. Umm, sorry, exclusions that are outlined in the policy document. Alrighty now, so let's, I'll get a quote in place here for you. Umm, to begin with. Umm, I just need to know, I'm just gonna ask you some questions in regards to your umm, duties at work. Right with yeah. Now before answering this question, sorry, before answering any ques, uh, any of our questions, it is important that you are aware of our duty to answer all our questions accurately and honestly. Failed to do so could impact your current claims time. Alright, now what? I also want you to keep in mind when we're going through the umm, the cover is how much you need us to pay you each month to cover your, uh, bills and living expenses.
+[3 minutes 1 seconds][Customer] : Yep, Yep.
+[3 minutes 44 seconds][Agent] : OK, so first question, do you work fif 15 hours or more per week?
+[3 minutes 51 seconds][Customer] : Yes, Yeah. No.
+[3 minutes 53 seconds][Agent] : Now, is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment OK Now do you, umm, do you perform heavy physical duties, use heavy machinery or drive a vehicle?
+[4 minutes 5 seconds][Customer] : Mainly outdoors, yes.
+[4 minutes 16 seconds][Agent] : OK now are you qualified skilled or semi skilled or hold the required licenses to perform your role? Yep. OK, yeah. Umm, do you work in any of the following fields? Aviation as a pilot or crew? Entertainment or sporting industry? Yeah, sorry. Air Force, Army, armed forces or do you handle explosives?
+[4 minutes 25 seconds][Customer] : I'm qualified commercial helicopter pilots sometimes, but not regularly.
+[4 minutes 52 seconds][Agent] : No. So it's a commercial, so not regu. So hang on a minute. No, it's not your job. So you're not an no, It's OK. So we're saying we're gonna answer no to that whole question. OK alrighty. Now do you regularly work underground or underwater, work at heights above 10 meters, work offshore, carry a firearm or drive long haul?
+[4 minutes 56 seconds][Customer] : But it's not my, it's not my job currently at the moment, yeah, carry.
+[5 minutes 25 seconds][Agent] : OK, So yes for that one.
+[5 minutes 23 seconds][Customer] : I work offshore and I work at heights and I do carry fire.
+[5 minutes 29 seconds][Agent] : OK, so yes to offshore. OK. Oh, OK. So so but your work offshore is your job right? Work offshore, offshore drive long haul you S no, no you said above heights above 2 meters heights HEIDT and carry a firearm. Is that right?
+[5 minutes 32 seconds][Customer] : Not at work, but recreationally, yeah, I work quite yeah for recreation use at home.
+[6 minutes][Agent] : OK, correct. OK, I'm answering yes, that one. Alrighty, so that thanks. Thanks for answering those questions there for me. Now to begin with, it is in regards to your smoking status. Have you had a cigarette in the last 12 months? Yes or no? Okey doke now I need to confirm your employment status. Are you currently employed or self-employed?
+[6 minutes 19 seconds][Customer] : No unemployed.
+[6 minutes 31 seconds][Agent] : Employed. Thank you. I'm just going to reach you at a pre tax income for employed I've got here. Pre tax income is a title annual remuneration paid to you by your employer before tax, including salary and regular commissions or bonuses. However, exclude employer Kiwi saver and and super contributions. All right, so Gabby, what is your annual pre tax income?
+[6 minutes 58 seconds][Customer] : Well, that's super about 197.
+[7 minutes 4 seconds][Agent] : Oh, 90,000. OK, because yeah, this is excluding Kiwi saving super contributions.
+[7 minutes 10 seconds][Customer] : Yep. 190,020.
+[7 minutes 10 seconds][Agent] : So 100 and let's pop that in 190 SE 190,000.
+[7 minutes 17 seconds][Customer] : Yep.
+[7 minutes 18 seconds][Agent] : OK, thank you. Now, based on your duties and income, you can select a monthly benefit amount from $1000 all the way up to $5000. OK.
+[7 minutes 34 seconds][Customer] : Yep. Yep. 12,000.
+[7 minutes 33 seconds][Agent] : What amount would you like me to quote you on the maximum?
+[7 minutes 38 seconds][Customer] : Is it the Fortex? Yep.
+[7 minutes 38 seconds][Agent] : OK, yeah, so this is yes, this is $5000.
+[7 minutes 44 seconds][Customer] : Yep.
+[7 minutes 43 seconds][Agent] : OK, sorry W we we're looking at the monthly benefit amount.
+[7 minutes 49 seconds][Customer] : Yes. Yep.
+[7 minutes 48 seconds][Agent] : OK, OK, so we've got your pre annual annual income before tax of 190,000 and your monthly benefit amount 5000. OK, perfect. Now you also have the option to select different waiting periods, benefit per Sorry, different waiting periods and benefit periods depending on your circumstances.
+[7 minutes 51 seconds][Customer] : Yep, Yep, Yep.
+[8 minutes 10 seconds][Agent] : Now Gabby, the waiting period is a non payment period that you must wait before the income benefit is payable after the insured event. Now you can choose 30 days or 90 days. Which waiting period would you like me to select for you? OK, thank you. Now the benefit. Is the maximum amount of time that we will pay the income benefit for anyone injury or illness. Now you can choose six months, one year, 2 years. Which benefit. Would you like me to select for you?
+[8 minutes 25 seconds][Customer] : 30 days, two years.
+[8 minutes 45 seconds][Agent] : Okey doke. Alright, so yeah, OK, the next step is to take you through the health and lifestyle questions to see if there are any, umm, uh, to see what the outcome is. But at the moment indicatively you are looking at $52.63 per fortnight. Alright, So what?
+[9 minutes 10 seconds][Customer] : Yep, Yep.
+[9 minutes 12 seconds][Agent] : I'm gonna read you out what is called a pre underwriting disclosure statement and then we'll jump straight into those questions for you, OK? It reads here. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services where we share this with your insurer and may share it with other service providers for the purpose of administering your policy handling claims. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into an income protection contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to insure you and on what terms.
+[10 minutes 8 seconds][Customer] : None.
+[10 minutes 3 seconds][Agent] : You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insure. You have this duty until the time we enter into the contract. If you fail to disclose the matter or make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. Do you understand this? Yes or no? Thank you. Yeah. The first question I have for you is, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand? Yes or no?
+[10 minutes 29 seconds][Customer] : Yes, yes. So.
+[10 minutes 45 seconds][Agent] : Thank you. Now the next lot of questions are specifically just require that yes or no answer. So have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Yes or no.
+[11 minutes 7 seconds][Customer] : No, no, no.
+[11 minutes 9 seconds][Agent] : Lung disorder excluding asthma, sleep apnea or pneumonia, Yes or no cancer or leukemia excluding skin cancer, anxiety, depression or stress requiring medical treatment, or any other mental health disorder? Have you been diagnosed with a terminal illness, matter of neuron disease or any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy?
+[11 minutes 28 seconds][Customer] : No, no, I haven't.
+[11 minutes 43 seconds][Agent] : Now? In the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counseling for drug or alcohol consumption? Now, Deborah, the next section is in relation to your height and weight. Please be aware that I'm required to obtain a confident single figure measurements for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. Now the first one with your height, we can take the measurement either in centimeters or feet and inches. So what is your exact height? Thank you. And what about your weight? What is your exact weight?
+[12 minutes 18 seconds][Customer] : My exact height is 172 centimetres, 78 kilos.
+[12 minutes 28 seconds][Agent] : Thank you. 78 KGS. Alright. Now, have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months?
+[12 minutes 37 seconds][Customer] : I was nice.
+[12 minutes 38 seconds][Agent] : Yeah. No, that's what I keep. That's what I say each to. That's what I say each time I read the question out. I wish. So that's the nice of that one. Is that right? OK, lovely. Unfortunately, we don't have an Irish key to to press here.
+[12 minutes 47 seconds][Customer] : Yeah, yeah.
+[12 minutes 52 seconds][Agent] : All right now. Now I'm just letting up the next lot of questions. Bear with me one moment. OK. All right now. OK. I got here. OK, now I've got here. Do you due to your duties carried out for work?
+[13 minutes 38 seconds][Customer] : None.
+[13 minutes 12 seconds][Agent] : I would like to take this opportunity to advise that we will not pay any income benefit if the disability on UMM, which the claim is based is due to any injury which occurred while you were at work in a gainful occupation or while you were traveling from your work to your workplace or while you were traveling from home. Your uh, sorry, traveling from home, your workplace. Do you UN do you understand and agree with these terms and conditions? OK, perfect. Alrighty, all right. Now discontinuing, so just continue with those questions. Are you employed or self-employed?
+[13 minutes 48 seconds][Customer] : Yeah, that's, that's fine, employee.
+[14 minutes 2 seconds][Agent] : OK, Now have you been in your current occupation for at least 12 months now? Do you intend to change your current occupation in the next 12 months? OK. Now do you have a second occupation that generates a taxable income? Have you been declared bankrupt or placed in receivership, in voluntary liquidation or under administration?
+[14 minutes 16 seconds][Customer] : No, no, no.
+[14 minutes 36 seconds][Agent] : Yeah. To the best of your knowledge, are you infected with or are you in a high risk category, category for contracting HIV which causes AIDS? Do you have different plans to travel or reside outside of New Zealand, for example, booked or will be booking travel within the next 12 months? So do you have different plans to travel or reside outside of New Zealand, for example, booked or will be booking travel within the next 12 months? OK.
+[14 minutes 46 seconds][Customer] : No, no, for work, yes, I'll be fine. Just that.
+[15 minutes 11 seconds][Agent] : Oh, no, this is ah, now this is I'm traveling. This is, umm, for work. It's already got your occupation that you work. Yeah, yeah, this is is this is umm the intent to TR like have you booked a holiday? OK, so, umm, all right, this is all about travels. OK, so now for that, the whole question, is that correct? OK, alright. Because we already know that you work offshore, so I've I've captured that already.
+[15 minutes 18 seconds][Customer] : 03/3 Oh no, yeah, no, yeah.
+[15 minutes 38 seconds][Agent] : Umm, alrighty now do you have existing income protection cover?
+[15 minutes 46 seconds][Customer] : No.
+[15 minutes 47 seconds][Agent] : OK, once again the next lot of questions I ask specific we just require that yes or no answer. So have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following diabetes raised blood sugar impaired glucose Sorry, diabetes raised blood sugar impaired glucose tolerance or impaired fasting glucose. Chest pain, high cholesterol or high blood pressure tumour, Molar cysts including skin cancer, sunspots or Melanoma. Have you ever had an abnormal PSA test or an enlarged prostate?
+[16 minutes 17 seconds][Customer] : No, no, no, no.
+[16 minutes 38 seconds][Agent] : Thyroid condition or neurological symptoms such as dizziness or fainting? Disorder of the stomach, bowel, gallbladder, or pancreas. Hepatitis or any disorder of the liver. Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Bladder or urinary tract disorder. Kidney disorder, blood disorder or disease. Sleep apnea or asthma, excluding childhood asthma. Back or neck pain or disorder. Arthritis, Chronic pain, Gout. Repetitive strain in sorry. Repetitive strain injury. Chronic fatigue syndrome or fibromyalgia.
+[16 minutes 43 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no.
+[17 minutes 33 seconds][Agent] : Joint or muscle pain. Ligament Injuries, including replacement or reconstructive surgery. Ligament. Yeah.
+[17 minutes 40 seconds][Customer] : I've had a a meniscus meniscus TL surgery just to get it. Expect to give it when I was 18.
+[17 minutes 54 seconds][Agent] : OK, so I'll answer yes for that one for surgery. OK, so have you ever had any of the following tendonitis, elbow pain, shoulder pain, hip pain, knee pain, replacement or reconstructive surgery?
+[18 minutes 14 seconds][Customer] : No, no.
+[18 minutes 18 seconds][Agent] : Do you have any, sorry, do you have any muscle or any ligament injuries from which from which you have not fully recovered from OK, osteoporosis or osteopenia? OK umm, any defect of hearing or sought other than which is corrected by glasses or contact lenses. OK, can I just pop you on a slight hold? My system, is it just rising a little bit? 1 moment. 1 moment.
+[18 minutes 38 seconds][Customer] : Dot dot no worries.
+[22 minutes 31 seconds][Agent] : Oh, thank you so much for holding and now umm, I just also while I was umm, my computer was on the frozen. I just wanted to ask about the umm, the clarification about the your meniscus right. So I'm aware that the meniscus isn't a part of the knee right.
+[22 minutes 48 seconds][Customer] : Yeah.
+[22 minutes 48 seconds][Agent] : So that was knee pain, right? You've AC you've actually answered no for that one, but we do need to capture it. Yes, for knee pain.
+[22 minutes 56 seconds][Customer] : Oh, OK.
+[22 minutes 55 seconds][Agent] : OK, and I know you fully recovered. I know you recovered, umm, but I will answer yes for the knee pain part of it. Let me just have a look, but he's gonna ask me some questions in regards to your knee pain. OK, now I've got here, please provide details including this, uh, the name of your condition. So it was, you mentioned it was a, a meniscus tear. Is that right in the knee? OK, so meniscus tear. OK, all right in there we've got here. Which joint or body part is it is affected now? It was the knee. What? So was it is it the knee, the right knee or the left knee?
+[23 minutes 17 seconds][Customer] : Yeah, that was the right knee.
+[23 minutes 37 seconds][Agent] : Right knee, RIGHT. OK, Now when did when did the first occur?
+[23 minutes 46 seconds][Customer] : It was when I was 18 and I'm 20, just about 1026.
+[23 minutes 55 seconds][Agent] : Six years ago.
+[23 minutes 53 seconds][Customer] : So 1000 years ago.
+[23 minutes 56 seconds][Agent] : Seven years ago? What year?
+[23 minutes 56 seconds][Customer] : Yeah, yeah, 7, seven years ago.
+[24 minutes][Agent] : OK, what year was that? Sorry. Let me just get that.
+[24 minutes 2 seconds][Customer] : It went in 2023.
+[24 minutes 3 seconds][Agent] : 24 20/3/2023 Oh, oh, I love that.
+[24 minutes 10 seconds][Customer] : That's twe what we're in 24 now and I'm just throwing my fingernails, but I'm hopeless.
+[24 minutes 19 seconds][Agent] : No, no, that's all good.
+[24 minutes 18 seconds][Customer] : That's 20 some 20 S 20. I'm about to turn 26, so no 18 when it happened.
+[24 minutes 24 seconds][Agent] : 26252423222120 eight years ago, right?
+[24 minutes 38 seconds][Customer] : Yep.
+[24 minutes 39 seconds][Agent] : OK, so 8 years from that, I'm just gonna do, I'm gonna do. I'm gonna do 1 bed. I'm gonna calc. I'm gonna get a calculator. It has that.
+[24 minutes 47 seconds][Customer] : Yeah. And it was in the second in in January.
+[24 minutes 51 seconds][Agent] : January Jan OK, so you said, umm, so it's when you're 1818 and so hang on a second. Sure. Uh, so 20 they're in 2024 minus eight years. So 2016, does that sound right? Eight years ago, 2016, So Jan, Jan, January 2016. Yeah.
+[25 minutes 24 seconds][Customer] : Yeah, yeah.
+[25 minutes 30 seconds][Agent] : OK. When were the most recent symptoms?
+[25 minutes 35 seconds][Customer] : I haven't had any more symptoms.
+[25 minutes 37 seconds][Agent] : But the the the recent that was. So it was back in. It was back in Jan 2016.
+[25 minutes 44 seconds][Customer] : Yep, yes. So 2016. By the end of that year, I was fully recovered. Yep.
+[25 minutes 50 seconds][Agent] : For you, because so the so the the last of the symptoms were December 2016 two oh sixteen. OK, December 20th all righty now what what treatment did you receive? So we've got physio medication. You said I think I mean you mentioned you had surgery. Is that right?
+[26 minutes 10 seconds][Customer] : Yeah.
+[26 minutes 11 seconds][Agent] : Surgery. And you had the meniscus repaired, is that right? And that happened in Jan 2016. Alrighty. And did, uh, did you have any time off work? How long did you have off work?
+[26 minutes 45 seconds][Customer] : Yes, I think it was about four months.
+[26 minutes 50 seconds][Agent] : Four months off work for approximately 4 months off work four. And what was the degree of your recovery?
+[26 minutes 54 seconds][Customer] : Yep, Yep.
+[27 minutes 3 seconds][Agent] : Are you fully recovered or, and back to normal work duties? Is that right?
+[27 minutes 6 seconds][Customer] : Full recovery, yes.
+[27 minutes 10 seconds][Agent] : Fully recovered 100%. OK, as long as we've captured that as well, right. So I just needed to capture that. Perfect. Alright, so we'll just continue with the ask questions here.
+[27 minutes 44 seconds][Customer] : It's bad thing.
+[27 minutes 39 seconds][Agent] : And you know, you mentioned you carry a firearm that's umm, just for uh, uh, personal use, right? Hunting. Hunting, Yep.
+[27 minutes 45 seconds][Customer] : Yeah, Yeah.
+[27 minutes 47 seconds][Agent] : OK, OK, hunting. I'll catch that in another section. Alrighty.
+[27 minutes 46 seconds][Customer] : It's not to protect myself overseas or anything. Yeah. Yeah.
+[27 minutes 52 seconds][Agent] : No, no, no, it's all good. It's all good.
+[28 minutes 5 seconds][Customer] : That's it, 6033. Thank you.
+[27 minutes 55 seconds][Agent] : Umm, now just, uh, other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist or Sorry, Oh, sorry.
+[28 minutes 9 seconds][Customer] : Cheers. Bye click 033. I was just grabbing my Uber.
+[28 minutes 16 seconds][Agent] : Oh no, no, that's OK. So can we. It's all good to continue.
+[28 minutes 17 seconds][Customer] : Yep, Yep.
+[28 minutes 20 seconds][Agent] : OK, perfect. Other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you waiting the results of any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests, or biopsy? Thank you. Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[28 minutes 40 seconds][Customer] : No, no.
+[28 minutes 52 seconds][Agent] : Thank you. Other than what you have already told me about, have you ever during your working career required more than two consecutive weeks off work due to illness or injury? OK, this is besides the meniscus, is it?
+[29 minutes 8 seconds][Customer] : And I, I've broke my leg once too.
+[29 minutes 6 seconds][Agent] : Is it something else I broke?
+[29 minutes 14 seconds][Customer] : It was.
+[29 minutes 12 seconds][Agent] : Uh, OK, so yes.
+[29 minutes 15 seconds][Customer] : It was my, my fibula, the smallest small bone in my lower leg.
+[29 minutes 18 seconds][Agent] : OK, let me so broken. You broke broken bones, right?
+[29 minutes 25 seconds][Customer] : Yeah.
+[29 minutes 25 seconds][Agent] : Broken bones.
+[29 minutes 25 seconds][Customer] : Like a bone in my leg.
+[29 minutes 25 seconds][Agent] : I do Yep. Yep. So I do have broken bones due to injury with 100% recovery. Is that, does that apply to you? OK, so we've got that. Alright. So broken bone due to injury, I'm gonna pop that is on our list.
+[29 minutes 34 seconds][Customer] : Yeah, Yeah.
+[29 minutes 41 seconds][Agent] : So I can put that down on the list, yes. OK. Alright. So we'll continue Now the next two questions refer to your immediate family. So this would include your mom, dad, brother or sister. So to the best of your knowledge, have any of your immediate family living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial and Nematus polyposis? Thank you.
+[30 minutes 21 seconds][Customer] : No.
+[30 minutes 23 seconds][Agent] : Other than, uh, sorry to the best of your knowledge of any of your immediate families. Suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60. Thank you. Other than one off events, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AD sailing, scuba diving deeper than 40 meters, cable wreck diving, or any other hazardous activity?
+[31 minutes 4 seconds][Customer] : Motor, motorbike riding and aviation.
+[31 minutes 8 seconds][Agent] : OK, so I'm gonna and we've got the the hunting as well. I'm gonna put that down as well. Alright, so alright, now based on your response, please answer yes or no for each of the following aviation other than as a fair paying passenger or crew for a recognized passenger airline. So you said aviation, is that right? Yes for that one. OK, yes. Alrighty now do your aviation activities involve any of the following Agricultural flying, Aerobatics. Uh, micro light flying, ballooning. Helicopter. Rotary wing, uh, sorry. Helicopter, uh, or Rotary wing?
+[31 minutes 29 seconds][Customer] : Yeah, helicopter.
+[31 minutes 53 seconds][Agent] : Yes. Helicopter, yes. OK, alright, and what about mountaineering? Rock climbing or AB sailing? Long distance sailing? Hang Gliding excluding one time glides? Skydiving or parachuting excluding one time jumps? One time jumps? Scuba diving?
+[32 minutes 1 seconds][Customer] : No, no, no, no, no, no.
+[32 minutes 21 seconds][Agent] : Motorsports excluding sorry Motorsports excluding recreational trial bike riding.
+[32 minutes 29 seconds][Customer] : Just recreational travel lighting.
+[32 minutes 31 seconds][Agent] : So excluding sorry, excluding those I recreate. So it's not it's not motor sport. So it is motor sports, but excludes recreational trial background.
+[32 minutes 39 seconds][Customer] : Yeah, it's yeah. It's not competitive. Not competitive.
+[32 minutes 40 seconds][Agent] : So so no for that not gonna be such OK, That's no for that one. Thank you. And what and other hazardous pursuits or sports will answer yes for that one due to, for the fire, uh, the firearm for hunting now, umm, OK, so you mentioned hunting, right? OK, So what pursuits or sports do you engage? Umm, are you engaged in hunting? OK, I can't write that down.
+[32 minutes 45 seconds][Customer] : Yeah, yeah, yeah. Motorbike riding? Oh, got it.
+[33 minutes 13 seconds][Agent] : OK, so and umm, motorbike riding, So it's captured a motorbike riding and recre there. So it's motorbikes. I've got Motorsports, excluding recreation, recreational trail bike riding, So my I've TRA captured the motorbike. Umm, so is it.
+[33 minutes 29 seconds][Customer] : Yep, Yep, yes, Yep.
+[33 minutes 36 seconds][Agent] : We've got we've got mountain biking, but it's not that it's Motorsports, right, That you're into OK, OK, alrighty. Uh, so I've got hunting.
+[33 minutes 46 seconds][Customer] : Horse riding.
+[33 minutes 44 seconds][Agent] : Any other sports or horse riding. Let me just horse riding, excluding dressage and show jumping. So, so just just horse riding.
+[33 minutes 54 seconds][Customer] : Yep, Yep.
+[33 minutes 57 seconds][Agent] : OK, I've got that on our list. Alrighty. OK, uh, and you said shooting. So I've got here. I know it's hunting, but shooting rifle target. Uh, I've got rifle target and play. Do you do any of that? None of those. It is just hunting.
+[34 minutes 17 seconds][Customer] : Uh, no, yeah.
+[34 minutes 22 seconds][Agent] : OK, alrighty. Let me see if there's anything else, or just bear with me one moment. OK, that's it. All right, so they're all, uh, they're in our list. Hunting and horse riding's on our list and we've captured the, the motor sports, which it's only, it's recreational, right?
+[34 minutes 55 seconds][Customer] : Yes.
+[34 minutes 55 seconds][Agent] : Trial bike riding. OK, on the list. OK, so that's it for the health and lifestyle questions. I'm gonna lock in your application and I'll bring up your the outcome whilst I'm getting that for you with this policy as well. Umm, it includes umm, in it includes a, a rehabilitation benefit, which can assist you to return, umm, return to work. OK, and also with your premiums, your premium is stepped, which means it would generally increase each year as you age. Uh, In addition, this policy has automatic indexation, which means each year your your each year, your sum insured increase by 3% until you reach the maximum benefit of $15,000 per month, which with a so with a sorry associated increases in premium, you can opt out of this indexation each year.
+[36 minutes 1 seconds][Customer] : None.
+[35 minutes 55 seconds][Agent] : OK, so upon renewal, if you decide that you want to opt out of the indexation, you can do so once again down the track. If you decide that you want to opt back in, you can apply it to so as well. Alrighty. So well, congratulations your applica. I'm sorry, First of all, your application needs to be referred to the underwriters. OK, sorry about that. Alright, it needs to be referred to the underwriters now. I'll also read, umm, just let you know about the exclusion there. Alrighty. So it needs to be referred, umm, due to the health and livestock answers. Umm, for assessment. OK, so your application is referred to the underwriters for assessment. I've got an exclusion here. Judy's carried out for work.
+[36 minutes 46 seconds][Customer] : None.
+[36 minutes 38 seconds][Agent] : Will uh, we will not pay any income benefit if the disability of which the claim is based is due. Uh, sorry, uh, disability on which the claim is based is due to an injury which occurred while you were at work in a gainful occupation or while you were traveling from your home to your workplace or while you were traveling home from your workplace aviation.
+[37 minutes 15 seconds][Customer] : None.
+[37 minutes 8 seconds][Agent] : No benefit will be payable under this policy or any claim arising as a result of practice for uh for or participation in a aviation. Accept as a fair paying passenger on a recogni. Sorry, Pennsylvania. Sorry, fair paying passenger on a scheduled airline. Alrighty.
+[37 minutes 44 seconds][Customer] : OK.
+[37 minutes 30 seconds][Agent] : So, uh, with the, with the, uh, benefit amount of $5000 waiting period of 30 days, benefit period of two years, fortnightly premium $52.63 per fortnight. Alrighty now, so I will send this off to the underwriters for assessment now while you're cover. So the Commission of your cover will be the will will be subject to a fine assessment by the insurer if the insurer approves cover without any changes. Are you happy for me to record your acceptance of this policy now? And we will send you all your policy information to your e-mail and postal address.
+[38 minutes 13 seconds][Customer] : Yep, Yep.
+[38 minutes 13 seconds][Agent] : OK, OK, perfect. OK, so let me just I'm going to pop in your details here 1 moment. So I've got your e-mail address gabriel.newton.phl@gmail.com 0273826033 the number I called you on. Is that the best contact number?
+[38 minutes 29 seconds][Customer] : Yep, 0378326033.
+[38 minutes 41 seconds][Agent] : Let me just yeah, 0278326033 and I'll pop in your address so we can send this all to you. If I could have your address starting off with the post code, that'd be great. 7812 and the suburb or the city, Ross and the address.
+[38 minutes 49 seconds][Customer] : Yep, 7812 and Ross 28 Tramway St., Tran Tramway St.
+[39 minutes 10 seconds][Agent] : Sorry, 28 Tramway. There we go. 28 Tramway. TR AM WAY. And is your home address the same as your postal address? OK, I wonder why it's not coming. So it's 28 two at right tramway.
+[39 minutes 22 seconds][Customer] : Yep Yep, 28 Tramway St. Ross.
+[39 minutes 34 seconds][Agent] : Oh, OK, I wonder why 28's not coming up. Let me Yeah, let me just, I'm just going to double check it on another website. One month. 28 tram, Tramway tram.
+[39 minutes 50 seconds][Customer] : Where's Target ticket closest ATM?
+[39 minutes 56 seconds][Agent] : So it's Tramway 28 Tramway St. 480. OK, so is it is it rural? Is it?
+[40 minutes 6 seconds][Customer] : It's a small town.
+[40 minutes 8 seconds][Agent] : That's a small town, probably that's why it's not coming out. There's umm, but I've got other like other numbers coming up, but not that one, but I'm gonna pop it in anyway. So it's 28 tramway TR AM WAY St. and it's Ross.
+[40 minutes 22 seconds][Customer] : Yep.
+[40 minutes 23 seconds][Agent] : OK, alrighty, 78127812 Perfect. And we S and your post goes to that your home address right.
+[40 minutes 32 seconds][Customer] : Yeah.
+[40 minutes 33 seconds][Agent] : OK, so I'll see. I'm gonna put the control. OK perfect. Alrighty, so now what? I'll do. The next step is umm, what happened here? Now we, umm, we put, we umm, capture. We popped down your preferred method of payment and preferred date. Now, uh, we don't require any upfront payments from you. You can choose a date that suits yourself. We can line up with one of your paydays if you wish. As a business though, we generally collect payment within the next 7 days. But when is it most suitable for you for your first payment to start? Fridays, OK and you can either chapter on Friday, so which what this Friday?
+[41 minutes 21 seconds][Customer] : On Fridays, this next Friday, next Friday.
+[41 minutes 29 seconds][Agent] : Next Friday, next Friday, which is the 1st of November. Wow. 1st of November 2024 and it'll come out fortnight before you thereafter on a Friday.
+[41 minutes 47 seconds][Customer] : Speak.
+[41 minutes 46 seconds][Agent] : Alrighty and you can either Choo uh, you can either use a bank account or a debit credit card no fees attached to either one of those.
+[41 minutes 47 seconds][Customer] : Ah, thank you, Kent.
+[41 minutes 57 seconds][Agent] : How did you want to set this one up today Bank account. Alright, let me Ju, I'm just gonna sorry. Just let me pop you on a quick hold for one second there 1 moment. Oh, thank you so much for holding there, Gabriel. Now I'm just going to bring up the account page, OK? So whenever you're ready, you can read out your account number, OK?
+[43 minutes 44 seconds][Customer] : Alrighty, is it alright?
+[44 minutes 2 seconds][Agent] : Yep, Yep, Yep, Yep.
+[43 minutes 58 seconds][Customer] : It is 1/5 3943 000 1969 3/6.
+[44 minutes 17 seconds][Agent] : I'll repeat that to you. I ha.
+[44 minutes 26 seconds][Customer] : Yep, that's correct.
+[44 minutes 19 seconds][Agent] : It's 153943000196926 and the name on the account, is it in your name?
+[44 minutes 32 seconds][Customer] : Yes.
+[44 minutes 33 seconds][Agent] : OK, now in regards to those banking details you just provided me, the Gabriel, do you have authority to operate this bank account alone and do not need to join the authorised debit? Is that correct?
+[44 minutes 46 seconds][Customer] : No.
+[44 minutes 48 seconds][Agent] : Have you canceled a direct debit or sorry for umm, one choice with PIN? Sorry. Have you canceled a Direct Debit Authority for one choice with Pinnacle Life as initiated in the last nine months on the account you are providing? Thank you. And of course the last one Gabby, making this all nice and simple for you. Are you happy to set up a Direct Debit Authority without signing a form?
+[45 minutes 1 seconds][Customer] : No, yes.
+[45 minutes 10 seconds][Agent] : Thank you. You agreed this Authority Subject to the terms and conditions relating to the bank account provided and the specific Direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle off with initiated for one choice to direct debit this account in accordance with these terms and conditions. Yes or no? Thank you. All that's left to do is to reach you at our final declaration and then we're done. Sorry with your e-mail.
+[45 minutes 30 seconds][Customer] : It's Yep, PHL.
+[45 minutes 36 seconds][Agent] : ummtheitsgabesoitsyourfirstnamesurname.phlisthatloraniphlphl@gmail.com. Oh, perfect.
+[45 minutes 49 seconds][Customer] : Yep. That's it.
+[45 minutes 49 seconds][Agent] : Alright, just had to double check that sometimes that you know, it could be a capital I or just had to double check that one, but it's PHL.
+[45 minutes 55 seconds][Customer] : Yep.
+[45 minutes 56 seconds][Agent] : Perfect. Alright, I'm gonna read that declaration. It reads with the declaration. There are some two questions at the end, two in the middle. If I can get a clear yes or no response for those questions, that would be great.
+[46 minutes 6 seconds][Customer] : Yep.
+[46 minutes 6 seconds][Agent] : Alright, it reads here. Thank you. Gabriel Newton, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be forced unless you agree to these terms in full. One Choice Income Protection Insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services NZ Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice there provided to you is limited to assisting you to make a decision about whether One Choice Income Protection Insurance is suitable for your needs on the basis of the information you have provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurer's products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this Yes or no?
+[47 minutes 19 seconds][Customer] : Yes.
+[47 minutes 19 seconds][Agent] : Thank you. Lovely. Your answer to sorry, your answer to the application questions in any related documents from the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assisting application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you've answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[47 minutes 43 seconds][Customer] : Yes.
+[47 minutes 44 seconds][Agent] : Thank you. By agreeing to this declaration, you consent to be contacted by us in relation to other products and services. You can opt out of this at any time. By contacting us, you have agreed to take out a single one choice income protection insurance policy with the following cover for Gabriel Newton, a monthly insured amount of $5000 with a waiting period of 30 days and a benefit period of 24 months.
+[48 minutes 16 seconds][Customer] : None.
+[48 minutes 9 seconds][Agent] : The monthly sorry the monthly income benefit payable in the event of a claim may be less than the monthly insured month sorry monthly insured amount amount as your E as your income benefit is limited to 75% of your average monthly income over any 12 consecutive months during the two years before you suffer the sorry suffer your disabling sickness or injury.
+[48 minutes 46 seconds][Customer] : None.
+[48 minutes 39 seconds][Agent] : Your income benefit can also be reduced if you receive other Dis umm, disability payments or, or offsets from other sources. Yeah, in addition to the standard exclusions contained. Sorry. In addition, uh, my system is playing up on me. I'm so sorry. One moment. Sorry. Uh, one moment. OK, In addition, the umm, standard exclusions contained in the policy document, the following exclusions apply for Gabriel and Newton income then, uh, income benefit. Sorry, Income Protection.
+[49 minutes 27 seconds][Customer] : None.
+[49 minutes 26 seconds][Agent] : We will not pay the income benefit if the disability on which the claim is based is due to an injury which occurred while you were at work in a gainful occupation or while you were travelling from your home to your workplace or while you were travelling home from your work. Uh, sorry, traveling home from your workplace for Gabriel Newton Income Protection Benefit.
+[49 minutes 55 seconds][Customer] : None.
+[49 minutes 53 seconds][Agent] : No benefit will be payable under this policy for any claim arising as a result of practice or oh practice for or participation in aviation, except as a fair paying passenger on a scheduled airline. You'll cover your cover expires on November 1, 2064, 12:00 AM. Your premium for the first year of cover is $52.63 fifty $2.63 per fortnight.
+[50 minutes 24 seconds][Customer] : None.
+[50 minutes 23 seconds][Agent] : Your premium is stepped, which means will be calculated of each policy anniversary and would generally increase as you age. Your monthly benefit amount will also incr increase automatically by 3% each year and you can you can opt out of this and you can opt out of this included in your premiums amount payable to Tuesday's between 26% and 56% of each premium. Your premium will be deducted in accordance with the authority are provided to us.
+[50 minutes 54 seconds][Customer] : None.
+[50 minutes 49 seconds][Agent] : AM best is rated Pinnacle with AB Sorry AM best is rated Pinnacle with AB plus financial strength good and a triple B minus is your credit rating with an outlook is stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via sorry PO. The policy documentation will be sent to you via mail and if you have provide us with an e-mail address will also be emailed to you today. You should California uh carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. You're means you're making it to your policy and any premium you may have paid will be refunded in full. Unless you've lodged a claim. There is no refund of umm, premiums after the cooling off period. Now I've got two final questions.
+[51 minutes 30 seconds][Customer] : None.
+[51 minutes 29 seconds][Agent] : First one, do you understand and agree with the declaration I've just read you? Yes or no? And besides sending out those, sending out those documents to you via e-mail and post, would you like any other information now or would you like me to read any? Sorry, would you like any other information or would you like me to read any part of the policy document to you?
+[51 minutes 34 seconds][Customer] : Yes, no, that's all pretty clear.
+[51 minutes 53 seconds][Agent] : OK, OK, so I'll accept this one for you. Now, if the underwriters come back with like more information or any changes, I will be in touch. Otherwise, I'll accept this one on your behalf. Alrighty.
+[52 minutes 9 seconds][Customer] : OK. How long will that normally take to hear that?
+[52 minutes 12 seconds][Agent] : I will. Oh, they used to come. Yeah, they usually come back within a day or a day or two.
+[52 minutes 17 seconds][Customer] : Yep.
+[52 minutes 16 seconds][Agent] : But I will let you know if there's there are any changes. Alrighty.
+[52 minutes 20 seconds][Customer] : OK, cool. Thank you.
+[52 minutes 21 seconds][Agent] : OK, well, thank you so much for your time and you enjoy the rest of your day.
+[52 minutes 24 seconds][Customer] : No worries. Thank you.
+[52 minutes 25 seconds][Agent] : Thank you, Thank you.
+[52 minutes 26 seconds][Customer] : Bye.
+[52 minutes 27 seconds][Agent] : Bye, bye. Bye bye.

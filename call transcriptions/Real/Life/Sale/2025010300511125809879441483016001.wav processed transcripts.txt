@@ -1,0 +1,199 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Good morning. My name's Emily. I'm calling from Real Insurance, but I can give you a call to follow up on the online enquiry for the life insurance just before we continue. I need to. Sorry.
+[13 seconds][Customer] : Sorry, Emily, like I did thinking about the Adelaide 3:00 time, is it your you got 3:00?
+[21 seconds][Agent] : Oh, I do apologise about that. I'm not sure why it's come back to you already. I've booked that one in for you now.
+[26 seconds][Customer] : But anyway, like in a year we can speak how long it will take.
+[31 seconds][Agent] : It depends on like obviously how you answer our questions and things like that.
+[34 seconds][Customer] : That's OK. You, you, you go ahead. Yeah.
+[34 seconds][Agent] : To take you through a quote, it's OK. Well, so that I can take you through it, I need to let you know calls are recorded. Any advice to providers generally make sure they're not be suitable to your situation. And I'll get you to reconfirm your name and date of birth for me.
+[50 seconds][Customer] : Yeah. Vivek Vishnu, Date of birth, 23rd of March 1980.
+[56 seconds][Agent] : Beautiful.
+[58 seconds][Customer] : Yeah.
+[56 seconds][Agent] : And you are of course a male Australian resident, is that right?
+[1 minutes 1 seconds][Customer] : Yeah.
+[1 minutes 1 seconds][Agent] : OK, perfect. Thank you. Now I did want to ask what's actually made you interested in getting life insurance for yourself?
+[1 minutes 9 seconds][Customer] : It's just, you know, Yeah. I was just getting it through my own on the superannuation. Uh, but then I thought I should, uh, compare that, you know, and uh, what made me is, uh, you know, uh, the property por portfolio, you, you have the mortgage on different properties.
+[1 minutes 28 seconds][Agent] : Sure.
+[1 minutes 28 seconds][Customer] : You feel like, OK, at least, you know, you should have a backup. That's it.
+[1 minutes 32 seconds][Agent] : Yeah, absolutely. Have that Peace of Mind that you've still got that, you know, financial security that'll help your family with things like the mortgage if something were to happen.
+[1 minutes 40 seconds][Customer] : That's correct.
+[1 minutes 42 seconds][Agent] : Yeah, perfect. Now you mentioned you were looking at your super, so were you wanting to pay it through your super? Is that what you were saying through or you're wanting to compare outside of super?
+[1 minutes 53 seconds][Customer] : Uh, actually, uh, I'm not sure like, you know, Ministry of Insurance does that, you know, paying to the Super.
+[2 minutes][Agent] : Yes, yes. So that's why I wanted to ask because with our cover it's not something that you can't pay through like a a Superfund unless have you got a self managed Superfund or just a normal super OK.
+[2 minutes][Customer] : But yeah, yeah, at the moment like I do have the my employer super, but like you know, I, I'm in the process of like, you know, arranging my estimates for in next three to six months.
+[2 minutes 25 seconds][Agent] : OK, no problem at all. So it's up to you to obviously decide what you want to have a look at because we do have a life insurance for a self managed Superfund or we have one that's done outside of a Superfund. So but it's specifically for self managed. So did you want to look at that cover or just a normal life insurance for now?
+[2 minutes 46 seconds][Customer] : Yeah. So just I want to ask like you know or is that going to be a difference in the premium for different ones?
+[2 minutes 54 seconds][Agent] : So potentially there could be a difference in the premium and there could be a difference in what's actually covered under the policy as well.
+[3 minutes 1 seconds][Customer] : OK. So which one is gets more affordable and do you know having?
+[3 minutes 10 seconds][Agent] : Well, I mean keep them. So I mean it, it does depend because I, I can take you through quotes for both.
+[3 minutes 18 seconds][Customer] : Sure, sure. We can do both, yeah.
+[3 minutes 15 seconds][Agent] : Obviously keep in mind though, it's up to you to decide obviously what's more financially beneficial for you because yeah, so because obviously keep in mind one, you're paying through a self managed super fund, one you're paying out of your personal bank account. So it's obviously up to you to decide what is financially suitable for you.
+[3 minutes 33 seconds][Customer] : That's right.
+[3 minutes 33 seconds][Agent] : Now, what we can do because you obviously don't have a self managed super fund at the moment. I'll take you through our life cover and explain a bit how that one works 1st and we can have a look at a quote.
+[3 minutes 44 seconds][Customer] : Yeah, that's right.
+[3 minutes 44 seconds][Agent] : If you've got any questions as we're going through it, jump in, let me know. I'll be happy to help you out.
+[3 minutes 48 seconds][Customer] : Sure.
+[3 minutes 49 seconds][Agent] : So with the life insurance, it is obviously designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away. So that benefit can be used to help maintain their lifestyle, whether that is helping them pay off a mortgage or any loans or any other costs involved in raising a family. Now it's with this policy, there is an advance payment of 20% of the benefit amount that's paid to assist, oh sorry, up to a maximum of $20,000 to help with funeral costs or any other final expenses at the time. This cover also has a terminally ill advanced payer included, and you can nominate up to five beneficiaries to actually receive the benefit amount. Now, Vivek, it is nice and simple. We just ask you some help with lifestyle questions over the phone. So there's no forms to fill in medical checks or blood tests to complete. This will determine when we take you through those questions. It's gonna determine the pricing as well as the terms of the policy. But we'll start going through a bit of an indicative quote together. Have you had a cigarette in the last 12 months? Beautiful, that's really good to hear. It's definitely healthier for you and it generally works out cheaper on the insurance as well, which is always a plus. Now you can, sorry. I also need to confirm, is your current annual income $50,000 or more? No worries. And based on that you can choose an amount benefit about ranging from $100,000 up to a maximum of $2,000,000. What amount would you like me to quote you on to start with? 2 million. Beautiful. Either way, I'm happy to go through as many quotes as you need, so let me know how that maximum amount sounds. We can work our way down from there.
+[4 minutes 57 seconds][Customer] : No, yeah, 22 million, Yeah, yeah.
+[5 minutes 44 seconds][Agent] : But for $2,000,000 of the life cover, including that terminally or benefit and the funeral advance payment, you'd be looking at a fortnightly premium of $174.91. Now, does that sound like something that would be affordable or did you want to have a look at some other amounts?
+[6 minutes 7 seconds][Customer] : OK, so, umm, what, uh, what about like, yeah, 1,000,000?
+[6 minutes 15 seconds][Agent] : So if we looked at the 1,000,000, that's going to reduce that premium down to $87.45 a fortnight. Does that one sound maybe a little bit more suitable or did you want to look at a third option?
+[6 minutes 29 seconds][Customer] : No, no, that's umm, that's all right. So, so umm, with the 1,000,000, if you can please, umm, advise me, uh, how, Yeah. What are the next things, you know, I need to consider? Yeah.
+[6 minutes 44 seconds][Agent] : The next steps, yeah, yeah, sure, of course. So the next step from here needs to actually take you to the health and lifestyle questions because the final price is actually determined on the outcome of this question. So we can go through those for you now. If you're approved, then we can discuss your options, where to go from there. Wha. There's a couple of things I just wanted to also let you know. So with this policy, Vivek, you do actually have a reward. So following your first policy anniversary date, we'll refund you 10% of the premiums you've paid in that time. So on this policy here, you've been looking at getting $227.38 back from us after the first year. I also wanted to ask, have you got an up to date will in place for yourself at the moment?
+[7 minutes][Customer] : Yeah, yeah, I know. I think I, yeah, I do need to make one. Yeah.
+[7 minutes 35 seconds][Agent] : Great, Yeah, no worries. The reason I ask is because we'll actually provide you with a free online legal will valued at $160.00 with the policy. So if you want to use that to organise a will for yourself, you definitely can.
+[7 minutes 48 seconds][Customer] : So you're saying a free online bill?
+[7 minutes 51 seconds][Agent] : Yeah, it's a free online legal will valued at $160.00, but that'll be sent through to your e-mail address. It'll come from a company called Safe Will. Now just before we go through the questions, I do need to grab your address. What's your post code? What was that?
+[8 minutes 8 seconds][Customer] : 5085 50855085 Enfield Enfield.
+[8 minutes 11 seconds][Agent] : Sorry 5485 05 ye beautiful and the town or suburb you live in Perfect and your address. Mm hmm.
+[8 minutes 28 seconds][Customer] : Interest is Unit 9 of 17 to 21 Markham Avenue, MARKH AM Ave.
+[8 minutes 43 seconds][Agent] : Perfect. So units 9/17 to 21 Markham Ave. in Enfield. Is your postal address that same address? Perfect. Now I need to reach you through something called a pretty underwriting disclosure and then we'll pull those questions up for you.
+[8 minutes 51 seconds][Customer] : Yes, Yes.
+[9 minutes 4 seconds][Agent] : So please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. So do you understand and agree to your duty?
+[10 minutes 9 seconds][Customer] : Yes.
+[10 minutes 11 seconds][Agent] : Perfect. So with these questions, they're pretty straightforward. I can only accept a definite yes or no answer for most of them. And there's also a height and weight question in there for you as well. But they do start off nice and easy. The first questions in relation to COVID. So have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[10 minutes 36 seconds][Customer] : No.
+[10 minutes 38 seconds][Agent] : Are you a citizen or permanent resident of Australia or New Zealand?
+[10 minutes 44 seconds][Customer] : Yes.
+[10 minutes 42 seconds][Agent] : Currently residing in Australia, so I'll just repeat that one again just to make sure I read it correctly. Are you a citizen or permanent resident of Australia or a citizen of New Zealand? Currently residing in Australia. Great. So we'll put down a yes for that question again. Is that correct?
+[10 minutes 54 seconds][Customer] : Australian resident Yes.
+[11 minutes 2 seconds][Agent] : Beautiful. Have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Lung disorder excluding asthma, sleep apnea or pneumonia. Cancer, leukemia or Melanoma excluding other skin cancers, hepatitis or any disorder of the liver. Anxiety, depression or stress, required medical treatment or any other mental health disorder? Have you been diagnosed with a terminal illness, motor neuron disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy? In the last 10 years, have you used illegal drugs, abused prescription medication, or received medical advice, sorry or received treatment or counseling for drug or alcohol consumption?
+[11 minutes 18 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[12 minutes 20 seconds][Agent] : The next section is in relation to your height and weight. Please be aware that I'm required to obtain a confidence single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height either in centimeters or Fitnesshs 170 centimeters?
+[12 minutes 40 seconds][Customer] : 176 yes.
+[12 minutes 48 seconds][Agent] : Oh, 176 centimetres?
+[12 minutes 46 seconds][Customer] : 176 centimeters yes.
+[12 minutes 52 seconds][Agent] : And what is your exact weight? 74 kilograms. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[12 minutes 54 seconds][Customer] : 74 Yes No.
+[13 minutes 9 seconds][Agent] : To the best of your sorry, I'm just loading up the next page, bear with me. Does your work require you to go underground, Work at heights above 20 meters, dive to death below 40 meters, use explosives, will travel to areas experiencing war or civil unrest, or work offshore.
+[13 minutes 31 seconds][Customer] : No, I work office, work on computer.
+[13 minutes 36 seconds][Agent] : Beautiful. So just confirming. Sorry that was a no for the whole question, is that correct?
+[13 minutes 40 seconds][Customer] : Yeah.
+[13 minutes 42 seconds][Agent] : Perfect to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? Do you have existing life insurance policies with other life insurance companies? With a combined total sum a short of more than $5 million.
+[13 minutes 55 seconds][Customer] : No, no, no.
+[14 minutes 22 seconds][Agent] : Have you have you ever had symptoms of, been diagnosed with or treated for, or intend to seek medical advice for any of the following diabetes raised blood sugar, impaired glucose tolerance or impaired fasting glucose?
+[14 minutes 37 seconds][Customer] : What was the last you mentioned?
+[14 minutes 40 seconds][Agent] : Sorry, diabetes raised blood sugar, impaired glucose tolerance or impaired fasting glucose.
+[14 minutes 47 seconds][Customer] : No.
+[14 minutes 49 seconds][Agent] : Perfect chest pain, high cholesterol or high blood pressure. It's Have you ever had symptoms of, been diagnosed with or treated for, or intend to seek medical advice for any of the following?
+[14 minutes 56 seconds][Customer] : So exactly you're saying treated just the imbalance, the cholesterol?
+[15 minutes 12 seconds][Agent] : OK, Yep. So you've had like a raised reading or something in the past?
+[15 minutes 17 seconds][Customer] : Yeah. So raised rating. Yes, I had.
+[15 minutes 20 seconds][Agent] : Yep, sure. So we'll put down a yes for that question and it says based on your response, please answer yes or no for each of the following Chest pain, yes or no, high cholesterol?
+[15 minutes 30 seconds][Customer] : No, Yes.
+[15 minutes 36 seconds][Agent] : And have you ever had a cholesterol blood test with the result greater than or equal to 7.0 millimols per litre? The next question is high blood pressure, yes or no tumor, Molar cysts including skin cancer or sunspots? Have you ever had an abnormal PSA test or an enlarged prostate? Thyroid Conditional neurological symptoms such as dizziness or fainting. Disorder of the stomach, bowel, gallbladder or pancreas.
+[15 minutes 44 seconds][Customer] : No, no, no, no, no, no, no.
+[16 minutes 30 seconds][Agent] : Epilepsy, Multiple sclerosis, Muscular dystrophy, Parkinson's disease or paralysis. Bladder or unir sorry bladder or urinary tract disorder. Kidney disorder, blood disorder or disease? Blood disorder or disease?
+[16 minutes 37 seconds][Customer] : No, no, no, sorry, no, no.
+[17 minutes 2 seconds][Agent] : Sleep apnea or asthma, excluding childhood asthma other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as they're not limited to any surgeries, X-rays, scans, blood tests or biopsy.
+[17 minutes 32 seconds][Customer] : No, I, I've just, you mentioned about the anxiety question. Can we go back to that question?
+[17 minutes 38 seconds][Agent] : Yep, of course. So I'll just repeat the question for you. Bear with me. So it won't be long. So it was on the first page. So it said anxiety, depression or stress requiring medical treatment or any other mental health disorder. So is that a yes for that one? Is that what you're saying? It's have you ever had?
+[18 minutes 9 seconds][Customer] : Is that a 12 months you mentioned overhead? Yeah, yes.
+[18 minutes 16 seconds][Agent] : Yeah, no worries. There is dropped out. Questions for you, though. In the last 10 years, have you attempted suicide or been hospitalized for a mental health condition? Perfect. Is your condition a form of schizophrenia, bipolar or psychotic disorder?
+[18 minutes 25 seconds][Customer] : No, no.
+[18 minutes 38 seconds][Agent] : And there's a list here that I'll read outlet me know if it goes under ABC or D. So is your condition a depression, anxiety, post Natal depression or stress including post traumatic stress disorder? B Anorexia, universal or bulimia, CADHD or ADD or D Are the mental illness not listed here, depression, anxiety, post Natal depression or stress including post traumatic stress disorder.
+[19 minutes][Customer] : Sorry, what was the A and you mentioned anxiety and depression.
+[19 minutes 15 seconds][Agent] : Yep, Yep. So is it a for yourself or is it one of the others? Did you want me to? Sorry.
+[19 minutes 16 seconds][Customer] : So the last in in the, in the in the a, a portion and the last like you mentioned other. Can you read that again?
+[19 minutes 35 seconds][Agent] : So I'll just read the Li. I'll just read the list out again for you.
+[19 minutes 39 seconds][Customer] : Yeah.
+[19 minutes 39 seconds][Agent] : So it says A depression, anxiety, post Natal depression or stress including post traumatic stress disorder, B anorexia universal or bulimia, C ADHD or ADD or D other mental illness not listed here.
+[20 minutes][Customer] : It's not like, you know, illness or anything. It was like just a walk once off, like, you know, I mean, little depression and then there was some anxiety. Yeah.
+[20 minutes 12 seconds][Agent] : OK, so it's a is that right?
+[20 minutes 13 seconds][Customer] : No medic, no medication. Yeah.
+[20 minutes 16 seconds][Agent] : Yeah, no worries. So it's it's a, is that correct? No problem. And how many episodes have you had which required treatment?
+[20 minutes 19 seconds][Customer] : Yeah, 11112.
+[20 minutes 26 seconds][Agent] : One to 2/3 to 4/5 to six or seven plus perfect. And was it more than one episode? So was it more than one episode? Yes or no? Perfect. And have you had symptoms or treatments for this condition within the last six months? Perfect. Have you ever seriously contemplated or attempted suicide? Beautiful. So that's not gonna change anything for you, but at least we've put it in there for you, Vivek.
+[20 minutes 37 seconds][Customer] : 1 No, no, no, yeah.
+[21 minutes 7 seconds][Agent] : And I'll just go back to the question we were up to now. So it's other than what you have already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you avoiding results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy?
+[21 minutes 30 seconds][Customer] : When you say consulted about what, what sort of thing?
+[21 minutes 34 seconds][Agent] : So it's other than what you have already told me about in the past three years.
+[21 minutes 37 seconds][Customer] : No, no, no, no.
+[21 minutes 40 seconds][Agent] : OK, great. So you're happy for me to put a note for the full question, is that correct?
+[21 minutes 44 seconds][Customer] : Yeah.
+[21 minutes 47 seconds][Agent] : Exactly right. Yep. So just confirming for the recording, that's a no for the question, is that right?
+[21 minutes 45 seconds][Customer] : Like, other than like what we have discussed, yeah.
+[21 minutes 55 seconds][Agent] : Beautiful, Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? To the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or Familial adenomatous polyposis? To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[22 minutes 7 seconds][Customer] : No, no, no.
+[22 minutes 39 seconds][Agent] : And there's one last question for you. It's a nice easy one, Vivek. So other than one off events, gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, Motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity?
+[23 minutes 4 seconds][Customer] : No.
+[23 minutes 6 seconds][Agent] : Fantastic. So I'm just letting this one up for you now. So WH whilst it's loading, I'm just going to let you know as well. So this policy will cover you for death due to any cause except suicide in the 1st 13 months. Also with this cover Vivek, there is that terminally ill advanced payment included.
+[23 minutes 38 seconds][Customer] : Yeah.
+[23 minutes 25 seconds][Agent] : So if you were diagnosed with 24 months or less to live by a medical practitioner, then we actually pay your benefit amount in full and that money can be used for your medical costs now based. So with this policy, your premium is stepped, which means it would generally increase each year. In addition, the policy has automatic indexation though, which means each year your sum insured will increase by 5% with associated increases in premium until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday. You can opt out of this automatic indexation each year though. Now, congratulations. In fact, you were fully approved for the cover, which is fantastic. So you're definitely very healthy. Now that you have been fully approved for the cover, just to confirm, it is still $87.45 per fortnight for the 1,000,000. What I want to do for you is also give you an idea of a premium projection, So what next year will actually look like for yourself, as in that's right.
+[24 minutes 6 seconds][Customer] : So, yeah, actually, yeah, I just got a question around you said like you know, I mean every year the premium will increase and also every year the sum insured will increase by 5% until 75th birthday. What is the maximum benefit amount?
+[24 minutes 42 seconds][Agent] : Or until you reach the maximum benefit amount, 2 million.
+[24 minutes 49 seconds][Customer] : OK, right.
+[24 minutes 50 seconds][Agent] : Yeah, but I'll give you an idea of what that's going to look like now. So as an indication, if you make no changes to the policy, your premium next year will be $99 per fortnight, but that's if you do not decline the indexation, then your level of cover will be $1,050,000.
+[25 minutes 8 seconds][Customer] : That's for the next year.
+[25 minutes 9 seconds][Agent] : And yeah, that's right. You can also find information about our premium structure on our website. But the great news is, is that now that you have been fully approved for the cover, this actually allows us to get you covered over the phone today. What that would actually mean for you is that we'd get the proper policy documentation sent out. That way you can sit down, have a good read through to make sure obviously happy with everything to do with the cover, but you don't have to pay anything until the day you choose. If you end up looking through it and you change your mind for any reason, that's perfectly fine. There's no cancellation fees. You're not locked into this. I mean you actually have a 30 day cooling off. So if you cancelled within that 30 days, you get a full refund of any premiums you may have paid. Unless of course a claim has been made, but obviously touched with that's not going to be the case for a very, very long time.
+[25 minutes 15 seconds][Customer] : Yeah, Yeah.
+[26 minutes 3 seconds][Agent] : Now. I'm just going to confirm a couple more of your details. So I've got your e-mail address asthevecsimi@gmail.com, is that correct?
+[26 minutes 15 seconds][Customer] : Yes.
+[26 minutes 16 seconds][Agent] : Beautiful. Now one thing I also want to double check, we have got a, we've got two contact numbers here, so I've got this one. I've called 0433847430. Is that correct?
+[26 minutes 29 seconds][Customer] : Yeah.
+[26 minutes 31 seconds][Agent] : We also seem to have a landline. It might have been from a previous conversation, but we've got 0872256444. Is that an old one? Will we get rid of it? Yeah, no worries. We'll just leave the mobile number. Is that right?
+[26 minutes 38 seconds][Customer] : No, Yeah, yeah.
+[26 minutes 48 seconds][Agent] : Yeah. Perfect. Now, as I mentioned, even though you are covered with us from today, Vivek, you still aren't required to pay anything until the day you choose. What day would you like me to note down for the first payment day?
+[27 minutes 2 seconds][Customer] : Umm, as you mentioned, like I got 30 days to decide.
+[27 minutes 11 seconds][Agent] : So just to let you know, just to clarify there, Vivek, that 30 days you're referring to, that's the 30 day cooling off. Is that what you mean?
+[27 minutes 6 seconds][Customer] : So like you know, I mean we can do it from 29th day from today, yes.
+[27 minutes 22 seconds][Agent] : Yes, Sir. Just to let you know, that actually starts from your first payment day. So I can still have your first payment day 29 days from today, obviously just depended on the calendar, but I can still have it that pushed out that far for you if you'd prefer. But the 30 day cooling off. Doesn't actually start till the first payment day. Sure.
+[27 minutes 41 seconds][Customer] : Yeah, yeah, no, I understand. So they actually umm, I just want to ask like you know, umm, if with the real insurance and does real insurance, does any other insurances? I have umm been like the pet insurance. I've seen other either. Is it property insurance? You do.
+[27 minutes 57 seconds][Agent] : Yep, absolutely. Yeah, we do offer all of that. It's not something I can offer because I do life insurance. So I deal in like the personal insurances, but I can absolutely put you through to our general insurance. They can help you with things like home and contents, pet insurance, car, etcetera.
+[28 minutes 16 seconds][Customer] : And, uh, is there like any, uh, discount off on the multiple policies?
+[28 minutes 23 seconds][Agent] : So not from like if you do like an income. Oh, sorry. If you do like the life insurance and the umm, like car insurance and things like that because they work completely separate to us being general insurance is a completely different like type of insurance. Umm, but I can't confirm.
+[28 minutes 43 seconds][Customer] : That's OK.
+[28 minutes 39 seconds][Agent] : I don't know whether it's something that they offer over at general insurance if you have, if you have multiple like general policies, but it's not something that we offer with life insurance in my home, for example.
+[28 minutes 50 seconds][Customer] : No, that's OK.
+[29 minutes][Agent] : Mm Hmm.
+[28 minutes 51 seconds][Customer] : So can you like, umm, send me, you know, the policy in itself that, you know, umm, as the, as the code, so that, you know, I mean, I can look into that in more detail.
+[29 minutes 15 seconds][Agent] : Yep. Yep. Yep, Yep, Yep.
+[29 minutes 3 seconds][Customer] : Uh, and uh, once like I do, umm, you may go through that, then I can confirm it, you know, over the phone or you can reschedule that, you know, or the, OR say next, next Friday, same time.
+[29 minutes 19 seconds][Agent] : Yeah, that's fine. Look, I'm more than happy to give you some time to have a look at some information and the quote and we can give you a call back. Alternatively, by us still getting you covered from today's back, it means that we can actually send out your personalized policy documents for you to have a look through. Make sure you're happy with everything to do with your policy specifically. Like I mentioned, even though you're covered from today, you wouldn't have to pay anything until the day you choose. And if you end up looking through it all and you change your mind, there's no cancellation fees. You're not logged into this, so you're happy to be covered while you review the documents.
+[29 minutes 53 seconds][Customer] : So what exactly I need to do in that case?
+[29 minutes 57 seconds][Agent] : So if we're covering you from today, what that basically means is that we'd note down like a preferred payment date in the future and payment method. So we'd organise that direct debit, but nothing would actually come out until the day you've selected.
+[30 minutes 11 seconds][Customer] : OK, yeah. And if there's a change of mind, I can ring back and confirm that. Is that right?
+[30 minutes 18 seconds][Agent] : Yeah, there's no cancellation fees. You're not logged into this.
+[30 minutes 22 seconds][Customer] : OK, yeah. And yeah, if I do cancel that for the 2 million, then, you know, we can change that if that's right.
+[30 minutes 32 seconds][Agent] : So subject to eligibility, you can apply to change the benefit amount down the track.
+[30 minutes 38 seconds][Customer] : Yeah, that's fine. So, uh, what do I need to do? I need to give you the details of like, you know, I mean, or I do need to fill in, uh, the e-mail which you send it to me back or.
+[30 minutes 51 seconds][Agent] : So yeah, you can do that. Otherwise, alternatively, if we get you covered over the phone, so I can note those details down. Now the only form you'd really need to fill out would be a beneficiary form. So who that money is actually going to. But what I just want to double check first is with your with regards to the payment day. So what day did you actually want that first payment day to be?
+[31 minutes 16 seconds][Customer] : Yeah. So that could be from 10th of January.
+[31 minutes 23 seconds][Agent] : Yes. So that's a week from today, so Friday the 10th and then it would be every fortnight on a Friday. So you're happy with that? OK, beautiful. Now it's nice and easy. We do a direct debit. Are we noting down a BSB account number or Visa or MasterCard?
+[31 minutes 27 seconds][Customer] : Yeah, Yeah, I will just give you the BSB and account number.
+[31 minutes 47 seconds][Agent] : Yeah, not a problem. Is it a savings or check account?
+[31 minutes 52 seconds][Customer] : It's just saving.
+[31 minutes 50 seconds][Agent] : That's Eric Savings. Beautiful and take your time, but when you're ready, I'll grab the BSB number to start with. Perfect. So that's with A&Z.
+[32 minutes][Customer] : 012372 yeah.
+[32 minutes 7 seconds][Agent] : Sorry, perfect. And your account number? And that, sorry, 4781. Great. And that's in your name, Vivek Vishnoy.
+[32 minutes 12 seconds][Customer] : 48872 4781 yeah, yeah.
+[32 minutes 25 seconds][Agent] : Beautiful. All I've got to do for you now is read you through a declaration. There's one question in the middle, then two at the end, and I need yes or no answers for it. And this will all be done for you. If I start to read this too fast or if you've got any questions, jump in, let me know. I'll be happy to help you out.
+[32 minutes 44 seconds][Customer] : Yes.
+[32 minutes 44 seconds][Agent] : That reads Thank you Vivek Vishnui. It is important you understand the following information I will ask for your agreement to these terms at the end of your policy will not be enforced unless you agree to these terms in full. Real life insurance is issued by Hanover Life free of Australasia Limited whom we will refer to this Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to this GFS Trading is real Insurance. To issue and arrange this insurance on its behalf kind of relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you've agreed to. Can you please confirm you have answered all of our questions in accordance with your duty?
+[33 minutes 43 seconds][Customer] : Yes.
+[33 minutes 44 seconds][Agent] : Perfect. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of the additional receives $1 million in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year recovery is $87.45 per fortnight. Your premium is steps, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can up I'm sorry until you reach the maximum benefit amount or until policy anniversary following your 75th birthday and you can opt out of this. You understand that the premium projection provided is indicative only and does not take into account any existing policies you may have with us. Included in your premium is an amount payable to GFS of between 41% and 55% to cover costs. Your premium will be debited from your nominated bank account in the name of Vivek Bishnoi, which you authorized to debit from and have provided to us. Your premium will be debited from your nominated bank account in the name of Vivek Bish. Sorry, sorry. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as a new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. Finally, we have a complaints process, but you can access it any time by contacting us. Full details are available online and in the documentation we are sending you. So just two questions for you. Do you understand and agree with the declaration? Yes or no?
+[35 minutes 57 seconds][Customer] : I understand, yes.
+[35 minutes 59 seconds][Agent] : Beautiful, beautiful and degree beautiful. And would you like any other information or would you like me to read any part of the PDF to you?
+[36 minutes 2 seconds][Customer] : Ingredient, no. You can send that to me.
+[36 minutes 13 seconds][Agent] : Perfect, absolute. We'll get everything sent out for you. But congratulations so that you are now covered with us. If you do think of any questions or concerns, don't hesitate to give us a call at any time. We'll be happy to help you out.
+[36 minutes 29 seconds][Customer] : Yep.
+[36 minutes 28 seconds][Agent] : OK, perfect. Well, it was so, so lovely speaking with you today. You have a fantastic day.
+[36 minutes 38 seconds][Customer] : Thank you. So is that going to be emailed to me?
+[36 minutes 42 seconds][Agent] : Absolutely. We'll e-mail it, but we'll also post out a hard copy for you as well.
+[36 minutes 47 seconds][Customer] : Hard copy to the postal address.
+[36 minutes 50 seconds][Agent] : Yeah, that's right.
+[36 minutes 53 seconds][Customer] : No worries. Thank you so much.
+[36 minutes 51 seconds][Agent] : Yeah, not a problem. It was so lovely speaking with you. Have a fantastic day.
+[36 minutes 59 seconds][Customer] : And can you send me the contact details for the house insurance? Home insurance?
+[37 minutes 9 seconds][Agent] : To be honest, the e-mail that gets sent to you is like automated. It's not something that I sent out specifically.
+[37 minutes 14 seconds][Customer] : You can give me the like what, verbally?
+[37 minutes 15 seconds][Agent] : So, yeah. Perfect. Perfect. I'll give that to you now.
+[37 minutes 16 seconds][Customer] : Yeah, yeah, yeah.
+[37 minutes 19 seconds][Agent] : So for home insurance, it's 1300 620269.
+[37 minutes 29 seconds][Customer] : No worries.
+[37 minutes 31 seconds][Agent] : Perfect. Well, it was such a SP such a pleasure speaking with you today. You have a fantastic day.
+[37 minutes 37 seconds][Customer] : You too, Emily, you have done a great job. Thank you so much.
+[37 minutes 40 seconds][Agent] : Oh, thanks so much.
+[37 minutes 41 seconds][Customer] : You have a happy New Year.
+[37 minutes 43 seconds][Agent] : You too. Bye.
+[37 minutes 45 seconds][Customer] : Thank you. Bye.

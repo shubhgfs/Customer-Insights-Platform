@@ -1,0 +1,50 @@
+[11 seconds][Customer] : Hello.
+[13 seconds][Agent] : Hi Joanne, it's Aidan calling back from Real Insurance. I'm just following up on your enquiry you've put in into some funeral insurance to see if I can run through that product with you and go through some pricing right, so we can get sorted. Can I just confirm your first name, surname and date of birth please?
+[24 seconds][Customer] : Yeah, yeah, yeah. My first name's Joanne. Well, the surname's small and my date of birth is the 7th of the 6th 85.
+[36 seconds][Agent] : Yeah, thank you very much. I'll just quickly let you know that calls are recorded. Any advice I provide is general in nature. It may not be suitable to your situation. Now, can I also confirm that you're a female Australian resident?
+[49 seconds][Customer] : Yep, yes.
+[53 seconds][Agent] : Oh, wonderful. Now, what's going to be looking into female insurance today? Are you new to it or do you currently have some kind of cover in place?
+[1 minutes 2 seconds][Customer] : No, I've no nothing.
+[1 minutes 5 seconds][Agent] : Yeah, OK, well that's not a problem then. So I'll run through ancient policy with you and go through all the main features and benefits and see how you're liking it. OK, so with our cover, it is designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away. How that they can use the funds not only for funeral expenses but also any other final expenses like unpaid bills.
+[1 minutes 37 seconds][Customer] : Yep.
+[1 minutes 37 seconds][Agent] : Now you can nominate up to five beneficiaries to receive their nominated benefit amount and if death is due to an accident, your chosen benefit will triple.
+[1 minutes 48 seconds][Customer] : OK, Yep.
+[1 minutes 49 seconds][Agent] : OK and luckily for you, if you're an Australian resident aged between 40 and 79, acceptance is guaranteed. So there's no M medical checks or any visits to the doctors.
+[2 minutes 2 seconds][Customer] : Yep.
+[2 minutes 1 seconds][Agent] : So it is actually a great guaranteed that acceptance. OK.
+[2 minutes 7 seconds][Customer] : Yep.
+[2 minutes 9 seconds][Agent] : Now also and I cover if you do suffer accidental serious injury such as quadriplegia or paraplegia before the policy anniversary following your 75th birthday, the benefit and that will also triple.
+[2 minutes 24 seconds][Customer] : OK, Yep.
+[2 minutes 24 seconds][Agent] : OK and with our policies. So for the 1st 12 months, you will be covered for accidental death and accidental serious injury.
+[2 minutes 33 seconds][Customer] : Yep.
+[2 minutes 32 seconds][Agent] : Only after the first 12 months you will be covered for death due to any cause. In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you are first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we will pay your claim in full to help you with things like medical expenses so you can take care of yourself. OK. Now with our policies as well, you may pay more in total premiums over the life of the policy and the benefit now. So please beware this insurance does not have a savings or investment element. So if you cancel outside of 30 days, you'll cover will stop and you will not receive anything back unless you're eligible for and choose early cash back offer, which I'll go over in just a second. OK, So do you have any questions about anything so far?
+[2 minutes 58 seconds][Customer] : Yep, Yep. No.
+[3 minutes 30 seconds][Agent] : No.
+[3 minutes 42 seconds][Customer] : Yep.
+[3 minutes 30 seconds][Agent] : OK, well with our insurance you, you can choose between $3000 up to $15,000 and the premiums, they are designed to stay the same as you get older and when you reach the age of 85, which for you, you're still young so it's quite a while away. Umm, but when you reach 85, your premiums will cease, so you'll have nothing more to pay and you will automatically receive a 25% bonus cover and this will be applied to your benefit amount. So you can find out more information about our premium structure on our website.
+[3 minutes 46 seconds][Customer] : Yep, Yep, Yep.
+[4 minutes 4 seconds][Agent] : Now, like I was saying before, we also provide you with that early cash out option. So at any time after you reach age 85, you can choose to end your cover and we will pay you 75% of your funeral insurance benefit. So that's maybe the situation changes, for example, and you can get that money before you actually pass away.
+[4 minutes 25 seconds][Customer] : OK, Yep.
+[4 minutes 26 seconds][Agent] : Yeah. Now with pricing, as I mentioned, they can choose between 3000 up to $15,000.
+[4 minutes 38 seconds][Customer] : The hardest one, please. Yeah.
+[4 minutes 34 seconds][Agent] : Now which benefit amount would you like me to have a look at first $15,000, of course. OK, So join for benefit of $15,000. The cover is going to cost $24.71 per fortnight, OK?
+[4 minutes 49 seconds][Customer] : Yep, Yep.
+[4 minutes 55 seconds][Agent] : Now believe that price. We also have a real reward attached to the policy.
+[5 minutes 1 seconds][Customer] : Yep.
+[5 minutes 1 seconds][Agent] : So that means following your first policy anniversary date, we will refund you 10% of the premiums you've paid in that time, OK? So based off this current price, that would be $64.25, you would get refunded with that real reward. OK.
+[5 minutes 9 seconds][Customer] : OK, hello.
+[5 minutes 20 seconds][Agent] : Now included in the policy, we actually also provide you with a free online legal will and that's valued at $160.00 and that's just automatically included in the policy.
+[5 minutes 31 seconds][Customer] : Yep.
+[5 minutes 33 seconds][Agent] : OK. So would you like to look at any other levels of cover or was that sounding good, that 15,000?
+[5 minutes 39 seconds][Customer] : No, that sounds good. The 15th? No, the number one.
+[5 minutes 38 seconds][Agent] : Yeah, we haven't spoken to you there. Wonderful. That's good to hear. So we'll just go ahead and confirm a couple of details and we can look at going ahead and getting this all set up if you're happy with that.
+[5 minutes 51 seconds][Customer] : Yeah. Could you give me a call back in about an hour or five because I'm just downtown at the moment.
+[5 minutes 57 seconds][Agent] : Yeah. And your mobile number, please. Yeah, OK. If you do have the time, it shouldn't take over 5-10 minutes to get this all sorted. If you don't have the time, that's all good. I understand.
+[6 minutes 5 seconds][Customer] : Yeah, I just got to go into the bank in that at the moment, that's all.
+[6 minutes 7 seconds][Agent] : Oh, not a problem.
+[6 minutes 12 seconds][Customer] : Yep.
+[6 minutes 9 seconds][Agent] : Look, I can give you a call back in around an hour, and it may not be for me, it may be from someone else here, but they were to go ahead and get the source out for you.
+[6 minutes 17 seconds][Customer] : Alright, thank you very much for that.
+[6 minutes 17 seconds][Agent] : All right, not a problem. Enjoy your time. See ya.
+[6 minutes 20 seconds][Customer] : OK, thank you. Bye.
+[6 minutes 22 seconds][Agent] : Bye.

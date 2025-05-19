@@ -1,0 +1,164 @@
+[1 seconds][Agent] : Thank you for your patience. I'm sorry for the delay, but I've got Tim on the line and he'll be happy to help you out from here.
+[6 seconds][Customer] : Bye, Bye.
+[9 seconds][Agent] : Hi, Colin. It's Tim here at Real Insurance. How are you doing today?
+[12 seconds][Customer] : Thanks. Bye.
+[14 seconds][Agent] : I'm very well, thanks for asking. I'm just saying you're interested in organizing some funeral insurance for your son, is that right?
+[19 seconds][Customer] : Yeah, that is true.
+[21 seconds][Agent] : Perfect. I can definitely help you out with that today. Let me grab some details from you. Firstly, what was your son's full name?
+[30 seconds][Customer] : Chris James, Bun B Double TEN.
+[35 seconds][Agent] : Perfect. And the first name was Chris.
+[37 seconds][Customer] : Yeah. Chris, the address.
+[36 seconds][Agent] : Yeah, Chris. Perfect. And what was Chris's date of birth?
+[42 seconds][Customer] : Yeah, that's the third of A10. Tiny.
+[50 seconds][Agent] : That is the 10th, 1980 Perfect. And he's a male Australian resident.
+[56 seconds][Customer] : Yeah. Miles.
+[58 seconds][Agent] : Perfect. Just, uh, Please note our calls are recorded and any advice we provide is general in nature and may not be suitable for your situation. So I'll explain to you how the, uh, funeral coverage will work for Chris and we can run through the pricing. And if you've got any questions along the way, just stop me.
+[1 minutes 15 seconds][Customer] : Yeah.
+[1 minutes 13 seconds][Agent] : OK, Colin, so I'll let you know. Firstly, it is very simple in how the funeral coverage works. So at the end of the day, it's designed to provide financial protection for your loved ones in the event that touched with something was happened to yourself, uh, or to christen this case. Now, the way that we do that is through a lump sum payment of between $3000 up to $15,000 depending on your personal needs. The cover does also include an accidental death benefit. So because accidents are so unexpected and potentially very sudden, we understand there could always be other costs left behind for your loved ones.
+[1 minutes 39 seconds][Customer] : Yeah, Yeah.
+[1 minutes 50 seconds][Agent] : You know, things like unpaid bills. So we'll pay.
+[1 minutes 51 seconds][Customer] : Well, we, yeah, that's exactly aside as well. But we want want this now.
+[1 minutes 57 seconds][Agent] : OK, perfect. All right, so we'll pay out a three times benefit from noting you that from accidental death. Now Colin, the cover just for the 1st 12 months he'll be covered for accidental death and accidental serious injury only after the first 12 months he'll be covered for death due to any cause.
+[2 minutes 13 seconds][Customer] : Yeah, yeah.
+[2 minutes 13 seconds][Agent] : In addition, there is a terminally illness benefit, which means after holding your policy for 12 months, if he was first diagnosed with a terminal illness with 12 months or less to live by a registered medical practitioner, we'll pay out the claim in full in that situation so that you can get, so that he can get get the best medical care or anything else you might need as well. OK.
+[2 minutes 32 seconds][Customer] : Yeah, yeah.
+[2 minutes 34 seconds][Agent] : The cover one.
+[2 minutes 33 seconds][Customer] : Uh, well, I hope I don't remember.
+[2 minutes 36 seconds][Agent] : Yeah, of course. Yeah. And so the cover, once he reaches the age of 85, the premium stops. So you don't pay anything after the age of 85. We will still cover him no problem. And we'll increase the level of cover.
+[2 minutes 43 seconds][Customer] : Yeah, yeah, that's the side of the side was lost in my yeah, we've got there yet. I've got 11 years to go to that.
+[2 minutes 52 seconds][Agent] : No problem. And we'll increase the level of cover by 25% as well.
+[3 minutes][Customer] : Yeah, tired of that.
+[2 minutes 56 seconds][Agent] : Also at the age of 85, he does have the option to cash the policy and so he can elect to end the cover and we'll pay up 75%.
+[3 minutes 1 seconds][Customer] : Yeah, I just.
+[3 minutes 4 seconds][Agent] : Oh, OK, perfect.
+[3 minutes 3 seconds][Customer] : I just heard all this, you know, I just made through all this.
+[3 minutes 6 seconds][Agent] : OK, no problem. And your premiums are level, which means they're designed not to increase as it gets older. So the younger you take the policy out in general, the cheaper it is. And then it's designed not to get more expensive as it gets older. You can also find the information about our premium structure on our website. Now you can choose to cover Chris for between $3000 up to $15,000.
+[3 minutes 26 seconds][Customer] : Yeah.
+[3 minutes 25 seconds][Agent] : Colin, how much do you want to cover him for 10? Perfect. No problem.
+[3 minutes 26 seconds][Customer] : 10/10/10 It cost buddy nearby these days. Yeah. Bury someone.
+[3 minutes 33 seconds][Agent] : Yeah, fair enough. OK, alright. If we do $10,000 funeral coverage, which will include the $30,000 accidental debt coverage for Chris, you're looking at a fortnightly premium of $17.77.
+[3 minutes 47 seconds][Customer] : Oh yeah? Well, that's good.
+[3 minutes 49 seconds][Agent] : That's good. Did you have any questions about anything so far, Colin? No problem.
+[3 minutes 53 seconds][Customer] : Nah, Nah, Nah.
+[3 minutes 55 seconds][Agent] : Oh, I'll get this in. Yeah, we're going to say sorry.
+[3 minutes 55 seconds][Customer] : I just, I just want you to put the $17.00 on to mine.
+[4 minutes 3 seconds][Agent] : Yeah, no problem.
+[4 minutes 3 seconds][Customer] : I'm not located out of my where it's coming from now.
+[4 minutes 8 seconds][Agent] : No problem. I'll, I just need to confirm some contact information with you first, then we can organize this. I just want to confirm you're happy to continue with the $10,000 cover for Chris.
+[4 minutes 17 seconds][Customer] : Yeah, bye.
+[4 minutes 18 seconds][Agent] : Perfect. All right, so I'm just going to grab some contact information from you. Can I get you to confirm your full name and date of birth for me as well, please? Colin.
+[4 minutes 26 seconds][Customer] : Yeah. Umm, Colin James Barton.
+[4 minutes 30 seconds][Agent] : Yeah.
+[4 minutes 32 seconds][Customer] : Uh, blah blah blah blah. 50 the 5th uh, no. UH50.
+[4 minutes 36 seconds][Agent] : Perfect fifth of the 5th 50. Easy to remember. Did you have an e-mail address at all, Colin?
+[4 minutes 45 seconds][Customer] : Bob give giving me e-mail. Oh bloody hell. I hate emails. I can never I lose them.
+[4 minutes 57 seconds][Agent] : Sorry, before you give it to me. Sorry. Just start. Please note our calls are recorded.
+[4 minutes 54 seconds][Customer] : OK, my e-mail address is Barbara darling.
+[5 minutes][Agent] : Any advice we provide general in nature may not be suitable for your situation.
+[5 minutes 4 seconds][Customer] : I don't care. I've got nothing to hide.
+[5 minutes 6 seconds][Agent] : No problem. What was it? Yep. Yep.
+[5 minutes 8 seconds][Customer] : Umm, Barbara buddy, it's BARBARABU double DEN at bigpond.com.
+[5 minutes 18 seconds][Agent] : Yep.
+[5 minutes 18 seconds][Customer] : All lower case.
+[5 minutes 19 seconds][Agent] : Perfect. No problem. Excellent. Thank you.
+[5 minutes 21 seconds][Customer] : OK, I'll give you anything else.
+[5 minutes 25 seconds][Agent] : No, that should be fine. Thank you, Barbara.
+[5 minutes 25 seconds][Customer] : Sorry, I'll give you back to him.
+[5 minutes 29 seconds][Agent] : Thank you.
+[5 minutes 33 seconds][Customer] : I have nothing to do with ******* computer.
+[5 minutes 36 seconds][Agent] : No, that's fine. I just need to confirm with you, Colin. You'll have for me to e-mail it out to Barbara's e-mail address, barbara.budden@bigpond.com. Yeah, perfect. And I'll grab your postal address. What's your post code? Colin? What's up? I busy? Yep.
+[5 minutes 44 seconds][Customer] : Yeah, mate, the post code 2397 and the address is 20 the last street or you put it in PA box 18, the ladder because we do not have a post logger run around.
+[6 minutes 3 seconds][Agent] : Oh, OK, OK, no problem. Box 18 for latter.
+[6 minutes 4 seconds][Customer] : So that's whichever way it goes into our postal box at, at at the post office.
+[6 minutes 10 seconds][Agent] : OK, no, that's fine. I'll put the PO Box down. OK, so PO Box 18 for latter, no problem. And your best contact number is just the one you're on at the moment, 0267937389.
+[6 minutes 15 seconds][Customer] : Yeah, yeah, yeah. And also I'll give you a couple mobile numbers as well.
+[6 minutes 28 seconds][Agent] : Yeah, no problem. What was my mobile number?
+[6 minutes 28 seconds][Customer] : We'll give you 1 mobile number anyway.
+[6 minutes 31 seconds][Agent] : Yep. What was that number?
+[6 minutes 31 seconds][Customer] : So yeah, I'll give you what's yours this time, Bob. Yeah, I'll give you a big, I'll give you a big wife's telephone number.
+[6 minutes 43 seconds][Agent] : Yep, Yep, Yep. Perfect. And so the first payment date for for Christmas policy. When did you wanna do the first payment?
+[6 minutes 44 seconds][Customer] : Yes, it's 0438 658-5050 when mine's due.
+[7 minutes 6 seconds][Agent] : I'm sure she's wha? What day of the week does yours come out?
+[7 minutes 9 seconds][Customer] : Oh, what I wait, what? I don't know. I had what with that? At what? What day? Wait, what day?
+[7 minutes 8 seconds][Agent] : Sorry, I should be able to check it for you.
+[7 minutes 16 seconds][Customer] : What, what, what day of the month does our payments come out or whatever?
+[7 minutes 21 seconds][Agent] : Actually, no, that's fine. I should be able to look it up for you. For you, Colin.
+[7 minutes 24 seconds][Customer] : Yeah, yeah, yeah.
+[7 minutes 30 seconds][Agent] : Umm, give me one second.
+[7 minutes 30 seconds][Customer] : Well, what he said, he he said he can jump bring and he can die that.
+[7 minutes 35 seconds][Agent] : Yeah, I'll look it up for you. Give me one moment.
+[7 minutes 36 seconds][Customer] : Yeah, yeah. What was that?
+[7 minutes 38 seconds][Agent] : Umm, just while I'm looking that up. Just while I'm looking that up.
+[7 minutes 42 seconds][Customer] : What was that?
+[7 minutes 42 seconds][Agent] : Colin, how did you wanna, how did you wanna do the payments? Did you wanna do them from just your BSB and account number or do you use a card?
+[7 minutes 50 seconds][Customer] : What was that? It's a it's just a time of my tea out of my bank every fortnight.
+[7 minutes 56 seconds][Agent] : Direct debit, Yeah, no problem.
+[8 minutes][Customer] : The same as the one that.
+[8 minutes][Agent] : Do is your account alright? Your account is savings or check account. Sorry Colin.
+[8 minutes 2 seconds][Customer] : What was that not check it out. It's the side of the chair.
+[8 minutes 10 seconds][Agent] : So just no problem. And is the account just in your name?
+[8 minutes 15 seconds][Customer] : Yeah, mine.
+[8 minutes 16 seconds][Agent] : Perfect. And what was the BSP number for your account?
+[8 minutes 21 seconds][Customer] : Oh, this is what's the please number? The Commonwealth. I'm here. Get me. I have. I have to get the bloody nuisance, he said. Your wife said you're a bloody nuisance. You've got an old bank, Bob.
+[8 minutes 47 seconds][Agent] : Oh, it takes time.
+[8 minutes 45 seconds][Customer] : These days I I'm I'm an old fashioned one. Everything comes out. I've encountered a mail get automatic be paid to you.
+[8 minutes 53 seconds][Agent] : Yeah, yeah, fair enough. 2592 and the account number. Yep, 30188. Perfect.
+[8 minutes 54 seconds][Customer] : Yeah, I think the number is 762592 and the bank account number it's 30188 now.
+[9 minutes 19 seconds][Agent] : So it's just 30188. Yeah, perfect.
+[9 minutes 24 seconds][Customer] : Yes.
+[9 minutes 27 seconds][Agent] : OK. Yeah, no problem. Is that Commonwealth Bank?
+[9 minutes 25 seconds][Customer] : So as I know, the account's still through Port Macquarie, but that's all right.
+[9 minutes 32 seconds][Agent] : Yeah, yeah, sure. Umm, yeah, that's fine.
+[9 minutes 33 seconds][Customer] : Yeah, Commonwealth Bank, but we haven't changed it over to narrow bra and I'm just looking up here.
+[9 minutes 52 seconds][Agent] : Yeah, that's fine. I'll, I'll look up the payment date in a SEC.
+[9 minutes 39 seconds][Customer] : 23rd, 2383, that's what it was, wasn't it, 2383 and the 13th of October, that was one, yeah.
+[9 minutes 54 seconds][Agent] : When the next one's gonna be. I'll line them up. That's fine.
+[9 minutes 57 seconds][Customer] : Yeah, that's all right. Yes, I will. Calling back on.
+[9 minutes 57 seconds][Agent] : If you want to put: back on, no problem.
+[10 minutes 3 seconds][Customer] : Yeah, Yeah, Bye. Bye. Bye.
+[10 minutes 5 seconds][Agent] : Perfect Colin. So I just wanted to confirm, uh, your Pennsylvania, your partner Barbara just gave me the bank details for your account. I just want to confirm you're happy for me to use those details for the payments.
+[10 minutes 14 seconds][Customer] : Yeah, yeah, bye.
+[10 minutes 14 seconds][Agent] : Yeah yeah. Perfect. Umm, just give me one second.
+[10 minutes 17 seconds][Customer] : I wouldn't have put it to you, so I didn't want a channel through it.
+[10 minutes 18 seconds][Agent] : I'm yeah, No, fair enough. Umm, alright, just hold the line 1 moment. I'm going to look up when the next payment is so I can line it up with that. OK, I'll be 1 moment.
+[10 minutes 27 seconds][Customer] : That's alright. Bye.
+[10 minutes 29 seconds][Agent] : Thanks, Colin. Thanks so much for holding there, Colin.
+[11 minutes 35 seconds][Customer] : Yeah, found it. Did you?
+[11 minutes 35 seconds][Agent] : So that's just the one. Yeah.
+[11 minutes 36 seconds][Customer] : Ah, that's alright, mate.
+[11 minutes 37 seconds][Agent] : So the next one is the 16th of January, so that'll be on Thursday. Are you happy for me to line this up with that?
+[11 minutes 45 seconds][Customer] : Yeah, mate. That's what I want to do.
+[11 minutes 47 seconds][Agent] : Yep, No problem. And is it OK if I speak with Barbara just for one more second? I just needed to double check something.
+[11 minutes 54 seconds][Customer] : Yeah.
+[11 minutes 55 seconds][Agent] : Yep.
+[11 minutes 54 seconds][Customer] : Fab, he wants to talk to you. Yeah, darling.
+[12 minutes][Agent] : Hi, Barbara. Sorry, it's Tim from Real Insurance. I just wanted to confirm you're happy using your e-mail address to have them sent to you.
+[12 minutes 6 seconds][Customer] : Yeah, lover.
+[12 minutes 7 seconds][Agent] : Yeah, perfect.
+[12 minutes 7 seconds][Customer] : That's be alright, yeah.
+[12 minutes 8 seconds][Agent] : Thank you so much for that, Barbara. Yep.
+[12 minutes 9 seconds][Customer] : Anything I want I want to put on the bottom of the of cruises and umm, and I want to change out. I want to put something on the change something on the bottom of ours. I want it that the funeral there, that could also climb for us.
+[12 minutes 26 seconds][Agent] : So I'm gonna send the paperwork out to for the beneficiaries. I'm not sure if it can be done by a funeral record. I think it has to be done like I think you have to actually put up the name of the person. So I mean, if you know who the funeral director is going to be, you should be able to put their name down. Umm, but uh, yeah. But otherwa.
+[12 minutes 40 seconds][Customer] : I don't know, but when you die, you don't know.
+[12 minutes 45 seconds][Agent] : Yeah, exactly right. Yeah. So be you could put down like a a friend or a family member. But yeah, I don't think it could be done by the funeral.
+[12 minutes 49 seconds][Customer] : I've, I've already got a a family member on ours.
+[12 minutes 52 seconds][Agent] : OK, excellent, excellent. OK, no problem. Alright, if you want to put that Colin back on, I'll read them through the rest of this and then, well, they'll all be done.
+[12 minutes 52 seconds][Customer] : So I will, I will. OK, Can't do it.
+[13 minutes 1 seconds][Agent] : Perfect.
+[13 minutes 1 seconds][Customer] : And let you know who we're going to go through it with a funeral. It's got to be a family member. We put carrot on them again. OK, No worries. Take care. Bye.
+[13 minutes 13 seconds][Agent] : Hi again Colin. So sorry. The last thing I have to do here is just read you through the final terms and conditions just to make sure we're on the same page about everything. It is a little bit lengthy, so just try and bear with me. I'll just let you know as well.
+[13 minutes 25 seconds][Customer] : I've got it right by the city.
+[13 minutes 28 seconds][Agent] : I do need to make sure you have an understanding of it. So there will just be a couple of questions in here for you at the end. I'll let you know as well. Just you may pay more in total premiums over the life of the policy than the benefit now. And please be aware this insurance does not have a savings or investment element. So if you cancel outside of the 30 days you should cover, we'll stop and you'll not receive anything back. That's only if you cancel outside of that though. And this just reads, please, that our calls are recorded. Thank you. Chris Bottom. It is important to understand the following information. I'll ask for agreements please Terms at the ending in policy will not be enforced and they should be in these terms in full reel. Funeral covers issued by Hanover Library of Australasia Limited whom we'll franchise Hanover. Hanover has range by greenstone financial services trading as real insurance issued. Arrange this insurance on it's behalf. Your answers to the application questions and any related documents form the basis of your contracting insurance and Hanover relies upon the accuracy of the information you have provided when assessed your application. Hanover has set a target market termination for this product, which describes the type of concerns this product is designed for. Our distribution practices are consistent with this determination. You can paint a copy on our website. We collect your personal information to provide insurance quotes issue covering other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breachs of privacy. By agreeing to this declaration, you consent to be the contact by us in relation to other products and services. You can opt out if this is anytime they're contacting us. You've agreed to take out a single real funeral cover with the following cover. Chris Bottom is covered for $10,000 in the event of death. In the case where death is accidental or if you suffered a fire and accidental serious injury, the benefit will triple coverage. Traction to death only for the 1st 12 months covered with death by any cause of diagnosis of the terminal illness covered thereafter. Accidental serious injury cover for each life insured under age 75 starts immediately and ends on the policy anniversary following the life insured 70 for birthday. Once the life insured reached age 85, you can choose to voluntarily cancel that person's coverage to receive a lump sum payment of 75% of the chosen. If you take up this over cash out option, you know you have a right to claim under the policy for that life insurance. This policy is an insurance policy and does not have a savings or investment component. You can end your cover at any time by contacting us if you can. If you stop paying your premiums, we may end your cover. We'll give you notice before doing so. If cover ends prior to age 85, no benefit payments or refund the premiums after the cooling off. If cover continues beyond age 85, the life insurance will receive an additional 25% of bonus cover from that date. Then you'll not be required to pay any further premiums. The bonus cover is not payable if the other cash option has been taken out. Cover for each life insurance ends in the day prior to 100 birthday. We'll pay the final benefit and bonus cover for life insurance. At this point, your total premium for your first year cover is $17.77 per fortnight. Your premiums are level, which means they're designed to stay consistent year on year will only change if you're all to cover or the insurer just supreme rate supply to your policy. The insurer can then make the change if it is applied consistently across all policyholders. You may pay more in premise than the benefit of the life of the policy. Included in your premium is an amount of the real interest between 34% and 54%, calculated on a level basis of the life of the policy. Your premium will be debited from your nominated bank account in the name of Colin Bottom, which authorized of the phone have provided to us. We may provide with the communications to you by the e-mail address you have provided to us and this will include any notices we required to provide to you in writing. If you'd prefer to receive these only by mail, you can update your communication preference at any time. The policy documentation, PBS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets and needs. You have a 30 day calling approved when you may cancel your policy and any premium paper refunding and form unless you have claim there are risks associated with replacing policies session new policy may not be of intricate existing cover. We recommend that you do not cancel any existing policies that you have received and viewed our policy in full. Finally, we have a complaints process which can access any time by contacting us. Full details are available online and in the documentation we are sending you And just two final questions for you.
+[17 minutes 40 seconds][Customer] : Yeah, bye.
+[17 minutes 35 seconds][Agent] : It's just do you understand and agree with the declaration and other than the information I'm sending up for you right now, right now, would you like any other information or would you like me to read any part of the PDS to you?
+[17 minutes 50 seconds][Customer] : No, I don't, Washington. No questions.
+[17 minutes 54 seconds][Agent] : No problem.
+[17 minutes 54 seconds][Customer] : And I understand.
+[17 minutes 54 seconds][Agent] : All right, perfect. All right, I'll get everything sent out for you now for Chris's then if you've got any questions after you receive it, my details will be on the documents. So if any questions do come to mind, just give me a call back, but I'll get that all sent out for you now. OK, Colin.
+[18 minutes 8 seconds][Customer] : Bye. Bye.
+[18 minutes 10 seconds][Agent] : Alright. No problem.
+[18 minutes 11 seconds][Customer] : I appreciate your help.
+[18 minutes 11 seconds][Agent] : Well, you enjoy the rest of your day. No.
+[18 minutes 13 seconds][Customer] : Bye. What?
+[18 minutes 13 seconds][Agent] : Thanks very much for your time, Paul. Thanks. Bye.
+[18 minutes 15 seconds][Customer] : Bye, bye, bye bye.

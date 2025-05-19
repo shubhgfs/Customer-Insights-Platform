@@ -1,0 +1,70 @@
+[7 seconds][Agent] : Hello. Welcome to Real Insurance. My name is Michael. How can I help you?
+[11 seconds][Customer] : Hello, good morning. How are you?
+[14 seconds][Agent] : Good. And yourself?
+[16 seconds][Customer] : Good, good. Can I get your name again, please?
+[19 seconds][Agent] : Sure. My name is Michael. Sure.
+[21 seconds][Customer] : Yeah. Michael. Hi. Can you get to my account please?
+[28 seconds][Agent] : Do you have a policy number? Mm. Hmm. Mm. Hmm, thank you. Confirm your name and date of birth. Thank you. And Louella, can you confirm the type of policy you have with us?
+[31 seconds][Customer] : 752011492 Noella Maglaya 7 of December 1982 Life Insurance.
+[52 seconds][Agent] : Thank you.
+[53 seconds][Customer] : Life Cover.
+[53 seconds][Agent] : While I'm working on the main part of the file, I'm just going to confirm a couple of the other details for you as well. There's a postal address #16 Hickory Grove in Bidwall, NSW 2770.
+[1 minutes 5 seconds][Customer] : That's correct.
+[1 minutes 7 seconds][Agent] : e-mail is louella.ponteveros@yahoo.com.
+[1 minutes 13 seconds][Customer] : That what? Sorry.
+[1 minutes 15 seconds][Agent] : Your e-mail address is itstilllouella_ponteveros@yahoo.com and. The mobile you're calling from ending in 669 matches the one on the policy so, that should be fine as well and. Thanks for confirming those details and. How can I HELP you today?
+[1 minutes 19 seconds][Customer] : Yes, Yes, yeah, yes. I received this letter that year. It's gonna increase, right?
+[1 minutes 47 seconds][Agent] : OK, let me have a look.
+[1 minutes 39 seconds][Customer] : 2.89 for Fortnite by next year. Yeah. Hang on, just hang on a second. I'm just going to my e-mail.
+[1 minutes 58 seconds][Agent] : Ah, OK, that's OK. I I can bring up a copy of the letter so I can have a look and see exactly what's going on as well.
+[2 minutes 7 seconds][Customer] : Mm. Hmm.
+[2 minutes 8 seconds][Agent] : OK, just bear with me a second while the computer catches us. Uh, OK, so essentially, uh, with the, the rising cost of Russian providing insurance across everything, uh, the underwriter, which is kind of a life free, has revised the premium for all of our real family life cover policies, not just your 1. So it's, everyone actually gets myself as well. Uh, now that's 6.5% increase. Uh, it is in addition to the, the standard increases of renewal. So the, the age based increase and if you choose to accept it, the 5% increase to your benefit amount. It won't apply, however, until your policy anniversary next year, uh, which is still gonna be the 5th of June.
+[2 minutes 40 seconds][Customer] : Yeah, yeah, yeah. Also, I would just like to ask if I'm gonna so I'm paying 3938 something point something, right?
+[3 minutes 17 seconds][Agent] : That's right, 38MM Hmm.
+[3 minutes 17 seconds][Customer] : If I'm going to add the if I'm going to add the income protection and the what's the other one? Income protection and what's it called? Sorry, I forgot.
+[3 minutes 39 seconds][Agent] : Do you mean the funeral insurance?
+[3 minutes 42 seconds][Customer] : No, no, not the other one.
+[3 minutes 46 seconds][Agent] : OK.
+[3 minutes 47 seconds][Customer] : So what are TPD? The TPD one?
+[3 minutes 47 seconds][Agent] : Home insurance, car, landlord, right? OK.
+[3 minutes 54 seconds][Customer] : The TPD total and permanent disable something, yes.
+[3 minutes 58 seconds][Agent] : Are you asking for a quote to include total disability on your policy, Right. That I can work with now. Income protection, that's just an entirely separate type of policy. I thought I was getting a little bit confused.
+[4 minutes 13 seconds][Customer] : OK.
+[4 minutes 11 seconds][Agent] : I thought you were talking about adding the type of policy. Sorry about that. So I think I need to have my cup of coffee a little bit earlier today.
+[4 minutes 20 seconds][Customer] : Yeah. So that's different one.
+[4 minutes 21 seconds][Agent] : Alright, so I'll bring up the quote for, that's right. So for, for the total payment disability, I can bring up the quote for you, uh, for the income protection, I'd have to put you through to one of our sales team. Uh, so you have to go through the entire policy with you. That way, if you are interested in it, they'd be the ones you'd be taking you through the application anyway, as well as the quote.
+[4 minutes 41 seconds][Customer] : OK, yes.
+[4 minutes 43 seconds][Agent] : The for making a change to an existing policy that I can help with.
+[4 minutes 44 seconds][Customer] : So that DPD the total permanent. Sorry you're dropping. Sorry. Hello.
+[4 minutes 52 seconds][Agent] : No, I'm still here.
+[4 minutes 54 seconds][Customer] : Yeah. So the TPD is inclu. You can include that in the life insurance. Alright.
+[5 minutes 2 seconds][Agent] : So you can apply to have it added on to the life insurance. Uh, it will increase the cost of the policy and you would have to complete the, the application to be approved for it. Uh, but yes, it can potentially be added to that policy.
+[5 minutes 6 seconds][Customer] : Yeah, yeah, yeah, yeah. Would you be able to let me know how much will be? I added.
+[5 minutes 25 seconds][Agent] : OK, well, let me just get this part of the file ready. Just one moment. OK, a couple of questions so I can generate this quote. Firstly, have you had a cigarette in the last 12 months?
+[5 minutes 52 seconds][Customer] : Cigarettes.
+[5 minutes 53 seconds][Agent] : That's right. Have you had a cigarette in the last 12 months?
+[5 minutes 55 seconds][Customer] : No, I'm not. I'm not a smoker.
+[5 minutes 58 seconds][Agent] : OK. Do you currently work at least 20 hours per week? And what is your current occupation?
+[6 minutes 2 seconds][Customer] : Yep, I work in an aged care. No, no, yes, Service officer, it's like in the kitchen.
+[6 minutes 10 seconds][Agent] : OK, as a, a nurse, uh, a a secretary, OK.
+[6 minutes 22 seconds][Customer] : So yeah, the title is guest service officer. I'm sorry, general, not guest general.
+[6 minutes 39 seconds][Agent] : OK, So what I'm doing at the moment is I'm finding, uh, an occupation on our list that would be as close to that as possible. So would that be like a, a kitchen hand?
+[6 minutes 47 seconds][Customer] : That would be like, yeah, kitchen hand.
+[6 minutes 48 seconds][Agent] : Would it be like a, a chef or a cook or, OK, uh, can I need one policy? Now with the total income and disability, the benefit amount starts at 50,000 and can go as high as your current life insurance benefit amount, which is the 750,000. Was there a particular level of cover that you were looking to get quote for?
+[7 minutes 19 seconds][Customer] : Maybe 500?
+[7 minutes 21 seconds][Agent] : OK, let me get you a quote for 500. OK. So if you added 500,000 of total and permanent disability, then it would be a an increase of 5165, which would make your fortnightly premium $90.54. So from 30, that's right. So it's at the moment you're paying $38.89, the total and permanent disability is an additional $51.65.
+[7 minutes 40 seconds][Customer] : So from 38 additional 51, is it 51, 50, 1.65?
+[7 minutes 56 seconds][Agent] : So the total would be $90.54. Sorry, 5165 for the credit payments facility. That's right.
+[8 minutes 1 seconds][Customer] : OK, that's for the 500 cover, right?
+[8 minutes 7 seconds][Agent] : That's right. For 500,000.
+[8 minutes 10 seconds][Customer] : That's too much. Sorry.
+[8 minutes 22 seconds][Agent] : That's not the problem.
+[8 minutes 15 seconds][Customer] : Yeah, I'll think about it first and then yeah, maybe. Sorry.
+[8 minutes 25 seconds][Agent] : That's not a problem. This is just a quote. I'm not making any changes to the policy at this time.
+[8 minutes 28 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah. I know. Can you please put me through the income protection?
+[8 minutes 37 seconds][Agent] : Yes, I can. While I while I get you through to them, I'll need to place you on hold. It may take me more than two minutes, but I'll be as quick as I can for you.
+[8 minutes 38 seconds][Customer] : So I yeah, yeah, that's fine.
+[8 minutes 50 seconds][Agent] : Not a problem.
+[8 minutes 47 seconds][Customer] : Thank you so much for your help, Michael.
+[8 minutes 51 seconds][Agent] : Please hold the other.
+[8 minutes 53 seconds][Customer] : Thank you.

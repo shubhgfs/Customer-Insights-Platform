@@ -1,0 +1,133 @@
+[4 seconds][Agent] : Hi, it's Chris from Montrose.
+[2 seconds][Customer] : Hi, Hey.
+[9 seconds][Agent] : It's Chris from Montrose.
+[10 seconds][Customer] : Hi. Sorry, I'm just driving. So yeah, no, it's just working. Should be fine. Actually, I'm just driving out of the country, but so hopefully it doesn't cut. Yeah, shouldn't do.
+[19 seconds][Agent] : Hopefully not. Yeah.
+[20 seconds][Customer] : Yeah.
+[21 seconds][Agent] : Perfect. So can I just get you to confirm again your first and last name and your and your date of birth please?
+[27 seconds][Customer] : Yeah, Renee, Sonia, the 12th of September 79.
+[31 seconds][Agent] : Perfect. And can I confirm that you are a female New Zealand resident currently residing in New Zealand?
+[36 seconds][Customer] : Yeah, Correct.
+[38 seconds][Agent] : Perfect. Please note all our calls are recorded. Any advice it provides is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstance. So I'm going to go back to those questions for you.
+[37 seconds][Customer] : Yes, Yeah. Perfect.
+[53 seconds][Agent] : And no, I know we just spoke earlier today, but I'm going to still confirm that you are female New Zealand resident currently residing in New Zealand. Perfect. OK, thank you for making sure, making sure. Now I'll go to that question for you. We will only have a couple questions left about the anemia and then only a couple questions left after that.
+[1 minutes 3 seconds][Customer] : Yes, alright, Yep.
+[1 minutes 17 seconds][Agent] : So it's, it's going to be right, right towards the end there for you. And So what we were up to was I put down that the anemia was developed around last year about September. And you mentioned that. Did the doctor tell you it was because of your diet?
+[1 minutes 35 seconds][Customer] : OK, Yeah, currently I I was working a bit hard and studying a bit hard, so I think I probably just got a bit rundown.
+[1 minutes 43 seconds][Agent] : OK, so the doctor says it was maybe your diet, but also you just you're working a bit bit hard maybe.
+[1 minutes 49 seconds][Customer] : Yeah, just because with anemia you get low on oxygen, so sometimes it can affect your heart and things. So they just wanted to double check everything was OK.
+[2 minutes 3 seconds][Agent] : OK, OK, alright. Perfect. Perfect. Yeah. And are you on any treatment for that?
+[2 minutes 10 seconds][Customer] : No, I just have an iron infusion. So yeah, I just have one of those that seem to help and then I just, they just give me an eye on tap tablet.
+[2 minutes 25 seconds][Agent] : OK, perfect, perfect. So you have an iron infusion for it and you're on iron tablets now. OK, perfect. Perfect. And then when was the most recent blood tests for you?
+[2 minutes 29 seconds][Customer] : Yeah, probably about, oh, not long ago. Probably about a month and a half ago.
+[2 minutes 45 seconds][Agent] : OK, perfect. Perfect. And did the doctor tell you that you were within normal limits then?
+[2 minutes 49 seconds][Customer] : Yeah, my bad. Test was fine. So I got a text from them saying that everything looks fine.
+[2 minutes 52 seconds][Agent] : OK, Perfect. Perfect. And do you suffer from current symptoms of anemia such as tiredness, headaches, dizziness, fainting?
+[3 minutes 7 seconds][Customer] : No. Just always tired, No.
+[3 minutes 11 seconds][Agent] : OK, Perfect. Thank you. I'll put that down. No. Perfect. And now that's all the questions for the anemia side of things. Next question is thalassemia yes or no? Thank you. Yeah. So these are just now listing more blood conditions because I said you had a blood condition even though I've already put anemia in.
+[3 minutes 29 seconds][Customer] : No, yeah.
+[3 minutes 37 seconds][Agent] : It's just asking now. Vitamin D deficiency, deep vein thrombosis, DVT, other blood condition, perfect.
+[3 minutes 40 seconds][Customer] : No, no, no, no.
+[3 minutes 49 seconds][Agent] : Then sleep apnea or asthma excluding childhood asthma, Perfect now other than what you've already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Are you waiting for results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Perfect.
+[4 minutes 15 seconds][Customer] : No, OK.
+[4 minutes 18 seconds][Agent] : OK, so now this is where I'm going to put your heart thing because I didn't mention anywhere else because we can only get that 200,000 for you. So I put here slight valve regurgitation in the heart and it was only discovered when she went to the doctor's for being anemic.
+[4 minutes 32 seconds][Customer] : Yeah, that's right.
+[4 minutes 41 seconds][Agent] : And you've already told me that was in September, around September 2023.
+[4 minutes 45 seconds][Customer] : Yeah.
+[4 minutes 49 seconds][Agent] : And when they said they checked that your heart was like an ultrasound they did or what did they do when they checked your heart?
+[4 minutes 56 seconds][Customer] : Yeah, so I had an ACG done and then they sent me up to the hospital, which was fine. Like I had multiple EC GS and they were fine, but my doctor said I'll just refer you to the hospital. So that she referred me and I had a stress test done and that was fine. And I got a report back from the cardiologist and it was fine.
+[5 minutes 15 seconds][Agent] : OK. So how did they know you had the the slight valve regurgitation with that when they did the ECG?
+[5 minutes 13 seconds][Customer] : So yeah. Oh, sorry, that was on that scan. Yeah, so they did say there was slight valve regurgitation. Sorry, that's my bad. And but that's it. Yeah, they didn't say that. Other than that, they were happy with the structure and everything else was fine, so they weren't overly concerned.
+[5 minutes 43 seconds][Agent] : Perfect. OK. So the structure was fine.
+[5 minutes 49 seconds][Customer] : Yeah. So everything was fine. All my, all my, all my changes are fine and everything like that's fine.
+[6 minutes][Agent] : Perfect. OK. OK, thank you. And is there any further investigational treatment planned? If so, when?
+[6 minutes 32 seconds][Customer] : No, there's nothing can do.
+[6 minutes 36 seconds][Agent] : OK. And then please advise that the recovery has been made.
+[6 minutes 40 seconds][Customer] : Yeah, yeah, everything's well. Yeah, fine.
+[6 minutes 44 seconds][Agent] : Whoops. But would you say you still have a slight valve regurgitation?
+[6 minutes 49 seconds][Customer] : Yeah. So you still have it? It's still something that's there, but I don't have any symptoms.
+[6 minutes 47 seconds][Agent] : It's just you're not experiencing any symptoms of of that Perfect, perfect. OK, that's, that's all for you for that. And the next question is other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Thank you. And to the best of your knowledge of any of your immediate family living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adenomatis polyposis. Thank you. And to the best of your knowledge of any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60.
+[7 minutes 26 seconds][Customer] : No, no, no, not quite a 60.
+[8 minutes][Agent] : Perfect, perfect. And the last question is, other than one of events, gift certificates, slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognised airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 metres, cable back diving or any other hazardous activity? OK, but E even in the future is the is the answer still no? Is that correct?
+[8 minutes 23 seconds][Customer] : No, not this year, no, I yeah, I Li I like do TRA I want to travel eventually, but do a little bit of travelling, but just more like holiday travel not but that won't be for at least another few years yet.
+[8 minutes 45 seconds][Agent] : OK.
+[8 minutes 43 seconds][Customer] : So and then I do like mountaineering and but I haven't been out for years, so that's not something will be happening soon either.
+[8 minutes 45 seconds][Agent] : Yeah, OK.
+[8 minutes 53 seconds][Customer] : So yeah, yeah.
+[8 minutes 56 seconds][Agent] : Yes, yeah, that's OK. So other than one off events, gifts, certificate slash vouchers, do you engage in or intend to engage in any of those activities at this stage?
+[9 minutes 6 seconds][Customer] : No, no.
+[9 minutes 7 seconds][Agent] : OK, perfect, perfect. OK. Now what I'm going to do is I want to make sure that did you mention some things to me in the previous conversation we had? I just want to make sure I put everything in the into the application correctly. Yeah. So you mentioned about the heart thing that it runs in the family. You when you answered that question, you you said not before age 60. So I just want to confirm the the thing that runs in the family for the heart condition that was was after age 60, is that correct?
+[9 minutes 20 seconds][Customer] : Yeah, yeah, yeah, yeah. For my son, for my family.
+[9 minutes 41 seconds][Agent] : OK, perfect, perfect. OK.
+[9 minutes 39 seconds][Customer] : Yeah, yeah.
+[9 minutes 42 seconds][Agent] : Now for the the questions that you answered about the hearts that I put in the application last time and we came up with the result, I'm just going to quickly put all those answers in. Basically, I typed out your answers just today about those questions that I asked you, but I'm going to put these additional responses that you gave me about the heart because they're going to ask what were your answers to these questions?
+[9 minutes 49 seconds][Customer] : Yeah, Yeah.
+[10 minutes 14 seconds][Agent] : OK, so the answer for this question was have you been admitted to hospital as an impatient because of a heart attack or heart failure? You answered that as a no.
+[10 minutes 24 seconds][Customer] : No, yeah, that's correct.
+[10 minutes 24 seconds][Agent] : Yeah, yeah. And then the next one after that was, is your condition limited to a heart memory only, which is also no.
+[10 minutes 36 seconds][Customer] : No, that's correct.
+[10 minutes 40 seconds][Agent] : And then it was, is it pericarditis? And then the answer was no. OK, perfect. Yeah, Thank you. So I just wanna make sure I put those in because it might be something that sometimes with these applications, if you, if I don't put enough information in, they'll come back to me and say, oh, can you ask these further questions? So I just wanted to make sure I get everything in there for you.
+[11 minutes 2 seconds][Customer] : Yeah, yeah, yeah.
+[11 minutes 4 seconds][Agent] : And now what I'm and I officially your patience, Renee answering, answering these, these questions again. And I have an outcome for you about what's happening with your, with your answers today.
+[11 minutes 5 seconds][Customer] : That's OK.
+[11 minutes 18 seconds][Agent] : So now in reference to your health and lifestyle answers, the application needs to be referred to the underwriter for assessment. OK? So that's regarding the anemia as well as the the slight valve regurgitation.
+[11 minutes 25 seconds][Customer] : Yeah, Yeah, that's fine. No, that's cool. That's perfect.
+[11 minutes 30 seconds][Agent] : OK OK perfect. Now if approved this policy will cover you for deaths due to any cause except suicide in the 1st 13 months.
+[11 minutes 41 seconds][Customer] : OK. Yeah.
+[11 minutes 41 seconds][Agent] : OK now there is a terminally ill advanced payment included in the cover. If you were diagnosed with 12 months or less to live by a medical practitioner we will pay your claim in full.
+[11 minutes 54 seconds][Customer] : OK.
+[11 minutes 55 seconds][Agent] : OK. Now with regards to the price, the the outcome, so the price has remained the same for the 200,000. So it's still $16.86 per fortnight.
+[11 minutes 56 seconds][Customer] : Yeah, yeah, that would be amazing.
+[12 minutes 8 seconds][Agent] : OK, perfect. So yes, I know you wanted that 200,000. So it's good to see that we can still try and get that for you. What we'll do as well for you, Renee, is I'll let you know that please be aware that your premium is stepped, which means it will generally increase each year.
+[12 minutes 9 seconds][Customer] : Yeah, yeah, yeah.
+[12 minutes 24 seconds][Agent] : In addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. You can opt out of this indexation each year.
+[12 minutes 37 seconds][Customer] : OK. Yeah. Thank you.
+[12 minutes 37 seconds][Agent] : OK, you're welcome. You're welcome. Now I'll let you know. The next step now is to send your application through for the underwriters to assess.
+[12 minutes 46 seconds][Customer] : OK.
+[12 minutes 46 seconds][Agent] : What this means is that you're able to pop down your preferred payment method and preferred payment date and if you are approved with no changes to what we've discussed today, then we can get you covered, OK? And we'll send out all the policy documents to you to you to review, OK?
+[12 minutes 52 seconds][Customer] : Yeah, OK. Yeah.
+[13 minutes 3 seconds][Agent] : Now this policy, it also gives you a 30 day cooling off. So if you decide this policy is not suitable for you and cancel within the 30 days, then you'll receive a full refund of your premium and that's a claim has been made. OK. Now I will let you know that the commencement of your cover will be subject to final assessment by the insurer if the insurer approves cover without any changes to what we've discussed today. Are you happy for me to record the acceptance of this policy now? And we will send out all your policy information to your e-mail and postal address.
+[13 minutes 17 seconds][Customer] : Yeah, yeah, that's fine.
+[13 minutes 40 seconds][Agent] : Perfect, perfect. Now with regards to that, you can choose when you'd like that first payment day, OK, But the cover will start once we hear back from from them as as long as there's been no change to the policy.
+[13 minutes 49 seconds][Customer] : Yeah, OK.
+[13 minutes 56 seconds][Agent] : OK, now when would you like the first payment to be? And then it'd be every fortnight on that day moving forward.
+[13 minutes 57 seconds][Customer] : Yeah, yeah. So probably I can't what to say. Didn't watch that today, Thursday, probably the following Wednesday. So not. Oh, no, hang on. Yeah, not next Wednesday, but the following. I get paid fortnightly.
+[14 minutes 23 seconds][Agent] : OK, perfect.
+[14 minutes 28 seconds][Customer] : Yeah, that's correct. Yeah.
+[14 minutes 24 seconds][Agent] : So, yeah, so Wednesday next week is the 6th, but you wanted the Wednesday after, which is the 13th of November. Perfect. Yeah, we'll do that. Thank you. And I'll also let you know that with this policy, while your application is being assessed, you'll be covered for accidental death, which pays out if death was due to a direct result of an accident. Cover under this last until the insurer makes a decision on your application or 30 days from today, whichever is earlier.
+[14 minutes 53 seconds][Customer] : OK.
+[14 minutes 53 seconds][Agent] : OK, perfect, perfect. So now you're able to to have this cover set up with either your Visa or your MasterCard, or you can choose your bank account number.
+[14 minutes 54 seconds][Customer] : Yeah, OK.
+[15 minutes 3 seconds][Agent] : What would you prefer to set up the payments with?
+[15 minutes 7 seconds][Customer] : I'll just do it with card now 'cause I'm out and about and Wi-fi's not service out here.
+[15 minutes 17 seconds][Agent] : OK.
+[15 minutes 12 seconds][Customer] : So if I just do it with my card, then I can can I UPDA, can I update that if I wanna change it to bank account?
+[15 minutes 21 seconds][Agent] : Yes, yes.
+[15 minutes 22 seconds][Customer] : Yeah.
+[15 minutes 21 seconds][Agent] : So later on, if you decide you'd like to change it to your bank account number, you would just call us and we would update that for you. And even if your card expires as well, you can call us and tell us you'd like to change it to your new card.
+[15 minutes 29 seconds][Customer] : OK, OK, perfect.
+[15 minutes 35 seconds][Agent] : But yeah, whatever you like. But I'll let you know once I've got that loaded up for you to put your card details in. What I would need to do is I'm gonna make sure that the call recording is paused because that's what we do. Once we've umm, we've umm, we are reading. Oh, we are listening to you read out your card number. We make sure Y the call recording is paused. So I'll let you know once that has happened. I'll be 1 moment. I'll just put you on a brief hold. OK.
+[15 minutes 55 seconds][Customer] : Yeah, no worries. Thanks.
+[16 minutes 1 seconds][Agent] : Thank you. Thank you. Thank you very much for holding. So before, before I get the card details, I mean, can I just grab your home address so I can add that to your profile here, please?
+[16 minutes 22 seconds][Customer] : Yep. Sure. 281 Cambridge Rd.
+[16 minutes 24 seconds][Agent] : Yeah, yeah. Is that Gilcrest?
+[16 minutes 27 seconds][Customer] : and Hillcrest Hamilton.
+[16 minutes 34 seconds][Agent] : Thank you. Is that also where you get your mail sent to?
+[16 minutes 33 seconds][Customer] : Yeah, yeah.
+[16 minutes 38 seconds][Agent] : Thank you. And then your e-mail I've got here is STON yer64@gmail.com.
+[16 minutes 44 seconds][Customer] : That is correct.
+[16 minutes 46 seconds][Agent] : Perfect, perfect. OK. Now I'll let you know now that for security purposes while obtaining your card details, your call recording will stop and we'll recommend after we have collected your detail. And please be advised that the call recording has now assumed for quality and monitoring purposes. So I'm going to read that declaration for you, OK? And what that means is once I've submitted at the end, if there's no changes whatsoever, once the application comes back to me, I'll, I'll accept it for you. But if there are any changes or if they need any questions I will. I will get in touch with you.
+[17 minutes 57 seconds][Customer] : Yep, perfect. No worries.
+[17 minutes 57 seconds][Agent] : OK, thank you. So that reads. Thank you. Renee Stonier, it is important you understand the following information. I will ask you to agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice life insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and NZ Limited, whom I refer to as GFS to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice provided to you is limited to assisting you to make a decision about whether they are about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to ask them any advice you provide. Can you please confirm that you understand and agreed to this yes or no? Thank you. Your answer to the application questions and any related documents On the basis of your contract of insurance and any equal lines upon the information you have provided when assessing your application, I need to remind you the duty of disclosure that you agreed to. Can you please confirm you've answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[19 minutes 6 seconds][Customer] : Yes, yes.
+[19 minutes 28 seconds][Agent] : Thank you. By agreeing to this declaration you can send to be contacted by us in relation to other products and services. You can opt out of this at any time by contacting us. They accept this cover pays a lump sum benefit amount of Renee Sonia receives $200,000 in the event of life insurance and if it is not paid in the event of suicide in the 1st 13 months of the policy. Your total premium for the first year of cover is $16.86 per fortnight. Your premium is debt which means it will be calculated by each policy anniversary and will generally increase as your age. Your summary sure, it will also increase automatically by 5% each year and you can opt out of this. Included in your premiums and the amount payable. The GFS are between 24% and 71% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. A investors rated Pinnacle, The B plus financial strength good and triple B minus issue a credit rating with an outlook of stable. You can read more about these ratings on our website in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, will also be emailed. To today, you should carefully consider these documents to to ensure the product which you need. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid to be refunded in full unless you have lodged a claim. Now there's only two questions for you. The first question is do you understand and agree the declaration yes or no?
+[20 minutes 48 seconds][Customer] : Yes.
+[20 minutes 49 seconds][Agent] : Thank you. And the last question is, would you like any other information now or would you like me to read any part of the policy document to you, Yes or no?
+[20 minutes 57 seconds][Customer] : No, that's fine.
+[20 minutes 59 seconds][Agent] : Perfect, perfect. So I'll accept that declaration for you and I'll, I'll let them know that we've submitted that. So hopefully they can do it for you today. And then what will happen there is the e-mail will arrive shortly after we, we've accepted it. But if there are any changes, if they need any further information, I will just call you. And that might be today, but might be tomorrow as well.
+[21 minutes 23 seconds][Customer] : OK. No, that's fine.
+[21 minutes 25 seconds][Agent] : Perfect. Well, it was a pleasure speaking with you, Renee. And hopefully I don't have to call you again. But it was a it was a pleasure. And I have a great safe. Safe.
+[21 minutes 34 seconds][Customer] : OK. Thank you very much.
+[21 minutes 35 seconds][Agent] : You're welcome. Thank you. Thank you. Bye. Bye.
+[21 minutes 37 seconds][Customer] : Bye.
+[21 minutes 39 seconds][Agent] : Bye.

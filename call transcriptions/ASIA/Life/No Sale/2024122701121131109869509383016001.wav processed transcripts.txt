@@ -1,0 +1,43 @@
+[3 seconds][Agent] : Hi Vanoshe, it's Seda. I'm calling from Australian Seniors. How you doing today?
+[7 seconds][Customer] : From where?
+[8 seconds][Agent] : Australian Seniors? Sure, how you doing today?
+[10 seconds][Customer] : Yes, yeah. OK dear. Not bad.
+[16 seconds][Agent] : OK, so I'm just following up on a call in regards to an enquiry you made into life insurance. So if I can assist you further today, can you please confirm your full name and your date of birth?
+[28 seconds][Customer] : I vanished from the Bitian. 12th June 1949.
+[32 seconds][Agent] : Great, thank you for this information. Please note all our calls are recorded. Any advice I provided is generally in nature may not be suitable to the situation. Can I confirm that you are a female Australian resident?
+[44 seconds][Customer] : Yes, I am.
+[45 seconds][Agent] : OK perfect. Thank you so much for this. Now I am just calling you Anush. We did send you out a quote on the 26th of December in regards to a life insurance application you inquired for. Were you able to take a look at your quotes?
+[1 minutes 2 seconds][Customer] : I didn't get anything.
+[1 minutes 5 seconds][Agent] : Oh, you have not received this?
+[1 minutes 7 seconds][Customer] : No, this is in the mail.
+[1 minutes 10 seconds][Agent] : I can see that this was sent out to you. Sorry, I'm just taking a look at the notes. Yeah, it was sent to you via e-mail.
+[1 minutes 27 seconds][Customer] : Maybe it's better if you send me the post because I'm not really that good in the computer. I'm quite so old. 75 years old.
+[1 minutes 37 seconds][Agent] : Oh, I don't know. Sorry. Yeah, I do apologize. It actually was. The last quote was sent to you was in July 2024.
+[1 minutes 42 seconds][Customer] : No, no, no, no. Oh oh.
+[1 minutes 47 seconds][Agent] : So yeah, we're interested in looking at a new quote.
+[1 minutes 54 seconds][Customer] : Uh, do I check my e-mail?
+[1 minutes 57 seconds][Agent] : Oh, no, no. Were you interested in looking at a new quote today?
+[1 minutes 56 seconds][Customer] : You said yes, yes, yes, yes would be more expensive or I just wanted to know if I can afford it?
+[2 minutes 8 seconds][Agent] : OK, so before I continue, would you like me to just go through the cover with you over the phone explaining the features and benefits we offer?
+[2 minutes 17 seconds][Customer] : Yes.
+[2 minutes 18 seconds][Agent] : OK, perfect. So just so I have been understanding, I'm gonna show aspire you into looking to life insurance. Yeah. So what may I do when I look into life insurance?
+[2 minutes 31 seconds][Customer] : Well, because I don't want any cost goes to my family.
+[2 minutes 36 seconds][Agent] : Yeah, no, sure. Yeah. So that that is what savings life insurance designed to do. It is to provide financial security for your loved ones through a lump sum payment if you were to pass away before your 85th birthday when the policy ends. Now you can choose a cover between $10,000 up to $200,000 and you can nominate up to five beneficiaries to receive the nominated benefit amount that if death is due to an accident, umm, when we should bon, your chosen benefit will triple. And we also include an advance payment of 20% of the benefit amount just to help with food across the other phone expenses of the time. Now it is easy to apply. What we do is we just ask you 8 yes or no questions related to your health over the phone to see if you are approved. If you are receptive and once you commence the policy, you'll be covered immediately for death due to any cause except for suicide in the 1st 13 months. In addition, Ranush, there is a terminally ill advanced payment which is included in the cover. So if you were diagnosed with 24 months or less to leave by a specialised medical practitioner, all we do is we pay out your benefit and that in full just to help you with medical costs to ensure you receive the best care possible while still being alive.
+[3 minutes 51 seconds][Customer] : OK.
+[3 minutes 51 seconds][Agent] : So do you have any questions for me so far?
+[3 minutes 55 seconds][Customer] : Uh huh. No, no, OK. I'd just like to know how much would be costing me if it's $200,000 on after.
+[4 minutes 1 seconds][Agent] : Yeah, OK, sure. So let's go through. Let's go through quite together. I know. So just to begin with, have you had a cigarette in the last 12 months, yes or no?
+[4 minutes 14 seconds][Customer] : Sorry, what's that?
+[4 minutes 16 seconds][Agent] : Have you had a cigarette in the last 12 months, yes or no?
+[4 minutes 18 seconds][Customer] : No, no, over 10 years I haven't heard it.
+[4 minutes 21 seconds][Agent] : Oh, perfect. That's good to hear. This will keep your premium nice and low for you in comparison to somebody that was a smoker. Now keep in mind the level of cover ranges from $10,000 and up to $200,000 and we can look at different amounts until you find the right level of cover. So just to confirm, when she wanted to see the quote for $200,000, is that correct? The cover? OK, perfect. And were you looking to pay this 4 nightly, monthly, or annually?
+[4 minutes 46 seconds][Customer] : Yes, yes, probably monthly.
+[5 minutes][Agent] : Sure. So Vhanush, for $200,000 worth of cover, you were looking at a payment of $859.93 per month.
+[5 minutes 11 seconds][Customer] : Oh yes, I can't afford it. OK, just leave a darling. Sorry.
+[5 minutes 10 seconds][Agent] : So what was your budget? I can bring this amount down to an amount that you'll be able to afford monthly.
+[5 minutes 15 seconds][Customer] : I will not be able to afford it. Not like I wanted 200,000 and and you know, lower. It's not worth it. I'll just leave it darling. That's fine. That's fine. Thank you for your response.
+[5 minutes 36 seconds][Agent] : OK, No, Sure, that's fine. Well, I'll close this for you. So therefore you will not receive any contacts from us. If you do change your mind at a later date, please don't hesitate to contact us back.
+[5 minutes 48 seconds][Customer] : OK. Thank you, sweetheart. Thank you.
+[5 minutes 50 seconds][Agent] : Alright. Sure. Well, thanks for taking my call to them. I know you have a great afternoon.
+[5 minutes 54 seconds][Customer] : Yes, you can. OK, bye.
+[5 minutes 56 seconds][Agent] : Thank you. Bye now.

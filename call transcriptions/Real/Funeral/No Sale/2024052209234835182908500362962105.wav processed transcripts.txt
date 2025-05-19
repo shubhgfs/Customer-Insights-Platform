@@ -1,0 +1,125 @@
+[2 seconds][Agent] : Welcome to Real Insurance. You're speaking with China. How can I help you?
+[7 seconds][Customer] : Hi Jana. It's me my dear. How are you?
+[10 seconds][Agent] : Good. Thank you. How are you today?
+[13 seconds][Customer] : Good, thanks. Policy number is 240298500.
+[26 seconds][Agent] : Perfect. Thank you. And and I've got your policy here. Can you verify your date of birth and your address for me? And just your address, perfect. And your post code for that one.
+[33 seconds][Customer] : Yes, it's the 10th 05/19/58 Unit 10 Two Reed St., Bensale, 3875.
+[56 seconds][Agent] : Thank you. And then we do have your mobile number being the same number you're calling from today, followed by your e-mail. Thank you so much. And then your e-mail address is il.smyth@dcsi.net dot AU. Thank you.
+[1 minutes 5 seconds][Customer] : 0429019845 yes so I wanna change the e-mail and my home address.
+[1 minutes 25 seconds][Agent] : Yeah, perfect. We can do that for you. And I'll just bring out that e-mail so we can update that for you. First, what's your new e-mail address?
+[1 minutes 34 seconds][Customer] : It's Mighty S for Sam, M for Mary, Y for Yankee, T for Tango, H for Hotel, Y for Yankee. 19/19/58 at gmail.com.
+[1 minutes 48 seconds][Agent] : Yes, Smiley 1958 at gmail.com. Thank you. So that was smiley1958@gmail.com for the e-mail.
+[2 minutes 8 seconds][Customer] : That's right.
+[2 minutes 9 seconds][Agent] : Perfect.
+[2 minutes 9 seconds][Customer] : That's right.
+[2 minutes 9 seconds][Agent] : And we'll had that one updated for you now. And I'll go ahead and update your residential address. What's your new address?
+[2 minutes 18 seconds][Customer] : That's 55 right course. All one word.
+[2 minutes 28 seconds][Agent] : Yeah.
+[2 minutes 29 seconds][Customer] : Rd. Bendsdale.
+[2 minutes 35 seconds][Agent] : Bensale And that would be Victoria 3875 as well.
+[2 minutes 40 seconds][Customer] : Yep.
+[2 minutes 41 seconds][Agent] : Perfect. And would that be your postal address?
+[2 minutes 44 seconds][Customer] : Yep.
+[2 minutes 43 seconds][Agent] : Ian, Thank you. So update your address there #55 Racecourse Rd. Bairnsdale, Vic Thank you. And that's all done for you. Was there anything else I can help you with today?
+[2 minutes 53 seconds][Customer] : Yep, that's right, yes. I just want to know how MU well the policy, how much that's worth at the moment and what I'm paying I that's $12.00 a fortnight I think I can't remember.
+[3 minutes 12 seconds][Agent] : OK. We can definitely check that for you. So your payments are currently $33.25 a fortnight and your and your payments are showing that they are all up to date and your next collection due to come out on the 30th of December. Your life yes.
+[3 minutes 28 seconds][Customer] : Yep, yes, yes. So go on, go on.
+[3 minutes 34 seconds][Agent] : So your life benefit amount is $12,000 and then you have ACC Oh Yep. And then you have accidental serious injury option attached to your cover where you're insured for 36,000.
+[3 minutes 43 seconds][Customer] : Yes, right now if I bump that up, say the 40, what would it be worth then?
+[4 minutes][Agent] : OK. So for the for that policy that you have with us, unfortunately we're not able to increase the benefit amount, but you do have the option where you could be eligible to take out a new cover. Bear with me and I'll just bring up those details to check if you meet the eligibility. OK, just bringing up that one bear. Bear with me one moment.
+[4 minutes 17 seconds][Customer] : Yep, thanks all fine.
+[4 minutes 34 seconds][Agent] : Thank you. OK, so put that one there. We have a benefit amount where your policy can actually be increased to a maximum of 15,000, not 40,000, but you can increase it to 15,000. I've actually just double checked that one here, but if you were also wanting to get a top up cover, you do meet the age eligibility to be able to take out a new funeral cover for the additional amount that you want to be insured for.
+[5 minutes 11 seconds][Customer] : Yes. So what's the new channel cover? What? What is that?
+[5 minutes 17 seconds][Agent] : Yeah, I'll bring up some information and just give you a rundown on what the policy for the new funeral cover offers. And we might also be able to give you some quotes over the phone as well.
+[5 minutes 25 seconds][Customer] : So that so that cancels this one, does it?
+[5 minutes 32 seconds][Agent] : No, it would be an additional policy.
+[5 minutes 35 seconds][Customer] : Oh, right.
+[5 minutes 34 seconds][Agent] : So for example, you're. Yeah. So for example, the cover that you have right now, you're insured for 12,000. You can, you can apply to have that one increased up to 15,000.
+[5 minutes 36 seconds][Customer] : Yes, yes, Yep, yes.
+[5 minutes 49 seconds][Agent] : And then you have the option where you can take out another policy for a funeral cover for an additional benefit amount. There's the maximum that we do offer is 15,000 for the new funeral.
+[5 minutes 51 seconds][Customer] : Together, not.
+[6 minutes 6 seconds][Agent] : So altogether it would not be 40,000, it would be 30,000 for both policies together.
+[6 minutes 14 seconds][Customer] : Alright.
+[6 minutes 15 seconds][Agent] : Yeah. So those are some options for you. Yeah. And I can bring up the information about the new funeral cover just to let you know what the benefits are for that policy might place you on a brief hold and might be two minutes or more. Is that OK?
+[6 minutes 14 seconds][Customer] : Yes, yes, yes, yes, yes, yes. That's fine.
+[6 minutes 35 seconds][Agent] : Thank you so much. Thank you.
+[6 minutes 38 seconds][Customer] : Thanks.
+[10 minutes 36 seconds][Agent] : Thank you so much for your patience there and I really do appreciate it.
+[10 minutes 39 seconds][Customer] : No, no, no, that's fine. That's it.
+[10 minutes 41 seconds][Agent] : OK, so I've just, yeah, thank you. So I've just brought up some information here and I'll go through that one for the new funeral cover. So with that new funeral policy, as we mentioned, it would be a top up shows something that's separate to your current life insurance, which means you'll have two policies if you do take out another funeral policy. So this one is where we compared a cash benefit of up to $15,000 to your loved ones and it can be used for the funeral expenses and also any other final expenses like unpaid bills. There is a benefit where death was due to an accident or your chosen benefit, then your chosen benefit will be triple. And if you were to suffer an accidental serious injury before the policy anniversary following your 75th birthday, such as quadriplegia or paraplegia, the benefit amount will also be tripled. And for that funeral cover. There are no medical checks and acceptances guaranteed if you're an Australian resident aged between 18 and 79.
+[11 minutes 55 seconds][Customer] : Yes.
+[11 minutes 54 seconds][Agent] : OK And for the 1st 12 months, if you were to take out this policy, you would be covered for accidental death and accidental serious injury only. So that's for the 1st 12 months. After the first 12 months you will be covered for death due to any cause. In addition, there's a terminal illness benefit, which means after holding your policy for 12 months, if you are diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, then your claim can be paid out in full. OK. And so with that one as well, once you reach the age of 85, the premiums will cease. So the premiums will stop completely and a 25% bonus cover will automatically be applied to your benefit amount at no additional cost to you. And if you don't, yeah, And the funer insurance also provides you with the early cash out option where at any time after you reach 85 years of age, you can choose to end your cover and we will pay you 75% of the funer insurance benefit for the early cash out option. OK. So this is some, yeah. And those are some benefits for the new funeral cover. The premiums are level as well, which means they are not designed to increase as you get older.
+[12 minutes 31 seconds][Customer] : Yes, Alright, alright, OK, alright, OK. Yes, unless yes, so that's the highest on that one.
+[13 minutes 31 seconds][Agent] : Yeah, yeah, yeah.
+[13 minutes 32 seconds][Customer] : So that's $33 one as well, Yes.
+[13 minutes 37 seconds][Agent] : So your CU, your current policy that you're insured for 12,000, you pay $33.25 a fortnight for the $12,000. And did you want me to give you a quote on the new funeral policy as a top cover?
+[13 minutes 56 seconds][Customer] : Yes, I I can the old one, the one on now, on now. I can pop that up to 15 at the most.
+[14 minutes 4 seconds][Agent] : Yes, that's correct. You can, you can increase that one that you're on now up to 15.
+[14 minutes 6 seconds][Customer] : Yeah, yeah, yeah.
+[14 minutes 10 seconds][Agent] : We can start there if you'd like for me to give you a quote just to increase that one.
+[14 minutes 15 seconds][Customer] : I will increase that.
+[14 minutes 18 seconds][Agent] : Yes, perfect.
+[14 minutes 18 seconds][Customer] : I will increase that everyone.
+[14 minutes 18 seconds][Agent] : So I'll, OK, so I'll take you through the process now to do that one. And with the increasing of the benefit amount to 15,000, your accidental serious injury benefit will also increase to $45,000.
+[14 minutes 25 seconds][Customer] : Yes, yes, yes, that's fine.
+[14 minutes 36 seconds][Agent] : Your new fortnightly premium will be $44.84 a fortnight, OK. So I'll just bring up that information and we'll go ahead and increase that benefit for you now. OK. So there's just a couple of questions that I'll ask you, Ian, and some information I'll provide, and then we'll go through the amounts and the declaration with you and then we'll apply that to your cover. So the first thing I just need to ask you is can I confirm that you are still an Australian resident? Yes or no?
+[15 minutes 16 seconds][Customer] : Yes, yes.
+[15 minutes 17 seconds][Agent] : Thank you. And your Silver Life cover Final expenses insurance provides your family members with a cash benefit of up to $15,000 in the event that you pass away. It also can be used not only for funeral expenses but also final expenses like unpaid bills and if death was due to an accident, the benefit amount is tripled. I do need to advise you that there is an exclusion on this policy and that's where for the 1st 12 months you are covered against accidental death. Only after 12 months it covers death due to any cause including an accident and this applies to the increased amount. OK, so that's of course there's no change to what you're already covered for.
+[15 minutes 43 seconds][Customer] : Yes, yes, great.
+[16 minutes 10 seconds][Agent] : It's just for the increased benefit amount.
+[16 minutes 14 seconds][Customer] : That's right.
+[16 minutes 14 seconds][Agent] : And included in your cover is a cash out benefit, which means once the oldest person covered under the policy turns 85, you have the option to cancel your policy and receive a cash out benefit of 50% of the funeral insurance benefit amount for one life insured. You also have a sum insured bonus where once the oldest person covered under the policy turns 90, premiums are no longer payable and you'll also receive a 25% sum insured bonus on the funeral insurance benefit amount at no additional cost to you. And from the age of 90, if you opt to cancel, you'll cover and receive the cash out benefit. It will be 50% of your increased pre owner insurance benefit amount for one life insured. So just go through also the information for your accidental serious injury cover. So that will provide a lump sum payment to help cover costs if you were seriously injured in an accident but did not pass away. Specifically, this option covers quadriplegia, paraplegia, hemiplegia, blindness, deafness, and total, sorry, all total and permanent loss of use of two limbs. OK. And for that one there, I'll just confirm.
+[16 minutes 54 seconds][Customer] : Yes, yes, yes, that's fine.
+[17 minutes 43 seconds][Agent] : So for the $15,000 you will be paying an additional $11.59 a fortnight on top of your current premium which will bring it up to the $44.84 a fortnight and the benefit amount and premium amount will not increase annually. So are you happy for me to increase the silver life cover on your policy? Yes or no?
+[18 minutes 12 seconds][Customer] : Yes.
+[18 minutes 13 seconds][Agent] : Thank you. Perfect. So now we've applied that to your policy Ian and we will send you out some new policy documents reflecting the changes that we've made here.
+[18 minutes 24 seconds][Customer] : Yep.
+[18 minutes 25 seconds][Agent] : OK. And that will be the next premium on the 30th of December will come out for the $44.84.
+[18 minutes 32 seconds][Customer] : Yep. No, that's fine. Yep. Yep.
+[18 minutes 34 seconds][Agent] : OK, Perfect. Thank you. And so that's all done. So we've increased your your policy that you currently have. Are you still interested in getting a quote for the top up or for the new funeral cover as well?
+[18 minutes 48 seconds][Customer] : So the.
+[18 minutes 48 seconds][Agent] : Or is it something you'd like to think about?
+[18 minutes 51 seconds][Customer] : Yeah. So the top. So this one has a pop up. Do they?
+[18 minutes 55 seconds][Agent] : Yes. So it would be a top up cover where it'll be a second policy where you can take out an additional amount.
+[19 minutes][Customer] : Yes, yes, yes, yes. So I can go lower, of course.
+[19 minutes 10 seconds][Agent] : Yeah, absolutely.
+[19 minutes 23 seconds][Customer] : How much for about ache?
+[19 minutes 11 seconds][Agent] : So you with the new funeral cover, we offer benefit amount between 3000 up to 15,000 as the maximum benefit we offer for 8000. Yeah, I'll give you a quote for that one. OK, so for the $8000 for the life benefit, you'll have accidental serious injury cover for 24,000 and the total fortnightly premium will be $26.83 a fortnight.
+[19 minutes 56 seconds][Customer] : Twenty. Yeah, that was 22 for.
+[20 minutes 1 seconds][Agent] : The yeah. So this one, the new fortnightly premium for the top up policy will be $26.83 a fortnight. And your your other cover that you've currently got is the $44.84 a Fortnite.
+[20 minutes 1 seconds][Customer] : Yeah, yeah, yeah.
+[20 minutes 25 seconds][Agent] : Yeah, OK.
+[20 minutes 23 seconds][Customer] : Well, make it the 8th 8000.
+[20 minutes 27 seconds][Agent] : Yeah, perfect. So you're happy to go ahead and set up the new policy for the 8000.
+[20 minutes 32 seconds][Customer] : Yes, Yes I do.
+[20 minutes 32 seconds][Agent] : Was there another benefit in that you'd like for me to quote you on?
+[20 minutes 36 seconds][Customer] : Yeah, we'll do that one. Yeah. Yeah. Thousand for the 20 sheets. Yeah.
+[20 minutes 40 seconds][Agent] : OK, perfect. So what I'll do for you now, Ian, is I'll place you on a brief hold and I'll transfer you through to our sales team.
+[20 minutes 48 seconds][Customer] : Yep.
+[20 minutes 47 seconds][Agent] : They'll be able to set up a new policy for you where they'll go through again all the information of what the policy will cover you for. They'll take your payment details and then set up your payment schedule as well.
+[20 minutes 58 seconds][Customer] : No worries.
+[20 minutes 58 seconds][Agent] : OK, perfect. So thank you so much for your time today. I'll have you transferred through now.
+[21 minutes 4 seconds][Customer] : No wor.
+[21 minutes 3 seconds][Agent] : You may be on hold for two minutes or more. Is that OK?
+[21 minutes 7 seconds][Customer] : No, that's fine. Thank you.
+[21 minutes 8 seconds][Agent] : Perfect. Thank you so much.
+[21 minutes 11 seconds][Customer] : No worries. Thanks for your help.
+[21 minutes 12 seconds][Agent] : You're welcome, ma'am. Thank you.
+[22 minutes 37 seconds][Customer] : Welcome to Real Insurance. My name is Rob.
+[22 minutes 38 seconds][Agent] : Hey, Robert.
+[22 minutes 39 seconds][Customer] : Oh, hey, Shannon. How can I help? I'm good.
+[22 minutes 40 seconds][Agent] : Oh, hey, Ross. I'm good. How are you going today?
+[22 minutes 40 seconds][Customer] : Umm, how are you doing today? Good. Thank you. How are you?
+[22 minutes 45 seconds][Agent] : Yeah, doing good. Thank you.
+[22 minutes 44 seconds][Customer] : Yeah, I'm doing good. Thank you.
+[22 minutes 46 seconds][Agent] : I just got a client on the other line, Ian Smythe.
+[22 minutes 47 seconds][Customer] : I just got a sign on the other line.
+[22 minutes 49 seconds][Agent] : I'll jump out of the lead here for you. So what's happened is he's got a policy with us and he's just increased it to 15,000.
+[22 minutes 49 seconds][Customer] : Yeah, I'll jump out of the lease for you. So what's happening is you've got a policy for that, and you just increased to 10,000.
+[22 minutes 57 seconds][Agent] : He's also wanting to take out another separate policy for a top up of 8K.
+[23 minutes 2 seconds][Customer] : OK. OK. Got you on the line.
+[23 minutes 3 seconds][Agent] : So yes, I've quoted him for the 8000 and he's on the line now. Happy to go ahead and have that set up.
+[23 minutes 3 seconds][Customer] : I'm happy to go ahead and have that set up. All right, Fantastic. Thank you very much.
+[23 minutes 11 seconds][Agent] : Yeah, no probs. Let me know when you're ready and I'll drop him through.
+[23 minutes 14 seconds][Customer] : I am ready.
+[23 minutes 15 seconds][Agent] : Perfect. I'll drop him through in 321.

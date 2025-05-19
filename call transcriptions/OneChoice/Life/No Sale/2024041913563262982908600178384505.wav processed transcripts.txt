@@ -1,0 +1,111 @@
+[21 seconds][Customer] : Hello.
+[21 seconds][Agent] : Hello. Hi there Anthony, it's Christian Aquin from One Choice Insurance. How are you?
+[26 seconds][Customer] : Hey. Nice to be here. Thank you.
+[27 seconds][Agent] : That's good.
+[32 seconds][Customer] : Yep. Yep. OK.
+[29 seconds][Agent] : I was giving you a call in regards to your online enquiry that you made regarding our life insurance and my call was to go through that with you and provide you some more information and answer any questions that you may have.
+[39 seconds][Customer] : Yeah, sure.
+[39 seconds][Agent] : Thank you, I will let you know. All calls are recorded. Any advice to provide is limited to the products we offer and assisting you make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. May I confirm that your full name is Anthony? Full Great. And your date of birth is 19th of the 4th 1962.
+[55 seconds][Customer] : Yep, great.
+[1 minutes 2 seconds][Agent] : Can can I confirm your amount? New Zealand resident. Thank you and thanks for doing your inquiry. What's made you looking for life insurance?
+[1 minutes 6 seconds][Customer] : I am simply because I've got current. I just want I've got current life insurance at the moment but I just wanted to see if I'm paying too much.
+[1 minutes 11 seconds][Agent] : Uh, simply because I'm not current Uh, I just want, but I just wanted to see if umm, I'm paying. OK. Certainly that's great that you see the importance of having it in place. Do you know how much you're currently covered for 350?
+[1 minutes 28 seconds][Customer] : I think it's 360,000 and sixty. Yeah, Yep.
+[1 minutes 32 seconds][Agent] : OK well we can go through some O360 OK, we can look at a quite a similar amount umm and what about the benefits? Do you know what you're covered for under the policy?
+[1 minutes 44 seconds][Customer] : No, no, not, not really. It's it's been a while since I reviewed it.
+[1 minutes 43 seconds][Agent] : No no no, not in a while mm hmm that's OK umm and do you know how much you you're paying? I do OK, but umm, quite a bit. So. OK, so I wanted to see what your senior's worth. Yeah, perfect. And I don't have what I find on hand, but I didn't get it, but rather not. OK Alright Anthony. Well, we can graduate some pricing together. I mean, it is great that obviously you see the importance of having cover. Did you originally take it out because you've got children or a mortgage?
+[1 minutes 55 seconds][Customer] : I do pay annually but it's quite a bit so but I wanted to see what your premiums were and and I don't have what I'm paying on hand but I can't get it but I'd rather not both.
+[2 minutes 26 seconds][Agent] : OK, perfect. With the life insurance as you know it is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away.
+[2 minutes 25 seconds][Customer] : Yep, Yep.
+[2 minutes 38 seconds][Agent] : So with the benefit, it could be used to help health any loans that that you may have like a mortgage. And if you were looking at leaving that money behind for your children, obviously it's an, an opportunity for you to do so basically, if there's, uh, it, it's there to be able to provide you with the Peace of Mind that if something does happen to you, then your family does have that financial security. OK. You're welcome to nominate up to five beneficiaries who will receive the benefit amount and you get the selective percentage for each. And you are, they are able to also request an advanced pad of $10,000 to be able to help out with funeral costs or any immediate expenses that you may have when you pass away.
+[3 minutes 1 seconds][Customer] : OK, OK, OK.
+[3 minutes 19 seconds][Agent] : OK, Simple to apply for cover with us as well. We don't ask you for any medical checks or blood tests or reports. What we do is we take issue health and lifestyle questions that we ask you over the phone. And those questions confirm the eligibility for the cover and also the pricing. OK. But we'll go through a quick quote now, an indicative quote to begin with. Have you had a cigarette in the last 12 months? Good on you. And you are welcome to choose a benefit amount from 100,000 to 500,000. Now I know that you mentioned you look that you have a policy in place that's 360,000. Umm, our increments do go up by 50,000. Sorry.
+[3 minutes 34 seconds][Customer] : OK, No, yeah, yeah, that's why I put 400,000.
+[4 minutes 1 seconds][Agent] : The closest that would be 250,000 or 400,000 400. OK, so $400,000 of coverage, a fortnightly premium of $153.54. OK. And do you want me to leave that as fortnightly or do you want me to change that to monthly or annually for you?
+[4 minutes 26 seconds][Customer] : Monthly would be better with the imaged process.
+[4 minutes 30 seconds][Agent] : What was that? Sorry.
+[4 minutes 31 seconds][Customer] : I mean, yeah, if you could give me the monthly one would be good.
+[4 minutes 37 seconds][Agent] : Yep, the monthly premium is $332.67 and now if you're placing yeah, $332.67.
+[4 minutes 48 seconds][Customer] : OK.
+[4 minutes 48 seconds][Agent] : Now if you're placing an existing policy, it recommends that you do not cancel it. And so you have reviewed this policy in force. That might not be identical to your existing cover. Umm. And with regards to the pricing, how does that compare so far?
+[5 minutes 3 seconds][Customer] : I think it's not too bad actually.
+[5 minutes 5 seconds][Agent] : That's good to hear. So what I'll do for you now is I'll take you. Sure. I hold from my last question so we can confirm your eligibility for the cover and umm, and then I'll be able to discuss your options there and let you know of the information regarding the policy. OK.
+[5 minutes 21 seconds][Customer] : Yep, sure. Yep, post code is 102.3.
+[5 minutes 21 seconds][Agent] : OK, So before I go into this questions with you, Anthony, may I please get your post code for your home address, the suburb that you live in?
+[5 minutes 39 seconds][Customer] : Pardon me.
+[5 minutes 38 seconds][Agent] : Pardon me, The suburb that you live in. OK, great.
+[5 minutes 42 seconds][Customer] : Epson, Oakland in 02/3, 1943 Andrews Rd.
+[5 minutes 47 seconds][Agent] : And your address, so that was 11 194.
+[5 minutes 53 seconds][Customer] : NO194 Saint Andrews Rd.
+[6 minutes][Agent] : Thank you. And is that the same for your postal address?
+[6 minutes 1 seconds][Customer] : No, No. Yes.
+[6 minutes 7 seconds][Agent] : OK, great. I do also have a duty of disclosure to read out to you before I get into this question, and I'll bring up that now. It reads places where all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to ensure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk for insurer. You have this to the end of the time we enter into the contract. If you fail to disclose the matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. Do you understand this, Anthony?
+[7 minutes 21 seconds][Customer] : Yeah, I do.
+[7 minutes 22 seconds][Agent] : Thank you.
+[7 minutes 30 seconds][Customer] : Yep. Sure.
+[7 minutes 25 seconds][Agent] : OK, so most of the questions were required, yes, my answers from you are you see this then or permanent resident of New Zealand or Australia currently residing in New Zealand. Yes or no OK.
+[7 minutes 37 seconds][Customer] : Yes.
+[7 minutes 39 seconds][Agent] : Have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as, but not limited to heart murmur, heart attack and angina? OK?
+[7 minutes 56 seconds][Customer] : Yes, No.
+[8 minutes][Agent] : Based on your response, please answer yes or no for each of the following stroke, yes or no heart condition. Have you been admitted to hospital as an inpatient because of a heart attack or heart failure?
+[8 minutes 10 seconds][Customer] : Yes, yes.
+[8 minutes 21 seconds][Agent] : OK, so I will let you know that based on the information disclosing the application would be unable to, umm, provide you with the cover. Uh, just bear with me one moment. I'll just have a look at it for you.
+[8 minutes 35 seconds][Customer] : Excuse me?
+[8 minutes 37 seconds][Agent] : OK, so, so based on the information disclosed when I, we are unable to offer you cover at this time. So what I can do for you is refer you to ensure a Pinnacle life to complete an online application or I can provide you with information and a quote on our funeral cover product with our funeral insurance. Anthony, there's no questions that we ask you over the phone. So acceptance is guaranteed or we don't ask you these wholesome lifestyle questions. Which would you prefer? Beg your pardon?
+[9 minutes 8 seconds][Customer] : I'm the same big Skitter I've been. You can do it on the phone.
+[9 minutes 11 seconds][Agent] : Uh, thank you. Can we do it on the phone?
+[9 minutes 19 seconds][Customer] : You're saying that you're going to put me through to an application room?
+[9 minutes 17 seconds][Agent] : Can we do what on the phone?
+[9 minutes 29 seconds][Customer] : Yeah, yeah.
+[9 minutes 24 seconds][Agent] : So I can refer you to our insurer, Pinnacle Life to complete an online application or I can provide you with information and a quote on our funeral cover products. But we don't ask you any help from master questions. Which would you prefer?
+[9 minutes 39 seconds][Customer] : Yeah, give me a quote. Thanks. I'm not doing cover.
+[9 minutes 44 seconds][Agent] : I can send you a quote. Yeah, definitely. Are you happy for me to go through some information on our funeral insurance now?
+[9 minutes 46 seconds][Customer] : Yeah, sure, sure.
+[9 minutes 52 seconds][Agent] : OK, great. So Anthony, with the funeral insurance, it does work a little bit differently where it provides a cash benefit of up to $30,000 to your loved ones when you pass away. OK. So it can be used not only for your funeral expenses, but also any other final expenses that you may have, like unpaid bills. And if death was due to an accident, your chosen benefit amount will triple. So in addition, if you were to suffer an accident or serious injury before the policy anniversary following a 75th birthday, such as quadriplegia or paraplegia, the benefit amount will also be tripled for you.
+[10 minutes 29 seconds][Customer] : OK.
+[10 minutes 28 seconds][Agent] : And as I mentioned earlier, there are no medical checks so acceptance is guaranteed.
+[10 minutes 34 seconds][Customer] : OK.
+[10 minutes 34 seconds][Agent] : Umm OK so for the 1st 12 months you will be covered for accidental death and accidental serious injury. Only after the first 12 months you will be covered for death due to any cause. In addition, there is a terminal illness benefit, which means after holding a policy for 12 months, if you're first diagnosed with a terminate on it for 12 months, honestly by a medical practitioner, we'll pay your claim in full. So you could use that for medical cost treatment. It's up to you how you'd like to use that money.
+[11 minutes 6 seconds][Customer] : Thank you.
+[11 minutes 6 seconds][Agent] : Now, the level of cover does range from 3000 to 30,000. What amount would you like me to quote you on?
+[11 minutes 13 seconds][Customer] : Quite new on the highest physical.
+[11 minutes 15 seconds][Agent] : 30,000 of course, yes.
+[11 minutes 17 seconds][Customer] : Yeah, yeah.
+[11 minutes 18 seconds][Agent] : So $30,000 of funeral cover is a fortnightly premium of $83.27 and the accidental series in your component triples to $90,000. How does that sound for you?
+[11 minutes 31 seconds][Customer] : OK. It sounds good.
+[11 minutes 33 seconds][Agent] : Great. Now once you reach the age of 85, your premium premiums will cease.
+[11 minutes 42 seconds][Customer] : Yeah.
+[11 minutes 38 seconds][Agent] : OK, so the policy will still remain in place for you, but you won't actually have to pay your premium anymore once you reach that age? Yeah, it is good. And the 25% bonus cover will automatically be applied to your benefit amount. All right. Now our funeral insurance policy also does provide you with an early cash out option. So anytime after you reach 85 years of age, you may choose to enter cover and we'll pay you 75% of the funeral insurance benefit.
+[12 minutes 9 seconds][Customer] : OK.
+[12 minutes 10 seconds][Agent] : OK. And your premium is a level, which means the designs not increase as you get older. So you know what you're paying each for that.
+[12 minutes 17 seconds][Customer] : OK.
+[12 minutes 18 seconds][Agent] : All right, So can I please confirm, can I please confirm you understand the cover we're setting up today is for no cover and that you are happy to proceed. Umm, I don't want.
+[12 minutes 29 seconds][Customer] : I don't want to proceed just yet.
+[12 minutes 32 seconds][Agent] : I just want to.
+[12 minutes 32 seconds][Customer] : I just want to actually understand the cost of it and then I can need to go through the session with you.
+[12 minutes 39 seconds][Agent] : Yeah, of course, certainly. That's totally fine. I can give you that time to obviously discuss that with your wife.
+[12 minutes 46 seconds][Customer] : Yep.
+[12 minutes 45 seconds][Agent] : Alternatively, if you are happy to proceed, I can go through a little bit more information with you and be able to send out your post documentation for you to review. What would you like to do?
+[12 minutes 54 seconds][Customer] : Yeah, just send me the docu. Well, yeah, just let me review it with your wife first. If you have any other information that you need to send, send me if you could send it to me so I can actually review that with my wife as well. Yeah. Just like, do you have brochures on this as well?
+[13 minutes 13 seconds][Agent] : Yeah, we've got a policy document. You're welcome to access it online. Otherwise I will send you over this quote anyway.
+[13 minutes 17 seconds][Customer] : OK, OK.
+[13 minutes 19 seconds][Agent] : Umm, and then you can access the policy document from the quote.
+[13 minutes 24 seconds][Customer] : OK. Alright. Well, yeah, that's great. That'd be great. Yeah.
+[13 minutes 25 seconds][Agent] : OK, I OK, perfect. I do have your e-mail address is near.nz@outlook.com, is that right?
+[13 minutes 33 seconds][Customer] : Yeah, that's right.
+[13 minutes 35 seconds][Agent] : OK, perfect. I'll send you over some information on our funeral insurance and the quote that we've discussed. And then what I will do is give you a call back once you've had some time to discuss that with your wife.
+[13 minutes 48 seconds][Customer] : Yep.
+[13 minutes 49 seconds][Agent] : I know that you mentioned that you've got life insurance in place at the moment. Do you have funeral insurance?
+[13 minutes 56 seconds][Customer] : Do you, I don't think it's N no, I don't have the insurance but to say, but obviously if I did pass, it gets paid out anyway. You know, I guess that's part of it, I guess.
+[14 minutes 10 seconds][Agent] : Yeah, uh, is the life insurance, you mentioned that you're not sure exactly what you're covered for under the policy with the life insurance.
+[14 minutes 17 seconds][Customer] : Yeah. I need to have a look at that as well, comparing and have a look at it in conjunction what you have in terms of funeral cover. Yeah, yeah.
+[14 minutes 19 seconds][Agent] : Yeah, yeah, yeah, yeah, of course, when you are welcome to obviously look in and compare, umm, just keeping your mind that, you know, the benefits may be different, umm, and you're also welcome to look at having both in place as well. OK, umm, so I'll send that over to you as an e-mail and what I'll do is schedule a call back for you once you've had some time to be able to compare. Umm, happy to give you a call back on Friday, Anthony.
+[14 minutes 39 seconds][Customer] : OK, Yep, I'm quite busy this week actually. Are you able to make it after the weekend? That gives me the weekend to work.
+[14 minutes 52 seconds][Agent] : This week, OK, next week, Sure.
+[15 minutes 1 seconds][Customer] : Yep.
+[15 minutes 1 seconds][Agent] : You have a chance to give you a call back next Monday the 16th.
+[15 minutes 4 seconds][Customer] : Yes. Yes. Yes. Yep.
+[15 minutes 5 seconds][Agent] : Perfect. I'll schedule a call back for you at the same time. All right, Thanks so much, Anthony.
+[15 minutes 9 seconds][Customer] : OK then. Thank you. Thank you.
+[15 minutes 12 seconds][Agent] : Enjoy the rest of your day. Bye.
+[15 minutes 15 seconds][Customer] : Thank you. Bye.

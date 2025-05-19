@@ -1,0 +1,154 @@
+[0 seconds][Agent] : Welcome to your insurance. You're speaking Wendy. How can I help you?
+[3 seconds][Customer] : Hello, Wendy. It's Harry from Support. How are you?
+[6 seconds][Agent] : Oh, hi. How are you?
+[5 seconds][Customer] : Oh, hi, How are you? Not too bad, thank you.
+[9 seconds][Agent] : That's good.
+[9 seconds][Customer] : I've got Maria on the phone.
+[11 seconds][Agent] : Beautiful. How can I help you?
+[12 seconds][Customer] : Maria would like a quote for a joint funeral policy with her husband, and then she might decide that she wants to do a cancel and replace at the end of that.
+[19 seconds][Agent] : OK, OK.
+[25 seconds][Customer] : So I'd say that you're aware of that.
+[27 seconds][Agent] : Yeah.
+[29 seconds][Customer] : Yeah.
+[28 seconds][Agent] : So she currently have cover with us.
+[29 seconds][Customer] : Does she currently have cover with us?
+[32 seconds][Agent] : OK, perfect. All right.
+[31 seconds][Customer] : She currently has loss.
+[34 seconds][Agent] : And just quickly jump in.
+[37 seconds][Customer] : OK, Perfect.
+[43 seconds][Agent] : OK.
+[44 seconds][Customer] : OK, because I can send all the details, but I know you've got to do what you've got to do.
+[47 seconds][Agent] : Yes. Thank you so much. Excellent.
+[47 seconds][Customer] : Let me know when you're ready for a warm transfer.
+[51 seconds][Agent] : Beautiful, beautiful. I can't. When you're ready.
+[53 seconds][Customer] : OK, here we go.
+[54 seconds][Agent] : Thank you.
+[57 seconds][Customer] : Thank you, Maria. Maria, I have Wendy on the phone. Wendy will provide the information. All the best. Thank you.
+[1 minutes 2 seconds][Agent] : Thank you, Alex.
+[1 minutes 3 seconds][Customer] : No worries.
+[1 minutes 3 seconds][Agent] : Hi.
+[1 minutes 4 seconds][Customer] : That would thank you. Bye, Wendy.
+[1 minutes 5 seconds][Agent] : Hi Maria, this is Wendy from UMM a very insurance as well. So I'll be here to assist you and guide you along the process for the funeral cover. OK. How's your day been?
+[1 minutes 16 seconds][Customer] : Good. Thank you. Cold.
+[1 minutes 17 seconds][Agent] : That's good to hear. A call. Yes, it is a call these couple of days, isn't that? Yeah, especially at night time.
+[1 minutes 22 seconds][Customer] : Yes, Yes.
+[1 minutes 25 seconds][Agent] : Umm, we'll hope you're all ranked up there. Umm have told me that you wanted to look into a joint funeral cover together with your husband, Is that correct? Sure. Yeah. Mm. Hmm.
+[1 minutes 36 seconds][Customer] : Yeah, just a, a, a brief overview on on what and how much type thing because I realise this the one that I've got my life insurance, it covers my funeral costs and everything, but it doesn't cover my husband, obviously.
+[1 minutes 49 seconds][Agent] : Yes, yes, yes, no problem. So that we can look into and you let me know we know what will work for the both of you. Or if you just simply want the funeral cover for your husband, we can do that as well. Umm, as a single a joint cover, it doesn't make a difference in terms of pricing.
+[2 minutes 7 seconds][Customer] : Alright, Yep.
+[2 minutes 6 seconds][Agent] : OK, umm, beautiful. And I have also confirmed your details there. I just went up to check. I got them umm correctly on my end. Can you please provide me your first name, last name and date of birth? Thank you. Wonderful. And of course, confirm you are a female Australian resident. Is that all correct?
+[2 minutes 18 seconds][Customer] : Maria Edmonds, 12th of the 2nd, 65, that's correct.
+[2 minutes 28 seconds][Agent] : Beautiful. Thank you. And your calls are recorded and your adviser advisory nature may not be suitable to your situation. Umm. And we'll just get you to provide me your address, please. Quickly. Yeah. Yeah.
+[2 minutes 42 seconds][Customer] : 48 Stanford St.
+[2 minutes 44 seconds][Agent] : Umm, tell me, is that spell is PELAW? Yep.
+[2 minutes 44 seconds][Customer] : Balamain, WMAIN. That's correct.
+[2 minutes 52 seconds][Agent] : Thank you. And that's in NSW 2327. Wonderful. And what's the phone number you'd like me to put on your profile? Yep. Yep. Perfect e-mail address. Yep, Yep, Yep.
+[2 minutes 56 seconds][Customer] : Yes, 0401107540 reved54@bigpond.net dot AU.
+[3 minutes 19 seconds][Agent] : Beautiful. Thank you. And with the home address that you've given me as well, that's also the same as your postal address.
+[3 minutes 25 seconds][Customer] : That's correct.
+[3 minutes 26 seconds][Agent] : Beautiful, thank you. Umm, so in the rate in terms of the umm funeral cover, you get to choose anywhere between $3000 up to $15,000. How much would you like it quite for?
+[3 minutes 40 seconds][Customer] : I'm not sure. I I don't know what ones were.
+[3 minutes 43 seconds][Agent] : Yes, I can give you some ideas.
+[3 minutes 43 seconds][Customer] : So stay around then. Yeah.
+[3 minutes 46 seconds][Agent] : Yeah. Do you want me to start off at the 10th?
+[3 minutes 51 seconds][Customer] : Oh, no.
+[3 minutes 51 seconds][Agent] : Is that what?
+[3 minutes 52 seconds][Customer] : Wherever you want to start, tell me.
+[3 minutes 53 seconds][Agent] : OK, no problem. Look, I'll give you some ideas of how the fee are you looking at like umm Commission service or more burial service for yourself and your husband?
+[4 minutes 3 seconds][Customer] : Cremation.
+[4 minutes 4 seconds][Agent] : Cremation. OK.
+[4 minutes 6 seconds][Customer] : Yeah. Yep.
+[4 minutes 5 seconds][Agent] : So according to the government's money smart website privacy, you know, simply cost somewhere in the region of $4000 for basic cremation up to $15,000 for more detailed burial service. OK. So some of the common costs associated with funeral I have here is if you mentioned cremation service at crematorium, that's about $600.00, OK. Or if you do prefer a cremation service with Chapel service, that will be $1200, OK And any extra service you add on top that will obviously increase the price of your funeral.
+[4 minutes 40 seconds][Customer] : Yep, Yep.
+[4 minutes 39 seconds][Agent] : So such as, you know, flowers, newspaper notice, they're all about $200 each, Death certificates about $66 OK. And then you know, cremation permits for $110, when I said that's roughly the common cost associated with funeral fee.
+[4 minutes 58 seconds][Customer] : OK, look, start, start with the 4000. Thank you.
+[4 minutes 56 seconds][Agent] : All right, umm, does that give you an idea roughly how much you want for yourself there between the 3015 thousand 4000? Sure, let's do that.
+[5 minutes 9 seconds][Customer] : Yeah.
+[5 minutes 10 seconds][Agent] : OK, so this is just a quote for yourself as and then I'll bring up your husband's one as well. So for 4000, you're going to be looking at $11.31 before night. OK, so that's just for you and then I'll add your husband's on. What is your husband's name? Name, Beautiful and same surname. Thank you. And I've also put John down as a male Australian resident, is that correct? Beautiful. Thank you and I'll put down all the details. Husband. Perfect. OK, and also the same level of cover for John.
+[5 minutes 29 seconds][Customer] : John, Yes, yes, yeah, about the same, Don. Thank you.
+[5 minutes 56 seconds][Agent] : Yeah, but the same. Sure, you're welcome. All right, so let's have a quick look at four thousandth and they give John the and just to let you know as well, your chosen, umm, if your death is due to an accident as well, Maria, your chosen benefit now will triple. So that will become $12,000. OK, so it will be 4 * 3 the amount, umm, for John, you'll be looking at $11.77 to fortnight for him.
+[6 minutes 25 seconds][Customer] : Right.
+[6 minutes 24 seconds][Agent] : OK, how are those parts sounding so far?
+[6 minutes 28 seconds][Customer] : Yeah, that sounds good. Yep.
+[6 minutes 30 seconds][Agent] : Sounds good. Perfect.
+[6 minutes 30 seconds][Customer] : So far, yeah.
+[6 minutes 31 seconds][Agent] : Perfect. Yeah, that's really good. I'll run you through the rest of the information there as well. So umm, as mentioned, if your death is due to an accident, such as a car accident, that choice of benefit amount will triple.
+[6 minutes 32 seconds][Customer] : Yep, I have some. I have some triples.
+[6 minutes 43 seconds][Agent] : OK umm for the UMM and it's just how the policy is designed.
+[7 minutes 1 seconds][Customer] : Yep.
+[6 minutes 49 seconds][Agent] : Yes we do provide that benefit there that if it is due to a death issue to an accident as long as this payment by an accident vodka that that will triple OK umm also for the 1st 12 months you will be covered for accidental death and accidental serious injury. I need at the 1st 12 months, you will be covered for death due to any court. Uh, in addition, there is a termly illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less by a medical practitioner and we will pay that claim amount in full to you. I guess you are live, so you get to use that money for whatever you need to. OK, so there's that death benefit and also that living benefit as well.
+[7 minutes 33 seconds][Customer] : Right, Runner. Yeah.
+[7 minutes 37 seconds][Agent] : Umm, Maria, if you do recover, we don't ask you back for the money. You get to keep it as well. OK. Yep.
+[7 minutes 44 seconds][Customer] : Oh, runner.
+[7 minutes 45 seconds][Agent] : In terms of your premium. Yep.
+[7 minutes 46 seconds][Customer] : Well, most, most terminals don't. Can't recover. Yeah. OK. Yeah, exactly.
+[7 minutes 50 seconds][Agent] : Yeah, Well, if there's a miracle and if you do it, then you get to keep that money.
+[7 minutes 56 seconds][Customer] : Yep.
+[7 minutes 55 seconds][Agent] : Yeah, perfect. Umm, so in terms of your premium, they are level, which means they are designed to stay the same as you get older. And when you reach the age of 85, your premium will cease, meaning you have nothing more to pay and your cover will continue for free. OK Umm, Plus you automatically receive a 25% bonus cover that gets applied to that benefit amount as well. OK. Information about premium structures also available on our website there we do also provide you both with a early cash option. So anytime after you reach 85 years of age, you can choose to end your cover and we will pay you 75% of the funeral insurance benefit. So that's optional. So when that day does come and you know you do want to cash it out and you do have the option there. OK.
+[8 minutes 20 seconds][Customer] : Right, right.
+[8 minutes 45 seconds][Agent] : And that's that's that also apply to John as well.
+[8 minutes 49 seconds][Customer] : Right.
+[8 minutes 49 seconds][Agent] : OK, yeah. Lastly, you may pay more in total premiums over the loss of the policy then the benefit amount. Please be away. This insurance does not have a savings or investment element. So if you cancel else after 30 days, your cover will stop and you'll not receive anything back unless you'll let you prefer and choose an early cash back offer. OK.
+[8 minutes 50 seconds][Customer] : Yep, Yep.
+[9 minutes 9 seconds][Agent] : And also have the price of you completed your bill. Yeah, Maria, nice. So what I'll do is I'll send you out a free will kit so that you both can complete. OK? So that's a free gift from us to you, so we can send that out to you. All right.
+[9 minutes 15 seconds][Customer] : No, thank you.
+[9 minutes 26 seconds][Agent] : And also you're welcome. And also just as a way of saying thank you to you, we do have the real reward. So following your first policy and the first 3 days, we will refund you 10% of the paving you're paying in that time. So you're going to get back $60.02 refunded back to you for the both, OK. So is that $60.02 altogether that will be refunded back to you? All right, excellent. Any questions regarding the policy there, Maria?
+[9 minutes 49 seconds][Customer] : OK, Yeah. No, but I'm gonna have to talk to my husband about it, that's all.
+[9 minutes 59 seconds][Agent] : Yeah, that's totally fine. You can definitely do that.
+[10 minutes 1 seconds][Customer] : Yeah, yeah.
+[10 minutes 2 seconds][Agent] : Alternatively, what I can do for you, and you mentioned that John doesn't have the cover in place at the moment. So what we can do is we can still get everything put in place for you today so that you can have the protection. And that allows me to send you out the tailored documentation so that you can sit down, run through everything with John as well. We don't require you to make any payments. You get to choose the first collection day as well. OK, so that you can have the time breathe over everything, make sure it is suitable. We do also give you a 30 day cooling off. So if you decide this policy is not suitable for you then cancel within the 30 days. You will receive a full refund of your premium unless a claim has been made. OK, So you get to choose the first collection day and also, umm, in terms of the level of cover after you spoke with John, if John feels like he doesn't need 4000, he wants a little bit less, you can give us a call apply to have that decrease. Or if he wants a little bit more for the both of you, he applies to have that as a top up subject to legibility as well. So you you do have that flexibility to do that. OK, Sure.
+[11 minutes 7 seconds][Customer] : Look, Wendy, to be honest, I I think I'd rather just speak to him first before putting anything in place, obviously.
+[11 minutes 16 seconds][Agent] : Yep, Yep. Nothing.
+[11 minutes 17 seconds][Customer] : And yeah, because a, as we've been talking, obviously I've been writing everything down.
+[11 minutes 23 seconds][Agent] : Yeah. Perfect, perfect. Perfect.
+[11 minutes 24 seconds][Customer] : That's what I do, yeah.
+[11 minutes 26 seconds][Agent] : Yeah, I'm the same.
+[11 minutes 27 seconds][Customer] : Oh yeah.
+[11 minutes 39 seconds][Agent] : Hmm. Mm. OK, no problem. No problem.
+[11 minutes 29 seconds][Customer] : So look, I will have a chat to him and if I want to stop my life insurance and swap over to this sort of cover, I'm gonna ring us back, OK, alright.
+[11 minutes 43 seconds][Agent] : And for John, John as well, will he be looking at the life insurance or is he going to be? No, just a funeral.
+[11 minutes 44 seconds][Customer] : So no, it'd be it would just be the funeral.
+[11 minutes 51 seconds][Agent] : OK, no problems then.
+[11 minutes 51 seconds][Customer] : Yeah, look, the the the only thing. Do I get a reference number or something for calling or?
+[11 minutes 59 seconds][Agent] : Yes, so I'll send some informations out to you. So what I'm going to do is I'm going to send you a pre activation policy schedule.
+[12 minutes 9 seconds][Customer] : Yep.
+[12 minutes 8 seconds][Agent] : So what does allows you to do Maria, is that if you're happy with the cover that you have the discussion with John, you can sign up online as well. OK, so say it's called pre activation, it might ask you for your Pennsylvania a password that's going to be your birthday.
+[12 minutes 18 seconds][Customer] : OK, Yep, I got it. No, no worries. OK.
+[12 minutes 23 seconds][Agent] : So 12 O 21965 OK then you can just sign up that way and take up the policy OK, umm just yeah and what I'm going to do for you in the meantime as well is I'm going to set a call back just in case you are happy with the cover Umm, we do have any more questions and I can get that we'll set up for you on our next phone call OK, so I can keep your profile open as well. All right, beautiful.
+[12 minutes 48 seconds][Customer] : OK, OK, no worries.
+[12 minutes 52 seconds][Agent] : Umm, when do you think you'll be available? After you speak with, umm, with John? The. That's OK. Sure.
+[12 minutes 57 seconds][Customer] : Look, I'm not sure we'll have a chat and yeah, I've got, I've got a mum that's not well.
+[13 minutes 1 seconds][Agent] : Oh, I totally understand.
+[13 minutes 3 seconds][Customer] : So I wanted to get this. I wanted to get, yeah, I wanted to get this done before I went and seen those.
+[13 minutes 6 seconds][Agent] : Yeah, yeah, yeah, of course.
+[13 minutes 10 seconds][Customer] : Yeah, I'm not sure.
+[13 minutes 11 seconds][Agent] : Do you want me to give you a call next week and give you a few days to think about it as well, then can give you a real time to speak with John?
+[13 minutes 17 seconds][Customer] : Again, that'll be fine.
+[13 minutes 20 seconds][Agent] : Sure.
+[13 minutes 19 seconds][Customer] : That'll be fine.
+[13 minutes 20 seconds][Agent] : Any particular day like for you? Except Monday. Monday is a public holiday.
+[13 minutes 23 seconds][Customer] : No, that. That's all good now. Oh, yeah. Except a public holiday.
+[13 minutes 28 seconds][Agent] : Yeah. Tuesday. Yeah. Any particular time on Tuesday for you, Maria?
+[13 minutes 30 seconds][Customer] : Yeah, that'd that'd be good after 10.
+[13 minutes 37 seconds][Agent] : After 10:00? Yeah, no problem.
+[13 minutes 39 seconds][Customer] : Yeah. Thank you.
+[13 minutes 38 seconds][Agent] : I'll give you a call to say about 12:15 and everything.
+[13 minutes 43 seconds][Customer] : Yeah, that's fine.
+[13 minutes 44 seconds][Agent] : Yeah. And then you can let me know what you and John have decided and if you're happy, I'll get that all set up for you. Umm, or if you do have time, maybe gone through the pre activation policy schedule, you can sign up that way as well. OK. Yeah. Beautiful.
+[13 minutes 57 seconds][Customer] : OK, then, Don, no worries.
+[13 minutes 59 seconds][Agent] : Excellent.
+[13 minutes 59 seconds][Customer] : Look, thank.
+[14 minutes][Agent] : You're very welcome.
+[14 minutes][Customer] : Thank you so much for your time, Wendy.
+[14 minutes 2 seconds][Agent] : That's OK. If you have any questions, just write them all down for me.
+[14 minutes 3 seconds][Customer] : It just puts me, puts the picture there. It just puts the picture a bit clearer in me head, that's all.
+[14 minutes 6 seconds][Agent] : Yeah, of course, of course.
+[14 minutes 10 seconds][Customer] : No worries.
+[14 minutes 9 seconds][Agent] : I'm very happy to help.
+[14 minutes 10 seconds][Customer] : Look, thank you for your time.
+[14 minutes 12 seconds][Agent] : Excellent.
+[14 minutes 12 seconds][Customer] : No worries.
+[14 minutes 12 seconds][Agent] : Well, you have a wonderful day. I'll talk to you next Tuesday. Thank you.
+[14 minutes 16 seconds][Customer] : Thank you so much, Wendy.
+[14 minutes 17 seconds][Agent] : Bye.
+[14 minutes 18 seconds][Customer] : Thank you. Bye.

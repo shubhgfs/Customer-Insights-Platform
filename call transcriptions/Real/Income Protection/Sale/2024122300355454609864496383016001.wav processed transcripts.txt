@@ -1,0 +1,21 @@
+[1 seconds][Agent] : Zachary, thank you so much for holding.
+[3 seconds][Customer] : Yeah, no worries.
+[4 seconds][Agent] : I have Helen on the line, should be able to assist you from here. So Helen Zachary's confirmed name, date of birth and the policy type as well. Thank you, Zachary. Welcome to the support you're speaking with. Helen, can I please have you confirm your e-mail on file?
+[20 seconds][Customer] : It's sarah99@hotmail.com.
+[23 seconds][Agent] : Fantastic. Your contact number 04000777326 and you are at PO Box 396, Kerrang, Victoria 3579.
+[35 seconds][Customer] : Yeah, Yep, that's it.
+[36 seconds][Agent] : Fantastic and how can I help?
+[39 seconds][Customer] : I've had a policy with you guys for a while and it's, I wanted to update it. I was looking into changing the waiting period and the policy amount, the benefit amount.
+[56 seconds][Agent] : Umm, so you wanted to increase?
+[1 minutes][Customer] : Yeah, Yep. Oh, I just, yeah, I was more inquiring to see what the premium would look like if I drop the waiting period and increased the benefit.
+[1 minutes 19 seconds][Agent] : Umm, let me have a look. So with this type of policy, you can't increase, so you wouldn't be able to increase the umm, benefit amount. Umm, but in terms of looking at changing your waiting period, so a reduction can be done, but we just can't increase. But let me just have a look into it for you. OK.
+[1 minutes 58 seconds][Customer] : Yeah, Yep.
+[1 minutes 54 seconds][Agent] : So you're already on a waiting period of 90 days, so you wouldn't be able to go any lower than that.
+[2 minutes 4 seconds][Customer] : So is that the, is that the least you guys do?
+[2 minutes 3 seconds][Agent] : So 90 days would 90 days, yes.
+[2 minutes 13 seconds][Customer] : Yeah. So 30.
+[2 minutes 9 seconds][Agent] : So you've got the option of a 30 day waiting period and a 90 day waiting period you're already at. Yeah, but 30 is obviously that's an increase. And you wouldn't be able to change it on this policy because we no longer have this income protection policy on the market. Umm, something I can suggest to you is that you can, we do have a newer, umm, income protection product out.
+[2 minutes 44 seconds][Customer] : Yeah, Yeah. Yeah. Yeah. Yeah.
+[2 minutes 37 seconds][Agent] : If you wanted to look at applying and taking out a new income protection policy and then canceling this one, if you wanted to do a cancel and replace, is that something that would interest you? All right, So what I'll do for you is I'm gonna place you on a hold and I'm gonna pop you through to our Intel protection department and they'll be able to get that all sorted for you.
+[2 minutes 51 seconds][Customer] : Yeah, Yeah, Yeah. No worries. Thank you.
+[2 minutes 59 seconds][Agent] : OK, Thank you. Please hold. Thank you so much for your patience and I have my colleague Anthony on the line. He'll be able to assist you. Anthony, just confirming I have completed the flight ID on my end. Thank you.

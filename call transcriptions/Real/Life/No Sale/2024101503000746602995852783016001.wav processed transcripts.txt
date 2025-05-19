@@ -1,0 +1,27 @@
+[24 seconds][Agent] : Thank you for waiting. I've got a shooter on the phone that can speak to you now. Go ahead, please. Thank you.
+[29 seconds][Customer] : Thank you.
+[29 seconds][Agent] : Good afternoon, Robert. My name is Ishika with the Real insurance customer support. How are you today?
+[34 seconds][Customer] : Good. Thank you.
+[36 seconds][Agent] : Great. My colleague has already done some ID checks for you. I'm just going to quickly confirm your address, which is 57 Santika St. Woopen 3, Queensland, 4505. Yeah, and mobile is the one you're calling from. Yeah. How can I help you today?
+[48 seconds][Customer] : Yes, yes, I had to use some money for paper them. I think you got expenses for my mum and I, I, my account, my policy's gone into like it's a couple of payments or something. I'm just wondering if it's possible for me to get everything fixed up next Wednesday, please.
+[1 minutes 15 seconds][Agent] : So actually your policy is all up to date, there's no missed payment. There was a missed payment from 3rd of September but which went not fine on the 4th.
+[1 minutes 20 seconds][Customer] : Oh oh.
+[1 minutes 22 seconds][Agent] : So currently your policy is all up to date. So you might have received a letter for from the 3rd of September. You can disregard that. The next payment is actually due tomorrow though, $77.12. Are you fine with that date?
+[1 minutes 36 seconds][Customer] : Oh, I probably won't have it in there by then.
+[1 minutes 40 seconds][Agent] : When would you be able to make that payment? Then we can make an arrangement.
+[1 minutes 44 seconds][Customer] : I'll try and make that next Wednesday.
+[1 minutes 46 seconds][Agent] : All right, let me just quickly have a look. Next Wednesday would be the 23rd.
+[1 minutes 49 seconds][Customer] : Yeah, yeah, yeah.
+[1 minutes 50 seconds][Agent] : So all right, then I'll move that. Give me a second, Robert. Won't be long.
+[1 minutes 57 seconds][Customer] : Thank. Thank you.
+[1 minutes 58 seconds][Agent] : You're welcome. So nothing's coming out tomorrow. I have moved that payment of $77.12 to the 23rd of October and then one of your regular one on the 30th of October.
+[2 minutes 12 seconds][Customer] : OK that'd be nice, thank you.
+[2 minutes 14 seconds][Agent] : You're welcome. Is there anything else I can help you with?
+[2 minutes 17 seconds][Customer] : There is. I just want to enquire about funeral insurance for my mum.
+[2 minutes 24 seconds][Agent] : OK, so for that one, I'll have to transfer you to our sales department. Who can help you with that? What's her date of birth?
+[2 minutes 29 seconds][Customer] : Yep, sorry.
+[2 minutes 32 seconds][Agent] : What's her date of birth?
+[2 minutes 34 seconds][Customer] : Her date of birth is the 21st of the 12th, 1945.
+[2 minutes 41 seconds][Agent] : Mm Hmm. OK, so she's 79. All right. Yeah. So what I'll do, I'll place it on a brief hold. I'll get someone from the sales department, uh, for the funeral insurance. Just stay on the line, please, Robert. OK.
+[2 minutes 49 seconds][Customer] : Yes, thank you.
+[3 minutes][Agent] : You're welcome.

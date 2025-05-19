@@ -1,0 +1,70 @@
+[7 seconds][Customer] : Hello.
+[8 seconds][Agent] : Good afternoon, Jade, My name's Jackson. Just calling from Real Insurance. How you going today?
+[13 seconds][Customer] : Hi. Good. Thank you. How are you?
+[14 seconds][Agent] : Good, thanks for asking. Now the reason for the call is I can see that you've put in an online enquiry regarding our funeral insurance. So I'm just here to run into the cover and any questions you might have and also go through the quotes with you.
+[22 seconds][Customer] : Yeah, OK, great.
+[30 seconds][Agent] : Wonderful. So please do note though, all our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation, but Jade, would I just be able to confirm your full name and date of birth please? Wonderful. Perfect. And you report a female Australian resident, is that correct?
+[41 seconds][Customer] : So it's Jade Brianne Lane, 14th of the 2nd, 1990, yes.
+[50 seconds][Agent] : Perfect. Thanks so much for confirming that. All righty, so while my system is loading, I'll just let you know that our funeral, our real funeral insurance cover provides a cash benefit of up to $15,000 to your loved ones when you pass away. Now it can not only be used for funeral expenses, but also any other final expenses like unpaid bills and as well. I if if the death is due to an accident, your trading benefit amount will also triple in. In addition to this, if you were to suffer an accidental serious injury before the policy anniversary following your 75th birthday, something like quadriplegia or paraplegia, the benefit amount will also be tripled and will be paid out directly to you. So yeah, to support you.
+[1 minutes 32 seconds][Customer] : Well this is so morbid, it's giving me anxiety to be honest. But come on, I said. This is so morbid it's giving me anxiety but OK.
+[1 minutes 36 seconds][Agent] : Sorry, I, I am, I am so sorry if, if any of the terms are, are a bit sensitive for you, but there are no medical checks and acceptance is guaranteed as long as you're an Australian resident aged between 18 and 79. So obviously you fall within that category. So wonderful. And also I, I do need to make you aware. After the first 12 months you will be covered for accidental death and accidental serious injury only. But after the first 12 months you will be covered for death due to any cause. In addition to this, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we'll also pay your claim in full directly to use to support you with medical bills or any other financial hardship that might come up at that time. So the level of cover does range between $3000 all the way up to $15,000 in incre in increments of $500. I can see that the amount you were inquiring about online was $15,000. Is that correct? Or were you wanting me to quote you on a different amount?
+[2 minutes 49 seconds][Customer] : Yes, it's 15,000, but I was actually, I suppose I wanted to find out a few different options because mainly I'd be interested in taking it out for my my dad.
+[3 minutes 3 seconds][Agent] : Right.
+[3 minutes 5 seconds][Customer] : But then I guess I was thinking if you have, you know, what are the options for like a family plan and what that looks like.
+[3 minutes 12 seconds][Agent] : Yeah, sure. So, yeah.
+[3 minutes 12 seconds][Customer] : You know how many people?
+[3 minutes 13 seconds][Agent] : So with our, our cover, we do have the option for a, a joint cover, so you can add an extra person, uh, onto the policy, uh, and, and, and you're noted down as the payer slash purchaser. So, umm, if, if you wanted to, I can umm, yeah, I can see that you have selected joint here, so I can take down the details of your dad and I can also bring up a quote for him as well as yourself, right? Sure, sure, sure.
+[3 minutes 37 seconds][Customer] : Yeah, 'cause I think, you know, my husband and I would defend and so I don't know what I haven't actually spoken in my husband leaving Canada at the moment, so I'm not sure what our plan is for us, but I assume that there's probably something throughout to sense health or something like that. Likely, obvi, obviously he would be covered, but I would assume that he's probably done something for me too. So it's mostly just for my dad that I'd be.
+[3 minutes 58 seconds][Agent] : Yeah, OK, Yeah, N no worries at all.
+[4 minutes 7 seconds][Customer] : Yeah, yeah. So it's mine. Taylor.
+[4 minutes 9 seconds][Agent] : So would I just be able to grab the first name, surname and date of birth of your dad, Marlon Taylor?
+[4 minutes 18 seconds][Customer] : Yeah.
+[4 minutes 19 seconds][Agent] : Yep.
+[4 minutes 20 seconds][Customer] : And he's OON. Sorry.
+[4 minutes 19 seconds][Agent] : Is that just MARLINLON? No worries. Beautiful. And date of birth? Yep.
+[4 minutes 24 seconds][Customer] : Yeah, for the 11th of February 1970.
+[4 minutes 33 seconds][Agent] : Wonderful. And he was, of course, a male Australian resident, Is that correct? Beautiful.
+[4 minutes 38 seconds][Customer] : Yes, and he's Aboriginal actually.
+[4 minutes 43 seconds][Agent] : OK, Wonderful. Wonderful. And copy, copy, copy, all right.
+[5 minutes 8 seconds][Customer] : OK.
+[5 minutes 5 seconds][Agent] : Alrighty, so so sorry it just took a while for that one to to load up but what while it is loading up?
+[5 minutes 17 seconds][Customer] : Mm, hmm.
+[5 minutes 10 seconds][Agent] : I will also let you know that with our cover, once you reach the age of 85, your premiums will cease, so you don't have to pay any further fortnightly payment and a 25% bonus cover will automatically be applied to your benefit amount as well.
+[5 minutes 25 seconds][Customer] : Mm. Hmm.
+[5 minutes 25 seconds][Agent] : So no more premiums to be paid in from the age of 85 up to 100. You do get that extra 25% benefit amount as well if if you you don't want to continue your cover after the age of 85 day. We do also have our early cash out option. So at any time after you reach 85 years of age, you can choose to end your cover and we'll pay you 75% of the funeral insurance benefit.
+[5 minutes 50 seconds][Customer] : Mm. Hmm.
+[5 minutes 50 seconds][Agent] : And this also applies to your partner if you have a joint plan as well. So for the, So what were you wanting me to quote you on $15,000 a mile in as well?
+[6 minutes][Customer] : Yeah, yeah.
+[6 minutes 1 seconds][Agent] : All right, not a problem. I, I am also able to do as many quotes as you like. It's, it's, it's, it's, it's not a hassle at all. So please just let me know if you want me to adjust anything.
+[6 minutes 9 seconds][Customer] : Yep.
+[6 minutes 9 seconds][Agent] : So for yourself your fortnightly premium would come to $20.20 for $15,000 of funeral cover and for Marlin comes to a fortnightly premium of $33.28 for the same for the same benefit amount. I will also let you know that your premiums are level, which means they are not designed to sorry, they, they are designed not to increase as you get older. And we also do have a real reward attached to the policy. So following your first policy anniversary date, we'll also refund you 10% of the premiums that you've paid in that time. So for yourself that would be a total of $53.52 and for Marlin that would be $86.54.
+[6 minutes 59 seconds][Customer] : Wait, what was that for Friday?
+[7 minutes 1 seconds][Agent] : So, so, so that's for the real reward. So after the first year of the Pol AFS, so following your first policy anniversary date, we'll refund you 10% of the premiums that you've paid in that time.
+[7 minutes 14 seconds][Customer] : OK, Yeah, OK.
+[7 minutes 19 seconds][Agent] : So it's death.
+[7 minutes 16 seconds][Customer] : And so does it cover suicide as well in general?
+[7 minutes 20 seconds][Agent] : It's death due to, it's death due to, due to any calls after the first 12 months.
+[7 minutes 25 seconds][Customer] : OK, it's accident. OK.
+[7 minutes 25 seconds][Agent] : In the 1st 12 months, it is just that cover for accidental death and accidental serious injury only. Yeah.
+[7 minutes 27 seconds][Customer] : Yeah, OK, Alright, cool. So do you e-mail me that quote or?
+[7 minutes 38 seconds][Agent] : Yeah, yeah. So I, I, I, I I'm more than happy to to, to e-mail the quote over for you now. N normally what we do is is we get our customers covered immediately over the phone so and and so and it.
+[7 minutes 53 seconds][Customer] : Well, he get he won't get notified or anything like that, right? Because I'm doing it without telling him because he's a bit of a panicer with me, OK. For him or for me? Yep.
+[8 minutes 1 seconds][Agent] : Yeah, yeah no, so, umm, the, all the policy documents would only be sent out to, to the to contact information that that you've provided Umm, So I mean if if you for you so since since you would be uh the payer purchase, so you, you receive all the documentation umm uh, but yeah it, it is also sent out hard copy. So umm, it it, it, it, it would arrive.
+[8 minutes 25 seconds][Customer] : So it's fine. I will not. We can.
+[8 minutes 26 seconds][Agent] : Uh yeah, yeah, yeah, N not a problem Ju, just in case if your your living situation was with him as well, but yeah N not a problem. So yeah, it would only get sent out to your e-mail and your personal address as well.
+[8 minutes 40 seconds][Customer] : Yeah. OK.
+[8 minutes 40 seconds][Agent] : So yeah, sure.
+[8 minutes 41 seconds][Customer] : What I'll do is I'll just get you, if you can, to send me a, a quote to my e-mail and have a follow up on it. I just have to confirm with my mum that she doesn't have anything in place and let her know that I'm going to put that in place.
+[8 minutes 52 seconds][Agent] : Yeah, of course, not a problem.
+[9 minutes 1 seconds][Customer] : Yeah.
+[8 minutes 55 seconds][Agent] : So the e-mail that you have on fileforyouisjustjadebrianne@outlook.com, is that correct?
+[9 minutes 2 seconds][Customer] : Yep, that's right.
+[9 minutes 3 seconds][Agent] : Beautiful, sure. So yes, S so I mean, you're you're actually able to umm it's kind of just treated as a separate policies like anyway, so like you could just ring up and and apply for for each person.
+[9 minutes 3 seconds][Customer] : And another question is if you wanted to add additional people, can you only have two people on your policy or like if you wanted to insure their family, right, get 5 different policies? I think. Yeah.
+[9 minutes 24 seconds][Agent] : Yeah yeah, essentially.
+[9 minutes 26 seconds][Customer] : And so is the is the PR, is the quote likely to be less the younger the person is?
+[9 minutes 25 seconds][Agent] : So, umm, yeah.
+[9 minutes 32 seconds][Customer] : Because I might be. I couldn't if I discuss with my mom, maybe, for example, my sister, he's like 18. Another sister who's 20 and a brother who's 26.
+[9 minutes 32 seconds][Agent] : So it's MMM, yeah. So I mean, the, the main, some of the main factors that go into the premium costs are definitely the, the, the age as well as the gender of the person as well.
+[10 minutes][Customer] : Yeah, yes, in four.
+[9 minutes 59 seconds][Agent] : But those are two of the, yeah, there are there are obviously other factors that that go into it, but yeah, those two things do definitely have an effect on it. So the earlier that you do apply and set up your insurance, your your fortnightly premium will work out to be less, if that makes sense. Oops. So sorry Jade, I think the line might have just cut out. Are you still able to hear me? Hello.

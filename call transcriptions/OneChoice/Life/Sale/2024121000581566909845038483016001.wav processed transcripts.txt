@@ -1,0 +1,161 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hi there, Robbie, it's Theresa calling back from One Choice. How are you?
+[7 seconds][Customer] : Yeah. Good.
+[9 seconds][Agent] : I'm good, thank you. Thanks for asking. I'm giving you a call back as promised in regards to that enquiry that you made for our insurance.
+[8 seconds][Customer] : So yeah.
+[17 seconds][Agent] : Now once again, I just need to do a quick verification and then I can pick up where we left off. But Please note on our calls are recorded, any advice provided is limited to the products we offer and assisting you to make a decision about whether or not it's suitable for your needs. So don't consider the personal circumstances, but could you please confirm just your name and date of birth?
+[41 seconds][Customer] : RJ Brown, 21st of the 2nd 2005.
+[47 seconds][Agent] : Beautiful, thank you. Now the last time I spoke. Have you had a cigarette in the last 12 months?
+[53 seconds][Customer] : I will do this whole question there again.
+[56 seconds][Agent] : Just that one.
+[59 seconds][Customer] : Have I had a seat? What was the question again?
+[1 minutes 2 seconds][Agent] : Have you had a cigarette in the last 12 months?
+[1 minutes][Customer] : Sorry, yes.
+[1 minutes 6 seconds][Agent] : Beautiful. Thank you. So basically I'm just going to pick up where, when they've built in regards to the questions that I have asked you. Have any of your answers changed since we last went through the health and lifestyle application or in the last 30 days?
+[1 minutes 18 seconds][Customer] : No, I don't think so.
+[1 minutes 19 seconds][Agent] : All right, perfect. So pick up where we list both. Have you ever had something solved? Uh, been diagnosed with or treated for or teens to seek medical advice for any of the following, uh, stroke or heart conditions such as, but not limited to palpitations, heart murmur, heart attack and angina. A lung disorder excluding asthma, sleep apnea or pneumonia, cancer or leukemia, excluding skin cancer, anxiety, depression or stress requiring medical treatment or any other mental health disorder?
+[1 minutes 41 seconds][Customer] : No, no, no, not that.
+[2 minutes 6 seconds][Agent] : And have you been diagnosed with a terminal illness, motor neuron disease, any form of dementia, including Alzheimer's disease, or being told by a doctor that you have a condition that will reduce your life expectancy?
+[2 minutes 4 seconds][Customer] : I No, no, no.
+[2 minutes 21 seconds][Agent] : In the last 10 years, have you used the legal drugs, abused prescription medication, or received treatment or counseling for drug or alcohol consumption? OK, now the next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. OK, now what is your exact height please?
+[2 minutes 32 seconds][Customer] : No, I haven't seen the meters.
+[2 minutes 58 seconds][Agent] : I can do centimeters or feet 10 inches.
+[3 minutes 5 seconds][Customer] : I'm currently just using it right now.
+[3 minutes 7 seconds][Agent] : Oh, awesome. Thank you.
+[3 minutes 20 seconds][Customer] : What am I? Oh, no. Between 1700 and 1800. Milli. Centimetres. Centimetres. Oh yeah. Millimetres. Sorry. Yeah.
+[3 minutes 33 seconds][Agent] : 1700 and 1800mm and no, that's OK.
+[3 minutes 41 seconds][Customer] : Millimetres. Yeah.
+[3 minutes 40 seconds][Agent] : And so are you able to measure up to the top of your head because I mean, because that's a a huge range, it's about 10 centimeters.
+[3 minutes 49 seconds][Customer] : OK, help. That's all.
+[3 minutes 51 seconds][Agent] : Alright, thank you.
+[3 minutes 57 seconds][Customer] : Is my heart OK? Is my heart OK?
+[4 minutes 21 seconds][Agent] : None 1770 a 177 centimeters. Thank you so much for doing that. And what is your exact weight? OK, thank you. So 177 centimeters and 120 kilograms.
+[4 minutes 23 seconds][Customer] : 1770 yeah, my exact weight is probably is 120 KGS yeah.
+[4 minutes 50 seconds][Agent] : Alright now have you experienced any unexplained weight loss or more than 7 KGS in the last 12 months? Thank you. Now does your work require you to go underground? Work at heights above 20 meters, dive the depths below 40 meters, use explosives or travel to areas experiencing war or silver line race or work of shore. To the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans for travel or reside outside of New Zealand IE booked or will be booking travel within the next 12 months?
+[4 minutes 58 seconds][Customer] : Nah, Nah, no, no, I don't have any confirmation, no.
+[5 minutes 42 seconds][Agent] : And do you have existing life insurance policies with other life insurance companies? Well, the combined total sum a short of more than 5 million.
+[5 minutes 53 seconds][Customer] : No, I don't.
+[5 minutes 54 seconds][Agent] : Thank you and keep in mind if you do decide to travel, we cover you worldwide 24/7 now.
+[6 minutes][Customer] : OK, Sweet. No, not that I know of. No.
+[6 minutes 1 seconds][Agent] : Have you ever had symptoms or been diagnosed with or treated for or teens to seek medical advice for any of the following diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, mole or cysts, including skin cancer, sunspots, or Melanoma? Have you ever had an abnormal PSA test or an enlarged prostate, Thyroid condition or neurological symptoms such as dizziness or fainting?
+[6 minutes 30 seconds][Customer] : No, No, not that I know of, no.
+[6 minutes 46 seconds][Agent] : Disorder of the stomach, bowel, gallbladder or pancreas. Hepatitis or any disorder of the liver. Epilepsy. Multiple psoriasis, Muscular dystrophy, Parkinson's disease or paralysis? A bladder or urinary tract disorder?
+[6 minutes 51 seconds][Customer] : No, no, no, Nope, no, Nope.
+[7 minutes 12 seconds][Agent] : Kidney disorder, blood disorder or disease, sleep apnea or asthma, excluding childhood asthma.
+[7 minutes 24 seconds][Customer] : I would ask me like when I was younger.
+[7 minutes 27 seconds][Agent] : Yes. So we wouldn't include it for this question. OK, now you're doing great.
+[7 minutes 30 seconds][Customer] : Nah, yeah.
+[7 minutes 34 seconds][Agent] : Five more questions to go in other than what you've already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as, but not limited to any surgeries, X-rays, scans, blood tests, or biopsy? And other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you're currently experiencing within the next two weeks?
+[7 minutes 59 seconds][Customer] : Nah, Nah.
+[8 minutes 13 seconds][Agent] : Now, to the best of your knowledge, have any of your immediate family, so your mother, father, brothers or sisters living or deceased, either been diagnosed with polycystic kidney disease, Huntington's disease, or familial eczematous polyposis?
+[8 minutes 30 seconds][Customer] : Not that I know, whatever that was, to be honest.
+[8 minutes 36 seconds][Agent] : Did you want me to get you a medical definition for any of them?
+[8 minutes 39 seconds][Customer] : Nah, Nah. I really haven't. I can't be anything to me. That's it.
+[8 minutes 45 seconds][Agent] : And that one is to the best of your knowledge. And it's just for your immediate family, too.
+[8 minutes 50 seconds][Customer] : OK.
+[8 minutes 50 seconds][Agent] : Now, to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[9 minutes 4 seconds][Customer] : No, my mum has got cancer at the moment.
+[9 minutes 7 seconds][Agent] : OK. And did she originally get that before she turned 60?
+[9 minutes 12 seconds][Customer] : Yes.
+[9 minutes 13 seconds][Agent] : OK, so that one will answer yes, so that we can include it. So we're going to break it down by the illness and the number of family members. So how many of your immediate family suffered from cancer before age 60? OK.
+[9 minutes 17 seconds][Customer] : OK, probably 2 now. They can remember Mum, my granddad.
+[9 minutes 33 seconds][Agent] : And so your mum and granddad. OK, So for this one, we don't need to include granddad. And so just your mum. All right. And how many of your immediate family suffered from a heart condition and or a stroke before age 60?
+[9 minutes 42 seconds][Customer] : Yeah, yeah, the medium family. That's just like mum, dead brother and sporty rail. OK, no, I'm just just one person from Australia.
+[9 minutes 58 seconds][Agent] : Yeah, before 60.
+[10 minutes 6 seconds][Customer] : Yeah.
+[10 minutes 7 seconds][Agent] : OK. Mom, dad, brother or sister.
+[10 minutes 10 seconds][Customer] : How's my mum?
+[10 minutes 12 seconds][Agent] : So sorry. OK. And now how many of your immediate families suffer from other hereditary disease before age 60?
+[10 minutes 23 seconds][Customer] : It's about that, I think.
+[10 minutes 25 seconds][Agent] : So nobody.
+[10 minutes 27 seconds][Customer] : No, just all lady here.
+[10 minutes 28 seconds][Agent] : Alright, thank you. Now the last question in regards to hazardous pursuits. So other than one or four things, do you engage in or tends to engage in any of the following aviation other than as a fee of paying passenger on a recognized airline, Uh, motor racing, parachuting, mountaineering and sailing, scuba diving deeper than 40 meters, cable Rick diving or any other hazardous activity. OK, beautiful. And that's all the questions completed.
+[10 minutes 58 seconds][Customer] : No, wait, wait.
+[11 minutes 2 seconds][Agent] : Uh, before we check how you did and see if there's any changes, are you happy with the way you've answered all the questions?
+[11 minutes 9 seconds][Customer] : Yes, that I can remember. Yeah.
+[11 minutes 12 seconds][Agent] : Beautiful. Alright. Uh, OK, perfect. Congratulations. Your application has been fully approved. Well done.
+[11 minutes 21 seconds][Customer] : Thank you.
+[11 minutes 21 seconds][Agent] : Now I just need to go. You're welcome. Uh, so I just need to let you know what the final, what that means for the final terms, but I do wanna double check the pricing, uh, just because one of the questions was different.
+[11 minutes 33 seconds][Customer] : OK.
+[11 minutes 33 seconds][Agent] : So basically now that the application part has been approved, it means that this policy can cover you for death to any cause except for suicide in the 1st 13 months. That starts as soon as you accept the declaration to the policy. Umm, so essentially I can have you covered by the end of this phone call. Now, you still have access to that terminally owe advanced payments, and your beneficiaries still have access to that advanced payout of $10,000. The premiums on the cover are stamped, which means it'll generally increase each year. In addition though, the policy comes with an automatic indexation increase, which means each year your benefit amount will increase by 5% and then of course, will come with an associated increase in the premiums. But the good news is you can opt out of their automatic indexation increase each year. Now in terms of price. So this is the one I wanted to check.
+[12 minutes 34 seconds][Customer] : Yep.
+[12 minutes 36 seconds][Agent] : OK, So it has changed and it did come down to the BMI questions I've got in this index. Now for the 300,000, you're looking at $70.69 per fortnight. Is that one still suitable?
+[12 minutes 54 seconds][Customer] : Yeah, yeah, yeah. New way you can go.
+[12 minutes 56 seconds][Agent] : Did you want me to look at something a little bit lower?
+[13 minutes][Customer] : Yeah, that's alright.
+[13 minutes 1 seconds][Agent] : OK, did you want me to look at 2:50 or 200 or something lower than that 250? Let's have a look Now I just need to confirm that you've already answered the questions. 1 moment.
+[13 minutes 7 seconds][Customer] : Maybe like 250B 10 minutes. I'll say here we are. Hello.
+[13 minutes 20 seconds][Agent] : Yes and yes. Pardon.
+[13 minutes 30 seconds][Customer] : Oh, that's all I thought. No, you're right.
+[13 minutes 34 seconds][Agent] : OK. So if we were to bring it down to 250,000, that would bring the price down to 5891 a fortnight that one.
+[13 minutes 44 seconds][Customer] : Yep. There, there. Thank you.
+[13 minutes 45 seconds][Agent] : You're welcome. So now that we've been approved, we've got the price down to something that you like. What I'm doing now is I get you immediately covered over the phone today. You don't pay anything upfront today, but you do choose the date you want the first payment to come out plus all of cash bank account details over the phone so that we can take care of that for you as well. I'll also send out policy documents which will come with a 30 day cooling off. So you'll be covered by us while you're going over everything if you decide it's not suitable or you just change your mind and that's fine. If you cancel it within the 30 days, you'll get a full refund on all the payments you had made anyway, unless the claim has been made and then of course we're paying out the benefit amount.
+[14 minutes 31 seconds][Customer] : Yeah.
+[14 minutes 31 seconds][Agent] : OK. You'll receive 2 copies of the policy, so one bit will be to your e-mail address and the other will be to your home address. Home address within 5 to 10 working days. e-mail address, it should be within the hour. Now you get to choose the dates that the first payment comes out and we generally click payment within the next seven days. What date would you like the first payment to be though?
+[14 minutes 56 seconds][Customer] : Can we make it next seven days? Can we make it a fortnight from this Tuesday? By next fortnight, that next Tuesday? That's right. Yeah. The next fortnight. Yeah, that'll be that.
+[15 minutes 7 seconds][Agent] : So 2 weeks from the Tuesday coming, OK, So city 1st.
+[15 minutes 13 seconds][Customer] : Would that be better? Yeah. Thank you. Yeah. Thank you, Sir.
+[15 minutes 22 seconds][Agent] : So not today, not next Tuesday, but two weeks from there.
+[15 minutes 28 seconds][Customer] : October. Yeah. Just the next fortnight for Monday, 'cause I Yeah, 'cause I I already got paid this. Yeah. So, yeah.
+[15 minutes 37 seconds][Agent] : OK. Do you mean two weeks from today?
+[15 minutes 38 seconds][Customer] : Is that is that the 24th? That's pretty. You'll do that one.
+[15 minutes 41 seconds][Agent] : If you're talking about two weeks from today, then yes, that's 24th That one. OK. Uh, so Tuesday the 24th of December for the first one and every second Tuesday after that.
+[15 minutes 54 seconds][Customer] : Yep.
+[15 minutes 54 seconds][Agent] : Now we can do this through a card. So it can be debit card or credit card or your bank account. Which one would you prefer?
+[16 minutes 2 seconds][Customer] : I'll do a account number.
+[16 minutes 4 seconds][Agent] : OK, Now is the name on your bank account under R Brown, Robbie Brown or something else?
+[16 minutes 3 seconds][Customer] : Yeah, that's something else.
+[16 minutes 11 seconds][Agent] : OK, what was the name on the account?
+[16 minutes 10 seconds][Customer] : It is under Jimmy Coleman. OK. Sorry. No, no, Sorry. Yeah. Yeah, I'm sorry. I didn't understand it. Sorry.
+[16 minutes 21 seconds][Agent] : I'm not allowed to take other people's bank account details from unless of course your name is on that bank account as well, like a joint account?
+[16 minutes 33 seconds][Customer] : Oh no, not yet, but yeah, we can do. I can change it later on.
+[16 minutes 37 seconds][Agent] : Absolutely, yes.
+[16 minutes 38 seconds][Customer] : OK, sweet. No, you're alright. I'll just do the insurance under my 1 then.
+[16 minutes 43 seconds][Agent] : OK And is that one on the Robbie Brown or R Brown or something else?
+[16 minutes 47 seconds][Customer] : Yeah, yeah.
+[16 minutes 50 seconds][Agent] : OK. And the bank account number when you're ready?
+[16 minutes 48 seconds][Customer] : Should be 123095, 005024950.
+[17 minutes][Agent] : Yes, yes, yes. OK, I'll read that back. 123095005024950.
+[17 minutes 20 seconds][Customer] : Great.
+[17 minutes 21 seconds][Agent] : Beautiful. Now we no longer send out the right debit request forms for you to fill out or sign. So instead I'm going to ask you 4 questions over the phone and read you a small paragraph and then we can take care of that for you as well. Just a yes or no for each part. Number one, do you have authority to operate this bank account alone #2 do you need to jointly authorize debits?
+[17 minutes 34 seconds][Customer] : Yeah, Yes, that was it. Sorry.
+[17 minutes 50 seconds][Agent] : Do you need the jointly authorized debits? Pardon.
+[17 minutes 54 seconds][Customer] : No, no, no. Wait. What do you mean by that question? Sorry.
+[18 minutes][Agent] : OK, The other ones, just asking if you have to get a joint authority with anybody else before you can create a direct debit on this account.
+[18 minutes 11 seconds][Customer] : Yes, I do. Yeah.
+[18 minutes 12 seconds][Agent] : OK, who? Who do you have to get authority from?
+[18 minutes 15 seconds][Customer] : I think it might be for my mum. Yeah, I think.
+[18 minutes 18 seconds][Agent] : OK is her name also on the bank account?
+[18 minutes 22 seconds][Customer] : If it's not, then I don't think so. I don't know. Sorry.
+[18 minutes 26 seconds][Agent] : Alright so that's OK.
+[18 minutes 33 seconds][Customer] : Oh, yes, yeah, yeah, yes, yes, I am.
+[18 minutes 27 seconds][Agent] : So with this one its its asking are you allowed to use this bank account by yourself to create a direct debit by yourself or O OK alright with your mom she has authority on the account too.
+[18 minutes 36 seconds][Customer] : Yeah, yeah, no, no, just. I think sometimes if I was to go change an account or something I'd need, I don't think I would do any more overnight. It was when I was a bit younger. I think it was good now.
+[18 minutes 55 seconds][Agent] : OK, I see. All right, so just that one again #2 do you need to jointly authorize debits? All right #3 have you cancelled a direct debit authority for one choice with political life as the initiator in the last nine months on the account that you're providing? And #4 I'll confirm that you're happy to set up with direct debit authority without signing a form.
+[19 minutes 4 seconds][Customer] : Nah, Nah, yes.
+[19 minutes 25 seconds][Agent] : Beautiful. Now I'm gonna read out the paragraph that comes with it. I just need your confirmation at the end. You agree This Authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority you authorize your bank to allow. Pinnacle Life is the initiator for one choice to direct debit this accounts in accordance with these terms and conditions. Yes or no?
+[19 minutes 55 seconds][Customer] : Yes.
+[19 minutes 56 seconds][Agent] : Beautiful. Now one more declaration to go and then I can get all your paperwork sent out to you. No, this one's gonna go over who we are as a company and also does the recap over the some of the features I went over and what your coverage will be if there's also four more questions throughout and we have asked you for your understanding. So tune near the start and toward the end, if at any point you need me to stop and repeat it, please don't hesitate to just tell me to stop right away. We're nearly there. OK. Thank you, Robbie Brown. It is important you understand the following information. We'll ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One Choice Life Insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenspun Financial Services in Z Limited, who am I referred to as GFS, to insure and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals, or considered any other insurer's products or services. We have verified that you understand the cover and that you consider that the premiums are affordable.
+[21 minutes 44 seconds][Customer] : None.
+[21 minutes 36 seconds][Agent] : We will send you a copy of our Financial Advice Disclosure Statement, uh, which seats out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this if or not?
+[21 minutes 52 seconds][Customer] : Yes, I do.
+[21 minutes 54 seconds][Agent] : Thank you. Your answer to the application questions and any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing the application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with the duty of disclosure, Yes or no?
+[21 minutes 53 seconds][Customer] : Yep, Yep.
+[22 minutes 20 seconds][Agent] : Thank you. By agreeing to this declaration, you can seem to be contacted by us in relation to other products and services. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount owed. Robbie Brown receives $250,000 in the event of life insurance for Robbie Brown Life Insurance A1 to UH 125% loading was applied during the application process. A benefit is not paid in the event of suicide and the 1st 13 months of the policy. Your total premium for the first year of cover is $58.91 per fortnight. Your premium is fifth, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will increase automatically by 5% each year and you can opt out of this included in your premium as an amount payable to GFS of between 24% and 71% of each premium. Your premium will be deducted in accordance with the authority you had provided to us. I am Best is right to Pinnacle with AB plus financial strength good and triple B minus issuer credit rating with an outlook of stable. You can read more about these writings on our website and and your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, we'll also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day calling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have launched a claim.
+[24 minutes 4 seconds][Customer] : None.
+[24 minutes 5 seconds][Agent] : OK, two more questions and then I can get all your paperwork sent out. Number one, you understand and agree with that declaration?
+[24 minutes 12 seconds][Customer] : Yeah.
+[24 minutes 13 seconds][Agent] : Thank you #2 would you like any other information right now or would you like me to read any part of the policy document to you right now? OK, beautiful. That's correct.
+[24 minutes 23 seconds][Customer] : No, no, 'cause when you've read out to me, the information would be on the e-mail a sorry, that's all. Yeah.
+[24 minutes 29 seconds][Agent] : So what I read out to you, it won't be in the same format though and it'll be bits and pieces of it in that policy documentation as well.
+[24 minutes 38 seconds][Customer] : Yep. That. That's alright.
+[24 minutes 40 seconds][Agent] : OK, So just for that last question, yes or no? OK, beautiful.
+[24 minutes 44 seconds][Customer] : No, bye.
+[24 minutes 46 seconds][Agent] : Now I will get all that paperwork things out. If you have any questions in the future, just give us a call. But otherwise that is all completed. Congratulations and welcome to the family. Is there anything else that I can do for you today?
+[25 minutes][Customer] : No, it's alright.
+[25 minutes 2 seconds][Agent] : You're welcome. I look to have a very Merry Christmas and a safe New Year.
+[25 minutes 1 seconds][Customer] : Thank you. You too.
+[25 minutes 6 seconds][Agent] : Enjoy the rest of the day.
+[25 minutes 8 seconds][Customer] : See you later.
+[25 minutes 9 seconds][Agent] : Thank you. Bye. Bye.
+[25 minutes 10 seconds][Customer] : Bye. Bye.

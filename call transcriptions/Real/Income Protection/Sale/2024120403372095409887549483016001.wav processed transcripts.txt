@@ -1,0 +1,27 @@
+[1 seconds][Agent] : Thank you for holding the line, uh, for umm, Eric. Umm, so I've got my colleagues about from support team. He's going to help you with the beneficiary for the final expenses today. OK? Umm, thank you. And as you like, I have confirm old ID for, uh, Eric. All, all points have been checked. Umm, so you can take over from here. Thank you, Thank you. Welcome to the customer support department. How are you today?
+[10 seconds][Customer] : All good. Thank you.
+[26 seconds][Agent] : I see. And, uh, yes. So I believe we just wanted to add a beneficiary, is that right?
+[31 seconds][Customer] : That's correct, yes.
+[33 seconds][Agent] : No problem. Alright, just gonna open that up. There we go. OK, I'll just, uh, very quickly read this quick declaration. Now we'll let you know. When it comes to beneficiaries, you could choose from, uh, one to five, uh, so up to five beneficiaries. How many would you like that?
+[54 seconds][Customer] : Just the one.
+[55 seconds][Agent] : Just the one. No problem. Alright, so I'll just read this out quickly. So you as the policy owner of providing an instruction on who to pay the policy benefit to in the event of your death. This nomination will be processed in accordance with the condition set out in your PDS, your product disclosure statement. Can you please confirm that you understand that the information you provided showing correct, basic and you? Whenever you're ready, could I grab the full name of your beneficiary?
+[1 minutes 18 seconds][Customer] : Yes, Deborah. Debra McKeever.
+[1 minutes 33 seconds][Agent] : Mm hmm. Thank you. Alright, so I just wanna confirm the spelling for Debora one more time. So that was DEBORA.
+[1 minutes 28 seconds][Customer] : MCK EE VER Debra.
+[1 minutes 43 seconds][Agent] : Yep.
+[1 minutes 44 seconds][Customer] : Yeah, that's it.
+[1 minutes 45 seconds][Agent] : Wonderful. And uh, what's, uh, Deborah's, uh, date of birth. Thank you. Alright.
+[1 minutes 50 seconds][Customer] : The 19th of the 8th 1966 Wife.
+[1 minutes 58 seconds][Agent] : And their relation to you wife magazine that assuming same address, is that right? And did you want to add a contact number for them?
+[2 minutes 4 seconds][Customer] : Yes, yes, yes is. I should know we're off by heart, but I don't.
+[2 minutes 17 seconds][Agent] : Mm hmm. Yep, Yep. OK, I'll just repeat that back to you just to make sure I got it right. That was 0412 706536.
+[2 minutes 14 seconds][Customer] : It's 0412 706536, correct?
+[2 minutes 34 seconds][Agent] : Amazing. All right. And Yep. So we added her as your sole beneficiary and since she's the sole beneficiary, she would be receiving 100% of the benefit amount, is that correct?
+[2 minutes 32 seconds][Customer] : Yep, that's correct.
+[2 minutes 47 seconds][Agent] : I see. Well, uh, I can confirm your beneficiary has been updated and we'll be sending you a policy schedule to reflect these changes. Where you sure you checked the information is correct? It is also important to contact us should any of the details of your beneficiary change so we can update our records to avoid any unnecessary delay during the claims process when they supply the proof of identity.
+[3 minutes 9 seconds][Customer] : Will do. Thank you so much for your help.
+[3 minutes 8 seconds][Agent] : OK, no problem, happy to help. Did you have any other questions at all? All good.
+[3 minutes 14 seconds][Customer] : No, I've been good. Thank you.
+[3 minutes 17 seconds][Agent] : Well if that was all, I hope you have a great rest of your day.
+[3 minutes 20 seconds][Customer] : You too, man. Thank you.
+[3 minutes 21 seconds][Agent] : Thank you. Bye bye.

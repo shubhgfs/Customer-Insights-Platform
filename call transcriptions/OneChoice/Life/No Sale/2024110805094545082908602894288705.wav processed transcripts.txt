@@ -1,0 +1,135 @@
+[7 seconds][Customer] : Hello, Office speaking.
+[8 seconds][Agent] : Hi, guys, I'm so sorry the the phone line just disconnected there. I'm so sorry there.
+[13 seconds][Customer] : It's OK.
+[13 seconds][Agent] : I've just got just the duty of care again. Is is is he available right now? Beautiful. I've just got to get him to confirm again. What was his first and surname.
+[19 seconds][Customer] : Yes, Alfred, Sure.
+[29 seconds][Agent] : Oh, perfect. So would I be able to get him to confirm these details? I've just got to clarify some details with him just Cos the call it did cut out again.
+[38 seconds][Customer] : Won't be long. He just stop it. It won't be long.
+[42 seconds][Agent] : That's OK.
+[43 seconds][Customer] : Please.
+[44 seconds][Agent] : No, no rush, No rush at all. I do apologize as well for that phone disconnecting.
+[1 minutes 14 seconds][Customer] : Oh, he's here now.
+[1 minutes 16 seconds][Agent] : Beautiful. Hello. Hey again, my name is Abraham from one choice Insurance calling back there. I've just got to give you. Sorry, I've just got to confirm again. What was your first and surname? Yep, an beautiful and Alfred, what was your date of birth?
+[1 minutes 21 seconds][Customer] : Hello, Alfred Kay, 8959.
+[1 minutes 40 seconds][Agent] : Perfect. And Jess again with a yes or no, can I confirm that you are a male New Zealand resident currently residing in New Zealand.
+[1 minutes 46 seconds][Customer] : It's right.
+[1 minutes 48 seconds][Agent] : Beautiful and I'm so sorry, I've just got to get that confirmation. Was that yes or no for that question?
+[1 minutes 54 seconds][Customer] : It's yes.
+[1 minutes 55 seconds][Agent] : Thank you so much Alfred. And I did just want to mention again, please, now all our calls are recorded. Any advice you provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances, Alfred. I know the phone line just disconnected a minute or so ago. I do apologise, but there's been no changes to those questions that we've gone through. That's correct.
+[2 minutes 17 seconds][Customer] : That's right. That's correct.
+[2 minutes 18 seconds][Agent] : Nope, no problem. And with with payment at the amount for you, you just cause the phone line disconnected again. You have you give me the authority to speak on behalf of the the payment for your policy with Ofcur. That's correct.
+[2 minutes 18 seconds][Customer] : Yep, that's right.
+[2 minutes 36 seconds][Agent] : And you give me a 32 speak on behalf of the premiums and arranging that date for that first payment. That's correct.
+[2 minutes 43 seconds][Customer] : That's right.
+[2 minutes 44 seconds][Agent] : No problem at all. Well, that does still come at $278.11 as a fortnightly frequency. What I'm going to do here, Alfred, is I'm going to speak to her in regards to the payment.
+[2 minutes 58 seconds][Customer] : OK. OK.
+[2 minutes 57 seconds][Agent] : But what I've got to do is I've got to read the final declaration to you and get your acceptance of this policy there. But I'm more than OK for you to pass the phone back to her and I can arrange his payment for you.
+[3 minutes 3 seconds][Customer] : Yeah, OK. Yeah, thanks.
+[3 minutes 9 seconds][Agent] : Thank you so much and as well off OK, Thank you so much as well for your patience here. What I've got to confirm is which which day would you like that first one to come out? Beautiful. So next week, the 14th Wednesday for that first payment and then every fortnight from then onwards. And as well, I'm just going to confirm the details that I have here.
+[3 minutes 22 seconds][Customer] : On Wednesday next week, Yeah, Yes, yes, that's right.
+[3 minutes 37 seconds][Agent] : So of occur what I've got to note down is your details which would be your first and surname was that OFAKERR and what was your surname? Sorry. Oh oh Beau. OK beautiful. Arthur was your first name and Kurt was surname. Oh beautiful, lovely. And Arthur what was your date of birth 24/02/19?
+[3 minutes 54 seconds][Customer] : Sure KE double R this is NA yes 24 O 274 yes.
+[4 minutes 12 seconds][Agent] : That was 197424. That was 24. Was it 04 April or February?
+[4 minutes 22 seconds][Customer] : February.
+[4 minutes 23 seconds][Agent] : February 02, OK, 1974. And of course, I've got to ask you, can I confirm that you are a female New Zealand resident currently residing in New Zealand? And what was your home address? 5 S Yep. A Yep.
+[4 minutes 34 seconds][Customer] : Yes, 527 SU seti 2 seti TTA sunny hills a baccaranga.
+[5 minutes 5 seconds][Agent] : Sunny hills. And what was the suburb? Sorry.
+[5 minutes 11 seconds][Customer] : Corona, that's it.
+[5 minutes 12 seconds][Agent] : Oh, Tucker Pachaman D Yep. And how was that one spelled? Sorry. Othaka. Yep.
+[5 minutes 14 seconds][Customer] : Sunny hill, Sunny hill SU double NY hill hills HI double LS.
+[5 minutes 23 seconds][Agent] : Hills Yep, Yep, Yep. And and what was it the other one? Was it pucker runner?
+[5 minutes 31 seconds][Customer] : But it's PAJURANGA.
+[5 minutes 30 seconds][Agent] : Sorry, TA perfect. Thank you so much. And was 5 Susetta. Was that like a street or a Rd.
+[5 minutes 44 seconds][Customer] : St.
+[5 minutes 48 seconds][Agent] : Oh place.
+[5 minutes 45 seconds][Customer] : No, no, no, not the road, it's the place, Yes.
+[5 minutes 49 seconds][Agent] : OK, so 5 Susetta Place in Sunny Hills Pucker Runner and do you know the the the post code for this?
+[5 minutes 58 seconds][Customer] : Can you hold the line for me please? I think it's 201 and double checking it.
+[6 minutes 5 seconds][Agent] : Yeah, no problem at all.
+[6 minutes 35 seconds][Customer] : 2012 yeah.
+[6 minutes 37 seconds][Agent] : 2010 perfect. And the last one I've just gotta record down was what was your phone number? Yep, Yep. 39 perfect. I've got all those details correcting the the profile for you was was Alfred far away from you or was he still next to you?
+[6 minutes 47 seconds][Customer] : 0276110939 Sorry. Can you repeat that again, please?
+[7 minutes 7 seconds][Agent] : Oh, sorry. Was Alfred still next to you or was he a bit far away?
+[7 minutes 10 seconds][Customer] : No, he's here. Yeah.
+[7 minutes 12 seconds][Agent] : OK, 'cause I've just got to confirm his details with him was can I just do that quickly for him? Thank you so much, Alfred.
+[7 minutes 21 seconds][Customer] : Hello. Yeah.
+[7 minutes 22 seconds][Agent] : So I've got I've got here. Do you best prefer as a title Mr. Kerr? As a title, yes, no problem.
+[7 minutes 29 seconds][Customer] : Yes, yes.
+[7 minutes 31 seconds][Agent] : And Alfred was a LFRED and then surname Kerr.
+[7 minutes 38 seconds][Customer] : Excellent. Yeah.
+[7 minutes 39 seconds][Agent] : Beautiful. And what was your home address? 520 Yep. Place perfect. And that one is in. Was that in sunny hills?
+[7 minutes 46 seconds][Customer] : 5 She's she's here place then can you hear me or can you hear me?
+[8 minutes 2 seconds][Agent] : Yes, Sunny hills. No PL. problem. I'm just going to put this on. I'm just going to put this on to the system so that that post code again, was that 2010 as your post code?
+[8 minutes 6 seconds][Customer] : Pennsylvania, OK, yes.
+[8 minutes 18 seconds][Agent] : Perfect. Is it a place in Sunny Hills? And I've just got to ask you, Alfred, is your post code there as well? That's your postal address. Yeah.
+[8 minutes 30 seconds][Customer] : Yeah, yeah, that's possible actually.
+[8 minutes 32 seconds][Agent] : Beautiful as well. Lovely. And Alfred, was this your best friend to contact 0276110939?
+[8 minutes 44 seconds][Customer] : No, that's my number.
+[8 minutes 47 seconds][Agent] : OK. What? What? What was What was your phone number?
+[8 minutes 45 seconds][Customer] : Oh, that's the office number one, 0276110758. The last four number is 0758.
+[9 minutes 1 seconds][Agent] : OK, Alfred does.
+[9 minutes 6 seconds][Customer] : No, he don't.
+[9 minutes 3 seconds][Agent] : By chance does Alfred know this number that he can read to me for like the call record?
+[9 minutes 7 seconds][Customer] : He don't memorise his number.
+[9 minutes 9 seconds][Agent] : OK, that's OK. I I'll just, I'll just note it down. And what was that number again, 027611 5/8. OK. And Alfred, I'll just confirm the numbers here with you.
+[9 minutes 17 seconds][Customer] : 0758, Correct.
+[9 minutes 23 seconds][Agent] : So your phone number was this, correct, Alfred, 0276110758 and then offer curls was 0276110939. That's correct. Yeah. Beautiful, Alfred. And just with your e-mail address, ivegothereoffercur@gmail.com. That's that's right. Alfred.
+[9 minutes 31 seconds][Customer] : Yeah, Yes, yes, Yeah, that's right. Yeah.
+[9 minutes 52 seconds][Agent] : Yeah. Beautiful. Thank you so much. I'm good for you to pass the phone back to offer. We'll go through the payment right now and then I'll read you the declaration in just a moment.
+[10 minutes 1 seconds][Customer] : Thank you.
+[10 minutes 2 seconds][Agent] : Thank you so much as well. Offer. I've selected a day. You mentioned next Wednesday, the 14th of the first payment. Beautiful. Well, I'm selecting that day. We have two ways of setting up this cover. We have both via direct debit, which is through an account number. We also have the option via Visa credit card. How are you wanting to set up this payment today?
+[10 minutes 8 seconds][Customer] : Yes, Visa or the Visa card?
+[10 minutes 30 seconds][Agent] : A Visa card. OK, so I'm gonna select that one for you. Perfect. And you wanted to set this up with a card?
+[10 minutes 41 seconds][Customer] : Yes.
+[10 minutes 40 seconds][Agent] : That's correct, beautiful. For security purposes while obtaining your car details, the call recording will stop and we'll recommence after we have collected your details offer just. The. The. The. None. Terms of that call recording, I did just want to advise again, it says please be advised that the call recording has now resumed for quality monitoring purposes. Also, I know that it says your initials on the name of the card, but I want to just confirm that that is your credit card and you have authorisation to make payments from it. Beautiful. And I'm just at the final stage here. This is where I'll just need Alfred's confirmation for the final declaration and then we get this in place for him. Is he, is he available right now?
+[13 minutes 35 seconds][Customer] : Yes, yeah, yeah.
+[13 minutes 49 seconds][Agent] : Beautiful.
+[14 minutes 1 seconds][Customer] : Sorry, he's coming.
+[14 minutes 2 seconds][Agent] : No problem. No problem. Thank you.
+[14 minutes 14 seconds][Customer] : Hello.
+[14 minutes 15 seconds][Agent] : Hello, Alfred. I'm just at the final stage here for you. It's just the final declaration. It just covers all the key details that you're covered for and it has a couple of yes or no questions with the documents. We're going to send this to your home address. It will take 5 to 10 business days, but on your e-mail, you'll get the electronic copy within 15 minutes time. It says thank you Alfred Ker, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be in force unless you agree to these terms in full. One choice life insurance is issued by Pinnacle Life Insurance Limited whom are referred to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services NZ Limited whom are referred to as GFS to issue and arrange this insurance on it's behalf. GFS is licensed for the Financial Markets Authority to provide a financial service. The advice you have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice you provide just with a yes or no. Can you please confirm that you understand and agree to this? Lovely. Your answer to the application questions and any related documents form the basis of your contract of insurance and technical relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to.
+[15 minutes 48 seconds][Customer] : Yes, yes.
+[16 minutes 4 seconds][Agent] : Can you please confirm you've answered all of our questions in accordance with your duty of disclosure Beautiful by Green to this declaration. You can send to be contacted by us in relation to other products and services. You can update this at any time by contacting us. The accepted cover pays a lump sum benefit amount of Alfred Cur receives $400,000 in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months to the policy. Your total premium for your first year of cover is $278.11 per fortnight. Your premium is stepped which means it will be calculated each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this. Included in your premium is an amount payable to GFS of between 20, 24% and 71% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. AM Best is rated clinical with AB plus financial strength good and triple B minus issue. A credit rating with an outlook is stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. And Alfred, I do appreciate your time to that declaration. I've just got two final questions to ask to get this in place with a yes or no. Do you understand and agree with the declaration? Lovely. And while we're on the phone right now together, would you like any other information now or would you like me to read any part of the policy document to you, Yes or no? Yeah. What would you like me to read back to you? Oh, D, did you want me to repeat that question? Sorry, Alfred.
+[17 minutes 41 seconds][Customer] : Yes, yes, yeah. Thank you.
+[18 minutes 14 seconds][Agent] : Yeah, I'll just repeat this one. This one's asking just while we're on the phone right now together. Would you like any other information now, or would you like me to read any part of the policy document to you? Yes or no?
+[18 minutes 28 seconds][Customer] : No, no.
+[18 minutes 29 seconds][Agent] : No, that's OK. That's OK. As mentioned, those documents are going to be with you very shortly. It'll take 5 to 10 days for the hard copy to come through the post, but on your e-mail, you're going to get the electronic copy within 15 minutes time. But I'll offered an offer. I do want to thank you so much for your time and choosing one choice for your life insurance. Those documents will be with you shortly. Was there anything else I could assist with you today? No problem at all.
+[18 minutes 56 seconds][Customer] : No thank you I I think we'll be not with his insurance.
+[19 minutes 5 seconds][Agent] : D Did you? No, no, I California, I can help you with with your 1.
+[19 minutes 2 seconds][Customer] : This one had if you have time it's to do with my insurance will be possible or do I have the ring day Yes I just wanted to double check again because we move a house in.
+[19 minutes 13 seconds][Agent] : So you've got like with your policy, you wanna speak to someone about your current cover of the documents?
+[19 minutes 24 seconds][Customer] : I've lost track of all of my paperwork and if any chance again, send me again my policy please.
+[19 minutes 30 seconds][Agent] : Yeah, yeah, I'll, I'll help you do that right now together. What I've got to do is I've just got to exit out of this profile and I'll just get you to confirm here. So what was your first and your surname? Lovely. And what was your date of birth?
+[19 minutes 41 seconds][Customer] : Yeah, of 24 February 74.
+[20 minutes 6 seconds][Agent] : Beautiful. And on the home profile for your home address, what would we have as the home address?
+[20 minutes 17 seconds][Customer] : 11011391139 Tamilian Rd. Oh, I thought as good as I can change the address.
+[20 minutes 25 seconds][Agent] : Yeah, that's OK. We, we can, we can change that one for you. What what suburb would that have been in? No problem. And your best friend to contact. Beautiful. And what was your e-mail address?
+[20 minutes 33 seconds][Customer] : Monrozco Auckland 0276110939 iforgetgmail.gov dot NZ.
+[20 minutes 52 seconds][Agent] : OK. And we have two types of policies here. We have both life insurance and funeral insurance. Which one did you have with us both? No problem. So you have, like, a life insurance policy and a funeral insurance policy. OK. What I'll do here? Also, I've just got to reach out to our support team.
+[21 minutes 3 seconds][Customer] : Both, yes, Yeah.
+[21 minutes 16 seconds][Agent] : They're gonna be able to update your home address and then send these documents back to you.
+[21 minutes 22 seconds][Customer] : Yeah.
+[21 minutes 21 seconds][Agent] : I'll just be a moment to see if they're available.
+[21 minutes 24 seconds][Customer] : OK. Thank you.
+[21 minutes 25 seconds][Agent] : Thank you guys.
+[21 minutes 58 seconds][Customer] : Welcome to One Choice Insurance. My name is Robin. Hi, Abraham. How are you?
+[22 minutes 2 seconds][Agent] : Not too bad. How are you going today?
+[22 minutes 4 seconds][Customer] : Good. Thank you. What do you have there for me?
+[22 minutes 8 seconds][Agent] : So I've got offer on the phone. I set up a life insurance policy already with her husband on this phone call. But she after like setting up the policy, she wants to just talk about her.
+[22 minutes 25 seconds][Customer] : Address. Mm hmm.
+[22 minutes 19 seconds][Agent] : She has cover with us as well and she'd just like to have her home address updated to a new address and the documents sent to the new address.
+[22 minutes 28 seconds][Customer] : Documents sent to the new address. Yep.
+[22 minutes 28 seconds][Agent] : I've confirmed her first name, surname, date of birth, home address, phone number, e-mail and full policy type.
+[22 minutes 30 seconds][Customer] : I've confirmed her first name, surname, date of birth, home address, phone number, e-mail, and full policy type.
+[22 minutes 35 seconds][Agent] : She said she has both, but it's only a life insurance policy.
+[22 minutes 36 seconds][Customer] : She said she has both but it's only a life insurance policy. That's alright. I'll I'll reconfirm that with her.
+[22 minutes 42 seconds][Agent] : No problem.
+[22 minutes 43 seconds][Customer] : Did she did she mention the word life or she just said both?
+[22 minutes 46 seconds][Agent] : She said she has both.
+[22 minutes 46 seconds][Customer] : She said she said both. Oh OK, that's alright. I'll Yep, I just wanted to clarify that.
+[22 minutes 55 seconds][Agent] : That's a good.
+[22 minutes 54 seconds][Customer] : Yep, no worries there. So it's. So it's offer or offer. Did you say offer?
+[23 minutes 1 seconds][Agent] : Offer, offer care.
+[23 minutes 2 seconds][Customer] : Offer. Yep, no worries. You can transfer me through. Thank you.
+[23 minutes 5 seconds][Agent] : Thank you so much. I'll drop her in 321.
+[23 minutes 10 seconds][Customer] : Hello. Welcome to one Choice insurance customer support department. My name's Robin. I believe it's offered that I'm.

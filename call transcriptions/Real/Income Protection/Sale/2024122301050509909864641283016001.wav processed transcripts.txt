@@ -1,0 +1,15 @@
+[0 seconds][Agent] : Thanks so much for holding there. I've got Marie on the phone. Marie had done a full ID check. Go ahead. Thank you. Thank you. Thanks very much for your patience. There is mentioned my name is Marie. How are you today?
+[12 seconds][Customer] : I'm good. How are you?
+[13 seconds][Agent] : Pretty good. Thank you. Now I do understand the reason why you've been transferred over to me. I can definitely help you out with that. OK, so please be advised that by changing policies you are commencing a new insurance policy, which means that you will no longer be entitled to any benefits you accrued under your old policy. It is important to keep in mind that any errors or omissions when it com when completing your new application can embark the claim. Waiting periods will apply from your new acceptance state. Do you understand this in wish to proceed?
+[50 seconds][Customer] : Yes.
+[51 seconds][Agent] : Perfect. OK, I'm sorry about this. OK. I'm just waiting for the system. There we go. OK, so your policy end date is the 23rd of December. So after this date you will no longer be covered any you will no longer be covered under policy number 721769929. Can you please confirm that you agree with this declaration and then struck me to cancel your policy.
+[1 minutes 50 seconds][Customer] : Yep, yes, I agree.
+[1 minutes 57 seconds][Agent] : Perfect. Waiting for that to finalize, perfect. That is done. So policy number 721769929 has been cancelled. You are going to be receiving a number of different letters in the post shortly. One will be a welcome document for your brand new income protection and a separate envelope. You'll be receiving confirmation of your old policy being cancelled.
+[2 minutes 32 seconds][Customer] : Yep.
+[2 minutes 34 seconds][Agent] : Perfect. That's all done.
+[2 minutes 37 seconds][Customer] : Alright, no worries. Thank you.
+[2 minutes 38 seconds][Agent] : My pleasure. When you receive those documents, especially the welcome documents for your new policy, kindly just give that a once over. And if you have any further questions any point in time, please don't ever hesitate to give us a call. That's what we're here for.
+[2 minutes 51 seconds][Customer] : OK, thank you.
+[2 minutes 53 seconds][Agent] : My pleasure. Thank you and please enjoy your day.
+[2 minutes 56 seconds][Customer] : Alright, no worries. Thank you.
+[2 minutes 58 seconds][Agent] : My pleasure. Bye bye.

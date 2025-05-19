@@ -1,0 +1,56 @@
+[2 seconds][Agent] : Thank you for calling real insurance. You're speaking with Shanae. How can I help you?
+[7 seconds][Customer] : Yes, good afternoon.
+[11 seconds][Agent] : Yes, please, when you're ready. Thank you so much. Just having a search with that one there. And do you mind confirming full name and date of birth for me?
+[9 seconds][Customer] : You need my policy number first 751869056 Ashland Shapoon 15255.
+[31 seconds][Agent] : Perfect. Thank you so much. And we do have your address here as 5 Surge Place, Doonside 2767.
+[38 seconds][Customer] : That's right. Yes, yes.
+[39 seconds][Agent] : Yeah, we have your e-mail here as Maurice, salon@gmail.com.
+[45 seconds][Customer] : Yeah, that's right.
+[46 seconds][Agent] : Yeah, I can see we have the mobile you're calling from. And we have another mobile here on there of 0404334475.
+[57 seconds][Customer] : That's right.
+[58 seconds][Agent] : Perfect. And you do have the family life cover. What can I help you with today?
+[1 minutes 3 seconds][Customer] : OK, First, umm, there's two questions. First two questions. Do you have, uh, discover?
+[1 minutes 10 seconds][Agent] : I what was it? Desk cover? Is that what you said?
+[1 minutes 14 seconds][Customer] : Yes.
+[1 minutes 15 seconds][Agent] : Yeah. So your policy here covers you suggest due to any course.
+[1 minutes 22 seconds][Customer] : Yeah, but what I'm doing right now, I want to cancel my policy because it's too much money to pay, it's too much special. I can't afford it anymore. What? I'm asking if you have all this secretly.
+[1 minutes 37 seconds][Agent] : Like a funeral cover?
+[1 minutes 38 seconds][Customer] : Yes, Yes.
+[1 minutes 39 seconds][Agent] : Yeah, we definitely do. Would you be interested in speaking to our sales agents about the policy?
+[1 minutes 48 seconds][Customer] : Could you give me an ERP idea?
+[1 minutes 46 seconds][Agent] : And yeah, definitely. What I will do is I will just place you on hold on that and I will transfer your call to our sales team.
+[1 minutes 57 seconds][Customer] : Before you, before you transfer me, I need to stop my policy. I want to cancel my policy.
+[1 minutes 59 seconds][Agent] : Yeah, cancel this one. What would happen, what we could have a look at doing and I'll just have a look here.
+[2 minutes 6 seconds][Customer] : Yeah, Yeah, Thank you.
+[2 minutes 12 seconds][Agent] : That's all right. So we want to cancel the life insurance and they want to replace it with the funeral cover.
+[2 minutes 20 seconds][Customer] : I mean, it depends if it's suitable for me or not. The other one.
+[2 minutes 25 seconds][Agent] : Yeah. OK. You want to firstly see well what I'll do, Alan, I will transfer you to our cancellation team so they can cancel this for you.
+[2 minutes 35 seconds][Customer] : Mm, Hmm. Yes.
+[2 minutes 35 seconds][Agent] : And then if you just let them know that you want to take out or want to know a bit more information about a funeral cover, I will transfer you to the sales agents. OK.
+[2 minutes 45 seconds][Customer] : OK, Alright, OK.
+[2 minutes 45 seconds][Agent] : All right. So I'll just place you on a brief hold and we'll get this one sorted for you first.
+[2 minutes 51 seconds][Customer] : Thank you. Thank you.
+[2 minutes 52 seconds][Agent] : Thanks Alan. Won't be long.
+[2 minutes 54 seconds][Customer] : Alright.
+[4 minutes][Agent] : Oh, hey, you, why are you still here? Are you are you doing a name? I have Alan on the line. She wants to cancel her family life cover and she wants to replace, but she wants to open maybe a funeral cover. So I said to her, look, let's get this one cancelled for you first and then I'll ask the care agent to transfer you to sales. They can go into a bit more detail about this funeral covers that we have.
+[4 minutes 7 seconds][Customer] : My bad, Don't you handle that as well?
+[4 minutes 30 seconds][Agent] : Don't you handle it as well?
+[4 minutes 35 seconds][Customer] : It's a cancel replace.
+[4 minutes 34 seconds][Agent] : No, I know you would be if they set it up, but she's not 100% if she wants to take it, she just wants to know about the cover. So I told her we'll transfer.
+[4 minutes 44 seconds][Customer] : Oh, so she doesn't 100% want to cancel and replace? Uh huh.
+[4 minutes 47 seconds][Agent] : No, no, she wants to cancel this one 100%, but she just wants to speak about the funeral cover. She doesn't want. She might take it out, she might not, but in that case that they do open it up for her, they can just transfer her.
+[5 minutes][Customer] : No, I will. I will do that. Cancel replacement.
+[5 minutes 3 seconds][Agent] : Oh my God, I love you.
+[5 minutes 5 seconds][Customer] : Umm.
+[5 minutes 5 seconds][Agent] : I love you woman and then go home. Let me just finish these notes. I wanted to know if she can cancel stuff funeral advise I'll transfer to care all right, let me get my *** out of here for your all right.
+[5 minutes 27 seconds][Customer] : Did she tell you why she wants to cancel this and get a funeral?
+[5 minutes 23 seconds][Agent] : This service outcome is taking so as and she said it was way too expensive.
+[5 minutes 33 seconds][Customer] : Oh my God.
+[5 minutes 32 seconds][Agent] : I did look at her premiums are about to go to like 600 and something dollars yeah, I have a look at it.
+[5 minutes 41 seconds][Customer] : 1955 OK 67 all right, name, date and birth address, contacts, emails done.
+[5 minutes 39 seconds][Agent] : I just jumped out all been done for you.
+[5 minutes 52 seconds][Customer] : All right, pop her through.
+[5 minutes 54 seconds][Agent] : Thank you. I'll do 1 transfer. Thank you so much for your patience.
+[5 minutes 54 seconds][Customer] : Thank you so much for your patience.
+[6 minutes][Agent] : I have my colleague Regina on the line and she'll be able to assist you further.
+[6 minutes 2 seconds][Customer] : I have my colleague.

@@ -1,0 +1,71 @@
+[1 seconds][Agent] : Welcome to Real insurance. You're speaking with Bash.
+[6 seconds][Customer] : Hi, May I speak to Cooper please?
+[4 seconds][Agent] : How can I help you, Cooper? Let me just see if Cooper's of of Cooper.
+[12 seconds][Customer] : Yes.
+[15 seconds][Agent] : Yeah, Cooper Current doesn't work here anymore. Can I get your name and date of birth?
+[17 seconds][Customer] : Oh, OK, that's fine. I spoke to him, I think it was in December, regarding civil insurance for my mum.
+[22 seconds][Agent] : Yeah, Yeah, no worries. I could definitely help you out with that myself.
+[31 seconds][Customer] : Yeah, go ahead.
+[32 seconds][Agent] : Sorry about that. I'm so this is in regards to your mom. Was going to get your mom's name and date of birth.
+[31 seconds][Customer] : Sorry yes, her name is Katherine. That's Katherine. Surname is Kramer. Kramer.
+[44 seconds][Agent] : Yep thank you and her date of birth.
+[52 seconds][Customer] : Date of birth 13th April 1954.
+[58 seconds][Agent] : Thank you. I wish to get my mom's 00 birth for some reason. Uh yeah, uh, I said you're looking into few insurance for your mother. All right, let's look into that for you.
+[1 minutes 9 seconds][Customer] : Yes, yes, My name is Marita. MARITA.
+[1 minutes 12 seconds][Agent] : Umm, can I get, umm, your name, Marta? And you, will you be paying for this narrator?
+[1 minutes 27 seconds][Customer] : No, it'll be my mum. So I'd like to schedule a callback for Friday when I'm with her. Yeah.
+[1 minutes 33 seconds][Agent] : When you're with her, OK, Does she? OK, no worries. Look what I'll do then. Umm is umm, just let me just place you on a quick hold, Marina. Shouldn't be too long. I just want to double check something. Thank you.
+[1 minutes 49 seconds][Customer] : No worries, no worries.
+[2 minutes 22 seconds][Agent] : Umm, So what we'll do for you, Marita, is umm, I want to do the policy with you. I'm going to tell you what you have, what your mom's covered for, you're not what she's not covered for.
+[2 minutes 32 seconds][Customer] : Yep.
+[2 minutes 32 seconds][Agent] : And then I'll send you a pre activation e-mail where she could activate herself if she likes, or you could activate it for her as well.
+[2 minutes 38 seconds][Customer] : Oh, good.
+[2 minutes 39 seconds][Agent] : Does that sound OK?
+[2 minutes 38 seconds][Customer] : OK, Yes.
+[2 minutes 41 seconds][Agent] : I think that we could do it during the week. Uh, so let's say if you activate it, you know, you, you could always apply the change over the payment details to mother. So it's always that your mother could always do that as well.
+[2 minutes 50 seconds][Customer] : OK, OK.
+[2 minutes 52 seconds][Agent] : She could change over the payment details.
+[2 minutes 54 seconds][Customer] : Yep.
+[2 minutes 54 seconds][Agent] : All right, is that OK? No worries. And is your mother a female Australian resident?
+[2 minutes 56 seconds][Customer] : Yes, yes she is.
+[3 minutes 1 seconds][Agent] : Thank you. So with this policy, umm, we don't look at your health history or health issue or health status. So for the 1st 12 months you'll be covered for accidental death and accidental serious injury only. And then after the first 12 months, you'll be covered for death due to any cause. All right? Now, in addition to the terminal illness benefits. So that means after holding the policy for 12 months, if she was first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we will also pay the claim out to her in full, but not come with what doesn't happen.
+[3 minutes 16 seconds][Customer] : OK, OK. Mm, hmm.
+[3 minutes 33 seconds][Agent] : All right, Umm, does that make sense?
+[3 minutes 36 seconds][Customer] : Yes.
+[3 minutes 35 seconds][Agent] : So far, no worries now, umm. Also, when it comes to the premiums, they are levels. That means they're designed to stay the same as she gets older. And if she reaches the age of 85, she has two options. She could choose to end the cover and we'll pay her 75% of the funeral insurance benefit amount. But as she continues to cover, we'll add 25% on top of the chosen benefit amount and the premium stop, so she doesn't have to pay more premiums and we will still cover. Yeah, she may pay more to the premiums of the life of the policy than the benefit amount. So please be with it. This insurance does not have a savings or investment element. Since your kids is outside the 30 days, a couple will stop, but she will not receive anything back. And you can also find information about our premium shops on our website. So that will make sense so far. Yeah, thank you. Now you can choose cover anywhere between $3000 up to $15,000. Or would you like me to quote you want?
+[4 minutes 19 seconds][Customer] : Yes, would like 15 please.
+[4 minutes 30 seconds][Agent] : So for the $15,000 cover it is $69.79 a fortnight. Is that suitable? No worries. So umm, you could take out the policy for your mother and then change on the payment date if you like. If not I'll send you the pre act.
+[4 minutes 37 seconds][Customer] : OK, Yep, Yep, yes, Yep.
+[4 minutes 49 seconds][Agent] : It's totally up to you what you'd like to do. Yep, no worries.
+[4 minutes 52 seconds][Customer] : If you can send me that pre activation of the offer name, I can do it with her on Friday because she's just been approved for some sentiment payment. So that's why I wanted to put her on it.
+[5 minutes 1 seconds][Agent] : Oh, very nice. Uh, what's the, what's your mom's address?
+[5 minutes 8 seconds][Customer] : Y12, Sorry. Unit 1225 Bradshaw St. Lutwich.
+[5 minutes 14 seconds][Agent] : And that's where she gets all the mail. Umm, my brother. But is it for you would leave her one or your one?
+[5 minutes 16 seconds][Customer] : Yes, I can give you hers. Hold on, I've just got that.
+[5 minutes 23 seconds][Agent] : Yeah, yeah, yeah.
+[5 minutes 28 seconds][Customer] : Her number is 0450 660514.
+[5 minutes 38 seconds][Agent] : And the phone number, that's sorry, that's the mobile number. OK, Now the e-mail address.
+[5 minutes 48 seconds][Customer] : E-mail address willbeputthatundermethatsmkramer975@gmail.com.
+[5 minutes 54 seconds][Agent] : Yep, Yep, thank you. So I've updated all that. Now here's the thing. We can get the policy started for your mother before the Friday if you like. The only, the only reason why I'm saying that is because you don't have to select the payment date as today. You know what I mean? You choose a date in the future where you'd like the first payment to come out on. So she wants to start the policy today she can, or even tomorrow she can, but the the payment that she could choose in the future doesn't have to be on the day. Does that make sense? Umm, and we could do that for her if you like.
+[6 minutes 28 seconds][Customer] : OK, yes, no, I think we'll we'll stick to Friday the 1st. Yep.
+[6 minutes 36 seconds][Agent] : No good.
+[6 minutes 37 seconds][Customer] : Yep.
+[6 minutes 37 seconds][Agent] : No worries, that's all been said. Set. The e-mail address will be for the policy schedule of $15,000 for $69.79 a fortnight. Umm, it will ask for a password. The password is your DA is her date of birth. All right. But yeah, like I said before, she could start the policy if you see. Are you seeing her today?
+[6 minutes 52 seconds][Customer] : OK OK, yeah, I know we live together, but I'll be working from home on Friday, so that wouldn't be easy. Like if you had to talk to her or anything.
+[7 minutes][Agent] : OK, No, no. So. So here's the thing. So like today, if you want tonight she could set up. She could start the policy tonight if she wants.
+[7 minutes 12 seconds][Customer] : OK, Good. Yep.
+[7 minutes 11 seconds][Agent] : Uh yeah, Yeah. So uh yeah, she could just choose a date in the future. It doesn't have to be today. We should block the first payment.
+[7 minutes 20 seconds][Customer] : OK.
+[7 minutes 19 seconds][Agent] : So if it's Friday that she'd like the first payment, she could start the policy today.
+[7 minutes 26 seconds][Customer] : Yep.
+[7 minutes 22 seconds][Agent] : Or just do say that the she'd like the first payment on Friday and then you pull her back your details and then the first payment will come out on Friday, but the policy will start today.
+[7 minutes 31 seconds][Customer] : OK, Good. OK.
+[7 minutes 32 seconds][Agent] : All right.
+[7 minutes 33 seconds][Customer] : Yep.
+[7 minutes 34 seconds][Agent] : Well, good.
+[7 minutes 37 seconds][Customer] : Thank you so much for that.
+[7 minutes 35 seconds][Agent] : So that's all we sent out to you, Marita, that that's all right. I hope you have a lovely day.
+[7 minutes 42 seconds][Customer] : Thank you. You too.
+[7 minutes 43 seconds][Agent] : Take it. Bye. Bye.
+[7 minutes 45 seconds][Customer] : TA. Bye.
+[7 minutes 46 seconds][Agent] : Bye.

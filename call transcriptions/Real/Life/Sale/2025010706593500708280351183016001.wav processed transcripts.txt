@@ -1,0 +1,115 @@
+[2 seconds][Agent] : Welcome to insurance. My name is Joel. How can I help you?
+[6 seconds][Customer] : Yeah, hang on mate, I'm just trying to use for this. I've just applied online for this.
+[5 seconds][Agent] : Oh, sorry, I'm just having a bit of trouble hearing you. Sorry, what we saying?
+[18 seconds][Customer] : I'm I've just applied online for life insurance.
+[21 seconds][Agent] : Oh, OK. Yeah, sure. I got you. Let me see if I can track that down in the system so we're on the same page. Can I please get your first name? Thanks, Lonnie. And just your surname, please? Yep. I think I've got you here. Can you just confirm your date of birth, please? Too easy. Thanks very much. And just to make sure I give you the correct information, how can we help you today?
+[31 seconds][Customer] : I love you LL LO double nie Coleman Coleman 670-7973 See if I can start a lost equality.
+[1 minutes 2 seconds][Agent] : Oh, yeah, sure. No worries. I can help you there. What I'll do, I'll quickly bring up some quotes. I'll just give you a bit of an explanation on how our policy works and what's covered. But yeah, if you have any questions, please feel free to ask. Yeah, I'll just confirm. Lonnie, you are of course a male Australian residents. Greg.
+[1 minutes 16 seconds][Customer] : Yep, Yep.
+[1 minutes 22 seconds][Agent] : Perfect. Thanks very much. And just so I understand the situation, what's made you look at getting life insurance today?
+[1 minutes 30 seconds][Customer] : I'm a I'm a father. OK, Yeah, I just wanna leave something. Yeah. Something there for my children to catch. Something every.
+[1 minutes 32 seconds][Agent] : OK, thank you. I get you. Yeah, that's fair. So just thinking about that just in case sort of what if scenario, that sort of thing. Sure.
+[1 minutes 45 seconds][Customer] : Yep, Yep, Yep.
+[1 minutes 47 seconds][Agent] : Yeah, not a problem at all. Well, thanks for letting me know. Umm, yeah, basically that's pretty much exactly what the life insurance is designed for, just to provide that bit of financial protection for your loved ones to a lump sum payment if you were to pass away.
+[2 minutes][Customer] : Yeah.
+[2 minutes][Agent] : So essentially the idea being is that it's there to give you that bit of Peace of Mind that if anything did happen to yourself, your children or beneficiaries would still have that financial security to fall back on just in case.
+[2 minutes 14 seconds][Customer] : Yep. Yep.
+[2 minutes 14 seconds][Agent] : Yeah, you can nominate up to five people as beneficiaries. So if you had a few people in mind and you'd like to leave money to, you can definitely do that. But at the end of the day, it's completely up to you where the money goes.
+[2 minutes 33 seconds][Customer] : Yep.
+[2 minutes 26 seconds][Agent] : Uh, it's also a worldwide cover, so even if you do travel overseas, you'll still be covered and it also includes an advance payment of 20% of the benefit amount just to up, I'm sorry, 20% of the benefit amount up to a maximum of $20,000 just to help out with funeral costs or any other final expenses when that time comes.
+[2 minutes 48 seconds][Customer] : Yep, Yep.
+[2 minutes 48 seconds][Agent] : Now it does also include a terminally ill advanced payment, which, uh, fingers crossed, hopefully you'll never need to use, but it is there just in case. Now, because we're a direct insurer, the application process is pretty simple. It's basically just a few health and lifestyle questions over the phone. So there's no medical checks or blood tests or anything like that. And the answers to those health and lifestyle questions will determine the final pricing and the terms of the policy. But I'll have a look at some quotes so I can let you know how much it costs. Just have to confirm a couple of details. Firstly, have you had a cigarette in the last 12 months?
+[3 minutes 10 seconds][Customer] : Yep, yes.
+[3 minutes 28 seconds][Agent] : Yeah, that's fine. No problem. Alrighty. So based on your current age, the level of cover that you can choose from starts at $100,000 up to a maximum of 1,000,000. Umm, what amount would you like me to look at first?
+[3 minutes 46 seconds][Customer] : The top one.
+[3 minutes 47 seconds][Agent] : So once, so we'll get the 1,000,000, we can always drop it down if need be.
+[3 minutes 51 seconds][Customer] : Yep, Yep.
+[3 minutes 51 seconds][Agent] : Uh, let's say you're looking at a cover of $1 million for yourself, works out to be a fortnightly premium of $310.10. So it's about $155 a week.
+[4 minutes 1 seconds][Customer] : Yep, Yep.
+[4 minutes 5 seconds][Agent] : And yeah, that would pay $1 million to your family or beneficiaries if you passed away or $1 million to yourself if you were diagnosed terminally ill.
+[4 minutes 17 seconds][Customer] : Yep.
+[4 minutes 18 seconds][Agent] : But, umm, realistically speaking, does that sound like something that would suit your situation or do we look at some other amounts as well?
+[4 minutes 24 seconds][Customer] : Yes, yes, that would be.
+[4 minutes 27 seconds][Agent] : That'd be OK. OK, sure.
+[4 minutes 28 seconds][Customer] : Yep.
+[4 minutes 28 seconds][Agent] : Well, I'll leave it at the $1 million for now. Uh, the next step in the process is we like to quickly go through those health and lifestyle questions so that we could let you know if you are eligible or if there'd be any changes to those terms and conditions. Then if you're approved and if you're happy to, I can organize to send you out all the documentation so that you can take some time to read through it in your own time. Just make sure that you're happy with it.
+[4 minutes 40 seconds][Customer] : Yep, yes.
+[4 minutes 51 seconds][Agent] : Umm, yeah, they're pretty much just yes or no questions. I won't take much of your time, but I just wanna make sure I'm doing the right thing by you. Is that all making sense for you so far? Yeah, perfect. OK, I just have to read out a pre underwriting disclosure. So this basically explains why we ask these questions. Which is, is it? Please be aware all our calls are recorded for quality and monitoring purposes.
+[5 minutes 2 seconds][Customer] : Yes, Yep.
+[5 minutes 17 seconds][Agent] : We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us and in the earlier discussions you have had. If you do not take reasonable care, you may breach your duty, and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the term, terms and conditions of your policy. OK, just to confirm, do you understand and agree to your duty? Thanks very much. OK, just one question I have to ask in regards to COVID-19.
+[6 minutes 15 seconds][Customer] : Yep, yes, Yep.
+[6 minutes 24 seconds][Agent] : So it says, have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[6 minutes 34 seconds][Customer] : Alright.
+[6 minutes 35 seconds][Agent] : Perfect. Alrighty, jumping into the questions, first one says are you a citizen or permanent resident of Australia or a citizen of New Zealand currently residing in Australia, Yes or no?
+[6 minutes 47 seconds][Customer] : Who am I? Living in Australia?
+[6 minutes 49 seconds][Agent] : Yeah, perfect. And you are currently residing in Australia at the moment, correct?
+[6 minutes 53 seconds][Customer] : Yes.
+[6 minutes 53 seconds][Agent] : Too easy. The next section is in relation to your medical history. So it says. Have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following #1 stroke or heart conditions such as but not limited to, palpitations, heart murmur, heart attack, and angina? Yes or no?
+[7 minutes 18 seconds][Customer] : No, no, no, no.
+[7 minutes 17 seconds][Agent] : I'm sorry, No, perfect #2 any lung disorder excluding asthma, sleep apnea or pneumonia #3 cancer, leukemia or Melanoma, excluding other skin cancer #4 any kidney disorder #5 hepatitis or any disorder of the sorry, Yep.
+[7 minutes 41 seconds][Customer] : Sorry, sorry. The kidney. The kidney one.
+[7 minutes 44 seconds][Agent] : Kidney. Yeah.
+[7 minutes 44 seconds][Customer] : Yes, I have.
+[7 minutes 45 seconds][Agent] : OK, yeah, sure. We'll just ask a couple of questions to clarify. Umm, it just says. So have you had a kidney transplant, required dialysis, or has a doctor advised that either will be required in the future?
+[7 minutes 58 seconds][Customer] : Neither will be called Roll over.
+[8 minutes][Agent] : OK, OK, that's fine. Umm, Le let me just confirm. So for the answer for that question. So umm, I'll just take them off 1 by 1 just to be safe. So have you had a kidney transplant in the past?
+[8 minutes 13 seconds][Customer] : No, I haven't.
+[8 minutes 14 seconds][Agent] : No, no, that's fine. Umm, have you? Do you currently require dialysis or had dialysis in the past?
+[8 minutes 20 seconds][Customer] : No.
+[8 minutes 20 seconds][Agent] : No, that's fine. And just to confirm, has a doctor advised that either of those two, a kidney transplant or dialysis will be required in the future? No. Perfect. Yeah, that's fine.
+[8 minutes 28 seconds][Customer] : No, no, no.
+[8 minutes 31 seconds][Agent] : Was your kidney disorder limited kidney stones and have these been passed or treated or was it a different kidney condition? No, that's fine. That's fine. So I'll put down other kidney.
+[8 minutes 40 seconds][Customer] : Yep, the the one I thought it was because I had had an operation before.
+[8 minutes 43 seconds][Agent] : Yeah, OK, fair enough.
+[8 minutes 48 seconds][Customer] : Yes.
+[8 minutes 49 seconds][Agent] : Yeah, that's fine. I'll put the other SEC.
+[8 minutes 51 seconds][Customer] : So my operation, I had AI had a sciss in my stomach that have been removed.
+[8 minutes 56 seconds][Agent] : Oh, you had a cyst, was it? Ah, gotcha.
+[8 minutes 58 seconds][Customer] : Yeah, in my, in my, in my, in my actual, in my stomach.
+[9 minutes 5 seconds][Agent] : Oh. So OK, it wasn't actually a kidney disorder. It was just a cyst in the stomach. Is that right? Oh, OK.
+[9 minutes 2 seconds][Customer] : I thought that was connected to the kidney stuff, but not Yeah, Yeah, it was just in my stomach. Yeah.
+[9 minutes 12 seconds][Agent] : Oh yeah, no, that'll be fine then in that case. Alright, so I'll just for this question. In that case, I'm just going to keep no. So just apart from the cyst, was there any other kidney disorder?
+[9 minutes 22 seconds][Customer] : No, not at all.
+[9 minutes 22 seconds][Agent] : No, that's fine. All good. Alrighty #5 S Hepatitis or any disorder of the liver.
+[9 minutes 29 seconds][Customer] : No.
+[9 minutes 30 seconds][Agent] : Number six, anxiety, depression or strength requiring medical treatment or any other mental health disorder. And #7 have you been diagnosed with or currently undergoing testing for, or has a doctor advised you to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease?
+[9 minutes 37 seconds][Customer] : Right, right.
+[9 minutes 52 seconds][Agent] : And the next section is in relation to your height and your weight. Please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter in any approximate figures, words or height and weight ranges. Umm, what is your exact height please? That's all for you.
+[10 minutes 12 seconds][Customer] : My death, I AM 56.
+[10 minutes 15 seconds][Agent] : Perfect. Just confirm that was in feet and inches, so 5 foot 6, is that alright? Yeah, Thanks very much. And what is your exact weight please?
+[10 minutes 19 seconds][Customer] : Yes, my death weight is 78.
+[10 minutes 28 seconds][Agent] : Perfect. And that was in kilograms 78 KGS.
+[10 minutes 31 seconds][Customer] : Yeah, in kilogram.
+[10 minutes 32 seconds][Agent] : Yeah, perfect. Thank you very much. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? No worries. And next question is in relation to your occupation. So it just says, does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore? To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[10 minutes 41 seconds][Customer] : No, no, no.
+[11 minutes 14 seconds][Agent] : Do you have definite plans to travel or reside outside of Australia, IE books or will be booking travel within the next 12 months? Uh, do you have existing life insurance policies with other life insurance companies? With the combined total, some are short of more than $5 million and next sections back in relation to your medical history, so it says. Have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following #1 diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose #2 any chest pain, high cholesterol or high blood pressure?
+[11 minutes 23 seconds][Customer] : Like, like no, no.
+[12 minutes 2 seconds][Agent] : And this is where I'll describe the cyst in question #3 so it says tumor, mole or cyst including skin cancer and or sorry, including skin cancer or sunspots. Salted. Yes. Just going to ask based on your response, please answer yes or no for each of the following. So for mole or cyst altered yes. Then it says has the mole or cyst been confirmed benign?
+[12 minutes 27 seconds][Customer] : No, it's it's really nice. Oh, Yep.
+[12 minutes 25 seconds][Agent] : So non cancerous that's been removed. Sure.
+[12 minutes 34 seconds][Customer] : Yeah.
+[12 minutes 30 seconds][Agent] : Was it confirmed that it that it was non cancerous when when it was removed?
+[12 minutes 35 seconds][Customer] : Yep.
+[12 minutes 34 seconds][Agent] : Yeah, that's fine. Perfect. Yeah, that's fine. Then it just says do you have a current lesion that requires follow up treatment or removal as recommended by your doctor?
+[12 minutes 35 seconds][Customer] : No, no. Yep.
+[12 minutes 45 seconds][Agent] : No, that's fine. All good. Alrighty. I'll just take the other ones off the list as well. Apart from the cyst, any tumor? Yes or no or any other form of skin cancer and or sunspots. Perfect. Yeah, that's all fine. No problem. And it just says, have you ever had an abnormal PSA test stored in large prostate? Question #4 Any thyroid condition or neurological symptoms such as dizziness or fainting #5 disorder of the stomach, bowel, gallbladder or pancreas.
+[12 minutes 54 seconds][Customer] : No, no, no, no, no.
+[13 minutes 23 seconds][Agent] : Perfect. And I just want to make sure I'm capturing it correctly. So when you had the cyst, umm, was it actually a stomach disorder or was did it just happen to be a cyst that was located in the stomach?
+[13 minutes 32 seconds][Customer] : Yeah, well, just a a system located in the stomach.
+[13 minutes 36 seconds][Agent] : OK, that's fine. So it was only a cyst, no other disorder?
+[13 minutes 39 seconds][Customer] : No. Oh, no.
+[13 minutes 39 seconds][Agent] : No, that's fine. All good. We've already captured the cyst. That's fine. All right.
+[13 minutes 42 seconds][Customer] : Yep.
+[13 minutes 42 seconds][Agent] : Question number six.
+[13 minutes 50 seconds][Customer] : No, no, no, no.
+[13 minutes 44 seconds][Agent] : Uh, epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis #7 any illegal drug use, abuse of prescription medication or receive medical advice or counseling for alcohol consumption #8 any bladder or urinary tract disorder #9 blood disorder or disease and #10 Sleep apnea or asthma excluding childhood asthma. Perfect. And then on the next page it says other than what you have already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as been not limited to any surgeries, X-rays, scans, blood tests or biopsy? And other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? And last three questions. To the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial abnormalities, Polyposis? And to the best of your knowledge, have any of your immediate family, meaning father, mother, brother or sister suffered from cancer, heart conditions, stroke or other hereditary disease prior to age 60?
+[14 minutes 38 seconds][Customer] : No, no, no, no.
+[15 minutes 20 seconds][Agent] : And the last question reads. So other than one off events like a gift certificate or a voucher, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cave or wrecked diving or any other hazardous activity? Perfect, thanks very much. Alrighty, well, that's you for all the questions. Umm, just before I close that off, I just want to make sure I've captured everything correctly. I'm just going back to originally when you said yes to the kidney condition. So I just want to clarify. So originally you thought it was a kidney condition, but it turns out that it wasn't. It was just a CIS, is that right? Yeah, that's fine. So you didn't actually have a kidney condition. All right.
+[15 minutes 46 seconds][Customer] : No, it yes, right, right.
+[16 minutes 9 seconds][Agent] : Yeah, perfect. That's fine. Easy. Thanks very much. Alrighty, well, thank you for all the answers. Are you satisfied with the answers you provided?
+[16 minutes 15 seconds][Customer] : Yes, ma'am. Yeah.
+[16 minutes 18 seconds][Agent] : Look, no surprises. Obviously you are very healthy. So you have been fully approved. Umm, so now that your application has been approved, I can confirm the terms of the policy. So the great thing is there were no price changes. Uh, that's all stayed the same. Uh, this policy will now cover you for deaths due to any cause at all. The only thing that's not covered is just suicide in the 1st 13 months. Uh. In addition, there is a terminally ill advanced payment included in the cover, which means that if you were diagnosed with 24 months or less to live by a medical practitioner, in that case, we would pay out your claim in full while you're living. Now the other part to keep in mind in regards to the premium. So your premium is stepped, which means it will generally increase each year.
+[16 minutes 56 seconds][Customer] : Yep, Yep.
+[17 minutes 3 seconds][Agent] : In addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% with associated increases in premiums until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday, but it is optional. You can opt out of this automatic indexation each year if you wish. Now I've got a projection here, so I'll just quickly give you an indication of what that looks like. This is here as an indication. If you make no changes to the policy next year, if you accept that 5% increase, your amount insured would increase to $1,050,000 and the fortnightly premium would then be $361.38.
+[17 minutes 30 seconds][Customer] : Yep, Yep.
+[17 minutes 48 seconds][Agent] : You can also find information about our premium structure on our website as well, so.

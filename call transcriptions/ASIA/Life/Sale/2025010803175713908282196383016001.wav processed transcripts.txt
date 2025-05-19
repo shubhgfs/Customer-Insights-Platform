@@ -1,0 +1,141 @@
+[2 seconds][Agent] : Hi there, my name is Ashley. I'm calling from Australian Seniors.
+[1 seconds][Customer] : Hello, I'm wonderful. How are you?
+[5 seconds][Agent] : How are you doing? Really well, I'm just following up. We've received some expression of interest online regards our life insurance just like to assist you. May I please confirm your full name?
+[15 seconds][Customer] : Yes, Thomason Martin Chadwick.
+[21 seconds][Agent] : Thank you.
+[21 seconds][Customer] : 30th of the 4th 1967.
+[24 seconds][Agent] : Actually, could you repeat your birthday again? I didn't have one on file.
+[27 seconds][Customer] : 30th, 30th of the 4th, 1967.
+[32 seconds][Agent] : Thank you. And I'll just confirm that you are a male and Australian resident.
+[38 seconds][Customer] : Oh, mine. I'm identifying as a male today. It may differ tomorrow. I shouldn't say really. Should I?
+[47 seconds][Agent] : OK, But you are a male and I can confirm you're an Australian resident.
+[45 seconds][Customer] : Not in these times, absolutely. Yep.
+[52 seconds][Agent] : Thank you. Please note all of our calls are recorded. Any advice I do provide is general in nature and may not be suitable to your situation.
+[1 minutes 1 seconds][Customer] : Yep.
+[1 minutes][Agent] : So what made you look into life insurance? Jonathan?
+[1 minutes 4 seconds][Customer] : Just get some coverage.
+[1 minutes 6 seconds][Agent] : Mm. Hmm.
+[1 minutes 7 seconds][Customer] : Really.
+[1 minutes 7 seconds][Agent] : Do you have a family tip support as well?
+[1 minutes 10 seconds][Customer] : No, just a wife to ensure she's taken care of.
+[1 minutes 14 seconds][Agent] : Sure, of course. That's lovely of you. All right. OK, So what I'll do. Have you or have you ever looked into life insurance before?
+[1 minutes 21 seconds][Customer] : Yes.
+[1 minutes 22 seconds][Agent] : OK, So what I'll do, I'll explain the features and benefits with our policies. And if you're happy, we can run through some pricing as well.
+[1 minutes 30 seconds][Customer] : OK. One second.
+[1 minutes 30 seconds][Agent] : OK, so you're fine.
+[1 minutes 42 seconds][Customer] : Yep. Sure, mate. No problem. I'll just, I'll just pop into a different office for me. So one second.
+[1 minutes 44 seconds][Agent] : OK, of course you're fine.
+[1 minutes 51 seconds][Customer] : Whoa. So, OK, lovely, you carry on.
+[2 minutes 6 seconds][Agent] : None, thank you. So with seniors life insurance, it is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away before your 85th birthday. When the policy ends, you can choose others between 10,000 up to 200,000 and you can nominate up to five beneficiaries to receive the nominated benefit amount. If death is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with those upfront funeral costs or, or any other final expenses you would have at the time.
+[2 minutes 32 seconds][Customer] : Yep, Yep.
+[2 minutes 44 seconds][Agent] : It's very easy to apply.
+[2 minutes 55 seconds][Customer] : Let's do it.
+[2 minutes 46 seconds][Agent] : We just ask you 8 yes or no health questions relating, umm, sorry, related to your health over the phone to see if you are approved and if you are accepted.
+[3 minutes 4 seconds][Customer] : Yep.
+[2 minutes 56 seconds][Agent] : And once you commence that policy, you will be covered immediately for death due to any cause except suicide in those first thirteen months in. In addition, I hope you never have to use this, but there is a terminal illness advance payment included in this cover. So if you were ever diagnosed with, uh, with 24 months or less to live by a specialized medical practitioner, we can pay your benefit amount in full to help with those medical costs just to ensure you receive that best care possible. OK, umm, do you have any questions for me so far?
+[3 minutes 30 seconds][Customer] : No, that's all.
+[3 minutes 28 seconds][Agent] : All right, so let's go through a quote together. So just to begin with, have you had a cigarette in the last 12 months? Yes or no?
+[3 minutes 31 seconds][Customer] : Good God, no. No, never have.
+[3 minutes 40 seconds][Agent] : No, fantastic. That was better for your premiums. Keeping in mind that level of cover does range from 10,000 up to 200,000, and we can look at different amounts until we find what's best for you. Did you have a figure in mind? You wanted me to start with Jonathan?
+[3 minutes 58 seconds][Customer] : 400K that's fine.
+[4 minutes][Agent] : The Max is 200,000, sure. So for a policy of 200,000, you are looking at a fortnightly premium of $169.69.
+[4 minutes 3 seconds][Customer] : 2 thou 200,000 is fine then yeah, right then that.
+[4 minutes 14 seconds][Agent] : How's that sounding in terms of suitability for you and your budget?
+[4 minutes 17 seconds][Customer] : No, that's fine.
+[4 minutes 19 seconds][Agent] : OK.
+[4 minutes 19 seconds][Customer] : Hang on one second. Sorry, lovely.
+[5 minutes 3 seconds][Agent] : You are totally fine. That's that's all good.
+[5 minutes 3 seconds][Customer] : I, I run for businesses.
+[5 minutes 8 seconds][Agent] : That's OK.
+[5 minutes 7 seconds][Customer] : Yeah, OK, so yeah, so 200,000 and 100 and whatever it is a fortnight. That's fine.
+[5 minutes 8 seconds][Agent] : Umm umm, I was going to mention to you as well. Have you had, uh, looked into a will at all? You and your wife, anything like that yet?
+[5 minutes 19 seconds][Customer] : I'm curr. I'm currently doing that already. So I don't I I don't need that service.
+[5 minutes 26 seconds][Agent] : That's fine. I was just going to say because we do also provide all customers that take out a policy with a free online legal will. So you will just you will, you will receive that complimentary anyway just in case you didn't have one.
+[5 minutes 39 seconds][Customer] : OK.
+[5 minutes 40 seconds][Agent] : And you'll also receive a complimentary subscription of Australian Seniors Day magazine with each policy. Would you like me to look at any other levels of cover or are you pretty happy with the 200,000?
+[5 minutes 52 seconds][Customer] : Oh, well, you mentioned that's the maximum.
+[5 minutes 55 seconds][Agent] : That is right, yes.
+[5 minutes 56 seconds][Customer] : Yeah. So I can't do any other level unless I go down. But $200,000 is fine.
+[6 minutes 7 seconds][Agent] : Yes.
+[6 minutes 1 seconds][Customer] : My my thing with the questionnaire on the will, the free will that it does that is that like just the standard will or you you are able to. Oh, I'll look into it when I get it. That's fine.
+[6 minutes 18 seconds][Agent] : Of course, of course. So lastly, I just have to let you know that your premium is stepped, which means it will increase each year based on percentage. So as an indication, if you made no changes to your policy, your premium next year would be $181.57. And you can find information about our premium structure on our website. OK.
+[6 minutes 19 seconds][Customer] : Yep, Yep, Yep, Yep.
+[6 minutes 41 seconds][Agent] : Did you have any more questions for me?
+[6 minutes 44 seconds][Customer] : Just you know, in so I've got so in 30, so OK, So yeah. Is there any other criteria I need to meet or what?
+[6 minutes 57 seconds][Agent] : Well, my next, well, my next step now is just to make sure that you are eligible for cover with those eight health questions. Are you OK to do that now?
+[6 minutes 57 seconds][Customer] : Is Yes, sure, absolutely Yep.
+[7 minutes 4 seconds][Agent] : All right, thank you. You've been very kind. Before I do so, I just need to put through a home address. Am I OK to start with the post code in suburb? What's the subject there?
+[7 minutes 12 seconds][Customer] : 22B Yeah, Post code is 602 five Craigie CRAIGIE.
+[7 minutes 25 seconds][Agent] : Thank you. And what's the address, please? Thank you. You said 22 B, correct?
+[7 minutes 28 seconds][Customer] : 22B Arawa Place ARAWA Yep.
+[7 minutes 39 seconds][Agent] : Thank you, Thank you.
+[7 minutes 39 seconds][Customer] : 22B Arawa place in Cragie.
+[7 minutes 42 seconds][Agent] : And you're happy for me to have this as your postal address. Thank you. OK, so I just need to quickly read you what we call a pre underwriting disclosure agreement. Umm, this is only going to take me a couple of minutes.
+[7 minutes 45 seconds][Customer] : Yep, yes, Yep.
+[7 minutes 58 seconds][Agent] : Bear with me. So please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services.
+[8 minutes 7 seconds][Customer] : Yeah, yeah.
+[8 minutes 13 seconds][Agent] : We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable there. Do not make any misrepresentations.
+[8 minutes 40 seconds][Customer] : Yep.
+[8 minutes 40 seconds][Agent] : This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty? Yes or no?
+[9 minutes 10 seconds][Customer] : Yes, I do.
+[9 minutes 11 seconds][Agent] : Thank you. OK. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[9 minutes 20 seconds][Customer] : No, no. How long ago?
+[9 minutes 21 seconds][Agent] : In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or stroke in the last five years? Fantastic. I'm so glad to hear that. In the last five years, have you been admitted to hospital as an inpatient because of the lung disease? Other than for asthma or pneumonia as the only conditions?
+[9 minutes 33 seconds][Customer] : No, no, no.
+[9 minutes 47 seconds][Agent] : In the last five years, have you been diagnosed with or treated for any of the following cancers, Lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? Do you have a renal kidney condition that currently requires dialysis or transplant or a doctor has advised will be required in the future? Do you have a liver condition that will require a transplant in the future? Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for motor neurone disease or any form of dementia including Alzheimer's disease?
+[10 minutes 5 seconds][Customer] : No, no, no, no.
+[10 minutes 35 seconds][Agent] : In the last five years? Have you attempted suicide or been hospitalized for mental health condition? Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or been diagnosed as having 12 months or less to live?
+[10 minutes 41 seconds][Customer] : No, no.
+[10 minutes 53 seconds][Agent] : All right, thank you, Jonathan. That concludes the health questions. So congratulations, your application has been fully approved. Well done.
+[10 minutes 59 seconds][Customer] : Yeah, right.
+[11 minutes 3 seconds][Agent] : Umm OK, So what I can do now is I can get you immediately covered over the phone today and send you tailored policy documents for your review.
+[11 minutes 14 seconds][Customer] : Right.
+[11 minutes 13 seconds][Agent] : This policy does give you that 30 day cooling off. So if you decided that this policy wasn't suitable and you do want to cancel within the 30 days, then you do receive a full refund of your premium unless a claim has been made. So I guess the benefit here is that you will be covered straight away. You do have time to talk to your wife, but we don't actually require any payment from you today.
+[11 minutes 34 seconds][Customer] : Yeah, right.
+[11 minutes 36 seconds][Agent] : We just, uh, you select a day in the future that's best suited. So ideally payday or a day all your bills come out, umm, but at least you'll be immediately covered starting today. Are you happier with that option?
+[11 minutes 50 seconds][Customer] : Yeah.
+[11 minutes 51 seconds][Agent] : OK.
+[11 minutes 51 seconds][Customer] : So that so that's on. So as far as you're concerned, you are. So the I'm covered for $200,000 pretty much immediately.
+[12 minutes 4 seconds][Agent] : We're gonna let me go back into the, umm, into the quote we have together. So we've quoted you for a policy of 200,000 for Fort, a premium of $169.69.
+[12 minutes 15 seconds][Customer] : Yep, Yep. Yep.
+[12 minutes 16 seconds][Agent] : So that cover will be started immediately today, as soon as I receive, umm, your preferred payment details.
+[12 minutes 19 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 22 seconds][Agent] : I read the declaration to you and then what's gonna happen is I am going to be emailing you, umm, electronic documentation as well to your e-mail. You'll receive them probably within the next half an hour to an hour. But then you're in the mail. You'll also receive physical documentation and in there it will have your beneficiary form. So you'll have your electronic but also your physical forms as well. But you'll be covered immediately after this phone call is put in place. The cover. Are you, are you happy to continue?
+[12 minutes 32 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, Yep, yes I am.
+[12 minutes 55 seconds][Agent] : OK. So what's your preferred way of payment, Jonathan? Sure. Is this from a savings account?
+[13 minutes 3 seconds][Customer] : Direct debit, yes it is.
+[13 minutes 10 seconds][Agent] : OK. And just your BSc whenever you're ready, please.
+[13 minutes 13 seconds][Customer] : BSB is 3/06.
+[13 minutes 15 seconds][Agent] : Yes, thank you. And just the account number, please. Yes, thank you. And what's the account name?
+[13 minutes 15 seconds][Customer] : 1:04, it's 120, 5370 John Chadwick. Yeah, that's it.
+[13 minutes 34 seconds][Agent] : Is that just under Jonathan, Jonathan Chadwick And I just want to make sure your name is spelt correctly.
+[13 minutes 36 seconds][Customer] : Yep, Yep, Yep.
+[13 minutes 39 seconds][Agent] : JOHNETHEN.
+[13 minutes 44 seconds][Customer] : Yes, it is JOHNETHEN.
+[13 minutes 45 seconds][Agent] : Fantastic, brilliant. OK, what's your first, what's your ideal collection date? So every you're happy with a full nightly basis? OK, what day would you prefer?
+[13 minutes 58 seconds][Customer] : Yes, on a Friday.
+[14 minutes 3 seconds][Agent] : Sure. Are you happy for this Friday, Friday, the 10th of January? Alright, so moving forward, your first collection day will be the 10th of January 2025 and that will commence every fortnight following.
+[14 minutes 8 seconds][Customer] : Yep, Yep, Yep.
+[14 minutes 19 seconds][Agent] : And I'm just going to confirm your e-mail address is jmchadwick1967@gmail.com.
+[14 minutes 26 seconds][Customer] : Yes it is.
+[14 minutes 27 seconds][Agent] : Thank you. All right, before I read the declaration and organize those policy documents to be sent, I just need to confirm again that your full name is Jonathan Chadwick.
+[14 minutes 37 seconds][Customer] : Yes, it is.
+[14 minutes 38 seconds][Agent] : Thank you. So Jonathan, I'm now just going to read the declaration to you. This does take me about 5 to 10 minutes to do. So, umm, I will ask you a few, uh, questions during and some questions also. I just made a very clear yes or no to these questions. Umm, and after that, your policy will be in force. But if you do have any questions for me during, please feel free to stop me and I will answer them for you.
+[14 minutes 59 seconds][Customer] : Yep, absolutely.
+[14 minutes 59 seconds][Agent] : OK, thank you. Jonathan Chadwick, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Seniors life insurance is issued by Hanover Live Free of Australasia Ltd Hanover has an arrangement with Greenstone Financial Services, trading as Australian Seniors Insurance Agency, to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product which drives the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty, Yes or no?
+[16 minutes 2 seconds][Customer] : Yes, I have.
+[16 minutes 3 seconds][Agent] : Thank you. We may from time to time provide office to you by the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following. Jonathan Cha Chadwick receives 200,000 in the event of death if death is sorry. If death is as a result of an accident, the benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is not paid in the event of suicide. In the 1st 13 months of the policy.
+[16 minutes 46 seconds][Customer] : Yep.
+[16 minutes 46 seconds][Agent] : Your cover expires on the 29th of the 4th, 2052 at 12:00 AM. Your premium for your first year of cover is $169.69 per fortnight.
+[16 minutes 58 seconds][Customer] : Yes.
+[16 minutes 57 seconds][Agent] : Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium calculated on a level basis. Over the life of the policy, your premium will be debited from your nominated bank account in the name of Jonathan Chadwick, which you will authorize to debit from and have provided to us.
+[17 minutes 23 seconds][Customer] : Yes.
+[17 minutes 23 seconds][Agent] : We may provide written communications to you via the e-mail address you have provided to us. This will include any legal notices we are required to provide to you. If you would prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed today and if you have provided us with an e-mail address, your policy document will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full.
+[18 minutes 19 seconds][Customer] : None.
+[18 minutes 16 seconds][Agent] : We have a complaints process which you can access at any time by contacting us. All details are available online and in the documentation we are sending you. Do you understand and agree with the declaration, yes or no? Would you like any other information or would you like me to read any part of the PDS to you? Yes or no?
+[18 minutes 28 seconds][Customer] : Yes I do no all the.
+[18 minutes 38 seconds][Agent] : OK, fantastic. All right, So now accepting this declaration on your behalf, Jonathan. So as of now, your cover is in place of 200,000. Umm, as I mentioned, you get those umm, umm, electronic documentations in your e-mail probably within the next half an hour to an hour. And physically physical form documentations will be with you between 3:00 to 5:00 business days. Thank you so much for choosing Australian Savings Insurance. That's all done. Umm, is there anything else I can assist you with while I do have you on the phone today?
+[19 minutes 7 seconds][Customer] : No, that's all good. Thank you so much.
+[19 minutes 10 seconds][Agent] : You're most welcome, Jonathan. All the best and take care of yourself.
+[19 minutes 13 seconds][Customer] : Thank you, ma'am. See you. Bye. Bye.
+[19 minutes 14 seconds][Agent] : Thank you. Take care. Bye. Bye.

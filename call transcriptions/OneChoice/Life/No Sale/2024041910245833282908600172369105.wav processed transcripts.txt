@@ -1,0 +1,251 @@
+[2 seconds][Agent] : Welcome to One Choice Insurance. You're speaking with Danielle.
+[3 seconds][Customer] : I'm speaking with Danielle.
+[4 seconds][Agent] : How can I help?
+[4 seconds][Customer] : How can I help? Hi, Danielle. It's Tracy from Customer Care. How are you? Good.
+[9 seconds][Agent] : Good. Thank you. Yourself.
+[8 seconds][Customer] : Thank you. I'm good. Thanks. Thanks for asking. Now, Danielle, I have a lead. I don't know if you can see renewal Chand all right with this lead. This is actually a customer that I've been dealing with and I've actually the customer's keeping the policy with us. He now wants to talk to someone and get quotes. I think his wife with him to look at life insurance for his wife with us.
+[17 seconds][Agent] : Yeah, be a customer that I've been dealing with that I've actually have to keep the policy with us.
+[32 seconds][Customer] : Will you be able to help him?
+[33 seconds][Agent] : He now wants you to someone and get close to look at my insurance with us. Would you be able to help him? I don't know if you're going to that lead.
+[33 seconds][Customer] : I don't know if you go into that lead or or how it works for you guys.
+[39 seconds][Agent] : No, that's OK.
+[39 seconds][Customer] : That's OK.
+[39 seconds][Agent] : I'll collect some of his wife's details off him, but you can transfer him. Sorry whenever you're ready. All right, well, I'm gonna sorry one second.
+[41 seconds][Customer] : I'll pull it from the. All right. Well, I'm going to. Sorry. One second, honey. I'm just going to make sure I write this down.
+[44 seconds][Agent] : I'm just gonna make sure I write this down. What I'm gonna do is Danielle, I'm gonna pop out his lead and I'll let you jump.
+[52 seconds][Customer] : What I'm going to do is Danielle, I'm going to pop out of his lead and I'll let you jump in.
+[57 seconds][Agent] : Oh, that's OK. I won't write it back down into his leg. Just transfer.
+[59 seconds][Customer] : You want?
+[59 seconds][Agent] : Sorry. Whenever you're ready. Alright. I mean, now.
+[1 minutes 1 seconds][Customer] : All right, coming now.
+[1 minutes 2 seconds][Agent] : Alright.
+[1 minutes 2 seconds][Customer] : All right, I'll do a warm transfer.
+[1 minutes 2 seconds][Agent] : I'll do a warm transfer. Not a problem. Alright, hold on.
+[1 minutes 5 seconds][Customer] : Oh, all right, hold on, Renew.
+[1 minutes 10 seconds][Agent] : I do sincerely apologize for keeping you there so long.
+[1 minutes 10 seconds][Customer] : I do sincerely apologize for keeping you there so long.
+[1 minutes 14 seconds][Agent] : I do have some lovely Danielle on the telephone with us.
+[1 minutes 13 seconds][Customer] : Renew, I do have the lovely Danielle on the telephone with us.
+[1 minutes 16 seconds][Agent] : She will be out to assist you with your inquiries.
+[1 minutes 16 seconds][Customer] : She will be out to assist you with your inquiries.
+[1 minutes 19 seconds][Agent] : Danielle, thank you so much for helping.
+[1 minutes 19 seconds][Customer] : Danielle, thank you so much for helping him and both of you.
+[1 minutes 21 seconds][Agent] : And both of you have a lovely afternoon.
+[1 minutes 22 seconds][Customer] : Have a lovely afternoon.
+[1 minutes 23 seconds][Agent] : Thank you.
+[1 minutes 23 seconds][Customer] : Thank you.
+[1 minutes 24 seconds][Agent] : Bye.
+[1 minutes 24 seconds][Customer] : Bye.
+[1 minutes 27 seconds][Agent] : Hi, Renell. Renell, it's here from One Choice Life Insurance.
+[1 minutes 27 seconds][Customer] : Oh, I'm good. Thank you. How are you?
+[1 minutes 31 seconds][Agent] : How are you that I'm not too bad. Thank you so much for asking. I believe you're looking at some life cover for your wife, Is it OK? Fantastic. I can definitely help you with those details there. I can I get you to confirm for me please? Your. What is your wife's date of birth? So 30th of the 8th 1982.
+[1 minutes 40 seconds][Customer] : Yeah mm hmm 30/8/1982 Yeah.
+[1 minutes 59 seconds][Agent] : Perfect. What is your wife's first name please? Could you?
+[2 minutes 3 seconds][Customer] : Pikachu, VIK. ASHMI.
+[2 minutes 5 seconds][Agent] : Yep, sorry, let me just confirm that I I think I missed that part of it. So V for Victor, I for India, K for kite, A for Alpha, N for November, S for Sam, H for Hotel.
+[2 minutes 28 seconds][Customer] : Yeah. So, VIKASHMI, did you get it?
+[2 minutes 40 seconds][Agent] : OK, So it's not if H if it's F for Freddy, H for Hotel North for November, I for India.
+[2 minutes 48 seconds][Customer] : Yeah, yeah.
+[2 minutes 49 seconds][Agent] : OK, so VIKASHNI and your wife's surname, please.
+[2 minutes 59 seconds][Customer] : LALR.
+[3 minutes 1 seconds][Agent] : Lal. Perfect. Can I please confirm that your wife is infected? Of course. A female New Zealand resident.
+[3 minutes 3 seconds][Customer] : Yeah, yes, yes. E-mail.
+[3 minutes 11 seconds][Agent] : Perfect. Perfect. Thank you.
+[3 minutes 13 seconds][Customer] : And she's got a middle, middle name too. So do you need to require the middle name too?
+[3 minutes 15 seconds][Agent] : No, that's, that's OK. Just your first and last name is fine. Now I will let you know. All calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. So your name, it was Ranel, correct?
+[3 minutes 20 seconds][Customer] : OK, Yeah.
+[3 minutes 36 seconds][Agent] : Can I just get you to reconfirm the spelling?
+[3 minutes 39 seconds][Customer] : Ron EE L Yeah.
+[3 minutes 43 seconds][Agent] : Perfect, Ron EE L Perfect. Thank you so much for that. OK, I will remind you again, all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. Now, what's this one here? Do you have an e-mail address?
+[4 minutes 8 seconds][Customer] : Yeah. So Roel, Vicks, ROEL viks@gmail.com. Yeah, yeah, yeah. I think can be saved by that.
+[4 minutes 18 seconds][Agent] : At gmail.com soroelviks@gmail.com Perfect. And the best contact number for you today is the number you've called us all, which is 0225409693.
+[4 minutes 41 seconds][Customer] : Yeah, I'm sure about our mobile too.
+[4 minutes 44 seconds][Agent] : Yeah. What's your wife's mobile number?
+[4 minutes 43 seconds][Customer] : So 0225435641.
+[4 minutes 53 seconds][Agent] : So 0225435641.
+[4 minutes 59 seconds][Customer] : Yeah.
+[5 minutes][Agent] : Perfect. Thank you so much for that. So what's actually prompted the inquiry into some life cover for your wife today?
+[5 minutes 8 seconds][Customer] : OK, so it's something similar to what I have with my policy. MMM.
+[5 minutes 12 seconds][Agent] : So I don't have access to your current cover, but what's actually made you decide to look into cover for your wife today?
+[5 minutes 21 seconds][Customer] : Oh, so actually she, she actually have a policy, but I want, and I also have a life insurance policy, but then, uh, when we are trying to compare, uh, we got a package with the other policy holder. So I wanted to cancel my policy, but then when we compared the amount we are paying, uh, with the other provider, it's like quite high. So that's why she and, and she said, why not we go back and just try to have a life experience with the, umm, one choice. We just get a quote with you people.
+[6 minutes 3 seconds][Agent] : OK. So, so what's that one there? So you're you, you've taken a couple with us because it's cheaper than your current provider, is that correct?
+[6 minutes][Customer] : So let's see what works best for her. So we, I, I already, I was actually, I already had a policy with the one choice.
+[6 minutes 19 seconds][Agent] : Yeah.
+[6 minutes 20 seconds][Customer] : And then, umm, at that time she was not working.
+[6 minutes 25 seconds][Agent] : Mm. Hmm.
+[6 minutes 23 seconds][Customer] : So once she got a full time job, then she decided that that everybody in the family should get the cover.
+[6 minutes 35 seconds][Agent] : Hmm. Mm.
+[6 minutes 29 seconds][Customer] : So, oh, she had a whole family deal cover coming up like for all of myself and my son.
+[6 minutes 38 seconds][Agent] : Mm. Hmm.
+[6 minutes 38 seconds][Customer] : But then when you're we just recognize that it's like a little bit more in this competitive world at the moment with the inflation and things.
+[6 minutes 47 seconds][Agent] : Mm, hmm.
+[6 minutes 47 seconds][Customer] : So that's why and I and I and I thought of canceling the policy with one choice, but then when I called to cancel the policy and she spoke to me, he gave me other options.
+[7 minutes 9 seconds][Agent] : Mm hmm.
+[6 minutes 57 seconds][Customer] : And then when we came to know about the premiums that we are paying it, it was like it's quite good to go with one choice rather than having the whole Texas deal over there which has health and everything in that.
+[7 minutes 14 seconds][Agent] : OK. So now you're just looking at some pricing for just your wife, is that correct? OK, perfect. I can definitely help you with that one there. I do need to ask there. Has your wife had a cigarette in the last 12 months?
+[7 minutes 15 seconds][Customer] : Yeah, yes, yes, No, she's a non-smoking.
+[7 minutes 28 seconds][Agent] : Nice, fantastic. And the label account that you can choose from for your wife ranges anywhere between $100,000 up to $2,000,000.
+[7 minutes 44 seconds][Customer] : Uh, just thinking about for 200.
+[7 minutes 37 seconds][Agent] : Do you have a particular amount in mind you'd like me to quote you on for here today for $200,000 worth of cover?
+[7 minutes 49 seconds][Customer] : Yep Yep.
+[7 minutes 50 seconds][Agent] : Perfect. So it's $200,000 worth of our life cover for your wife. Should be looking at an indicative fortnightly payment of $10.42.
+[8 minutes 2 seconds][Customer] : 10 Fort Matthew.
+[8 minutes 1 seconds][Agent] : So that's $10, correct? So $10.42 per fortnight. How does that sound to you? Yes, that's $300,000 worth of our life cover. You'd be looking at a fortnightly payment of $13.42.
+[8 minutes 12 seconds][Customer] : Now she's telling me, I ask you what if you go to 300 then $13.42?
+[8 minutes 29 seconds][Agent] : Yes, $13.42 per fortnight.
+[8 minutes 30 seconds][Customer] : Yeah, that sounds good. That sounds good. Then. I just wanted to know about what is included in that. Is that 10,000? You know, something like Yeah.
+[8 minutes 42 seconds][Agent] : Yes, Sir.
+[8 minutes 42 seconds][Customer] : Hmm. Mm.
+[8 minutes 42 seconds][Agent] : The what's, what's this one here? The final premiums in terms of our policy will to be dependent on the outcome of the health and lifestyle application, which I would need to take your wife through.
+[8 minutes 58 seconds][Customer] : Yes.
+[8 minutes 54 seconds][Agent] : So is your wife available for me to speak to her now so I can run it through the policy and take you through the application?
+[9 minutes][Customer] : Yes.
+[9 minutes 1 seconds][Agent] : Perfect. Whenever you're ready, you can pop your wife on the phone.
+[9 minutes][Customer] : Why no, No. Hello. It's just, I'm just so it's just. Hello.
+[9 minutes 8 seconds][Agent] : That's that's OK. I'll try not to keep you too long. So again, my name is Danielle from one Slice Insurance. How are you today apart from apart from not feeling too flash?
+[9 minutes 18 seconds][Customer] : No, no, because I just came back from school and we just started with the kids today. And then it's like so tiring.
+[9 minutes 26 seconds][Agent] : Oh, absolutely it was. It was a long first day back, was it?
+[9 minutes 30 seconds][Customer] : Like after six weeks we're going back to work.
+[9 minutes 35 seconds][Agent] : Oh, absolutely. Are you a school teacher? Are you? That would definitely would have been a busy day for you then.
+[9 minutes 34 seconds][Customer] : So it's like, yeah, I, yeah, very busy Bangalore. We have the jet time to fit.
+[9 minutes 47 seconds][Agent] : Oh, absolutely.
+[9 minutes 47 seconds][Customer] : We have another food.
+[9 minutes 50 seconds][Agent] : Look, I I completely understand that one there just very quickly before I proceed any further, could you please confirm for me again your first name, last name and your date of birth?
+[9 minutes 50 seconds][Customer] : Yeah, first name because the last name 30th 8/19/82.
+[10 minutes 7 seconds][Agent] : Perfect. And I'll confirm again that you are a female New Zealand resident. Perfect. Thank you so much for that. Now Please note all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances.
+[10 minutes 35 seconds][Customer] : That's correct.
+[10 minutes 28 seconds][Agent] : Now I've got an e-mail address hereofroelviks@gmail.com perfect. And I've got 2 phone numbers on file.
+[10 minutes 43 seconds][Customer] : That's correct.
+[10 minutes 38 seconds][Agent] : So I've got your phone number of 0225435641 and I've got your husband's phone number of 0225409693.
+[10 minutes 50 seconds][Customer] : That's correct.
+[10 minutes 51 seconds][Agent] : Perfect. I'll just confirm that date of birth was the 30th of the 8th 1982, correct? Beautiful. I will remind you again, all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances, so answer that one there. I, I believe you're looking at comparing a little bit of life cover for yourself with your current cover.
+[10 minutes 56 seconds][Customer] : Yes, Yeah, Yeah, yeah.
+[11 minutes 22 seconds][Agent] : OK, fantastic. I can certainly help you with that one there. I do want to let you know that if you are ever looking at replacing an existing policy, we do of course recommend that you do not cancel it. And so you have reviewed this policy in full as it may not be identical to your existing cover there. OK, perfect. Now a little bit about our life insurance here at One Choice is it is there to provide you with that little bit of Peace of Mind and of course there for the financial protection for your loved ones and the events of yourself passing away.
+[12 minutes 1 seconds][Customer] : Oh that's all I find and my husband if in case someday I get get involved in the accident.
+[11 minutes 53 seconds][Agent] : Do you mind me asking, did you have anything in particular that you're looking at leaving the money behind for my case? Umm, absolutely right. How old is your son? Umm, fantastic. And do you guys have a mortgage as well?
+[12 minutes 6 seconds][Customer] : I travel everyday and the motor, my son, he's five years old.
+[12 minutes 22 seconds][Agent] : Right?
+[12 minutes 21 seconds][Customer] : No, not at the moment.
+[12 minutes 22 seconds][Agent] : That's OK. Well, I mean, this money is paid out as a cash benefit. So it can help your son and your husband maintain your lifestyle, help them take care of any sort of unpaid bills, mortgages, loans, or any other costs involved in raising a family or whatever else needs to be taken care of. Really, it's there basically to give you that bit of Peace of Mind. But if something happens to your family, there would be that little bit of financial security. Well, so if something happens to you, your family is going to have that bit of financial security there, right? OK. Now we also include with that top of what's called a funeral advance. So how that funeral advance works is at the time of your beneficiaries making a claim there, they can actually request an advance payout of $10,000 to help with some of those more immediate and upfront expenses such as funeral costs or anything else that needs to be taken care of, the choice. It is entirely up to your loved ones there. OK, perfect. Now I do need to confirm there. Have you had a cigarette in the last 12 months?
+[12 minutes 53 seconds][Customer] : Yeah, no.
+[13 minutes 38 seconds][Agent] : So in terms of in terms of the coverage, the final premiums in terms of that policy is depending on the outcome of the health and lifestyle application. So I what we'll do is we'll go through that health and lifestyle application first. We'll be able to determine whether there's going to be any exclusions added to the policy and what type of cover we're able to offer you.
+[13 minutes 26 seconds][Customer] : And let's say I want to ask you before before we continue, if in case something happens to me while I'm overseas, will you be able to assist my family to get memory to hello?
+[13 minutes 58 seconds][Agent] : And then I'd be able to let you know the answer to that question. OK, perfect. OK, so what's up on there? You can choose the level of cover anywhere between $100,000 and $2,000,000 depending on your age and pre tax income amount. Now I quoted your husband on 300,000 for yourself. Are you happy for me to quote you on that or did you want to look at a different amount?
+[14 minutes 21 seconds][Customer] : No, no, that's right.
+[14 minutes 25 seconds][Agent] : Yes.
+[14 minutes 22 seconds][Customer] : 1313 dollars something, it comes to $13 something right fortnightly.
+[14 minutes 25 seconds][Agent] : So the $300,000, you'd be looking at an indicative fortnightly payment of $13.42, correct? Correct. So that's $13.42 per fortnight. How does that one sound?
+[14 minutes 40 seconds][Customer] : Yeah, that's good.
+[14 minutes 42 seconds][Agent] : Perfect. So what we'll do now is we'll quickly go through the health and lifestyle application to confirm your eligibility for the cover and also what type of policy we're able to offer you. So what's that one there? I do need to get your address, please, starting with your post code.
+[14 minutes 59 seconds][Customer] : 2136 Germont Ave.
+[15 minutes 2 seconds][Agent] : Sorry, 2 bar 36.
+[15 minutes 5 seconds][Customer] : Germont Ave.
+[15 minutes 7 seconds][Agent] : Sorry. What's the name of the Ave. Did you confirm the spelling?
+[15 minutes 9 seconds][Customer] : Germont, JAEMONT.
+[15 minutes 15 seconds][Agent] : Perfect. OK. And is that Seattle 2 S Perfect. Thank you so much for that. And what's the post code there?
+[15 minutes 20 seconds][Customer] : Yep, 0610.
+[15 minutes 26 seconds][Agent] : 0610 perfect. Is that the same as your postal address?
+[15 minutes 35 seconds][Customer] : Yep.
+[15 minutes 36 seconds][Agent] : Perfect. Thank you so much for that.
+[15 minutes 40 seconds][Customer] : Yeah, flight to #36 six.
+[15 minutes 37 seconds][Agent] : So that's Flight 2 #36 beautiful. Thank you so much for that. OK, so I'm lighting up these questions here for you now. So very quickly before I go through these questions here with you, I do need to read to you what's called a pre underwriting disclosure and I just need your agreement that ends with a clear yes or no whilst I light that up. But I will remind you, if you are even looking at replacing an existing policy, we do is recommend that you do not cancel it until you review this policy in full as it may not be identical to your existing cover. But the pre underwriting disclosure here it says please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other service providers for the purpose of administering your policy or handling claims.
+[16 minutes 35 seconds][Customer] : None.
+[16 minutes 35 seconds][Agent] : Our privacy policy tells you more, including how to access incorrect information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you insurance or life insurance contract. You have a leakage duty to provide for us any information you know or could reasonably be expected to know which may have take that decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insured. We have the you have this from you have this, sorry, you have this duty until the time we enter into the contract. If you fail to disclose the matter or you make a false statement and answer to our questions, we may be able to decline a claim and post your conditions on your policy or avoid your policy entirely. Now, do you understand this yes or no?
+[17 minutes 29 seconds][Customer] : Yeah, yeah, yeah.
+[17 minutes 30 seconds][Agent] : Perfect. Thank you so much for that. OK, so these questions are you, so no questions unless I prompt you otherwise. But if you need me to reread over any parts, if you have any questions there for me, please do not hesitate to interrupt me. I'll be more than happy to do so. Ah, question number one, though, it starts off by saying are you a citizen or permanent resident of New Zealand or Australia currently residing in New Zealand and you're currently residing in New Zealand?
+[17 minutes 58 seconds][Customer] : Yeah, I'm interested in self New Zealand, Yeah.
+[18 minutes 5 seconds][Agent] : Perfect. Thank you so much for that. Now the next six questions are in relation to your medical history. What's the main question here being have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following? So the first is stroke or heart conditions such as but not limited to heart mummer, heart attack and angina.
+[18 minutes 28 seconds][Customer] : No, no, no. Hmm. Mm.
+[18 minutes 29 seconds][Agent] : Lung disorder excluding asthma, sleep apnea or pneumonia, cancer or leukemia excluding skin cancer, anxiety, depression or stress requiring medical treatments, or any other mental health disorder? Have you been diagnosed with a terminal illness, motor neuron disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy? The next section here. Well, sorry, the next question is, in the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counseling for drug or alcohol consumption?
+[18 minutes 46 seconds][Customer] : No, no, no, no, no.
+[19 minutes 17 seconds][Agent] : Perfect. The next section here is in relation to your height and weight. Please be aware that I'm required to obtain a confident single second measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or heights and weight ranges. So first of all, what is your exact height, please? 162 centimeters. And what is your exact weight please?
+[19 minutes 39 seconds][Customer] : 162, yeah, my exact rate is 57.
+[19 minutes 48 seconds][Agent] : 57 KGS Perfect. So I've got you here as 162cm and 57 KGS.
+[19 minutes 50 seconds][Customer] : Yeah, yeah.
+[19 minutes 56 seconds][Agent] : Now the next question here is, have you experienced any unexplained weight loss of more than 5 KGS in the last 12 months? Perfect. OK, next question, I'm just letting it up there for you. It says does your work require you to go underground with heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore.
+[20 minutes 5 seconds][Customer] : No, no.
+[20 minutes 28 seconds][Agent] : Perfect. So the best of your knowledge, are you infected with or you're in a high risk category for contracting HIV which causes AIDS? Do you have different plans to travel or reside outside of New Zealand? I booked or will be booking travel within the next 12 months.
+[20 minutes 38 seconds][Customer] : No, no, not yet. No thanks.
+[20 minutes 49 seconds][Agent] : Perfect. So you have existing life insurance policies without the life insurance companies with the combined title sum of short of more than $5 million.
+[21 minutes][Customer] : No.
+[21 minutes 1 seconds][Agent] : Perfect. Thank you so much for that. OK, I'm just lighting up the next sort of questions here for you now. So the next sort of questions are in relation to your medical history. So the main question is here is saying have you ever had symptoms of being diagnosed with or treated for or intended sick medical advice or any of the following? So the first one is diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, molar cysts including skin cancer, sunspots or Melanoma.
+[21 minutes 29 seconds][Customer] : No, no, no, no, no, no, no, no.
+[21 minutes 41 seconds][Agent] : Have you ever had an abnormal Pap or cervical SNEA, thyroid condition or neurological symptoms such as dizziness or fainting, Disorder of the stomach, bowel or pancreas, Hepatitis or any disorder of the liver, Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis, bladder or urinary tract disorder, kidney disorder, blood disorder or disease and sleep apnea or asthma, excluding childhood asthma?
+[22 minutes 6 seconds][Customer] : No, no, no, no, no. Nothing.
+[22 minutes 22 seconds][Agent] : Perfect. You're very, very healthy there. Now I'm just writing up the next question here for you now. So this next question is in relation to the last three years only. So other than what you have already told me about in the past three years, have you sought medical advice for treatment by medical practitioner or specialist? Or are you awaiting the results of any medical test or investigations?
+[22 minutes 46 seconds][Customer] : Nothing.
+[22 minutes 46 seconds][Agent] : AJ undergoing any surgery, have medical tests, investigations for example X-rays scans, blood tests or biopsy? Or awaiting the results perfect other than what you have already told me about. Are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[22 minutes 56 seconds][Customer] : No, no, no.
+[23 minutes 9 seconds][Agent] : Perfect. There's just three more questions left to go now. We're almost there. So the next two questions are in relation to your family history. So to the best of your knowledge of any of your immediate family now your immediate family being your mom, dead brother or sister, only living or deceased. Ever been diagnosed with polycystic kidney disease, Huntington's disease or familial abdomacis polyposis? No Perfect. So the best of your knowledge of any of your immediate family again being mom, dead brother or sister only suffer from cancer, heart condition, stroke or any other hereditary disease prior to the age of 6 day.
+[23 minutes 35 seconds][Customer] : No, no, no.
+[23 minutes 52 seconds][Agent] : Beautiful. Now the last question I have here for you is other than one of events, so in the form of gift certificate or vouchers, do you engage in or intend to engage in any of the following? So with the aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering and sailing, super diving, super them 14 meters, cable wreck diving or any other hazardous activity. Perfect. Now, are you satisfied with the answers provided?
+[24 minutes 21 seconds][Customer] : No, Yeah, yeah.
+[24 minutes 28 seconds][Agent] : Perfect. Thank you so much for that. So I congratulations your application for our life cover, it is actually been fully approved. So that was just $300,000 with the cover that you applied for at the fortnightly payment of $13.42. So there's been no change to the level of cover and the pricing there. So congratulations. Now what does policy, what does actually means for yourself is this policy is going to cover you immediately for this trade to any cause except for suicide in the 1st 13 months. So we do actually provide you with that bit of a media and upfront protection there. Now I know one of your questions there is will you be covered worldwide. So there's been no exclusions added to the policy etcetera. So the great thing about that one there is as long as the premiums are kept up to date from a New Zealand bank account, we will cover you worldwide.
+[25 minutes 23 seconds][Customer] : But in case in case in future, maybe if my son goes abroad to study, for example, he used to failure to study, I can call. Can I continuously pass from there?
+[25 minutes 21 seconds][Agent] : OK, So if something was sorry. As for your son, mm hmm.
+[25 minutes 37 seconds][Customer] : I am if you go to abroad to study. Oh oh, if we, we plan in future to go and settle in Australia, but we want to continue our policy with one choice. Will that work? It has to be new land bank account.
+[25 minutes 50 seconds][Agent] : Yeah, as long as the payments are kept up to date from a New Zealand bank account, correct. So we have to have the payments come out of a New Zealand bank account or they can come out from an overseas credit card. How is that? The payment will be with the New Zealand dollars, OK OK. So you as long as the payments are kept up to date, we will cover you worldwide. So if anything was to happen to you overseas, you know, I'd love for that to, you know, nothing horrible them being you know, for a holiday or something and something horrible happens to you. But if something was true and you would be covered, OK. And I know you said about, you know, using that money to bring your body home. So that's funeral advance that we've discussed. They can even use the funeral advance for that.
+[26 minutes 8 seconds][Customer] : OK, OK.
+[26 minutes 36 seconds][Agent] : OK, perfect. OK, now we also include with our cover what's called a similarly ill advanced payment. So how that similarly ill advanced payment works is if you're unfortunately diagnosed with 12 months or less to live by medical practitioner, we're going to pay your claim out to you in full. Now we pay this out to you whilst you're still living and you'd be able to use that on whatever you needed to, whether you had any treatment costs, whether you wanted to spend extra time with loved ones, picking up a bucket list, you know the choice. It isn't rally up to yourself on what you choose to spend that money on. OK, perfect. Now with this one here, I do need to let you know that please be aware that your premium is set.
+[27 minutes 21 seconds][Customer] : None.
+[27 minutes 19 seconds][Agent] : So what that means is that we'll generally increase each year. In addition, this policy has an automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. And you can opt out of this indexation each year. So each year around your policy anniversary, we'd actually send you out the letter saying this is what your new sum insured is going to be, what's associated increases in premium, and of course, you cannot doubt it, that one each year there.
+[27 minutes 48 seconds][Customer] : OK.
+[27 minutes 47 seconds][Agent] : OK, perfect. So what I'm actually able to do for yourself today is I'm actually able to get yourself immediately covered over the phone today on that $300,000 policy without any sort of upfront payments or upfront costs. What we actually do is we note down a payment day and a payment method that is suitable for yourself in the near future. Now in saying that, this policy here, it does actually provide you with what's called a 30 day cooling off. So during that time, we're going to send you out all your personalized policy documents for you to review. You're actually going to receive 2 copies. So you'll receive an e-mail copy that'll be today, generally within the next hour, and then you'll receive a personal copy within the next 5 to 10 business days. Now should you then decide to cancel within those 30 days, you'll actually receive a full refund of any premiums you may have paid, of course, unless the claim has been made. So I worked that one there. Of course we don't take any payments off you today. However, as a business we do generally collect payment within the next 7 days. When in the next 7 days would be more suitable for you?
+[29 minutes 4 seconds][Customer] : I want help cancel the policy or no? She said that I should not cancel the policy until I start with them.
+[29 minutes 13 seconds][Agent] : So what we, what we do is we recommend that you do not cancel your, if you are replacing an existing policy, we recommend that you do not cancel it until you review this policy in full as it may not be identical to your existing cover there. But in terms of that one there you just tried that the you just don't want the payments to come out at the same time as your current cover. Is that what? Is that what you're worried about?
+[29 minutes 39 seconds][Customer] : OK, can, can, can you call back tomorrow so that I can work things out with this policy?
+[29 minutes 45 seconds][Agent] : I'm I'm actually not in tomorrow. I'm on annual leave. Do you mind me asking why you're not wanting to get this one set up today?
+[29 minutes 46 seconds][Customer] : And oh, the reason is because I I want to talk to my insurance, another insurance provider.
+[30 minutes 1 seconds][Agent] : Yes Sir. Do you mind me asking was about simulation to because I want to, I want to know like what are the in there which covered which I covered with for that particular policy? Mm hmm. So is that in terms of your current cover, you just want to have a chance to sit down and compare it with your current cover.
+[30 minutes 6 seconds][Customer] : It just because, because I want to, I want to know like what are the benefits in there, which is covered, which is which I'm covered with for that particular policy, yeah.
+[30 minutes 25 seconds][Agent] : Look, I, I understand that one there. You know, I can send you through bit of basic information and pricing, but it would be just that what I actually also am able to do for you is so that you can sit down and compare the two policies side by side is get this one set up for you today without any upfront payments or upfront costs. That way they're unable to send you out all your personalized policy documents. You're actually receive an e-mail copy of that one there today. That way there you can sit down, compare the two policies side by side. Now this policy has no locking contracts or no cancellation fees. So even if you decide to afterwards that you would like to cancel this cover, all you'd need to do is give us a call and apply to cancel the policy. It is a very simple process. Of course, you, you all you need to do is call our customer care department for that. That one there. So in terms of that one there, is there a day that you'd like the first payment to come out on? Yeah. Look, you just let me know what day you'd like the first payment to come out, and I'll let you know if I can select that payment date.
+[31 minutes 30 seconds][Customer] : And it'll be after two weeks, so so apart from this Tuesday, next Tuesday, the 3rd Tuesday, what will be the third Tuesday?
+[31 minutes 45 seconds][Agent] : So not, not next Tuesday the 31st, but the following Tuesday the 7th, Yeah, absolutely. I can make that first payment of $13.42 come out on Tuesday the 7th and then it would be every second Tuesday thereafter.
+[31 minutes 51 seconds][Customer] : Yeah, yeah.
+[32 minutes 1 seconds][Agent] : So what we're doing now is we note down that payment method. So we do this very securely over the phone by one of two simple options. So the first is either by a Visa Debit, Visa MasterCard or credit card, or the second is my bank account number for a direct debit. What one's more suitable for you? Perfect. The name on the bank account? Is it just under your first and last name? Is that spelled VIKASHNI?
+[32 minutes 29 seconds][Customer] : Yeah, yeah. I can't use my Internet.
+[32 minutes 38 seconds][Agent] : OK, hang on.
+[32 minutes 43 seconds][Customer] : What? SSS.
+[32 minutes 38 seconds][Agent] : So V for Victor, I for India, K for Kite, A for Alpha, F for Freddy, HSS for Sam, and then H for Hotel, N for November, I for India, and then your surname is AL A for AAL.
+[32 minutes 50 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[33 minutes 1 seconds][Agent] : Perfect. Let me fix that one up. I've got it spelt with an F there, so I'll just fix that one up and put it with an S. Perfect. OK. So whenever you're ready, we'll note down that account number, please.
+[33 minutes 14 seconds][Customer] : Card number. Card. You want card number or the bank number? What do you want?
+[33 minutes 20 seconds][Agent] : Whatever, whatever one's more suitable for you. Would you prefer to do it from your debit card or from your bank account? Yeah, look, absolutely, if you prefer to do it from your bank account, we can do that. What's your account number, please?
+[33 minutes 31 seconds][Customer] : And then the council that I can see in my statement, every time I get it, just a moment, my phone is on.
+[33 minutes 43 seconds][Agent] : That's OK. Take take your time. Mm hmm. Yep. Yep. Yep. Mm hmm. Yep. Mm hmm, perfect. I'm just going to read that back to you to make sure I've got it correct. So I've got O3 O 1560048844 suffix 000.
+[34 minutes 12 seconds][Customer] : OK, my phone number is 03015600 4 8844000 Yeah, yeah, I was sick every day.
+[34 minutes 44 seconds][Agent] : That's with Westpac, Perfect. Thank you so much for that. So in order to set up this payment with you now, I do need to ask you 3 quick questions and redraw short declaration. And I just made a clear case for now at the end of H. So question number one, are you happy to set up a directive authority without signing a form?
+[35 minutes 6 seconds][Customer] : Yeah.
+[35 minutes 7 seconds][Agent] : Perfect question #3 have you cancelled a directive authority for one choice with Pinnacle Life as the initiator in the last nine months? Question #3 do you have authority to operate this bank accounts online and do not need to jointly authorize debits?
+[35 minutes 17 seconds][Customer] : No, no.
+[35 minutes 28 seconds][Agent] : So I just confirm, is the bank account yours and yours only?
+[35 minutes 32 seconds][Customer] : Yeah.
+[35 minutes 33 seconds][Agent] : And does anyone else need to cosign?
+[35 minutes 35 seconds][Customer] : Hello.
+[35 minutes 36 seconds][Agent] : Perfect, thank you so much for that. So in order to proceed, I need to read the following declaration and I'll just need your confirmation at the end. So this is just a short one paragraph declaration in regards to the direct debit and it rates. You look great. This Authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this Authority. You authorize your bank, so allow Pinnacle Life, who is the initiator for one choice to direct debit this accounts in accordance with these terms and conditions. Yes or no?
+[36 minutes 14 seconds][Customer] : What is it?
+[36 minutes 13 seconds][Agent] : Sorry, sorry. Do you want me to reread that one again a bit slower?
+[36 minutes 18 seconds][Customer] : No, no, no. You can go for that. I was like distracted by my son.
+[36 minutes 22 seconds][Agent] : That's OK. So it sees here you agree this authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for one choice to direct debit this accounts in accordance with these terms and conditions, yes or no? Perfect.
+[36 minutes 45 seconds][Customer] : Yeah, yes, yes.
+[36 minutes 46 seconds][Agent] : Thank you so much for that. So that's $13.42. That's going to come out on Tuesday the 7th and then it'll be every second Tuesday thereafter. So all that's left for me to do now to finalize this one is read you our final declaration. So please bear with me. It is a couple of paragraphs long. I will try to get through it as quick as possible for you, but all I need at the start, halfway through and at the end when prompted is just your agreeance with the clique. You saw noise. If you need me to stop to reread of any parts, if you have any questions, please do not hesitate to interrupt me, I'll be more than happy to do so. But just quickly, How do I pronounce your your first name?
+[37 minutes 27 seconds][Customer] : Vikashly.
+[37 minutes 29 seconds][Agent] : Vikashni.
+[37 minutes 30 seconds][Customer] : Yeah, Vikashly.
+[37 minutes 32 seconds][Agent] : Perfect. So I see here. Thank you Vikashni Lau, it is important you understand the following information. I will ask for your agreement so these terms at their ends and your policy will not be enforced unless you agree to these terms in full. Life insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services NZ Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided so you is limited to assisting you to make a decision about whether One Slice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered just specific financial needs or goals, or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which states that more information which can assist you to decide whether to text on any advice we provide. Can you please confirm that you understand and agree to this yes or no?
+[38 minutes 53 seconds][Customer] : Yes, I do.
+[38 minutes 55 seconds][Agent] : Perfect. Now the next part here says your answer to the application questions and any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you've provided when assisting your application. I need to remind you of the sorry, I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[39 minutes 22 seconds][Customer] : Yes.
+[39 minutes 23 seconds][Agent] : Perfect. Perfect. So now as you see, we may from time to time provide office ticket by the communication methods you have provided to us in relation to other products and services. By going to this declaration you can seem to allow us to contact you for this purpose until you update. You can update this now by informing me or at any time by contacting us or by using any unsubscribe facility on communications. We seem to you have agreed to take out a single one choice life insurance policy with the following cover. The Kashmir Lao receives $300,000 in the offensive life insurance. A benefit is not paid in the offensive suicide in the 1st 13 months of the policy. Your total premium for the first year of cover is $13.42 per fortnight. Your premium is a stepped premium, which means they'll be calculated of each policy and of these three, and will generally increase as you age. Your sum insured will also increase automatically by 5% each year, and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 77% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. I am basis Rachel Pinnacle with the Bay Financial Strength with an outlook of Fair and a Baby Plus credit rating with an outlook of positive. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via mail and if you've provided us with an e-mail address, this documentation will also be emailed to you today.
+[41 minutes 9 seconds][Customer] : None.
+[41 minutes 4 seconds][Agent] : We will also be sending you a key fax sheet which outlines key aspects of your cover and plain language. You should carefully consider these documents to ensure the product meets your names. You have a 30 day cooling off. During which you may claim to your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GSS at O 800-0058 04oremailsupport@onechoice.co dot NZ. Now I've got two final questions here for you. Now, question number one, do you understand and agree with the declaration? I've just read you yes or no?
+[41 minutes 48 seconds][Customer] : Yes.
+[41 minutes 49 seconds][Agent] : Perfect. And question #2 would you like any other information about the insurance now or would you like me to read any parts of the policy documents to you?
+[42 minutes 3 seconds][Customer] : Isaac, stop it.
+[42 minutes 4 seconds][Agent] : Perfect. So I'm just going to go ahead and accept that declaration there for you now. So congratulations, that's all done for you now, and welcome to the One Choice family. So your documents are going to be with you very shortly via post and via e-mail. All you need to do once you finish reviewing that documentation is fill out the second to last page, which is our beneficiaries form, and post that one back to us so that we can nominate down your beneficiary. But is there anything else I can do for you today?
+[42 minutes 36 seconds][Customer] : Oh, no, thank you.
+[42 minutes 37 seconds][Agent] : Perfect. Well, look, it's been an absolute pleasure. If you have any questions or concerns throughout the life of your policy, please do not hesitate on giving us a call. We'll be more than happy to help.
+[42 minutes 48 seconds][Customer] : OK.
+[42 minutes 47 seconds][Agent] : OK, perfect. So you have a lovely day. We'll talk to you again soon.
+[42 minutes 54 seconds][Customer] : Yeah. Thank you.
+[42 minutes 53 seconds][Agent] : OK, thanks. Bye.

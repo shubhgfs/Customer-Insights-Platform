@@ -1,0 +1,104 @@
+[2 seconds][Customer] : Hi.
+[3 seconds][Agent] : Hello, good afternoon there. David, this is Shaman.
+[9 seconds][Customer] : Hi.
+[6 seconds][Agent] : I'm calling back from Australian Seniors Insurance that is in regard.
+[9 seconds][Customer] : How are you going?
+[11 seconds][Agent] : I'm doing really well. David, how are you doing today?
+[13 seconds][Customer] : Good.
+[14 seconds][Agent] : That's really great. So David, we have you spoken previously in regards to the life insurance cover. So I'm calling back today to help you to get that organized and if you have any question, more than happy to answer that as well. To begin with, do you mind to confirm me with your full name and date of birth, please?
+[13 seconds][Customer] : Thanks, David. Pauls Cabarrus, the 29th of the 5th, 1972.
+[35 seconds][Agent] : Beautiful. And confirming that you are a male and Australian resident.
+[40 seconds][Customer] : Yes.
+[41 seconds][Agent] : Perfect. I'll find a reminder to you, David that all of our calls are recorded. Any advice that I do provide, it is general in nature and it may not be suitable to your situation. OK.
+[53 seconds][Customer] : Yep, Yep, Yep.
+[54 seconds][Agent] : So David, the last time when I spoke to you went, we went through the policy for yourself for the $150,000 that you said that you'd like to leave behind for your niece, your niece, right, beautiful and your payment was monthly basis was $230.94 and that is still kind of manageable and suitable to yourself.
+[1 minutes 15 seconds][Customer] : Right. So what I'd like to do is change it to fortnightly.
+[1 minutes 13 seconds][Agent] : Yeah, we can do that, not a problem.
+[1 minutes 26 seconds][Customer] : Yep.
+[1 minutes 19 seconds][Agent] : So fortnightly we are looking at $106.59 that is coming manageable and suitable to yourself. Beautiful.
+[1 minutes 30 seconds][Customer] : And that is right. That's right. That's right. OK.
+[1 minutes 31 seconds][Agent] : And I and I, yes, David, now I took you through the health and lifestyle questions, uh, the other day when I spoke to you.
+[1 minutes 42 seconds][Customer] : Yep.
+[1 minutes 42 seconds][Agent] : So in relation to that smoking portion and as well as the health and lifestyle cushion. Has anything changed in regards to those questions?
+[1 minutes 51 seconds][Customer] : No.
+[1 minutes 52 seconds][Agent] : Thank you so much. So what I can do for you today, David, I can get you the $150,000 policy organize for your cover and I'll send you the policy copy, so you can review that in writing as well. OK.
+[2 minutes 6 seconds][Customer] : Yep.
+[2 minutes 7 seconds][Agent] : And I will send you two different copies. One is the e-mail copy.
+[2 minutes 12 seconds][Customer] : Yep.
+[2 minutes 12 seconds][Agent] : e-mail copy will be going a little bit quicker. It will go about in the next 15 minutes to half an hour.
+[2 minutes 18 seconds][Customer] : Yep.
+[2 minutes 17 seconds][Agent] : And I have got your e-mail address is David eskibus101@gmail.com, correct?
+[2 minutes 25 seconds][Customer] : That's right. Yep.
+[2 minutes 27 seconds][Agent] : And I got your, umm, best contact NUM. Oh, my apologies. Best contact number is 0438965797. Is that the best contact number that you got? Perfect. And I'll send you the hard copy to your e-mail. Add, uh, to your mailing address as well. So the address that you have provided to me the other day which is number 2 Bablar code Maiderville WA 6057, that is correct. And your postal address was same as the home address too, right?
+[2 minutes 38 seconds][Customer] : That is Yep, Yep, yeah.
+[3 minutes][Agent] : Beautiful. Maybe do you mind to confirm me with your full name and date of birth? Once again, my apologies. Thank you. Perfect. Lovely. So I don't have the middle name included in the system. Did you want me to update that for you?
+[3 minutes 5 seconds][Customer] : David Paul Cabarrus the 396-1973 doesn't matter the site.
+[3 minutes 20 seconds][Agent] : Doesn't matter, that's fine. So review the policy copy that I'm going to send you through. OK. And the great thing is David, this policy does give you a 30 day cooling off. If you decide this policy is not coming suitable for yourself, you can just call us back and cancel within the 30 day.
+[3 minutes 26 seconds][Customer] : Yep, Yep.
+[3 minutes 40 seconds][Agent] : Then you will receive a full refund of your premium unless the claim has been made.
+[3 minutes 45 seconds][Customer] : Alright then, sorry can I just let you know now on the on the 6th of February I can have my first payment taken out?
+[3 minutes 45 seconds][Agent] : OK, 6th of February, Let me check, let me check in my calendar. I can, if I can push the payment up to that far. OK, just give me one second. Alrighty. Yes David, I can push the payment up to 6th of February, not a problem.
+[4 minutes 17 seconds][Customer] : Yep.
+[4 minutes 14 seconds][Agent] : So you'll be covered as of immediately from today, but the first payment, it will be collected from your account on the 6th of February and after that every fortnightly basis from that day.
+[4 minutes 27 seconds][Customer] : Yep.
+[4 minutes 27 seconds][Agent] : OK.
+[4 minutes 27 seconds][Customer] : Excellent. Yep.
+[4 minutes 28 seconds][Agent] : And for the payment, David, what we can do, we can do with the BSP and account number or with the card number. How would you like to do it?
+[4 minutes 36 seconds][Customer] : I need to see my card number.
+[4 minutes 39 seconds][Agent] : OK, before you give me the card number, I just have to pause the call recording.
+[4 minutes 43 seconds][Customer] : Yep.
+[4 minutes 42 seconds][Agent] : OK, just give me one second for security purposes while obtain your card details, the call recording will stop and we'll recommend after we have collected 2 details. The. The. Please be advised the call recording has now resumed for quality and monitoring purposes. So David, one last thing to do now is to read you the declaration for your life cover. And at the end, I'm going to ask you two final question or we can get this one organized for you.
+[6 minutes 41 seconds][Customer] : Yep.
+[6 minutes 38 seconds][Agent] : And after that I'll send you the documents so you can review that in writing. So before I do that, I'm just going to quickly re verify your details once again. So I got your name is Mr.
+[6 minutes 49 seconds][Customer] : Yes.
+[6 minutes 47 seconds][Agent] : David Scrievers, date of birth is 29th of the 5th 1972.
+[6 minutes 54 seconds][Customer] : Yes.
+[6 minutes 55 seconds][Agent] : And I got you as a male and Australian resident correct as well.
+[6 minutes 59 seconds][Customer] : Yes.
+[6 minutes 59 seconds][Agent] : Perfect. Thank you so much, David. And your first payment will be collected from your card on the 6th of February.
+[7 minutes 7 seconds][Customer] : Yep.
+[7 minutes 7 seconds][Agent] : All right. Are you happy to proceed, David?
+[7 minutes 10 seconds][Customer] : OK. Yes, please.
+[7 minutes 12 seconds][Agent] : Thank you so much. I'll read the declaration now. So thank you, David Strivers, it is important you understand the following information. I will ask for your agreement to this terms at the end and your policy will not be enforced unless you agree to this terms in full. Seniors life insurance is issued by Hanover Life Re of Australasia Ltd Hanover has an arrangement with Brimstone Financial Services trading as Australian Seniors Insurance Agency to issue and RNC's insurance on his behalf. Hanover relies upon the accuracy of the information you have provided when accessing your application. That includes the information we initially collected from you to provide a code. Hanover has to Hanover has to the target market determination for this for all, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. David, can you please confirm you have answered all of our questions in accordance with your duty? Yes and no.
+[8 minutes 14 seconds][Customer] : Yep, yes, I have.
+[8 minutes 21 seconds][Agent] : Thank you. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following. David Strivers received $150,000 in the event of debt. If debt is as a result of an accident, the benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your cover expires on 28th of the 5th 2050 seven 12:00 AM. Your premium for your first year of cover is $106.59 bar fortnight. Your premium is debt which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium, calculated on a legal basis over the life of the policy. Your premium will be debited from your credit card, which you are authorized to debit from and have provided to us. We may provide Region communications to you via We may provide written communications to you via the e-mail address you have provided to us. This will include any legal notices we are required to provide to you. If you prefer to receive this only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSU will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider this documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lost your claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a conference process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. So David, a friendly reminder to you as well that all of our calls are recorded. Any advice that I do provide, it is generally nature and may not be suitable to your situation. David, I'm going to ask you two final question, OK? The first one is, do you understand and agree with the declaration, yes or no?
+[10 minutes 58 seconds][Customer] : Yep, Yes, I do.
+[11 minutes 4 seconds][Agent] : Thank you. I appreciate that. And the last question that is for myself, would you like any other information or would you like me to read any part of the PDS to you, yes or no?
+[11 minutes 13 seconds][Customer] : No, thank you.
+[11 minutes 15 seconds][Agent] : You're welcome. And in regards to your premium, if you need more information, you can also find information about our premium instructor on our website as well.
+[11 minutes 24 seconds][Customer] : Alright then. Yep.
+[11 minutes 23 seconds][Agent] : OK, So David, I'm going to AC accept the declaration on your behalf and I'm going to give you the policy or reference number in a second.
+[11 minutes 37 seconds][Customer] : Yep.
+[11 minutes 35 seconds][Agent] : If you get a pen and paper handy, maybe I can give it to you now.
+[11 minutes 40 seconds][Customer] : Right. That's OK then.
+[11 minutes 39 seconds][Agent] : OK, Alright, alright, take your time. No rush. My system is still loading, it's still buffering, so it's still running a little bit behind.
+[11 minutes 55 seconds][Customer] : Right.
+[11 minutes 54 seconds][Agent] : OK, Sorry David. My sister might need one more coffee to go through the day. Working. Working a little slow to them. I'm so sorry. How's your day been by the way? Are you having a good day?
+[12 minutes 8 seconds][Customer] : Well, you're, it's only 10:00 in the morning here, so it's only just really started.
+[12 minutes 12 seconds][Agent] : Only just started. OK. For us, we are like 3 hours, 3 hours ahead of you. Almost after midday. Not long to go Friday. So best day of the week. Beautiful. So I've got your policy reference number ready. David, would you like to write?
+[12 minutes 13 seconds][Customer] : Yeah, Yep, Yep.
+[12 minutes 28 seconds][Agent] : OK, the number is 202000 4658.
+[12 minutes 28 seconds][Customer] : That's it for 20 2000, 4658.
+[12 minutes 43 seconds][Agent] : Yes, please.
+[12 minutes 41 seconds][Customer] : Now let me read that back to you, 2020004658.
+[12 minutes 48 seconds][Agent] : Correct, and I'm also going to give you the customer support number just in case if you need to make any changes to your policy, you can call us up directly as well.
+[12 minutes 52 seconds][Customer] : Yep, Yep.
+[12 minutes 57 seconds][Agent] : I'm as that what you are more than welcome to help in the future as well.
+[13 minutes][Customer] : 1, 1800.
+[13 minutes][Agent] : Alright, and number is 1800 uh, 00 uh four 005 1800004005 that is our support department number. So David, one last thing to do is to help you with the beneficiary process. OK And as you said, you would like to nominate your niece and nephew. So what we can do?
+[13 minutes 10 seconds][Customer] : 4 4005 Yep Yep yes.
+[13 minutes 30 seconds][Agent] : I can help you to get that one organized over the phone. I'm not a specialist in the area. I'm going to transfer you over to our support team and they will be able to help you to finalize that. Apoli the.
+[13 minutes 41 seconds][Customer] : Well I can. I'm sorry. I'm BU I'm busy with one as well and like now like I've done this phone call. Is there a way I can get them to call me back with all this information?
+[13 minutes 50 seconds][Agent] : Of course, what time would be suitable to call you back, David?
+[13 minutes 50 seconds][Customer] : Sorry to hear about.
+[13 minutes 53 seconds][Agent] : Not a problem.
+[13 minutes 54 seconds][Customer] : Well, 2:00 my time, which is 5:00 your time. Is that alright? Yeah. Yeah.
+[14 minutes][Agent] : Of course, it's more than OK, so we can call you back around 2:00 PM to get the Pol, the beneficiary finalized today.
+[14 minutes 5 seconds][Customer] : Yep. Alright, then. Yeah, that'd be great.
+[14 minutes 5 seconds][Agent] : OK, you too. Thank you. David. Is there anything else I can do for you today before I let you go?
+[14 minutes 12 seconds][Customer] : No, that's all you can do for me today.
+[14 minutes 15 seconds][Agent] : You're welcome.
+[14 minutes 13 seconds][Customer] : Thank you very much for your help. Alright then. Thank you.
+[14 minutes 16 seconds][Agent] : Thank you, David, thank you for choosing Australian seniors insurance. Have a good day.
+[14 minutes 20 seconds][Customer] : Thank you. Bye.
+[14 minutes 21 seconds][Agent] : Bye.

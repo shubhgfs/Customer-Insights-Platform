@@ -1,0 +1,42 @@
+[2 seconds][Agent] : Hey, good morning. Hey.
+[3 seconds][Customer] : Hey, how's it going?
+[3 seconds][Agent] : How's it going? Good. Thanks. How are you?
+[6 seconds][Customer] : I'm not bad.
+[5 seconds][Agent] : I'm not bad.
+[7 seconds][Customer] : I think this one is actually yours.
+[10 seconds][Agent] : I think this one is actually yours.
+[10 seconds][Customer] : I have Gladys on the phone.
+[14 seconds][Agent] : Mm. Hmm. I have Gladys on the phone. He is actually a life application with us. And he advised me that we were active in her health record. Yeah.
+[12 seconds][Customer] : She did complete a life application with us and she advised me that we were accessing her health record and she was wondering if there was any progress on that.
+[20 seconds][Agent] : And he was wondering if there was any progress on that. OK, no worries. Umm, if you want to pop her through, I don't think there has been yet.
+[31 seconds][Customer] : OK, no problem.
+[33 seconds][Agent] : No problem.
+[32 seconds][Customer] : I'll drop A1.
+[33 seconds][Agent] : I'll drop a walk. Uh, drop her in. That's fine.
+[36 seconds][Customer] : Perfect. Thank you. I'll do that in 321.
+[35 seconds][Agent] : Yeah, I'll do that in 321. Hi. Good morning Gladys. You've got Rick again from Real Insurance. How are you?
+[48 seconds][Customer] : Good. Thanks. How are you?
+[49 seconds][Agent] : Good. Thank you. Umm, so I was just chatting to Bridget. You're just chasing up the status of your application for the life cover.
+[59 seconds][Customer] : Yes, please. Yeah.
+[1 minutes][Agent] : Yep. Umm, sorry. Have you spoken to Underwriter yet? Hanover? Have you filled out the consent form for them as well?
+[1 minutes 10 seconds][Customer] : Yeah.
+[1 minutes 11 seconds][Agent] : Got it. OK. Perfect. Yeah.
+[1 minutes 10 seconds][Customer] : I still don't have the day after we spoke last, OK, Right.
+[1 minutes 14 seconds][Agent] : Umm, no, no, no. Perfect. Umm, look, there's no update on on our end at the moment. Umm, so it looks like it is still, they're still just getting things assessed. Umm, so this it can take up.
+[1 minutes 25 seconds][Customer] : OK.
+[1 minutes 26 seconds][Agent] : Yeah. So they're still just, umm, yeah, working their way through the assessment process. All right? Umm, but you are still covered under that interim accidental death cover as well. OK, umm.
+[1 minutes 37 seconds][Customer] : Are you by any chance able to send me like a e-mail confirmation because I have no record of my application with you guys, just in case.
+[1 minutes 44 seconds][Agent] : Oh, I'm so yes, no trouble at all. So sorry about that. I'll send through. I'll send it through now.
+[1 minutes 51 seconds][Customer] : Yeah.
+[1 minutes 51 seconds][Agent] : Alright.
+[1 minutes 51 seconds][Customer] : Can you just confirm the e-mail please?
+[1 minutes 53 seconds][Agent] : Yeah. So it's THE, the and then your surname. Fatialofas@gmail.com.
+[2 minutes 1 seconds][Customer] : Yeah, that's lovely.
+[2 minutes 1 seconds][Agent] : And that's FATIALOFAS.
+[2 minutes 5 seconds][Customer] : Yeah.
+[2 minutes 5 seconds][Agent] : Yeah. All right. So I'll send that through to you now. OK. And yeah, look, once we've got an update, I'll be calling you back directly to give you that outcome. All right?
+[2 minutes 15 seconds][Customer] : Oh, OK, perfect.
+[2 minutes 16 seconds][Agent] : So, yeah. When what It was, it's been, what, 10? Yeah. Week and a half. Hopefully by the end of next week, I should have a response for you.
+[2 minutes 28 seconds][Customer] : OK, no problem. I'll look forward to that e-mail.
+[2 minutes 30 seconds][Agent] : OK, no worries. Thanks for this. Have a good one. Bye.
+[2 minutes 30 seconds][Customer] : Thank you. Bye.

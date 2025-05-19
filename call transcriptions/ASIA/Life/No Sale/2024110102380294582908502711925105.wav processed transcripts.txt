@@ -1,0 +1,41 @@
+[11 seconds][Agent] : Hi, Andrew, it's Amanda calling from Australian Senior. So I'm giving you a call as we've received your expression of interest online in regards to our life insurance. How are you today?
+[20 seconds][Customer] : Hello. Yeah, very good. How about yourself?
+[23 seconds][Agent] : Yeah, I'm very well. Thank you. Thanks so much for asking. Before I can assist you further with the cover, the entry, can I just confirm your full name is Andrew House, is that correct? And I have your date of birth here is the 19th of the 12th 1972, is that right? Fantastic. Can I also concern that you are a male and an Australian resident?
+[33 seconds][Customer] : Alright, alright, alright.
+[49 seconds][Agent] : Wonderful, thank you. Please note all our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. Also, I can have a better understanding, Andrew, of what? What you're looking into life insurance? Do you currently have some cover in place already?
+[1 minutes 6 seconds][Customer] : Yes, yes, I do.
+[1 minutes 7 seconds][Agent] : Yeah.
+[1 minutes 9 seconds][Customer] : And I just realized that I'm the, the, the cover I'm paying for is, is is quite expensive.
+[1 minutes 17 seconds][Agent] : Oh, it's expensive, is it? Yeah.
+[1 minutes 18 seconds][Customer] : So yeah, I just need to replace it with more competitive.
+[1 minutes 23 seconds][Agent] : OK. Yes. Have you had it for a long time there, Andrew? The current policy, yeah.
+[1 minutes 30 seconds][Customer] : I have, yeah, I think nearly three or four years.
+[1 minutes 32 seconds][Agent] : Oh, I see. OK, so you're just looking for something a little bit cheaper in price, are you? As far as premiums go?
+[1 minutes 32 seconds][Customer] : Yeah, yeah.
+[1 minutes 47 seconds][Agent] : Oh, I see. OK. How much are you currently covered for at the moment with your current policy?
+[1 minutes 39 seconds][Customer] : And, and to and to increase it just to keep up with, uh, you know, inflation I think, uh, quite a million.
+[1 minutes 56 seconds][Agent] : Half a million. OK, no problems. All right, So what I can do is I can get you the main features and benefits of umm and once through some pricing with you in regards to our life insurance and umm, and we can go through and see what we can fit well within your budget.
+[2 minutes 12 seconds][Customer] : Yep.
+[2 minutes 11 seconds][Agent] : Umm, So what I'll do is I'll just let you know that this thing is life insurance is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away before your 85th birthday when the policy ends. So you can choose cover up between $10,000 up to $200,000 and nominate up to five beneficiaries to receive that nominated benefit amount that you choose. So do you currently have umm, some children or or a partner and you that you'd like to leave that money to?
+[2 minutes 44 seconds][Customer] : Yes, I I have a partner and four children and a grandson.
+[2 minutes 48 seconds][Agent] : Oh, fantastic. OK, lovely. That's lovely. OK, well, what you can do is with that once the policy is set up in place for you and you will send out a beneficiary's form that you can fill out and then send back into us so that we know who your beneficiaries are and so that they can make a claim on the policy when the time is needed. OK, so just so you know that if death, if your death is due to an accident as well and your chosen benefit amount will triple within this policy.
+[3 minutes 18 seconds][Customer] : Yeah.
+[3 minutes 18 seconds][Agent] : And we also include advance payment of 20% of the benefit amount to help with funeral costs or any other final expenses at the time. So your wife and children would be able to make a claim for that 20% to help if your funeral should the the need ever arise in the future. There Andrew. So it's easy to reply. We just asked you a yes or no questions relating to your health service. Sign to see if you are approved and if you're accepted and once you commence the policy, you'll be covered immediately for death due to any cause except suicide in the 1st 13 months. In addition, there is a terminally ill advanced payment included in the cover.
+[3 minutes 57 seconds][Customer] : None.
+[3 minutes 55 seconds][Agent] : So if you were diagnosed with 24 months or less to live by specialized medical practitioner, we can pay your benefit amount out in full to you Andrew, while you're still living to help with things like medical costs. Ensure that to ensure you get the best care possible there. But because you're already got an existing policy and judge, I should let you know too that if you are replacing the existing policy, we recommend that you do not cancel that policy until your application has been approved and you have reviewed this policy. As your new policy may not be identical to your existing cover, you should also consider the benefits that may not apply or waiting periods that may start again. OK. So do you have any questions for me around any of that so far, Andrew?
+[4 minutes 38 seconds][Customer] : Uh, no, I don't.
+[4 minutes 39 seconds][Agent] : No, it it's all sounding understandable for you. Yeah. Fantastic. OK, So what I can do is we can go through some quotes together and some pricing and we can adjust that to, umm, to the level of cover that will suit you. And as I said, umm, the level of cover ranges from $10,000 up to $200,000. Umm. But before I go into that, I just need to ask. And you, have you had a cigarette in the last 12 months? No. OK. OK.
+[5 minutes 6 seconds][Customer] : I know probably uh started the 200,000.
+[5 minutes 11 seconds][Agent] : So is there a particular amount of cover that you would like to me to look at first for you and we can adjust that accordingly to your budget 200,000? Sure. OK. So it's $200,000 of cover. You're looking at a fortnightly premium of $113.07 there every two weeks. How's that sounding as far as affordability for you?
+[5 minutes 43 seconds][Customer] : Yes. So that sounds very expensive. Very, very, very.
+[5 minutes 47 seconds][Agent] : Oh, is it very expensive compared to what you've already got in place?
+[5 minutes 55 seconds][Customer] : Yeah, yeah.
+[5 minutes 54 seconds][Agent] : I I can imagine. Yeah. Well, oh, that's OK. What I can do is I can also adjust the double amounts to to decrease it for you to see what would be most suitable for your budget.
+[6 minutes 1 seconds][Customer] : Thank you very much. Will do.
+[6 minutes 12 seconds][Agent] : Yeah. OK. No problems. Well, OK.
+[6 minutes 14 seconds][Customer] : Thank you so much.
+[6 minutes 14 seconds][Agent] : If there's any, if you have any questions in the in the future, feel free to reach out to us and we'll be able to assist you there. And you.
+[6 minutes 21 seconds][Customer] : Thank you for your call.
+[6 minutes 22 seconds][Agent] : Thank you for your time today.
+[6 minutes 23 seconds][Customer] : Thank you. Bye.
+[6 minutes 24 seconds][Agent] : No problem. Thank you. Bye. Bye.

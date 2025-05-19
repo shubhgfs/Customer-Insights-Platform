@@ -1,0 +1,79 @@
+[0 seconds][Agent] : Let me go. Good morning. Welcome to Real Insurance. Speaking with Rob. How can I help you there today?
+[6 seconds][Customer] : Yeah, good day, mate. Look, I just need to update my credit card details, please.
+[10 seconds][Agent] : Yeah, certainly not a problem. Do you have a policy number there? Start with that.
+[14 seconds][Customer] : No, no, I don't, sorry.
+[16 seconds][Agent] : That's all right. That's all right. What's your first name?
+[19 seconds][Customer] : First name is Colin.
+[22 seconds][Agent] : Yeah, and calling your surname.
+[20 seconds][Customer] : Colin Vincent. Vincent.
+[30 seconds][Agent] : And that's birth. Thanks, Scott.
+[33 seconds][Customer] : What's that?
+[34 seconds][Agent] : Your date of birth there. Thanks, 1951. Let me just have a look there for you.
+[36 seconds][Customer] : Yeah, 26051951 It won't work for me.
+[42 seconds][Agent] : And what's your passcode? OK, great. And so the policy you have, is that life or funeral?
+[47 seconds][Customer] : 2164 General Insurance.
+[54 seconds][Agent] : OK, let me just have a look here for you. And what would your e-mail address be there too? Thanks.
+[1 minutes][Customer] : Call vincent1951@gmail.com.
+[1 minutes 1 seconds][Agent] : Yeah, OK, great. And do you know how often you pay your policy?
+[1 minutes 8 seconds][Customer] : Yeah, fortnightly.
+[1 minutes 7 seconds][Agent] : And how about how much can you confirm your date of birth and e-mail? Let me have a look at that. Some change. Let me see what the changes. You have $58 and the change is $0.19.
+[1 minutes 10 seconds][Customer] : I think it's $58 and OK, OK, Yep.
+[1 minutes 21 seconds][Agent] : OK, pretty close. And I've got a home address here, so just bear with me. That's unit 73846 Navini Ave.
+[1 minutes 34 seconds][Customer] : Correct.
+[1 minutes 31 seconds][Agent] : Smithfield, NSW 2164 and your best contact number O 411195924.
+[1 minutes 40 seconds][Customer] : That's right.
+[1 minutes 42 seconds][Agent] : OK, just want to update your banking details. Is that right?
+[1 minutes 46 seconds][Customer] : Yeah, yeah, yeah.
+[1 minutes 46 seconds][Agent] : OK.
+[1 minutes 46 seconds][Customer] : Credit card details, Yeah.
+[1 minutes 47 seconds][Agent] : Yep. Sure. OK, no problem.
+[1 minutes 49 seconds][Customer] : And I think you need to take out two payments, one from last fortnight when I rang up.
+[1 minutes 54 seconds][Agent] : There's one. OK, So just to let you know, so there's one scheduled tomorrow which is your regular payment of $58.19 and there's one that was originally due on the 4th of October that's been rescheduled to the 19th, so umm, the day after.
+[2 minutes 2 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, Yep.
+[2 minutes 13 seconds][Agent] : So let me update your card details first.
+[2 minutes 16 seconds][Customer] : OK.
+[2 minutes 15 seconds][Agent] : Just bear with me and look at the other I can now for security purposes whilst obtaining the card details. Colin, the call recording will stop and will recommence after we have. None. But also just to let you know too, please revise the call recording has no reason for quality and monitoring purposes And can also please confirm that you verbally agree for your fortnightly payment to be debited from your card in the name of Colin Vincent through our bulk electronic clearing system.
+[3 minutes 47 seconds][Customer] : Yep.
+[3 minutes 47 seconds][Agent] : OK, great. All right, So that's done.
+[3 minutes 57 seconds][Customer] : Yep. Yep. Yeah. Leave it as it is.
+[3 minutes 51 seconds][Agent] : All right, so with regard into your payments, if you do have a regular one tomorrow and then one that was due from the 4th of October on the 19th, do you want to leave those as are or OK? All right, no problem. And also just to let you know too, while I've got you that did you know that we do have a self-service portal that does allow you also to update your contact information, payment details and also to make an outstanding payment. And you can also view your policy information rather easily.
+[4 minutes 3 seconds][Customer] : Yeah, yeah, yeah.
+[4 minutes 21 seconds][Agent] : So you do you simply visit my account on our real website.
+[4 minutes 27 seconds][Customer] : Yep.
+[4 minutes 26 seconds][Agent] : Then all you require is your mobile number, the 8 digit dates of birth that we have recorded on file for your policy to sign in. You then receive an SMS with the with the digital code given to that.
+[4 minutes 38 seconds][Customer] : Yep, Yep.
+[4 minutes 38 seconds][Agent] : And then you can have a look as you see fit. Or of course, you're was more than welcome to call in as well.
+[4 minutes 44 seconds][Customer] : OK, alright, no problem.
+[4 minutes 42 seconds][Agent] : OK, alright, alright, So anything else? Yep.
+[4 minutes 45 seconds][Customer] : Look, yeah, one question.
+[4 minutes 48 seconds][Agent] : Yes, you're welcome. Have a good day.
+[4 minutes 49 seconds][Customer] : My policy is a funeral policy and it's a 10,000 dollars, 10,000 funeral policy.
+[4 minutes 53 seconds][Agent] : Take care. Yes, yes.
+[4 minutes 56 seconds][Customer] : And now if I want to update that to 20,000, what would that cost me per fortnight?
+[5 minutes 1 seconds][Agent] : I think the maximum now you can only increase it to is up to 15,000.
+[5 minutes 7 seconds][Customer] : Alright. OK, alright. What would that cost per fortnight? Extra. Yep.
+[5 minutes 12 seconds][Agent] : OK, I'll just put you on hold for a minute or two and I'll just call that that information. OK.
+[5 minutes 15 seconds][Customer] : OK, Yep.
+[5 minutes 15 seconds][Agent] : Well, just bear with me, OK?
+[5 minutes 18 seconds][Customer] : Hey.
+[8 minutes 9 seconds][Agent] : Are there?
+[8 minutes 9 seconds][Customer] : Yes, yeah, mate.
+[8 minutes 10 seconds][Agent] : You're there, Colin, so I'll keep you waiting.
+[8 minutes 11 seconds][Customer] : Yeah, yeah. Hmm. Mm.
+[8 minutes 12 seconds][Agent] : So, so with this one, you can't actually increase, but you can take out separate cover to top up. So if you want that extra 5000, the premium, that would be an extra $28.85 a fortnight.
+[8 minutes 25 seconds][Customer] : OK.
+[8 minutes 25 seconds][Agent] : So I mean, your total payments for the 2 will come to $87.04 a fortnight.
+[8 minutes 31 seconds][Customer] : OK. All right. All right.
+[8 minutes 32 seconds][Agent] : So is that what you want to do?
+[8 minutes 33 seconds][Customer] : Thanks for the info. I'll, no, I won't do it right now.
+[8 minutes 36 seconds][Agent] : OK, no problem.
+[8 minutes 36 seconds][Customer] : I'll next couple of weeks. All right.
+[8 minutes 39 seconds][Agent] : Yeah, OK, well, let's see I can have a think about it.
+[8 minutes 42 seconds][Customer] : Yep.
+[8 minutes 41 seconds][Agent] : And if you have a just go ahead was just give us a call and we'll help you out with that. OK.
+[8 minutes 46 seconds][Customer] : Alright, good mate.
+[8 minutes 47 seconds][Agent] : All right, Thanks darling.
+[8 minutes 47 seconds][Customer] : Thanks all for that.
+[8 minutes 48 seconds][Agent] : No problem. Take care.
+[8 minutes 49 seconds][Customer] : Thank you. Bye, bye. Bye.
+[8 minutes 49 seconds][Agent] : Thanks for your time all. Good bye now.

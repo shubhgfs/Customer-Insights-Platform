@@ -1,0 +1,86 @@
+[2 seconds][Agent] : Hi, Brad, How's it going?
+[2 seconds][Customer] : Hey, Michael, good. Thank you. How are you?
+[5 seconds][Agent] : Good. What do you got for me?
+[4 seconds][Customer] : It's got, I've got Suzanne for you. She's looking to take her husband off the policy and as the as the split up. So she's looking to have that done. I've confirmed just a full name, date of birth, policy type and the e-mail on file.
+[25 seconds][Agent] : OK, bear with me while I'm picking up the policy. OK, if you want to won't transfer to her, I'll give her a hand.
+[41 seconds][Customer] : Sounds good. One moment. OK. Thank you for your patience with me. I do have Michael on the line with our support team and he'll be able to assist you out further. So thank you and go ahead, please. Thank you. OK, Thank you.
+[57 seconds][Agent] : Good morning Miss Bench, My name is Michael from the support department of Real Insurance. How are you today?
+[1 minutes 3 seconds][Customer] : I'm sorry. Do that.
+[1 minutes 4 seconds][Agent] : Good. And because you've been transferred through to me, that's just a few things I have to do just while I'm opening up your policy. Firstly, you've probably already heard it, but I have to tell you that the calls are recorded and any advice providers generally nature and may not be suitable for your situation. And secondly, I understand that right. The menu at the speaking rooms already confirmed most of your details, so I'm not going to make you repeat it all over again. But while I'm opening up the policy, I'll just check the last couple of bits for you.
+[1 minutes 10 seconds][Customer] : Yeah, that's right.
+[1 minutes 30 seconds][Agent] : There's a post of 2377 Road in jumbled West QLD 4486, and the mobile that you're calling from matches the one on the policy, so I'm going to guess that that's correct as well.
+[1 minutes 44 seconds][Customer] : Yeah. Yeah.
+[1 minutes 45 seconds][Agent] : All right, thanks for confirming these details for me, Suzanne. And how can I help you today?
+[1 minutes 49 seconds][Customer] : Well, I want to take my husband off this policy.
+[1 minutes 52 seconds][Agent] : OK, I can assist you with that.
+[1 minutes 53 seconds][Customer] : My ex is my ex-husband, I should say.
+[1 minutes 57 seconds][Agent] : I understand. Uh, let me get that ready. Bear with me one moment. OK. So if we were to remove David from the policy, it's going to reduce the cost of the cover. It's going to bring it down to $41.30 per month.
+[2 minutes 41 seconds][Customer] : Oh, OK.
+[2 minutes 42 seconds][Agent] : Now for me to make this type of change over the front, there's a bit of information I do need to make sure I go over with you.
+[2 minutes 50 seconds][Customer] : Yep, Yep.
+[2 minutes 49 seconds][Agent] : If you have any questions or concerns as I'm going through, just jump in and ask me. Don't worry about cutting the offer, OK? All right. Now the first thing they keep in mind is that these types of policies, people can be removed at any time. Uh, they may not be able to be added back on to the policy if the situation does change.
+[2 minutes 56 seconds][Customer] : OK, that's alright.
+[3 minutes 8 seconds][Agent] : Uh, so please keep that in mind.
+[3 minutes 10 seconds][Customer] : It won't. It won't change.
+[3 minutes 12 seconds][Agent] : That's right.
+[3 minutes 14 seconds][Customer] : I know, I know.
+[3 minutes 12 seconds][Agent] : I still have to say that, yeah. Now with this one because you're individual benefit of that especially going to affect the terms on your part of the policy. So it's still going to provide your loved ones with that cash benefit of the $5000 the event that you were to pass away. And if that was due to an accident, then the benefit of that is still tripled. You still get that early cash out option. So once the oldest person under the policy, which will be yourself once we've removed David, uh, reaches the age of 85, you have the option to cancel the policy and receive a cash out benefit of 50% of the funeral insurance benefit amount for one life insured. That's if you wish to do so. You don't have to. You also have the option at that time, uh, you will also get uh, access to the sum insured bonus. Once you, the oldest person comes under the policy reaches the age of 90. Uh, premiums are no longer payable. Uh, you also receive a 25% sum insured bonus on the funeral insurance benefit amount at no additional cost to yourself.
+[4 minutes 11 seconds][Customer] : OK.
+[4 minutes 10 seconds][Agent] : Uh, from the age of 19, if you opt to cancel your cover and receive the cash up benefit, it would be still be 50% of the increased funeral insurance benefit amount for one life insured. Any, any questions about any of that so far?
+[4 minutes 23 seconds][Customer] : Yeah, yeah, that's fine.
+[4 minutes 28 seconds][Agent] : OK, so let me just get this ready. Just bear with me, OK? Now I'm getting this ready as well. Just as again, a little bit of general information, feel free to do with the, what you wish. Uh, but when we remove David from the policy, it's not going to set up his own separate policy for himself. He would just no longer be covered. If he wishes to take out a policy of his own, he'll be able to contact us and do that himself as long as he's, uh, does it before he reaches the age of 90. That'd be the kind of age for application on the funeral insurance policies.
+[5 minutes 36 seconds][Customer] : Yeah, Well, that's up to me.
+[5 minutes 38 seconds][Agent] : Exactly. So I don't think that's really your problem, but again, just going to make sure I let you know.
+[5 minutes 37 seconds][Customer] : No, I know, I know.
+[5 minutes 42 seconds][Agent] : All right, all right. So can you please, uh, confirm that you agreed to remove David from the policy and understand that once you accept this change, any requests to increase the insured amount in the future will be subject to age eligibility in the application process, which may result in new terms and conditions or the application could be declined.
+[6 minutes][Customer] : Yeah. If if I'm gonna keep paying the same amount, what does that do?
+[6 minutes 10 seconds][Agent] : So you'd be proving increasing the benefit amount for yourself.
+[6 minutes 14 seconds][Customer] : Yeah, if I just pay what I'm paying for.
+[6 minutes 14 seconds][Agent] : You, you may not, you may not be able to increase this particular type of policy, but you may have an option called a top up cover. Let me have a look and see if this one can be increased because it is 1 from 2011. So it's changed a little bit since then, but let me double check for you. OK.
+[6 minutes 32 seconds][Customer] : OK, TA, OK.
+[6 minutes 57 seconds][Agent] : So also you would be able to, to increase this one, I'd have to finish removing David from the policy and then I can go through some quotes for you though, OK All right. So just confirm you're happy for me to make that change to the policy today.
+[7 minutes 13 seconds][Customer] : Yes, please.
+[7 minutes 12 seconds][Agent] : All right, So that's that part done. OK, Now when we make a new change to the policy like this, whether it's, uh, changing the benefit amount, removing someone or adding someone, uh, we send out a change of insurance letter with an updated policy schedule to confirm. Uh, what we ask is that when you get that, just have a look over it to make sure that the details are correct. And if there's any issues, just give us a call and let us know.
+[7 minutes 39 seconds][Customer] : OK.
+[7 minutes 38 seconds][Agent] : All right, now bear with me while I give you a quote for an increased amount. OK. Now while it is getting ready to to generate the quote, just so you are aware the there's going to be a different pricing amount simply because the amount the cost of the policy is based on your age at the time of application that increases over time from that. So if we were to look at something similar to what you already have, it would be go from 5000 to 6000. That would be 6439 per month. But what I'm also going to have a look at is still that top up cover because, uh, the top up might get you something a little bit different. So let me just have a look at that option as well.
+[8 minutes 37 seconds][Customer] : OK.
+[9 minutes 11 seconds][Agent] : OK. If I look at a top policy, even the, the minimum, the 3000 for that would be an additional 6250 a month. So it's going to be a little bit more than what you were previously paying because that'd be a total of, uh, $103.80 per month. Yeah, OK.
+[9 minutes 28 seconds][Customer] : Yeah, no, that's a bit much at the moment. A little bit, yeah. No, I'll leave it.
+[9 minutes 31 seconds][Agent] : That's, that's OK. Uh, we'll keep an eye out for that change of insurance letter. Uh, so the only change I've made is just removing them from the policies that'll cover just yourself, Uh, but your benefit would still be the 5000. So when you get that change of insurance set up, have a look over it. If there's any issues, uh, give us a call and let us know.
+[9 minutes 42 seconds][Customer] : Yeah, OK. Lovely.
+[9 minutes 50 seconds][Agent] : Uh, let me just check one other thing as well, just to see whether there's a beneficiary on the policy or not.
+[9 minutes 58 seconds][Customer] : Oh, that's the point. Yeah. Yeah.
+[9 minutes 59 seconds][Agent] : Uh, Yep. You have Samantha, uh, uh, Eckhart as the beneficiary. That should still be fine.
+[10 minutes 6 seconds][Customer] : No, the beneficiary I wanted, I think my daughter was on it, wasn't she? Samantha.
+[10 minutes 11 seconds][Agent] : That's right. She's currently the beneficiary. Did you need that changed as well or?
+[10 minutes 14 seconds][Customer] : Yes, please. I want to change to to Robin and Leah Bangham.
+[10 minutes 24 seconds][Agent] : OK, so we're going to put down to beneficiaries. So we divided between them as a percentage.
+[10 minutes 31 seconds][Customer] : Really. Whoever the the husband and wife that's No just do it. My son. Just do it. Robin. Robin Bangham. That's it.
+[10 minutes 37 seconds][Agent] : RABIM surname is BANGH AM.
+[10 minutes 39 seconds][Customer] : Yeah, that's it.
+[10 minutes 46 seconds][Agent] : Can I get Robin's date of birth? Give me one moment.
+[10 minutes 49 seconds][Customer] : OK, the 12th of the 12th of March 67, would it be 12th? No, hang on. No, it's not. It's the 13th. Sorry.
+[11 minutes 6 seconds][Agent] : That's OK.
+[11 minutes 6 seconds][Customer] : It's the 13th of March 67.
+[11 minutes 9 seconds][Agent] : 13th of March 1957.
+[11 minutes 16 seconds][Customer] : It's my other seventh of the 12th, not of much, but on the 12th of May.
+[11 minutes 25 seconds][Agent] : OK. And what did you want me to put down? Just the postal address for Robin?
+[11 minutes 23 seconds][Customer] : Yeah, the same.
+[11 minutes 30 seconds][Agent] : Same.
+[11 minutes 30 seconds][Customer] : The same is the one of me.
+[11 minutes 30 seconds][Agent] : Not a problem.
+[11 minutes 32 seconds][Customer] : Yeah.
+[11 minutes 32 seconds][Agent] : And did you want me to list a contact number for him?
+[11 minutes 38 seconds][Customer] : My name, have I? I haven't got it written. I haven't got it written down.
+[11 minutes 43 seconds][Agent] : That's OK. It's not a requirement, uh, because I would normally contact us at time to claim so we can still update it. It's just if you want to add that contact number, give us a call later and we'll add it as well.
+[11 minutes 52 seconds][Customer] : Yeah, OK. I'll, I'll, I'll tell you when I ring up and after I've read the letter.
+[11 minutes 55 seconds][Agent] : But uh, not a problem at all. So I'll just confirm then that you're happy for Robin to receive the entire benefit amount.
+[12 minutes 6 seconds][Customer] : Yes.
+[12 minutes 7 seconds][Agent] : All right, Suzanne. OK, Suzanne, I'll confirm that your beneficiary has also been updated. So when you get that change of insurance letter, just have a look at the beneficiary section. Double check. That's all OK as well.
+[12 minutes 16 seconds][Customer] : Yeah. Yeah. OK. Well, thank you.
+[12 minutes 18 seconds][Agent] : All right, that's OK. Anything else I can assist you with today?
+[12 minutes 22 seconds][Customer] : No, that's it. I'm through.
+[12 minutes 24 seconds][Agent] : Not a problem. Thank you for calling. Have a nice day.
+[12 minutes 23 seconds][Customer] : Yeah, and you should.
+[12 minutes 29 seconds][Agent] : Bye.
+[12 minutes 30 seconds][Customer] : OK, Bye. Bye.

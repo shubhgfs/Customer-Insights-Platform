@@ -1,0 +1,34 @@
+[2 seconds][Agent] : Welcome to billing insurance. You're speaking with Regina. How can I help? Mm. Hmm. Yeah, thank you. So what was your first name, last name, thank you. And your date of birth, please. Thank you. And your address includes the post code.
+[6 seconds][Customer] : Hello uh my name is Istvan Pinter uh about my NI anniversary uh uh is coming up uh on on June uh yeah and my policy number is uh 22301 uh uh 30 3:06 uh Istvan Istvan printer printer 22nd 4th 1945 13 Begonia court uh Baconsfield Mackay 474 O.
+[1 minutes 7 seconds][Agent] : Thank you. And it's the one I've got 0749423203 is the contact number. OK, perfect. OK, here we go.
+[1 minutes 14 seconds][Customer] : Yes, yes, yes, yeah.
+[1 minutes 18 seconds][Agent] : Just going to help you into your profile and how can I help you? Yeah. OK. So just want to decline the automatic summit should increase for the renewal.
+[1 minutes 20 seconds][Customer] : Uh, I, I like to, uh, decline, decline the, the, the payment or I said, you know, increase from 55 by 5%, you know, and I like to be declined, you know, for the next, next, next, you know, yeah, yeah, declined, yeah, declined.
+[1 minutes 43 seconds][Agent] : All right, give me one quick moment. OK, I'm just going to hop into this one here a little bit slow. Alright, and you'd be happy to keep the benefits at umm $9848, correct?
+[2 minutes 16 seconds][Customer] : I I think I have AII think I have have 10,400 uh it's, it's ten 10,340.
+[2 minutes 21 seconds][Agent] : So if you yes, it says 1010 thousand 3 100 umm, so at the moment it's $9848 and you're paying $53.66. If you wanted the benefit to go to 10,340, you'd be paying $60.83.
+[2 minutes 27 seconds][Customer] : I think I have so far yeah, yeah, wha, yeah. What about the the the the declined 1?
+[2 minutes 49 seconds][Agent] : So declined one. I'll just have a look. Give me just a quick moment. And you wanted around $10,000 coverage, did you?
+[3 minutes][Customer] : Yeah, yeah, please.
+[3 minutes 2 seconds][Agent] : Yeah. OK, give me one second. All right. Just waiting for it to load.
+[3 minutes 24 seconds][Customer] : Yeah.
+[3 minutes 18 seconds][Agent] : So if you decline the automatic sum, it should increase and kept it at 9848 it's going to be. Waiting for it to load. OK, we card. All right, It'll be $57.94.
+[3 minutes 52 seconds][Customer] : Yeah, never mind. You know, stay on the 60 on on the 6083.
+[4 minutes][Agent] : You're happy to keep it the $60.83.
+[4 minutes][Customer] : Yeah, yeah, yeah. Yeah.
+[4 minutes 5 seconds][Agent] : OK, OK.
+[4 minutes 7 seconds][Customer] : Yeah.
+[4 minutes 6 seconds][Agent] : So I'll leave it at that then. I'll leave it the way it is.
+[4 minutes 9 seconds][Customer] : Oh, OK.
+[4 minutes 11 seconds][Agent] : That's OK.
+[4 minutes 11 seconds][Customer] : OK. I'm sorry. Yeah, Yeah.
+[4 minutes 12 seconds][Agent] : No, that's OK. That's OK. And I can see that next year you're due to get your your bonus as well.
+[4 minutes 19 seconds][Customer] : Yeah. Yeah. OK. OK.
+[4 minutes 18 seconds][Agent] : So next year, 10% of the premiums that you've paid will just be refunded.
+[4 minutes 23 seconds][Customer] : Yeah, it's all fine. Yeah.
+[4 minutes 24 seconds][Agent] : OK, Alright.
+[4 minutes 25 seconds][Customer] : Thank you very much.
+[4 minutes 27 seconds][Agent] : Thank you so much. You take care.
+[4 minutes 26 seconds][Customer] : Yeah, yeah, yeah. Thank you. Thank you. Bye. Bye.
+[4 minutes 30 seconds][Agent] : Alright, Thank you. Bye.
+[4 minutes 32 seconds][Customer] : Bye. Bye.

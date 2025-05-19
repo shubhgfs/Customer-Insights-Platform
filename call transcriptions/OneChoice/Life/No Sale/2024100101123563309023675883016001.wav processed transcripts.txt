@@ -1,0 +1,98 @@
+[1 seconds][Customer] : Hello, Nicky.
+[3 seconds][Agent] : Hello, good afternoon there Nikki. My name is Benjamin, calling from One Choice. How are you today?
+[2 seconds][Customer] : Speaking good. Thank you.
+[9 seconds][Agent] : That's good to hear. Reaching out to see how we could best assist you with the life insurance cover that you enquired about. Can I help you confirm your first and last name and date of birth? I'll have a look at that for you.
+[15 seconds][Customer] : Yeah, Nicola O'Brien, 11th of the 2nd, 1969.
+[24 seconds][Agent] : Wonderful. And also confirming that you are of course, a female New Zealand resident currently residing in New Zealand. Yes or no?
+[31 seconds][Customer] : Yes.
+[31 seconds][Agent] : Thank you. So Please note all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. All right. So, Nicole, in terms of the life insurance cover, are we covered at the moment already or is this the first time we're looking?
+[54 seconds][Customer] : No, I've just cancelled my cover.
+[56 seconds][Agent] : Oh, OK.
+[56 seconds][Customer] : I was. I was covered.
+[59 seconds][Agent] : Oh, OK, no worries at all. Let's try and fix it up nice and quickly for you. Was there a main reason you had cancelled your previous policy?
+[1 minutes 6 seconds][Customer] : Yeah, it was too expensive and increasing every year.
+[1 minutes 8 seconds][Agent] : Just two G MMM, of course, I definitely understand that. All right, we'll have a look what we can offer you. But please, if you do have any questions, let me know straight away, OK. It's it's all pretty straightforward. So it shouldn't take us too long at all. Yep, Ju, just before we continue together, just as a kind thing to ask there. Do you prefer Nikki or or Nikola? Nikki. Wonderful, no worries. So Nikki, in terms of the life insurance cover, I'll confirm. Firstly, have you had a cigarette in the last 12 months?
+[1 minutes 17 seconds][Customer] : OK, Nikki, please no.
+[1 minutes 37 seconds][Agent] : Wonderful. In terms of how much we can offer at a minimum cover, we start at 100,000 and our maximum goes up to 750,000. How much are we thinking?
+[1 minutes 47 seconds][Customer] : Yeah, I was only thinking 100,000.
+[1 minutes 50 seconds][Agent] : Yeah, nice and easy there for you in terms of how that works. You've got three benefits included, so you've got the death coverage, so that will pay the full claim to your loved ones when you pass.
+[2 minutes 1 seconds][Customer] : Yeah, right.
+[2 minutes 1 seconds][Agent] : You've got the terminally ill advanced payment cover as well where if you were diagnosed with 12 months or less to live by a medical practitioner, we pay the full claim to you whilst you're living and then you also have an advanced payout for funeral cost. So at claims time, your loved ones can request an advanced payout of $10,000 to help with those funeral costs as well. And so that's all included there for you.
+[2 minutes 14 seconds][Customer] : OK, right, OK.
+[2 minutes 28 seconds][Agent] : Any questions with those 3 at all?
+[2 minutes 30 seconds][Customer] : No, sounds good.
+[2 minutes 31 seconds][Agent] : OK, awesome, nice and simple. Now Nikki, for the 100,000 we're looking at a starting point of $25.34 each for that. How's that sounding?
+[2 minutes 43 seconds][Customer] : Yeah, not too bad.
+[2 minutes 44 seconds][Agent] : Awesome, Good to say. Yeah, obviously, we'll go through the health and lifestyle questions that'll give us the final terms and pricing there for you. But as you go through this next stage, if there's any questions at any point, let me know straight away as well.
+[2 minutes 55 seconds][Customer] : Is there an increase on that yearly or is that fixed?
+[2 minutes 59 seconds][Agent] : Uh, so with that one there, your premium is steps in terms of how it's stepped out. Once you've gone through these questions, I can show you what the projection is over the next few years as well for you, just so you've got a Peace of Mind and you know, understand how that all works. Uh, but it can change depending on how we get you approved, but I'll make sure to go through that with you. Absolutely. OK awesome. So before we go through our health and lifestyle questions, I'll read you our pre underwriting disclosure. So this is going to let you know what you can expect from me when going through the questions and just what we expect of you when answering the questions as well.
+[3 minutes 12 seconds][Customer] : Yeah, yeah, yeah.
+[3 minutes 31 seconds][Agent] : So read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contracts. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insure. You have this duty until the time we enter into the contracts. If you fail to disclose a matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy, or avoid your policy entirely. If you do understand this yes or no, thank you so much. Now that's all I need for all these questions. Just to clear yes, clear no response. But if you do get stuck with any questions, totally fine. Let me know and I'll help you out myself as well.
+[4 minutes 52 seconds][Customer] : Yes, OK.
+[5 minutes 3 seconds][Agent] : So the the first question is, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand, Yes or no?
+[5 minutes 14 seconds][Customer] : Yes.
+[5 minutes 14 seconds][Agent] : Thank you. Have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Lung disorder excluding asthma, sleep apnea or pneumonia, Cancer or leukemia excluding skin cancer, a kidney disorder, hepatitis or any disorder of the liver.
+[5 minutes 35 seconds][Customer] : No, no, no, no, no.
+[5 minutes 56 seconds][Agent] : Anxiety, depression or stress requiring medical treatments, or any other mental health disorder.
+[6 minutes 3 seconds][Customer] : Yes.
+[6 minutes 4 seconds][Agent] : Thank you. In the last five years, have you attempted suicide or been hospitalized for a mental health condition? Is your condition a form of schizophrenia, bipolar, or psychotic disorder?
+[6 minutes 12 seconds][Customer] : No, no.
+[6 minutes 19 seconds][Agent] : Thank you. All right, now this next question, Nikki, I'm going to give you 4 options for so it'll be ABC or D. I'll just read them all out and I'll get your response at the end if that's OK.
+[6 minutes 29 seconds][Customer] : OK.
+[6 minutes 30 seconds][Agent] : So is your condition A depression, anxiety, post nasal depression or stress including post traumatic stress disorder, B Anorexia nervosa or bulimia, C ADHD or ADD or D other mental illness not listed here? Thank you. And how many episodes have you had which require treatment? A one to two episodes, B3 to 4 episodes, C5 to six episodes or D7 plus episodes.
+[6 minutes 51 seconds][Customer] : I What is the episodes acquiring to?
+[7 minutes 16 seconds][Agent] : Yes, Sir. One to two episodes.
+[7 minutes 19 seconds][Customer] : I don't understand the question.
+[7 minutes 21 seconds][Agent] : That's OK. All good. What I'll do, let me give you a definition for episodes that'll help to find it a little bit easier for you as well and bring that up for you. It's not what we want. There we go. Alright, So what I'm gonna do, I'm gonna give read you the definition first thing and I'm gonna give you some examples of what's the same episode, what's a separate episode and then what's the subsequent episode as well.
+[7 minutes 47 seconds][Customer] : OK.
+[7 minutes 46 seconds][Agent] : OK, so just so you've got the full picture, so let me just bring that up now. Good old technology. Well that works, it's great. There we are. Okey dokey, just being my friend again. Alright, so an episode is an event, occurrence or reoccurrence of symptoms with increase severity from normal mood and usually require either medical intervention, referral treatment or alteration slash adjustment to existing maintenance treatment. Now we keep when we say treatment this can take the form of medication and or counseling slash therapy as well. We consider that treatment also.
+[8 minutes 36 seconds][Customer] : None.
+[8 minutes 36 seconds][Agent] : So some examples. So if someone has mental health symptoms that require treatment, this is an episode. And if they return to their doctor several times to monitor the situation and also repeat prescriptions, this is the same single episode. It doesn't change even if it's over like a five year. It doesn't actually matter. If, however, they have a relapse or symptoms worsen and treatment needs to be changed or increased, then this constitutes a second episode. And similarly, if the applicant recovers and treatment stops and the applicant is fine, but at a later date, the symptoms return and they have to go back to the doctor to seek further advice. This would also be a separate episode as well because that's how we break them up and define them there for you. So based on that, how many episodes would you say you've had?
+[9 minutes 25 seconds][Customer] : OK, was in my last time probably. Yep.
+[9 minutes 37 seconds][Agent] : Two, Yeah, no worries. And was it more than one episode? So we'll click yes.
+[9 minutes 53 seconds][Customer] : Just medication, Yeah.
+[9 minutes 43 seconds][Agent] : And then have you had symptoms or treatment for this condition within the last six months, this medication? Yep. All good. And have you ever seriously contemplated or attempted suicide? Thank you. All right. No further questions on that one. Thank you. The next question is have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for Moto neuron disease or any form of dementia including Alzheimer's disease?
+[10 minutes 3 seconds][Customer] : No, no.
+[10 minutes 23 seconds][Agent] : The next section is in relation to your heights and weights. Please be aware that I am required to obtain a confidence single figure measurement for each sorry, single figure measurement each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height weight ranges. So when you last checked, what is your exact height in centimeters or feet in inches 5/2 Thank you.
+[10 minutes 49 seconds][Customer] : So on five foot 2 inches, 115 kilos.
+[10 minutes 55 seconds][Agent] : And when you last checked, what is your exact weight in kilos, pounds or stones 115? Thank you. Awesome. Done and done. Taking no further questions off you and your application has been approved. OK. So I'm going to walk you through final terms, final pricing, everything like that. So if you've got any questions, I'll be able to answer them all now, now that we've got the compilation with all this all. OK, So what we've been able to approve you for is subject to the following terms and conditions. So we're able to offer you a benefit amount of the following 50,075 thousand or $100,000 of cover with a policy term of 20 years.
+[11 minutes 25 seconds][Customer] : OK, Yeah.
+[11 minutes 46 seconds][Agent] : Now with this policy you'll be covered in those three ways I mentioned to you earlier, death, terminal illness and funeral cover. So for the death benefit for the 1st 12 months you will be covered for accidental death only and then after the first 12 months you will be covered for death due to any cause including anything pre-existing new conditions. Whatever it is doesn't matter from that point. However in touch with of course this never happens, but suicide is not covered in the 1st 13 months of the policy. So that's your death benefit. The second benefit as I mentioned earlier is the terminally ill advanced payment cover. So again, after holding your policy for 12 months if you were diagnosed with a terminal illness, so we've 12 months or less to live by a medical practitioner, we then pay the full claim directly to you whilst you're living to give you full access. And then on top of all this, your loved ones will still be able to request the advanced pad of $10,000 to help with your funeral cost as well. That's all included there for you.
+[12 minutes 17 seconds][Customer] : Yeah, OK, alright.
+[12 minutes 50 seconds][Agent] : Yeah, to help answer your question that you answered asked before we went through the application. I will let you know that please be aware that your premium is stepped, which means it will generally increase each year. And in addition, this policy has automatic indexation, which means each year your benefit amounts and how much you're actually covered for will increase by 2% with associated increases in premium. However, you can opt out of this indexation each year as well. OK. So it gives you control of that side of things. That way if you wanted to reduce your total increase, you just decline that each year as well. OK, Then it'll minimize that for you. Yeah. Terms of the final pricing for the, if you stick with $100,000 of cover, the final pricing has come back at $62.09 each fortnight for that cover. How's that sounding? That's OK.
+[13 minutes 28 seconds][Customer] : Right, yes, but too much what we're wanting to do at the moment.
+[13 minutes 46 seconds][Agent] : Yeah, for sure. We've got the 75 and the 50 available, so I can show you those and see if those would be a better fit. So if we do the 75,000, that's $46.57 a fortnight and then if you do the 50,000, it's $31.04 a fortnight.
+[14 minutes 3 seconds][Customer] : OK, well I'll have a think about that.
+[14 minutes 6 seconds][Agent] : Yeah, of course. Well, either of those other two looking a bit more suitable for you.
+[14 minutes 10 seconds][Customer] : Yeah, possibly, but I'd like to get a few more quotes to see if I can get anything better than that.
+[14 minutes 19 seconds][Agent] : Yeah, of course. I definitely appreciate that. Whilst I've got you here as well, let me go through that premium projection with you just so you can see how it will work as well. So I'll let you know that please be aware that all of our premium projections are indicative only and assume that you do not make any amendments to your cover.
+[14 minutes 36 seconds][Customer] : Got it.
+[14 minutes 36 seconds][Agent] : So as an example, the premium payable in your following year of cover, this is for the $50,000 of cover. So it's 3104 at the moment. In the following year of cover will be $33.25 per fortnight. And then your new coverage amount would be also the 51,000 because it goes up by that 2% when you're 57 years of age. So in your second year of cover, third year of cover, I should say it'd be $35.61 per fortnight and it'll be $52.20, sorry, 52,000 and $20 in total coverage. And then the year following that will be $38.13 per fortnight and your total coverage amount will be 53,000 and $60.00. OK.
+[15 minutes 21 seconds][Customer] : OK.
+[15 minutes 20 seconds][Agent] : So that's just so you can have a little indication there. We've tried to minimize it as much as possible for this policy. There is still an increase to be aware of as well, but we try to keep it nice and consistent as you can see. Yeah.
+[15 minutes 31 seconds][Customer] : Yeah. OK. Lovely.
+[15 minutes 31 seconds][Agent] : All right, so Nikki, what I'm going to do for you, I'm going to send you out the the quotes to your e-mail now.
+[15 minutes 39 seconds][Customer] : OK.
+[15 minutes 38 seconds][Agent] : So I've got it here as Nikki Princess, that extra code or NZ, is that the best e-mail?
+[15 minutes 42 seconds][Customer] : Yes, that's fine.
+[15 minutes 43 seconds][Agent] : OK, fantastic. Now with those ones that were you wanting me to send out both or just the 50 or the 75 on one of that too?
+[15 minutes 43 seconds][Customer] : Yeah, the 50 and 75. Yeah.
+[15 minutes 55 seconds][Agent] : Both of them, yeah, absolutely fine.
+[15 minutes 57 seconds][Customer] : Thank you.
+[15 minutes 57 seconds][Agent] : Alright, let me get those both out to you as well. Now I'm going away for some leave from this evening, so I finish up at 8:00 tonight. So feel free to give me a call back tonight. If not, I'll be back on the 10th, so I'll reach out to you when I get back into the office. The 10th is a Thursday. On Thursday is what time are you normally best available?
+[16 minutes 12 seconds][Customer] : Yeah, probably 4:00.
+[16 minutes 21 seconds][Agent] : 4:00? OK, Let me just have a look at my schedule, OK, What I'm gonna do in that case, I'll give you a call at 4:00 on the Friday if that's OK. I do finish up a little bit early on Thursdays, not anything.
+[16 minutes 22 seconds][Customer] : Yeah, I'll be driving at that time, so fine.
+[16 minutes 33 seconds][Agent] : So unless you can do maybe 3:30, if that would work on on the Thursday driving, that's that's fine.
+[16 minutes 40 seconds][Customer] : It'll be fine.
+[16 minutes 41 seconds][Agent] : All good, all good.
+[16 minutes 41 seconds][Customer] : Yeah, Yeah.
+[16 minutes 42 seconds][Agent] : Alright, let's let's move it to Friday at 4:00 and if that's alright with you, umm, that way if you just got that time and we'll go from there. If you need anything though, in the meantime, even though I'm not here, everything's basically been done for you. OK, So all that we need to do is basically decide on the amounts that you're wanting to go with and then they'll ask you what payment day you wanted on and then payment method as well. So it's pretty straightforward from here on out. Umm, So it's all good to go when you're ready. So even if I'm not here, just call back in and let us know. We can get that sorted as well. OK.
+[17 minutes 8 seconds][Customer] : OK.
+[17 minutes 9 seconds][Agent] : Perfect.
+[17 minutes 8 seconds][Customer] : Thank you very much.
+[17 minutes 9 seconds][Agent] : No, My absolute pleasure. Thank you so much for your time. I'll speak to you when I'm back.
+[17 minutes 12 seconds][Customer] : Thank you.
+[17 minutes 13 seconds][Agent] : Bye.
+[17 minutes 13 seconds][Customer] : Bye. Bye.
+[17 minutes 13 seconds][Agent] : Bye bye.

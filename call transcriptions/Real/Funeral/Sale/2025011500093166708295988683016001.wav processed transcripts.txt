@@ -1,0 +1,29 @@
+[1 seconds][Agent] : Thanks for holding Phil. I've got Brooke on the phone. She'll have to help you with the beneficiary today.
+[5 seconds][Customer] : OK.
+[5 seconds][Agent] : Uh, and just for, for Brooke, I've confirmed, uh, all details for Phil. So full name, date of birth address, including the home and postal address, uh, both phone numbers, e-mail and policy type is funeral. That's all done. Wonderful.
+[19 seconds][Customer] : OK.
+[19 seconds][Agent] : Thank you so much. Welcome to our insurance customer support. My name is Brooke. How are you today?
+[23 seconds][Customer] : Hello, very good. Thanks. How are you?
+[26 seconds][Agent] : I'm good. Thank you. I believe you're just going to nominate your beneficiary for your policy. Not a problem. I can assist you with that. What I will need is the nominee's full name, date of birth, address and phone number. So do you have all those details with you?
+[32 seconds][Customer] : Yes, yes.
+[44 seconds][Agent] : OK, let's go shopping there now. All right, And I'll just confirm that you, as a policy owner, are providing an instruction on who P who to pay the policy benefit to in the event of your death. This nomination will be processed in accordance with the conditions set out in your PDS. Can you please confirm that you understand any information you provide is true and correct? Yes or no?
+[56 seconds][Customer] : Yes, yeah, yes.
+[1 minutes 7 seconds][Agent] : Perfect. And what was your nominee's first name? Yes. Yep, thank you and my- Marie is 9.
+[1 minutes 11 seconds][Customer] : Anne Marie a double N no-, just Anne Marie Marie Surname is Taylor TAYLOA.
+[1 minutes 27 seconds][Agent] : Thank you and Ann Marie's date of birth.
+[1 minutes 33 seconds][Customer] : 22nd of the 4th, 1955.
+[1 minutes 39 seconds][Agent] : Thank you and her relationship to yourself.
+[1 minutes 44 seconds][Customer] : She's my fiance. No, no, no it's not.
+[1 minutes 46 seconds][Agent] : OK, looking at the same address, 1 Woodrow drive, no digit address.
+[1 minutes 54 seconds][Customer] : So no. Her address is Unit 6 #4 or 6 stroke, 4 Tanga Rd., DA Double, TUNGA Rd. Meadows, 5201.
+[2 minutes][Agent] : Yep, Yep, here. There you go. So Unit 6 of I've got I'm here. It's come up with unit 6 of number 4/6, Batanga Rd. Meadow SA. Yep. OK. And Anne Marie's best contact number. Yeah. Take your time. Yep. Yep.
+[2 minutes 27 seconds][Customer] : That's it, 0483969142.
+[2 minutes 49 seconds][Agent] : Alright. And you would you like her to receive the full benefit amount? So 100% to Anne Marie.
+[2 minutes 54 seconds][Customer] : That's correct, yeah.
+[2 minutes 58 seconds][Agent] : All right, so I can confirm your beneficiary has been updated and we'll send you an additional policy schedule to reflect this change. Please ensure you check the information is correct and is is important to contact us should any of the details of your beneficiary change. So if Henry's changing the surname once you get married, just to let us know so we can update our records. This will avoid any unnecessary delay during the claims process when they supply a proof of identity. So that's all done for you.
+[3 minutes 6 seconds][Customer] : Yeah, very good then. OK.
+[3 minutes 28 seconds][Agent] : Perfect. Was there anything else I can help you with today? Not a problem. Well, if there's any questions, do don't hesitate to give us a call. Otherwise, you enjoy the rest of your day.
+[3 minutes 32 seconds][Customer] : No, I think it's Coverall very good. Thank you.
+[3 minutes 41 seconds][Agent] : You're welcome. Thanks a lot.
+[3 minutes 42 seconds][Customer] : Bye. Bye.
+[3 minutes 43 seconds][Agent] : Bye.

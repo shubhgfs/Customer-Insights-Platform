@@ -1,0 +1,21 @@
+[2 seconds][Agent] : Welcome to Real Insurance. My name's Joel. How can I help you?
+[6 seconds][Customer] : Good morning, Mitchell. My name is Aaron Kaziro. Happy New Year.
+[11 seconds][Agent] : Yeah, yeah. The news to you, too.
+[10 seconds][Customer] : First of all, thank you. I'm just calling to review if you want my policy and just to to see how everything is going in regards to what's what's what I have already got in place.
+[33 seconds][Agent] : Sure. Let me find you in the system. I'll transfer you straight through to our customer support team. They'll be able to assist you with that. Just so I can track it down. What type of insurance do you have with us?
+[43 seconds][Customer] : It is the Newton insurance. I believe it started in 2013 and I've got the number here.
+[46 seconds][Agent] : Sure, sure. I should be able to find that. I'll just confirm. Can you just confirm your name and date of birth, please? Yep.
+[54 seconds][Customer] : Yes, Irene Kuter, CI Double LIGEROS and 24th of the 1st 1964.
+[1 minutes 3 seconds][Agent] : Thanks, Irene. I think I've got you here. I'll just jump into the profile and I'll just make sure I have your contact information up to date just so I can let our customer support team know. Can you please confirm your e-mail address? No, I've got a different one to that here. Yep, that's what I've got here. Thanks very much. And just your address with the post code, please.
+[1 minutes 16 seconds][Customer] : Ummmmmyoucouldhavetwooneisummummmyeatingcall@yahoo.com dot au0arlene.pillagers1@dt.msw.edu dot AU 19 Mobis Rd. Worth at West 2299.
+[1 minutes 43 seconds][Agent] : That's the one and the phone number I'm speaking to you on now ending in 316. Uh, that's still your number. Yeah, perfect. And I do have a landline in your profile. Can you just confirm that number, please?
+[1 minutes 49 seconds][Customer] : Yes, it's 496.
+[2 minutes 1 seconds][Agent] : OK. Yeah, that's the one. Thanks very much. And so that area code is obviously NSW 02. That'd be the one. Yeah, perfect.
+[1 minutes 59 seconds][Customer] : I don't use that 675070 002.
+[2 minutes 9 seconds][Agent] : Awesome.
+[2 minutes 9 seconds][Customer] : Yeah, Yeah.
+[2 minutes 10 seconds][Agent] : Alright, that's all up to date. I'll just quickly let our customer support team know what you need and then I'll transfer you straight through. Won't be a SEC.
+[2 minutes 15 seconds][Customer] : Thank you. Thanks.
+[2 minutes 16 seconds][Agent] : No worries. Thank you so much for holding. I have my colleague Georgia on the line from our support team. Uh, Georgia, Just to confirm, I've confirmed all points of ID. The contact information is up to date. UMM should be able to assist you from here. We're ready.
+[3 minutes 29 seconds][Customer] : Thank you.
+[3 minutes 29 seconds][Agent] : Thank you so much.

@@ -1,0 +1,123 @@
+[2 seconds][Agent] : Hello. Good afternoon. Thank you for calling Australian Seniors Insurance. This is Maggie. How may I help you?
+[10 seconds][Customer] : And good morning. It's Ian. Yeah, I'm just ringing to see if I can get life insurance.
+[8 seconds][Agent] : Yeah, sure. Let me have a look for you. Thank you for calling in. OK. All calls are recorded. Any advice I'm providing is generally nature and may not be suitable to your situation. My name is Maggie. Let's have a look together for you. I can help you. Yep. I've found you. Ian. What was your surname? Thank you. Yeah. And your date of birth, please.
+[32 seconds][Customer] : Hodges, the 14th, the 12th, 1953.
+[39 seconds][Agent] : Thank you. Let's have a look. I know I said all calls are recorded. Any advice on providing is genuinely nature and may not be suitable to your situation. I can see that you've got a cover with us already. A funeral cover. Is that right?
+[51 seconds][Customer] : That's correct, yes.
+[52 seconds][Agent] : Yep. OK. Well, because you've got that in place, you can certainly look at the life insurance. But when you've got another cover in place, I'll just confirm if you are replacing and you can have another one sitting alongside it anyway, but just need to clarify. If you are replacing an existing policy, we recommend that you do not cancel that policy until your application has been approved and you have reviewed this policy as your new policy may not be identical to existing cover and you should also consider the benefits that may not apply. Or waiting please. It may start again. OK.
+[1 minutes 22 seconds][Customer] : OK.
+[1 minutes 22 seconds][Agent] : So this can certainly sit alongside it. They can I confirm one more thing. Are you a male Australian resident as well? Thank you. So tell me about you, Ian, what's made you decide to have a look at the life insurance because we've developed something for our seniors, umm, in that you can have it at this stage in life just to leave a little something for your family behind for them. But what made you decide to have a look, please? Yeah.
+[1 minutes 29 seconds][Customer] : Yes, I did have another one, but I think it's for another couple of years and I won't get anything out.
+[1 minutes 53 seconds][Agent] : Oh, I don't. So you don't. You still have it now or not? You don't have it. OK. All right. Yeah. And tell me about you. Do you have children or loved ones yourself?
+[1 minutes 57 seconds][Customer] : No, yes.
+[2 minutes 4 seconds][Agent] : OK. Just be sorry. I'm trying not to sneeze in your ear. I do apologize. Sorry about that. All right. So are you looking at something just to leave behind for your loved ones to tidy everything up for you when that time comes? Yeah.
+[2 minutes 20 seconds][Customer] : Umm yeah, so do I, because I probably can't bored too much in it.
+[2 minutes 25 seconds][Agent] : Yeah, OK, well, yeah. Alright, well, let's look for you. So the cover is designed to do that. What it is, it's a lump sum benefit is paid out if you were to unfortunately pass away, uh, before you ace his birthday when the policy ends. And you can choose anywhere from 10,000 all the way up to $200,000 depending on what your needs are, of course. But keep in mind, if your death was due to an accident, the benefit amount your family receives will be tripled. OK so if you had like a $20,000 policy for instance and you death with you to an accident, your family and loved ones will receive $60,000 OK? Yep, now it's very easy to apply. We only ask you 8 questions in relation to your health. So you can have a number of different medical conditions and still be eligible for this cover OK Because it's design we're seeing is in mind. So once I've looked at 8 questions to see if we can get you approved, if you are accepted and once you decide to commence the policy, you will be covered immediately for debt you to any cause except suicide in the 1st 13 months. OK, Yes.
+[3 minutes 5 seconds][Customer] : OK, OK. Yep.
+[3 minutes 37 seconds][Agent] : Now there's a living benefit on here. This one's for you, Ian. It's called a terminally ill advanced payment. This is on your coverage. So if you were diagnosed with 24 months or less to live by a specialized medical practitioner, what we're gonna do in that case is pay the claim in full to you. And that can assist you with your medical costs, allowing you to get the very best care possible. OK, All right. Now, can I ask you, do you have any questions for me at all so far before we have a look?
+[3 minutes 59 seconds][Customer] : OK, moment.
+[4 minutes 6 seconds][Agent] : All right, let's look. OK, one second, can I ask you, have you had a cigarette in the last 12 months? Yes or no?
+[4 minutes 15 seconds][Customer] : Sorry. No, don't smoke.
+[4 minutes 17 seconds][Agent] : All right, so we're saying no to that. Is that alright?
+[4 minutes 17 seconds][Customer] : No, that's correct.
+[4 minutes 21 seconds][Agent] : Thank you. Umm, now also in this series of advanced payment, if your family wants it, they can request a 20% of your benefit amount to come out first if they need to help with funeral and final expenses as well. OK, just a little bit extra there for them if they need it uh comes out first.
+[4 minutes 37 seconds][Customer] : Yep.
+[4 minutes 35 seconds][Agent] : OK, so now I can look at anywhere from the 10,000 up to 200,000. Depends on what your needs are at this stage and your affordability as well of course. What amount would you like to look at first? Thank you.
+[4 minutes 48 seconds][Customer] : What about if I say 15? Oh, OK.
+[4 minutes 52 seconds][Agent] : I can do 10 or 20,000 and then so it goes in $10,000 increments. Yeah. Do you want to look at the 20,000?
+[5 minutes 1 seconds][Customer] : Yeah. How much that would cost?
+[5 minutes 2 seconds][Agent] : OK, $20,000 would come in at $43.75 per fortnight. Does that one sound like that would work for you or do you want to look at the 10,000 or?
+[5 minutes 14 seconds][Customer] : 10,000 miles shot at the 10,000.
+[5 minutes 17 seconds][Agent] : Yeah, of course. 10,000 would be $21.88 a fortnight. Is that working for you?
+[5 minutes 29 seconds][Customer] : OK, yeah, we'll try that, see how they go.
+[5 minutes 30 seconds][Agent] : All right, well, let's, yeah, let's have a look at your eight questions and we'll see if you're eligible. OK, let me look here. Let me update all your details to make sure they're correct. Thanks, Ian. Umm, oh, you're the second person I've spoken to in West Australia this morning. All right, so is it ianhodges53@gmail.com.
+[5 minutes 36 seconds][Customer] : OK, Correct.
+[5 minutes 49 seconds][Agent] : Thank you. Mobile is 0418745140.
+[5 minutes 54 seconds][Customer] : Yes.
+[5 minutes 53 seconds][Agent] : Do you have a landline as well or not?
+[5 minutes 58 seconds][Customer] : So what was that again?
+[5 minutes 59 seconds][Agent] : Any landline or just the mobile?
+[6 minutes 2 seconds][Customer] : Just a mobile?
+[6 minutes 3 seconds][Agent] : Thank you. Not many people have a landline anymore.
+[6 minutes 10 seconds][Customer] : That's correct.
+[6 minutes 6 seconds][Agent] : Umm, are you still at Ellenbrook in West Australia 6069? Yep. Hang on a SEC. And you're still at UH, 4 Bronzewing Ave.
+[6 minutes 11 seconds][Customer] : Yes, Yep, that's right.
+[6 minutes 21 seconds][Agent] : Thank you. Alright, if your home address and your postal address both the same, thank you.
+[6 minutes 27 seconds][Customer] : Yes.
+[6 minutes 28 seconds][Agent] : OK, let's look for you. Thank you. Alrighty, let's go in and we'll have a look and see if you're eligible. Umm, OK 2 just going into it. Sorry, I'm just waiting for my computer to catch up to me. So let me explain as well. Your premium is stepped, which means it will increase each year. But this is something else we've done we've seen as your mind as well in that your benefit amount is gonna remain the same on 10,000. It won't reduce and it won't increase either. OK, so you don't have a CPI on it. Alright, so let me show you. So as an indication for you, if you make no changes to the policy, your premium next year will be $23.41 a fortnight. Your benefit amount will stay on the 10,000 and 30,000 for your accidental death. OK. And you, yeah. And you can also find information about our premium structure on our website. So it'll go from $21.88 a fortnight to $23.41 a fortnight. So it's just, I think it's just under $2.00 or just around $2.00 difference for you. OK, Approximately.
+[7 minutes 16 seconds][Customer] : Would not be 23. What was it, 23? Yep.
+[7 minutes 33 seconds][Agent] : Alright, yeah, it'll go from 21 and $0.88 a fortnight to $23.41 a fortnight.
+[7 minutes 47 seconds][Customer] : OK.
+[7 minutes 46 seconds][Agent] : OK, alright, now let's have a look. I'm gonna read out two quick paragraphs. This explains why we asked the question. Just stay with me for a second and then we'll look together. OK, one SEC. OK, so this one says. Please be aware all calls are recorded for quality and monitoring purposes. We collect your postal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other Australian service providers for the purpose of administering your policy or handling claims. A privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentation. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline the claim or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty, yes or no? Thank you. Let's have a look for you. So with the questions, just give me a yes or no at the end of each one and we'll see how we go, right? If you're not sure, stop me and we'll certainly talk about it. OK, Thanks, Ian. So it's actually 9 questions. First one's about COVID. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no?
+[9 minutes 8 seconds][Customer] : Yes, OK, bye.
+[9 minutes 35 seconds][Agent] : Thank you. In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke?
+[9 minutes 43 seconds][Customer] : Bye.
+[9 minutes 44 seconds][Agent] : Thank you. In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions?
+[9 minutes 55 seconds][Customer] : I missed the the first little bit.
+[9 minutes 57 seconds][Agent] : That's OK. In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions?
+[10 minutes 8 seconds][Customer] : Bye.
+[10 minutes 8 seconds][Agent] : Thank you. In the last five years, have you been diagnosed with or treated for any of the following cancers, Lung cancer, cancer, the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? Thank you. Do you have a renal kidney condition that currently requires dialysis or transplant or a doctor has advice will be required in the future? Thank you. Do you have a liver condition that will require a transplant in the future?
+[10 minutes 28 seconds][Customer] : Hi, hi, hi.
+[10 minutes 45 seconds][Agent] : Thank you. Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for not a neuron disease or any form of dementia, including Alzheimer's disease?
+[10 minutes 56 seconds][Customer] : Right.
+[10 minutes 57 seconds][Agent] : Thank you. And in the last five years, have you attempted suicide or been hospitalized from mental health conditions? Thank you. Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to leave?
+[11 minutes 4 seconds][Customer] : I know, right?
+[11 minutes 16 seconds][Agent] : Thank you. Alrighty, that was all my questions. Are you satisfied with all the answers you have provided to me today?
+[11 minutes 26 seconds][Customer] : Yep. Yep.
+[11 minutes 27 seconds][Agent] : Thank you. Thank you. That's up for you one SEC. Oh well, congratulations. You've been fully approved, which is great news for you. OK, now what this allows me to do. I'm actually able to get you covered immediately over the phone today. You're not however, required to make any payments at all today. Umm and it's set up for a date in the future of your choice and you will be covered. And our policy does give you as well a full 30 day cooling off period. Now this gives me time. I'll e-mail it directly to you in a moment. I'll also send it out to your home address. You'll get it generally within that five working days. Umm read it all through, make sure it's right for you, fill out the beneficiary form so we know who you want the funding to go to. But if you decide this is not for you and you wish to cancel, please just let us know. And if you cancel within the 30 days, of course, you get a full refundable of your premium as well, unless you may claim. OK, so to cover you, you can use a savings, a check account or a card and I'll put the date in the future. But you will be covered today for your umm, Peace of Mind there. What would you like to use? Thank you.
+[12 minutes 21 seconds][Customer] : OK, I use my bank. What is it?
+[12 minutes 38 seconds][Agent] : Yeah, alright. Well, your, umm, savings account, is it?
+[12 minutes 42 seconds][Customer] : Yeah, that's it.
+[12 minutes 43 seconds][Agent] : Alright Now before we go ahead and get that organized for you, what day in the future would you like for your first payment to come out? Thanks. Today's the 9th. I can work with you. And you get any wages or pay in?
+[12 minutes 52 seconds][Customer] : Like like like what do they? They're mine.
+[13 minutes 2 seconds][Agent] : Yeah, today's the 9th. Thursday.
+[13 minutes 5 seconds][Customer] : It's not like that. And so it's fortnightly, isn't it?
+[13 minutes 10 seconds][Agent] : Yeah, but you tell me when you want the first payment to come out though. I'll work with you.
+[13 minutes 18 seconds][Customer] : Yeah, roughly. You say like the 8th and the 22nd or something like that.
+[13 minutes 24 seconds][Agent] : Yeah, let me see, 22nd. All right, so do you want the 22nd this your first payment to come out?
+[13 minutes 30 seconds][Customer] : Yeah, that'd be good.
+[13 minutes 31 seconds][Agent] : Yeah, but I can do that. But you'll still be covered today after I read the declaration. OK.
+[13 minutes 36 seconds][Customer] : OK.
+[13 minutes 37 seconds][Agent] : All right, hang on one SEC. Now is it a savings or a cheque account takes in.
+[13 minutes 43 seconds][Customer] : It's the savings account.
+[13 minutes 44 seconds][Agent] : Alright, thank you. What was the BSB number?
+[13 minutes 48 seconds][Customer] : You want the cheque.
+[13 minutes 46 seconds][Agent] : Thanks, you're right. Take your time.
+[13 minutes 49 seconds][Customer] : I was just gonna OK.
+[14 minutes 10 seconds][Agent] : Hang on one SEC 016. Yep.
+[14 minutes 6 seconds][Customer] : The BSB number is 016, 352.
+[14 minutes 16 seconds][Agent] : Yeah, hang on one SEC.
+[14 minutes 22 seconds][Customer] : That's correct, yes.
+[14 minutes 18 seconds][Agent] : And that's ANZ Bank and the account number. Thanks. Yeah. OK, 481 double S uh 481771825. Yeah. And is in the name of Ian Hodges.
+[14 minutes 26 seconds][Customer] : 4817 71825 Yes, It's in the name of Mr. Ian M Hodges.
+[14 minutes 46 seconds][Agent] : OK, one SEC. Mr. Ian M for Maggie Hodges. Yeah.
+[14 minutes 58 seconds][Customer] : I am for McFarland.
+[15 minutes][Agent] : Oh, OK. Oh, OK. Alright. So we'll leave it as Mr. Ian M Hodges. Yeah.
+[15 minutes 5 seconds][Customer] : Yep.
+[15 minutes 6 seconds][Agent] : Thank you. Thank you. One SEC. OK, Alright. OK. And that was your account. You have authority to use that one.
+[15 minutes 25 seconds][Customer] : Sorry. What was that again?
+[15 minutes 26 seconds][Agent] : That was your account. You have authority to use that one. Thank you, Thank you. Alright, and your first payment won't come out until the 22nd. Let me just read, umm, your declaration and we will be done. I'm just gonna do some checks, make sure I've got all of your information correct. It's what I call my idiot check, so hang on one SEC. So it's Mr. Ian Hodges, uh, 14th of the 12th, 1953, is that correct?
+[15 minutes 30 seconds][Customer] : Yes, Sorry. Yes.
+[15 minutes 52 seconds][Agent] : And you're a male Australian resident as well.
+[15 minutes 56 seconds][Customer] : Yep.
+[15 minutes 56 seconds][Agent] : Thank you. And it's 4 Bronzewing Ave. Ellenbrook W Australia 6069. Yep.
+[16 minutes 3 seconds][Customer] : Correct.
+[16 minutes 4 seconds][Agent] : And your mobile is 0418745140. Thank you. And your umm e-mail is ianhodges53@gmail.com.
+[16 minutes 3 seconds][Customer] : Yes, yes, that's right.
+[16 minutes 16 seconds][Agent] : And no landline. That's right.
+[16 minutes 19 seconds][Customer] : That's right.
+[16 minutes 19 seconds][Agent] : OK, thank you. Let me read this declaration to you. Won't be long. This is gonna explain everything about the cover, who we are, and what you're covered for. OK, one SEC. Alrighty. Umm, sorry about this. I thought my throat is really croaky. I'm so sorry, alright, this one says thank you Ian Hodges. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Singers life insurance is issued by Hanover Life Rebel to Leisure Limited. Hanover has an arrangement with Greenstone Financial Services trading as Australian Seniors Insurance Agency to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote and now that I set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you the duty to take reasonable care that you agreed to. Can you please confirm you've answered all that questions in accordance with your duty, yes or no?
+[17 minutes 30 seconds][Customer] : Yes.
+[17 minutes 31 seconds][Agent] : Thank you. We may from time to time provide offers to you about the communication method you have provided to us in relation to other products and services by agreeing to this declaration. Umm you consent to allow us to contact you for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following and Hodges received $10,000 in the event of death. UMM If death is the result of an accident, the benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is not paid and you've been to suicide in the 1st 13 months of the policy. Your cover expires on the 13th of the 12th, 2038 at 12:00 AM. Your premium for your first year of cover is $21.88 per fortnight. Your premium is stepped which means it will be calculated at each policies adversary and which generally increases you. Included in your premium is an amount payable to Australian seniors at between 14% and 46% of each premium calculated on a level basis over the life of the policy. Your premium will be debited from your nominated bank account in the name of Ian Hodges. Oh, sorry. In M Hodges, Sorry. Which you are authorized to debit from and have provided to us. We may provide written communications to you by the e-mail address you have provided to us. This will include any legal notices we are required to provide to you. If you would prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Do you understand and agree with the declaration? Yes or no? Thank you. Would you like any other information or would you like me to read any part of the PDS to you?
+[19 minutes 42 seconds][Customer] : Yes, No, it's a good thingy.
+[19 minutes 51 seconds][Agent] : Thank you. Umm, so we'll accept that for you. Thank you. Have you got your pen and paper there? I'm so sorry. My throat and my voice sounds all correctly. I'm sorry. Ah, let me look here for you. Alright, so that's in place now. Now our phone number is 1800.
+[20 minutes 2 seconds][Customer] : OK, 1800, 1104 double 05, OK.
+[20 minutes 12 seconds][Agent] : Yeah, 004, 005 and I'll give you a policy number, it's 202, 000, 4643. Yeah, yes, please. Mm, hmm.
+[20 minutes 31 seconds][Customer] : 2:02, 000 4643 Read it back 2:02, 0004643.
+[21 minutes][Agent] : That's it. And our phone number is 1800, double 04005. Let me just check. I'll make sure that's right. Going to notes yeah, 1800 double 04005. And we're here from 8:00 AM to 8:00 PM, Monday to Friday, Eastern Standard Time here here in Sydney. Excuse me. So give us a call when you need us. And also, umm, I wanted to let you know that part of your policy, you will receive, umm, an, an online legal wheel and this is valued at $160.00 for your policy. OK. And you do get a subscription to the Australian Seniors Day magazine as well. OK.
+[21 minutes 45 seconds][Customer] : OK, I think I already get.
+[21 minutes 48 seconds][Agent] : Oh, yeah. OK. Well, well, that's good then. But have you got a wheel in place at the moment?
+[21 minutes 55 seconds][Customer] : Yes, I do.
+[21 minutes 53 seconds][Agent] : Ian, you do. OK, Well, if you need to update or anything, you've got that too. OK. Alright. Thank you. You take care. Thank you.
+[22 minutes 1 seconds][Customer] : OK, OK, thank you. Give it back to your voice.
+[22 minutes 7 seconds][Agent] : Thank you. Bye. Bye. Bye.

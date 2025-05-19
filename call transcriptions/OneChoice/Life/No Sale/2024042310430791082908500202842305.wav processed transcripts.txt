@@ -1,0 +1,234 @@
+[11 seconds][Customer] : Hello. Please speaking.
+[13 seconds][Agent] : Hi, Clay. Good, umm, good morning. It's Terry calling from One Choice. How are you?
+[18 seconds][Customer] : I'm good. Thanks. That was fast.
+[20 seconds][Agent] : That's good. Yep, we don't like to keep you waiting, that's for sure. So you're looking at your life insurance today, is that right? Yes. Fantastic.
+[27 seconds][Customer] : Yes, yes, umm, basically I'm, I'm wanting cover so that if umm, uh, well, either myself or my partner dies it, it covers half of the mortgage.
+[40 seconds][Agent] : Yeah, no worries. I'll run you through how everything works, the pricing, options, features and benefits. And if you have any questions as well, I'm here to help. Let me know. I'm definitely happy to do so. Now to start with, I'll confirm your details you've popped through.
+[44 seconds][Customer] : Yep, Yep, please.
+[55 seconds][Agent] : Can I just get you to confirm please your first and last name and date of birth?
+[1 minutes][Customer] : Uh, it's cleared on a he and my date of birth is OS 28th of the 6th 1973. Now, just before we continue, the area that we're in where we live in is really bad for fire etcetera. So often the phone call drops out. If it does, could you call me back?
+[1 minutes 8 seconds][Agent] : Yeah, yeah, yeah, for sure. Absolutely.
+[1 minutes 21 seconds][Customer] : Right. Thank you.
+[1 minutes 21 seconds][Agent] : If you, if you drop out, I'll definitely call back on this number. Yeah.
+[1 minutes 25 seconds][Customer] : Yep, great.
+[1 minutes 25 seconds][Agent] : OK, perfect. All right, not a problem. I'm just confirming clear that you're a female New Zealand resident as well.
+[1 minutes 31 seconds][Customer] : Yes. Yep.
+[1 minutes 32 seconds][Agent] : And Please note, all calls are recorded and any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances.
+[1 minutes 46 seconds][Customer] : Right.
+[1 minutes 46 seconds][Agent] : All right, so you said you have a mortgage day and you're just wanting cover for yourself. Umm, and then your husband wants cover as well and each of you would be able to pay half the mortgage if anything were to happen to either of you, is that right?
+[1 minutes 57 seconds][Customer] : Yep. Yep.
+[1 minutes 58 seconds][Agent] : OK, no worries. So how the quotes work, I'll run you through your information and pricing. Firstly, because we actually, we don't do joint policies here at One Choice, and that's because we do the whole application process over the phone. So that way. Yeah, but you can set it up with the payouts, the beneficiaries, you can nominate your own beneficiaries, you can choose the payment dates, payment level of umm, level of cover and all of that. You can set up how you like, umm, which is be a separate policy. OK, now for the quotes. Claire, have you had a cigarette in the last 12 months?
+[2 minutes 27 seconds][Customer] : OK, cool.
+[2 minutes 33 seconds][Agent] : Fantastic. And for the range of cover, I'll just pull this up here. Bear with me so we can.
+[2 minutes 32 seconds][Customer] : No, no, it's a little bit more than that.
+[2 minutes 42 seconds][Agent] : Is your current annual income $50,000 or more just for the range of cover a little bit more? OK, No worries. So based off that, we can look at a cover amount from 100,000 to 1.5 million. Now I can see you've popped through online wanting to look at the 300,000, is that correct?
+[2 minutes 50 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 5 seconds][Agent] : OK, I'll put you on the 300, but if you want to look at other options, go up and down from there, just let me know. OK, perfect. Now, before we go through the processing, uh, just to let you know, the quotes we run through upfront are only an indication at this stage because there is an application process. Like I mentioned, I just go through health and lifestyle questions over the phone. But once you have gone through the questions, that will determine what the same offer is. So with the final pricing, the features on the policy, umm, at this stage it's just an indication until we've run through the application process.
+[3 minutes 24 seconds][Customer] : Yeah, sure, sure.
+[3 minutes 38 seconds][Agent] : OK, perfect. So for yourself here, Clay, looking at the 300,000 fortnightly, you've been looking at $26.07 as an indicative quote so that I was $13 per week on the 300K. How does that sound?
+[3 minutes 55 seconds][Customer] : That sounds good.
+[3 minutes 56 seconds][Agent] : Yep, perfect. So this also includes a funeral advance payout of 10,000. Do you have a funeral cover at the moment?
+[4 minutes 3 seconds][Customer] : No.
+[4 minutes 4 seconds][Agent] : No. OK, Well, that's automatically attached to the cover anyway. So just that while uh, processing the last claim, when it comes to claims, Tom, the beneficiary can request that the amount of 10,000 will get paid out up front.
+[4 minutes 19 seconds][Customer] : Great.
+[4 minutes 16 seconds][Agent] : So generally within 24 to 48 hours, umm, from receiving the documents. So that way that cash is available for funeral costs and expenses and upfront cost basically.
+[4 minutes 27 seconds][Customer] : Great.
+[4 minutes 26 seconds][Agent] : OK, perfect. All right, Well, if this is sounding so far so good to you. Next step is I'll run you through your application. Questions take about 10 minutes roughly depending on your answers. But once we've run through these ones, I can let you know what the same offer would be.
+[4 minutes 43 seconds][Customer] : Yep. That that'd be good. Yeah.
+[4 minutes 42 seconds][Agent] : OK, beautiful. I'll also just grab an address because once we have run through everything, if you're happy with the outcome, I'll let you know how we can get your policy documents sent through to run over. Umm, what would your post code be there, please?
+[4 minutes 59 seconds][Customer] : Oh, I forget the post code. I can give you the address.
+[5 minutes 3 seconds][Agent] : Yeah, that's fine. I can search the post code with the address if you don't know it off the top. What? What would the address be?
+[5 minutes 10 seconds][Customer] : It's 289 Pollock Wharf Rd.
+[5 minutes 17 seconds][Agent] : Pollock Wharf Rd.
+[5 minutes 23 seconds][Customer] : Yep, that's it.
+[5 minutes 18 seconds][Agent] : yeah, and that's RD4IN Waiuku, yeah, yeah, perfect. So that's 2684 Asda post code. I'll just pop that in. So that's 289 Pollock Wharf Rd.
+[5 minutes 28 seconds][Customer] : Yep, Yep.
+[5 minutes 41 seconds][Agent] : Beautiful.
+[5 minutes 45 seconds][Customer] : Sure.
+[5 minutes 42 seconds][Agent] : So I'll just read a pre underwriting disclosure and then with the questions then mostly yes or no.
+[5 minutes 48 seconds][Customer] : Great.
+[5 minutes 47 seconds][Agent] : OK so disclosure says please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quote, issue cover and other related services. We will share this with your insurer and they share with other service providers for the purpose of administering your policy or handling claims. A privacy policy tells you more in including how to access and correct information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to ensure you and on what terms. You do not need to tell us things that we already know or should know as an insurer, which reduces the risk. We insure you have this, Judy, until the time we enter into the contract. If you fail to disclose a matter or you make a false statement and answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. So do you understand this?
+[6 minutes 58 seconds][Customer] : Sure do.
+[6 minutes 59 seconds][Agent] : Perfect. Just a yes or no, please.
+[7 minutes 1 seconds][Customer] : Oh, yes.
+[7 minutes 2 seconds][Agent] : Thank you. Perfect. So with the questions just on our answer, it's very clear they're mostly just yes or no answers that we need for these ones. Thank you. So first question, are you a citizen or permanent resident of New Zealand or Australia? Currently residing in New Zealand.
+[7 minutes 9 seconds][Customer] : Yeah, yes.
+[7 minutes 20 seconds][Agent] : Just load my page here. Bear with me one second. Our system is very slow today. It must be a Monday thing. Monday it is for our system. Just loading my page.
+[7 minutes 50 seconds][Customer] : No problem.
+[7 minutes 56 seconds][Agent] : Oh, here we go. Perfect. Umm. Now, have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice to any of the following stroke or heart conditions such as but not limited to heart murmur, heart attack and angina? Lung disorder excluding asthma, sleep apnea or pneumonia. Cancer or leukemia, excluding skin cancer.
+[8 minutes 14 seconds][Customer] : No, no, no.
+[8 minutes 28 seconds][Agent] : OK, bear with me. Kidney disorder, Hepatitis or any disorder of the liver. Anxiety, depression or stress requiring medical treatment or any other mental health disorder have you been diagnosed with or currently undergoing testing for or have a doctor advise you to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease?
+[8 minutes 35 seconds][Customer] : No, no, no, no.
+[9 minutes 2 seconds][Agent] : OK, perfect. That's this section here. I just need to load the next section. Bear with me. Actually, just while while I'm loading everything, the next section is for the exact height and weight. So just in case you need to double check that one, that's what we're going to go over next.
+[9 minutes 20 seconds][Customer] : OK.
+[9 minutes 40 seconds][Agent] : OK, so the next section is in relation to your height and weight, so please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height?
+[10 minutes][Customer] : OK, 5 foot 5 1/2 inches.
+[10 minutes 6 seconds][Agent] : 5 foot 5 1/2 inches. I'm just going to actually load my conversion screen here so we can put that into centimeters because it's 1/2 inch. It's just the height and weight conversion. Height conversion to 5 foot 5 1/2 to 166 centimeters. And what is your exact weight?
+[10 minutes 31 seconds][Customer] : OK, 72 kilograms.
+[10 minutes 38 seconds][Agent] : Beautiful, thank you. I'll pop that in. And have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months?
+[10 minutes 37 seconds][Customer] : No, no, definitely not.
+[10 minutes 56 seconds][Agent] : Perfect.
+[10 minutes 56 seconds][Customer] : I wish.
+[10 minutes 58 seconds][Agent] : Unfortunately, it doesn't work that way. Would be nice for the desk job. It would be nice, I have to say. All right, I'll pop this in. Hang on. Now, does your work require you to go underground? Work at heights above 20 meters, dot depths below 40 meters? Use explosives or travels, areas experiencing war or civil unrest, or work offshore. Perfect. Umm, to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of New Zealand? So booked or will be booking travel within the next 12 months?
+[11 minutes 30 seconds][Customer] : No, no, just to confirm to live outside of New Zealand permanently or just travel in general.
+[12 minutes 4 seconds][Agent] : So just travel or reside? It's either or and only in the next 12 months.
+[12 minutes 10 seconds][Customer] : I plan on going to Canada in July of next year for four, four weeks.
+[12 minutes 12 seconds][Agent] : Yeah, yeah, 4 weeks. OK, lovely. We'll make a note to this here. So I'll note down. Yes. And it just asks which countries do you intend to travel to a resided and other countries disclosed limited to this on list below.
+[12 minutes 31 seconds][Customer] : Yeah.
+[12 minutes 28 seconds][Agent] : So just Canada you're you're intending to go to in the next 12 months. So I'll make a note of that. It's not on the list which is good. And will you be overseas for longer than three consecutive months? OK. Do you have existing life insurance policies with other life insurance companies with the combined total sum assured of more than 5 million.
+[12 minutes 45 seconds][Customer] : No, no.
+[12 minutes 58 seconds][Agent] : All right, and they got some more medical history again here. So have you ever had symptoms of been diagnosed with or treated for or intend to seek medical advice for any of the following? So just load it up again.
+[13 minutes 18 seconds][Customer] : No, sorry.
+[13 minutes 11 seconds][Agent] : So diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, hike, high blood pressure, tumor, mole or cyst, including skin cancer, sunspots or Melanoma. Have you ever had an abnormal pap or cervical smear?
+[13 minutes 24 seconds][Customer] : Chest pain, high cholesterol or no, no, no.
+[13 minutes 45 seconds][Agent] : Thyroid condition or neurological symptoms such as dizziness or fainting?
+[13 minutes 51 seconds][Customer] : Can you repeat that please?
+[13 minutes 52 seconds][Agent] : Yes. So thyroid condition or neurological symptoms such as dizziness or fainting, disorder of the stomach, bowel or pancreas.
+[13 minutes 59 seconds][Customer] : No, I've had a stomach ulcer about 5 year or maybe more five years ago or more.
+[14 minutes 14 seconds][Agent] : Yeah. OK, I'll make a note of that here then. No worries. So based on your response, please answer yes or no for each of the following. So just a couple of drop downs. So a disorder of the stomach or bowel. So I'll pop a yes there for the stomach ulcer and then the drop down is stomach disorder. Yes and no. So it was a stomach also? Yes.
+[14 minutes 38 seconds][Customer] : Yes.
+[14 minutes 38 seconds][Agent] : OK. So is it Barrett's esophagitis, yes or no stomach surgery? So example, gastric binding, gastric bypasses, stomach stapling, OK. And any bowel disorder, pancreas disorder.
+[14 minutes 42 seconds][Customer] : No, no, no, no, no.
+[14 minutes 58 seconds][Agent] : OK, that's all good. That's all we need for that one. Thank you. And next question is epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis.
+[15 minutes 10 seconds][Customer] : Perales Yes.
+[15 minutes 12 seconds][Agent] : Paralysis. OK, umm, let me just go through the drop downs. And so based on your response, please, that's a yes or no for each of the following. So epilepsy or fits of any kind?
+[15 minutes 24 seconds][Customer] : No.
+[15 minutes 25 seconds][Agent] : Multiple sclerosis? Bear with me, it's just loading again.
+[15 minutes 27 seconds][Customer] : No, No, no.
+[15 minutes 43 seconds][Agent] : Umm, muscular dystrophy, Parkinson's disease and then paralysis. I'll pop a yes for that one.
+[15 minutes 52 seconds][Customer] : Yep.
+[15 minutes 52 seconds][Agent] : Umm, So is the paralysis as a result of injury or trauma?
+[15 minutes 57 seconds][Customer] : Yes.
+[16 minutes][Agent] : And then is it limited to only one limb or one muscle or one group of muscles or the left or right half of the body only? So example umm, monoplegia, monoparis or hemoplegia.
+[16 minutes 11 seconds][Customer] : No, no.
+[16 minutes 15 seconds][Agent] : So not only one, No. OK, So is it limited to the legs and lower part of the body below the level of damage to the spinal cord? So example para paraplegia.
+[16 minutes 30 seconds][Customer] : Yes, I'm paraple. I'm I'm a paraplegic.
+[16 minutes 29 seconds][Agent] : So parapus paraplegic. OK, so I'll note, yes. So has it been six months since the injury?
+[16 minutes 40 seconds][Customer] : It's been long. It's been over 10 years.
+[16 minutes 44 seconds][Agent] : Over 10 years. So OK, over six months then, huh. Yeah.
+[16 minutes 47 seconds][Customer] : Yep.
+[16 minutes 48 seconds][Agent] : Are you able to walk unaided?
+[16 minutes 51 seconds][Customer] : No.
+[16 minutes 54 seconds][Agent] : OK. That's all we need for that one.
+[17 minutes 7 seconds][Customer] : No.
+[16 minutes 56 seconds][Agent] : So next question is any illegal drug use, abuse or prescription medication or received medical advice or counseling for alcohol consumption, bladder or urinary tract disorder?
+[17 minutes 12 seconds][Customer] : Well, that comes with paraplegia.
+[17 minutes 14 seconds][Agent] : Yeah. So that's a yes then? Yeah.
+[17 minutes 16 seconds][Customer] : Yeah, yes.
+[17 minutes 17 seconds][Agent] : OK, so in the past two years, have you had any of the following blood or sugar in your urine or more than two urinary tract infections or had a cystoscopy, ultrasound, IVP ultrasound or IVP intravenous paleogram? Now, what is the name of the condition? So I'm going to type in your answers here. So was it just umm, urinary tract disorder or urinary tract infection? OK, so you had more than two of those per year, is that correct? OK, due to her para. And that's due to the paraplegia, is that right?
+[17 minutes 36 seconds][Customer] : Yes, you're an attractive fiction yes, but I'm I'm yes, yes, yeah, exactly. Yeah, but I pretty much self a huge but I'll fix them just by drinking lots of water.
+[18 minutes 14 seconds][Agent] : Yeah.
+[18 minutes 14 seconds][Customer] : So you know, it's not like they're a a major issue in any way.
+[18 minutes 19 seconds][Agent] : OK. So due to paraplegia, she gets UTI. So you're no tract infections regularly?
+[18 minutes 26 seconds][Customer] : Yeah, I wouldn't say regularly, but yeah, T2 twice a year, sometimes 3, but yeah, I mean, yeah.
+[18 minutes 28 seconds][Agent] : No, twice a year, OK, I start with two or three times per year. She umm, so you said you self kind of umm fiction.
+[18 minutes 47 seconds][Customer] : I fix them by drinking a lot of water and occasionally will need antibiotics.
+[18 minutes 58 seconds][Agent] : So how often would you say you would you take antibiotics?
+[19 minutes 2 seconds][Customer] : Once a year, twice at the most.
+[19 minutes 17 seconds][Agent] : And then when did symptoms first begin? So when did you first start getting there? Was that obviously what you know when you first became paraplegic? Is that right like 10 years ago?
+[19 minutes 24 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[19 minutes 26 seconds][Agent] : OK, I'll put it in 10 years. Umm, And when did you last have symptoms?
+[19 minutes 50 seconds][Customer] : Oh gosh. Probably about six months ago I might have had one.
+[19 minutes 57 seconds][Agent] : Six months ago, I'll put about about six months ago. How many episodes have have you had since you since you become paraplegic? It's about two or three times per year. Is that correct?
+[20 minutes 16 seconds][Customer] : Yeah, could even be less than that to be honest, if you look over a 10 year. I'm probably being generous.
+[20 minutes 20 seconds][Agent] : Yeah, yeah, yeah. OK, What would you say that? What would you want me to put down?
+[20 minutes 28 seconds][Customer] : I've I'm just trying to trying to think without being wrong and getting myself into trouble.
+[20 minutes 37 seconds][Agent] : MMM, that's all right. Well, even when you tell me that if you're not 100%, I can pull about.
+[20 minutes 44 seconds][Customer] : Yeah, yeah.
+[20 minutes 43 seconds][Agent] : So if you're not sure if it's the exact figure, so that way we can just disclose it correctly.
+[20 minutes 49 seconds][Customer] : I've, I've probably used antibiotics about 6 times in the last 10 years, put six, put 6 to 8 times in the last 10 years. Yeah.
+[21 minutes 4 seconds][Agent] : Yeah, about 6, Yeah, 62.
+[21 minutes 12 seconds][Customer] : And that's been generous.
+[21 minutes 14 seconds][Agent] : Over the last 10 years, have you been about 68 times for UTI? And So what treatment have you been given? I example medication, surgical procedures, etcetera.
+[21 minutes 33 seconds][Customer] : Just antibiotics.
+[21 minutes 32 seconds][Agent] : So it's just occasionally, like you said, antibiotics. OK. Yeah.
+[21 minutes 35 seconds][Customer] : Yeah, Occasional antibiotics.
+[21 minutes 42 seconds][Agent] : And then what tests have you had?
+[21 minutes 46 seconds][Customer] : What tests?
+[21 minutes 47 seconds][Agent] : Yeah.
+[21 minutes 50 seconds][Customer] : Just a urine test.
+[21 minutes 47 seconds][Agent] : Have you just had like, umm, urinary urine test?
+[21 minutes 51 seconds][Customer] : Yeah, just a urine test. Yeah.
+[21 minutes 52 seconds][Agent] : OK, Urine test.
+[21 minutes 53 seconds][Customer] : Yeah, I also get a yearly bladder test, which is just a normal thing that paraplegics get just to make sure that the bladder is all fine. Yeah. So they they just mean it's that as a a normal thing for paraplegia?
+[22 minutes 10 seconds][Agent] : Yeah, yeah, for sure. We'll put that in there as well. Uh urinary test also has a yearly bladder test, which is a normal test they do for. OK. And the results of those tests have been all good.
+[22 minutes 42 seconds][Customer] : Paraplegics in my All fine, no problems at all.
+[22 minutes 54 seconds][Agent] : OK, yes. So that was next question. What were the results? Results were normal, but that's aside from showing the UTI's, huh.
+[22 minutes 58 seconds][Customer] : Yep, yeah, yeah.
+[23 minutes 3 seconds][Agent] : But that so results were normal for the bladder test and then the blood the the urinary test show the UTI's.
+[23 minutes 7 seconds][Customer] : Yep, Yep.
+[23 minutes 31 seconds][Agent] : And then what was the date of the last Test you had to the best of your memory?
+[23 minutes 38 seconds][Customer] : The last Test I had was probably about 2 1/2 months ago, but that that was negative it was fine.
+[23 minutes 51 seconds][Agent] : All good. OK, I'll pop the short one. Hang on. Just double checking I've got everything in there because what's going to happen is, umm, we'll finish the application and then we just need to refer it to the underwriter for assessment because that's why I typed everything in to personalize it. And then from there they'll go over everything.
+[24 minutes 29 seconds][Customer] : Yep, Yep, sure.
+[24 minutes 34 seconds][Agent] : Perfect. Yeah.
+[24 minutes 34 seconds][Customer] : You wanna also add into that, that I get Botox in the bladder E every six to seven months. It won't affect anything. I mean, it's that's just again, part of the paraplegia.
+[24 minutes 49 seconds][Agent] : Yeah. OK. OK. So what was the date of your last chance you had two months ago results normal, came back normal and I'll go up to the test 1 and this is what I'll put in has built also how often does that happen the Botox?
+[25 minutes 36 seconds][Customer] : Every six to seven months. None.
+[26 minutes 35 seconds][Agent] : OK. Yep. OK. So that's all we need for that one. So next question, is blood disorder or disease, sleep apnea or asthma excluding childhood asthma. Now, other than what you have already told me about in the past three years, have you sought medical advice or treatment by medical practitioner or specialist or are you awaiting the results of any medical tests or investigation? So other than the paraplegia or the bladder, umm, infections and things like that, other than what you have already told me about you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks.
+[26 minutes 44 seconds][Customer] : No, no, no, no.
+[27 minutes 23 seconds][Agent] : Perfect, thank you. Questions for family history. So to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis?
+[27 minutes 39 seconds][Customer] : No.
+[27 minutes 40 seconds][Agent] : To the best of your knowledge of any of your immediate family suffered from cancer, heart conditions, stroke or any other hereditary disease prior to age 60.
+[27 minutes 52 seconds][Customer] : What do you mean by immediate family? My grandmother?
+[27 minutes 55 seconds][Agent] : So no.
+[28 minutes][Customer] : No.
+[27 minutes 56 seconds][Agent] : So just father, mother, brothers or sisters is what we're referring to when we say immediate now.
+[28 minutes 2 seconds][Customer] : No.
+[28 minutes 1 seconds][Agent] : OK, so that's a no for that question, correct?
+[28 minutes 4 seconds][Customer] : Yep.
+[28 minutes 5 seconds][Agent] : Perfect. Umm. Now, other than one off events like gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a set paying passenger on a recognized airline? Motor racing, parachuting, mountaineering, ad sailing, scuba diving deeper than 40 meters, cable wreck diving or any other has this activity.
+[28 minutes 30 seconds][Customer] : None.
+[28 minutes 30 seconds][Agent] : No, perfect. All right, so that's all the questions done. So what is going to happen from now? So based on the information disclosed, the application needs to be referred to the underwriter full assessment.
+[28 minutes 43 seconds][Customer] : Yep.
+[28 minutes 42 seconds][Agent] : So at this stage, I'll run you through a little bit about the outcome of the questions up until now. So there has been some changes in the process and there has been a loading applied and that is just you to the paraplegia. Now if the so I'll run you through the pricing and if you want to look at adjusting the level of cover at all, just let me know, OK.
+[28 minutes 55 seconds][Customer] : Yes, yes, sure.
+[29 minutes 3 seconds][Agent] : Umm, but if you're approved, this policy will cover you suggest due to any cause except suicide in the 1st 13 months plus there's a terminal illness, uh, terminally ill advanced payment attached. If you're diagnosed with 12 months or less to leave by a medical practitioner, we can pay the claim out to you in full. And please be aware that your premium is stepped, which means it will generally increase each year. In addition, this policy has automatic indexation, which means each year your benefit amount, so 300,000 or whatever you're covered for, that will increase for you by 5% with associated increases in premium. If you want to, you can opt out of this indexation each year. OK, perfect.
+[29 minutes 40 seconds][Customer] : Yep, Yep, Yep.
+[29 minutes 45 seconds][Agent] : So that with the premium, so the premium has risen and like I said, it's due to the power play just for the 300,000 fortnightly that has gone to $78.23, so roughly about 39 per week on the 300,000. How does that sound?
+[30 minutes 7 seconds][Customer] : Alright. Yep, fine.
+[30 minutes 8 seconds][Agent] : Yeah. OK, perfect. All right so to get this to the underwriter, what we need to do we need to note down the first payment date, a payment method, and this will umm, submit it to the underwriter. They'll review everything we've put through. They'll come back to us with an outcome. Umm, when they have come back to us with an outcome. If you're happy with things from there we can activate the cover, umm, get all the policy documents emailed and posted through and you also have a 30 day cooling off. If for whatever reason though, when the underwriter comes back, if you're not happy with the come, we can put a stop to it there and then anyway, OK.
+[30 minutes 41 seconds][Customer] : OK, cool.
+[30 minutes 42 seconds][Agent] : And while your application is being assessed, you will be covered for accidental death, which pays out if death was due to a direct result of an accident, cover under this loss until the insurer makes a decision on your application or 30 days from today, whichever is earlier. So you have the interim accidental death cover as well.
+[31 minutes 1 seconds][Customer] : Great.
+[30 minutes 59 seconds][Agent] : OK, all right. So for the first payment date, umm, we generally collect payment within the next 7 days when in the next 7 days to be most suitable for you. So when do you generally like to align your payment dates there?
+[31 minutes 15 seconds][Customer] : Tuesdays.
+[31 minutes 16 seconds][Agent] : Thursday.
+[31 minutes 19 seconds][Customer] : Yep.
+[31 minutes 17 seconds][Agent] : Should I do this Thursday the 17th or yes. OK, I'll pop that in and your e-mail address. I've got Claire dot dot she. So your last name, did I say that correct?
+[31 minutes 29 seconds][Customer] : Donahey, but that's your hot.
+[31 minutes 32 seconds][Agent] : thankyou@gmail.com. Is that right? Beautiful. And for the payment method, would you prefer to note in an account number or card number?
+[31 minutes 32 seconds][Customer] : Yeah, Yes, an account number.
+[31 minutes 44 seconds][Agent] : An account number? OK, so for the account number, we know this one in our system here. And then we confirm the direct debit authority over the phone, so there's no need to sign any forms for that one. Umm, what would the account number be, please?
+[31 minutes 58 seconds][Customer] : OK, I'll have to get that for you. Hang on.
+[32 minutes][Agent] : That's all right. Take your time.
+[32 minutes 12 seconds][Customer] : OK.
+[32 minutes 15 seconds][Agent] : Yeah, yeah, yeah, yeah. Three. And the account name.
+[32 minutes 13 seconds][Customer] : It would be 02/04/04 O178O4OO83 clear. Donaghy.
+[32 minutes 34 seconds][Agent] : Perfect. So just for the direct debit authority, there's a couple questions here. So firstly confirming do you have authority to operate this bank account alone and do not need to jointly authorized debit?
+[32 minutes 48 seconds][Customer] : Yes, that's true.
+[32 minutes 50 seconds][Agent] : And have you canceled a direct debit authority for one choice of technical life as the initiator in the last nine months? Are you happy to set up a Direct Debit Authority over the phone without signing a form?
+[32 minutes 49 seconds][Customer] : Yeah, No, yes.
+[33 minutes 4 seconds][Agent] : So you agree this Authority is subject to the terms and conditions relating to the bank account provided and the specific Direct Debit terms and conditions that relate to this Authority to authorize your bank to allow Pinnacle Life, who is the initiator for One Choice to direct debit this account in accordance with these terms and conditions. Perfect, thank you. All right, so lastly, I'll just read out a declaration. Once you've agreed to everything, this will be sent to the underwriter. Now when the underwriter comes back, if you're happy with the outcome and all approves and everything, I don't have to read this again.
+[33 minutes 23 seconds][Customer] : Yes, sure.
+[33 minutes 37 seconds][Agent] : I can just hit an accept button once you agree to it so that at least that will be out of the way. Uh, now also one thing, if the underwriter does come back and you're fully accepted with no changes to what we've talked about and discussed, if I just get your voicemail, are you happy for me to leave a voicemail if you want to finalize and record your acceptance now?
+[33 minutes 58 seconds][Customer] : Not a voicemail.
+[34 minutes][Agent] : No.
+[34 minutes][Customer] : I need to check my voicemail tip.
+[34 minutes 1 seconds][Agent] : Oh, that's OK, No worries. Well, thanks for letting me know. I'll make sure I speak to you regardless of what that the outcome is. And lovely.
+[34 minutes 7 seconds][Customer] : OK, great.
+[34 minutes 9 seconds][Agent] : Umm, and also a heads up. Sometimes the underwriter comes back with extra questions. So that may be the case, but hopefully we've put enough information in there for them.
+[34 minutes 14 seconds][Customer] : Yep, sure.
+[34 minutes 18 seconds][Agent] : OK, All right, So I'll read the declaration, Claire. So it says thank you, Claire. Don here it is important you understand the following information. I'll ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice life insurance is issued by Pinnacle Life Insurance Limited, whom I'm referred to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and said Limited, whom I'm referred to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Finance to Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand and cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this? Answers to the application questions and any related documents from the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure?
+[35 minutes 32 seconds][Customer] : Yes, yes.
+[35 minutes 56 seconds][Agent] : We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this now by informing me or at any time by contacting us or by using any unsubscribe facility on communications we send you. You have agreed to take out a single one choice life insurance policy with the following cover. Claire Donahue receives $300,000 in the event of life insurance. The Claire Donahue Life Insurance A 200% loading was applied during the application process. The benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your total premium for the first year of cover is $78.23 per fortnight. Your premium is a stepped premium which means it will be calculated at each policy anniversary and will generally increase as you age. If sum insured will also increase automatically by 5% each year and you can opt out of this share. Included in your premium is an amount payable to GFS of up to 77% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us and BEST has rated Pinnacle with the B financial strength and outlook of Care and the BB Plus credit rating with an outlook positive. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you by mail and if you have provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key fact sheet which outlines key aspects of your covering plain language. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GSS 10800005804 or e-mail support@onechoice.co dot NZ. So just two questions here. So do you understand and agree with the declaration I've just read to you? And would you like any other information about the insurance now? Or would you like me to read out any part of the policy document to you before we send it to the underwriter?
+[38 minutes 7 seconds][Customer] : Yes, no.
+[38 minutes 18 seconds][Agent] : No. Perfect. All right, I'll pop that through to them now. They're also generally nice and quick class. So looking at the time, more than likely we'll hear back from them today. So I'll be in contact with you when I hear from them and we'll go from there. OK.
+[38 minutes 32 seconds][Customer] : Wonderful. Thanks very much.
+[38 minutes 32 seconds][Agent] : Beautiful. No worries. Thanks for your time and patience with the slow system. Hopefully it will be quicker next time we speak.
+[38 minutes 39 seconds][Customer] : No problem at all.
+[38 minutes 40 seconds][Agent] : All right, take care. Talk to you soon.
+[38 minutes 41 seconds][Customer] : Thanks.
+[38 minutes 42 seconds][Agent] : No worries.
+[38 minutes 42 seconds][Customer] : Bye bye.
+[38 minutes 43 seconds][Agent] : Bye.

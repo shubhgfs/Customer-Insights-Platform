@@ -1,0 +1,89 @@
+[15 seconds][Customer] : Hello.
+[16 seconds][Agent] : Hello, how may I speak with Natasha Shannon Farm Real Insurance?
+[24 seconds][Customer] : Yep.
+[27 seconds][Agent] : Hi Natasha, I was giving you a quick call there in relation to your real insurance policy.
+[31 seconds][Customer] : Mm hmm.
+[34 seconds][Agent] : Thank you. I just got to let you know the calls are recorded though any advice I provide general in nature may not be suitable for your situation. Could you confirm please as well though your name, date of birth and the address too please? Perfect and just your post code please.
+[46 seconds][Customer] : The personal ID from 603361 A Gibson Ave., Wyden, 2747.
+[59 seconds][Agent] : Thank you. Well tasha.nichols15@gmail.com mobile 401168524. Beautiful. So your funeral cover last payment didn't come out which is OK. These things happen. No worries. We can collect a once off payment though through our secure payment system. I'll bring your policy back up. Oh no, sorry, did retry the missed payment today $32.58. Well, yeah.
+[1 minutes 23 seconds][Customer] : Yeah, I don't get why that is because this is not my pay week.
+[1 minutes 29 seconds][Agent] : Well, this was for the missed payment you missed on. Yeah.
+[1 minutes 29 seconds][Customer] : I've spoken to someone about this before. Yeah, I spoke to someone about this before, but it's on the wrong way. I think that's why I'm guessing like the payment because I don't get paid this week. I get paid next week on a Thursday.
+[1 minutes 48 seconds][Agent] : Yeah, the payments are set to come out for that day, your normal ones, but this was for the missed 1. You missed on the 11th of August. I'll just check.
+[1 minutes 56 seconds][Customer] : OK, I don't know why it will come out today but I don't like this should be coming out.
+[2 minutes 1 seconds][Agent] : So we might have spoke to you Cos I think we spoke to you on the 18th. It says we spoke to you on the 18th of August and then you made the arrangement maybe to catch it up on the 1st of August.
+[2 minutes 21 seconds][Customer] : Mm hmm. No, I don't.
+[2 minutes 17 seconds][Agent] : Yeah, you, you might have made the arrangement.
+[2 minutes 27 seconds][Customer] : Yeah, I'll prefer to leave it for the Thursday. So what time does it usually come out there, do you know?
+[2 minutes 23 seconds][Agent] : We can just re we can reschedule a day to a day that suits you normally real early in the mornings.
+[2 minutes 37 seconds][Customer] : OK, Well, yeah, like a Thursday next week. What's that? The 8?
+[2 minutes 42 seconds][Agent] : Yeah, the 8th.
+[2 minutes 43 seconds][Customer] : Yeah, that'd be better to get it taken out then. Mm hmm.
+[2 minutes 48 seconds][Agent] : So what the system will do though is we'll take out your normal collection on the 8th, so your regular collection day 32 and then the catch up one will come out the following day. Is that OK?
+[2 minutes 59 seconds][Customer] : OK. So how much do I pay?
+[3 minutes 1 seconds][Agent] : Oh, so the catcher, you make 4 nightly payments of $32.58.
+[3 minutes 6 seconds][Customer] : OK, Yeah, yeah, yeah, that's fine. I'll make sure.
+[3 minutes 7 seconds][Agent] : So the yeah, is that OK if we take it the following day because we can't take out two Beautiful keeping in mind as well.
+[3 minutes 14 seconds][Customer] : Mm hmm.
+[3 minutes 16 seconds][Agent] : Thank you. So I'll just change it for the into the 9th. And there is also one, the 20, the last week's one as well, like the 25th of August, last Thursday wasn't collected.
+[3 minutes 29 seconds][Customer] : OK.
+[3 minutes 29 seconds][Agent] : So we can retry that one, maybe the following four. Not if you have a day in mind as well, though, if you want us to recollect that one.
+[3 minutes 39 seconds][Customer] : Yeah, fine. I've been like on the phone. Fortnite.
+[3 minutes 45 seconds][Agent] : On the F the Friday the 23rd of September, is that OK?
+[3 minutes 48 seconds][Customer] : Yeah, yeah.
+[3 minutes 50 seconds][Agent] : Perfect. So that's been changed around. So the next, so there'll be one on the so your next one's on the 8th next Thursday. Then the catch up on will come out on the 9th the following and then the following 4 will be the normal 22nd, 23rd OK, they're all payments for 30. If you wanna also call prior to you want to also make a manual payment also call back and make payment on the on the via Visa master direct debit or credit cards or OK, just keeping in mind, just keeping in mind that's not that you have at all. So if you wanna make a manual payment, but the last thing as well, just because there's two more payments owing, I just gotta let you know with your policy. So I just I'd also need to make you aware that on the 22nd of September. Good. The reason I'm letting you know this is because there's 22 payments that are are pending. Your policy will be estimated to lapse on the 22nd of September.
+[4 minutes 33 seconds][Customer] : OK, Yep, Yep.
+[4 minutes 57 seconds][Agent] : So if no premiums are paid before the state, meaning the policy will cancel and you, Natasha Dixon, will no longer be covered on this policy, We are unable to reinstate this policy will lapse or cancels, but we let all our customers know if there's two or more payments only and it's 49, just keeping in mind, OK?
+[5 minutes 17 seconds][Customer] : So once they're caught up, that'll be fine though.
+[5 minutes 20 seconds][Agent] : Yeah, yeah, 100%. So every time you make the payment, every time a successful payment goes through extends the LAP state. So like to say when the payment comes out on the 8th that extends the LAP state by about I think it's about 14 days.
+[5 minutes 33 seconds][Customer] : Mm hmm.
+[5 minutes 34 seconds][Agent] : But yeah. So every time you make a successful payment extends the LAP state.
+[5 minutes 39 seconds][Customer] : Yep. Right.
+[5 minutes 37 seconds][Agent] : But we just have to let you know that there's two or more payments pending.
+[5 minutes 45 seconds][Customer] : Yep.
+[5 minutes 45 seconds][Agent] : OK.
+[5 minutes 47 seconds][Customer] : Yeah, that's fine.
+[5 minutes 47 seconds][Agent] : But anything else that I can help out with?
+[5 minutes 50 seconds][Customer] : Yeah. I want to speak to you about adding someone to my plan, to the funeral plan.
+[5 minutes 57 seconds][Agent] : OK. Yeah. Is that like children's store? I know.
+[6 minutes 3 seconds][Customer] : No partner.
+[6 minutes 4 seconds][Agent] : OK. What I'll do then is I'll speak to the right department for you.
+[6 minutes 9 seconds][Customer] : Mm Hmm. Yep.
+[6 minutes 9 seconds][Agent] : I just work out with the work with the payment side of things and I'll be able to add include. So you want to do a joint policy?
+[6 minutes 20 seconds][Customer] : Yeah, just add, umm, another person to that so I can pay it.
+[6 minutes 25 seconds][Agent] : OK, perfect. So what I'll do then is I'll speak to the right department before you let them know what you would like to do and I'll be able to assist with that. OK.
+[6 minutes 27 seconds][Customer] : Yeah, yeah, no worries.
+[6 minutes 33 seconds][Agent] : Yeah, I might be more than I'll put you on a quick call. I might be more than two minutes, but I'll try and be quicker.
+[6 minutes 39 seconds][Customer] : Yeah, that's fine.
+[6 minutes 40 seconds][Agent] : All good. Thanks for that. So. Richard, how are ya?
+[6 minutes 59 seconds][Customer] : Thank you pretty good.
+[7 minutes 2 seconds][Agent] : I've just got a customer and she's got a policy. She just wants to add another her partner. Is that you or sales? No, no, no for cover.
+[7 minutes 4 seconds][Customer] : How can I help add a part as a beneficiary or like cover above cover now she it's the flexi plus cover made. I don't think she could uh add someone. Let me just double check that and life insurance take out another policy is sales. Let's see.
+[7 minutes 43 seconds][Agent] : Well, she's an existing customer, she wants that and take out another policy was that you or sales, but to add to her current one that we can't?
+[7 minutes 59 seconds][Customer] : Yeah, I'm just having a look. I think ad joint life for this rest of it ad joint life would be able to ad joint life for existing policies. So the flexi plus policies you can't increase there will add people to it.
+[8 minutes 14 seconds][Agent] : Mm hmm.
+[8 minutes 14 seconds][Customer] : So, uh, if she was to add her husband, she would have to set up a new cover.
+[8 minutes 19 seconds][Agent] : OK. So just transfer to.
+[8 minutes 20 seconds][Customer] : So that'll be sales I believe.
+[8 minutes 23 seconds][Agent] : OK, We'll do all speak to sounds there. No worries.
+[8 minutes 25 seconds][Customer] : Well good, thanks mate.
+[8 minutes 26 seconds][Agent] : Thank you, Anthony. What's going on mate?
+[8 minutes 36 seconds][Customer] : Hey Shannon, I'm good. Thanks bro. How can I help you?
+[8 minutes 43 seconds][Agent] : But I've just got a customer. Yeah, she's got a flexi plus, but she wants to take out another policy for a partner.
+[8 minutes 50 seconds][Customer] : OK for a partner? Yep. All right. Yep.
+[8 minutes 50 seconds][Agent] : I'll get out of the league now. I'll spoke to support. They can't include the Flexi plus. I just might want to talk another about another policy.
+[9 minutes][Customer] : OK, so for the new real funeral cover.
+[8 minutes 59 seconds][Agent] : I mean, yeah, Yeah, because I've said that I'll just speak to the right department. Speak to support. They can't include the policy Flexi plus, but just. Yeah, it says it transferred to you.
+[9 minutes 12 seconds][Customer] : OK, do we, umm, do we still have to give, uh, considerations instead of normal or not? Same policy, right? Same, uh, category. Umm, yeah. Awkward. Yeah, no problem.
+[9 minutes 19 seconds][Agent] : Brother, I don't know why she she wanted to add someone to the policy. That's what she mentioned.
+[9 minutes 27 seconds][Customer] : Yeah, right. OK, got it. Cool.
+[9 minutes 29 seconds][Agent] : She she she requested.
+[9 minutes 32 seconds][Customer] : Yep.
+[9 minutes 31 seconds][Agent] : No worries, ma'am, I'll won't transfer. What's her name again?
+[9 minutes 34 seconds][Customer] : And attache.
+[9 minutes 36 seconds][Agent] : Alright, mate. One SEC. Thanks for holding there, Natasha.
+[9 minutes 41 seconds][Customer] : Yep.
+[9 minutes 43 seconds][Agent] : Oh, good. Anthony on the line is happy to assist you from here. OK.
+[9 minutes 47 seconds][Customer] : OK, Thank you. Thank you.
+[9 minutes 48 seconds][Agent] : Thank you.
+[9 minutes 48 seconds][Customer] : Hi, that's Ashley.

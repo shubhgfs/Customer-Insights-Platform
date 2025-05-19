@@ -1,0 +1,19 @@
+[1 seconds][Agent] : Thank you for holding there. I've got a question on the line, so I'll be happy to help you. I just want to confirm for the call recording, Rob's confirmed all these details and go ahead. Perfect. Thanks, AJ. Hi, Robert, this is Kirsten from Customer Support. How are you today?
+[4 seconds][Customer] : Yep, Hello.
+[15 seconds][Agent] : It's good. I believe you're you've just taken out another funeral policy you'd like to nominate your beneficiary. Yep. OK. Let me have a look for you so you can nominate up to five beneficiaries. How many would you like to add today?
+[21 seconds][Customer] : That's hang on. What's wrong?
+[33 seconds][Agent] : No problem. And what's your son's full name, please?
+[36 seconds][Customer] : Robert Anthony.
+[46 seconds][Agent] : OK. And his date of birth? I have to get the details from you. Sorry. Thank you so much. And if you have the same address as you or different?
+[37 seconds][Customer] : Robert Deacon, The 15th of the 3rd, 15th of the 3rd 1989 Nineteen 89 11 Henry Flett. Sorry.
+[1 minutes 5 seconds][Agent] : OK, OK, sorry, just bear with me. OK. And is that NSW 2430?
+[1 minutes 22 seconds][Customer] : Yep.
+[1 minutes 24 seconds][Agent] : OK. And his contact number please. OK, perfect. And about the full 100% of the benefit to go to Anthony.
+[1 minutes 27 seconds][Customer] : 84222266444466668 Yep.
+[1 minutes 46 seconds][Agent] : OK, that's been updated for you now and we will send you an updated policy document. Now your first document's the welcome pack won't include that you've updated beneficiaries. You will receive a separate letter.
+[1 minutes 58 seconds][Customer] : Yep.
+[1 minutes 59 seconds][Agent] : Perfect. Thank you so much. Is there anything else I can help you with today?
+[2 minutes 2 seconds][Customer] : Nah, that's all right. Thank you.
+[2 minutes 3 seconds][Agent] : OK, Thanks, Robert.
+[2 minutes 5 seconds][Customer] : Yep, thank you. Bye.
+[2 minutes 4 seconds][Agent] : Have a good day, bye.

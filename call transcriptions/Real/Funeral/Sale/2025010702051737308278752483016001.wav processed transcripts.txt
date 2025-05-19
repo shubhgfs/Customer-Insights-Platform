@@ -1,0 +1,13 @@
+[2 seconds][Agent] : Welcome to RE Insurance. This is Richard. How can I help you today?
+[6 seconds][Customer] : Hi Richard, I'm looking to take out funeral insurance for funeral colour.
+[15 seconds][Agent] : Understood. And just bear with me. Can you confirm your full name for me, please? Thank you. And can you confirm your date of birth, please?
+[22 seconds][Customer] : Yep, it's Penny Jones Flower, 15th of the 10th, 1976.
+[32 seconds][Agent] : Thank you. And can you confirm your e-mail address on file as well, please?
+[38 seconds][Customer] : It'd be Penn P Double N Flower at 453@gmail.com.
+[45 seconds][Agent] : Thank you. And you have reached customer support actually. So what I can do is I can directly transfer your sales where they'll be able to help you take out that funeral policy or anything related to that. Is that OK?
+[57 seconds][Customer] : Yep, that's fine.
+[1 minutes][Agent] : Thank you. Shouldn't be more than one to two minutes.
+[1 minutes 3 seconds][Customer] : Thanks, Richard.
+[1 minutes 4 seconds][Agent] : Thank you. Thank you, Penny. This is Tim from Sales.
+[1 minutes 44 seconds][Customer] : None.
+[1 minutes 42 seconds][Agent] : He's gonna assist with, uh, taking out that funeral policy. All the best guys.

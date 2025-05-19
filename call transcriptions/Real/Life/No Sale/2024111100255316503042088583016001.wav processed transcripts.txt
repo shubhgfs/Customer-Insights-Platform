@@ -1,0 +1,52 @@
+[25 seconds][Customer] : None. That's alright.
+[43 seconds][Agent] : Hi, Elizabeth, thank you so much for holding my colleague Tara. He should be able to help you as your son known as the beneficiary to your policy.
+[55 seconds][Customer] : OK. Thank you.
+[55 seconds][Agent] : OK, Tara Abos, you're welcome. And Tara computer full ID check with Elizabeth as well. OK, thank you.
+[1 minutes 2 seconds][Customer] : Alright, thanks. Thank you.
+[1 minutes 2 seconds][Agent] : Thank you. Hi, Elizabeth. My name is Tara from the customer support Department. How are you today?
+[1 minutes 8 seconds][Customer] : I'm good. Thank you.
+[1 minutes 10 seconds][Agent] : That's good. Now I understand that you're wanting to nominate your son as a beneficiary on your life insurance. Is that right? Beautiful. So I'll just ask one more point of ID to get this one done. Who is insured under the policy?
+[1 minutes 16 seconds][Customer] : That's not Callum.
+[1 minutes 28 seconds][Agent] : Beautiful. So this life insurance that you've just set up, who's covered under it?
+[1 minutes 35 seconds][Customer] : Oh, just me.
+[1 minutes 36 seconds][Agent] : You're beautiful. No, that's OK.
+[1 minutes 36 seconds][Customer] : Sorry, I misunderstood the question.
+[1 minutes 39 seconds][Agent] : That's alright. Thanks, Elizabeth. OK, so I do need to let you know that you, as a policy owner, are providing an instruction on who to pay the Bo policy benefit to in the event of your death. This nomination will be processed in accordance with the conditions set up in your PDS. Can you please confirm that you understand and the information you will provide is true and correct?
+[2 minutes][Customer] : Yes.
+[2 minutes 1 seconds][Agent] : Beautiful. Alright. What was your son's date of birth? 93 and his first name?
+[2 minutes 5 seconds][Customer] : 20th of the 11th 93 Callum, CA Double LUM.
+[2 minutes 15 seconds][Agent] : UM does he have a middle name?
+[2 minutes 17 seconds][Customer] : Leigh. Leigh Mackourt.
+[2 minutes 19 seconds][Agent] : Beautiful and surname McCourt. So Callum Lee McCourt.
+[2 minutes 26 seconds][Customer] : Yes.
+[2 minutes 27 seconds][Agent] : Beautiful. And what was Callum's contact number?
+[2 minutes 31 seconds][Customer] : Can I just get that?
+[2 minutes 32 seconds][Agent] : Yeah, of course you can. Take your time.
+[2 minutes 33 seconds][Customer] : I'll put you on speaker.
+[2 minutes 35 seconds][Agent] : No worries. Thanks, Elizabeth.
+[2 minutes 57 seconds][Customer] : Hang on, where can I find it?
+[3 minutes 11 seconds][Agent] : It's almost away when you need it.
+[3 minutes 14 seconds][Customer] : Yeah, yes. Found it.
+[3 minutes 31 seconds][Agent] : Yep, Yep, Yep. 866 Beautiful. And then what was his address? Starting with post code.
+[3 minutes 29 seconds][Customer] : 04/01 yeah 04/01 506 866 Oh damn Bay. I'm not sure of the post code.
+[3 minutes 54 seconds][Agent] : That's alright. Do you know the suburb? Was it Bay? Did you say Bay?
+[3 minutes 57 seconds][Customer] : Bay Vic, Bayswater.
+[4 minutes 3 seconds][Agent] : Bayswater.
+[4 minutes 3 seconds][Customer] : BAYSW.
+[4 minutes 6 seconds][Agent] : Bayswater. Let me have a look. Post code Vic.
+[4 minutes 5 seconds][Customer] : Yeah, that could be it.
+[4 minutes 13 seconds][Agent] : So it's coming up 3153 on my end.
+[4 minutes 17 seconds][Customer] : I'm not sure.
+[4 minutes 18 seconds][Agent] : That's right. What was the street address?
+[4 minutes 21 seconds][Customer] : 16 Ashgrove, Bayswater.
+[4 minutes 25 seconds][Agent] : Beautiful. There we go. That's it. OK, that's done. And are you happy for your son to receive 100% of the benefit amount?
+[4 minutes 38 seconds][Customer] : Yes.
+[4 minutes 39 seconds][Agent] : Beautiful, 100%. All right, so Elizabeth, I can confirm your beneficiary has now been updated and will be sending you a policy schedule to reflect these changes. Please ensure you check the information is correct. It is also important to contact, contact us should any of the details of your beneficiaries change so we can update our records to avoid any unnecessary delay during the claims process when they supply the proof of identity. But that is all done. And yeah, like I said, we'll be sending you out some paperwork just confirming those changes have been made. OK.
+[5 minutes 18 seconds][Customer] : OK, so you send them by mail or e-mail.
+[5 minutes 19 seconds][Agent] : Yeah, both.
+[5 minutes 22 seconds][Customer] : OK, cool.
+[5 minutes 21 seconds][Agent] : So you'll get your acceptance paperwork for e-mail and everything. And then, yeah, you'll get your policy schedule through post as well. OK.
+[5 minutes 28 seconds][Customer] : Alright, thank you very much.
+[5 minutes 29 seconds][Agent] : My pleasure, Elizabeth. You have a lovely day.
+[5 minutes 30 seconds][Customer] : OK, right. Bye bye.
+[5 minutes 33 seconds][Agent] : Thank you. Bye. Bye.

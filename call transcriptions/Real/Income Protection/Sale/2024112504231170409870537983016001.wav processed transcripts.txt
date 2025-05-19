@@ -1,0 +1,122 @@
+[1 seconds][Customer] : Hello. Sorry, I don't know what happened there.
+[2 seconds][Agent] : NNN, neither do I, I have no idea Ken from real insurance.
+[6 seconds][Customer] : Yeah, yeah. I thought I think you'd ring back. I'm like, Oh my God, that's what happened.
+[9 seconds][Agent] : That's alright. Could I just get confirm your name and date of birth please? Yep, thank you. And again, calls are recorded and also provide this general nature and that'll be suitable to your situation.
+[14 seconds][Customer] : Nadine N Mobile NOBIME, 2nd of the 8th 73 Yeah.
+[25 seconds][Agent] : So let me just get back into those questions and I've just Co confirmed you're in the mobile is the one I've called you on 0412722900.
+[35 seconds][Customer] : That's it. Yeah.
+[35 seconds][Agent] : Yep. OK. And can I just get you to confirm your address as well?
+[40 seconds][Customer] : Oh, yeah. 42 Gengarry St. Bridgend Bay, 4165. Oh, yeah.
+[44 seconds][Agent] : Yep, that's in Queensland and that's also your mailing address as well. Yep. OK, that's fine. OK. So we'll just up to that. I think it was a height and weight question.
+[47 seconds][Customer] : Yeah, yeah, yeah.
+[56 seconds][Agent] : So it was, I've got here 164cm as your height and 62 kilograms as your weight.
+[1 minutes 2 seconds][Customer] : That's it. Yep.
+[1 minutes 2 seconds][Agent] : That's all correct.
+[1 minutes 3 seconds][Customer] : Yep.
+[1 minutes 3 seconds][Agent] : Thank you.
+[1 minutes 9 seconds][Customer] : No.
+[1 minutes 4 seconds][Agent] : And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months, yes or no? No. OK, no. And to the best in knowledge, are you infected with, are you in a high risk category for contracting HIV which causes AIDS? Yes or no thank you. Travel. Do you have definite plans to travel or reside outside Australia IE booked or will be booking travel within the next 12 months? Yes or no? Fantastic. Do you have existing income protection cover? Yes or no?
+[1 minutes 19 seconds][Customer] : No, no, no, no.
+[1 minutes 35 seconds][Agent] : No thank you and medical history. Have you ever had symptoms of being diagnosed with a protophone? Tend to seek medical advice for any of the following. So again, this category here is just going to get me to reach you at Tagra at a time.
+[1 minutes 47 seconds][Customer] : Yeah.
+[1 minutes 46 seconds][Agent] : You just need to say yes or no. The first category is cancer, tumour, molar cyst, including skin cancer, sunspots, Melanoma or leukaemia. Yes or no thank you. Have you ever had an abnormal cervical smear? Yes or no. Thank you. Stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure. Yes or no. All right. Thank you. High cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no?
+[1 minutes 55 seconds][Customer] : No, no, no, no.
+[2 minutes 15 seconds][Agent] : No and diabetes, Low blood sugar, impaired glucose tolerance or impaired fasting glucose. Yes or no. And hepatitis or any disorder for liver, stomach, bowel, gallbladder or pancreas. Yes or no. Next category, epilepsy, motor urine disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Yes or no. And anxiety, depression or stress requiring medical treatment or any other mental health disorder. Yes or no. Any illegal drug use, abuse of prescription medication or received medical advice or counselling for alcohol consumption. Sorry again. OK, thank you. And disorder the kidney or bladder? Yes or no, and blood disorder or disease, yes or no.
+[2 minutes 20 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[2 minutes 59 seconds][Agent] : Fantastic. The next category, asthma or other respiratory disorder excluding childhood asthma. Yes or no?
+[3 minutes 6 seconds][Customer] : Yes, that's fine.
+[3 minutes 7 seconds][Agent] : Yeah, that's all right. So based on your response, please answer yes or no for each of the following. So we just broke down to two smaller parts. Again, just answer yes or no accordingly. The first category is sleep apnea, emphysema, chronic obstructive pulmonary disease or any other chronic respiratory disease excluding asthma.
+[3 minutes 24 seconds][Customer] : No.
+[3 minutes 24 seconds][Agent] : Yes or no?
+[3 minutes 28 seconds][Customer] : Yep.
+[3 minutes 25 seconds][Agent] : No, right and then asthma, I put yes and then just ask. So just about asthma, have you required any treatment or use any medication within the last two years?
+[3 minutes 35 seconds][Customer] : Yep.
+[3 minutes 35 seconds][Agent] : Yes or no?
+[3 minutes 35 seconds][Customer] : Yep.
+[3 minutes 36 seconds][Agent] : Yes. Do you only use inhalers, example dental and the camel etcetera, Yes or no?
+[3 minutes 41 seconds][Customer] : Yep.
+[3 minutes 42 seconds][Agent] : Yes. And do you require more than one type of inhaler? Yes or no?
+[3 minutes 46 seconds][Customer] : Oh no.
+[3 minutes 47 seconds][Agent] : No and then just ask. Are your symptoms seasonal or exercise induced only yes or no?
+[3 minutes 52 seconds][Customer] : Yes.
+[3 minutes 53 seconds][Agent] : Yes, Yep. That's all we need to know. And then back or neck pain or disorder, yes or no.
+[3 minutes 58 seconds][Customer] : Oh no.
+[4 minutes][Agent] : And arthritis, chronic pain, gout repair, train injury, chronic fatigue syndrome or fibromyalgia, Yes or no. And joint or muscle pain, ligament injuries, including replacement or reconstructive surgery. Yes or no, Thank you. Osteoporosis or osteopenia, Yes or no?
+[4 minutes 5 seconds][Customer] : No, no, no. Lost it.
+[4 minutes 19 seconds][Agent] : You there no fantastic and any defect of hearing on sight other than just corrected by glasses or contact lenses, yes or no?
+[4 minutes 27 seconds][Customer] : No.
+[4 minutes 28 seconds][Agent] : No thank you and we're down to the last six questions other than what you're already told about. In the past three years, have you sought medical advice occurred by a medical practitioner or specialist? Are you waiting results for any medical tests or investigations such as They're not limited to any surgeries, X-rays, scans or biopsy. Yes or no thank you. Other than what you're already telling that you're contemplating seeking medical advice on the symptoms you're currently experiencing within the next two weeks. Yes or no thank you. And other than what you're already telling about, have you ever during your working career required more than two consecutive weeks off work due to illness or injury? Yes or no?
+[4 minutes 46 seconds][Customer] : No, no, no, no, no. Oh no.
+[5 minutes 11 seconds][Agent] : Sorry again Nadine, That's fine. Fantastic. So family history. So when we refer to meet a Family, we mean your mum, dad, brothers or sisters, aren't we? To the best of your knowledge, have any of your immediate family living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or familial anematis polyposis? Yes, I know. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other heritage disease prior to age 60? Yes or no?
+[5 minutes 31 seconds][Customer] : No, no, not that I know of.
+[5 minutes 44 seconds][Agent] : Yep. So that's all question.
+[5 minutes 43 seconds][Customer] : No, Yeah.
+[5 minutes 47 seconds][Agent] : Yeah, OK, that's fine. And the last part, hazardous specifics other than one off events like gifts or vouchers, do you engage in or tend to engage in any of the following aviation? And it's a fare paying passenger on a recognised airline, motorising, parachuting, mountaineering app, sailing, scuba diving, deepening 40 metres, K direct diving or any other hazardous activity, yes or no? Alright, thank you. That comes to your end of that question. So I'll just check that outcome for you. And like I was saying before, with the income protection, there's two other components or two other benefits included. There is a final expenses benefit now that pays $10,000 in Betty Passaway. So that can help out with things like that, like final expenses. And there is also a rehabilitation benefit included as well.
+[6 minutes 8 seconds][Customer] : No, what was that? Sorry.
+[6 minutes 33 seconds][Agent] : A rehabilitation benefit included.
+[6 minutes 35 seconds][Customer] : OK, I've concluded.
+[6 minutes 38 seconds][Agent] : Alright, so, so good news. You have been approved for this cabinet again. So I'll get your cabinet and get all those documents posted to your Redland Bay address today. Any questions or contact details will be on the documents. And you're not required to pay anything today.
+[6 minutes 36 seconds][Customer] : Yeah, OK.
+[6 minutes 53 seconds][Agent] : Nadine, you select your preferred date of payment and select the payment date of your choice. So what day would you prefer for that first payment?
+[7 minutes 1 seconds][Customer] : So how is it? Is it like fortnightly?
+[7 minutes 4 seconds][Agent] : Yeah. Did you want fortnightly monthly or yearly premiums?
+[7 minutes 8 seconds][Customer] : Fortnightly's fine.
+[7 minutes 9 seconds][Agent] : Yep.
+[7 minutes 10 seconds][Customer] : Is it doesn't like any cheaper to do. Might do it.
+[7 minutes 9 seconds][Agent] : OK, so today it wouldn't be any cheaper.
+[7 minutes 19 seconds][Customer] : OK, Yeah, yeah. No fortnight. Fortnightly's fine.
+[7 minutes 15 seconds][Agent] : It's just pretty much the the options that we give you because of payment frequency or good. Today's Monday 25th of November. Is there a day that you prefer for the first payment you choose?
+[7 minutes 28 seconds][Customer] : Oh, OK. So I'll just like, I'll kick it off this week or how does that work?
+[7 minutes 33 seconds][Agent] : Up to you, you'll be covered.
+[7 minutes 37 seconds][Customer] : Yeah.
+[7 minutes 35 seconds][Agent] : We can get you covered as of today, but you don't have to pay anything today. You can push it out to a date that you that suits you. We could even let you pay that if you want.
+[7 minutes 41 seconds][Customer] : Oh yeah, yeah.
+[7 minutes 46 seconds][Agent] : Which date?
+[7 minutes 43 seconds][Customer] : Or even if we start it next Monday, it will be fine the the 2nd of December.
+[7 minutes 48 seconds][Agent] : Yeah sure. Next Monday, so 2nd of December and then every fortnight on a Monday after that so the next one will be the 16th of December and so forth and your MO, not your mobile, but your e-mail address is the one that we've confirmed previously. Nadine Nabil at Oh, nice. OK, I'll get a welcome e-mail I sent to you. So you should get that in the next half hour. And the welcome pack to 42 Gingerry St. Redmond Bay.
+[7 minutes 51 seconds][Customer] : Yep, Yep, yepyepthatsthelastname@hotmail.com yeah, Yep. JINGRI.
+[8 minutes 18 seconds][Agent] : OK, and how do you normally like to set a direct debit if you'd like to use a card, Visa, MasterCard or BSB, your account number?
+[8 minutes 24 seconds][Customer] : Oh, yes.
+[8 minutes 27 seconds][Agent] : Yeah, sure.
+[8 minutes 25 seconds][Customer] : I don't know, give you the credit card number or do you prefer?
+[8 minutes 27 seconds][Agent] : Just let me know once you get that.
+[8 minutes 29 seconds][Customer] : What do you, what do they prefer?
+[8 minutes 29 seconds][Agent] : Oh, that's up to you. It's up to you. What? What do you prefer more? Well, how do you normally start with direct debits?
+[8 minutes 36 seconds][Customer] : OK, I might do it through. Yeah, I might do it through my savings account.
+[8 minutes 37 seconds][Agent] : We take either or savings. Yeah, sure. Is that a OK. You said savings accounts. I'm just putting savings. The name of that savings account is just your first and last name.
+[8 minutes 49 seconds][Customer] : Yeah.
+[8 minutes 50 seconds][Agent] : Yep.
+[8 minutes 50 seconds][Customer] : So I'm just gonna get the number out for you.
+[8 minutes 52 seconds][Agent] : Yeah, sure. Take your time. All good. No rush. OK. Mm hmm. Mm hmm.
+[9 minutes 3 seconds][Customer] : That's cool, I think I'm just trying to get it out my 32 seconds. Sorry. Let's see the A. That's the BSB number.
+[9 minutes 22 seconds][Agent] : Mm hmm.
+[9 minutes 23 seconds][Customer] : This is 067872.
+[9 minutes 30 seconds][Agent] : Yep.
+[9 minutes 31 seconds][Customer] : Yep.
+[9 minutes 30 seconds][Agent] : Commonwealth Bank mm hmm.
+[9 minutes 36 seconds][Customer] : The account number, it's 11917689.
+[9 minutes 42 seconds][Agent] : Mm hmm. OK, that's fine. So I'll read it back to you. So Commonwealth savings account under your name BSB 067872 account number is 11917689.
+[9 minutes 42 seconds][Customer] : That's it, Yeah.
+[9 minutes 55 seconds][Agent] : Alright, thank you. So that's what that's the account that we'll be debiting. So you said that on the 2nd of December and then rest 4/9 on Monday after that. So all I need to do here is reach this declaration to get you covered and well, not towards the end, but within the declaration there'll be a few questions for you to answer with a yes or no. Once that's done, I'll be able to then provide you with your policy number if you'd like to write that down. If not, that's OK.
+[10 minutes 18 seconds][Customer] : OK, Yeah, OK, cool.
+[10 minutes 20 seconds][Agent] : It would appear on the e-mail and the documents just while I upload that. Just one last thing to confirm your title is Miss Ms.
+[10 minutes 23 seconds][Customer] : Yeah, Yeah.
+[10 minutes 29 seconds][Agent] : Yep. So, Smith Nadine Nabil, born on the 2nd of August 1972. Now, you confirm you're a female and Australian resident. Notice you don't last 12 months. Your residential and postal address is 42 Gingerry St. Redmond Bay, QLD. That. That's all correct. Yeah. OK. And I've confirmed your mobile is 0412722900. That's nadinenabil@hotmail.com.
+[10 minutes 51 seconds][Customer] : That's it.
+[10 minutes 51 seconds][Agent] : That's your e-mail. OK, that's fine. All right, Calls are recorded. So here's the declaration. This rate. Thank you Nadine, The bill, it's important to understand the following information. I'll also be agreeing to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Life, real life for Larger Ltd who will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services and I will refer to as GFS trading as real insurance to issue and arrange this insurance on it's behalf. And as it relies upon the information you've provided when assessing your application. That includes the information we initially collected from you to provide a quote and as I set a target market determination, this product, which is the product of consumers this product is designed for. Now distribution practices are consistent with this termination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all our questions in accordance with your duty, Yes or no?
+[11 minutes 44 seconds][Customer] : Yes.
+[11 minutes 45 seconds][Agent] : Thank you. We may from time to time provide offers to you by the communication methods you provide to us in relation to other products and services. By going to this declaration, you consent to allow us to contact you for this purpose until you opt out. You're not there this at any time by contacting us. The accepted cover provides the following insurance cover for Nadine. The bill, a monthly insured amount of $5833 with a waiting period of 30 days and a benefit period of six months. The monthly income benefit payable in the advantage of a claim may be less than the monthly insured amount as your income benefits limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffered your deciding sickness or injury. Your income benefit can also be reduced if you receive other distillery payments from other sources. There is a final expenses benefit of $10,000 paid to your beneficiaries if you pass this way while your policy is in. While your policy is in place, your cover expires on December 2nd, 2037, 12:00 AM. Your premium for your first year of cover is $67.29 per fortnight. Your premium is a step premium, which means it will be calculated each policy anniversary and will generally increase each year. Including your premiums and amount payable by Hanover to GFS of up to. Oh hang on, I'll just read that this again. Including your premium is that amount payable by Hanover to GFS of between 37% and 51% to cover your payment will be debited from your bank account in the name of Nadine Nabil which you are authorised to get it from and have provided to us. The policy documentation, PDS and FSU will be mailed to if you provide us with an e-mail address. The policy documentation will also be emailed to you today. You should carefully consider these documents ensure the product that you need. You have a 30 day calling up. When you may cancel your policy and a premium may have paid will be refunded in full. Unless you have lodged a claim that risks associated with policies. As your policy may not be identical to you existing cover, we recommend that you do not cancel any existing policy until I've received don't review the policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Do you understand and agree with the declaration? Yes or no?
+[13 minutes 51 seconds][Customer] : Yes.
+[13 minutes 52 seconds][Agent] : Thank you. And would you like any other information about the insurance now or would you like me to read any part of the PDF to you? Yes or no?
+[14 minutes 1 seconds][Customer] : None.
+[14 minutes 2 seconds][Agent] : Right. Thank you. So then you're covered as of today. So welcome to real insurance. First of the 2nd of December, like you said, and every fortnight on a Monday after that.
+[14 minutes 12 seconds][Customer] : Yeah. Thank you.
+[14 minutes 12 seconds][Agent] : Just sent the e-mail. Yeah. Thank you. And with that welcome pack, you should get that in about two to five working days. Would you like to write down your policy number? Yep.
+[14 minutes 23 seconds][Customer] : Yep. Alright, I'm just gonna grab one.
+[14 minutes 26 seconds][Agent] : No, that's all right. OK, 722, 001133.
+[14 minutes 31 seconds][Customer] : Yep, 722 00 1133. OK, Lovely.
+[14 minutes 45 seconds][Agent] : Alright. So yeah, when you call us, if you have any questions, just quote that policy number so we can get your details up. Other than that, that's all done. That's all set up for you.
+[14 minutes 54 seconds][Customer] : OK, excellent. Thank you for all your help.
+[14 minutes 56 seconds][Agent] : Yeah, Thanks indeed. Enjoy the rest of your day.
+[14 minutes 58 seconds][Customer] : You too. Thank you. Bye.
+[14 minutes 59 seconds][Agent] : Bye now.

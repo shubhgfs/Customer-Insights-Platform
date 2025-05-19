@@ -1,0 +1,24 @@
+[1 seconds][Agent] : Welcome to View insurance customer support. You're speaking with Richard. How can I help you today?
+[6 seconds][Customer] : Hello. Hi. Would you please, can you help me? What I need? I need the final plan insurance for my father.
+[22 seconds][Agent] : Understood. So you would like to take out a new funeral plan, is it?
+[27 seconds][Customer] : Yeah, I like to apply for the final insurance for my dad.
+[36 seconds][Agent] : Understood. You've actually reached customer support.
+[40 seconds][Customer] : Oh.
+[39 seconds][Agent] : What I can do is I can transfer you to sales. Is that something you like me to do for you?
+[45 seconds][Customer] : Oh.
+[47 seconds][Agent] : Do you?
+[47 seconds][Customer] : Oh.
+[47 seconds][Agent] : I'm sorry. Do you want me to transfer you to sales?
+[54 seconds][Customer] : OK.
+[50 seconds][Agent] : They can help you take out a policy and go through that information with you if you if you'd like.
+[54 seconds][Customer] : OK.
+[56 seconds][Agent] : No worries.
+[56 seconds][Customer] : OK. Thank you.
+[57 seconds][Agent] : I'll, I'll transfer you now to sales. I'll be very quick. Hopefully it shouldn't be long. If it's more than two minutes, I do apologize.
+[58 seconds][Customer] : Oh, OK. Thank you.
+[1 minutes 5 seconds][Agent] : Thank you. Thank you. Thank you for your patience. Are you still there waiting?
+[2 minutes 3 seconds][Customer] : Hello. Hello.
+[2 minutes 4 seconds][Agent] : Hello. Thank you for your patience. I have. I have Kayla here from Spells.
+[2 minutes 7 seconds][Customer] : Oh, oh. OK. Thank you.
+[2 minutes 8 seconds][Agent] : She's gonna help you with your enquiry and about taking that post out for your father. No worries. All the best.
+[2 minutes 13 seconds][Customer] : Thank you very much. Thank you.

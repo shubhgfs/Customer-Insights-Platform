@@ -1,0 +1,167 @@
+[1 seconds][Agent] : Good morning.
+[1 seconds][Customer] : Morning, Robin.
+[3 seconds][Agent] : Hi, Sir.
+[2 seconds][Customer] : Hi, Sir.
+[4 seconds][Agent] : How you going?
+[4 seconds][Customer] : How you going? I'm good, Robin. Thank you.
+[4 seconds][Agent] : Thank you.
+[6 seconds][Customer] : How are you? Good.
+[6 seconds][Agent] : How are you? Good. Thanks.
+[8 seconds][Customer] : We have Anthony.
+[7 seconds][Agent] : We have Anthony.
+[8 seconds][Customer] : I've confirmed his name, date of birth, address, policy type. He wants to know how much he's covered for and what he's paying.
+[12 seconds][Agent] : I've confirmed his name, date of birth, address. Mm Hmm. Wants to know how much he's covered for. OK. All right.
+[15 seconds][Customer] : Confirmed everything. Did you say name, date of birth, address, policy type?
+[19 seconds][Agent] : So he confirmed everything. Did you say? OK. All right, Put him through when you're ready.
+[25 seconds][Customer] : Thanks, Robin. I'll bring him in 3/2.
+[30 seconds][Agent] : Hi, good morning my speaking with Anthony.
+[33 seconds][Customer] : Speaking, yes.
+[34 seconds][Agent] : OK, good morning, Anthony.
+[35 seconds][Customer] : How are you today, mate?
+[36 seconds][Agent] : My I'm very well. Thanks. Anthony, how are you?
+[39 seconds][Customer] : Good, mate, good. Hey, yeah, just checking up on what's my insurance and what's it covers? What's it covering?
+[44 seconds][Agent] : Yeah, sure. OK. All right. I just need to let you know first. And Please note, all our calls are recorded. Any advice we provide is generally mentioned may not be suitable to your situation. I believe my colleague has confirmed your name, date of birth and policy type. Is that correct? And what is your e-mail address as well we have on file? Yep. And the home address?
+[58 seconds][Customer] : Yep, that's correct anthony.conley1@hotmail.com correct.
+[1 minutes 8 seconds][Agent] : 63 Suter Rd., Haley, Queensland, 4825 and contact number O 437118, double O five.
+[1 minutes 19 seconds][Customer] : Yep, that's him.
+[1 minutes 20 seconds][Agent] : OK. And that you do know how much you have often you do pay for your policy.
+[1 minutes 25 seconds][Customer] : Pay fortnightly 135 dollars then good.
+[1 minutes 26 seconds][Agent] : OK, let me, yeah, let me just have a look for you just starting up that page. Yep. 100 and 3352 Fortnite. OK. So you your current benefit amount as of today's date for yourself, 670,000 and 49 dollars, OK, For accidental death, 67,000 and $5 or so. The same for the serious illness and for your son Patrick, the benefit amount is $26,803 and it is for Simon's Anthony Junior as well.
+[2 minutes 6 seconds][Customer] : Yep.
+[2 minutes 6 seconds][Agent] : OK, all right. Need any further information on anything in there at all?
+[2 minutes 11 seconds][Customer] : Is is is my daughter on there? My anaya.
+[2 minutes 16 seconds][Agent] : Uh, no. Just have yourself, Patrick and Anthony Junior.
+[2 minutes 21 seconds][Customer] : Oh OK. I thought I'd put my wife and my daughter on there.
+[2 minutes 24 seconds][Agent] : No, no, it's just just just yourself, Anthony, Junior and Patrick.
+[2 minutes 29 seconds][Customer] : So how much, how much more would it cost to put my daughter and my wife on there mate?
+[2 minutes 33 seconds][Agent] : All right, I just put you on a brief hold and umm, I'll just get some details, maybe 2 minutes or more, umm, but I'll come back too soon as I can just hold the line for me.
+[2 minutes 40 seconds][Customer] : Yep, thank you.
+[2 minutes 42 seconds][Agent] : Thanks. There and she saw the calculation.
+[3 minutes 50 seconds][Customer] : Yeah, life insurance.
+[3 minutes 49 seconds][Agent] : So before I can do a quote and So what sort of policies you have with us, Yeah, that's right. Umm, so I'd need to get all the details of your wife and daughter, umm, like name, date of birth and contact details because I'd need to add them to the quote. But if you wanted to add your wife, umm, she would have to go through health and lifestyle questions. So I would have to be heard that umm, that we talked to regarding that.
+[4 minutes 4 seconds][Customer] : Yep, Yep, Yep.
+[4 minutes 15 seconds][Agent] : OK.
+[4 minutes 16 seconds][Customer] : Fair enough.
+[4 minutes 16 seconds][Agent] : Or so just stay with me. Again, just put you on a brief hold. Just hold the line for me.
+[4 minutes 23 seconds][Customer] : No worries.
+[4 minutes 22 seconds][Agent] : I said maybe 2 minutes or more but I'll come back too soon as I can. Thank you. Hi, so I keep writing.
+[6 minutes 20 seconds][Customer] : Yep.
+[6 minutes 19 seconds][Agent] : What's your wife's name please?
+[6 minutes 22 seconds][Customer] : Maria Allen. Yeah. Maria Allen. E Double Len.
+[6 minutes 22 seconds][Agent] : Your first name so MI Yeah, and middle name double Len and surname same as yours.
+[6 minutes 34 seconds][Customer] : Yep. That is mine. Yep.
+[6 minutes 33 seconds][Agent] : Connolly C Double N Double LY and Maria's date of birth please.
+[6 minutes 41 seconds][Customer] : The ninth of the 3rd, 1986.
+[6 minutes 44 seconds][Agent] : 09/01/1986 Is that right?
+[6 minutes 52 seconds][Customer] : Yep.
+[6 minutes 50 seconds][Agent] : Ninth of the 1st 1986 Yep.
+[6 minutes 53 seconds][Customer] : No, not, not of the third. Sorry. Third. Yep.
+[6 minutes 55 seconds][Agent] : 3rd of March is it?
+[6 minutes 58 seconds][Customer] : Yep, yes, yes.
+[7 minutes][Agent] : OK, so 9/03/1986 and this May a female Australian resident search for details and her title. Is that misses or something else?
+[7 minutes 17 seconds][Customer] : Mr. Common.
+[7 minutes 19 seconds][Agent] : Yeah.
+[7 minutes 18 seconds][Customer] : Yep, Mr. Common.
+[7 minutes 19 seconds][Agent] : And home address same as yours.
+[7 minutes 22 seconds][Customer] : Same as mine. Yep.
+[7 minutes 23 seconds][Agent] : Yeah. OK. And umm, we have a separate mobile number or contact number.
+[7 minutes 29 seconds][Customer] : Yes, yes, yes.
+[7 minutes 30 seconds][Agent] : What would that be? I thought, yes, 659, yeah, 795 e-mail address. That's all.
+[7 minutes 31 seconds][Customer] : 04220422 659 7795 I don't know if it's top head mate. Just give me shoes.
+[7 minutes 47 seconds][Agent] : OK.
+[7 minutes 47 seconds][Customer] : Mine if you like.
+[7 minutes 47 seconds][Agent] : No, that's all right. And you said relationship to yourself is wife, correct?
+[7 minutes 53 seconds][Customer] : My wife.
+[7 minutes 53 seconds][Agent] : Yeah. OK. Just save that then. And what's your daughter's name?
+[7 minutes 53 seconds][Customer] : Yes, yes, Anaya ANAYAH.
+[8 minutes 5 seconds][Agent] : OK, Yep, OK, just go to the child one for that one. OK, Yep. So we can do that now whenever we do need to obtain any card details, we do to the recording office. So let me get that ready for us and then just do that.
+[8 minutes 30 seconds][Customer] : Yep, It's an AJ. So it's got that rule.
+[8 minutes 29 seconds][Agent] : So that's INAYAHINAH so and JJAYEJAYE and condemn it's surname.
+[8 minutes 37 seconds][Customer] : Yeah, yeah, Yep, Yep.
+[8 minutes 42 seconds][Agent] : That's double LY and a nice date of birth.
+[8 minutes 47 seconds][Customer] : 26th of January 19, set back 1920. Sorry. 26th of January 2017.
+[8 minutes 54 seconds][Agent] : Yes OK 2O17 OK. And again, is Anaya female Australian residents?
+[9 minutes 2 seconds][Customer] : Yep.
+[9 minutes 8 seconds][Agent] : So that makes a 7. So it's just a miss or miss?
+[9 minutes 13 seconds][Customer] : Yeah. Miss.
+[9 minutes 13 seconds][Agent] : Miss. OK. And home address assume. Is that the same as yours?
+[9 minutes 13 seconds][Customer] : Yes, yeah, yeah, same. Same as mine.
+[9 minutes 19 seconds][Agent] : Yeah. No, she's young. But you have a contact number at all. I might just put that down the same as yours. OK.
+[9 minutes 19 seconds][Customer] : Yeah, no, Yep. OK. No, same as she's mine as well.
+[9 minutes 28 seconds][Agent] : All right and e-mail address at all for Anaya No OK and and you said relationships yourself and your daughter correct. OK, type that information. OK, OK, so, umm, so this is just an indicative quote then, uh, for, for Maria.
+[9 minutes 42 seconds][Customer] : Yes, Yep.
+[10 minutes 5 seconds][Agent] : OK, because you'd have to go through the health and all start questions and, uh, underwriting questions. OK, Umm, has Maria had a cigarette in the last 12 months? Yes or no?
+[10 minutes 8 seconds][Customer] : Yeah, yeah, Yep, Yep. A cigarette.
+[10 minutes 25 seconds][Agent] : Yeah. Has she had?
+[10 minutes 27 seconds][Customer] : Yeah.
+[10 minutes 26 seconds][Agent] : Has Maria had a cigarette in the last 12? Yeah. Yeah, she has the same. OK.
+[10 minutes 27 seconds][Customer] : Oh yeah, yeah, yeah, yeah, yeah, yeah.
+[10 minutes 31 seconds][Agent] : Now what is your occupation?
+[10 minutes 34 seconds][Customer] : Mine. I heard.
+[10 minutes 35 seconds][Agent] : No, hers. Maria's occupation.
+[10 minutes 37 seconds][Customer] : I'll give. So she's just a stay home mum at the moment.
+[10 minutes 40 seconds][Agent] : OK. Homemaker. OK, good. Alright. And with the life insurance? Umm, you know how much you want to do insure her full for Maria 100,000 OK, just calculate that. And so this this the rights I'm giving you is definitely indicative because she's have she needs to go through further health and master questions.
+[10 minutes 57 seconds][Customer] : I think she wanted like 100,000, It was 100,000, but you just asked me to put add on there, so yeah, yeah.
+[11 minutes 16 seconds][Agent] : OK, and let me just add on. OK. And was there an amount you wanted for?
+[11 minutes 37 seconds][Customer] : I know. I just the same as the boys. Yeah, the same as the brothers.
+[11 minutes 36 seconds][Agent] : And yeah, so I can't quite. So that was so do you know what that amount was? My windows just covering it and I can't back through. Do you know what that was? Sorry? Or come back through 20,000. OK, yeah, right.
+[12 minutes 1 seconds][Customer] : It it was for 20 TH it was for 20,000 at the start, yeah.
+[12 minutes 5 seconds][Agent] : No problem. So do that 20. OK. I was just claiming, so you can't fortnightly payments $133.52. OK.
+[12 minutes 24 seconds][Customer] : Yep. Yep. Yep.
+[12 minutes 24 seconds][Agent] : Now the new fortnightly premium, if we add Maria and and iron and this is this is certainly indicative, will be 100 and $144.19 per fortnight.
+[12 minutes 38 seconds][Customer] : Yep.
+[12 minutes 39 seconds][Agent] : So I said that that is indicative, right?
+[12 minutes 46 seconds][Customer] : Yep. Yeah, that's fine. Yeah.
+[12 minutes 42 seconds][Agent] : Umm, so me would have to go through to trust umm, because you'd have to go through on health and life so a bit. But yeah, at least at least you have an indicative quite. OK.
+[12 minutes 52 seconds][Customer] : Yeah. So when, when can I, When? After I have to wait for them to talk to Maria first before I can move forward with that?
+[12 minutes 52 seconds][Agent] : Uh, yes, that that that would be best. Yeah.
+[13 minutes 4 seconds][Customer] : Yep.
+[13 minutes][Agent] : Well, you'd have to, if she'd have to go through, she'd have to answer her own health and lifestyle questions. OK so I would do all the ones.
+[13 minutes 7 seconds][Customer] : What a what about? Yeah, what a Sorry. So just wait for an A or two at the same time, or about an A or now or, or just wait for Maria to book them.
+[13 minutes 13 seconds][Agent] : So you wish all right, well, you can add the Naya now because this didn't have to go through the the health nastar.
+[13 minutes 22 seconds][Customer] : Yep.
+[13 minutes 20 seconds][Agent] : All right, so let me just take the rear off. OK. So to add a Naya, so they said you can't fortnight, it gives 133,052 cents. So to add a new new fortnight can be $135.32.
+[13 minutes 42 seconds][Customer] : Yep.
+[13 minutes 41 seconds][Agent] : So that's a difference of a $1.80. So is that something?
+[13 minutes 45 seconds][Customer] : Yeah, that's fine. Can I just add a mail in please?
+[13 minutes 47 seconds][Agent] : Yeah. All right. OK.
+[13 minutes 47 seconds][Customer] : Yep, Yep.
+[13 minutes 48 seconds][Agent] : Just put you on a brief hold and just check all the details. Just hold the line for me. Shouldn't be too long. Thank you.
+[13 minutes 54 seconds][Customer] : Thank you.
+[15 minutes 34 seconds][Agent] : There Anthony, so to keep you waiting.
+[15 minutes 37 seconds][Customer] : Yeah, mate.
+[15 minutes 35 seconds][Agent] : OK, so are you still there yet? So we will pay the children's insurance benefit amount as a lump sum in the event that insured child suffers death from any cause or a defiant serious injury or illness. So please refer to our website for the full range of events covered.
+[15 minutes 49 seconds][Customer] : Yep, I know. Yep.
+[15 minutes 53 seconds][Agent] : OK, so you've chosen $20,000 and this is so for $20,000 for a year and I sorry, so let's make sure I got the right one here. So for $20,000, you would pay an additional dollar, 80 per fortnight on top of your insurance premium. So your total premium would now would then be $135.32 per fortnight.
+[16 minutes 25 seconds][Customer] : Yep.
+[16 minutes 24 seconds][Agent] : So that sounds OK to you, Does it all good for you.
+[16 minutes 27 seconds][Customer] : Yeah, mate. Yep. Yep.
+[16 minutes 29 seconds][Agent] : OK, now I do need to let you know about the following exclusions. So cover is for accidental death only in the first three months. Any claim arising from injury, illness or death from any 'cause that becomes apparent before or during the first three months of the children's option, uh, commencing will not be covered. OK, All right. OK. And also serious injuries or illnesses. So serious injuries or illness claims due to congenital conditions or as a result of an intentional act by the policy owner will also not be covered.
+[16 minutes 50 seconds][Customer] : Yep, Yep, Yep.
+[17 minutes 6 seconds][Agent] : OK, I'll just put you on a brief hold. Again. Just hold the line for me.
+[19 minutes 1 seconds][Customer] : Yeah, bye.
+[18 minutes 58 seconds][Agent] : Anthony, so to keep you waiting, yeah. So thank you Anthony. Now it's important you understand the following information. This product is issued by Hanover Library of Australasia Limited whom we will refer to as Hanover. Any personal statements made in this application in any related documents from the basis of your contracts of insurance with Hanover. Now, before you enter into or reinstate a life insurance. So before you enter into or reinstate a life insurance contract, you have a duty not to make any misrepresentations. This means you need to ensure that you understand each question I ask you and then provide honest, accurate and complete answers. You need to answer each question. So you need to answer each question in four. Even if you have provided some information to us in any early discussions you have had, if If you do not take reasonable care, it may reach your duty and if this happens, your insurer may be entitled to cancel your So say that again, you need to answer each question for. Even if you. Even if you have provided some information to us in any early discussions you have had, if you do not take reasonable care, you may reach your duty and if this happens, your insurer may be entitled to cancel your policy, decline the claim, or make adjustments to the terms and conditions of your policy. Can you please confirm your?
+[20 minutes 29 seconds][Customer] : Yes.
+[20 minutes 24 seconds][Agent] : To stand and agree with your duty as I have uh provided OK, have a look at that. Just bear with me, OK now, so to complete this request, this is your new benefit in that will now be $135.32 per fortnight. And and that's. So you need benefit while adding on uh Anaya. So that's for the $20,000 and I said your total payment will now be $135.32 per fortnight. Are you happy for me to add Anya umm, to your last policy? Uh, so so are you happy for me to add Anya uh, on your policy? Do you agree to that? OK, alright, let me just update that for you. Just updating. OK. Well, uh, and so this has been completed for you will be effective from your next record collection date, which is the 14th of August and that will now be $135.32. We will also send out new policy documents reflecting this change.
+[21 minutes][Customer] : Yep, Yep, yes, OK. Sounds good.
+[21 minutes 47 seconds][Agent] : Is there anything else I can help with their update for you today?
+[21 minutes 52 seconds][Customer] : Yeah, mate, just the the beneficiary that's still, that's still for Maria. My beneficiary.
+[21 minutes 55 seconds][Agent] : Let me have a uh, yeah. So you've got Maria, Patrick, Anthony and Anaya. You got 4 beneficiaries and the the percentage you've got 50% for Maria, 15% is for Patrick and Anthony and 20% for and a your daughter.
+[22 minutes 3 seconds][Customer] : Yep, Yep, Yep.
+[22 minutes 11 seconds][Agent] : OK, All right.
+[22 minutes 15 seconds][Customer] : Sounds good.
+[22 minutes 14 seconds][Agent] : So anything else I can help with there at all today?
+[22 minutes 18 seconds][Customer] : Just when you, when you do ring Maria, can you just ring like she won't? She's not. She's won't be answering the phone till maybe around 1:00. If you're just gonna if you're gonna give her a bell, I'll try and give her a heads up. If you're gonna ring.
+[22 minutes 24 seconds][Agent] : OK, Umm, no, yeah, no, it's probably best.
+[22 minutes 28 seconds][Customer] : Or do you want her to ring you?
+[22 minutes 28 seconds][Agent] : Uh, no. Uh, yeah.
+[22 minutes 34 seconds][Customer] : Yep. OK then. OK then.
+[22 minutes 30 seconds][Agent] : So if you could call in because it's your policy, uh, you can call in and then and then when, when they go through the motions, uh, then you can put me wrong to answer the health and last, uh, the underwriting questions.
+[22 minutes 42 seconds][Customer] : Beautiful. No worries, mate.
+[22 minutes 41 seconds][Agent] : OK, Alright, Alright.
+[22 minutes 43 seconds][Customer] : Thank you very much.
+[22 minutes 44 seconds][Agent] : Thanks. And she's my pleasure. Take care.
+[22 minutes 46 seconds][Customer] : OK, mate.
+[22 minutes 46 seconds][Agent] : Bye.
+[22 minutes 46 seconds][Customer] : Bye. Bye.
+[22 minutes 47 seconds][Agent] : Bye now.

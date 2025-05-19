@@ -1,0 +1,126 @@
+[3 seconds][Agent] : Thank you for calling One Choice Insurance. You're speaking to Long. How can I help you today?
+[8 seconds][Customer] : You guys rang me.
+[10 seconds][Agent] : Oh, OK. OK.
+[11 seconds][Customer] : It's elements. You speaking?
+[13 seconds][Agent] : Oh, hey there, Ella. It's long here. I'm. I'm just here.
+[18 seconds][Customer] : Hi.
+[18 seconds][Agent] : I'm calling back. I'm just calling back from One Choice Insurance. How are you going today?
+[22 seconds][Customer] : Yeah. Thank God.
+[24 seconds][Agent] : Good. OK, now that's good to hear.
+[33 seconds][Customer] : Yep.
+[26 seconds][Agent] : So Ella, we previously had a chat there just in regards to the in the online enquiry that you may have been in regards to our life insurance. I was basically calling back to assist you further along with the cover as well as just answering any questions that you may have. OK.
+[34 seconds][Customer] : Yep, Yep.
+[41 seconds][Agent] : Now just with that being said, Ella, because this is a new call, sorry, could I just get you to confirm your date of birth for me there?
+[46 seconds][Customer] : Yep, that's in the limit 31.
+[52 seconds][Agent] : Awesome. And then can I confirm once again, you are a female New Zealand resident currently residing in New Zealand. Cool. Awesome. And then just on that note, I'll mention that all of our calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision on whether they are suitable for your needs. We do not consider your personal circumstances, OK. Now with that being said, Ella, so last time we had a chat there, we we went through the policies here together. Once again, you were looking at $400,000 worth of cover, which came to a monthly premium of $50.28 per month. OK, Now we, we did have to go through a referral with the underwriter.
+[1 minutes 29 seconds][Customer] : Yep, Yep, Yep.
+[1 minutes 39 seconds][Agent] : Now just to let you know, the underwriter there has came back to us and everything was all cleared. OK? So I'll just let you know just based off of that. So congratulations, your application has been fully approved.
+[1 minutes 47 seconds][Customer] : OK, OK, cool.
+[1 minutes 54 seconds][Agent] : OK, I'll just let you know here what you will be covered for. OK, so, so Ella 4 for this, this policy here, this C this policy will cover you for death due to any cause except suicide in the 1st 13 months of the policy. OK. Now in addition, there is a terminally ill advanced payment included in the cover. So I'll just let you know if you were diagnosed with 12 months or less to live by a medical practitioner, what we'll do for you here is we'll pay that benefit amount to you there in full.
+[2 minutes 13 seconds][Customer] : Yep, Yep, Yep, Yep. Like that.
+[2 minutes 28 seconds][Agent] : That claim, that money there that can be used to go towards some of those medical bills just to ensure that you know, you, you do receive the best care possible if that time were to come.
+[2 minutes 39 seconds][Customer] : Yep. OK.
+[2 minutes 39 seconds][Agent] : OK, Now I mention here as well, your beneficiaries, they'll, they'll still be able to, they'll still be able to request a funeral advance payouts of $10,000.
+[2 minutes 54 seconds][Customer] : Yeah.
+[2 minutes 53 seconds][Agent] : OK, now I just need to let you know that the interim accidental death cover has now ceased.
+[3 minutes 8 seconds][Customer] : OK.
+[3 minutes][Agent] : So with that being said, on top of what you've disclosed, so no extra premiums have been added there on top of your monthly premium as you you are very healthy there yourself. Now just please be aware that your premium is stepped, which means it will generally increase each year.
+[3 minutes 12 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[3 minutes 18 seconds][Agent] : Now in addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. You can opt out for this indexation each year there. OK, umm, but yeah, with that being said, Ella, I just wanted to make sure how, how is that all sounding to you? Is that, is that OK?
+[3 minutes 39 seconds][Customer] : No, it it's sounding really, really good.
+[3 minutes 41 seconds][Agent] : Yep.
+[3 minutes 41 seconds][Customer] : I'm just a little friend right now. So I'm going to look at it through the new Year and I'll probably get back in touch with you then.
+[3 minutes 44 seconds][Agent] : Oh, OK.
+[3 minutes 50 seconds][Customer] : Yeah. I'm not just trying to get through Christmas right this second.
+[3 minutes 48 seconds][Agent] : Was it sort of just like a umm, you're kind of worried about the, the expenses or Oh, OK, Yeah, yeah. Yeah. No, fair enough.
+[3 minutes 57 seconds][Customer] : The chaos of my life. Yeah.
+[4 minutes 1 seconds][Agent] : It is.
+[4 minutes 1 seconds][Customer] : So I did get you the e-mail. So yeah, I ha just haven't had a chance to stop, unfortunately. Yeah.
+[4 minutes 2 seconds][Agent] : Yes, it's yeah, yeah, OK, yeah, yeah, yeah.
+[4 minutes 10 seconds][Customer] : So I so I'll have a look through that and I will give you a call back or or do you want to give me a call back on like the second or third?
+[4 minutes 16 seconds][Agent] : I just wanted to mention here, Yeah, I can definitely do that. I, I just want, if you wanted, we can actually get you immediately covered over the phone today. Umm, and in that case, we can actually send you out all your policy documents for you to review as well. Umm, I just wanted to mention here as well. So just in terms of, in terms of payment, so we don't actually collect any payment from you today. Hello.
+[4 minutes 40 seconds][Customer] : OK, right.
+[4 minutes 40 seconds][Agent] : Uh, what we do is we select a day that's most suitable for you. So it can be any time this week, the week after or even the week after that, it can align to even a payday. Well, OK, so in the meantime, you, you do have some cover in place. Umm, how does that sound?
+[4 minutes 49 seconds][Customer] : OK, OK.
+[4 minutes 55 seconds][Agent] : Is that more suitable for you?
+[4 minutes 57 seconds][Customer] : Actually that sounds good.
+[4 minutes 59 seconds][Agent] : Yeah. OK, cool.
+[4 minutes 59 seconds][Customer] : Yeah, yeah.
+[5 minutes 1 seconds][Agent] : Alright, so in that case, yeah, like I said, I'll do what I'll do is I'll. I'll get you, we can get you immediately covered over the phone today. I'll send you out all the policy documents for you to review there in your own time.
+[5 minutes 12 seconds][Customer] : Awesome.
+[5 minutes 11 seconds][Agent] : OK, I'll just mention that this policy here gives you a 30 day cooling off. So if you decided that this policy is not suitable for you and you cancel within the 30 days, then you will receive a full refund of your premium unless a claim has been made. OK, so so you hope not? Yep. Alright, so just for us to proceed, Ella, I've got your home address here. Sorry. And yeah, I'll just have to grab your home address so we can send everything out to your mail there as well. OK, what was your what was your post code for your home address?
+[5 minutes 41 seconds][Customer] : Yeah, yeah, 3877.
+[5 minutes 55 seconds][Agent] : 3077? Is that in Rotorua Rd. one?
+[6 minutes][Customer] : Yes.
+[6 minutes 1 seconds][Agent] : Yep. Lovely. And what was your address line on that one there?
+[6 minutes 4 seconds][Customer] : 441 Mangapiti Rd. MANGATETE.
+[6 minutes 6 seconds][Agent] : 441 Road. OK, cool. SO441 Mangatete Rd. Rd. one in Rotorua. That's the same as your postal address. So will you get all your mail sent out to is that correct?
+[6 minutes 15 seconds][Customer] : Yep, Yep, Yep.
+[6 minutes 24 seconds][Agent] : Yep. OK, cool. Lovely. So we'll send that one out to you there to your mail and also to your e-mail address as well. Your e-mail address thatwasellen.matthews@hotmail.com. Yep. OK, bear with me one second. OK, lovely. Now just in terms of payment, so like I said, we don't collect any payments from you today. We align that to a day that's more suitable for yourself. So is there any day in particular that you know you would prefer the first collection day to come out? So it can be any time this week, next week, the week after or even the week after that, so long as it's within the 30.
+[6 minutes 38 seconds][Customer] : Great thinking, thinking the beach map would be good.
+[7 minutes 11 seconds][Agent] : Yep, the 2nd of each month. OK, so I've got that Thursday, the 2nd of January.
+[7 minutes 16 seconds][Customer] : Yeah, yeah, yeah. Let's go out. Yeah.
+[7 minutes 22 seconds][Agent] : But because there is a public holiday, could I?
+[7 minutes 26 seconds][Customer] : I'll be out on the next day. Yep.
+[7 minutes 28 seconds][Agent] : Yes. Are you, are you OK for me to have the first collection day come out on the 3rd of every month? Yes. So that'll be Friday, January, January, the third, that'll be a Friday. And then from then on it will be every month on the third. Are you OK with that?
+[7 minutes 34 seconds][Customer] : Yep, Yep, Yep. It'll be fine.
+[7 minutes 45 seconds][Agent] : Cool, awesome. And in terms of payment method, you have two options where you can either do direct debit or Visa, MasterCard, whatever's easier for you. Which one did you prefer?
+[7 minutes 56 seconds][Customer] : Great. Do that.
+[7 minutes 57 seconds][Agent] : Direct debit? Yep. Cool.
+[7 minutes 59 seconds][Customer] : Yep.
+[7 minutes 59 seconds][Agent] : So for that one, all we will just need Ella is just your account name and account number.
+[8 minutes 5 seconds][Customer] : Yep.
+[8 minutes 4 seconds][Agent] : Was that account name under your your full name? So just Ella Matthews or would it be E Matthews, EJ Matthews? OK.
+[8 minutes 10 seconds][Customer] : PJ Matthews Yep.
+[8 minutes 13 seconds][Agent] : And J is just your middle name there.
+[8 minutes 17 seconds][Customer] : Yep. Middle name's Joy.
+[8 minutes 19 seconds][Agent] : Joy, did you want me to? Yeah. Did you want me to add update your profile, add in your middle name or you're OK just with Ella Matthews? Yeah. OK.
+[8 minutes 18 seconds][Customer] : That's just the initial pretend I don't have it, but that's OK.
+[8 minutes 31 seconds][Agent] : OK. So do I can leave that there. I can leave it up. Yeah.
+[8 minutes 33 seconds][Customer] : Yep, Yep.
+[8 minutes 35 seconds][Agent] : OK. Cool.
+[8 minutes 34 seconds][Customer] : No, my nephews is fine.
+[8 minutes 37 seconds][Agent] : Alright, fine, but they but the account name, that's just EJ Matthews. We can collect the account number there whenever you're ready as well. 02 0392 000 0360 05/3 Yep.
+[8 minutes 41 seconds][Customer] : Yep 02, 0392, 000, 5360, 5360, Yep 002.
+[9 minutes 6 seconds][Agent] : 5360 002 OK, I'll just repeat that one back to you there. So Ella, that was O2 O 3920005360002.
+[9 minutes 25 seconds][Customer] : Great.
+[9 minutes 26 seconds][Agent] : Cool. And I've just got a few questions here just in regards to your direct debit authority.
+[9 minutes 32 seconds][Customer] : Yep.
+[9 minutes 31 seconds][Agent] : So it's just a clear yes or no. So the first question here just asks, are you sorry, have you cancelled a direct debit authority for one choice with technical life as the initiator in the last nine months on the account you're providing? Yes or no?
+[9 minutes 45 seconds][Customer] : Done.
+[9 minutes 46 seconds][Agent] : Thank you. Do you have authority to operate this bank account alone and do not need to jointly authorize debits? Is that correct? Yes or no? Yeah, Lovely. And then are you happy to set up a direct debit authority without signing a form?
+[9 minutes 45 seconds][Customer] : Yes, Yes.
+[10 minutes 5 seconds][Agent] : Yeah, awesome. And finally, you agree this authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority that you authorize your bank to allow Pinnacle Life, who is the initiator for one choice to direct debit this account in accordance with these terms and conditions, Yes or no?
+[10 minutes 22 seconds][Customer] : Yep, Yes.
+[10 minutes 28 seconds][Agent] : Yeah. OK, awesome. Thank you so much for that there. So just with that being said, I wanted to say thank you very much for your time and patience with me. Now we are at the home stretch.
+[10 minutes 41 seconds][Customer] : Yep.
+[10 minutes 40 seconds][Agent] : I just wanted to make sure.
+[10 minutes 49 seconds][Customer] : Yep.
+[10 minutes 42 seconds][Agent] : So we do understand that, you know, you were busy, you are a little bit busy with Christmas and how everything's, you know, getting organized for that. We can give you some time to, you know, just think about it and you know, get back to us. But you know you did also mention you had with that price in that cover.
+[11 minutes][Customer] : Yeah.
+[10 minutes 59 seconds][Agent] : So we we have two, we have a couple of options available to you where I can just send you an e-mail with the quote that the cover would not be in place. Now the other option you have there is understanding once once again you are happy with the price in that cover is to go ahead and have that policy organized for you today. OK, No upfront payments. Yep.
+[11 minutes 19 seconds][Customer] : Yeah, OO, organise the cover for today Cos I've got the cooling off.
+[11 minutes 23 seconds][Agent] : Yeah, yeah. No, no, upfront payments will be taken from you today. We, we we'll select a date that's suitable for yourself, OK?
+[11 minutes 22 seconds][Customer] : Anyway, so yeah, yeah, yeah, yeah.
+[11 minutes 31 seconds][Agent] : In the meantime, we'll send you all your tailored documents to your e-mail. So while you read over all that policy information there, you, you do have that Peace of Mind that you are covered immediately from today, OK.
+[11 minutes 31 seconds][Customer] : Thank you. OK.
+[11 minutes 42 seconds][Agent] : And if you were to have a change of heart with the policy in the future, there's no problem with that. There's no lock in contracts or cancellation fees, OK. But in the meantime, like I said, you will have that Peace of Mind there that you are covered immediately from today. So I just wanted to ask, is this option still suitable for you there?
+[11 minutes 58 seconds][Customer] : Yes, yeah.
+[11 minutes 59 seconds][Agent] : Yeah. OK, cool. Awesome. What I'll quickly do for you now, Ella is just read you out the declaration. OK. Now this will take me approximately 3 to 4 minutes to read, so please bear with me. But this declaration, what it does is just highlights the the key facts of your policy. Towards the end, there's two last questions for you to answer, just a clear yes or no once again. But from there we'll have this already and sorted feedback.
+[12 minutes 7 seconds][Customer] : Yep, Yep, Yep, Yep.
+[12 minutes 23 seconds][Agent] : OK, cool. So it just reads here. Thank you Ella. Ella Matthews, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. No one choice life insurance is issued by issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle had an agreement with Greenstone Financial Services NZ Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets up more information which can assist you to decide whether to act on any advice we provide. Now, can you please confirm that you understand and agree to this Yes or no? Yep. Thank you. Now your answer to the application questions and any related documents on the basis of your contract of insurance and Pinnacle rule of upon the information you have provided when assessing your application, I need to remind you of the duty of disclosure that you agreed to. So can you please confirm you have answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[13 minutes 39 seconds][Customer] : Yes, yes.
+[14 minutes 3 seconds][Agent] : Awesome. By agreeing to this declaration, you consent to be contacted by us in relation to other products and services that you can opt out of this at any time by contacting us. The accepted cover pays a lump sum. Benefit amount of Ella Matthews receives $400,000 in the event of life insurance now Benefit is not paid in the event of suicide. In the 1st 13 months of the policy, your total premium for the first year's cover is $50.28 per month. Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this. Included in your premium is an amount payable to GFS of between 24% and 71% of each premium. Your premium will be deducted in accordance with the authority provided to us and Best has rated PIN code with AB plus financial strength good and triple B minus ensure credit rating with an outlook of stable. You can read more about these ratings on a website and in your policy documentation. Now. Sorry, I just wanted to mention once again, so this is outside of the declaration so all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about when they are suitable for your needs. We do not consider your personal circumstances. OK, so I just wanted to mention that again. But just final thing here in the declaration. So the policy documentation will be mailed to you and if you have provided us with an e-mail address will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs.
+[15 minutes 17 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[15 minutes 46 seconds][Agent] : You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. So I've just got these last two questions here for you. Once again, just to clear, yes or no? So Ella, do you understand and agree with the declaration? Yes or no?
+[15 minutes 56 seconds][Customer] : Oh yes.
+[16 minutes 6 seconds][Agent] : Awesome. And this final question here just refers to this call. But like I said, we'll send all the policy documents out to your mail and to your e-mail address as well. OK. But would you like any other information now or would you like me to read any part of the policy document to you? Cool.
+[16 minutes 22 seconds][Customer] : No, I'll have a read through so no.
+[16 minutes 25 seconds][Agent] : Awesome. I'll go ahead and accept this declaration here for yourself, OK? Now Ella, just at the back of the policy documents, I'll just mention that there is a beneficiary form, OK? So for that one there, you can nominate your beneficiaries, fill that one out, have that one sent back through to us. Or if it's easier, you can just give us a call back. We'd be more than happy to help you do that over the phone as well. OK? But otherwise, that's all completed for you now. In case, once again, that's $400,000 worth of life insurance for yourself with a monthly premium of $50.28. Your first payment will come out on the 3rd of January 2025. And then from then out then on, it'll be every every month on the third. OK.
+[17 minutes 11 seconds][Customer] : Yep, Yep.
+[17 minutes 12 seconds][Agent] : But yeah, otherwise all your documents will be sent to you. Is there anything else I can assist you with today?
+[17 minutes 17 seconds][Customer] : That's it. Brilliant. Thanks very much.
+[17 minutes 20 seconds][Agent] : Cool. Awesome. Well, on that note, thank you very much for your time and patience with me. Once again, thank you for choosing one choice. Welcome to the team and you have a very merry, happy Merry Christmas and a happy New year to yourself and the family there.
+[17 minutes 33 seconds][Customer] : Thank you and thank you. Bye.
+[17 minutes 32 seconds][Agent] : OK, Alright, thank you. All the best. You take care.
+[17 minutes 39 seconds][Customer] : Bye, 555-5555.

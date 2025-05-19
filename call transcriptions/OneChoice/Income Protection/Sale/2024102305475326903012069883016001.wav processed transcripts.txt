@@ -1,0 +1,19 @@
+[3 seconds][Agent] : Welcome to Montrose. You're speaking with Chris. How can I help you?
+[8 seconds][Customer] : Hey, Chris, I just want to add something.
+[11 seconds][Agent] : OK.
+[13 seconds][Customer] : So I have bankers insurance with you guys.
+[11 seconds][Agent] : Yeah, yeah.
+[19 seconds][Customer] : Is that cover if you're, if you're unwell and can go to I can go. If you unwell and can go to work, is that cover?
+[30 seconds][Agent] : OK, Before I answer that, I'll just let you know that all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. They do not consider your personal circumstances, OK? So I don't know specifically what you've been covered for on our policy, OK, But for our life insurance generally speaking is if you were to pass away or if you were to be diagnosed with a terminal illness, OK now?
+[59 seconds][Customer] : I mean, like if you if you're sick and then can go to work and like can go to work for like let's say a couple of months, is that over?
+[1 minutes 10 seconds][Agent] : OK, well, what I can do is I'm going to transfer you to our support team because they'll know the answer for you. OK.
+[1 minutes 17 seconds][Customer] : Yep.
+[1 minutes 18 seconds][Agent] : Can I just ask what your full name and date of birth is?
+[1 minutes 21 seconds][Customer] : Mike Russell. Mike Russell in Montevas and December 3, 1998.
+[1 minutes 27 seconds][Agent] : Thank you. And what insurance did you have with us? What policy?
+[1 minutes 33 seconds][Customer] : I think the life insurance 1.
+[1 minutes 40 seconds][Agent] : Yeah. Yeah. You said life insurance. Yeah, that's right. Perfect. And now, could you also confirm your home address?
+[1 minutes 39 seconds][Customer] : I don't know which one is it and 312 Duncan St. Ashbourton.
+[1 minutes 50 seconds][Agent] : Perfect, perfect. So what I'll do for you is I'll put you on a brief hold. I've seen some from our support team is free and they they will tell you if you're covered for something like if you're sick and you're not able to work.
+[2 minutes 4 seconds][Customer] : Yep.
+[2 minutes 3 seconds][Agent] : OK, Alright, thank you. Just one moment. Thanks. Thank you very much for holding there. I've got Deanna here from our support team. I'll just confirm on this call that we've confirmed your full name, date of birth, home address and type of policy. But Deanna, thank you very much. You can you can help them now. Thank you so much. Hi there Mark, my name is Deanna.

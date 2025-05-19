@@ -1,0 +1,115 @@
+[1 seconds][Agent] : Hey, Carol.
+[1 seconds][Customer] : Wants to check out funeral for parents.
+[4 seconds][Agent] : OK, that's perfect.
+[5 seconds][Customer] : OK for. I know. Go for.
+[6 seconds][Agent] : OK, Thank you. Thanks.
+[9 seconds][Customer] : OK. Hang on.
+[14 seconds][Agent] : This is Lead. Good morning. It's Alfredy from Wheel Insurance. How are you?
+[24 seconds][Customer] : Good. Thank you. How are you?
+[25 seconds][Agent] : Very good. Thanks for asking. So please, no calls are recorded. Any advice I provide is general in nature.
+[32 seconds][Customer] : OK.
+[31 seconds][Agent] : May not be suited with your situation. Now, my colleague had just mentioned to me that you're looking at taking out a funeral insurance cover for your parents. Is that right?
+[40 seconds][Customer] : Just for my mum.
+[41 seconds][Agent] : Hopefully.
+[41 seconds][Customer] : My dad's already passed.
+[43 seconds][Agent] : Oh, OK. I'm sorry. You bet your dad.
+[44 seconds][Customer] : No, Just again.
+[45 seconds][Agent] : No problem.
+[47 seconds][Customer] : Yes.
+[45 seconds][Agent] : So for your mother, if I can have you confirm to me your mother's details and in that case if I can start with her first name? OK, just so that's let me just go back. All right.
+[54 seconds][Customer] : TOAKASE AKASE Yeah, Yeah. TAPUAKA Yeah.
+[1 minutes 4 seconds][Agent] : So TOAKASE, All right, that's her first name and her surname, TAPUAK. Is that right? AKAKA? OK, got it.
+[1 minutes 24 seconds][Customer] : A AKA Yes.
+[1 minutes 29 seconds][Agent] : OK, so that's also been put down there as well. Can I confirm that your mother is a female into this trained residence, is that right? OK, thank you. And so, OK, I'm getting there for you. Give me a moment. Umm. And what's your mother's date of birth? Right. OK. All right, I'm going to start again. Sorry. Because I realized that I might have gotten to a different profile. So let's start again with your mother's details. First name again. PA OA KASS for Sam E for echo. So TA sorry.
+[1 minutes 38 seconds][Customer] : Yes, 16 of the 2nd 57 RTOAKASE, yes, yeah, yeah.
+[2 minutes 28 seconds][Agent] : TOAKASE.
+[2 minutes 32 seconds][Customer] : Mm hmm.
+[2 minutes 33 seconds][Agent] : OK. And how sorry? How to pronounce your mother's first name?
+[2 minutes 32 seconds][Customer] : Yeah, Abogaci.
+[2 minutes 38 seconds][Agent] : Dokasi. OK, that's fine. And Dokasi's date of birth? Sorry. Date of birth again. Sorry. Yep, if I can have also her, can you spell her surname again, please? Slowly. Yeah, PU.
+[2 minutes 39 seconds][Customer] : Yes, 16/02/1957 Yes, it's TAPUAKA.
+[3 minutes 6 seconds][Agent] : Yeah, AKA. OK. So her surname is spelled T for Tango, A for alpha, P for Peter, U for umbrella, A for alpha, K for Kite, A for alpha. Perfect. Thank you so much. And OK, alright, that's fine. Thank you. And what's her post code? OK.
+[3 minutes 19 seconds][Customer] : Yes, that's correct, 4113, sorry.
+[3 minutes 47 seconds][Agent] : And her address there and her address there would be?
+[3 minutes 53 seconds][Customer] : 15 Nursery Ave. NURSERY Ave., Runcorn.
+[4 minutes 2 seconds][Agent] : What's the suburb in One Corners?
+[4 minutes 11 seconds][Customer] : Yes.
+[4 minutes 9 seconds][Agent] : And that was 15 Nursery Ave. OK, I found that there. Thanks for that. Perfect. OK, now since you're organising this for your mother as well, put down your details in a moment, but what's the best contact number there for either yourself or your mother? 0415, Yeah. 360. Yep, 607. Now that that number is yours. OK, that's fine. I can leave it. There's your number there. Is there another contact number we can put down? I've got another field for it, or even a landline number.
+[4 minutes 31 seconds][Customer] : 0415 360 6:07 Yes No, no.
+[4 minutes 53 seconds][Agent] : Home #9 OK, that's fine. All right, so since you organized this for your mother, put down here yourself, here is a payee purchaser. There we go. Now if I can have you confirm for me your, well, your, your name TOA and your surname Tower A Yeah.
+[5 minutes 6 seconds][Customer] : Yeah, Towa T OAAULIKA.
+[5 minutes 23 seconds][Agent] : OK, so. And that's. So that's your full name. Tower.
+[5 minutes 28 seconds][Customer] : Yeah, just first name and and surname.
+[5 minutes 31 seconds][Agent] : Yeah. Is it your full name?
+[5 minutes 34 seconds][Customer] : Yeah, Alika.
+[5 minutes 34 seconds][Agent] : OK, So Toa a Aulika. Sorry.
+[5 minutes 40 seconds][Customer] : Yeah.
+[5 minutes 40 seconds][Agent] : That's fine.
+[5 minutes 40 seconds][Customer] : I don't have to have my middle name there with you guys, do I? It's too longwinded.
+[5 minutes 43 seconds][Agent] : Look, if you've got a middle name, we might as well put it in there for you. Is it? Is it OK with you? Put it. Put that in your full name.
+[5 minutes 51 seconds][Customer] : Yeah, I don't mind. Yeah.
+[5 minutes 53 seconds][Agent] : Yeah. All right. We'll do that just just in case. So what's the middle name? If you can spell it for me.
+[5 minutes 58 seconds][Customer] : LIUANGAA NGA.
+[6 minutes 1 seconds][Agent] : LIIU IANGA.
+[6 minutes 8 seconds][Customer] : Yep.
+[6 minutes 8 seconds][Agent] : All right, Got it.
+[6 minutes 9 seconds][Customer] : And then HE, this is space.
+[6 minutes 12 seconds][Agent] : This is this HEA- Yeah. F for Fred. Oh, yeah.
+[6 minutes 13 seconds][Customer] : And then HE and then the- SO yeah, SOLAU. Yeah, that's it.
+[6 minutes 25 seconds][Agent] : Lau, got it. Perfect. Thanks for that. And also your date of birth.
+[6 minutes 32 seconds][Customer] : That's right, 25778.
+[6 minutes 40 seconds][Agent] : OK. And I'll put you down as daughter, is that right?
+[6 minutes 42 seconds][Customer] : Yes, that's correct.
+[6 minutes 44 seconds][Agent] : And the address, would that be the same? It is OK. Great. Fantastic, excellent. OK, now I'll take you through the cover in a moment and explain that cover to you and that way you can see how that cover works as well.
+[6 minutes 46 seconds][Customer] : Yes, OK.
+[7 minutes 9 seconds][Agent] : Umm, and then we could have you find the right level of cover that's obviously suitable as well.
+[7 minutes 21 seconds][Customer] : Yep.
+[7 minutes 13 seconds][Agent] : So basically with our funeral insurance cover today, the way it works is it does provide a cash benefit of up to $15,000 to your loved ones when you pass away. Umm, they can use the funds not only for funeral expenses, but also for the final expenses like on paid bills. You can nominate up to five beneficiaries to receive this benefit amounts. Umm, if that is due to an accident, that chosen benefit uh, amount will triple in that case. OK. In addition to that, before the policy anniversary following your mother's 75th birthday, uh, if she was to be, if she was to suffer an accidental serious injuries such as quadriplegic or paraplegia, that benefit now is also tripled as well. It's easy to apply. There are no medical checks. Acceptance is guaranteed if your mother is in a strained resident age between 18 and 79, which are already confirmed for me. So, so just as you know, uh, just to let you know, for the 1st 12 months, umm, she will be, or she, uh, you will be covered for accidental death and accidental serious injury. Only after the first 12 months, she'll be covered for death due to any cause.
+[8 minutes 8 seconds][Customer] : Yeah, OK.
+[8 minutes 23 seconds][Agent] : In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, you were first diagnosed with a terminal illness for 12 months or less. To leave by a medical practitioner will pay out your claim in full. And that. Yeah. So just that could help with obviously things like medical expenses that point in time I suppose. So you can choose amounts to cover your mother from as low as 3000 up to $15,000. OK. And just a couple of things to note. Your premiums are level, which means they're designed to stay the same as you as you get older, as your mother gets older or when she reaches and when she reaches the age of 85, your premium, her premiums or your premiums sorry will cease. There's no for the premiums you need to pay anymore. Policy remains active and also 25% bonus cover will automate to be applied to death and matters as well. So she's she's also insured for 25% more as well at that point in time as well. OK, so your cover also provides your mother there with an early cash out option. So this means that anytime after she reaches the age of 85 years of age, she can choose to end her cover or pay her 75% of the fee insurance benefit. OK, so that that would be an option there available. So let's go through some pricing together. And as I mentioned, the level of cover ranges from 3000 up to $15,000. Umm, So what benefit? Now would you like to quote you on this?
+[8 minutes 52 seconds][Customer] : Yeah, yeah, yeah, yeah. Just the 15, yeah.
+[9 minutes 52 seconds][Agent] : First for your mother, the 15,000 OK, that's fine. Now you may pay more in total premiums of the life and policy than the benefit amount. Please be aware this insurance does not have a savings or investment elements. If you cancel outside of 30 days, the cover will stop and you'll not receive anything back. Just be mindful of that as well.
+[10 minutes 12 seconds][Customer] : Yeah.
+[10 minutes 12 seconds][Agent] : OK Now if you're considering the 15,000 there the highest level there for your mother, umm, let's have a look what that would look like you'd be paying an amount works out to be exactly OK. Well at the moment it's sitting at $55.47 a fortnight.
+[10 minutes 32 seconds][Customer] : How much? How much? OK, Yeah, I guess it's alright. Yeah.
+[10 minutes 31 seconds][Agent] : That does that sound so far, 55 dollars, $55.47 a fortnight every two weeks, that sounding OK All right, so that's $27.74 a week is what you'd be paying, umm, for the $15,000 coverage there for your mother. Another thing we'll do for you too though, Following your mother's first policy anniversary date, we're going to refund you a cash back benefit that happens to be 10% of all the premiums you've been paying during that time as well. So you get 10% back. OK, so that's also there as well. So you're happy with that so far? Perfect. So what this means then for me is that I'm happy to provide your mother the media cover. By doing so, our prices is that we do send out these policy documents out to you so you can sit down. You runtime have a good look through as well. By the way, if I can have you confirm with me, do you have an e-mail address for yourself we put down there for you? What would that be? Yeah, yeah, yeah.
+[11 minutes 6 seconds][Customer] : Yeah, yeah, yeah, taulika#7@gmail.com.
+[11 minutes 42 seconds][Agent] : OK, perfect. That should arrive usually within 15 minutes to your e-mail. Plus we do post them out to to your postal address that you've given me as well, 15 Nursery Ave. and Runcorn. That is once and we arrive between 2:00 to 5:00 business days with those particular ones. You'll also locate beneficiary forms there as well. Umm, but also we send out a complimentary strain standard legalized wheel kit as well.
+[11 minutes 53 seconds][Customer] : Yeah, OK.
+[12 minutes 4 seconds][Agent] : You get a free wheel kit, umm, that could that could be used as well if you'd like to uh, for your mother. So, umm, and if you've noticed also that if you have any questions that my name and number will be on those documents for you as well. So you can certainly reach out to myself, ask me some questions if you have any questions. Umm, and this policy also has a 30 day cooling off. Just in case you change your mind. So you don't have to pay anything today. You choose a payment that's suitable for you. Umm, we generally collect the payment. Yeah.
+[12 minutes 17 seconds][Customer] : Mm, hmm, Yeah, would I be able to yeah, to take it out on the 30th of on the Thursday.
+[12 minutes 38 seconds][Agent] : OK, well I'll just about to ask you a question here in reference to that. So yes, we generally collect the payment within the next 7 days. When within the next 7 days would be more suitable for you.
+[12 minutes 49 seconds][Customer] : I usually get paid in that on Wednesday nights, but Thursday is good for me.
+[12 minutes 53 seconds][Agent] : All right, well, let's look at that. You said that.
+[12 minutes 56 seconds][Customer] : Not not this Thursday. It's on the 30th though.
+[12 minutes 56 seconds][Agent] : All right, let me have a look for you on the calendar here. We can get that organized, hopefully. OK. Yeah, that's fine. I can do that for you.
+[13 minutes 24 seconds][Customer] : Cool. OK.
+[13 minutes 23 seconds][Agent] : So the 30th of umm, of June, that happens to be Thursday. That's right. As you said, then it's organized every fortnight thereafter following that Thursday. Does that work for you? OK per Perfect. And what would you like for me to attach today? Umm, your Visa or master debit card or credit card or your BSP in account numbers which you prefer to attach.
+[13 minutes 33 seconds][Customer] : Yeah, Yeah, BSB.
+[13 minutes 45 seconds][Agent] : Let's do that for you. Would that happen to be a savings or check account? It's a check account. OK, that's fine. And the account name, would that be in your full name? Was it just your first name and surname?
+[13 minutes 50 seconds][Customer] : I'll check first name and surname.
+[13 minutes 59 seconds][Agent] : All right, So that's Toa Toa.
+[14 minutes 3 seconds][Customer] : Yeah.
+[14 minutes 3 seconds][Agent] : All right. And then surname is spelled as you mentioned, AULIKA, is that right?
+[14 minutes 13 seconds][Customer] : That's correct.
+[14 minutes 14 seconds][Agent] : Bulika, is that right?
+[14 minutes 14 seconds][Customer] : Yeah, Yes. Yep.
+[14 minutes 16 seconds][Agent] : OK, perfect. And what's the BSB number first? 734439 OK. And that's showing me Westpac Bank. So thanks for that.
+[14 minutes 23 seconds][Customer] : 734439, 524938.
+[14 minutes 32 seconds][Agent] : And the account number would be confirm I've got those numbers right. So the DSP numbers you said is 734439, account number is 524938.
+[14 minutes 48 seconds][Customer] : Yep.
+[14 minutes 49 seconds][Agent] : OK, perfect. Thanks for that. Now finally, what I'll do is I'll read out to you a declaration in Mum's name. I'll grab your understanding and then we're going to send these documents out to you as I promised. OK, so it reads here. Thank you to Kasi Kapulaka. Am I saying that right? Couple up worker? Sorry.
+[15 minutes 1 seconds][Customer] : Yeah, that's OK.
+[15 minutes 12 seconds][Agent] : It is important to understand the following information. I'll ask for your agreement to these terms at the end of your policy not be enforced unless you agree to these terms in full. A real funeral cover is issued by Hanover Life RA of Australasia Limited. Hanover has an arrangement with the Greenstone Financial Services trading as Reinsurance to issue an arrange of this insurance on its behalf. Your answers to the application questions and any related documents form the basis of your content of insurance, and Hanover relies upon the accuracy of the information you provided. Assessing implications. Whatever has set the target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We'll share this with your insurer and make sure with other strange service providers for the perps administrating your policy or handling claims. Our privacy policy tells you more, including how to access incorrect your information and lodge complaints about breaches of privacy. We may from time to time provide office to you via the communications methods you've provided to us in relation to other products and services. By agreeing to this declaration, your consent to allow us to contact you for this purpose until you've opt out. You can opt out this any time by contacting us.
+[16 minutes 43 seconds][Customer] : Chewbacca. Yeah, all goods.
+[16 minutes 32 seconds][Agent] : You've agreed to take out a single wheel funeral cover with the following cover to a courtesy uh, to what uh to parka is covered for $15,000 in event of death. In the case of death is accidental, uh, or if you were to suffer an accidental serious injury, the benefit amount will triple coverage for accidental deaths only for the 1st 12 months of cover with death by any cause or diagnosis of terminal illness cover thereafter Accidental serious injury. Cover for each life insured underage 75 starts immediately and ends in the policy anniversary following the life insured 75th birthday. Once the life insured, which is age 85, you can choose to voluntary cancel that person's cover to receive the lump sum payment of 75% of the chosen benefit. Now, if you take up this early cash out option, you're no longer right to claim the policy for the life insured. This policy does not have the savings or investment components. If cover ends prior to age 85, no benefits paid when there is no refund of premiums after cooling off. If you choose to retain cover beyond age 85, you'd be entitled to an additional 25% of bonus cover from that date and you'll not be required to pay any further premiums of life insurance. 80 for his birthday. The bonus cover is not payable if you take the early cash out option. Cover for each life insured ends in the day prior to the 100th birthday will pay the funeral benefit and bonus come for the life insured. At this point, the total premium for your first year off cover is $55.47 per fortnight. Your premium is designed to stay the same. A year on year will only change if you alter your cover or the insurer adjust premium rates point to your policy. You may pay more in premiums than the benefit of the life policy included in your premiums payable. GF included is sorry. Including your premiums amount payable to real insurance between 31% and 56% calculated on a level basis of life and policy. Your premium will be debit.
+[18 minutes 34 seconds][Customer] : Mm hmm.
+[18 minutes 29 seconds][Agent] : If you know my bank account name of Toa Olika, which you are authorized to perform and have provided to us, we may provide reading communications to you via the e-mail address you provided to us and this will include any legal notices we require to provide you in writing. If you would prefer to receive these only by mail, you can update your communication preference at any time. We'll send you a welcome pack including your policy schedule, PDS and FSD via mail. If you have provided us an e-mail address, your policy schedule will also be emailed to you today. You should get to consider these documents to ensure the product meets your needs. You have a 30 day cooling off. In which you make hands to your policy and any premium you may have paid will be refunded in full unless you've lodged a claim. We have a complaints process which can access at any time by contacting us. Full details available online and in the documentation we are sending you. Do you understand and agree with declaration of just ready yes or no? Thank you. So do you understand and agree with declaration of just ready yes or no? Thank you. Would you like any other information about the insurance now or would you like me to read any part of the PDS to you, yes or no?
+[19 minutes 20 seconds][Customer] : Yep, yes, no, I'm fine.
+[19 minutes 34 seconds][Agent] : OK, Congratulations. There there for your mother. That's all been organized there for her. Those documents will be heading your way shortly. Look out for them. My name is Alfred from Real Insurance. And just so you know, in future, our office hours, we're open from Monday to Fridays from 8:00 in the morning, 8:00 PM at night if you stand in time. So if you have any questions, feel free to give us a call. OK.
+[19 minutes 54 seconds][Customer] : Cool. No worries.
+[19 minutes 55 seconds][Agent] : So be an organizer. Have a lovely day and welcome aboard.
+[19 minutes 58 seconds][Customer] : Great. Thank you.
+[19 minutes 58 seconds][Agent] : OK, Thank you. Bye.
+[19 minutes 59 seconds][Customer] : Alright, bye.
+[20 minutes][Agent] : Bye. Bye.

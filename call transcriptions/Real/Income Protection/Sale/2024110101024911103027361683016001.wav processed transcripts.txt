@@ -1,0 +1,665 @@
+[3 seconds][Agent] : Hello, good morning. Dear Jonna, this is Charmin. I'm calling you from Real Insurance and that is in regards to the income protection insurance inquiry that you made online. How are, how are you doing this morning? Not too good. What happened? Are you feeling sick?
+[1 seconds][Customer] : Hello, Oh yes I'm not too good I've got a kidney stone I'm just having a few days off from work.
+[23 seconds][Agent] : Umm, good thing. I hope you feel better. Have you been taking medication?
+[25 seconds][Customer] : Oh I've got to go up and see a doctor and have have it removed. I'm just waiting till I see him next week.
+[34 seconds][Agent] : Oh, OK. All right. Hopeful everything goes smoothly as possible.
+[37 seconds][Customer] : Oh, we'll do. Yeah.
+[38 seconds][Agent] : Yeah.
+[38 seconds][Customer] : We've had one before.
+[39 seconds][Agent] : So you have had one before.
+[42 seconds][Customer] : Yeah.
+[42 seconds][Agent] : OK, Yeah, we'll see.
+[46 seconds][Customer] : Yeah.
+[44 seconds][Agent] : So you know, what is the process to go through next?
+[46 seconds][Customer] : It's been about 8 years. So yeah. So I did a good run.
+[51 seconds][Agent] : Yeah. But hopefully this time it could resolve the issue after going through the surgery again. So Jenna, the reason for my call today is to take you through in terms of how the income protection cover works.
+[56 seconds][Customer] : Yeah, yeah, yeah. I'm interested in that.
+[1 minutes 2 seconds][Agent] : I'll explain the cover and the features to you and also we'll take you through the pricing. Do you like to know how is everything sounding for you today?
+[1 minutes 5 seconds][Customer] : Yeah, yes. close.
+[1 minutes 9 seconds][Agent] : OK, beautiful, before I start just confirming, am I speaking to Mr. Anna Randall? Beautiful And the date of birth is 15th of the 91967 perfect. And confirming that you are a female and Australian resident.
+[1 minutes 16 seconds][Customer] : Yes, Yes, yes.
+[1 minutes 27 seconds][Agent] : Lovely. Thank you for confirming. Just a friendly reminder to you that all of our calls are recorded. Any advice that I do provide, it is general in nature and may not be suitable to your situation. OK, Donna, please help me to understand your situation. Like have you ever looked into income protection, this type of insurance before? No. Yeah. Hmm.
+[1 minutes 39 seconds][Customer] : Yeah, no, but I know quite a few friends have done it in the past and when you know, they've gotten to having either injury or just can't work due to whatever happens, they're protected and now Cos I'm on my own, that's what I'm looking at. But that's the only way I can think to survive because, you know, if if you suddenly put into that spot where you can't even get Centrelink or anything, I don't want to be put out on the street.
+[2 minutes 5 seconds][Agent] : Yeah, Yeah, yeah, yeah, exactly right. Since the living cost is it is getting, yeah.
+[2 minutes 27 seconds][Customer] : And I thought, well, if it worked for a couple of friends and I thought, yeah, I should look into that. And it didn't think I needed it because I was married and, you know, I had backup. But now I've got no family. I'm divorced. And it's just me. And I'm thinking with this kidney stone and then my autoimmune disease as well, you know, am I gonna be able to work another few more years?
+[2 minutes 39 seconds][Agent] : Yeah, Yep, Yep.
+[2 minutes 50 seconds][Customer] : Or is it going to get to the point where everything gangs up on me and and I get really sick again and have to have time off, you know?
+[2 minutes 58 seconds][Agent] : Yeah. So mainly to protect yourself, anything happens to you in the future. Is that the main reason why? I don't know. OK.
+[3 minutes 5 seconds][Customer] : Yeah, Exactly.
+[3 minutes 6 seconds][Agent] : The policy is designed to do that for you, but we do take you through some health and last section to confirm whether you're eligible for the cover or not.
+[3 minutes 6 seconds][Customer] : Yeah, yeah, yeah.
+[3 minutes 15 seconds][Agent] : We're going to capture that to immune disease plus the kidney stone that you have had in the past, plus you're also going to get it removed. We'll capture the those three medical condition, but I'll explain to you in terms of how the cover works. So the policy it is designed for you to provide a monthly income benefit that is paid directly to you if you are unable to work due to a sibling sickness or injury and you suffer a loss of income. OK, you can apply for this insurance donor if you work at least 15 hours per week in a paid employment.
+[3 minutes 34 seconds][Customer] : Yeah, yeah, yeah, I do.
+[3 minutes 49 seconds][Agent] : OK, you do beautiful, what type of job that you do for leaving?
+[3 minutes 54 seconds][Customer] : I'm a receptionist part time in a big chain caravan park.
+[3 minutes 59 seconds][Agent] : Alright, beautiful. So how many hours do you do weekly basis? Yep.
+[4 minutes 6 seconds][Customer] : I'm rostered on to do 25, but it can go up some days to be up to 40 a week. Yeah. My contract is is 25 minimum, but we're so short staffed that we've been all doing extra shifts.
+[4 minutes 13 seconds][Agent] : Oh, OK, so minimum is 2525 hours and it can go OK, that's good as long as it's it's giving you any earning good money as well, which is great. So the minimum requirement is 15 hours since you work more than that. That is beautiful. So you are, you can apply for this insurance, OK. And we do offer an income benefit of up to 70% of your monthly pre tax income starts from $1000 goes up to a maximum of $15,000.
+[4 minutes 25 seconds][Customer] : Yeah, yeah, yeah. Yep. Lovely.
+[4 minutes 46 seconds][Agent] : It is quite easy to apply to now, we just ask you some health and lifestyle questions over the phone to check if you are eligible for the insurance, OK, And if you're eligible, if so, on what time we can offer you cover as well. We're gonna take you through and once the policy in place, the policy, it will cover you until your policy anniversary following your 65th birthday, OK?
+[5 minutes 11 seconds][Customer] : Yep. Hmm. Mm.
+[5 minutes 12 seconds][Agent] : Keep that in mind or not that there are some exclusions that apply as outlined in the PDS. Alright, what I'm going to do now, I'm gonna ask you some questions that is regarding your job that you do at work.
+[5 minutes 24 seconds][Customer] : Yep.
+[5 minutes 24 seconds][Agent] : OK, before answering any of our questions, it is important that you are aware of your duty to answer all our questions accurately and honestly. Failure to do so could impact your cover at claims time. So Donna, do you work 15 hours or more per week? Yes or no? Is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment, yes or no? Are you required to perform any physical duties, yes or no?
+[5 minutes 42 seconds][Customer] : Yes, yes, yes.
+[6 minutes 3 seconds][Agent] : Do you perform heavy physical duties, use heavy machinery or drive a vehicle? Yes or no?
+[6 minutes 9 seconds][Customer] : Heavy machinery. Sometimes. Yes.
+[6 minutes 12 seconds][Agent] : Alright, when I say heavy machinery, I have a definition for that. Don't know.
+[6 minutes 16 seconds][Customer] : Yep.
+[6 minutes 16 seconds][Agent] : I'll read that out to you so you have some more clear idea. OK. So heavy machinery also known as heavy equipment refers to powerful vehicles or and machines designed for construction, mining or US moving that are typically used for tasks that are too difficult or impossible to perform manually such as digging, lifting and transporting large items. For example, Donna, there are some examples, So bobcat, black hole, bulldozer, forklift, excavator, dump truck, crane operator, etcetera. So do you do use those kind of machinery?
+[6 minutes 57 seconds][Customer] : Not those, but we've got little minivans that we run around the parking and we do a lot all most of the laundry out of the big commercial washers and dryers as well. So we've got to unload all those.
+[7 minutes 5 seconds][Agent] : OK, OK, perfect. That's OK.
+[7 minutes 9 seconds][Customer] : I don't know what that would come out under.
+[7 minutes 12 seconds][Agent] : That's OK.
+[7 minutes 21 seconds][Customer] : Yeah, yeah.
+[7 minutes 13 seconds][Agent] : When I say heavy physical duties, it may include driving commercial vehicle operating machinery, which you said you do so and carrying, lifting, pushing, pulling or operating heavy machinery.
+[7 minutes 24 seconds][Customer] : And then sometimes we have to do manual cleaning of, you know, look toilet blocks and things like that as well.
+[7 minutes 32 seconds][Agent] : OK.
+[7 minutes 31 seconds][Customer] : So we are using, you know, some, but not to that point that you said before with the diggers and things.
+[7 minutes 34 seconds][Agent] : So no, that's OK, You do some sort of physical duty. So based on the definition I read that to you don't know. Just to confirm, do you perform heavy physical duties, use heavy machinery or drive your vehicle? Yes or no?
+[7 minutes 41 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yes.
+[7 minutes 51 seconds][Agent] : Thank you. Are you qualified skilled or semi skilled or hold the required licenses to perform your role? Yes or no? Umm, so the, the job that you do at the moment, do you have any qualification or do you have the skilled or the semi skilled to do the job? So you have received for your work duties position job on the require educational training.
+[8 minutes 1 seconds][Customer] : Definition of that, Yeah.
+[8 minutes 20 seconds][Agent] : The training, uh, includes on the job training as well. So when you have the job, did you go to any job training?
+[8 minutes 26 seconds][Customer] : No, I had skills before.
+[8 minutes 27 seconds][Agent] : OK, pardon me.
+[8 minutes 31 seconds][Customer] : I had the skills before.
+[8 minutes 32 seconds][Agent] : You had the skills before. That's beautiful. We're asking about whether you have the skills or not.
+[8 minutes 37 seconds][Customer] : Yeah, yeah.
+[8 minutes 37 seconds][Agent] : OK, So are you qualified to skilled or semi skilled or hold the required licenses to perform your role? Yes or no? Beautiful. Do you work in any of the following fields? Aviation as a pilot or crew, Entertainment or sporting industry, Air Force, Army, armed forces or do you handle explosives? Yes or no? Do you regularly work underground or underwater? Work at heights about 10 meters, Work offshore, carry a firearm or drive long haul? Yes or no? Beautiful. So Donna, have you had a cigarette in the last 12 months as well?
+[8 minutes 44 seconds][Customer] : Yes, No, no, I've never smoked.
+[9 minutes 24 seconds][Agent] : So that would be enough from you then.
+[9 minutes 25 seconds][Customer] : No. Yeah, never. Ever.
+[9 minutes 26 seconds][Agent] : OK, that's that's good. If you don't smoke your premium also tend to be a little bit lesser side as well. So saving you some money here.
+[9 minutes 34 seconds][Customer] : No, no, never touched it.
+[9 minutes 37 seconds][Agent] : Never touched it. Not even when you're younger, like you're going to the teenage.
+[9 minutes 39 seconds][Customer] : No, no, never.
+[9 minutes 40 seconds][Agent] : OK, you're one of those good people. I have tried once. I'm not gonna lie when I was in my going through my teenage, but I didn't like it.
+[9 minutes 41 seconds][Customer] : No, no, no, no. I don't know.
+[9 minutes 50 seconds][Agent] : It's not.
+[9 minutes 50 seconds][Customer] : Just just the friends I hung out with. We were all sort of nerds at the time, so we never did any of that.
+[9 minutes 54 seconds][Agent] : Oh, I think I think hanging out with the nurse is the best thing possible when you especially when you go through teenage life, which is which is great. So then I just need to go through your employment status as well. Are you currently employed or self-employed?
+[10 minutes 10 seconds][Customer] : Employed.
+[10 minutes 11 seconds][Agent] : Beautiful. So I'll give you the definition on the pre tax income based on the employment status. OK so the pre tax income is the total annual remuneration take to you by your employer before tax including salary and regular commissions or bonuses excluding super contributions. OK so Donna how much do you earn yearly based on your pre tax income? So what is your annual pre tax income? If you know might let let me know as well. Mm hmm mm hmm.
+[10 minutes 39 seconds][Customer] : Going by my tax return two weeks ago, I earned 22,000 a year.
+[10 minutes 48 seconds][Agent] : And that is before tax or after tax?
+[10 minutes 53 seconds][Customer] : Oh God, I had no idea.
+[10 minutes 56 seconds][Agent] : Yeah, we just need to go through the after tax if possible.
+[11 minutes 2 seconds][Customer] : Must be before text.
+[11 minutes][Agent] : My before tax is possible, So before tax. OK. So did you say $22,000 before tax? Would that be accurate? OK, perfect. So based on your duties and the income that you provided to me, you can select a monthly benefit amount starts from $1000 and it goes up to $1283. That is the maximum you're gonna receive monthly. How much would you want me to select for you?
+[11 minutes 9 seconds][Customer] : Yeah, yeah, that's good. The maximum, please.
+[11 minutes 37 seconds][Agent] : 1283 dollars.
+[11 minutes 39 seconds][Customer] : Yeah, yeah. Cos that'll cover rent and everything else in that.
+[11 minutes 40 seconds][Agent] : OK and OK, perfect. I'm glad that he's gonna help you to go through the bills as well. So.
+[11 minutes 43 seconds][Customer] : What I pay per month, Yeah. I don't know how some people cope with it, but I've got a good landlord that kept it live for me.
+[11 minutes 57 seconds][Agent] : Oh, that's good. That's good.
+[12 minutes 1 seconds][Customer] : Yeah, exactly.
+[11 minutes 58 seconds][Agent] : Having those kind of landlord is such a blessing at this stage of the life especially, which is great. So your landlord that that must be very good people.
+[12 minutes 6 seconds][Customer] : He was going to put it up.
+[12 minutes 13 seconds][Agent] : Yeah. Hmm. Mm. Yeah.
+[12 minutes 8 seconds][Customer] : But as I said to him, you know, I said no, if you put it up to what you want to put it up to, which was I think an extra $200 a week, I said no, I wouldn't be able to afford it.
+[12 minutes 21 seconds][Agent] : OK, OK.
+[12 minutes 21 seconds][Customer] : And I've been here for nearly four years, so, and I've kept it really good.
+[12 minutes 26 seconds][Agent] : Oh.
+[12 minutes 25 seconds][Customer] : So he said, well, I'll, I'll keep it where it is, but would you take a $10 increase? And I said that's fine.
+[12 minutes 34 seconds][Agent] : I'm glad.
+[12 minutes 33 seconds][Customer] : So I said that what we'll do.
+[12 minutes 36 seconds][Agent] : I'm glad that.
+[12 minutes 36 seconds][Customer] : So hopefully he keeps that up each for the next few years. Hopefully.
+[12 minutes 40 seconds][Agent] : Yeah, fingers crossed, but hopefully he'll listen to you again. He seems like a good person as well.
+[12 minutes 45 seconds][Customer] : Yeah.
+[12 minutes 46 seconds][Agent] : So now, Jonah, you also have the options to select different waiting periods and benefit periods. That would be depending on your circumstances.
+[12 minutes 53 seconds][Customer] : Yep, Yep.
+[12 minutes 56 seconds][Agent] : Well, I'll, I'll explain to you about the waiting period first. So the waiting period is the non payment period that you must wait before the income benefit is payable after the insured event. You can select 30 days or 90 days. Please keep in mind the income benefit is paid monthly in areas. This means if you select the 30 day waiting period, your first payment, it would be 60 days after you were first eligible to claim. You've got two options. So now 30 days and 90 days for the waiting period. Which one did you want me to select for you? Sure. And the next one is the benefit. The benefit.
+[13 minutes 24 seconds][Customer] : OK, 30 I think, right?
+[13 minutes 36 seconds][Agent] : Is the maximum amount of time that we will pay you the income benefit for anyone injury or illness.
+[13 minutes 45 seconds][Customer] : Yep.
+[13 minutes 44 seconds][Agent] : OK, umm, you've got four options. I'll let you know. What are the options for you? One is 6 months, one year, 2 years and five years. OK, uh, which one you want me to select for the benefit. Or not?
+[14 minutes 1 seconds][Customer] : Trying to think what's the the normal one year is it most people do.
+[14 minutes 9 seconds][Agent] : The uh, depending on the each person's circumstances. As I said before, you have two, four options, six months, one year, 2 year and five years. For example, Jonah, say if you got injured at work and if you can't work, if you select the one year waiting one year benefit.
+[14 minutes 32 seconds][Customer] : Yep, yeah.
+[14 minutes 27 seconds][Agent] : This is the maximum amount of time that we are gonna pay you the benefit of $1283 per month. OK. For example, you got four options, six months, one year, 2 years and five years. Just select for the benefit. Which one did you wanna?
+[14 minutes 43 seconds][Customer] : I think so.
+[14 minutes 44 seconds][Agent] : Two years?
+[14 minutes 44 seconds][Customer] : Two years, yeah.
+[14 minutes 45 seconds][Agent] : Sure, we can do that to you.
+[14 minutes 46 seconds][Customer] : Because even if it didn't go the two years, at least I know if things, you know, didn't work out within the year or Washington wasn't better between that, I don't have that worry then.
+[14 minutes 46 seconds][Agent] : Hmm hmm OK yeah fully get some good recovery if anything happens yes.
+[15 minutes 3 seconds][Customer] : Yeah, Yeah.
+[15 minutes 4 seconds][Agent] : So Donna, uh, the next step for me now is to take you through the health and last up questions, umm and the final price and if there's any condition or any exclusion on the cover, it does also get your mind on the outcome of discussions. OK, All right, just let me open up the application form for you now. Just give me one second, all right? Then I just need to include your residential address into my system before I proceed to the next stage. OK, What is your post code? And would you mind to confirm me with the suburb name? What is your home address, please? Yeah.
+[15 minutes 32 seconds][Customer] : Yeah, 6330 Dainit Head 32 all wood parade and it's an A double L wood.
+[16 minutes][Agent] : OK. A double L OK. And then I found you. Thank you. And the postal address, Jenna, is the same as your home address as well.
+[16 minutes 9 seconds][Customer] : Yes, please.
+[16 minutes 10 seconds][Agent] : Beautiful. I got the address.
+[16 minutes 14 seconds][Customer] : Yep.
+[16 minutes 12 seconds][Agent] : Line is 32 Ellwood Parrot Baronet Haight W Australia 6330. Correct.
+[16 minutes 18 seconds][Customer] : Yep.
+[16 minutes 19 seconds][Agent] : Lovely. Thank you.
+[16 minutes 28 seconds][Customer] : Yep.
+[16 minutes 22 seconds][Agent] : So Jenna, what I'm going to do now, when you read you a small paragraph, this small paragraph is going to give you the instruction that you need to be truthful and honest while answering those questions. I'm about to ask you now.
+[16 minutes 30 seconds][Customer] : Yep, Yep.
+[16 minutes 33 seconds][Agent] : OK to say that please be error. All calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance, course, issue cover and other related services. We will share this with you insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase an Income Protection policy and as that you have a duty to take reasonable care. Do not make any missed presentations. This means that you need to ensure that you need. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, declining claim or make adjustments to the terms and conditions of your policy. Donna, do you understand and agree to your duty? Yes or no?
+[17 minutes 47 seconds][Customer] : Yes.
+[17 minutes 48 seconds][Agent] : Lovely. The following question I'm about to ask you now that is in regards to COVID-19. OK. So have you been hospitalized for COVID-19 in the last 12 months?
+[17 minutes 59 seconds][Customer] : No.
+[17 minutes 58 seconds][Agent] : Yes or no, beautiful? Or have you experienced any ongoing symptoms or complications associated with your COVID-19 infection in the last 30 days? Yes or no?
+[18 minutes 12 seconds][Customer] : No.
+[18 minutes 13 seconds][Agent] : Lovely. Thank you so much. So Donna, I'm now taking you to the main application. This is where I'm going to go through all the your health and lifestyle questions. OK.
+[18 minutes 23 seconds][Customer] : Yep.
+[18 minutes 23 seconds][Agent] : All I need from you just a yes or no confirmation.
+[18 minutes 27 seconds][Customer] : Yep.
+[18 minutes 25 seconds][Agent] : The process is quite simple and I'm here to guide you through as well. This is the first question that is in regards to your residency status. So are you a citizen or Parmanan resident of Australia or New Zealand currently residing in Australia, yes or no?
+[18 minutes 40 seconds][Customer] : I was born here, so yes.
+[18 minutes 42 seconds][Agent] : Thank you so much. And you also do reside in Australia, correct?
+[18 minutes 45 seconds][Customer] : Yep.
+[18 minutes 46 seconds][Agent] : Lovely, thank you. The next for next few questions. Those are the question that is in regards to your occupations. OK, so does your work require you to use explosives, travel to areas experiencing war or civil unrest or work offshore, yes or no?
+[19 minutes 4 seconds][Customer] : No.
+[19 minutes 6 seconds][Agent] : Are you employed or self-employed?
+[19 minutes 9 seconds][Customer] : Employed.
+[19 minutes 11 seconds][Agent] : Thank you. Have you been in your current occupation for at least 12 months, Yes or no?
+[19 minutes 16 seconds][Customer] : Yes.
+[19 minutes 18 seconds][Agent] : Do you intend to change your current occupation in the next 12 months, yes or no?
+[19 minutes 23 seconds][Customer] : No.
+[19 minutes 25 seconds][Agent] : Do you have a second occupation that generates a taxable income? Yes or no? Have you have you ever been declared bankrupt or placed in received issues in voluntary liquidation or or under administration? Yes or no? Then the next section is in relation to your height and weight. Please bear that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures worse or height and weight ranges. So Donna, what is your exact height please? You can give me the figure based on the last 10 you have measured yourself as well, OK.
+[19 minutes 30 seconds][Customer] : No, no, all I know is that I'm 5 foot one. What either that is?
+[20 minutes 18 seconds][Agent] : Yeah, no, I get the five feet. I get the feet and inches rec in the listed as well. So 5 feet one inches is accurate for you. OK. And the next question is what is your exact weight please? Lovely. So I got the height rating was 5 feet one inches and the weight rating was 65 kilograms, was that correct?
+[20 minutes 26 seconds][Customer] : Yep, 65K Yes no.
+[20 minutes 43 seconds][Agent] : Lovely, have you experienced any unexplained weight loss of more than 5 KG in the last 12 months, yes or no to the best of your knowledge? Are you infected with or are you in a high risk category for contracting HIV which causes eight yes or no? Do you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months, yes or no? Thank you. I'm just loading up with the next question lagging a little bit behind. Thank you. Thank you for your patience. Alright with the next question, Stoner, do you have existing income protection cover, yes or no?
+[21 minutes 1 seconds][Customer] : No, no, nothing else. You mean do I have like another policy with another company or something?
+[21 minutes 36 seconds][Agent] : Correct. Do you have any other income protection policy?
+[21 minutes 37 seconds][Customer] : No, no, no.
+[21 minutes 39 seconds][Agent] : OK. So coming back to the questions asking it as do you have existing income protection cover, yes or no? Thank you. So then our next few section is in regards to your medical history, which is the longest part of the application form.
+[21 minutes 45 seconds][Customer] : No, Yep.
+[21 minutes 53 seconds][Agent] : But as I said, all I need from you just a yes or no, a confirmation. So, have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma, or leukemia? Yes or no. Have you ever had an abnormal cervical smear? Yes or no. Stroke, chest pain, stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure? Yes or no. High cholesterol, thyroid condition, or neurological symptoms such as dizziness or fainting? Yes or no Diabetes, Raised blood sugar, impaired glucose tolerance or impaired fasting glucose. Yes or no. Hepatitis or any disorder of the liver? Stomach hepatitis. My apology. I'll read the whole question again. Sorry. Hepatitis.
+[22 minutes 15 seconds][Customer] : No, no, no, no, no, no, no.
+[23 minutes 2 seconds][Agent] : Hepatitis or or any disorder of the liver, stomach, bowel, gallbladder or pancreas.
+[23 minutes 11 seconds][Customer] : Did you say styma? Oh, stomach.
+[23 minutes 10 seconds][Agent] : Yes or no, we said about hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. Yes or no.
+[23 minutes 21 seconds][Customer] : No, no, no.
+[23 minutes 26 seconds][Agent] : All right, let me have a look. You said you have to umm, go. You did have a kidney surgery had done in the Peach in the in the past and you're also going to.
+[23 minutes 45 seconds][Customer] : Yeah, that was relating to a long term previous abdominal surgery where I had Crohn's disease and I had to get the bowel removed and they actually injured the the urethra, the tube that comes down to the bladder.
+[24 minutes 3 seconds][Agent] : Mm hmm.
+[24 minutes 2 seconds][Customer] : And that's what I've had did.
+[24 minutes 5 seconds][Agent] : Umm, yeah, I'm so sorry to hear that.
+[24 minutes 5 seconds][Customer] : And the problem with the stains in that left side, that was about 20 something years ago when I had the original surgery and I've just been monitored for that. And I haven't had stones as I spent for nearly ten years.
+[24 minutes 10 seconds][Agent] : Must be very yeah, which is great. Which is great. I'm glad to hear that.
+[24 minutes 23 seconds][Customer] : Yeah, yeah, yeah.
+[24 minutes 24 seconds][Agent] : Uh, as you can see there now, we are going through your general history, regardless of how long ago it was, Hap, it did happen. Umm, you mentioned about the bowel removed. It happened, umm, 2020 years ago, roughly about that time, correct?
+[24 minutes 37 seconds][Customer] : Yeah.
+[24 minutes 38 seconds][Agent] : We were asking about the bowel section, a bowel cushion under this cushion.
+[24 minutes 42 seconds][Customer] : Yes, Yes.
+[24 minutes 42 seconds][Agent] : So repeating back the question that I did ask you before, so which is asking hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas.
+[24 minutes 54 seconds][Customer] : Yes.
+[24 minutes 54 seconds][Agent] : So you're gonna capture that as a yes and we're gonna capture the bowel removed under this section.
+[24 minutes 58 seconds][Customer] : Yes, yes, yes.
+[24 minutes 58 seconds][Agent] : OK, So what I'm going to do now, John, I'm going to ask you some follow up questions. So based on your response, please answer yes or no for each of the following. Hepatitis, yes or no.
+[25 minutes 10 seconds][Customer] : No. No.
+[25 minutes 11 seconds][Agent] : Disorder of the liver, yes or no, A disorder of the stomach or bowel, This is when you're going to talk to that.
+[25 minutes 20 seconds][Customer] : Yes. Yep.
+[25 minutes 19 seconds][Agent] : A yes, OK, And a stomach disorder, yes or no.
+[25 minutes 24 seconds][Customer] : No.
+[25 minutes 26 seconds][Agent] : Bowel disorder, yes or no?
+[25 minutes 28 seconds][Customer] : Yes.
+[25 minutes 29 seconds][Agent] : Thank you. And is it Crohn's disease or ulcerative colitis, yes or no?
+[25 minutes 33 seconds][Customer] : Crying.
+[25 minutes 34 seconds][Agent] : OK, so we're going to capture that as a yes. I'm going to ask you some more details question to capture the Crohn's disease.
+[25 minutes 42 seconds][Customer] : Yep.
+[25 minutes 41 seconds][Agent] : OK, so Crohn's disease, yes or no?
+[25 minutes 45 seconds][Customer] : Yes.
+[25 minutes 47 seconds][Agent] : Thank you. Alrighty, let me have a look. So based on the angina, based on the last question about the Crohn's disease that you provided, the following exclusions has been added. No benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or arising from Crohn's disease. OK. And the next question is asking that ulcerative colitis, yes or no, gallbladder or pancreas, yes or no? Thank you. So you captured the cow's disease. Thank you for letting me know. So moving on to the next questions now.
+[26 minutes 18 seconds][Customer] : No, no, yeah.
+[26 minutes 29 seconds][Agent] : Epilepsy, motor neurone disease, multiple sclerosis, muscular risk disease, Parkinson's disease or paralysis, yes or no. Anxiety, depression or stress requiring medical treatment or any other mental health disorder, yes or no.
+[26 minutes 38 seconds][Customer] : No, Yes.
+[26 minutes 48 seconds][Agent] : Thank you for letting me know. So now I'm going to ask you some drop down question again. So please answer yes or no. Is your condition or form of schizophrenia, bipolar or psychotic disorder yes or no?
+[26 minutes 54 seconds][Customer] : Yeah, no.
+[27 minutes 2 seconds][Agent] : Next question I'm going to give you some options. So is your condition option A depression, anxiety, post dental depression or stress including post traumatic stress disorder. Option B anorexia and our both are bulimia, Option C ADHD or ADD and option D other mental illness, post traumatic post trauma, post Natal depression or post traumatic stress disorder.
+[27 minutes 19 seconds][Customer] : Post traumatic depression, depression because I've come out of domestic violence. So I think it's post stress disorder. No post traumatic. I think that's it.
+[27 minutes 26 seconds][Agent] : Which one did you say post post traumatic stress disorder? That's OK. The option A has everything.
+[27 minutes 35 seconds][Customer] : Yeah, yeah, yeah. No, I'm just trying to remember what day about two years ago. What?
+[27 minutes 39 seconds][Agent] : Option A has the depression, anxiety PPDSD.
+[27 minutes 46 seconds][Customer] : The psych bed that I had, I was PTSDI think that because of the domestic violence. Oh, yes. Oh my.
+[27 minutes 55 seconds][Agent] : I'm so sorry to that you have to go through that, but I'm, I'm glad that you came out of that and you have been living a beautiful life as well, which is great. Yes, exactly. Umm, so I, so in the first part of the umm umm section is, is uh, giving old options. Option A has the depression, anxiety, postmatal depression or stress including post traumatic stress disorder. Do you think this is applicable for you? Alright, perfect. We're gonna capture that now.
+[28 minutes 4 seconds][Customer] : Yeah, yeah, yeah, yeah, Yep.
+[28 minutes 23 seconds][Agent] : So next question, How many episodes have you had which required treatment?
+[28 minutes 38 seconds][Customer] : Is this to do with the mental health?
+[28 minutes 29 seconds][Agent] : You can give me the answer based on one to two episodes, 3 to 4 episodes, five to six episodes, 7 plus episodes, Yes, correct. And if you need the definition on the episode, like what do you mean by the episode? I can read that out for you as well.
+[28 minutes 43 seconds][Customer] : Yes, yeah, yeah 'cause I wasn't hospitalised, I was just on medication for a couple of years.
+[28 minutes 47 seconds][Agent] : Do you want me to read that just on medication? OK, what I'm gonna do doing I'm gonna read you the definition just to give you some clear idea and you can select how many episode that you have to go through that.
+[28 minutes 51 seconds][Customer] : Yeah, Yep, Yep, Yep.
+[28 minutes 59 seconds][Agent] : OK, Let me just bring out the medical definition. Just give me one second.
+[29 minutes 3 seconds][Customer] : It's hard to say episodes because it was continual for two years, so it's hard to sort of say how many episodes, you know what I mean?
+[29 minutes 7 seconds][Agent] : Yep, Yeah, yeah, it's exactly right. So after reading the de umm umm definition you will have some clear idea.
+[29 minutes 10 seconds][Customer] : It's like, yeah, yeah.
+[29 minutes 16 seconds][Agent] : OK so when I said episode it means Jonah. An episode is an event, occurrence or recurrence of symptoms which increased severity from normal mood and usually require either medical intervention, referral, treatment or alterations. Slash adjustment to existing maintenance treatment.
+[29 minutes 37 seconds][Customer] : OK.
+[29 minutes 37 seconds][Agent] : OK, the treatment can take the form of medication and slash or counseling, slash therapy. I'll give you the example. There are three points to be noted.
+[29 minutes 43 seconds][Customer] : Yeah, yeah.
+[29 minutes 47 seconds][Agent] : First example is if someone has mental health symptoms that required treatment, this is an episode and if they return to their doctor several times to monitor the situation and slash or for repeat prescription, this is the same single episode. So this would be 1 episode only. OK. If however they have a relapse and the symptoms worsen or symptoms worsen and treatment is to be changed or increased, then this constitute a second episode. Umm. Similarly, if the applicant recovers and the treatment is stops and the applicant is fine, but at a later date the symptoms return and they have to go back to the doctor to seek further advice. This would be a separate episode, OK? This would because if another another different episode. OK.
+[30 minutes 43 seconds][Customer] : OK.
+[30 minutes 43 seconds][Agent] : So based on that, Donna, how many episodes have you had which require treatment 122324526 or seven past episodes?
+[30 minutes 53 seconds][Customer] : It's hard to do, isn't it?
+[30 minutes 57 seconds][Agent] : So when you, when you went to the doctor for the first time, how many times did you go back or did you go back for the repeat prescription or increased prescription?
+[31 minutes 1 seconds][Customer] : Yeah, Yeah, I did for that year, but I was also doing like 10 sessions with a counselor or or a psychiatrist at the same time. So I'm just trying to work out because that went on through the year. That's the thing.
+[31 minutes 20 seconds][Agent] : OK, No, uh, a as I can, as I told you before the treatment, it can take the form of medication and slash or counseling slash therapy as well.
+[31 minutes 30 seconds][Customer] : Yeah, I suppose one, I suppose if that's the one that's ongoing. So it was over two years.
+[31 minutes 38 seconds][Agent] : And did you did you have to increase the medication or is it is that the same medication? OK, OK. So, yeah, as you mean the counseling?
+[31 minutes 41 seconds][Customer] : No no no and I ended up weaning myself often because I actually felt sicker on the Master after the two years, but I had to keep up the psych for about 6 months and I haven't been back since. So what would that be? 1 episode maybe?
+[32 minutes 4 seconds][Agent] : OK, so it's entirely up to you. Do you want me to re repeat the definition again? Give you the example again just to give you an A clear idea.
+[32 minutes 3 seconds][Customer] : It's not really clear, is it? Just just do the one.
+[32 minutes 14 seconds][Agent] : OK OK so for example, don't know if someone has mental health symptoms that require treatment. OK, this is an episode and if they return to their doctor several times to monitor the situation and slash or for repeat prescription, this is the same single episode. If however they have a relapsed or symptoms worsen the treatment needs to be changed or increased then this constitute a second episode. I can.
+[32 minutes 22 seconds][Customer] : Yeah, OK, OK. No, it's only one thing.
+[32 minutes 50 seconds][Agent] : OK. And there's a last example, Donna. Similarly, if the applicant recovers and the treatment is stops and the applicant is fine, but at a later date the symptoms have come back or you can say the symptoms have returned and they have to go back to the doctor to seek further advice. This would be a separate episode. OK, So based on the definition, Donna, how many episodes have you had which require treatment, 122324526 or seven plus episodes? OK, I don't have the exactly 1 episode to be selected for you. I have the one to two episode. I'm gonna select that for you now.
+[33 minutes 18 seconds][Customer] : 1 Yeah, yeah.
+[33 minutes 27 seconds][Agent] : And our next question is asking about was it more than one episode, yes or no? OK, thank you. Have you have you had symptoms or treatment for this condition within the last six months? Yes or no? Thank you. Have you ever seriously contemplated or attempted suicide? Yes or no?
+[33 minutes 34 seconds][Customer] : God, I'd say no, no, no.
+[33 minutes 55 seconds][Agent] : Half the factors or causes that trigger the symptoms being partially or fully removed Yes or no?
+[34 minutes 4 seconds][Customer] : Fully removed.
+[34 minutes 6 seconds][Agent] : Like the factors that was causing you the PTSD or a or depression? Asking about half the factors removed or partially removed. So it's not regarding the symptoms.
+[34 minutes 17 seconds][Customer] : Oh yeah, they've been removed cause yeah 'cause I've moved town and different jobs. So yes, they have been removed.
+[34 minutes 22 seconds][Agent] : OK, perfect. So I'll repeat the question again. So half the factors or causes that trigger the symptoms being partially or fully removed, yes or no? Thank you. In the last 10 years, have you required hospitalization as a result of this condition, yes or no?
+[34 minutes 32 seconds][Customer] : Fully removed Yes No.
+[34 minutes 46 seconds][Agent] : In the in the last five years, how many? My apologies. I repeat the question. In the last five years, how much time off work have you required as a result of this condition? It can say zero to two weeks, two to four weeks or more than four weeks.
+[35 minutes 4 seconds][Customer] : Oh, that's going to make it difficult anyway because I wasn't employed then. I was self-employed.
+[35 minutes 10 seconds][Agent] : OK. And did you have to take any time off work?
+[35 minutes 16 seconds][Customer] : I did, but I, I, as I said, I wasn't getting a paid employment. It was all self-employed because we were working a business together.
+[35 minutes 24 seconds][Agent] : OK.
+[35 minutes 30 seconds][Customer] : This is relating to the mental health, isn't it?
+[35 minutes 25 seconds][Agent] : And how many weeks did you have to take the time off Co correct. And we are going to in the last five years time frame two.
+[35 minutes 32 seconds][Customer] : Oh, God, I could only take two weeks off because I had to get paid employment.
+[35 minutes 41 seconds][Agent] : OK, perfect. So we are asking about the last question again. So in the last five years, how much time off work have you required as a result of this condition? So zero to two weeks would be more suitable for you then.
+[35 minutes 54 seconds][Customer] : Yeah, yeah.
+[35 minutes 55 seconds][Agent] : OK. And And so we captured the depression on the dissection and the PTSD. So we can move on to the next question now.
+[36 minutes 5 seconds][Customer] : Yep.
+[36 minutes 5 seconds][Agent] : So any illegal drug use, abuse or prescription medication or received medical advice or counseling for alcohol consumption, use or no? Thank you. Disorder of the kidney or bladder, yes or no?
+[36 minutes 7 seconds][Customer] : No, no, yes.
+[36 minutes 22 seconds][Agent] : Thank you. Based on your response, Donna, please answer yes or no for each of the following. So bladder or urinary tract disorder, yes or no? OK. Did you have the bladder and the urinary tract disorder?
+[36 minutes 34 seconds][Customer] : Yes, it's the urinary tract, not the bladder.
+[36 minutes 45 seconds][Agent] : Pardon me.
+[36 minutes 46 seconds][Customer] : It's the urinary tract, not the bladder.
+[36 minutes 48 seconds][Agent] : OK, but not the bladder, the other one. OK, perfect.
+[36 minutes 49 seconds][Customer] : Yep, Yep.
+[36 minutes 51 seconds][Agent] : So you're gonna capture the urinary tract. So I'm gonna ask you, give you some list. So in the past two years, have you had any of the following blood or sugar in your earring or more than two urinary tract infections or, or had a, uh, kysteroscopy, ultrasound or IV, IVP, uh, intravenous pyelogram, yes or no? OK, Kidney disease or disorder, yes or no?
+[37 minutes 9 seconds][Customer] : No, no, no.
+[37 minutes 29 seconds][Agent] : Umm, Jenna coming back to the kidney stone that you have had in the past. So you're gonna move capture that under this section. OK, So we're gonna capture it as a yes under the kidney disease or disorder, and I'm gonna capture the kidney stones.
+[37 minutes 41 seconds][Customer] : Well, it's not really a disease. It's it's a disorder that's the same disease is like renal function.
+[37 minutes 49 seconds][Agent] : Yeah. But you did have the kidney stone removed in the past, correct?
+[37 minutes 53 seconds][Customer] : Yeah, Yeah. But it's, it's considered a disorder though, really, Because it's not like I said, I'm not in kidney disease, you know, failure.
+[37 minutes 53 seconds][Agent] : And you're also going to put that, Yeah, yeah. So we have the options, kidney disease or disorder, OK. So we're going to capture that as a yes.
+[38 minutes 2 seconds][Customer] : I'm trying to say Yep, Yep, Yep.
+[38 minutes 10 seconds][Agent] : And was your kidney condition limited to kidney stones and have these been passed or treated, yes or no? So I will give you the option. Yes, kidney stones have passed slash treated.
+[38 minutes 18 seconds][Customer] : Yes, Yes.
+[38 minutes 27 seconds][Agent] : Is that a correct for you?
+[38 minutes 28 seconds][Customer] : Yes.
+[38 minutes 29 seconds][Agent] : OK, thank you. All right. Blood disorder or disease, yes or no? OK. Asthma or other respiratory disorder, excluding childhood asthma. Yes or no. Back or neck pain or disorder? Yes or no.
+[38 minutes 34 seconds][Customer] : No, no, no.
+[38 minutes 47 seconds][Agent] : Arthritis, Chronic pain, Gout repeatedly. Strain injury, Chronic static syndrome or fibromyalgia? Yes or no. Joint or muscle pain? Ligament injuries, including replacement or reconstructive surgery? Yes or no, osteoporosis or osteopenia, yes or no, Any defect of hearing or sight other than which is corrected by glasses or contact lenses, yes or no.
+[38 minutes 56 seconds][Customer] : No, no, no, no.
+[39 minutes 19 seconds][Agent] : Beautiful, Thank you. So moving back to the next question.
+[39 minutes 28 seconds][Customer] : Yep. Yep.
+[39 minutes 25 seconds][Agent] : So we already did capture about the Crohn's disease that you mentioned, we already, already kepted the bowel removed.
+[39 minutes 32 seconds][Customer] : Mm, hmm. Hmm. Mm. Mm hmm.
+[39 minutes 32 seconds][Agent] : We captured the mental health and we also captured the UTI on the UAI tract, uh, condition that you have, OK, And also captured the kidney stone. So we did go through and capture every, as, as you mentioned, all the, all the medical conditions. So moving forward with the next question now, so other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or a specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy, yes or no?
+[40 minutes 16 seconds][Customer] : Yes, Yeah, Well, I'm under permanent care for the Crohn's that I see him every three months.
+[40 minutes 18 seconds][Agent] : Is, is that the reason that you already tell, told me those medical condition or is it different condition which what was that for?
+[40 minutes 29 seconds][Customer] : But I have been saying for the Crohn's disease, I've got a specialist that I do that.
+[40 minutes 33 seconds][Agent] : Are you, you already mentioned the Crohn's disease. So you don't have to go through that with me.
+[40 minutes 34 seconds][Customer] : Yeah, yeah, yeah.
+[40 minutes 38 seconds][Agent] : I did capture that.
+[40 minutes 43 seconds][Customer] : Oh, yes. To the kidney stone. Yes. I've been to the JP. Yes.
+[40 minutes 39 seconds][Agent] : Other than the Crohn's disease, you can, if there's any other condition that you can let me know with the kidney stones, I also have captured that.
+[40 minutes 49 seconds][Customer] : OK. Yep.
+[40 minutes 49 seconds][Agent] : So you don't have to go through that with me as well.
+[40 minutes 51 seconds][Customer] : Sorry. Yes.
+[40 minutes 52 seconds][Agent] : That's OK. As I said, other than what you have already told me about.
+[40 minutes 55 seconds][Customer] : No, that's a no.
+[40 minutes 55 seconds][Agent] : OK, OK, so I'll repeat the question again. So other than what?
+[41 minutes 2 seconds][Customer] : Yep. Yep.
+[40 minutes 59 seconds][Agent] : Other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or a specialist? Or are you editing results for any medical tests or investigations such as but not limited to any surgeries, X-rays scans, blood tests or biopsy? Yes or no?
+[41 minutes 19 seconds][Customer] : No.
+[41 minutes 20 seconds][Agent] : Thank you. Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Yes or no?
+[41 minutes 36 seconds][Customer] : Well, is this relating to what I've got now or something different?
+[41 minutes 43 seconds][Agent] : Umm, other than what you have already told me about?
+[41 minutes 46 seconds][Customer] : No, no.
+[41 minutes 46 seconds][Agent] : So you did mention no, OK. OK. And last next question, other than what you have already told me about, have you ever during your working career required more than two consecutive weeks of work due to illness or injury, yes or no? You did mention about the mental health at the time of work. I did kept it there OK.
+[42 minutes 10 seconds][Customer] : Oh, only when I had. Oh, God, it's gone. But yeah. So to do with the Crohn's, Yes. I had three, three months off with the surgery. Yeah. And the bowel surgery, Yeah. Yeah.
+[42 minutes 19 seconds][Agent] : With the Crohn's disease, umm Donna, I did bowel surgery and the Crohn's, we already captured that.
+[42 minutes 26 seconds][Customer] : OK.
+[42 minutes 26 seconds][Agent] : So, So as I said, other than what you have already told me about, OK. So have you ever doing your working carrier required more than two consecutive weeks off work due to illness or injury, yes or no? Thank you so much. So next two questions. That is in regards to your family history. OK, so when I'll be saying your immediate family, I'll be referring back to your mom, dad, brother and sister only. To the best of your knowledge, have any of your immediate family living or deceased ever being diagnosed with polycystic kidney disease, Huntington's disease, or family or abnormalities, polyposis, yes or no?
+[42 minutes 27 seconds][Customer] : Yeah, no, no, no, Yeah, no, no.
+[43 minutes 8 seconds][Agent] : To the best of your knowledge, have any of your immediate family suffer from cancer, heart condition, stroke or heart? My apologies, I read the question again. To the best of your knowledge, have any of your immediate families suffer from cancer, heart condition, stroke or other headache rate disease? Prior to age 60? Yes or no?
+[43 minutes 28 seconds][Customer] : Prize is 60.
+[43 minutes 31 seconds][Agent] : Correct.
+[43 minutes 35 seconds][Customer] : Not before. I know mum developed cancer in the 70s so no.
+[43 minutes 32 seconds][Agent] : Before age 60, No. OK, that's OK. We're gonna capture that as a no then. Alright, so next question. Alright, alright. Other than one of events, gift certificate slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering, axe ceiling, scuba diving deeper than 40 meters, cave or egg diving or any other hazardous activity, Yes or no? Wonderful. Thank you so much for answering all the questions to now. So coming back to the rehashing back all the question, making sure that we capture everything accurately as possible. So Jonah, you mentioned to me earlier about the autoimmune disease. Which one do you do you refer back to? Did you refer back to the Crohn's disease? Is that what you're trying to say? OK, all right, that's beautiful. I did capture the Crohn's disease. That's perfect.
+[44 minutes 13 seconds][Customer] : No, Yeah, yeah, yeah, yeah, yeah. Because I've had that for a number of years. So I just didn't know whether there was a cut off with that or whether you're currently diagnosed or what.
+[44 minutes 47 seconds][Agent] : No, I no, that's OK. We did capture the Crohn's disease and you have an exclusion for that as well. I'd read that out to you as well. Mm hmm.
+[44 minutes 52 seconds][Customer] : Yeah, yes, because I'm more stable now because I know with some insurance policy, if you've been diagnosed with it fairly recently, then they don't like to take out policies because they know that there's a lot of medical and surgeries and and things that you have to have time off work.
+[45 minutes 15 seconds][Agent] : Yeah, Yeah.
+[45 minutes 16 seconds][Customer] : But I've had it for over 20 something years and it's managed now anyway.
+[45 minutes 20 seconds][Agent] : Oh, that's good. I'm glad to hear that we did capture the current assistance. Not a problem. So then, then what I'm going to do quickly for you, I'm going to place you on a brief hold, just making sure everything has been captured as quickly as possible.
+[45 minutes 20 seconds][Customer] : So yeah, yeah, yeah, yeah.
+[45 minutes 33 seconds][Agent] : Please hold the line for me. I'll be only a second. I'll be right back. Thanks.
+[45 minutes 53 seconds][Customer] : Sure.
+[46 minutes 12 seconds][Agent] : And she also makes sure she also had a kidney stone removed about eight years ago. OK. And so I captured the eight years ago kidney. So do you have to capture the future one or? Yeah. So she's ongoing at the moment, right. So where is kidney? We say no. Should I refer or for the sister one or Yeah, just find out. Just ask her if it's like still ongoing and she's still getting tests and like reviewed and stuff like that, you probably would need a referral or maybe even place her on hold. She said that she had done a bowel surgery and the doctor had done a heart kidney or something that she did a lot of the kidney. OK. She also has Crohn's disease. The checking capture. Yeah. And then she had bowel removed. Yeah. That it also captures. She's like, she's getting the kidney. Was it into cren disease that she had? Yeah, yeah, Yeah. So she's like, like father and wife, they might get a surgery done. So I only catch the previous one. Do I have fall under the same section? No, I won't fall under the same section. But what I'm you always want to capture the most risk, right. The most risk is going to be that she currently has. Thank you. So you, I'd probably refer this because it's still like kind of ongoing and she may require surgery. And if, if I refer you, it's gonna be fine because she's gonna see the doctor. Yeah. So maybe, maybe ask her when, when the application things. Because if you, well, you could capture it here as a kidney stone and then you tell it no, it's not past Umm, And then that she's had two attacks now and that lets you proceed. But it's just if you saw this policy, it'll be marked. I don't know if it'd be. It does not be. I think the safest way it would be to refer that way you don't have any QA issues or reach out to reader and ask her. I was going to be like, look, she had eight years ago, one passed, but she has one currently. So I understand. We obviously talk about the most risk. Can I capture it? Just as no, the kidney stones are not passed and no two attacks. Is that suitable or see what she says? Like I said, it's like if it's so early in the month, yeah, just double confirm with Rita and then she's not quite sure. Just just refer it to be like be more safe and sorry, right, You don't want to get have any issues. Just this message and hey, can I are you free? But they might just be it now. She was read the other day and she called me straight away. So she said, Can you message me? None. Yes, Sir. Good, Michael.
+[51 minutes][Customer] : You doing?
+[51 minutes 58 seconds][Agent] : Thank you, Dana, for holding the line for me. I appreciate your patience there.
+[52 minutes 2 seconds][Customer] : That's all right.
+[52 minutes 3 seconds][Agent] : And the, and the reason why it took me a while because I was going back forth with the medical condition. So with the kidney stones that you're going to see a doctor as well.
+[52 minutes 13 seconds][Customer] : Mm. Hmm. Yep.
+[52 minutes 12 seconds][Agent] : So I'm, I was, I'm going to take you back to that question again, just to call like note down as accurate information as possible.
+[52 minutes 21 seconds][Customer] : Yep.
+[52 minutes 21 seconds][Agent] : So, so we did capture the kidney disease or disorder as a yes. OK.
+[52 minutes 26 seconds][Customer] : Hmm. Mm.
+[52 minutes 26 seconds][Agent] : And so one kidney stone have passed and you're also going to have another one get treated soon as well, correct.
+[52 minutes 33 seconds][Customer] : For this episode, no.
+[52 minutes 37 seconds][Agent] : One in each kidney.
+[52 minutes 35 seconds][Customer] : I've got 2-1 in each kidney and they're still there.
+[52 minutes 38 seconds][Agent] : OK, It's still there. OK, So what's so coming back to the next last question. So was your kidney condition limited to kidney stones and have these been passed or treated? So you got three options. Yes, kidneys don't have passed slash treated. No, kidney stones not passed, slash treated other kidney conditions. So do you think no would be more applicable because your kidneys don't have not passed or treated yet?
+[53 minutes 5 seconds][Customer] : Yes. No, they're going to be, but they're not yet.
+[53 minutes 6 seconds][Agent] : OK, OK, not yet. Yes, exactly. Right.
+[53 minutes 10 seconds][Customer] : Yep, Yep.
+[53 minutes 10 seconds][Agent] : So you're gonna kept it as a no, No, kidneys not passed, slash treated.
+[53 minutes 14 seconds][Customer] : Yeah.
+[53 minutes 14 seconds][Agent] : And next question, how many attacks have you had?
+[53 minutes 20 seconds][Customer] : It will be my second.
+[53 minutes 18 seconds][Agent] : You can say 123 plus second. OK, perfect. So captured as a second one. So we, we captured everything as accurately as possible. Perfect. Thank you so much. So we did capture all the questions as you mentioned about the medical, health and health and lifestyle questions as well. Are you satisfied with all the questions that you have answered me today, Donna?
+[53 minutes 28 seconds][Customer] : Yes, yes, yes.
+[53 minutes 42 seconds][Agent] : Lovely. Thank you so much. What I'm going to do now, I'm gonna send your applications outcome to the underwriter. It takes about a few seconds to load up with an outcome and spell.
+[53 minutes 52 seconds][Customer] : Yep.
+[53 minutes 51 seconds][Agent] : OK, just give me one second.
+[53 minutes 55 seconds][Customer] : I was just going to ask you how long it will be because I've got to go to work at 1:00. That's all.
+[53 minutes 59 seconds][Agent] : Oh, no, it's not gonna take long. I'll be nice and quick and spell.
+[54 minutes 2 seconds][Customer] : OK.
+[54 minutes 2 seconds][Agent] : Just give me one second. Alrighty. So I'll let you know the applications outcome down the right. They have responded back to me quite promptly. Let me reopen the application and let you know the outcome as well. As you said, it's Friday, my system is doesn't wanna work today. It's lagging a little bit. Lagging a little bit.
+[54 minutes 9 seconds][Customer] : Yep, Yep, mine was like that yesterday. It was dropping in and out and refusing to LogMeIn and then LogMeIn as somebody else. And it's like what? Oh, good.
+[54 minutes 31 seconds][Agent] : OK, so, umm, the application outcome is the application is approved with the below term Stone also on that.
+[54 minutes 40 seconds][Customer] : Yes, it is.
+[54 minutes 38 seconds][Agent] : That is great outcomes, but I'll let you know the, uh, terms of the cover. So the maximum benefit amount is $5000 and the benefit.
+[54 minutes 47 seconds][Customer] : Right.
+[54 minutes 46 seconds][Agent] : Is to you due to Crohn's disease. And based on the umm, questions that you have asked me, umm, that you've answered about the Crohn's disease, they're the exclusions that added. So the exclusions for the Crohn's disease is no benefit of the payable for any disability condition, disease condition, disease, disorder, treatment or complications related to or arising from Crohn's disease.
+[55 minutes 8 seconds][Customer] : Right.
+[55 minutes 8 seconds][Agent] : And the premium has adjusted due to Crohn's disease. I'll let you know the pricing now.
+[55 minutes 13 seconds][Customer] : Yes, Bye.
+[55 minutes 13 seconds][Agent] : So for the $1283 worth of monthly income benefit, that is your income prediction amount and the waiting period is 30 days and the benefit. Is 2 years, Your fortnightly premium is $92.62 that is every two weeks. OK.
+[55 minutes 29 seconds][Customer] : That's not too bad Cos I get paid every two weeks. That's not too bad.
+[55 minutes 33 seconds][Agent] : Would that be manageable and suitable for yourself?
+[55 minutes 34 seconds][Customer] : Yeah, Cos actually it's the same price as my private health fund, so that's good.
+[55 minutes 39 seconds][Agent] : I'm glad to hear that and I'll let you know as well in, in terms of how the premium will calculate for you in the future. So your premium misstep, which means it will generally increase each year as you age. And as an indication, if you make no changes to the policy, your premium next year will be, I'll let you know quickly as well. So you have some idea $100.26 per foot now and your monthly benefit amount it will be 1283 dollars, OK?
+[56 minutes 5 seconds][Customer] : OK, well.
+[56 minutes 6 seconds][Agent] : And you can also find information about our premium instructor on our website too. And with real insurance donor, you're also going to get a real, a real reward adds to the policy. What that means is following your first policy anniversary date donor, you're going to receive 10% of the premium you have paid in that time. So you're going to refund your 10% of the premium following your first policy anniversary, OK?
+[56 minutes 30 seconds][Customer] : OK, right.
+[56 minutes 30 seconds][Agent] : So you're going to receive $240.82 back after the first year, OK.
+[56 minutes 36 seconds][Customer] : Good.
+[56 minutes 37 seconds][Agent] : And included in the policy there are some extra benefits. So you have some idea about that.
+[56 minutes 37 seconds][Customer] : Yeah, yeah, yeah.
+[56 minutes 42 seconds][Agent] : There is a rehabilitation benefit along with the final expenses benefit. The final expenses benefit, it pays $10,000 in the event that you pass away, that will assist your beneficiary to go to the immediate funeral cost. Any other final expenses?
+[56 minutes 56 seconds][Customer] : OK, yeah.
+[56 minutes 57 seconds][Agent] : OK, so just to clarify that, Donna, while you're holding the policy, if anything happens to you, say if you passed away, the $10,000 will be paid at your beneficiary.
+[57 minutes 6 seconds][Customer] : And what if you don't have a next to King though, or anybody to pass that beneficiary on? Where does that go?
+[57 minutes 5 seconds][Agent] : So they can use that money to go through, Yep, if you don't put down a beneficiary, as I as far as I know, it will go through that state as well.
+[57 minutes 21 seconds][Customer] : So you'll still be able to, somebody will be able to bury you with it, I would think.
+[57 minutes 22 seconds][Agent] : And yeah, so it's better if you have a like a friends or family or someone that you can trust. It could be from your workplace, it could be from your neighborhood, anyone you could trust and you can put not down as a beneficiary.
+[57 minutes 37 seconds][Customer] : I've got a cousin in Victoria in Tasmania, so maybe I'll put her down for that.
+[57 minutes 36 seconds][Agent] : So as as yeah, beautiful. So when you pass away, she will receive the $10,000 to go through your immediate funeral expenses as well. OK, lovely. So, Donna, what I can do for you today? I can get you the income protection cover immediately over the phone and send you the tailored policy copy so you can review everything in writing. OK. Umm, I'll send you. Yeah.
+[57 minutes 49 seconds][Customer] : Yep, Yep, right now what happens if with these kidney bones? Because I've got one in each this time which I haven't had before.
+[58 minutes 7 seconds][Agent] : Mm hmm.
+[58 minutes 7 seconds][Customer] : I've only ever had a small one in just one kidney.
+[58 minutes 10 seconds][Agent] : Mm hmm. Mm hmm.
+[58 minutes 11 seconds][Customer] : If they decide the specialist decides to do surgery like in the next two week, and if I have to have like, you know, a stent put in or something more, I'm not saying I have to, but this is what he's saying. If he's going to do the two in one procedure and I have to not work for two weeks, I'm not covered then, am I?
+[58 minutes 37 seconds][Agent] : I did capture the kidney stone scent of dissection. OK. Mm, hmm.
+[58 minutes 39 seconds][Customer] : Yeah, yeah. Because when he did tell me that depending on the CT scan that I had done yesterday, if he decides to do the two, then he won't know till he actually gets me in there if he's going to do theatre or not. But he's just letting me know that if he decides to go ahead with the day case and it's worse than what he thought it was, I might have to have the two weeks off. But I don't know until I actually what he decides until next week, that's all.
+[59 minutes 13 seconds][Agent] : OK.
+[59 minutes 15 seconds][Customer] : So if I have to have two weeks off, say it's the worst case and he does have to, you know, I have to stay like 3 days in hospital or something and then have another two weeks off. Am I covered or not?
+[59 minutes 14 seconds][Agent] : Yeah, good questions there, General. As I said, the pro policy is designed to provide the monthly income benefit if you're unable to work due to it.
+[59 minutes 34 seconds][Customer] : Yeah, but it's a 30 day waiting period though, isn't it? But I know. Yeah.
+[59 minutes 35 seconds][Agent] : Is it correct if it is if you're unable to work due to disabling sickness or injury and if if you suffer a loss of income as well and in your case there's a 30 days waiting period as well that you have selected so your fast payment, it would be 60 days after you are fast eligible to claim.
+[59 minutes 54 seconds][Customer] : Yes, I know.
+[59 minutes 54 seconds][Agent] : OK, umm, so if you put down a successful claim, you're not gonna pay straight away.
+[1 hours 2 seconds][Customer] : Yeah.
+[1 hours][Agent] : You have to set up the waiting period as well.
+[1 hours 3 seconds][Customer] : OK. Yeah.
+[1 hours 3 seconds][Agent] : And the first payment would be 60 days after the after you're first eligible to claim. OK.
+[1 hours 8 seconds][Customer] : So I'll have to if I haven't.
+[1 hours 16 seconds][Agent] : Hmm.
+[1 hours 10 seconds][Customer] : I'm just thinking if I haven't got any, you know, sickness leave or holiday leave that I can take at work. So say if it is 2 weeks, I think I've got two or three days covered at the moment, but if it's longer than that then I'll just have to just take the three days off I suppose and go back to work. That's what I'm thinking.
+[1 hours 26 seconds][Agent] : Yeah, yeah. So with that, David. Time frame like a spell depending on on the waiting period you have on your policy, you have 30 days, so your first payment would be approximately 30 days after the end of your waiting period. And when you put down a claim, so you we do have a in house claims team.
+[1 hours 56 seconds][Customer] : Like that. Yeah, yeah, yeah, yeah.
+[1 hours 54 seconds][Agent] : They will take you through the process with the simplific in mind to begin with the process, you just have to call us and then we'll have a claim agent that will be assigned to you to manage your claim as well. Alright. Hmm.
+[1 hours 1 minutes 6 seconds][Customer] : I mean, he did sort of say to me over the phone, but he said we'll discuss it more when I see you in his room next week.
+[1 hours 1 minutes 15 seconds][Agent] : Hmm.
+[1 hours 1 minutes 16 seconds][Customer] : He said we can either go one or two ways. It all depends on the CT that I had yesterday. If we can't do the both kidneys in the one procedure, he'll do the one that's causing, of course, the most pain and the most obstruction first.
+[1 hours 1 minutes 34 seconds][Agent] : Hmm.
+[1 hours 1 minutes 34 seconds][Customer] : Because I didn't have pain until about two weeks ago.
+[1 hours 1 minutes 34 seconds][Agent] : OK, OK. Yeah, I did.
+[1 hours 1 minutes 40 seconds][Customer] : So I didn't even know they were there, you know.
+[1 hours 1 minutes 42 seconds][Agent] : Oh yeah.
+[1 hours 1 minutes 43 seconds][Customer] : So The thing is that if he does the left one and like it was done before, then it's only a 24 hour, 48 hour thing and I was back to work within two days.
+[1 hours 1 minutes 54 seconds][Agent] : OK, yeah, I'm glad it will go like this. But I did capture the kidney.
+[1 hours 1 minutes 56 seconds][Customer] : Yes, But he did say to me, because it's in the two and if the other one is a bigger size in the right at the moment and he doesn't think I'm gonna pass that one because the ultrasound said that there was a 4mm in the right and I three and a bit. I think you said millimeter, but it's broken in the left 1. So it's actually pushing into the kidney and that's where I'm getting the pain from.
+[1 hours 2 minutes 8 seconds][Agent] : OK, OK, no, OK.
+[1 hours 2 minutes 27 seconds][Customer] : And that's the one he said he's gonna focus on because it's more dangerous because it's got a point on it. So I can cut your kidney? No, no, neither do I. But he said it should be similar to last time.
+[1 hours 2 minutes 34 seconds][Agent] : Yeah, I'm I'm hope it doesn't happen to you, but yeah, hmm, hmm.
+[1 hours 2 minutes 42 seconds][Customer] : But he said if I can do the two then that will be fine. But he did ask me are you able to take time off work if we have to put like a temporary stent in or something like that? Because you won't be able to work with the stent in, it's too painful.
+[1 hours 2 minutes 59 seconds][Agent] : OK, yeah, I understand where you're coming from spell. So coming back to the attacks that you have had in the past. So you had one in the previously 8 years ago and that one you currently have at the moment. That is the in total of 2 attacks, correct. OK. And I did capture that attacks in the section.
+[1 hours 3 minutes 8 seconds][Customer] : Yes, yeah, yeah, yeah. But I've never had them in both before. I've only ever had them in the one kidney. That's the thing. Yeah.
+[1 hours 3 minutes 18 seconds][Agent] : So, and OK, alright, what I'm gonna do, Donna, I'm gonna go back and reopen the application.
+[1 hours 3 minutes 28 seconds][Customer] : I mean, it might be fine, but I'm just thinking if he's gonna do the two and I won't know till I've seen, you know, then he might say I might be able to go back, as I said, in two days. But if he decides that it's more difficult when he gets in there to do it or there's some other thing happens that he's got to put, as he said, a stent in or anything like that, and then I've got to go back and have that stent removed after so many weeks I won't be able to work.
+[1 hours 3 minutes 57 seconds][Agent] : That is what you're trying to think, yeah. Yeah, I understand your concern. I completely.
+[1 hours 3 minutes 56 seconds][Customer] : And that's what I'm thinking, you know, am I gonna be covered if he doesn't have to do that? That's fine. I won't have to take time off.
+[1 hours 4 minutes 5 seconds][Agent] : OK.
+[1 hours 4 minutes 4 seconds][Customer] : But I just with the 30 days, that's what I'm sort of thinking. I'd have to wait, that's all. Yes.
+[1 hours 4 minutes 10 seconds][Agent] : Yeah, that is the waiting period of regardless of if you have any condition or not, this is the you have.
+[1 hours 4 minutes 16 seconds][Customer] : But could I claim? If it does go that way, could I claim and then you assess it like I do with the health insurance? Or do I just not even apply?
+[1 hours 4 minutes 23 seconds][Agent] : So no, you can call us as well.
+[1 hours 4 minutes 27 seconds][Customer] : Yeah, OK.
+[1 hours 4 minutes 26 seconds][Agent] : And we do have a, we'll have a claim agent that will be assigned to you to manage and they will take you through the claim process as well.
+[1 hours 4 minutes 31 seconds][Customer] : Yeah, yeah, hopefully.
+[1 hours 4 minutes 42 seconds][Agent] : OK.
+[1 hours 4 minutes 34 seconds][Customer] : I've got some sick days off, but I think when I asked two weeks ago, they said I'd only have about 3 days accrued at the moment because I've just taken off a whole lot in January.
+[1 hours 4 minutes 45 seconds][Agent] : Yeah, Yeah, that's OK. I understand and I thank you for letting me know. But just hold on for one second. I'm just making sure that I have, I'm capturing the right attack in the system. So just give me one second.
+[1 hours 4 minutes 49 seconds][Customer] : Yeah, yeah, I know.
+[1 hours 4 minutes 57 seconds][Agent] : Let me reopen the application.
+[1 hours 4 minutes 58 seconds][Customer] : It's just making it more complicated, but I know.
+[1 hours 5 minutes 1 seconds][Agent] : No, you're not.
+[1 hours 5 minutes 2 seconds][Customer] : Yeah. Yeah.
+[1 hours 5 minutes 2 seconds][Agent] : I'm just trying to see because when you put through the claim, I just don't want it to go through any hassles.
+[1 hours 5 minutes 4 seconds][Customer] : And as I said, you know, it's just me and I bring in the income. I'm the sole income.
+[1 hours 5 minutes 10 seconds][Agent] : Yeah, of course. I unders.
+[1 hours 5 minutes 9 seconds][Customer] : And if I can't work, then it's gonna put my express on me.
+[1 hours 5 minutes 13 seconds][Agent] : Of course. Of course. Do not. Please hold the line for me for one second. I'll be right back, please. Thank you.
+[1 hours 5 minutes 15 seconds][Customer] : So yeah.
+[1 hours 7 minutes 1 seconds][Agent] : Thank you for holding the line there, Donna.
+[1 hours 7 minutes 3 seconds][Customer] : No worries.
+[1 hours 7 minutes 3 seconds][Agent] : Umm, uh, so Donna, I reopened the application form for you and coming back to the kidney stones that you mentioned, you said before it was just one kidney stone, but this time it came back and, and the both kidney like. OK.
+[1 hours 7 minutes 8 seconds][Customer] : No, Yep, yeah, it's, it's in two. Sorry, I meant so that's in one in each.
+[1 hours 7 minutes 20 seconds][Agent] : Yeah, yeah, yeah. So it's coming back to the attacks. So how many attacks have you had? You had three options. One is 1-2 and three plus.
+[1 hours 7 minutes 31 seconds][Customer] : Well, this is the second one, yeah. Second attack, yes.
+[1 hours 7 minutes 35 seconds][Agent] : But the second attack, it happened on the both kidneys, right? So that'd be like 3 in total.
+[1 hours 7 minutes 41 seconds][Customer] : Yeah. So if you look that that way, this is different to the last time.
+[1 hours 7 minutes 49 seconds][Agent] : Yeah, but this time it is both kidney and last time it was just one kidney.
+[1 hours 7 minutes 53 seconds][Customer] : Yeah.
+[1 hours 7 minutes 52 seconds][Agent] : So that'll be 3, three in total.
+[1 hours 7 minutes 54 seconds][Customer] : Oh, you're classifying it as three. OK. Yeah, alright. I didn't know that.
+[1 hours 7 minutes 59 seconds][Agent] : No, no, that's OK. I'm just making sure that you, we are capturing everything as accurate as possible. OK, But I'll go recheck with the manager again. Just making sure I'm capturing.
+[1 hours 8 minutes 2 seconds][Customer] : Yeah, Yep, yeah.
+[1 hours 8 minutes 7 seconds][Agent] : Just please hold the line.
+[1 hours 8 minutes 7 seconds][Customer] : But there's no nothing, you know, urgent that needs to be done. As you said, it's not like it's life threatening or anything at the moment. But he might decide just to do the left where I've got all the pain 1st and let the other one go 'cause it might pass in the other one, you know.
+[1 hours 8 minutes 14 seconds][Agent] : Of course, of course, of course, other one might pass. Yeah, of course.
+[1 hours 8 minutes 24 seconds][Customer] : Yeah.
+[1 hours 8 minutes 24 seconds][Agent] : I hope it does go along this way, but just making sure I'm capturing.
+[1 hours 8 minutes 26 seconds][Customer] : Oh, it'd be good if they if they don't pass, you get it done at one operation, if that's the way you're thinking.
+[1 hours 8 minutes 32 seconds][Agent] : Yeah, perfect. So then please hold the line for me for one second. I'll be right back. Thank you. Thank you, Donna, for your patience. Sorry.
+[1 hours 11 minutes 54 seconds][Customer] : Yes.
+[1 hours 11 minutes 50 seconds][Agent] : Coming coming back to that kidney stones to so we're going to capture the attacks again. So how many attacks have you had? 123 plus, yeah.
+[1 hours 12 minutes 2 seconds][Customer] : Well, if you're classifying the attack as like a single episode, like with the first one or 'cause this is a different 1 completely.
+[1 hours 12 minutes 17 seconds][Agent] : So both of the kidneys, you have that this time attacks happen at the same time, correct? OK.
+[1 hours 12 minutes 16 seconds][Customer] : So yes, But it wasn't previously, so this isn't, this is totally different this time.
+[1 hours 12 minutes 23 seconds][Agent] : So that's OK. That's OK. So both of the attacks have occurred at the same time, plus you had a previous attack. So based on that, how many attacks have you had?
+[1 hours 12 minutes 39 seconds][Customer] : Well, I've only had two, but you're possibly classifying it as three because this is a different situation. Is that right?
+[1 hours 12 minutes 35 seconds][Agent] : 123 plus two OK, no, no, no, I was I was wrong. I don't know because I was thinking like both of the kidneys umm could be classified as a one itch. But since you mentioned the both of the kidney stones attack happened at the same time this time. So the attacks would rules go through as one attack because it didn't happen separate time, correct?
+[1 hours 12 minutes 59 seconds][Customer] : Yes, that's right.
+[1 hours 13 minutes 6 seconds][Agent] : Yeah.
+[1 hours 13 minutes 6 seconds][Customer] : Yes, yes, but the other previous attack was only in one kidney.
+[1 hours 13 minutes 6 seconds][Agent] : So so one kidney. That's OK. So so you had one attack in the past and this time you had another attack, correct.
+[1 hours 13 minutes 16 seconds][Customer] : Yes, so that's true.
+[1 hours 13 minutes 17 seconds][Agent] : On the both kidneys, 2 OK, beautiful. So you did capture 2. That's not a problem. Thank you.
+[1 hours 13 minutes 19 seconds][Customer] : Yes, yes, yes.
+[1 hours 13 minutes 21 seconds][Agent] : So much trickier. Sorry.
+[1 hours 13 minutes 21 seconds][Customer] : Is that your questions are a little bit hard to understand that. So it's like how are you? How are you sort of working it out? You know what I mean?
+[1 hours 13 minutes 29 seconds][Agent] : No, I'm S Yeah, I understood. My apologies if I was going through back and forth and make you a bit confused. My apologies. Uh, big, beautiful.
+[1 hours 13 minutes 38 seconds][Customer] : No, because I know that you could look at it as is it similar to last time where it's just one stone in one kidney, then this is the second attack of that situation, but this is different.
+[1 hours 13 minutes 51 seconds][Agent] : Yeah, we did capture that as a second attack. So we did capture both attacks on the same application.
+[1 hours 13 minutes 54 seconds][Customer] : Yes, yes.
+[1 hours 13 minutes 57 seconds][Agent] : So with the coming back to the questions that you had, so with the, umm, kidney stones, you don't have any exclusions added.
+[1 hours 14 minutes][Customer] : Yep, Yep.
+[1 hours 14 minutes 4 seconds][Agent] : OK Umm, so if you put through a client a successful claim and you do have to serve the waiting period which is 30 days plus umm David A as well. So your first payment would be umm, 60 days after your first eligible to claim. OK.
+[1 hours 14 minutes 12 seconds][Customer] : Yeah, yeah, yeah. So the if so, I wouldn't be covered for this attack. That's what I'm trying to get at.
+[1 hours 14 minutes 21 seconds][Agent] : And I did so if you can't work due to this reason, the kidney stones removed, you can give us a call and our, our, our claim agent will take you through the process.
+[1 hours 14 minutes 34 seconds][Customer] : Yeah, yeah. That's all. Yeah.
+[1 hours 14 minutes 37 seconds][Agent] : But as I say to you, you won't be able to receive the money straight away. You do have to go through and wait for the waiting period. OK, you, you have to set up the waiting period and plus you're paid your income bill is paid monthly in areas.
+[1 hours 14 minutes 41 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah. The pity.
+[1 hours 14 minutes 53 seconds][Agent] : So this means you do have.
+[1 hours 14 minutes 55 seconds][Customer] : I didn't think of it, you know, months ago. Then I probably would have been covered for this one.
+[1 hours 15 minutes 1 seconds][Agent] : Yeah, but that's OK. You can also give us a call and then we can take you through the process from there. And I did ask, give you the exclusions, umm, for the Crohn's disease, based on the Crohn's disease, umm, answer that you give it to me.
+[1 hours 15 minutes 10 seconds][Customer] : Yeah, Yeah, yeah, yeah, yeah, right.
+[1 hours 15 minutes 15 seconds][Agent] : So no benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to arising from Crohn's disease as well.
+[1 hours 15 minutes 26 seconds][Customer] : Yeah, no, I got that.
+[1 hours 15 minutes 25 seconds][Agent] : That exclusion has been added to the application.
+[1 hours 15 minutes 27 seconds][Customer] : So if anything else happens like, you know, tendonitis or something that I get from, you know, whatever, then I know I'm covered. I understand with the crime, just considered a, you know, a long term sort of complicated issue.
+[1 hours 15 minutes 38 seconds][Agent] : Thank you, thank you and yeah, thank you. And the premium also has adjusted due to the Crohn's disease and a fortnightly payment, it is $92.62 per fortnight. That will become a manageable for you, correct? Perfect.
+[1 hours 15 minutes 53 seconds][Customer] : Yep, Yep, Yep, Yep.
+[1 hours 15 minutes 57 seconds][Agent] : So what I can do for you, Donna, I can send you the PO details policy copies. You can review everything in writing.
+[1 hours 16 minutes 2 seconds][Customer] : Yes, please. Yes.
+[1 hours 16 minutes 2 seconds][Agent] : I'm going to send you the e-mail copy first e-mail copy will go to donnab482@gmail.com. Is that correct?
+[1 hours 16 minutes 10 seconds][Customer] : Yes, that's right.
+[1 hours 16 minutes 11 seconds][Agent] : And the and the hard copy, it will go to your postal address that you provided to me earlier.
+[1 hours 16 minutes 15 seconds][Customer] : Yes, please.
+[1 hours 16 minutes 16 seconds][Agent] : It takes about three to five business days to go through that address. OK.
+[1 hours 16 minutes 19 seconds][Customer] : No, that's fine. Yep.
+[1 hours 16 minutes 20 seconds][Agent] : And the great thing is Donna, this policy does also gives you a 30 day cooling off.
+[1 hours 16 minutes 26 seconds][Customer] : OK.
+[1 hours 16 minutes 26 seconds][Agent] : So if you decide this policy is not coming suitable for you, you can call us back and cancel within the 30 days.
+[1 hours 16 minutes 34 seconds][Customer] : Yep. Yep.
+[1 hours 16 minutes 33 seconds][Agent] : Then you'll receive a full refund of your premium unless the claim has been made.
+[1 hours 16 minutes 38 seconds][Customer] : No, I think it's gonna be good. I'm just sorry I didn't do it sooner.
+[1 hours 16 minutes 37 seconds][Agent] : OK, no, that's OK. At least we can get this one done for you today.
+[1 hours 16 minutes 45 seconds][Customer] : Yeah, Yep.
+[1 hours 16 minutes 45 seconds][Agent] : So what we do today then, even though we are covering you for the $1283 monthly benefit amount from today, but you don't have to make any payment today. You said you were umm, get paid for nightly basis.
+[1 hours 16 minutes 56 seconds][Customer] : Yeah, yes, yes.
+[1 hours 16 minutes 59 seconds][Agent] : So I can line up yesterday?
+[1 hours 16 minutes 59 seconds][Customer] : And I've just, I've just had a payment yesterday, so it'll have to be next fortnight.
+[1 hours 17 minutes 3 seconds][Agent] : Yeah, I get the next fortnight from umm, from Thursday. Is that what you're trying to do?
+[1 hours 17 minutes 9 seconds][Customer] : Yes, Thursday is my pay. Yeah, yes. So yes, two weeks from yesterday.
+[1 hours 17 minutes 11 seconds][Agent] : OK, OK, so yesterday was 31st of October and next Fortni 14 to which is coming up on the 14th in my calendar, 14th of November.
+[1 hours 17 minutes 22 seconds][Customer] : Yes, that's right.
+[1 hours 17 minutes 22 seconds][Agent] : Would that be suitable for you?
+[1 hours 17 minutes 23 seconds][Customer] : Yes, yes.
+[1 hours 17 minutes 24 seconds][Agent] : Perfect, we can do that. And for the payment, don't know. We work in a direct debit system. So every fortnightly basis we're gonna deduct the premium from your account.
+[1 hours 17 minutes 32 seconds][Customer] : Yeah, good.
+[1 hours 17 minutes 33 seconds][Agent] : Umm, and we can work in a BSP and account numbers way or we can do it the Visa or MasterCard way as well. Either way you do, there's no such as. How would you like to do it? OK.
+[1 hours 17 minutes 41 seconds][Customer] : Well, The thing is that when I had an incident with my health insurance, I used to take it out on the card, but they had problems always taking it out of the card because they were having updates and I was it was getting missed payments on a direct debit. So I changed it to a BSB and account and it's worked every time.
+[1 hours 17 minutes 58 seconds][Agent] : Yeah, it works better. Perfect. We can go through with the BSP and account number as well. Is that savings?
+[1 hours 18 minutes 6 seconds][Customer] : Yeah, I don't know why with why it wouldn't do it with the card, but it just not like it missing payments. And it was just, I was getting behind and I thought no.
+[1 hours 18 minutes 14 seconds][Agent] : Oh, you have to just write it down and to make up those payments. Hmm.
+[1 hours 18 minutes 17 seconds][Customer] : And then they double up the payments and then they tell me, oh, it didn't go through and it the money was in there. It was just something that was going on between their new app. They were changing their whole payment system with some new system and it just wasn't accepting. It was a lot of people having the same issues.
+[1 hours 18 minutes 29 seconds][Agent] : Yeah, Yeah, that, yeah. It could be something to do with their system. I'm not sure what really had happened.
+[1 hours 18 minutes 37 seconds][Customer] : And how secure is the payment? Because when I was with Medibank private they got hacked and all my information got stolen as well.
+[1 hours 18 minutes 45 seconds][Agent] : I understand your concerns are now we work in a highly secured system. As soon as you put down your bank, it does get encrypted.
+[1 hours 18 minutes 51 seconds][Customer] : Good.
+[1 hours 18 minutes 51 seconds][Agent] : So even though we don't have any access to that as well. OK, lovely. So it's a savings account, a check account, and I can note it down for you.
+[1 hours 18 minutes 54 seconds][Customer] : I think it's check with this one.
+[1 hours 19 minutes 2 seconds][Agent] : Check this one just so we can do check as well. What is the BSP? May I know when you're ready?
+[1 hours 19 minutes 7 seconds][Customer] : It's finding that for you now.
+[1 hours 19 minutes 10 seconds][Agent] : Perfect. OK, take your time.
+[1 hours 19 minutes 13 seconds][Customer] : Get into that one. Get into the bank and get it that way. Sorry, I've got a noisy, very talkative cat. If you can hear them meow, well, that's alright.
+[1 hours 19 minutes 41 seconds][Agent] : Oh, no, I can't hear you at all These things so quiet the whole time.
+[1 hours 19 minutes 44 seconds][Customer] : Just rolling around. I can't play with you. Go away. Yeah, yeah.
+[1 hours 19 minutes 48 seconds][Agent] : Uh, I re I just moved, uh, last week to a new place and that new place has a bit of backyard which I didn't have in the, in my existing one.
+[1 hours 19 minutes 57 seconds][Customer] : Yep. Yep.
+[1 hours 19 minutes 57 seconds][Agent] : And my daughter, she has been wanting to get it puppy for her and she has been begging me. It's like, and she's only three. I was like, I do have two children. I was like, I can't race three. That is too much for me.
+[1 hours 20 minutes][Customer] : Ah, yes, I know. They're very demanding.
+[1 hours 20 minutes 12 seconds][Agent] : They are.
+[1 hours 20 minutes 12 seconds][Customer] : Alright.
+[1 hours 20 minutes 13 seconds][Agent] : Yeah, men are the BSU.
+[1 hours 20 minutes 14 seconds][Customer] : BSc is.
+[1 hours 20 minutes 20 seconds][Agent] : Lovely. And the account number please.
+[1 hours 20 minutes 16 seconds][Customer] : 736179 532147 Yeah.
+[1 hours 20 minutes 28 seconds][Agent] : And the account name, is that your name Donna Randall?
+[1 hours 20 minutes 30 seconds][Customer] : Donna Randall Yeah. Yep.
+[1 hours 20 minutes 31 seconds][Agent] : Alright, lovely. I'll repeat the BSP and account number back to you.
+[1 hours 20 minutes 38 seconds][Customer] : Yep. Yep.
+[1 hours 20 minutes 34 seconds][Agent] : So BSP is 736179 and the account number is 532147 and the account name is Donna Randall, correct.
+[1 hours 20 minutes 44 seconds][Customer] : Yep, Yep.
+[1 hours 20 minutes 45 seconds][Agent] : Lovely.
+[1 hours 20 minutes 51 seconds][Customer] : Yep.
+[1 hours 20 minutes 45 seconds][Agent] : So Donna, your first payment will be deducted from your account on the 14th of 11th, 2024 and after that every fortnightly basis from that day.
+[1 hours 20 minutes 53 seconds][Customer] : Good, good.
+[1 hours 20 minutes 53 seconds][Agent] : OK, lovely. Only one last thing to do Donna, is to read your declaration for your for your policy. At the end.
+[1 hours 21 minutes][Customer] : Yep.
+[1 hours 21 minutes][Agent] : I'm going to ask you two final question. After that, I'll let you go as well.
+[1 hours 21 minutes][Customer] : OK, that's alright.
+[1 hours 21 minutes 3 seconds][Agent] : Thank you so much for your patience.
+[1 hours 21 minutes 4 seconds][Customer] : That's alright. We'll get ready for work though 'cause we're behind you too. Am I ringing Sydney or or?
+[1 hours 21 minutes 6 seconds][Agent] : Yeah, of course, correct, correct. You're ringing Sydney, So you're, we are three hours ahead of you.
+[1 hours 21 minutes 10 seconds][Customer] : Yeah, yeah, yeah, yes, that's right.
+[1 hours 21 minutes 14 seconds][Agent] : So you still got a yes.
+[1 hours 21 minutes 15 seconds][Customer] : And people don't realise that and they go, Oh yeah, exactly.
+[1 hours 21 minutes 19 seconds][Agent] : Sometimes we I say like good morning, good afternoon, even this morning in your time. So I just had to go through and recheck.
+[1 hours 21 minutes 24 seconds][Customer] : Yes, yes, yeah.
+[1 hours 21 minutes 27 seconds][Agent] : All right, lovely. Just got to recheck your full name and date of birth again. So I got your full name is Donna Randall, correct.
+[1 hours 21 minutes 32 seconds][Customer] : Yes.
+[1 hours 21 minutes 33 seconds][Agent] : And the date of birth is 15th of the 9th 1967 correct as well. And I got you the female and Australian resident, correct too lucky. So Donna, are you happy to proceed, yes or no? Thank you so much. So would you say we generally collect payment within the next 7 days when it's more suitable for you? Is it 14th of the 11th which I did selected for you then? And I'm going to read you the declaration. So it says thank you Donna Randall, it is important you understand the following information. I will ask for your agreement to this terms at the end and your policy will not be enforced unless you agree to this terms in full. Real income protection is issued by Hanover Life RE of Australasia Ltd home We will refer to as Hanover.
+[1 hours 21 minutes 36 seconds][Customer] : Yes, yes, yes, yes, yeah.
+[1 hours 22 minutes 17 seconds][Agent] : Hanover has an Hanover has an arrangement with Greenstone Financial Services whom I will refer to as GFS trading as real insurance. Hanover has an arrangement with Restaurant Financial Services, whom I will refer to as GFS Trading as real insurance. To issue an insurance on its behalf and about relies upon the information you have provided when accessing your application that that includes the information we initially collected from you to provide a code. Hanover has to target market determination for this product which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and it can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Donna, can you please confirm you have answered all of our questions in accordance with your duty, yes or no?
+[1 hours 23 minutes 12 seconds][Customer] : Yes.
+[1 hours 23 minutes 13 seconds][Agent] : Thank you. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover provides the following. The accepted cover provides the following insurance cover for donor rental, a monthly insured amount of $1283.00 with a waiting period of 30 days and a benefit period of UH and a benefit period of 24 months. The monthly income benefit payable in the event of a claim may be less than the monthly insured amount as your income benefit is limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffer your disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments from other sources. There is a final expenses benefit of $10,000 paid to your beneficiary if you pass away while your policy is in place.
+[1 hours 24 minutes 8 seconds][Customer] : Yep, Yep, Yep.
+[1 hours 24 minutes 24 seconds][Agent] : In addition to the standard exclusions contained within the PDF, the following exclusions apply for Donor Rental Income Protection benefit. No benefit will be pay. No benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or arising from Crohn's disease. By agreeing to this declaration, you agree to any non standard exclusions or loading placed on your policy and you understand they will remain in place for the life of the policy. You may request for any of these alternative terms to be reviewed at any time by calling us. Your cover expires on November 14th, 2032, 12:00 AM. Your premium for your first year of cover is $92.62 per fortnight.
+[1 hours 25 minutes 20 seconds][Customer] : MMM.
+[1 hours 25 minutes 14 seconds][Agent] : Your premium is a step premium, which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable by handover to GFS of between 37% and 51% to cover cost. Your premium will be debited from your nominated bank account in the name of Donna Randall which you are authorized today. The form and have provided to us the policy documentation, PDS and official will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should you should carefully consider this documents to ensure the product meets 2 needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lost a claim. There are risks associated with replacing policies as your new policy may not be identical. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can. We have a complaints process which you can access at any time by calling us. Full details are available online and in the documentation we are sending you. All right, do you? No. Then at last, final two questions is do you understand and agree with the declaration, yes or no?
+[1 hours 26 minutes 26 seconds][Customer] : Yep, yes.
+[1 hours 26 minutes 40 seconds][Agent] : And would you like any other information or would you like me to read any part of the PDS to you, yes or no? Thank you so much. All right, I've accepted the declaration on your behalf. If you've got a pen and paper, let me know.
+[1 hours 26 minutes 46 seconds][Customer] : No, hang on.
+[1 hours 26 minutes 58 seconds][Agent] : I'll give you the policy reference number in a short time. And the e-mail address wasjonahb482@gmail.com. Correct.
+[1 hours 27 minutes 6 seconds][Customer] : Yes, it was. Yeah.
+[1 hours 27 minutes 7 seconds][Agent] : Thank you.
+[1 hours 27 minutes 9 seconds][Customer] : Alright.
+[1 hours 27 minutes 12 seconds][Agent] : All right, my system is still loading. My apologies.
+[1 hours 27 minutes 10 seconds][Customer] : What's the?
+[1 hours 27 minutes 14 seconds][Agent] : As I said, I might need to go through another coffee to go through the day. All right, lovely, turn now.
+[1 hours 27 minutes 27 seconds][Customer] : Yep. Yep.
+[1 hours 27 minutes 21 seconds][Agent] : Your policy number is 1723 000319. You mind, do you mind to repeat the number back for me? Lovely? And then I can also find information about our premium instructor on our website too, if you need to go through the premium instructor.
+[1 hours 27 minutes 33 seconds][Customer] : 319 Lovely 723000319 Yep.
+[1 hours 27 minutes 49 seconds][Agent] : So Donna, what I'm going to do now is to help you with the beneficiary as you get, as you with the final expenses benefit. You can nominate your cousin, as you mention, who lives in Melbourne and she's the one who's going to receive the money if anything happens to you. OK.
+[1 hours 28 minutes 2 seconds][Customer] : Yeah, yeah.
+[1 hours 28 minutes 3 seconds][Agent] : But that's all done from my end. Donna, is there anything else I can assist you today?
+[1 hours 28 minutes 7 seconds][Customer] : No, that's been good. Thank you very much.
+[1 hours 28 minutes 10 seconds][Agent] : You're welcome. So now what I'm gonna do now, I'm gonna transfer you over to our support team, and they will help you to go through the beneficiary process of this policy. OK. Please hold the line one last time. Thank you.
+[1 hours 28 minutes 20 seconds][Customer] : Is it how much longer will it be?
+[1 hours 28 minutes 23 seconds][Agent] : Depending on their system, it beneficiary process, it doesn't take long. Since you have only one person to nominate, it should be.
+[1 hours 28 minutes 29 seconds][Customer] : Yeah, but I just don't have a new address. I've only got a phone number, that's all. So I don't if they want all those details. It's just I'm going to have to ring it tonight to get them, that's all.
+[1 hours 28 minutes 38 seconds][Agent] : OK, that's OK. If you don't have her details right now, it doesn't have to be at this spot.
+[1 hours 28 minutes 42 seconds][Customer] : Yeah, yes. Can you do that?
+[1 hours 28 minutes 42 seconds][Agent] : I can organize a call back for a later date and they will call you back. Yeah.
+[1 hours 28 minutes 45 seconds][Customer] : Cos if you can do it Tuesday, I've got Tuesday off.
+[1 hours 28 minutes 49 seconds][Agent] : OK. Perfect. What time?
+[1 hours 28 minutes 50 seconds][Customer] : I can get that organised then any time.
+[1 hours 28 minutes 52 seconds][Agent] : What time on Tuesday, Donna, Any part.
+[1 hours 28 minutes 55 seconds][Customer] : But just remember we're three hours behind.
+[1 hours 28 minutes 58 seconds][Agent] : Of course. Of course. Of course not.
+[1 hours 28 minutes 57 seconds][Customer] : You don't, don't ring me at 5:00 AM in the morning like some person did.
+[1 hours 29 minutes 2 seconds][Agent] : No. Oh, I'm just now.
+[1 hours 29 minutes 2 seconds][Customer] : I had a call from that and they go, oh, but it's 9:00 in the morning. I said no, it's not. It's 6:00 AM.
+[1 hours 29 minutes 9 seconds][Agent] : Oh, that's fine. Uh, no, of course not. I'll set a call back around, I'll say early in the morning, 9:00 or 10:00 AM. Would that be suitable?
+[1 hours 29 minutes 16 seconds][Customer] : Yeah, yeah, my time.
+[1 hours 29 minutes 17 seconds][Agent] : But your time, of course.
+[1 hours 29 minutes 18 seconds][Customer] : Or just put down WA time or something. Yeah. So they know.
+[1 hours 29 minutes 20 seconds][Agent] : Your time, of course, and your best contact number. Your best contact number is 0408699332, correct as well.
+[1 hours 29 minutes 27 seconds][Customer] : Yep, Yep.
+[1 hours 29 minutes 28 seconds][Agent] : Lovely, lovely. Thank you so much, Jenna, for your time today.
+[1 hours 29 minutes 32 seconds][Customer] : Thank you.
+[1 hours 29 minutes 32 seconds][Agent] : I said thank you for choosing real insurance. Have a lovely rest of the day.
+[1 hours 29 minutes 35 seconds][Customer] : You too.
+[1 hours 29 minutes 36 seconds][Agent] : Take care.
+[1 hours 29 minutes 36 seconds][Customer] : Lovely. Thank you. Bye. Bye.
+[1 hours 29 minutes 38 seconds][Agent] : Bye.

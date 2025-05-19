@@ -1,0 +1,29 @@
+[2 seconds][Agent] : Hi there, David, it's Andrew calling back from real Insurance. How are you?
+[1 seconds][Customer] : Hello, How you doing? Good mate? Good.
+[7 seconds][Agent] : Good to hear. But before I continue, Please note all that our calls are recorded and any advice that provides general in nature may not be suitable for your situation. And just like last time, can I please confirm your full name and your date of birth?
+[20 seconds][Customer] : Yeah.
+[24 seconds][Agent] : Perfect. And your e-mail?
+[20 seconds][Customer] : That's David Hodgson, 25th of the 5th 1986 david.h1986@live.co.uk.
+[30 seconds][Agent] : Yep. So just davidh1986@live.co. Sorry live.co.uk. Yep, perfect. Thank you. Alright, so yeah, the underwriters have come back. So just I'll pull it up for you now just because it's a new call. Have any of your health or lifestyle details changed? Yes or no? Thank you. Wouldn't thought, wouldn't have thought.
+[35 seconds][Customer] : Yeah, no, yeah.
+[49 seconds][Agent] : So between our members just ask, just get this not brought up and same same sort of question comes up here. Just says bear with me, all loads. Have any of your duties changed since we last yes or no?
+[1 minutes 4 seconds][Customer] : No.
+[1 minutes 5 seconds][Agent] : Thank you. Alright, bear with me now see what it says. So it's a little bit slow. OK, so the otherwise have come back and uh, it says this, so it says Mr. David Hobson, congratulations. Based on your referral information, your application has been approved with the following changes. So the following exclusion, sorry, exclusion apply has been applied. So no benefit will be payable for any disability condition, disease, disorder, treatment or complications related to or arising from mental health disorder or illness, stress, drug or alcohol abuse. OK.
+[2 minutes 10 seconds][Customer] : OK, that's fine.
+[2 minutes 11 seconds][Agent] : And do you accept and agree to the additional terms, yes or no?
+[2 minutes 11 seconds][Customer] : I accept. Yes.
+[2 minutes 16 seconds][Agent] : Yep, perfect. Thank you. So we'll just pop down to the first collection day is the 27th of December 2024 and then I will pop that in place for you now. OK.
+[2 minutes 25 seconds][Customer] : Yeah, OK.
+[2 minutes 26 seconds][Agent] : And of course, that's that additional exclusion. It was in regards to the information we refer to the underwriters surrounding the mental health section.
+[2 minutes 36 seconds][Customer] : Yeah.
+[2 minutes 35 seconds][Agent] : OK, Yep, perfect. I'll just accept that to you now. Won't be long, it's just loading. OK, that's all done. Yep. So your policy is now in place. So that's for this one now. So what we'll be doing is we'll pop you through to the income, sorry, to the customer care team or our support. So our support team will do this one and I'll help you cancel the other policy that you had prior to this one.
+[3 minutes 1 seconds][Customer] : OK, OK.
+[3 minutes 17 seconds][Agent] : So then that way this one's enforced with the, you know, 30 days cooling off. OK, perfect. That's not pulling up. We're waiting period.
+[3 minutes 28 seconds][Customer] : Yeah.
+[3 minutes 27 seconds][Agent] : So I should have said sorry, the 30 day waiting period. So I'm still put you on a short hold and I won't be too long. OK.
+[3 minutes 34 seconds][Customer] : OK. Thank you.
+[3 minutes 35 seconds][Agent] : Thanks mate. Hey there. Thanks much for holding for me.
+[6 minutes 37 seconds][Customer] : No worries.
+[6 minutes 37 seconds][Agent] : I've got actually told the line from our support team she can help assist you further within this inquiry.
+[6 minutes 42 seconds][Customer] : Great.
+[6 minutes 42 seconds][Agent] : And I've already confirmed, I've already confirmed his full name, date of birth and e-mail on this call. So go ahead when you're ready. Thank you. Thank you so much.

@@ -1,0 +1,98 @@
+[4 seconds][Customer] : Hello.
+[5 seconds][Agent] : Hello. Hi. Good afternoon. My name is Monica. I'm calling from Real Insurance. Am I speaking with Gerard?
+[12 seconds][Customer] : Yes, you are.
+[14 seconds][Agent] : Gerard, we're just giving you a call. We actually received your expression of interest for some of that funeral insurance. We're here to give you the price for that one.
+[20 seconds][Customer] : That was like 2 seconds ago. That was quick. Yeah.
+[23 seconds][Agent] : Yeah. So we do like to call while it's still, of course, fresh in your mind. That way we can go through the features and benefits with you, answer any questions you might have.
+[32 seconds][Customer] : Yep.
+[32 seconds][Agent] : Now, just to let you know that all of our calls are recorded. Any advice I provide? It's general in nature and may not be suitable to your situation.
+[41 seconds][Customer] : Mm, hmm.
+[41 seconds][Agent] : Can I confirm your details? I've got here Mr. Gerard Campbell.
+[45 seconds][Customer] : Mm, hmm.
+[46 seconds][Agent] : Perfect. And sorry, just clear. Yes or no responses. Gerard, for compliance, perfect date of birth is the 10th of December 1954. Excellent. And lastly, just confirming you're of course a male Australian resident.
+[51 seconds][Customer] : Yep, yes, yes.
+[1 minutes 4 seconds][Agent] : All right. Excellent. Thank you so much for that. Now, Gerard, I do just want to ask what really encouraged you to start looking at that funeral cover?
+[1 minutes 12 seconds][Customer] : Getting old.
+[1 minutes 14 seconds][Agent] : Not at all. Don't say that. Would this be the first time you've looked into it?
+[1 minutes 18 seconds][Customer] : Now my wife and I are just sitting here thinking, yeah, we're just thinking, we never done it and we don't want the kids to be burdened with it. So we just thought we'd look at it and see what, how much it is.
+[1 minutes 29 seconds][Agent] : Yeah, yeah, absolutely. So looking at a quote for yourself and your wife then?
+[1 minutes 34 seconds][Customer] : Yeah.
+[1 minutes 35 seconds][Agent] : Perfect.
+[1 minutes 35 seconds][Customer] : The two of us.
+[1 minutes 36 seconds][Agent] : Not a problem. Well, I'll get some of her details as well so we can get a joint quote. But firstly, from the quote request that I can see, are you looking at $10,000 each? Mm. Hmm.
+[1 minutes 48 seconds][Customer] : Umm, well, I don't know how much funerals are, to be honest. Umm, what? What? How much do they cost?
+[1 minutes 55 seconds][Agent] : Well, I've got some figures based on two different services.
+[2 minutes 3 seconds][Customer] : Mm, hmm.
+[1 minutes 59 seconds][Agent] : So according to the government's Money Smart website, Private Funerals, they typically cost somewhere in the region of $4000 for a basic cremation and it can go up to $15,000 for a more detailed burial service.
+[2 minutes 15 seconds][Customer] : Mm, hmm.
+[2 minutes 19 seconds][Agent] : I don't have that.
+[2 minutes 16 seconds][Customer] : What's the middle of the road one like if you wanna get buried? Is it cheaper to get buried? Does it?
+[2 minutes 21 seconds][Agent] : I don't have a middle of the road. No, no, it's it's generally cheaper to be cremated.
+[2 minutes 24 seconds][Customer] : Is it, umm, alright? It's the same cremation, yeah.
+[2 minutes 34 seconds][Agent] : I guess we can start at a $10,000 figure. It gives you an idea on how much it's going to be. And when we do get to the pricing, we can always adjust it because we do actually cover anywhere between 3000 up to $15,000.
+[2 minutes 48 seconds][Customer] : OK. And that's for the two of us.
+[2 minutes 50 seconds][Agent] : That'll be H yeah.
+[2 minutes 52 seconds][Customer] : Yeah.
+[2 minutes 54 seconds][Agent] : Let's get some of your wife's details, if you don't mind your ride. What was her first name?
+[2 minutes 53 seconds][Customer] : OK, Kathleen.
+[3 minutes 1 seconds][Agent] : Kathleen Lane, Same surname. And what's Kathleen's date of birth? 10, 101054. And just to confirm, she is a female Australian resident, right? Excellent. I'll pop her into the quote now. Now, what we'll do while everything's loading is I'll tell you a few key factors that we have in terms of waiting periods and a couple of things that you would need to know. But pretty much the way the cover's been designed is for the exact reason that you said you don't want the kids to be burdened. So it's giving you guys that Peace of Mind that there is going to be that financial protection available for them. And we pay it as a lump sum as well. Now, just so you are fully aware, for both yourself and Kathleen, for the 1st 12 months you will both be covered for accidental death and accidental serious injury only. And then after the first 12 months, you will both be covered for death due to any cause.
+[3 minutes 8 seconds][Customer] : 101054 Yes Mm hmm mm hmm mm hmm mm hmm mm hmm.
+[4 minutes][Agent] : Now the application process itself is very easy in the sense that there's no medical checks. You both have guaranteed acceptance just being Australian residents and being aged between 18 and 79.
+[4 minutes 13 seconds][Customer] : Mm hmm.
+[4 minutes 13 seconds][Agent] : Now, if death is due to an accident, we do actually triple what you're covered for. So that could be essentially a $30,000 payout instead of the original $10,000. So that's available throughout the life of the policy.
+[4 minutes 27 seconds][Customer] : Why is that?
+[4 minutes 29 seconds][Agent] : So with accidents there, you know, of course not planned. We have a triple benefit, I guess to help with the family in terms of any unpaid bills that are left behind.
+[4 minutes 38 seconds][Customer] : Mm Hmm. Mm hmm. OK.
+[4 minutes 38 seconds][Agent] : Anything that does need to be paid off straight away, you know, again, based on things like that not being planned, there's technically a second way that you can actually claim on the triple benefit. And how that one works is before the policy anniversary following either of your 75th birthdays.
+[5 minutes 5 seconds][Customer] : Mm hmm.
+[4 minutes 58 seconds][Agent] : If either of you did unfortunately suffer an accidental serious injury such as quadriplegia or paraplegia, that's when the benefit amount would triple.
+[5 minutes 14 seconds][Customer] : Mm hmm.
+[5 minutes 7 seconds][Agent] : And you can use that money towards any sort of income replacement, rehab costs, whatever you guys would need that for during that time.
+[5 minutes 15 seconds][Customer] : Mm hmm.
+[5 minutes 17 seconds][Agent] : Now other than of course being a funeral insurance, there is a terminal illness benefit included where after holding your policy for 12 months, if either of you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we'll pay that claim in full, again assisting you with things like your medical expenses during that time.
+[5 minutes 39 seconds][Customer] : Mm hmm.
+[5 minutes 40 seconds][Agent] : Now when we do discuss the pricing side of things, a couple of things to note. First of all, both of your premiums are level, which means they're actually designed to stay the same as you both get older.
+[5 minutes 52 seconds][Customer] : Mm hmm.
+[5 minutes 51 seconds][Agent] : So if you do keep the same level in place, there's no price increase. Now secondly, when you both reach the age of 85, your premiums will actually cease. So you'll stop the payments, but you'll still covered for the $10,000. Now additional to that, we do add 25% worth of bonus cover, we call it on top of what you're already covered for. That's available after the age of 85 as well. So you do end up having a little bit more coverage than what you initially took out. Any questions so far? Perfect. Well, let's go to the pricing side of things. So I will tell you the total premium, but I'll break it down for you as well. So to write for yourself, if you look at $10,000, the fortnightly premium is $41.21. Now it is the exact same for Kathleen, so fortnightly $41.21. So adding the two together, your fortnightly premium does end up being $82.42.
+[6 minutes 26 seconds][Customer] : No, OK.
+[6 minutes 56 seconds][Agent] : OK, That's the two. That's for the two of you combined, Yes. And that's $10,000 of cover each. How much is that one?
+[6 minutes 56 seconds][Customer] : That's the two of us, right? How much is that a month? So let's say.
+[7 minutes 5 seconds][Agent] : Yeah, I'll switch it over for you. Let's have a look.
+[7 minutes 7 seconds][Customer] : So your time, yeah, monthly will be fine. Yeah.
+[7 minutes 11 seconds][Agent] : Yeah. So separately, it would be $89.28 a month.
+[7 minutes 22 seconds][Customer] : 178 for the two of us.
+[7 minutes 16 seconds][Agent] : So combined, it would be $178.56 a month, 178 cents for the two of you. Correct.
+[7 minutes 26 seconds][Customer] : OK, Alright.
+[7 minutes 27 seconds][Agent] : How's that sounding so far?
+[7 minutes 29 seconds][Customer] : Sounds good. Yeah. Can you, can you send me the quote to my e-mail and then I can respond to that? Is that right?
+[7 minutes 35 seconds][Agent] : Yeah, yeah, you definitely can. There's a couple of options you've got. So we do send the quotes and a copy of the PDS to your e-mail and you can either call back or simply just reply to the e-mail. Otherwise, if you do think it's going to be a suitable amount for the two of you, we can actually get the $10,000 policy started with no upfront payments. It gives us a chance to actually send you the full policy documents so you can sit down and show Kathleen exactly what she's going to be covered for as well. What would you think would be be the more, I guess, suitable option for the two of you? Mm Hmm.
+[8 minutes 12 seconds][Customer] : Just say, well, that send it to me so we can look at the whole documentation and then we will get back to you.
+[8 minutes 17 seconds][Agent] : And then we will get back. Yeah, no problem. So what I'll do, I'll confirm your e-mail, which is GE campbell@9.com dot AU. G Campbell. MM hmm.
+[8 minutes 30 seconds][Customer] : It's G Campbell, just retired.
+[8 minutes 33 seconds][Agent] : G Campbell. Yep.
+[8 minutes 33 seconds][Customer] : G Campbell at MSN.
+[8 minutes 42 seconds][Agent] : N like Sally Mike. Yep.
+[8 minutes 38 seconds][Customer] : So it's MSN Mike, Sally, Mike and then media dot com dot AU.
+[8 minutes 48 seconds][Agent] : Then media Yep alright, no problems.
+[8 minutes 51 seconds][Customer] : So how did you get my Channel 9 e-mail? That's really weird.
+[8 minutes 54 seconds][Agent] : We had a previous inquiry from a few years ago.
+[8 minutes 58 seconds][Customer] : Oh, right. OK.
+[8 minutes 57 seconds][Agent] : Oh, right, yeah.
+[8 minutes 59 seconds][Customer] : Yeah, I just retired.
+[8 minutes 59 seconds][Agent] : So it must have been from that. That's OK, I'll update it for you. So what will happen in in the e-mail that I do send you, it's actually going to have a link to the policy. So this is another sort of option that you have. So it'll have a link to the policy schedule. You can go into the e-mail, review what we've discussed today, and when you're ready, you can actually activate the policy by clicking the buy now button.
+[9 minutes 26 seconds][Customer] : Yeah, that's what I want. Yeah. Something like that. That's good.
+[9 minutes 26 seconds][Agent] : So it just asks for, Yeah, just ask for a password, which is usually just your, your full date of birth. But just so you're aware as well, the cover does provide you with an early cash out option. So at any time after you reach 85 years of age, you can actually choose to end the cover. And we do end up paying you 75% of the insurance benefits. So that's just an optional extra that's been included.
+[9 minutes 57 seconds][Customer] : Yeah.
+[9 minutes 50 seconds][Agent] : But I'll send through this e-mail to you, Gerard, if I don't hear back from you by Tuesday, I'll call you back just to catch up with you, see if everything has gone OK. But for now, I'll send you through that e-mail with the quote and the policy schedule. OK.
+[10 minutes 4 seconds][Customer] : OK, brilliant.
+[10 minutes 6 seconds][Agent] : Brilliant. Perfect. Anything else I can help with for now?
+[10 minutes 9 seconds][Customer] : Yeah, that's fine. All good.
+[10 minutes 8 seconds][Agent] : Yeah, that's fine. Perfect. No worries.
+[10 minutes 12 seconds][Customer] : Thank you.
+[10 minutes 12 seconds][Agent] : Well, I've just sent that through. And I'll call you back on Tuesday if I don't hear from you.
+[10 minutes 17 seconds][Customer] : Thanks a lot.
+[10 minutes 16 seconds][Agent] : Thanks a lot. No worries at all.
+[10 minutes 18 seconds][Customer] : OK, thank you.
+[10 minutes 19 seconds][Agent] : Thank you. Bye.
+[10 minutes 20 seconds][Customer] : Bye.
+[10 minutes 20 seconds][Agent] : Bye.

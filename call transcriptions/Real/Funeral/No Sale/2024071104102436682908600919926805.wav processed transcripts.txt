@@ -1,0 +1,100 @@
+[16 seconds][Customer] : Jenny speaking.
+[18 seconds][Agent] : Jenny, was it?
+[19 seconds][Customer] : Yes, it is.
+[20 seconds][Agent] : Hi, my name is Ben. I'm calling from Real Insurance. How are you today?
+[23 seconds][Customer] : I'm very well. Thank you. Ben, how are you?
+[25 seconds][Agent] : Yeah, very well. Thank you. So the reason for my call, we received your special interest online in regards to the funeral insurance.
+[33 seconds][Customer] : Yes, my husband did that.
+[34 seconds][Agent] : I did. Yeah. That's that will be Steve. Yeah.
+[34 seconds][Customer] : Yes, yes, that's correct.
+[39 seconds][Agent] : Alright, so I can assist you further. May I have his full name and date of birth, please?
+[45 seconds][Customer] : Yes, it's Stephen with Aph.
+[49 seconds][Agent] : Yep, Yep, Yep. OK. And his date of birth.
+[51 seconds][Customer] : Sinclair, Sinclair, Murray, MU Double R AY the 5th of the 2nd 1964.
+[1 minutes 6 seconds][Agent] : Excellent. Alright. And Please note all our calls are recorded. Any advice I provide is generally in nature and may not be suitable to your situation.
+[1 minutes 16 seconds][Customer] : Right.
+[1 minutes 16 seconds][Agent] : OK, And can I confirm that Steve is an Australian resident? Excellent, thank you. Alright, yes, I'm just going to update his name. OK, so it was Stephen.
+[1 minutes 17 seconds][Customer] : Yeah, Yes, he is correct.
+[1 minutes 37 seconds][Agent] : All right, Mr.
+[1 minutes 39 seconds][Customer] : Yes.
+[1 minutes 39 seconds][Agent] : OK, All right, so I'll save that. All right, it won't be too long. All right, so I can have a better understanding of why you're looking into funeral insurance today. Are you new to it or you currently have, you know, some cover in place? Yeah.
+[1 minutes 57 seconds][Customer] : We don't have anything and we're getting older, so that's why.
+[2 minutes 1 seconds][Agent] : OK. No, that's definitely fair enough. Yeah.
+[2 minutes 2 seconds][Customer] : That's the reason.
+[2 minutes 4 seconds][Agent] : Yep.
+[2 minutes 4 seconds][Customer] : Yeah, that's the reason.
+[2 minutes 5 seconds][Agent] : Alright, what I'll do, I'll explain the main features and benefits and run through some options with you. OK, so our cover is designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away. They can use the funds not only for funeral expenses but also other final expenses like unpaid bills. You can nominate up to five beneficiaries to receive this benefit amount. And if death is due to an accident, your chosen benefit will triple OK.
+[2 minutes 26 seconds][Customer] : Yeah, right.
+[2 minutes 36 seconds][Agent] : In addition, before the policy anniversary following your 75th birthday, if you were to suffer an accidental serious injuries such as quadriplegia or paraplegia, the benefit amount will also triple.
+[2 minutes 35 seconds][Customer] : Yeah, OK.
+[2 minutes 49 seconds][Agent] : OK, it's easy to apply, there are no medical checks and acceptance is guaranteed if you're an Australian resident aged between 18 and 79.
+[2 minutes 58 seconds][Customer] : Right. OK, Yeah.
+[2 minutes 58 seconds][Agent] : Alright, so just so you know, for the 1st 12 months you'll be covered for accidental death and accidental serious injury. Only after the first 12 months you'll be covered for death due to any cause. In addition, there is a terminal ill illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with a 12 month or less to leave by medical practitioner, we will pay your claim in full to help you with things like medical expenses.
+[3 minutes 27 seconds][Customer] : OK.
+[3 minutes 26 seconds][Agent] : Alright, so you can choose between 3000 up to $15,000. And a couple of things to note, your premiums are level, which means they're designed to stay the same as you get older. And when you reach the age of 85, your premiums will cease. So you have nothing more to pay and you'll automatically, automatically receive a 25% bonus cover and this will be applied to your benefit amount. Any questions for me so far? No. OK, So your cover also provides you with an early cash out option. So anytime after you reach 85 years of age, you can choose to end your cover and we'll pay you 75% of the funeral insurance benefit.
+[3 minutes 53 seconds][Customer] : No, no, right.
+[4 minutes 10 seconds][Agent] : This also applies applies to your partner if you do have a joint plan there. OK, so let's go through some pricing together. As I mentioned, level of cover ranges from 3000 up to 15,000. All right, you can get yourself covered or yeah, like Steven as well.
+[4 minutes 15 seconds][Customer] : OK, yeah.
+[4 minutes 27 seconds][Agent] : OK, So what benefit did you want to actually, before I do that, I need an e-mail. Do you have an e-mail address at all?
+[4 minutes 35 seconds][Customer] : I do. It's J Jenny JA Double NI Murray. Yeah. All lowercase. yeah@outlook.com.
+[4 minutes 35 seconds][Agent] : Yep, Yep, MU double RAY at Outlook.com.
+[4 minutes 55 seconds][Customer] : Yes, yes, that's correct.
+[4 minutes 49 seconds][Agent] : All right, so Jenny, the JA double NIMU doublerayyeah@outlook.com Perfect. All right, So like I said, so it starts from 3000 up to $15,000. What sort of amount were you looking at?
+[5 minutes 12 seconds][Customer] : Oh, because I hadn't even thought about it.
+[5 minutes 17 seconds][Agent] : Yeah.
+[5 minutes 14 seconds][Customer] : Actually, I was out yesterday, Wednesday inquired.
+[5 minutes 21 seconds][Agent] : I thought it was somewhere in the middle.
+[5 minutes 23 seconds][Customer] : I was just gonna say that. Yeah.
+[5 minutes 24 seconds][Agent] : Yeah, Yeah. OK. Say, say if we start off, say about $8000.
+[5 minutes 30 seconds][Customer] : Yes.
+[5 minutes 31 seconds][Agent] : OK, So the premium per fortnight would be $37.22 a fortnight.
+[5 minutes 38 seconds][Customer] : What? Not OK. And is that? That's just covering one.
+[5 minutes 39 seconds][Agent] : Yeah, yeah, that's yeah.
+[5 minutes 43 seconds][Customer] : What would if we were to do it a couple?
+[5 minutes 44 seconds][Agent] : So that's just just yeah, most definitely. So that was just a statement. So what I'll do is I'll change it now to joint. I'll get some of your details. So what's your date of birth?
+[5 minutes 54 seconds][Customer] : Fifte. Oh yeah, My full Christian name is Janelle Jane.
+[5 minutes 59 seconds][Agent] : Yep.
+[5 minutes 59 seconds][Customer] : Double LE. Jenny's just shortly.
+[6 minutes 2 seconds][Agent] : OK. Yep.
+[6 minutes 5 seconds][Customer] : Double LE. Yep.
+[6 minutes 3 seconds][Agent] : So Jane double LE Yep.
+[6 minutes 7 seconds][Customer] : Middle name is Kay Kay Murray.
+[6 minutes 10 seconds][Agent] : And Murray MU double RAY.
+[6 minutes 12 seconds][Customer] : Yeah, correct.
+[6 minutes 14 seconds][Agent] : And your date of birth, 15th of April 1961. And you're female and Australian resident. Perfect. Alright. Here. And you're you're Steve's wife. Yeah. Perfect. So wife, let me say it's that and you're missus. Yeah, OK. Say that all right.
+[6 minutes 15 seconds][Customer] : 15th of the 4th, 1961 Yep Yes Yep, Yep, Yep, Yep, Yep, yeah.
+[6 minutes 49 seconds][Agent] : And say if we were to look around, say the $8000 mark for you there, all right, you would be looking at. All right. I'm just getting that up here now. All right. So yours would be $24.55 per fortnight. Alright. So total per fortnight for for the both of yous would be $61.77 a fortnight.
+[7 minutes 23 seconds][Customer] : Yes.
+[7 minutes 23 seconds][Agent] : And that covers you both for $8000 worth of funeral cover there.
+[7 minutes 25 seconds][Customer] : OK, OK, fine. OK.
+[7 minutes 27 seconds][Agent] : Yeah, yeah, yeah.
+[7 minutes 30 seconds][Customer] : And are you able to send this through to me to my e-mail?
+[7 minutes 33 seconds][Agent] : I, I, I definitely can. Yeah.
+[7 minutes 36 seconds][Customer] : OK.
+[7 minutes 37 seconds][Agent] : Now let me go back.
+[7 minutes 40 seconds][Customer] : Why am I keeping on the state? Because I'm younger. OK, Yeah.
+[7 minutes 40 seconds][Agent] : You want to have you're younger, Yeah, Yep, you're younger. So yeah, umm, what I'll do, I'll, I'll send that through, umm, get back here, make sure I've done all that right. So 8008 thousand. We can go lower, we can go higher, but I will send you those figures. All right?
+[8 minutes 2 seconds][Customer] : OK, that'll be great.
+[8 minutes 2 seconds][Agent] : And then, umm, yeah, you can have a chat with your husband.
+[8 minutes 6 seconds][Customer] : Yep.
+[8 minutes 6 seconds][Agent] : Did you want me to give you a call back, umm, in a couple of days once you've discussed that with him?
+[8 minutes 10 seconds][Customer] : Yeah, that'll be fine.
+[8 minutes 11 seconds][Agent] : Yeah, OK.
+[8 minutes 12 seconds][Customer] : That'll be fine. Yep.
+[8 minutes 13 seconds][Agent] : All right. I'm just going to confirm that e-mail address againsoitsjennymurrayjadoublenimudoubleray@outlook.com.
+[8 minutes 16 seconds][Customer] : Yes, yes.
+[8 minutes 22 seconds][Agent] : Yep.
+[8 minutes 22 seconds][Customer] : Yep, that's right.
+[8 minutes 23 seconds][Agent] : OK, no worries.
+[8 minutes 24 seconds][Customer] : Perfect.
+[8 minutes 24 seconds][Agent] : So I'll send you all that information now.
+[8 minutes 27 seconds][Customer] : Thank you.
+[8 minutes 27 seconds][Agent] : And so today's Tuesday. I'll give you a call. Say what? Thursday. Thursday.
+[8 minutes 32 seconds][Customer] : Yes, that would be fine.
+[8 minutes 33 seconds][Agent] : Yeah. OK. Thursday. About this time.
+[8 minutes 33 seconds][Customer] : Yep, Yep, Yep. That'll be perfect.
+[8 minutes 35 seconds][Agent] : OK, Perfect.
+[8 minutes 37 seconds][Customer] : Thank you so much, Ben.
+[8 minutes 38 seconds][Agent] : No worries, Jenny. All right, speak to you then.
+[8 minutes 39 seconds][Customer] : OK. Thanks for your call.
+[8 minutes 40 seconds][Agent] : Take care. Bye.

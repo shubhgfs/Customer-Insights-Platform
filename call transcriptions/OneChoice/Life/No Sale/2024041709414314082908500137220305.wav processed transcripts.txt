@@ -1,0 +1,352 @@
+[0 seconds][Agent] : Welcome to one Choice. Hello.
+[2 seconds][Customer] : Hi, how are you?
+[4 seconds][Agent] : Good. Thanks. How are you?
+[5 seconds][Customer] : I'm good thank you.
+[4 seconds][Agent] : That's good.
+[6 seconds][Customer] : I just have Patriot. She's looking to take out a funeral cover for her partner. She wanted to add him to this one that she's currently got but we're not able to.
+[18 seconds][Agent] : OK.
+[14 seconds][Customer] : So I gave her the option to even cancel replace it with a joint one, but she just wants to take out a 30K separate one for him.
+[22 seconds][Agent] : Not a worry at all. I'll be able to help. Thank you for that.
+[24 seconds][Customer] : That's all great. And I'll do warm transfer whenever you're ready.
+[27 seconds][Agent] : Yeah, I'm ready whenever you are.
+[29 seconds][Customer] : Thank you. Have a good day.
+[30 seconds][Agent] : You too. Thanks.
+[32 seconds][Customer] : Thanks so much for your patience there, Paige. I do have my colleague Aiden here on the line. You'll be able to assist you further. Have a good day. OK. Thank you so much. You too.
+[42 seconds][Agent] : Thank you. Hi. As mentioned, my name is Aden. I'm from Montrose. How you going? I'm good. Thank you.
+[47 seconds][Customer] : I'm good. Thank you. How are you today?
+[45 seconds][Agent] : How are you don't I'm doing very well also, thank you so much for asking. So my colleague actually did advise exactly what you required today. I'll be able to help you further on.
+[59 seconds][Customer] : OK.
+[58 seconds][Agent] : I just start off as been transferred through to me. All of our calls are recorded. Any advice I provide is limited to the products you offered assisting you to make a decision about whether they are suitable for your needs.
+[1 minutes 9 seconds][Customer] : Yeah.
+[1 minutes 7 seconds][Agent] : We do not consider your personal circumstances so they just confirming with you. So it's a funeral insurance on behalf of your husband you're looking to organise today.
+[1 minutes 17 seconds][Customer] : Hey can I just talk them on the phone? So it would just be a lot easier please with all the information first hand instead of me trying to remember everything.
+[1 minutes 25 seconds][Agent] : Whatever is best. No worries.
+[1 minutes 28 seconds][Customer] : Oh here he is.
+[1 minutes 30 seconds][Agent] : Hello. My name is Aiden. I'm from One Choice. How you going?
+[1 minutes 30 seconds][Customer] : Hello, I'm doing alright. How are you?
+[1 minutes 35 seconds][Agent] : Yeah, I'm doing very well. Also, thank you for asking. Just because you've been passed over the phone, just in case you didn't hear. So all of our calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. I'll collect some basic information from you. Please can I start by asking your first name, Ben. Thank you, Ben.
+[1 minutes 57 seconds][Customer] : It's Ben Street.
+[1 minutes 59 seconds][Agent] : And your surname, please, Ben straight so STRE double ET.
+[2 minutes 7 seconds][Customer] : That's correct.
+[2 minutes 7 seconds][Agent] : Thank you.
+[2 minutes 12 seconds][Customer] : It's 3rd of June 1996.
+[2 minutes 9 seconds][Agent] : And your date of birth, please 1996. OK, just give me one moment. I know you mentioned your name is Ben. If you can just confirm your first full name.
+[2 minutes 18 seconds][Customer] : Yeah, it's Benjamin.
+[2 minutes 28 seconds][Agent] : Thank you very much, Ben. All. I'm going to refer to you as that. No, but and confirming as well with you, Ben that you're a male New Zealand resident.
+[2 minutes 40 seconds][Customer] : That's correct.
+[2 minutes 41 seconds][Agent] : Thank you.
+[2 minutes 41 seconds][Customer] : I'm a citizen actually.
+[2 minutes 42 seconds][Agent] : A citizen. OK, well, like I and if you could just confirm just because we were originally speaking to Paige, you think of them. Which insurance are you looking for for yourself today?
+[2 minutes 53 seconds][Customer] : What? What are my options? I don't know a lot about this.
+[2 minutes 56 seconds][Agent] : I understand. Well, there's a life insurance and funeral insurance that we offer here at One Choice. Did you want to have a quick chat with Paige?
+[3 minutes 7 seconds][Customer] : Would definitely fingers, but probably both. I'm not SU sorry you're on speaker.
+[3 minutes 11 seconds][Agent] : Yeah, you're OK.
+[3 minutes 11 seconds][Customer] : I'm I'm not sure if he would qualify for life insurance because he's had brief intervention counseling and I know when I was applying for life insurance that if you have like mental health issues that you can't get it.
+[3 minutes 28 seconds][Agent] : I understand what you're saying and I'm so sorry to do this. Just part of my compliance as well. Ben, do you give me permission to speak to your page about your insurances as well?
+[3 minutes 38 seconds][Customer] : Yeah, absolutely.
+[3 minutes 39 seconds][Agent] : Thank you very much. Sorry, I just thought of my compliance. I have to ask. Thank you so much.
+[3 minutes 45 seconds][Customer] : Sorry.
+[3 minutes 44 seconds][Agent] : Umm, what was that? Sorry just got out.
+[3 minutes 45 seconds][Customer] : Right now, I used to work with a call centre. Trust me, I understand.
+[3 minutes 51 seconds][Agent] : Uh, you understand the time. So you had all your rules and regulations you had to follow every single day. So, so you definitely understand.
+[3 minutes 59 seconds][Customer] : Oh yeah, yeah.
+[4 minutes 1 seconds][Agent] : Oh, like so the only way I would be able to advise is if you're looking for the life insurance, there's some yes or no questions over the phone. It determines your eligibility for the cover. It's the only way I'll be really able to advise and if we can offer the cover and on what terms. So it's most likely up to you that then if you wanted to go through a process for the life insurance with the funeral insurance, it's guaranteed acceptance. So there's no medical checks, blood checks, nothing like that. Or you have to answer any questions about your health or your lifestyle. So it is guaranteed acceptance. That is something we're able offer. So what would you like to do?
+[4 minutes 19 seconds][Customer] : Yeah, yeah, I'll go. I'll check your life insurance as well isn't I'm checking it.
+[4 minutes 39 seconds][Agent] : Yeah, not a worry at all. Sorry. Just let me give you some quick, umm, facts about the life insurance. So this is designed to provide a lump sum payment to your loved ones in a very unfortunate case if you were to pass away. You can nominate up to five beneficiaries to receive that benefit amounts. And then they can also request an advance payout to $10,000 for with more of those immediate kind of expenses such as funeral calls, unpaid bills, things like that. Umm, as I mentioned, we do keep it nice and simple for you with the life insurance as well. There's just those yes or no questions over the phone. It sounds the pricing in terms of the policy. I'll grab up a personalized quote for this one. Do you have an e-mail address I can write down for you as well?
+[5 minutes 18 seconds][Customer] : Yeah, it is benst2021@gmail.com.
+[5 minutes 16 seconds][Agent] : Ben, I'm sorry, did you say is that gmail.com or Hotmail?
+[5 minutes 27 seconds][Customer] : Yeah, Gmail.
+[5 minutes 26 seconds][Agent] : Sorry, Gmail. OK. And a couple of quick questions for the quote. Have you had a cigarette in the last 12 months? Sorry, the line's just going a bit fuzzy there. Can you just say that I can what have you had a cigarette in the last 12 months?
+[5 minutes 37 seconds][Customer] : No, no, I haven't.
+[5 minutes 45 seconds][Agent] : So then, OK, fair to you that, by the way, very healthy lifestyle choice. And is your current annual income $50,000 or more?
+[5 minutes 57 seconds][Customer] : Sorry, I didn't quite catch that.
+[5 minutes 59 seconds][Agent] : That's OK. Is your current annual income $50,000 or more?
+[6 minutes 5 seconds][Customer] : How much would that be weekly? Because I know that.
+[6 minutes 7 seconds][Agent] : Good question because it's, it's very good question. Uh, give me one second. Oh, just 50,000, divide that by 52 would work out to be $961.
+[6 minutes 22 seconds][Customer] : Is that before tax arrive back? Yes, Yeah, I think it's 1040.
+[6 minutes 23 seconds][Agent] : Uh, that's before tax, OK, Because even to make it a bit easier for your, OK, there's even a little FYI advising you should be earning an annual income before tax consistent with that declared in your most recent tax return. So even basing on your most recent tax return, would you say it's $50,000 or more?
+[6 minutes 34 seconds][Customer] : Yeah, I believe so. Yeah.
+[6 minutes 49 seconds][Agent] : OK. Is it something you need to double check at all or?
+[6 minutes 51 seconds][Customer] : Yeah, clearly, no. But I'm, I'm averaging about $1000 before tax.
+[6 minutes 55 seconds][Agent] : Yeah, that $1000 before tax. Before tax, OK, not a worry at all then. Well, if it that's the case, because the again, it's approximately about $961.54 per week. So before tax to be earning that $50,000, umm, if you're earning any more than that, then it's $50,000 or more. So you're confident for me to answer a yes for this question?
+[6 minutes 59 seconds][Customer] : So yeah, I'll let's say 70% component, yeah.
+[7 minutes 26 seconds][Agent] : 70% I'm so sorry that it's very important. We do note this down correctly. Sorry, it won't impact the cover. Umm it it determines the amounts that we're able to offer for you.
+[7 minutes 44 seconds][Customer] : I can, I I'd have to. So I'd have to know it for the entire year when I had to go through the last 52 payslips.
+[7 minutes 37 seconds][Agent] : So is there any way you're able to double check if there's like a pay slip that you have or I have to I have to know if the entire year, but I have to Umm yeah, well, even if it's because are you on a salary or you like Commission base? Is it always different or is it the same weekly? It's so it's the same weekly. Yeah, sorry.
+[8 minutes 3 seconds][Customer] : Yeah. So yeah, my last one was 1047 before tax.
+[8 minutes 1 seconds][Agent] : My last home is 1 1047.
+[8 minutes 11 seconds][Customer] : That's yeah, yeah, I, I did less hours last week than I normally do so.
+[8 minutes 8 seconds][Agent] : OK, and that's per week that that's yeah, consists in each week because if I OK, are you on full time though? Or like, is that less?
+[8 minutes 24 seconds][Customer] : Oh, it was, it was less because of a miscalculation by the guide of my pay slip.
+[8 minutes 23 seconds][Agent] : Could it be less if you do less time or it was less because of a less regulation by divided? Oh, I'm sorry to hear that.
+[8 minutes 33 seconds][Customer] : I, I, I do, I, I do 40 hours. I got back to 39 so.
+[8 minutes 34 seconds][Agent] : I was always frustrated. Yeah. Oh, no, it's always quite frustrating because then you have to be the one to do all the chasing of and you have to have those soft conversations, though you didn't pay me correctly. So.
+[8 minutes 47 seconds][Customer] : I thought it was one paper, so it wasn't too bad.
+[8 minutes 47 seconds][Agent] : Yeah, Yeah, I, I am glad to hear that. Fine. Well, based on the figures that you gave me $1047 before tax per week, it would work out to be $54,444. Yeah. So based on that it's, umm are are you confident for me to answer a yes for that question for is your current annual income $50,000 or more?
+[9 minutes 13 seconds][Customer] : Yeah.
+[9 minutes 14 seconds][Agent] : OK. Thank you so much for confirming. So we can offer you coverage from minimum of $100,000 to a maximum of $2,000,000. Do you have an amount in mind that you feel like would be best? Yeah.
+[9 minutes 25 seconds][Customer] : Good Lord, I I've never even really looked into how much of A funeral costs or anything, so I don't really have a like a A-frame of reference. Do you have any recommendations?
+[9 minutes 37 seconds][Agent] : Uh, I can't give you any recommendations because I can't provide you with any advice. Umm, but you mentioned you're not too sure what's like the funeral cost cost. I can give you a bit of a breakdown. Umm, they've provided us some with some information. There was a research that was completed that's just provided some, umm, information for us that'll take you through this. So this is for a funeral. So standard funeral is a middle of the range funeral and typically includes essential services as well as flowers and the Chapel service. Research has shown that the average cost of a standard funeral in New Zealand is $9000, while the average cost of a standard cremation in New Zealand is $5000.
+[10 minutes 16 seconds][Customer] : OK, so probably. So if I choose say the minimum currently, does that mean I can't adjust that later on if I decide that I want more or?
+[10 minutes 20 seconds][Agent] : Yep, uh, you can apply to uh, you can apply to increase the amount up to the age of 70, subject to your eligibility at the time. Generally they'll just be an eligibility criteria that say for example, you're fully approved for say the $100,000. That means you would be approved for life. Nothing would ever impact that cover, it's just with applying to increase the higher amount. It's generally just an eligibility criteria you would need to go through.
+[10 minutes 49 seconds][Customer] : OK, well, we'll just get to the minimum now. I might change it later on depending on like my life's situations.
+[10 minutes 55 seconds][Agent] : Yeah, not a worry at all. If you are covered for $100,000, that's a fortnightly premium, $6.61 would work out to be $3, approximately $0.31 per week. How does that sound to you?
+[11 minutes 4 seconds][Customer] : OK, perfect. Thank you so much. Yep, that's perfect.
+[11 minutes 11 seconds][Agent] : Oh, good. Well, let's take you through those whole lifestyle questions. We'll determine your eligibility for the cover. I just need to note down your current home address there. Please. Can I start off by asking your current post code the four digits please?
+[11 minutes 26 seconds][Customer] : I will double check. Second no, but I will double check.
+[11 minutes 29 seconds][Agent] : That's all right. If you don't know, I'll just have you confirm your address, please.
+[11 minutes 33 seconds][Customer] : It is 7392.
+[11 minutes 36 seconds][Agent] : That's 7392. Thank you. And if I can also have you confirm the address and sub up please?
+[11 minutes 43 seconds][Customer] : We are in 18 Mountain View Rd. Mountain View is Warnwick and it's Cowderdon.
+[11 minutes 47 seconds][Agent] : Yep, 8IN Culberton and it's coming up with the sub of this Rd. 2. Is that correct?
+[11 minutes 54 seconds][Customer] : I believe so. I've never had to use it.
+[11 minutes 56 seconds][Agent] : You'll never have to use it. OK, Because, yeah, on the 7392, the post code it's providing is ID true, But I've got it as 18 Mountain Brew Rd. ID true, Culvedon 7392.
+[12 minutes 14 seconds][Customer] : Yeah.
+[12 minutes 14 seconds][Agent] : Is that all correct?
+[12 minutes 15 seconds][Customer] : Emily. Nowhere.
+[12 minutes 17 seconds][Agent] : Yeah. I don't know. Where are you? Oh, like I'm sure it's a lot more quiet though.
+[12 minutes 17 seconds][Customer] : Yeah, that's. Well, it's definitely quiet.
+[12 minutes 25 seconds][Agent] : Yeah, that would be really nice. Lovely. Because I'm actually from Sydney, Australia, so I don't know what the what that's like. The quietness. We're from the suburbs, so it's always very like loud and congested. So I would absolutely love that, to be honest.
+[12 minutes 25 seconds][Customer] : It's nice there. You actually have to come out sometime.
+[12 minutes 42 seconds][Agent] : Yeah, that's it. And then I'll confirm your home address. Is that the same as your postal address?
+[12 minutes 49 seconds][Customer] : That is correct.
+[12 minutes 50 seconds][Agent] : That's correct. All right, well, good. I'm just going to, uh, read a quick paragraph for you now, Ben, and this will let you know what to expect to the questions, what we expected you while completing this as well.
+[13 minutes 1 seconds][Customer] : Sounds good.
+[12 minutes 59 seconds][Agent] : OK, well, good. So rates, please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes issue covered other related services. We will share this with your insurer and make sure it's with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure. So before you enter into a life insurance contract, you have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect that decision. To ensure you and on what terms you do not need to tell the things that we already know or should know as an insurer or which reduces the risk. We insure you have this duty until the time we enter into the contract. If you fail to disclose a model, we make a false statement in answer to our questions. We may be able to decline a claim, impose new conditions on your policy or of which a policy entirely. So with a clear yes or no, can you please confirm? Do you understand this? OK so been with the questions again, they're very simple hold the lifestyle questions just require a clear yes or no for each question please. Besides your height and your weights, if you need me to clarify anything along the way you just let me know. They're OK.
+[14 minutes 6 seconds][Customer] : Yes, absolutely.
+[14 minutes 21 seconds][Agent] : First question you'd read is are you a citizen or permanent resident of New Zealand or Australia? Currently residing in New Zealand. Yes or no and part of my compliance also need to confirm your gender is male.
+[14 minutes 30 seconds][Customer] : Yes, that's correct.
+[14 minutes 37 seconds][Agent] : Thank you. Next section is a pre qualifying medical history. All right. Have you ever had symptoms all been diagnosed with or traded for or intend to seek medical advice for any of the following? First question with this one rate stroke or heart condition. Sorry, stroke or heart conditions such as we're not limited to heart murmur, heart attack and angina. Yes or no Sorry Ben. It's just been unclear again now, is that a yes or a no? Thank you. Lung disorder excluding asthma, sleep apnea or pneumonia? Cancer or leukaemia, excluding skin cancer? Yes or no. Anxiety, depression or stress requiring medical treatment or any other mental health disorder. OK, thank you so much for letting me know. Firstly, umm, in the last 10 years have you attempted suicide or been hospitalized for a mental health condition?
+[14 minutes 59 seconds][Customer] : No, no, it was, it was a no, no, no, yes, no.
+[15 minutes 41 seconds][Agent] : Is your condition or form of schizophrenia, bipolar or psychotic disorder?
+[15 minutes 48 seconds][Customer] : What is a psychotic disorder?
+[15 minutes 50 seconds][Agent] : I will rate a definition. Just give me one quick moment.
+[15 minutes 54 seconds][Customer] : That's what I want to meet you. I'm answering is correct after all.
+[15 minutes 56 seconds][Agent] : Yeah, yeah, most likely. I really appreciate you bringing that up. So here, give me one quick second. OK, so psychotic disorder or psychosis is a symptom or or feature of mental illness typically characterized by severe changes in personality, impaired day-to-day functioning, and a disoriented or nonexistent sense of reality. So that's what it has under our definition here.
+[16 minutes 35 seconds][Customer] : No, Yeah.
+[16 minutes 37 seconds][Agent] : So I, I just want, OK, I'll repeat the whole question. So it asks for is your condition a form of schizophrenia, bipolar or psychotic disorder? Is your condition anxiety? I'm sorry, depression, anxiety, post Natal depression or stress, including post traumatic stress disorder.
+[16 minutes 38 seconds][Customer] : Well, I'll put that in the no, no, this is in the last 10 years, isn't it?
+[17 minutes 2 seconds][Agent] : This is in general.
+[17 minutes 6 seconds][Customer] : I have experienced depression, yes.
+[17 minutes 3 seconds][Agent] : So your entire life, uh, I have, OK, Thank you very much for letting me know. And also there's just a few others here. I'll just get a yes or a No 4. So next one is asking for anorexia nervosa or bulimia, ADHD or ADD Sorry Bennett, cut out again. I'm so sorry.
+[17 minutes 20 seconds][Customer] : No, no, I don't.
+[17 minutes 31 seconds][Agent] : Thank you. Are the mental illness not listed here?
+[17 minutes 30 seconds][Customer] : That was a no, no.
+[17 minutes 38 seconds][Agent] : Is there anything you needed to double check with that at all?
+[17 minutes 42 seconds][Customer] : Hi. No, I just sent you a bit. No, no I don't.
+[17 minutes 44 seconds][Agent] : OK, no worries. Cool. So I've answered yes for, umm, depression as you mentioned here. So you're going to ask how many episodes have you had which required treatment? Uh, I.
+[17 minutes 57 seconds][Customer] : I took antidepressants for a year and a half, but I'm not currently medicated.
+[18 minutes 5 seconds][Agent] : OK. I do appreciate you letting me know. So it's for a year and a half, was that your first time using that medication or I'm taking any treatment in any any form?
+[18 minutes 17 seconds][Customer] : So for that year and a half I took I think 4 different varieties of antidepressants but none of them helped a great deal.
+[18 minutes 24 seconds][Agent] : OK, right. I see.
+[18 minutes 28 seconds][Customer] : Aside from that, I had counselling when I was in high school, but that was not medicated obviously.
+[18 minutes 33 seconds][Agent] : I see, because what I'll do just to clarify this question here, umm, I'll explain what it's referring to as an episode as part of this question. So an episode is an event, occurrence or reoccurrence of symptoms with increased severity from normal mood and usually require medical intervention, referral, treatment or alterations such adjustment to existing maintenance treatment. Treatment can take the form of medication and slash or counseling such therapy. Let me just provide some examples here. Uh, so first example is if someone has mental health symptoms that require treatment. This is an episode and they returned to their doctor several times to monitor the situation and special for repeat prescriptions. This is the same single episode. If, however, they have a re.
+[19 minutes 21 seconds][Customer] : In that case.
+[19 minutes 24 seconds][Agent] : There's just a couple more examples. I'll just explain just to make sure. Umm, If, however, they have a relapse or symptoms worsen and treatment needs to be changed or increase, increased, uh, then this constitutes a second episode. Similarly, if the applicant recovers and treatment stops and the applicant is fine, but at a later date symptoms return and they have to go back to the doctor to seek further advice, this would constitute uh, well, this would be a separate episode, yes.
+[19 minutes 55 seconds][Customer] : So to clarify, if I was given medication but it was not achieving the results and I changed my medication, is that still the same episode or is that a secondary episode?
+[20 minutes 8 seconds][Agent] : If this is, is it true to, umm, you're taking a different kind of medication because the symptoms worsened or all the symptoms went away and then they came down, for example, they were like a relapse of symptoms. Or is it just because I just want assisting at all?
+[20 minutes 28 seconds][Customer] : No, yeah, they were, they weren't. They weren't touching it the way they were designed to.
+[20 minutes 34 seconds][Agent] : Yeah, I get what you're saying. So it's all for the same, umm, time period. It's all for the same symptoms you're feeling all the way through. That's why it took four different medications or different times, Understand. Just trialing and finding out what's going to work best for you for the same, umm, symptoms and mental health condition you were going through at that point.
+[20 minutes 46 seconds][Customer] : Yeah, yeah, yeah. That's correct.
+[20 minutes 55 seconds][Agent] : All right, is it all right? I'm going to put you on a really short hold. I do want to make sure I am noting this down correctly. Umm, is it all right if I just pop you in a short hold and I'll just get some clarification on that?
+[21 minutes 7 seconds][Customer] : Absolutely.
+[21 minutes 7 seconds][Agent] : OK, I'll just do one quick moment. Thank you so much, ma'am. Thanks.
+[21 minutes 11 seconds][Customer] : No worries.
+[22 minutes 35 seconds][Agent] : And thank you so much for your patience.
+[22 minutes 38 seconds][Customer] : No, that's all.
+[22 minutes 39 seconds][Agent] : So based on what you've advised to me, I understand it was all for the same symptoms. It was all for the same condition that you had at that point with the four different types of medications. So what that would cause you to be a single episode that will be 1 episode. Umm you, you did mention to me back in high school, umm, that you also did require counseling if that was for something separate or if symptoms had stopped from high school to umm last year for example, when you mentioned to me that you had that medication that would constitute as a second episode umm.
+[23 minutes 13 seconds][Customer] : Mm hmm. So that was yeah, account.
+[23 minutes 12 seconds][Agent] : So to give you a breakdown or how, Right, Yeah, uh, what I was going to say, it's just to give you a bit of a breakdown. How this question is structured. It is asking you how many episodes have you had which required treatment? And it gives me a bit of a breakdown of, uh, one to two episodes, 3 to 4 episodes, five to six episodes or seven plus episodes. No worries at all. And have you had symptoms or treatment for this condition within the last six months?
+[23 minutes 33 seconds][Customer] : Let me want to Oh, I'm really bad at time. Let me think for a SEC.
+[23 minutes 49 seconds][Agent] : I'm the same.
+[23 minutes 52 seconds][Customer] : Oh God, the the days are longer, the years are short.
+[23 minutes 55 seconds][Agent] : Hmm. Mm. I could really realize that.
+[23 minutes 58 seconds][Customer] : I'm gonna say I don't go. I don't believe so, but I can't say it with confidence.
+[23 minutes 58 seconds][Agent] : Well, I didn't descend. What are you referring to? Would it be the symptoms or treatment? Treatment. OK, the reason I'll ask that there. Yes.
+[24 minutes 10 seconds][Customer] : It would be treatment because I I'm not meditative. I did go into a brief intervention counselling for the same background thing.
+[24 minutes 22 seconds][Agent] : Yep. OK.
+[24 minutes 22 seconds][Customer] : I just stopped taking my medication because of the adverse reactions I was having to it.
+[24 minutes 27 seconds][Agent] : I say, I say. So that's what you're referring to. You're just not too sure if that was within the last six months, if it was within or outside of six months.
+[24 minutes 34 seconds][Customer] : Yeah. Yeah, exactly.
+[24 minutes 35 seconds][Agent] : Is there any information that you have by any chance that may be able to advise a date or, and also a bit of a bit of a stretch, but yeah, that's OK. Then to be transparent with you, it's an important piece of information we need to note down. It could change the, umm, it could have impact if we're not answering this correctly. So in that regards, I'll place the application on hold. You mentioned you don't have it on hand. Is it something that you're able to find out at a later point, do you think?
+[24 minutes 44 seconds][Customer] : Not on, not on hand actually, I just get in touch with my GP because they were the ones that organised through Intervention Council.
+[25 minutes 14 seconds][Agent] : Perfect. Not a worry. Well, I'll give you some time to do that then I'll place the application on hold for now.
+[25 minutes 20 seconds][Customer] : Oh, OK.
+[25 minutes 20 seconds][Agent] : But what I'm able, Yes.
+[25 minutes 20 seconds][Customer] : My my partner says that she thinks it was last November, so that would be within six months.
+[25 minutes 27 seconds][Agent] : Yeah.
+[25 minutes 28 seconds][Customer] : Yeah, like October, November.
+[25 minutes 28 seconds][Agent] : Only thing is only thing that then I'm so sorry. I need to have you being confident with it. I understand that. I have a partner as well and I feel like she knows me better than I know myself. I really do understand that.
+[25 minutes 29 seconds][Customer] : But that's one of things where I can remember the last date I saw him, but I can't remember when the first date was, which is when it would go from because it'd be when it was started.
+[25 minutes 39 seconds][Agent] : But as part of the compliance and the questions and the rules that, yeah, well, it's awesome.
+[25 minutes 54 seconds][Customer] : Is that right?
+[25 minutes 55 seconds][Agent] : It's what it's awesome is if it was within the last six months. So yeah, that question.
+[26 minutes 1 seconds][Customer] : That's what I'm saying.
+[26 minutes 2 seconds][Agent] : Uh, yeah.
+[26 minutes 2 seconds][Customer] : I can't remem first session would have been months, but I need the last session. What?
+[26 minutes 9 seconds][Agent] : OK, well, even if you've had any treatment within the last six months, even if it was your last one, so we'll umm, answer a yes for this question. It's not referring to the time period from when your first one and then your last one.
+[26 minutes 7 seconds][Customer] : I'll tell you about the first session, if that makes sense, right? Yeah, in that case and that is it.
+[26 minutes 25 seconds][Agent] : OK, no worries at all.
+[26 minutes 24 seconds][Customer] : Yes, Cos it was just 4.
+[26 minutes 28 seconds][Agent] : OK, well, OK, because again, questions just asking have you had symptoms or treatment for this condition within the last six months? It would be a yes for this question.
+[26 minutes 37 seconds][Customer] : Yeah, sorry, I must have a surgery there.
+[26 minutes 36 seconds][Agent] : Then that's fine.
+[26 minutes 38 seconds][Customer] : Yep, that's exactly correct.
+[26 minutes 39 seconds][Agent] : No worries. I'm And next question asks, have you ever seriously contemplated or attempted suicide? Sorry again.
+[26 minutes 49 seconds][Customer] : No, that was a no.
+[26 minutes 55 seconds][Agent] : OK, thank you very much confirming. I would like to, uh, thank you as well with your honesty and your patience with these questions. I know these things are never easy to talk about, so I do really appreciate your patience for answering these. But let's move on to our next question.
+[27 minutes 7 seconds][Customer] : Where I always see it as, you know, if you've got accurate information, then you can give me accurate information.
+[27 minutes 8 seconds][Agent] : Yes, Yeah, you're 100% correct. Umm, well, like I that then. Well, let's move on to our next question. Sorry. The next question asks have you been diagnosed with a terminal illness, murder, neuron disease, any form of dementia including Alzheimer's disease, or been told by a doctor? Do you have a condition that will reduce the life expectancy?
+[27 minutes 33 seconds][Customer] : I have a birth defect in both knees which has caused arthritis which would in a long term in affect my quality of life but not my life expectancy.
+[27 minutes 38 seconds][Agent] : OK, OK, I understand. And I'm sorry to hear that. Hopefully that's not for a very, very long time, or hopefully that never happens to you.
+[27 minutes 49 seconds][Customer] : I've a I've already got arthritis.
+[27 minutes 52 seconds][Agent] : Right. OK, I'm so sorry to hear that.
+[27 minutes 56 seconds][Customer] : That's that's current.
+[27 minutes 56 seconds][Agent] : Hopefully it doesn't give you much problems at all.
+[28 minutes][Customer] : It's just part of life.
+[28 minutes 1 seconds][Agent] : Yeah, you could just get into it.
+[28 minutes 5 seconds][Customer] : I'm, I'm still working retail.
+[28 minutes 7 seconds][Agent] : Yeah.
+[28 minutes 7 seconds][Customer] : It's gonna get on with it.
+[28 minutes 7 seconds][Agent] : Well, are you on your feet much.
+[28 minutes 10 seconds][Customer] : Yeah.
+[28 minutes 11 seconds][Agent] : Wow, really.
+[28 minutes 11 seconds][Customer] : All day, Yeah.
+[28 minutes 13 seconds][Agent] : I've got my legs are fine and I sit down all day because I'm. I get sore Respect for you. I don't know how you do it.
+[28 minutes 22 seconds][Customer] : Stubbornness, mostly.
+[28 minutes 23 seconds][Agent] : Yes, that's it. And drive not like a note for an answer. All OK. Well, with this question, umm, it, it is asking regards for registered life expectancy. So in terms of quality of life, it is a bit of a different, umm, unless it's of course going to reduce your life expectancy. So I'll repeat the question for you again if I can just get another clue yes or no from you, please. So rates, uh, have you been diagnosed with a terminal illness, motor neurone disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy? In the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counseling for drug or alcohol consumption? The next section is in relation to your height and your weight. So please be aware that I am required to obtain a confidence single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or heights and weight ranges. May I ask you what is your exact heights? Any of the centimeters? All feet in inches, please. 6 foot. So 6 feet, 7 inches. That's correct.
+[29 minutes][Customer] : No, no, I'm 6 foot, Yeah.
+[29 minutes 37 seconds][Agent] : Thank you. And what is your exact heights? Any of the kilos, pans or stones please.
+[29 minutes 43 seconds][Customer] : No idea. I don't own scales.
+[29 minutes 45 seconds][Agent] : OK. Do you remember what it is from the last time you checked by any chance? Or?
+[29 minutes 50 seconds][Customer] : I have not been weighed in probably well over a year and I I can't remember it.
+[29 minutes 56 seconds][Agent] : Yeah, and I cannot just say I never blame yeah, I can never blame somebody for not knowing either their high or their plate. I haven't checked umm, since we lost in lockdown, umm, we just because I refuse to look at the number at the end of this gallon, just too afraid to see it to be 100% honest.
+[30 minutes 15 seconds][Customer] : Yeah.
+[30 minutes 13 seconds][Agent] : So that's why I never blame anybody for not 100% sure. So, umm, but of course going through a life insurance application that it's also important, umm, information I need to note down. So I'll have to note down the application on hold for now. Once you're able to find that out. Did you mention that you don't have scales?
+[30 minutes 34 seconds][Customer] : No, we don't even own scales.
+[30 minutes 36 seconds][Agent] : OK. Do you think is it something you're able to find out, like if you go to the chemist or you go to the doctors or the obtain a pair of scales, do you think that's something you're able to find out?
+[30 minutes 49 seconds][Customer] : I could probably just go and buy a pair. Yeah, it wo it won't be any time soon. That's the only thing, because I don't get into the city very often.
+[30 minutes 51 seconds][Agent] : OK, yeah, I see. If I mentioned your rural.
+[30 minutes 56 seconds][Customer] : I live in a far way out of the city. Yeah.
+[30 minutes 57 seconds][Agent] : Yeah, that's all right then. Well in the meanwhile though, because I can definitely see you see the values and benefits and having protection in place. There is a the funeral insurance cover where what we're able to offer for you it's going to acceptance by medical checks required at all. Is that something you would like me to explain for you?
+[31 minutes 15 seconds][Customer] : Yeah, absolutely.
+[31 minutes 16 seconds][Agent] : OK, no worries. Well with the funeral cover that provides a cash benefit of up to $30,000 to your loved ones in the very unfortunate case if you were to pass away. This doesn't need to be S specifically just to cover funeral costs. It can also be used for final expenses like unpaid bills as well. Umm, the first component you have included as part of a policy. It's an accidental death benefit. So firstly I'd just like to say touch with this never happens umm. But if death was due to an accident, your chosen benefit will triple.
+[31 minutes 45 seconds][Customer] : Mm, Hmm.
+[31 minutes 44 seconds][Agent] : So for example, you're entitled say 30,000. You pass away due to an accident. We provide $90,000 for your beneficiaries in that regards. Does that make sense?
+[31 minutes 54 seconds][Customer] : Yeah, absolutely.
+[31 minutes 54 seconds][Agent] : OK, it's also a living components, uh, that comes included. It's an accidental serious injury benefit, which means if you were to suffer an accidental serious injury before the policy anniversary following your 75th birthday, such as quadriplegia or paraplegia, the benefit and that will also be tripled and that thing gets provided directly to you.
+[32 minutes 15 seconds][Customer] : OK.
+[32 minutes 13 seconds][Agent] : Then it could be used to help with the, umm, medical support rehabilitation.
+[32 minutes 19 seconds][Customer] : Mm. Hmm.
+[32 minutes 18 seconds][Agent] : It would be a form of income replacement for them. Difficult times as well with this cover as I mentioned to you. So there's no medical checks. You don't need to answer any questions about your health, your lifestyle, are there any blood tests? Nothing like that at all. Acceptance is guaranteed.
+[32 minutes 39 seconds][Customer] : Yes.
+[32 minutes 34 seconds][Agent] : If you're a New Zealand resident aged between 18 and 79 that you are as we don't do any medical checks there, then for the 1st 12 months, you will be covered for accidental death and accidental serious injury only. So they're the two benefits I explained to you previously where it triples the amounts and then after the first 12 months you will be covered for death due to any cool. Is there. OK, there's another.
+[32 minutes 58 seconds][Customer] : OK, more more of a curiosity question. Does that cover things like natural disasters like earthquakes? I I'm just noticing Li light tapa is looking a bit active of light. I'm just curious about that.
+[33 minutes][Agent] : Yes, Sir, Yes, I understand yeah, unfortunately the, the questions, uh, we're asking at the moment in touch with nothing like that uh, ever happens to you, but I understand why you're asking it. Umm, in regards for like if you were to pass away as a result, for example, is that what you're more referring to?
+[33 minutes 31 seconds][Customer] : Yeah, yeah, just as of curiosity.
+[33 minutes 32 seconds][Agent] : Yeah, it would be covered. It would be covered. If it's a form of an accidental death, then yes, that is covered.
+[33 minutes 35 seconds][Customer] : OK, OK. I didn't know if a disaster would fall under accidental death. I was just curious.
+[33 minutes 40 seconds][Agent] : Uh, but if it's for example, yeah, no, it's a good point that you bring up. But again, because to raise your definition of what we're referring to when it comes to an accidental death, I'll just bring it up. Just give me one quick second. Our computer's been very slowly for me today.
+[34 minutes 3 seconds][Customer] : Oh yeah, I remember my computers.
+[34 minutes 5 seconds][Agent] : Yeah.
+[34 minutes 5 seconds][Customer] : They were atrocious.
+[34 minutes 7 seconds][Agent] : I feel like it's really helping me learn a lot about like how good it is to be patient though, because I used to be get like really frustrated with it. I've got really improved.
+[34 minutes 17 seconds][Customer] : It's a learning. It's a learning curve.
+[34 minutes 19 seconds][Agent] : Exactly right. So it's, it's not always bad. Just give me a second there. But again, that's computers for you, though, when you do need them to work that I'd like to give you a bit of trouble.
+[34 minutes 32 seconds][Customer] : Oh, absolutely.
+[34 minutes 29 seconds][Agent] : It's always the way so an accident with that. So this means death occurring as the direct result of an accident and where death occurs within 90 days of the accident. Umm, but again, then I want to make sure I am giving you all 100% accurate information to be transparent with you. I haven't actually had that question umm, before in regards to natural disasters. Umm, it I do believe it would be a form of an accident. I just want to be 100% sure to make sure I'm giving you all 100% accurate information. If it's all right with you, if I can just pop you one more really short hold and I'll just double check. Would that be OK with you? I really appreciate your patience. I would just be 1 moment.
+[34 minutes 54 seconds][Customer] : Yeah, absolutely, absolutely wonderful.
+[35 minutes 11 seconds][Agent] : Thanks. Thanks so much for holding again that then.
+[36 minutes 49 seconds][Customer] : No worries.
+[36 minutes 50 seconds][Agent] : Oh, OK, so I've got an answer for you so I'll rou I'm just going to read 1 of the definition of what we consider to be an accident. So accident means an event resulting in bodily injury occurring while the life insured is covered under this policy where the injury is directly and solely caused by an unintentional accident, violent external and visible means without any other contributing causes. And whether injuries not intentionally self-inflicted injury, uh, sorry, not intentionally self-inflicted. Umm, But an example that we have is if it's if due to a natural resource that meets that definition, then yes, it will be covered. But say, for example, if it was you, if it was a natural disaster, but then you had a heart attack as a result of that, then that's not going to be covered within the 1st 12 months, just for example.
+[37 minutes 32 seconds][Customer] : Yeah, that makes sense.
+[37 minutes 43 seconds][Agent] : Yeah.
+[37 minutes 44 seconds][Customer] : Yeah.
+[37 minutes 46 seconds][Agent] : Because again, umm, with the cover. So for the 1st 12 months, you will be covered for accidental death and accidental serious injury only. And then after the first 12 months, you will be covered for death due to any cause. So does that clarify that a bit better for you?
+[38 minutes][Customer] : Yeah, absolutely.
+[38 minutes 1 seconds][Agent] : Perfect. Umm, then there's going to be another living benefit where you can claim in your entire funeral insurance while you're still alive. So in addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we're going to pay the entire claim directly to you.
+[38 minutes 23 seconds][Customer] : OK, Yeah.
+[38 minutes 22 seconds][Agent] : It's designed to help with the medical costs and other expenses you may have at the time. Uh, so there's also going to be two options for you at the age of 85. I know you have many, many birthdays to celebrate before this point. So just so you do know though, umm, once you reach the age of 85, your premiums will cease. You will no longer have to pay any premiums beyond that point, but your funeral insurance is still going to continue. What's also going to happen is the 25% bonus cover will automatically be applied to your benefit amounts. Uh, or you have another option. We have an early cash out option, which means that any time after you reach 85 years of age, you may choose to end your cover and we would then pay you 75% of the funeral insurance benefit. So that's everything that will come included as part of the policy for you. Ben, do you have any questions so far at all?
+[39 minutes 14 seconds][Customer] : No, not at all.
+[39 minutes 15 seconds][Agent] : No worries at all. We'll, I'll go back some pricing for you now. So for the funeral insurance, you do have the options for minimum of $3000 to a maximum of $30,000. Do you have an amount in mind that you feel like would be best to be covered for under your funeral insurance? OK, so that's for the top cover 30,000. Again, in the case for accidental death or accidental serious injury, that triples to $90,000. That will come to a total fortnightly premium of $29.86, so works out to be $14.93 per week. Suddenly that top cover of the $30,000 behind with the premiums as well. Then your premiums are level, which means they are designed not to increase as you get older. How does that sound to you?
+[39 minutes 31 seconds][Customer] : 130,000 sounds perfect.
+[40 minutes 3 seconds][Agent] : Yeah, I'm glad to hear that. Umm, because with this cover, as I mentioned a few Times Now, it's guaranteed acceptance. You can be all organized in one phone call for yourself. So what I'm able to do for you now, Ben, I'm glad to hear this is sounding suitable for what you're looking for. We can have this policy organized for you commencing from today. We don't need to make any payments upfront. What that allows us to do for you is get all the tailored documents sent to your home address, have everything you need to know about your funeral insurance cover. And we're also going to be sending it to your e-mail up to the next 15 minutes time. So again, you can sit down, have a review every, everything while having that protection in place as well. Ah, while you then go over that information with your home address. Ah, the hard documents that sent. What you'll also find is a beneficiaries form that we just kindly ask you to fill that out for us, send that back to us, letting us say he would like to leave the funeral insurance to UMM, but can I please confirm, ah, you understand the cover we are setting up today is funeral cover and you are happy to proceed.
+[41 minutes 3 seconds][Customer] : Yes, absolutely.
+[41 minutes 4 seconds][Agent] : OK, no worries and you may pay more in total premiums over the life of the policy and then the benefit amount. Please be aware this insurance does not have a savings or investment elements. So if you cancel outside of the of the 30 days, your cover will stop and you will not receive anything back unless you are eligible for and choose the early cash back offer you. As I mentioned you don't need to make any payments up front there. Then you get to set your first payment ad in the future. How that works is we generally collect payment within the next 7 days, when in the next 7 days would be more suitable for you. Yeah, no worries. Did you wanted to do today or did you want it to do next Wednesday?
+[41 minutes 36 seconds][Customer] : TH I will say Wednesday is what is the best day we'll go in next Wednesday.
+[41 minutes 48 seconds][Agent] : No worries. So that will be the 15th of the 3rd 2023 and then every fortnight on the Wednesday for you. And then we can link this up through either a direct debit through an account number for a Visa or MasterCard. What would be best for you?
+[41 minutes 56 seconds][Customer] : Perfect direct debit.
+[42 minutes 5 seconds][Agent] : OK, I just need to note down the account number. I'm very happy to hold if you need some time to get the details off.
+[42 minutes 12 seconds][Customer] : So is that the account number as in like the bank account number or the account number as in why do I log into the banking?
+[42 minutes 19 seconds][Agent] : So it's actually the account number. We handle it all from our end. So you actually don't need to go to the bank and fill out any forms or anything like that. It's designed with simplicity in mind. We handle that all from our side, Yeah. So we just note down the account number and then it's automatically debits. Then every fortnight starting from the 15th of the 3rd, 2023, every fortnight on the Wednesday from there.
+[42 minutes 30 seconds][Customer] : All good, perfect.
+[42 minutes 45 seconds][Agent] : Yep, Yep, Yep.
+[42 minutes 43 seconds][Customer] : So it is 38 9002 0835 96902.
+[42 minutes 59 seconds][Agent] : Thank you. I just reconfirm that with you again.
+[43 minutes 8 seconds][Customer] : No, 083.
+[43 minutes 1 seconds][Agent] : So it's 3890028035969083. Sorry if I read that wrong. That's all I have of it. I'll repeat again.
+[43 minutes 17 seconds][Customer] : Yeah, yeah, yeah.
+[43 minutes 15 seconds][Agent] : So 389002083596902 thank you very much. And the account name, is it your full name?
+[43 minutes 24 seconds][Customer] : Go perfect. Yes, I can actually call them accessible funds.
+[43 minutes 32 seconds][Agent] : OK, what what is it called?
+[43 minutes 37 seconds][Customer] : Yeah, it's called accessible funds.
+[43 minutes 36 seconds][Agent] : Sorry, accessible funds. But is is the name under your sorry, is the account under your name OK?
+[43 minutes 46 seconds][Customer] : Yes, it's on the BD St.
+[43 minutes 48 seconds][Agent] : BD, St. OK and D is referring to a middle name I assume. OK, I'll just get to update that into the system in just a moment as well and I'll confirm with you. There's just a few questions I need to ask you and just require a clear yes or no for each please. Firstly, can I confirm you are authorised to debit from this direct debit accounts? OK. And are you happy to set up a direct debit authority without signing a form?
+[43 minutes 55 seconds][Customer] : Yes, yes, yes.
+[44 minutes 23 seconds][Agent] : Have you canceled a direct debit authority for one choice with Pinnacle license, the initiator in the last nine months? Do you have authority to operate this bank account alone and do not need to jointly authorize debits?
+[44 minutes 31 seconds][Customer] : No, Yes, that is correct.
+[44 minutes 40 seconds][Agent] : OK. And your greatest authority is subject to the terms and conditions that relate to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for one choice to direct debit this accounts in accordance with these terms and conditions, yes or no?
+[44 minutes 58 seconds][Customer] : That is correct.
+[45 minutes][Agent] : Thank you. OK And just update your middle name. What's your middle name please, Daniel. OK, And that's Dan i.e. Sorry, Dan i.e. L, that's correct.
+[44 minutes 59 seconds][Customer] : Yes, Daniel, Yes, that is correct.
+[45 minutes 19 seconds][Agent] : Perfect. I'll just make sure I have all your details here correctly. Then I'm going to read a final declaration for you. I'll ask for your understanding and your approval by the end. I know we'll be all completed for today. So your full name, Mr. Benjamin Daniel St. date of birth, third of the 6th, 1996. And you're a male New Zealand resident.
+[45 minutes 38 seconds][Customer] : That is correct.
+[45 minutes 39 seconds][Agent] : OK your home and your postal address, 18 Mountain View Rd. RD2, Culberton 7392.
+[45 minutes 48 seconds][Customer] : That is correct.
+[45 minutes 49 seconds][Agent] : Your best contact number O 272273424, OK. And your e-mail address, benstreet2021@gmail.com.
+[45 minutes 55 seconds][Customer] : Yeah, that is correct.
+[46 minutes 6 seconds][Agent] : Thank you. OK, let's just load up that final declaration for you. We'll have that all completed. And just in case as well, if you are placing an existing policy, we recommend that you cannot cancel that policy. And so you have reviewed this policy in full as it may not be identical to your existing cover.
+[46 minutes 23 seconds][Customer] : That makes good sense.
+[46 minutes 21 seconds][Agent] : Just making sure we've Co Yeah and then I just in case I didn't mention it's also in addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner that claims also paid in full. Umm, so final declaration now it does read. Thank you. Benjamin Daniel St. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be in force unless you agree to these terms in full. One choice funeral insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and then Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Funeral Insurance is suitable for your needs on the basis of the information you have provided to us. Sorry you provided to us about your general circumstances when providing this advice.
+[47 minutes 39 seconds][Customer] : None.
+[47 minutes 37 seconds][Agent] : We have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide with a clear yes or no. Can you please confirm that you understand and agree to this?
+[48 minutes 4 seconds][Customer] : Yes.
+[48 minutes 5 seconds][Agent] : Your answer to the application questions and any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with Pinnacle, our related companies, including those located in Australia, and may share it with other service providers for the purpose of administering your policy or handling claims. Our Privacy Policy, which can be accessed on our website, tells you more, including how to access and create your information. We may from time to time provide off this to you via the communication methods you have provided to us in relation to all the products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us or by using any unsubscribed facility on communications we send you. You have a great to tiger out. So you have a great to take out a single one choice you know insurance policy with the following cover. Benjamin Daniel St. is covered for $30,000 in the event of death. In the case where death is accidental or if you suffer a defined accidental serious injury, that benefit amount will triple in the 1st 12 months your policy is in force. A death benefit is paid only in the event of accidental deaths. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum of 75% of the chosen benefit amounts. If you take up this offer, you will no longer have a right to claim under the policy for that life insured. This policy does not have a savings or investment component. If cover ends prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off. If you choose to retain cover beyond age 85, you will be entitled to an additional 25% of bonus cover from that date and you would not be required to pay any further premiums after the life insurance 85th birthday. The bonus cover is not payable if you take the early cash out option. Cover for each life insured ends on the day prior prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point the total premium for the first year of cover is $29.86 per fortnight. And just before I read the next line up and just to make sure I mentioned as well as your premiums are level which means they are designed not to increase as you get older. Umm continuing on. So again, your total premium for the first year of coverage $29.86 per fortnight. Your premium is designed to stay the same year on year and will only change if you alter your cover or the insurer. Just the premium rates applying to your policy, you may pay more in premiums than the benefit amount over the life of the policy. Included in your premium is an amount payable to GFS of between 34% and 57% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. I Am Best has rated Pinnacle with AB financial Strength with an outlook of Sam and BB plus credit rating with an outlook of positive. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via mail and if you have provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key fact sheet which outlines key aspects of your cover and plain language. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GSS on 0800005804 or e-mail support@onechoice.co dot NZ. Two questions for you just require a clear yes or no please. Ah, do you understand and agree with the declaration? I've just read you. Would you like any other information about the insurance now or would you like me to read any part of the policy document to you? Sorry that then.
+[52 minutes 13 seconds][Customer] : Yes, no, that was a no.
+[52 minutes 27 seconds][Agent] : Thank you. Sorry. Just the line's just been a bit in and out every once in a while, but then as soon as you say it the second time, it's 100% clear.
+[52 minutes 36 seconds][Customer] : Gotta love live in rural.
+[52 minutes 35 seconds][Agent] : Not too sure what's going on there, but I appreciate your patience. Yeah.
+[52 minutes 39 seconds][Customer] : Not at all.
+[52 minutes 43 seconds][Agent] : Oh, have you?
+[52 minutes 40 seconds][Customer] : So I've heard myself this entire time echoing in the background.
+[52 minutes 44 seconds][Agent] : Oh, no, I don't know how you do it.
+[52 minutes 46 seconds][Customer] : But I I used to work in a call centre. I'm used to it.
+[52 minutes 48 seconds][Agent] : Yeah, I actually had that on one previous course. It happened to me one time, but I couldn't handle it. Just having your voice just repeat back at you the whole time and you didn't even flinch it all. You didn't even mention it once until now.
+[53 minutes 3 seconds][Customer] : That's 'cause I don't listen to myself. Survival now.
+[53 minutes 7 seconds][Agent] : You must like your voice as well, though.
+[53 minutes 12 seconds][Customer] : No, just tune myself out.
+[53 minutes 15 seconds][Agent] : Oh, like, I'm sorry about that. Umm, yeah, I'm not too sure what we can do from the outside. It's just it doesn't happen commonly at all. Like just living in rural just struggle with the the like the phone lines at all.
+[53 minutes 26 seconds][Customer] : Oh, this is my partner's phone, so I don't really know if it's something that she normally deals with, but I don't know my mind.
+[53 minutes 32 seconds][Agent] : OK, It's a common problem she's been having, has it?
+[53 minutes 32 seconds][Customer] : I can hear myself in the background, yeah.
+[53 minutes 42 seconds][Agent] : Oh, there you go. Well, we're at the end now. We've completed all that with you. One more thing I just wanted to double check with you then because after, you know, insurance, law enforce, we've sent it to, umm, you receive an e-mail up to 15 minutes and then your home address within about 5 to 10 working days. In regards for the life insurance now, uh, because we can still offer the life insurance, it's just been placed on hold for your exact flight. Was the life insurance something that you still want to double check your weight for to the remainder of the application process?
+[54 minutes 11 seconds][Customer] : Yeah, absolutely.
+[54 minutes 12 seconds][Agent] : Well, OK, you mentioned that you'll be obtaining a new Paris scales as to then check your way to understanding you don't really go to the city too much that rurally it's like I said day that usually go or is it something that you do once every couple of weeks just so I know when to organise a call back. I'd love to help you further.
+[54 minutes 29 seconds][Customer] : Probably, probably sometime next week.
+[54 minutes 33 seconds][Agent] : OK.
+[54 minutes 36 seconds][Customer] : So probably it's a yeah, that'd be perfect. Either Yeah, probably a week on Thursday.
+[54 minutes 33 seconds][Agent] : Do you think if I give a call in a weeks from today or no worries, OK, I'll schedule it for next Thursday then. Does this time usually suit you OK as well around 11:30, All good.
+[54 minutes 51 seconds][Customer] : Yeah, that's all.
+[54 minutes 53 seconds][Agent] : Well, if you did find out any earlier, you have any questions on those documents we're sending you through or have our number on that, please do reach out if you need absolutely anything.
+[55 minutes 4 seconds][Customer] : What's the contact number that you have for me again?
+[55 minutes 1 seconds][Agent] : OK, The contact number it's 0272273424.
+[55 minutes 13 seconds][Customer] : Perfect.
+[55 minutes 14 seconds][Agent] : Is that your phone number or is that pages phone number?
+[55 minutes 16 seconds][Customer] : Yep, that's that's my phone number. What's my phone number?
+[55 minutes 17 seconds][Agent] : That's your phone number or like I've done. All good. Well, I'll give you a call back next Thursday. Again, unless you need anything, please do reach out. Be more than happy to help you with the size up. And that's all been completed for you. Do you have any other questions for me? Anything else I can help you with for today?
+[55 minutes 33 seconds][Customer] : No, that's all for today. Thank you very much.
+[55 minutes 35 seconds][Agent] : Alright, OK. Well, I hope you enjoy the rest of your day. Great. Speaking to you.
+[55 minutes 39 seconds][Customer] : You have a good day.
+[55 minutes 40 seconds][Agent] : Thank you. Take care. Bye bye.
+[55 minutes 42 seconds][Customer] : Bye.

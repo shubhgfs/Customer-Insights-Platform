@@ -1,0 +1,456 @@
+[2 seconds][Agent] : Hi there.
+[2 seconds][Customer] : Hello.
+[2 seconds][Agent] : Badya. Hi, Badya. My name is Jane. I'm giving you a call from Real Insurance. How are you?
+[3 seconds][Customer] : Yes, I'm doing very good. How are you today?
+[6 seconds][Agent] : It's good. Very well, very well. Thank you for asking. I'm hoping that your husband, Mohammed, did let you know that I was going to give you a call today just to follow up for them. Ah, wonderful.
+[16 seconds][Customer] : Yes, yes, yes, absolutely. I was waiting for you.
+[20 seconds][Agent] : Ah, perfect. Thank you so much. I very much appreciate that.
+[22 seconds][Customer] : Most welcome.
+[22 seconds][Agent] : I just wanted to make sure you did know I was calling.
+[25 seconds][Customer] : No, no, that's OK. I know. I know already. I know. Thank you.
+[25 seconds][Agent] : But yeah, wonderful.
+[28 seconds][Customer] : Thank you very much.
+[28 seconds][Agent] : No, that's OK. Well, here to run through the life insurance for you about, you know how it covers you go through some amounts, make sure you're happy with everything safe, we can get you approved and then discuss the options that we do have available for you then.
+[41 seconds][Customer] : OK, no worries.
+[40 seconds][Agent] : OK, wonderful. What we'll need to do just Cos it's my first time speaking with yourself. I'll get you to confirm a few of your details. So just starting off with your name and date of birth. Mm Hmm.
+[51 seconds][Customer] : Yes, it's Bhagya in Bostati. Date of birth is 11th of December 1975.
+[1 minutes][Agent] : Perfect. Thank you very much. And then as well, just confirming that you are a female Australian resident, correct?
+[1 minutes 6 seconds][Customer] : Yes, absolutely.
+[1 minutes 6 seconds][Agent] : Yes, Perfect.
+[1 minutes 7 seconds][Customer] : Yes, I am a female and I have residence. Thank you.
+[1 minutes 9 seconds][Agent] : Yeah, very good. No, no, very good. All right, well, that is everything there now. I'd love to hear it. Oh, actually, sorry, just before I do get started, buddy, I'll let you know. Calls are recorded and any advice I provide is general in nature and may not be suitable to your situation, but I would love to know just from your perspective there, what has got you looking into the life insurance recently?
+[1 minutes 32 seconds][Customer] : Uh, first thing that's just for future, you know, to secure the future.
+[1 minutes 37 seconds][Agent] : Of course, of course.
+[1 minutes 37 seconds][Customer] : Honestly, you know, just is one of my worries with this inflation, you know, with those prices, with the, this life, with the change of, uh, of, you know, of everything around. That means that is the only thing I have in mind.
+[1 minutes 51 seconds][Agent] : Definitely. And look, you know, it's, I guess we don't like to admit a bit of, I suppose uncertainty and how the world is going unfortunately. So you know, having that sort of financial security more so Peace of Mind for ourselves definitely can help us sleep at night. So no, very understandable there too. Now I understand as well. Obviously if anything happened to you, you'd want to protect Muhammad, but also your two daughters there as well.
+[2 minutes 17 seconds][Customer] : Yes, absolutely. But I would like just for, you know, only one beneficiary, my husband.
+[2 minutes 23 seconds][Agent] : Of course, of course, you'll be able to arrange that. Essentially, once the policies are put in place, you get the documentation sent via e-mail as well as via post. And with the physical copies, there's an actual form that you can fill out signed and sent back to us.
+[2 minutes 37 seconds][Customer] : OK.
+[2 minutes 37 seconds][Agent] : Otherwise, it can just be done over the phone with our customer support team. So that way you can do it to your husband, he'll be able to distribute it as necessary there as well.
+[2 minutes 45 seconds][Customer] : Yes, yes, that sounds very good.
+[2 minutes 47 seconds][Agent] : Perfect. All right.
+[2 minutes 48 seconds][Customer] : Thank you.
+[2 minutes 48 seconds][Agent] : Now, uh, to start bringing the figures here now, uh, from the last time that I did chat to Mohammed and I believe that you were also inquiring on the level of the $1,000,000 of cover and, and did he run through the prices with to really show you the quote, discuss that as well.
+[3 minutes 4 seconds][Customer] : Yes, absolutely.
+[3 minutes 5 seconds][Agent] : Yeah.
+[3 minutes 5 seconds][Customer] : That means what I have in, in the in mind is, uh, is I need just, I need just a life insurance only, uh, I don't know, income protection.
+[3 minutes 17 seconds][Agent] : No, I don't know.
+[3 minutes 17 seconds][Customer] : Uh, as I said before, beneficiary, just my husband, I'm going just for $1 million. That means I would be happy with that.
+[3 minutes 18 seconds][Agent] : Yes, perfect.
+[3 minutes 25 seconds][Customer] : I'm running a small business, I make like a 50,000, you know, just a small business. Uh, you know, you know, sometimes we struggle sometimes more sometimes, but usually that's we, you know, around the 50,000. That means this is the only thing I am, uh, asking for.
+[3 minutes 28 seconds][Agent] : Yeah, no, that's OK. And that's exactly what we can accommodate today anyway because we, yeah, we had a look at $1,000,000 and that was working in at a price of $98.48 per fortnight.
+[3 minutes 52 seconds][Customer] : OK, OK.
+[3 minutes 54 seconds][Agent] : That works for you there.
+[3 minutes 56 seconds][Customer] : MMM. There is nothing less than that.
+[4 minutes][Agent] : We can look. So in order to make it cheaper, we do look at like a slightly lower level of cover because the things that the price is based off mainly is age at the time of application, gender, smoking status, but also going through the application, it can change things. So this is sort of the starting price that we're looking at. It may or may not change.
+[4 minutes 9 seconds][Customer] : OK, OK, OK.
+[4 minutes 19 seconds][Agent] : I can't guarantee that it will or won't.
+[4 minutes 22 seconds][Customer] : OK.
+[4 minutes 22 seconds][Agent] : But is that so? It's about works at about $50 a week. Is that something you deem would be affordable?
+[4 minutes 26 seconds][Customer] : Yes, that sounds amazing.
+[4 minutes 29 seconds][Agent] : OK, no. Perfect. Perfect. Well, we'll leave it at that level there. And as well just reconfirming, firstly, buddy, have you had a cigarette in the last 12 months? Yes or no? No, it's OK.
+[4 minutes 39 seconds][Customer] : OK, I'm sorry, I'm going to say something, but maybe I will look because usually people don't believe it. I never smoked in my life.
+[4 minutes 48 seconds][Agent] : Well done.
+[4 minutes 48 seconds][Customer] : I don't drink. I don't drink. I do a lot of exercise. I count my calories.
+[4 minutes 55 seconds][Agent] : Oh, very good.
+[4 minutes 53 seconds][Customer] : That mean I'm very, you know, I worry a lot about what I am eating, what I'm not doing. You know, that means I never try weeds or drugs or anything just to make it.
+[5 minutes 7 seconds][Agent] : I know, know, I know.
+[5 minutes 7 seconds][Customer] : I already told you I'm going to make what is.
+[5 minutes 10 seconds][Agent] : No, it's OK.
+[5 minutes 11 seconds][Customer] : I'm trying to be super clean woman.
+[5 minutes 14 seconds][Agent] : Very not very good and it's a very good way to be. But yes, that's OK. It's just a Parian compliance, that's all. That's just because we have a strict quality assurance. If it's OK, buddy, I'll just quickly confirm just for that question I asked just for the yes or no, if that's OK.
+[5 minutes 22 seconds][Customer] : OK, Yes.
+[5 minutes 30 seconds][Agent] : So just to confirm you haven't had a cigarette in the last 12 months?
+[5 minutes 33 seconds][Customer] : No, no.
+[5 minutes 34 seconds][Agent] : No, perfect. Thank you so much.
+[5 minutes 36 seconds][Customer] : You're welcome.
+[5 minutes 35 seconds][Agent] : It's just you're not from my end. I believe you, but from the quality assurance team. But very well done. I've only recently just started counting calories. I wanted to, you know, coming into the new year, wanted to start, you know, making changes for my health and just what, what I eat. And, you know, I, I never noticed before even, you know, how much sugar is in certain types of food and things that we think are small, but, but there's such, you know, high calories and it's scary to know what I've been eating for the past couple of years.
+[6 minutes][Customer] : Yes, yes, yes, yes, absolutely, absolutely.
+[6 minutes 6 seconds][Agent] : Umm, Oh, I know.
+[6 minutes 8 seconds][Customer] : Especially with the things going around that mean everything now, you know, all this processed food full of sugars, you know, full of preservatives, bad additives and stuff like that.
+[6 minutes 21 seconds][Agent] : Yeah, exactly.
+[6 minutes 21 seconds][Customer] : That means I I worry a lot about that.
+[6 minutes 24 seconds][Agent] : Definitely. I think as well for umm, you know, I guess the the next generation coming in and they're just, you know, eating all of these processes.
+[6 minutes 35 seconds][Customer] : Absolutely, absolutely Could on you could. On you.
+[6 minutes 32 seconds][Agent] : We don't know what the long term effects are, I guess, which is a little bit scary, but that's why, yeah, just trying to eat as clean as possible, you know, I suppose, or as raw as not raw, but you know what I mean, I guess the freshest way. But I thank you, buddy, and I hope, I wish more people would, you know, take notice and then just as well to confirm. I know we aren't looking any higher than $1,000,000, but it's just for the sake of the quote. I'll just confirm. Is your current annual income $50,000 or more, yes or no?
+[7 minutes 1 seconds][Customer] : Absolutely yes.
+[7 minutes 2 seconds][Agent] : Yes. Perfect.
+[7 minutes 2 seconds][Customer] : More yes.
+[7 minutes 3 seconds][Agent] : OK, very good. That's everything there. Alright, well, now that we've sorted that, I'll run you through how the policy works. And if you do have any questions, please just let me know. I'm more than happy to clarify for you.
+[7 minutes 14 seconds][Customer] : OK. OK. Thank you.
+[7 minutes 16 seconds][Agent] : No, that's OK. Now at the end of the day, the way the life insurance is designed, it's there of course, for that financial protection for your loved ones, which will be paid out as a lump sum payment if you pass away. So this can be used to pay off any outstanding debt that may be around.
+[7 minutes 27 seconds][Customer] : OK, OK.
+[7 minutes 31 seconds][Agent] : Otherwise, it's there just to, I suppose you know, be stable footing for your family moving forward into the next years of their life. Now, some of the things that are included within the life insurance, so death is the main thing that we are covering, but there's also something else that we provide and that is an advance payment of 80% of your chosen benefit amount up to a maximum of $20,000. So we send that out to your family in the early stages of the claims process to assist with any funeral costs or any other urgent bills during that time. OK.
+[8 minutes 5 seconds][Customer] : OK.
+[8 minutes 7 seconds][Agent] : The other thing that's provided this is also for your own protection, but there is a terminally ill advanced payment.
+[8 minutes 25 seconds][Customer] : Mm, hmm.
+[8 minutes 14 seconds][Agent] : And essentially what that means is if you are diagnosed as terminal in the future, given the criteria, I'll go into specifics a little more later, but if you are diagnosed as terminal, we can actually pay the full life insurance man out to you whilst you're alive.
+[8 minutes 29 seconds][Customer] : OK.
+[8 minutes 30 seconds][Agent] : OK.
+[8 minutes 29 seconds][Customer] : OK, that sounds good.
+[8 minutes 31 seconds][Agent] : So just additional protection in case, again, we're not planning on that happening.
+[8 minutes 38 seconds][Customer] : Oh, thank you.
+[8 minutes 34 seconds][Agent] : I hope you never suffer anything like that, but just in case, of course, Now when it comes to the beneficiary system, you are able to nominate up to five people. But in your case, it is just going to be your husband, very easy way of doing that and you can allocate 100% to him.
+[8 minutes 51 seconds][Customer] : OK.
+[8 minutes 52 seconds][Agent] : OK, now to wrap things up, we keep it nice and simple for you. Everything is done over the phone. There'll be no forms to fill in. There'll be no medical checks or blood tests to complete.
+[9 minutes 2 seconds][Customer] : Mm hmm.
+[9 minutes 1 seconds][Agent] : I'll simply just take you through some help and last up questions over the phone as that will determine the final pricing and the final terms of the policy there too.
+[9 minutes 10 seconds][Customer] : OK, no worries.
+[9 minutes 9 seconds][Agent] : OK, wonderful. Now I'll just check in as well. Was that lining up with what you're after? Was that sounding? Good for you there, buddy.
+[9 minutes 18 seconds][Customer] : I'm sorry. Can you just repeat the other question please?
+[9 minutes 20 seconds][Agent] : That's OK. So the features and benefits, what we've just been through the death terminal illness and a funeral advance payment. Is that sounding good for you or did you have any concerns or questions?
+[9 minutes 29 seconds][Customer] : No, no, no. It sounds amazing. Really. You are.
+[9 minutes 31 seconds][Agent] : OK.
+[9 minutes 31 seconds][Customer] : You are just, I'm gonna say explaining everything, you know, 1 by 1. I really appreciate it very much.
+[9 minutes 37 seconds][Agent] : Of course, of course, thank you very much. But I'm happy to hear that that works out for you there. The other thing, we'll get into the application in just a second, but one thing I'd like to let people know about is also the claims process because, you know, as person being insured, obviously, you know, we aren't here to see it ourselves, but just to kind of let you know of how that's going to work for your husband. So let's say you've got the cover in place, you know, many, many years down the track, something happens, you pass away.
+[10 minutes 2 seconds][Customer] : Mm, hmm.
+[10 minutes 2 seconds][Agent] : All he would have to do is give us a call.
+[10 minutes 4 seconds][Customer] : Mm hmm. Hmm. Mm.
+[10 minutes 4 seconds][Agent] : He'll then get assigned one of our claims and I'll work one-on-one with him not having to speak with a lot of different people.
+[10 minutes 18 seconds][Customer] : Mm hmm.
+[10 minutes 12 seconds][Agent] : Once we've received the documentation that we need in terms of something that certifies you've passed away as well as supporting identification documents, we get the ball rolling.
+[10 minutes 27 seconds][Customer] : Mm. Hmm.
+[10 minutes 22 seconds][Agent] : The process is started that funeral advance payment or the $20,000 that I mentioned that will be sent out in about one to two business days. So very, very quick turn around there and the rest of the life insurance now our standard payout time use the 70 day mark compared to the industry standard which is around that 80 day mark. So we do try and process it a little bit quicker than the rest there.
+[10 minutes 42 seconds][Customer] : OK, OK. OK. That sounds good.
+[10 minutes 46 seconds][Agent] : Wonderful. All right, well, what we'll do here, we'll fill out some of these other contacts details and then I'll take you through the application today there, buddy. It shouldn't take us that long. So I've got an e-mail address here. I believe I did confirm this with your husband, but I'd just like to make sure it's correct. cmnasia211@gmail.com.
+[11 minutes 5 seconds][Customer] : Yes, absolutely you do.
+[11 minutes 6 seconds][Agent] : Perfect. And then in terms of an address, we like to pop this down in case you get approved because that way we also send it out via post. But I'll just start with your post code first, please.
+[11 minutes 16 seconds][Customer] : OK, it's 4301.
+[11 minutes 15 seconds][Agent] : Barlia 01. And then what was the town of the suburb or town or something?
+[11 minutes 23 seconds][Customer] : It's Red Bank Plains.
+[11 minutes 24 seconds][Agent] : The bank, please. Wonderful. There we go. And then it's just the street number and street name.
+[11 minutes 24 seconds][Customer] : Red Bank Plains, Yes, OK, it's 211. That means 211. Hen. T hen. T is like Henry, but with T Hen Yeah, yeah. Henty Dr. Redbank Plains. That means 2111. Henty Dr. Absolutely. Yes.
+[11 minutes 38 seconds][Agent] : TR Henty Henty drive perfect perfect SO211 Henty drive in Redback Plains QLD 4301.
+[11 minutes 51 seconds][Customer] : Yes. Absolutely.
+[11 minutes 52 seconds][Agent] : Beautiful. And just to confirm, that's also where you get your mail delivered, correct?
+[11 minutes 57 seconds][Customer] : Yes. Absolutely. Mm Hmm.
+[11 minutes 57 seconds][Agent] : Yeah. Beautiful. OK, that's everything there. Now just while I'm loading up the application, I'll need to read out to you what's called a pre underwriting disclosure, OK?
+[12 minutes 7 seconds][Customer] : Mm Hmm.
+[12 minutes 7 seconds][Agent] : So it's a statement that makes you aware of your responsibility before answering your questions. And I'll confirm that you understand and agree before proceeding as well.
+[12 minutes 15 seconds][Customer] : Yes.
+[12 minutes 15 seconds][Agent] : OK, right.
+[12 minutes 15 seconds][Customer] : Yes, absolutely.
+[12 minutes 16 seconds][Agent] : OK. So it just says here. And as a reminder, of course, please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other Australian service providers for the purpose of administering your policy or handling claims.
+[12 minutes 39 seconds][Customer] : OK.
+[12 minutes 39 seconds][Agent] : Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy.
+[12 minutes 49 seconds][Customer] : Yes.
+[12 minutes 46 seconds][Agent] : By proceeding, you understand that you are applying to purchase a life insurance policy. As such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I asked you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had.
+[13 minutes 12 seconds][Customer] : OK.
+[13 minutes 11 seconds][Agent] : If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. So Bhatia, with that being said, I'll now just confirm.
+[13 minutes 27 seconds][Customer] : OK.
+[13 minutes 26 seconds][Agent] : Do you understand and agree to your duty? Yes or no? OK, very good. Now, these questions, keep in mind, it's very straightforward. I'll need to make sure that I read them out in full first. I'll then just ask you yes or no.
+[13 minutes 29 seconds][Customer] : Yes, yes, OK.
+[13 minutes 40 seconds][Agent] : You respond accordingly and we should move through. But if you need me to repeat a question or you're curious about something, let me know and I'll cover that for you as well.
+[13 minutes 47 seconds][Customer] : Thank you. Thank you.
+[13 minutes 48 seconds][Agent] : No, of course. All right, so starting off the 1st is confirming, have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no? No, Very good. And are you a citizen or permanent resident of Australia or a citizen of New Zealand currently residing in Australia, Yes or no?
+[14 minutes][Customer] : No, Yes.
+[14 minutes 12 seconds][Agent] : Yes, very good. And the next section here is a short pre qualifying medical history section. So the way it will work, there's a main question that I'll read out to you and then a list of different health conditions that we'll go through.
+[14 minutes 25 seconds][Customer] : OK.
+[14 minutes 24 seconds][Agent] : OK, so it asks, have you ever had symptoms of being diagnosed with or treated for or intends to seek medical advice for any of the following? Firstly, starting off with stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina. Yes or no. Very good. Lung disorder excluding asthma, sleep apnea or pneumonia, Yes or no. No cancer, leukemia or Melanoma, excluding other skin cancer, yes or no. No kidney disorder, yes or no. No Hepatitis or any disorder of the liver. Yes or no?
+[14 minutes 25 seconds][Customer] : No, No, No, no, no, no.
+[15 minutes 6 seconds][Agent] : That's good. Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no? No. And have you been diagnosed with or currently undergoing testing for or has a doctor advised tested for motor neurone disease or any form of dementia including Alzheimer's disease? Yes or no? Oh, very good. OK, well done so far there, Badya. The next section here, it's in relation to your height and weight. So in order to move forward, we'll just need to make sure that we capture a confident single figure measurement for each one.
+[15 minutes 13 seconds][Customer] : No, no, OK.
+[15 minutes 39 seconds][Agent] : So starting off first, either using centimeters or feet and inches, what is your exact height? Or if you remember the last time you checked, what would it be?
+[15 minutes 48 seconds][Customer] : It's 001 meter. 61.
+[15 minutes 51 seconds][Agent] : 161 centimeters?
+[15 minutes 53 seconds][Customer] : Yes, yes.
+[15 minutes 53 seconds][Agent] : Yes, perfect. And using either kilograms, pounds or stones if you know your exact weight. Or again, the last time you checked, what would it be?
+[16 minutes 1 seconds][Customer] : The last, the last time it was 68.
+[16 minutes 5 seconds][Agent] : 68 kilograms. Correct.
+[16 minutes 7 seconds][Customer] : Yes, 68.
+[16 minutes 9 seconds][Agent] : Beautiful. OK, that's that there. And then the next one's asking, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? Yes or no? Very good. All right, moving on to the next section here. This one's asking does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore? Yes or no, thank goodness, of course a bit too dangerous. If it would be OK, very good. And then the next one here, it's just asking to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Yes or no, Very good. And you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months, yes or no?
+[16 minutes 20 seconds][Customer] : No, no, no, yes.
+[17 minutes 7 seconds][Agent] : Yes, beautiful. Where are you planning on visiting? Oh wow, very very cool. Oh, how long have you been living uh, in Australia?
+[17 minutes 10 seconds][Customer] : Uh, I'm go, I'm going to to visit my dad Morocco because I'm originally in Moroccan Yes, yes, I'm here for 17 years.
+[17 minutes 24 seconds][Agent] : Wow. And enjoying it of course I imagine, but umm family very important.
+[17 minutes 27 seconds][Customer] : Yes, yes, yes, absolutely.
+[17 minutes 29 seconds][Agent] : So making sure, do you often go beautiful?
+[17 minutes 31 seconds][Customer] : But uh, yes, it's uh, you know, like every two years or uh, you know, as you know, the ticket is a little bit expensive or $3000 to get there. You know, This is why you have to make it, yes.
+[17 minutes 39 seconds][Agent] : Oh, it is a bit ridiculous, of course.
+[17 minutes 44 seconds][Customer] : Just say, you know, once in two years or three years, something like that, I spend one month and I come back.
+[17 minutes 49 seconds][Agent] : Yeah, well, I'm having a look because I know I've heard of Morocco, of course, but just trying to have a look whereabouts it is on the map. Umm, let's have a look here. I always get curious. I love travel, uh, and looking overseas. Would you recommend traveling to Morocco?
+[18 minutes 2 seconds][Customer] : That sounds good. I will. I am from the north north its very close to Spain.
+[18 minutes 15 seconds][Agent] : Oh, wow.
+[18 minutes 14 seconds][Customer] : That means there is just a fast ferry and you are already in Spain and its amazing. But it will be very nice to to go to Marrakesh.
+[18 minutes 19 seconds][Agent] : OK, OK.
+[18 minutes 24 seconds][Customer] : It's beautiful.
+[18 minutes 25 seconds][Agent] : Yeah, yeah.
+[18 minutes 25 seconds][Customer] : There is another city shower that is that they call it the blue city is all the blue color.
+[18 minutes 32 seconds][Agent] : Oh, wow.
+[18 minutes 32 seconds][Customer] : And those ones are Agadir. Those four ones, they are the best ones.
+[18 minutes 37 seconds][Agent] : OK. And I'll take your word for it. I can see Marrakech there because I've been, I've traveled to Spain. So I was very close at one point, but just not in Morocco. But no, I because I've I've had Moroccan food as well before. Beautiful, I'll say.
+[18 minutes 44 seconds][Customer] : OK, OK, thank you.
+[18 minutes 53 seconds][Agent] : But yes, I've been to Spain. So I should have just traveled just a little bit down and gone there. Oh, Casablanca, is it the capital?
+[18 minutes 58 seconds][Customer] : Yeah, the the yes is the capital, but that is like New York.
+[19 minutes 4 seconds][Agent] : Oh.
+[19 minutes 2 seconds][Customer] : That means if you don't want buildings or something like that, you don't you don't go there because it's all happening on the business on the, the, the money. That means just is like New York.
+[19 minutes 9 seconds][Agent] : OK, Culture.
+[19 minutes 13 seconds][Customer] : But if you want something like historical, you know, culture, go to Marrakesh. You know, I'm, I'm just, uh, you know, I'm afraid if you go there, you're gonna keep all, they just decide to stay there. That is beautiful.
+[19 minutes 17 seconds][Agent] : Yeah, I probably would.
+[19 minutes 27 seconds][Customer] : But it's very hot for me. You know, it's very, but it's very hot in summer, very cold in winter, very hot in summer. But I am from the north that, uh, you know, the, the, the weather is just, uh, I'm gonna say, you know, beautiful, very nice.
+[19 minutes 31 seconds][Agent] : Yeah, of course.
+[19 minutes 41 seconds][Customer] : Not hot, not Mediterranean is beautiful.
+[19 minutes 43 seconds][Agent] : Yes. Yes. No. Perfect.
+[19 minutes 45 seconds][Customer] : And This is why the, the, the people of North, we are famous that we speak different languages, not just one.
+[19 minutes 51 seconds][Agent] : Oh, OK, very interesting. I'll have to look into it a lot more, but I might have to add that onto my list to travel to I because, you know, everyone goes to the same countries, they always visit, you know, whether they go Japan or America or this and that. I want to try and travel to different, you know, not as common countries, I suppose.
+[19 minutes 54 seconds][Customer] : Yes, yes, yeah. It's a, it's a, I'm sorry. It's a long drive, a long, a long flight. It's, uh, it's 14 hours. Then you have to change again, you know, another flight.
+[20 minutes 17 seconds][Agent] : Oh, that's fine. That's so fine.
+[20 minutes 17 seconds][Customer] : Uh, yes, but it's, it's long, but worth it, believe me, worth it.
+[20 minutes 22 seconds][Agent] : I was gonna say it would it sounds like it would be worth it Very good.
+[20 minutes 25 seconds][Customer] : Yes. You would like it.
+[20 minutes 26 seconds][Agent] : Umm, but no, I very much appreciate uh, your advice there buddy. I'll definitely take your word for it. I'm gonna look into it once I get home.
+[20 minutes 32 seconds][Customer] : Mm hmm.
+[20 minutes 31 seconds][Agent] : I think umm we more so as well. Just double checking in case it is uh considered a more dangerous country. Morocco isn't on the list. That's fine.
+[20 minutes 40 seconds][Customer] : Yes.
+[20 minutes 40 seconds][Agent] : Umm, perfect. And then we'll just pop in No there. And will you be overseas for longer than three consecutive months? No, perfect.
+[20 minutes 48 seconds][Customer] : No, no, no, just one last the the the longer one because I have a business, I have to come back and I have family here. I cannot stay there longer.
+[20 minutes 53 seconds][Agent] : Of course, of course that's no, that's perfectly fine.
+[20 minutes 58 seconds][Customer] : Yes.
+[20 minutes 58 seconds][Agent] : And keep in mind too, buddy, it is a worldwide cover 24/7. So even if you're outside the country, you'll still be protected. Same as usual there.
+[21 minutes 4 seconds][Customer] : OK, OK, that sounds good. Sounds good.
+[21 minutes 5 seconds][Agent] : OK, beautiful.
+[21 minutes 7 seconds][Customer] : Thank you.
+[21 minutes 8 seconds][Agent] : No, that's OK. Now the next one here, it's just confirming. Do you have existing life insurance policies with other life insurance companies with a combined total sum of short of more than $5 million?
+[21 minutes 15 seconds][Customer] : No, no, no. I, I you are, you are the first one. No, not that.
+[21 minutes 22 seconds][Agent] : The first and only 9.
+[21 minutes 23 seconds][Customer] : Yes.
+[21 minutes 23 seconds][Agent] : That's OK beautiful. All right. And then up to the main medical history section here.
+[21 minutes 32 seconds][Customer] : Mm, Hmm.
+[21 minutes 29 seconds][Agent] : So again, the way this works, it'll be the exact same as just before the main question I'll ask and then list of different conditions.
+[21 minutes 35 seconds][Customer] : OK.
+[21 minutes 35 seconds][Agent] : So just confirming, have you ever had symptoms of, been diagnosed with or treated for, or intends to seek medical advice for any of the following starting off with diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose.
+[21 minutes 51 seconds][Customer] : No, no one. No, I have cholesterol.
+[21 minutes 50 seconds][Agent] : So no, no, very good chest pain, high cholesterol or high blood pressure, yes or no cholesterol. We'll capture that under this section. That's perfectly fine. So just to confirm, buddy, it's not chest pain and not high blood pressure. No, perfect. Just the cholesterol.
+[22 minutes 5 seconds][Customer] : No, no, no, no, just normal cholesterol. Yes, yes.
+[22 minutes 9 seconds][Agent] : Yeah, that's OK. So we'll pop it under high cholesterol. And then have you ever had a cholesterol blood test with a result greater than or equal to 7 millimoles per litre? Yes or no?
+[22 minutes 21 seconds][Customer] : This one is a tricky question and, uh, can you just repeat that please? Uh, because I am doing a blood test, uh, like when I go to the GP, she asked me for a cholesterol. She said I have just a normal one because sometimes, you know, I know I am very, you know, very worried about calories.
+[22 minutes 26 seconds][Agent] : Yeah, of course, that's OK. So well, did your doctor say that you have high cholesterol or normal?
+[22 minutes 39 seconds][Customer] : But sometimes when I see a doughnut I just melt like a butter, you know, just a normal, just a normal 1, yes.
+[22 minutes 52 seconds][Agent] : Oh, so, so normal cholesterol, not high cholesterol. Oh, OK. In that case barrier. That's why I just wrote briefly. Well, so that's what I was going to say.
+[22 minutes 56 seconds][Customer] : Now there is any difference there that make a difference there, but I am having capsules if you want just to know that mean yes, yes.
+[23 minutes 3 seconds][Agent] : If your cholesterol, I guess you're on medication, yes, OK, that's OK. We'll make sure we cover this here.
+[23 minutes 17 seconds][Customer] : Mm hmm.
+[23 minutes 13 seconds][Agent] : So the first question that I'm asking about the cholesterol, it's just talking about your results that you would have received. It asks have you ever had a cholesterol blood test with the results that's come back that was greater than or equal to 7.0 millimoles per litre, which is the reading values to measure your cholesterol levels. So is it either equal to or greater than 7 millimoles per litre? No, that's OK.
+[23 minutes 41 seconds][Customer] : I don't remember because I don't, I want to be honest with you and I want to give you, you know, uh, I want to be honest. I want to give you, you know, right, uh, questions. But all I know that I don't remember, but, uh, all I know if you want, I can give you even the name of the, the, the one I am having. It's uh, you know, would you like to give you the name?
+[23 minutes 51 seconds][Agent] : Well no, I was going to say if you are unsure barrier that's OK because I can answer. Don't know which is fine and it brings down further drop down questions which will be OK. So the next one just confirms have you been advised to take or are you taking medication? Yes or no? Yes, perfect. And then the next one asked, was this treatment first prescribed within the last three months? Yes or no?
+[24 minutes 6 seconds][Customer] : Uh, OK, OK, yes, OK, OK, OK, yes, I am taking yes, yes, yes.
+[24 minutes 29 seconds][Agent] : OK. But if I may ask to double check, how long ago did you start the medication body? 06 or nine months, OK.
+[24 minutes 35 seconds][Customer] : I did stand like I think six or nine month, yes.
+[24 minutes 40 seconds][Agent] : So outside of that's OK. In that case to this question that I just asked, we can answer no, because it's only asking if it started within the last three months. So that's alright. Yeah, that's OK. And then do you know what your cholesterol reading was when it was last checked?
+[24 minutes 48 seconds][Customer] : Ah, OK, OK, OK, that's good. MMM no, I told her my bad, sorry. She was talking those and she was saying those words in, you just know, you know, core language and, uh, she said your culture is not bad. You can just stop the, you know, eating those stuff and it will just slow down. That means not something, uh, very dangerous or something, something that you can just fix it with the food and drinks and stuff like that.
+[25 minutes 20 seconds][Agent] : Right. OK. To make it because I know obviously going through these applications a fair bit easier anyway, you would be able to like somehow call them up and just double check and see if you can get your results for what it was when it was last checked because it will make the application a lot easier and be able to kind of carry on in the same way. I know it's tricky getting in touch with the doctors, but if you are able to get that reading, it will make it, I suppose, much easier for you, if that's OK.
+[25 minutes 47 seconds][Customer] : OK, no worries.
+[25 minutes 48 seconds][Agent] : Yeah. So I'll make sure I'll leave that little question on hold, but we'll carry on with the rest of the main questions in this section. And then do you think you'll be able to get in touch with them today?
+[25 minutes 48 seconds][Customer] : OK, OK, OK, OK Today. Yeah, I, I would because you have to make appointment and usually they are super busy.
+[26 minutes 10 seconds][Agent] : Erotica.
+[26 minutes 5 seconds][Customer] : That's usually if I want to make appointment, usually I make appointment like Monday example and then they they see me Saturday because they are super busy and sometimes I have to wait for a long time, you know, but I will see what I can do. I will see what I can do.
+[26 minutes 11 seconds][Agent] : Oh yeah, I was going to say, even if maybe you can call them and just say, hey, am I able to get my, you know what my result was for my cholesterol just in the measurement, if they can give that. And then that way you just relay that to me and let me know and I can pop that in the system. But I'll make sure I'll leave a note for that one there. That's OK.
+[26 minutes 26 seconds][Customer] : OK, OK, OK.
+[26 minutes 34 seconds][Agent] : Now the next main question, just asking anything in relation to tumour, mole or cysts, including skin cancer or sunspots. Yes or no? No, Very good. Have you ever had an abnormal cervical smear?
+[26 minutes 42 seconds][Customer] : No, no, no, no.
+[26 minutes 47 seconds][Agent] : Yes or no Thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no Very good. Disorder of the stomach, bowel, gallbladder or pancreas. Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Very good. Any illegal drug use, abuse of prescription medication, or received medical advice or counselling for alcohol consumption. Very good. Bladder or urinary tract disorder, blood disorder or disease, and then sleep apnea or asthma, excluding childhood asthma.
+[26 minutes 54 seconds][Customer] : No, no, no, no, no, no, no, no, no, no.
+[27 minutes 28 seconds][Agent] : No, very good. OK, that completes this big section here. But we'll have to wait until we get the cholesterol reading just in order to carry on because I know if we do answer, you don't know what your cholesterol reading was when it was last checked. It will give a certain outcome to the application that I don't believe will line up for what you're after. So I want to make sure we get the best outcome for you, of course.
+[27 minutes 47 seconds][Customer] : As as, as I remember the last time the doctor she said the normal cholesterol have to be I think 3 or 4 yes. And and she, she told me well she give me the the the capsules. She told me that you have, I think I had, I think 6/6 or 6.5 something like that. And then she said yes, yes, that it was the, the, the highest one. And but when I start having the capsule, she said that she did check my my blood because she's asking me every time I go.
+[28 minutes 9 seconds][Agent] : 6.5 Yep.
+[28 minutes 20 seconds][Customer] : She asked me for blood test and then she said just keep using the medication because the medication is working fantastic. And did you drop very, very good and just try to keep away from the stuff that they make the, the culture just higher, You know?
+[28 minutes 36 seconds][Agent] : Yeah. No.
+[28 minutes 36 seconds][Customer] : And she did ask me what I am doing to make it high then, because I have to, to, to be honest, I am addicted to the chocolate. I love chocolate.
+[28 minutes 44 seconds][Agent] : Me too. Me too.
+[28 minutes 43 seconds][Customer] : And my God, you know, when I see chocolate, I cannot resist start calling me and I say I leave the world and I go there. That's it. I am addicted to it. I'm sorry. That is the truth.
+[28 minutes 56 seconds][Agent] : I've, no, I understand, I understand. I, I tried to move to dark chocolate just to kind of make it a little bit better, but I love the taste of dark chocolate as well.
+[29 minutes 4 seconds][Customer] : Yeah, yeah.
+[29 minutes 4 seconds][Agent] : Umm, but uh, with that being said, so, uh, because she has obviously mentioned some figures there. Do you happen to, you know, remember what it would have been last time that was checked about it? So was it 6.5 last time it was checked?
+[29 minutes 18 seconds][Customer] : No, when before she gave me the, the the medication, it was six O 6.5. She told me is is that is a little bit higher.
+[29 minutes 27 seconds][Agent] : Oh, yeah.
+[29 minutes 26 seconds][Customer] : But when she gave me the, the, the, the medication, she said that's drop to to I think to four or 4.5 something like that. She told me just keep using the medication. And so for the next time that mean we do that and we see, but she said that I am doing the she can see the result that I'm taking the the the you know, the the capsule and is working fantastic. Let me if you want, just if that is helping for the application.
+[29 minutes 53 seconds][Agent] : No, no. OK. If I may ask, so just back then when you said the six and 6.5, that was when you first tested it, correct?
+[30 minutes][Customer] : Yes, yes, that each other. Thanks. Six months or something 9 or something like that. But after that, when I come back, she checked again and she told me just keep doing what are you doing is fantastic. Mm, hmm.
+[30 minutes 12 seconds][Agent] : Yeah, I was going to say in that case barrier, because you've just mentioned that to me.
+[30 minutes 17 seconds][Customer] : Mm hmm.
+[30 minutes 16 seconds][Agent] : Now that first question that I asked where it was asking if it was greater than or equal to 7 millimoles per litre, from what you've told me there, it would be below.
+[30 minutes 23 seconds][Customer] : MMM, Yes. Yes.
+[30 minutes 27 seconds][Agent] : So I want to double check. I know you have told me this, but I always like to make sure I do things the right way there.
+[30 minutes 32 seconds][Customer] : OK. Yes.
+[30 minutes 32 seconds][Agent] : Can I quickly double check with my manager that's on at the moment and just to see if I can look, that's acceptable, just to pop through just to double check.
+[30 minutes 39 seconds][Customer] : OK, OK. No worries.
+[30 minutes 40 seconds][Agent] : Yeah. Oh, wonderful.
+[30 minutes 40 seconds][Customer] : OK, OK.
+[30 minutes 41 seconds][Agent] : Thank you. But I'll be back with you in just a minute. Thank you.
+[30 minutes 43 seconds][Customer] : Don't worry. Just take your time.
+[30 minutes 44 seconds][Agent] : Thank you.
+[30 minutes 45 seconds][Customer] : Thank you.
+[32 minutes 33 seconds][Agent] : Thank you so much for your patience there, Badia. OK.
+[32 minutes 35 seconds][Customer] : That's OK. You, you are amazing honestly, for what you are doing. You know, they should just, you know, they should put you the, the, the, you know, chip manager there or something. Really. You are, you know, talking to you is very comfortable, you know, and you know you are very good in what you are doing really.
+[32 minutes 46 seconds][Agent] : Oh, thank you, thank you. But I very much appreciate they're very kind words. I'll let my manager know and umm, perfect.
+[33 minutes 7 seconds][Customer] : Yes. Mm Hmm.
+[33 minutes 2 seconds][Agent] : Uh, now, uh, with this question here, now that you have told me, umm, so just to confirm, the highest that it was ever recorded, uh, a maximum of 6.5 millimolts, would that be correct?
+[33 minutes 14 seconds][Customer] : Yes.
+[33 minutes 14 seconds][Agent] : Yes.
+[33 minutes 14 seconds][Customer] : Yes.
+[33 minutes 15 seconds][Agent] : OK.
+[33 minutes 18 seconds][Customer] : Mm Hmm.
+[33 minutes 15 seconds][Agent] : Because then that means the first question that I asked just to go back was asking if it was ever more than or equal to 7 millimolts.
+[33 minutes 26 seconds][Customer] : Hmm. Mm.
+[33 minutes 23 seconds][Agent] : But now that you've confirmed that the highest you've ever reached was 6.5, we can actually answer no to that question, which means we now don't have to answer any other cholesterol questions. OK.
+[33 minutes 29 seconds][Customer] : OK, that sounds good.
+[33 minutes 34 seconds][Agent] : And it's good to see that it's on track, which means we can carry on with the rest of the application there. So it's very, very good stuff.
+[33 minutes 40 seconds][Customer] : Thank you.
+[33 minutes 40 seconds][Agent] : I'm glad we're able to navigate that as well. And then just to confirm, I believe I did answer it, but the sleep apnea or asthma, there was nothing in relation there excluding childhood asthma, No. Perfect. All right, that's that section there. Wonderful. All right. And the next health question part here for you is asking other than what you have already told me about. So anything new that we haven't covered yet in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Yes or no?
+[33 minutes 49 seconds][Customer] : No, no, no, no.
+[34 minutes 11 seconds][Agent] : All right.
+[34 minutes 13 seconds][Customer] : I'm a very healthy person.
+[34 minutes 13 seconds][Agent] : And no, I know, I know very good. It's a good way to be. And then just to confirm as well, are you awaiting results for any medical tests or investigations? Also just if I can finish this one, such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy, yes or no?
+[34 minutes 23 seconds][Customer] : No, OK, no.
+[34 minutes 33 seconds][Agent] : Beautiful. OK, thank you so much barrier.
+[34 minutes 39 seconds][Customer] : Mm hmm.
+[34 minutes 35 seconds][Agent] : The next question, it's just asking, other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[34 minutes 45 seconds][Customer] : No. OK.
+[34 minutes 46 seconds][Agent] : Perfect. All right, And that is all of your health questions out of the way.
+[34 minutes 51 seconds][Customer] : Mm hmm.
+[34 minutes 49 seconds][Agent] : We only have 3 left total and the next two are just about your family history.
+[34 minutes 54 seconds][Customer] : Mm Hmm. Mm Hmm.
+[34 minutes 54 seconds][Agent] : So it will only be to the best of your knowledge, of course, asking have any of your immediate family meaning only mother, father, brother or sister, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or familial abdomatis polyposis? Yes or no?
+[35 minutes 13 seconds][Customer] : No.
+[35 minutes 13 seconds][Agent] : Very good. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to the age of 60 or before the age of 60? Yes or no?
+[35 minutes 27 seconds][Customer] : No.
+[35 minutes 27 seconds][Agent] : No, very good. OK, the last question I've got for you today, Badya, this is basically how much space thrill seeker you are. So other than one off events like a gift certificate or a voucher, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognised airline, Motor racing, parachuting, mountaineering, AB sailor scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity? Yes or no? No, thank goodness. Uh, no, that's OK.
+[35 minutes 57 seconds][Customer] : No, I I don't have, I don't have even Australian driver license because here you drive in another side that make me different.
+[36 minutes 12 seconds][Agent] : Uh, is it opposite side?
+[36 minutes 5 seconds][Customer] : I have the Australian, I have driver license, but you know the I have the European and the Moroccan, but I don't have the Australian because you drive in another side. You make me confused.
+[36 minutes 13 seconds][Agent] : Uh, yes, oh, I know.
+[36 minutes 20 seconds][Customer] : Yes, yeah.
+[36 minutes 18 seconds][Agent] : I can imagine, I can imagine driven overseas yet, but I imagine it would be a very scary, uh, and different experience. Umm, so no, that's OK. Umm, but just to confirm, that was a that question that I asked. It was a no response, correct.
+[36 minutes 25 seconds][Customer] : Yes, yes, absolutely.
+[36 minutes 32 seconds][Agent] : Yeah, perfect. Thank you so much. Yeah, a bit too dangerous. All those things, uh, not my cup of tea.
+[36 minutes 36 seconds][Customer] : OK.
+[36 minutes 35 seconds][Agent] : Uh, OK. Well, that is the application completed there.
+[36 minutes 41 seconds][Customer] : Thank you.
+[36 minutes 39 seconds][Agent] : I very much appreciate going through that with me and I'm loading it up here and perfect. OK. I'm sure you can imagine being in such great health and looking after yourself there, buddy. A big congratulations.
+[36 minutes 50 seconds][Customer] : Thank you very much.
+[36 minutes 50 seconds][Agent] : You've been fully approved for the life insurance, so very well done.
+[36 minutes 54 seconds][Customer] : Thank you. Thank you very much.
+[36 minutes 54 seconds][Agent] : No, that's OK.
+[36 minutes 55 seconds][Customer] : And you know, with your help, really, I'm gonna say it again. You are really you are very good. You know, you really don't. I don't know, but you are very, very good. What you are doing.
+[37 minutes 5 seconds][Agent] : Thank you very much. High attention to detail.
+[37 minutes 6 seconds][Customer] : Usually I don't like those talk and inform, but I feel very comfortable talking to you and you are explaining everything with patient really you are, you know, I hope you're gonna get to the higher position there in this company. Wishing you best time.
+[37 minutes 14 seconds][Agent] : Oh well, I hope so too, I hope so too, but no thank you very much party are very, very sweet. Umm or look, I guess you know, I understand that you know, speaking with I suppose at the end of the day, you do call it sales people or looking into insurance. All a bit daunting at the end of the day.
+[37 minutes 34 seconds][Customer] : Mm hmm. Hmm. Mm.
+[37 minutes 33 seconds][Agent] : So I just try to envision, you know, if I was to speak to someone, this is how I would want them to be Umm, so try my very best, but thank you so much party.
+[37 minutes 41 seconds][Customer] : Thank you. Thank you. OK.
+[37 minutes 41 seconds][Agent] : I very much appreciate that umm now what this will mean for you as well as we've gotten the best outcome for you. There's no price changes.
+[37 minutes 49 seconds][Customer] : Mm hmm.
+[37 minutes 48 seconds][Agent] : There's no different terms and full approval. So once we decide to start, once you decide to start the policy, it means that you'll be protected immediately for death due to any cause.
+[38 minutes 2 seconds][Customer] : Mm hmm.
+[37 minutes 58 seconds][Agent] : The only thing that's not covered is just suicide in the 1st 13 months, but I know that that will not be a worry. Of course, the other thing that's provided to go into specifics, the terminally ill advanced payment.
+[38 minutes 15 seconds][Customer] : Mm, hmm, mm. Hmm. OK, OK, OK.
+[38 minutes 10 seconds][Agent] : Now what this means, and I hope never has to happen to you of course, but if you were diagnosed with 24 months or less to leave by a medical practitioner, we simply just pay your life insurance amount out to you in full whilst you're alive, OK?
+[38 minutes 25 seconds][Customer] : Sorry I I didn't hear the the sentence is going to not be covered straight away.
+[38 minutes 37 seconds][Agent] : Oh, no, no, no. So I'll go over that again just to make sure I'm being clear here. So the application is completed, but once you decide to start the policy, so there'll be other formalities. If you're happy to start the cover, we can have you protected as of today, but it means that once the policy is active that you are covered immediately for death due to any cause. OK, So coverage straight away, the only thing that's not covered is suicide in the 1st 13 months. So if you were to take your own life in the 1st 13 months, not covered.
+[38 minutes 31 seconds][Customer] : That means it's not if if I finish the application would be not start straight away have to wait for OK, OK, OK, OK, OK, OK, don't worry. I'm very positive.
+[39 minutes 14 seconds][Agent] : No, I know, I know. Very good, very good. Umm, does that all make sense now as well? That's all quite clear, yes.
+[39 minutes 21 seconds][Customer] : Yes, thank you. Yes, thank you.
+[39 minutes 22 seconds][Agent] : OK, perfect. And just to confirm the terminally ill advanced payment, that'll make sense as well.
+[39 minutes 28 seconds][Customer] : OK, OK. Mm hmm.
+[39 minutes 30 seconds][Agent] : Yeah. OK. All right. Well, that's that. There. Now what we can do for you today, buddy. We can have you covered straight away if you're happy with the final terms.
+[39 minutes 38 seconds][Customer] : Mm hmm.
+[39 minutes 39 seconds][Agent] : Basically the steps that we go through, so we jump into the calendar, you will get to select the first payment date yourself. So I it can be a couple of days or a couple of weeks away, whatever's easiest for you. And then we note down a preferred payment method and I'll reach you at a final and verbal declaration, which is essentially explaining the policy in a more formal manner.
+[39 minutes 57 seconds][Customer] : Mm hmm, mm hmm.
+[40 minutes][Agent] : And we've got some questions in place to make sure that you understand everything and you're happy with everything as well.
+[40 minutes 6 seconds][Customer] : OK, That means what you are asking me now is to choose that day to start getting the payment. Is it? Uh huh.
+[40 minutes 12 seconds][Agent] : Uh, also, yes, selecting a day that you want it to be taken out so you can set it up if it's on a fortnightly basis. For example, if you chose today, it would first payment would be today and then every two weeks.
+[40 minutes 23 seconds][Customer] : OK, OK. Next, next Monday sounds amazing.
+[40 minutes 25 seconds][Agent] : Otherwise, if you want to choose, you know, next Monday or next Thursday, whatever's easiest for you, I will accommodate it. Is that line up with the pay schedule easy for you?
+[40 minutes 36 seconds][Customer] : Yes, yes.
+[40 minutes 37 seconds][Agent] : OK, perfect. I can definitely have that arranged. So that means it will be, what's the date there?
+[40 minutes 44 seconds][Customer] : Yeah, OK.
+[40 minutes 43 seconds][Agent] : The 13th of January and then just every fortnight moving forward.
+[40 minutes 47 seconds][Customer] : Yes, absolutely.
+[40 minutes 48 seconds][Agent] : OK, perfect.
+[40 minutes 48 seconds][Customer] : Sounds very good for me.
+[40 minutes 49 seconds][Agent] : Wonderful. Uh, the only other thing we'll go through is how the premiums and how the benefit amount works as well thereby are, OK. So the premium it is stepped, which means that it will generally increase each year. And the other thing that's included is what's called automatic indexation, OK?
+[40 minutes 57 seconds][Customer] : OK, OK. OK, OK, OK, OK, OK.
+[41 minutes 10 seconds][Agent] : Now what this means is that each year your sum insured or the life insurance amount will increase by 5%, OK with associated increase in premium until either you reach the maximum benefit amount which is 2 million or and oh sorry 1.5 million for your case there or until the policy anniversary following your 75th birthday, OK.
+[41 minutes 37 seconds][Customer] : OK.
+[41 minutes 38 seconds][Agent] : So that means your life insurance can slowly increase and build up over time.
+[41 minutes 43 seconds][Customer] : Mm hmm.
+[41 minutes 43 seconds][Agent] : However, you can opt out of this automatic indexation each year if you feel the need. So that way you can keep your life insurance at the same amount but the premiums will still go up. It just means your life insurance isn't increasing as much.
+[41 minutes 50 seconds][Customer] : OK, OK, OK, OK.
+[41 minutes 58 seconds][Agent] : OK, All right. And I'll show you some examples here too, just to make sure there's a full understanding as well. So as an indication, if you made no changes to the policy and left, a 5% increase on your benefit amount goes up to $1,050,000.
+[42 minutes 18 seconds][Customer] : Mm, hmm, mm, hmm.
+[42 minutes 17 seconds][Agent] : So that's that 5% increase and the premiums will then raise to $113.44 per fortnight.
+[42 minutes 25 seconds][Customer] : OK, OK, OK.
+[42 minutes 25 seconds][Agent] : However, if you leave the 5% increase off, the life insurance stays at $1 million flat and the premiums would then just be at $108.04 per fortnight. OK, OK.
+[42 minutes 39 seconds][Customer] : OK, OK.
+[42 minutes 41 seconds][Agent] : So sorry, Hugo.
+[42 minutes 44 seconds][Customer] : Can we just keep it the the 1,000,000?
+[42 minutes 43 seconds][Agent] : Yeah, Yeah, of course, of course. So all you have to do. So we send a notice out to you 30 days before the policy anniversary. So every 12 months, we'll give you a notice of renewal to advise you on what the price changes will look like.
+[42 minutes 57 seconds][Customer] : OK, OK. Yes. OK.
+[43 minutes 1 seconds][Agent] : So all you need to do before your policy anniversary is just call us and speak to the support team, let them know that you would like to opt out of the automatic indexation, meaning that it will stay at the $1,000,000 there.
+[43 minutes 13 seconds][Customer] : OK. OK, that sounds good. Thank you.
+[43 minutes 13 seconds][Agent] : OK, OK, perfect.
+[43 minutes 15 seconds][Customer] : Thank you.
+[43 minutes 15 seconds][Agent] : No, that's OK. And if you are ever curious, you can also find more information at the premium structure on our website.
+[43 minutes 22 seconds][Customer] : OK.
+[43 minutes 23 seconds][Agent] : Now that's all the information about the policy. While I'm getting everything else ready there, Bhadia, I'll let you know about one of the other things that's included in the policy. It may or may not come in handy. I don't know if you're Mohammed has a will in place.
+[43 minutes 38 seconds][Customer] : No, I don't think so.
+[43 minutes 40 seconds][Agent] : OK, so one thing that we are going to be providing you with is a free online legal will, OK?
+[43 minutes 46 seconds][Customer] : OK.
+[43 minutes 46 seconds][Agent] : So it'll be for some additional protection for your family there in terms of their instructions and possessions and what you want to go where.
+[43 minutes 53 seconds][Customer] : Mm Hmm.
+[43 minutes 54 seconds][Agent] : That's sort of how the will will be used, but it's valued at $160.00. But we don't charge you for it. It's free of charge from us and it will come out via e-mail. OK.
+[44 minutes 1 seconds][Customer] : OK, OK, OK.
+[44 minutes 4 seconds][Agent] : So that means jump. Once you have a look through, jump in the e-mail, you can click on the link and go to the platform.
+[44 minutes 16 seconds][Customer] : Mm Hmm.
+[44 minutes 10 seconds][Agent] : It's a company called Safe Will and then once you have completed your part, they will then certify your will.
+[44 minutes 20 seconds][Customer] : Hmm. Mm.
+[44 minutes 17 seconds][Agent] : They'll send it back so you can print it out or you can make changes in the future if you need to as well.
+[44 minutes 22 seconds][Customer] : OK. OK, that sounds good.
+[44 minutes 24 seconds][Agent] : Wonderful.
+[44 minutes 25 seconds][Customer] : Yes.
+[44 minutes 25 seconds][Agent] : OK, well that's everything there now. I've selected the 13th of January for the first collection day there by the two options we have in terms of the payment method, either using a bank account so BSB and account number or you can use a card which would be easier for you.
+[44 minutes 41 seconds][Customer] : Mm hmm. The card. I will provide you the the details of my card and you can just detect it from there.
+[44 minutes 46 seconds][Agent] : Yeah. OK. So just before we take any information from you there buddy, I'll let you know that for security purposes while obtaining your card details, the call recording will stop and will recommence after we have collected your details just. The. None. None. None. None. Why are we here? And yes, alright, please be advised that the call recording has now resumed for quality and monitoring purposes.
+[47 minutes 55 seconds][Customer] : OK, OK.
+[47 minutes 57 seconds][Agent] : But that was all correct that information there. So that's fine Daria.
+[48 minutes][Customer] : Mm, hmm. OK.
+[48 minutes 1 seconds][Agent] : Alright, well the last step today is just reading out to you the final declaration, so it'll explain everything in full here. There's one question in the middle and then two questions at the end just to confirm, as I said, that you understand that you're happy with everything, uh, today. OK, wonderful. And I always like checking just before I go to the final step about it. Did you have any other questions for me at the time being?
+[48 minutes 17 seconds][Customer] : Yes, absolutely no, you made everything clear.
+[48 minutes 27 seconds][Agent] : No perfect.
+[48 minutes 27 seconds][Customer] : Thank you so much.
+[48 minutes 29 seconds][Agent] : No, of course, that's OK. Thank you.
+[48 minutes 30 seconds][Customer] : I'm very happy with your with your service honestly.
+[48 minutes 33 seconds][Agent] : Good luck. Thank you very much, buddy. I very, very much appreciate it. All right, well, we'll go through this here and we'll be able to get you covered as of today. So it says here, thank you, buddy. At the study, it is important to understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real life insurance is issued by Hanover Live Free of Australasia Limited, whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS trading as real Insurance, to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Distribution practices are consistent with this determination and you can obtain a copy on our website. Now I just need to remind you of the duty to take reasonable care that you agreed to. So Bhadia, can you please confirm you have answered all of our questions in accordance with your duty, Yes or no?
+[49 minutes 46 seconds][Customer] : Yes.
+[49 minutes 47 seconds][Agent] : Beautiful. It then says we may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of part of the study receives $1 million in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year of cover is $98.48 per fortnight. Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday and you can opt out of this.
+[50 minutes 55 seconds][Customer] : Thank you. Yes.
+[50 minutes 44 seconds][Agent] : You understand that the premium projection provided is indicative only and does not take into consider, Sorry, does not take into account any existing policies you may have with us included in your premium. That's OK. Included in your premium is an amount payable to GFS of between 41% and 55% to cover costs.
+[51 minutes 5 seconds][Customer] : Hmm. Mm.
+[51 minutes 5 seconds][Agent] : Your premium will be debited from your credit card which are authorised to debit from and have provided to us. The policy documentation, PDF and SSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. And then finally, it just states that we have a complete process, which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. So thank you very much for your patience there, Badya. I now just have the last two questions to confirm with you. OK.
+[52 minutes 5 seconds][Customer] : OK.
+[52 minutes 6 seconds][Agent] : All right. So the first one's just asking, do you understand and agree with the declaration, Yes or no? Yes, very good. And would you like any other information about the insurance now? Or would you like me to read any of the PDSS to you? Yes or no?
+[52 minutes 12 seconds][Customer] : Yes, no, thank you.
+[52 minutes 24 seconds][Agent] : Beautiful. OK, well, with that being said, I'll accept the declaration for you here, buddy, which means I'm just waiting for it to load. Beautiful. OK, You're now covered for the $1 million of life insurance there. You'll be receiving your policy documentation, so you'll get the e-mail that should arrive within the next hour, I'd say. So you'll have a digital copy and all the physical papers that will take about two to five business days to appear.
+[52 minutes 44 seconds][Customer] : OK, OK, OK. This was good.
+[52 minutes 50 seconds][Agent] : OK, wonderful. Other than that, that is everything complete for you there, Baria. So I very much appreciate your time and patience today. I'm glad I was able to help get that done as well.
+[53 minutes][Customer] : You, you thank you very much, really you thank you very much. And you made it sounds easy in the beginning. I was expecting, you know, too much complication and stuff like that, but you, you made it just like that. Really. Thank you so much.
+[53 minutes 13 seconds][Agent] : My pleasure, my absolute pleasure. Thank you very much, Baria.
+[53 minutes 15 seconds][Customer] : My pleasure talking to you really.
+[53 minutes 17 seconds][Agent] : Likewise, yes.
+[53 minutes 17 seconds][Customer] : And if I can leave a review for you or I can, uh, you know, just put, you know, a feedback for you or something, just let me know, please.
+[53 minutes 28 seconds][Agent] : Look, it's completely up to you. I don't mind whether you do or don't. I believe there should be something in the e-mail. There'll be my details in the e-mail. Once that's set up, there may be a play, a place to pop in feedback.
+[53 minutes 39 seconds][Customer] : Mm Hmm.
+[53 minutes 39 seconds][Agent] : Otherwise, on the website, I believe there is a way that you can leave feedback if you wish.
+[53 minutes 44 seconds][Customer] : Yes.
+[53 minutes 44 seconds][Agent] : I'm not fussed either way. Your words are enough. That's OK, but no, thank you very much.
+[53 minutes 49 seconds][Customer] : Thank you. Thank you very much and have a beautiful day.
+[53 minutes 52 seconds][Agent] : You too.
+[53 minutes 52 seconds][Customer] : Thank you.
+[53 minutes 52 seconds][Agent] : And take care for the future as well there buddy.
+[53 minutes 54 seconds][Customer] : You too.
+[53 minutes 54 seconds][Agent] : All the best.
+[53 minutes 55 seconds][Customer] : You too. Thank you very much.
+[53 minutes 56 seconds][Agent] : Thank you. Bye.
+[53 minutes 56 seconds][Customer] : Take care.
+[53 minutes 57 seconds][Agent] : Bye bye.
+[53 minutes 57 seconds][Customer] : Bye. Bye. Bye.

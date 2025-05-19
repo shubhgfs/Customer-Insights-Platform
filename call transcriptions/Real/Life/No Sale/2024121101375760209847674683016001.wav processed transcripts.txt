@@ -1,0 +1,277 @@
+[1 seconds][Customer] : Hello, I'm speaking.
+[2 seconds][Agent] : Hello, Good afternoon, Sienna. This is Charmaine. I'm calling back from real insurance. How are you doing today?
+[7 seconds][Customer] : Oh, hi. I'm good. Thanks. How are you? No.
+[10 seconds][Agent] : I'm doing really well. Thank you for asking. I'm sorry I couldn't go through with the application and the last call.
+[16 seconds][Customer] : Hey.
+[15 seconds][Agent] : So I'm calling back to May I assist?
+[17 seconds][Customer] : Oh, good.
+[18 seconds][Agent] : Perfect. So we can continue, do you mind to confirm me with your full name and date of birth before we proceed? Thank you.
+[24 seconds][Customer] : Yes, yeah, I'm more trial second of the 12th, 1997.
+[28 seconds][Agent] : Perfect. A friendly reminder to you CN that all of our calls are recorded. Any advice that I do provide, it is generally nature and it may not be suitable to your situation.
+[37 seconds][Customer] : Yep. Perfect.
+[37 seconds][Agent] : OK, perfect. So see and my system is working perfectly right now.
+[44 seconds][Customer] : OK.
+[43 seconds][Agent] : It's mid mid of the week. I think sometimes it just go through some of the tantrum. So I had to feed her like a, a cup of coffee. I think she's good to go now.
+[48 seconds][Customer] : Yep, Yep. Yep.
+[53 seconds][Agent] : Umm so last time when I spoke to you we got, we went through the half $1,000,000 policy for you for the life insurance and that will be paid out to your beneficiary in your situation, it was your parents.
+[1 minutes 4 seconds][Customer] : Yeah, yeah.
+[1 minutes 4 seconds][Agent] : You would like to nominate them you said and the premium it was for $23.15 per fortnight.
+[1 minutes 12 seconds][Customer] : Yep.
+[1 minutes 12 seconds][Agent] : Is is that coming manageable and affordable to yourself? Perfect, thank you. So I was going to with the underwriting application with you asking about your health and lifestyle.
+[1 minutes 15 seconds][Customer] : Yep, Yep.
+[1 minutes 22 seconds][Agent] : You have all of the answer the smoking questions and some of the questions from the health and lifestyle application in relation to to those questions. Has anything changed?
+[1 minutes 32 seconds][Customer] : No.
+[1 minutes 33 seconds][Agent] : OK, perfect. So we will continue where we left off.
+[1 minutes 36 seconds][Customer] : Perfect.
+[1 minutes 36 seconds][Agent] : Let me reopen. All right, all right. So, so far in the application form CN, we have captured the your mental health, we have captured the your kidney stones that was passed. We also have captured the asthma, OK? Umm, and I was going to capture the your right shoulder surgery that you had to do back in 2022. All right? And you said that was called poratic outlets.
+[1 minutes 48 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, Yep.
+[2 minutes 8 seconds][Agent] : Senior, am I pronouncing that right?
+[2 minutes 10 seconds][Customer] : Yes.
+[2 minutes 11 seconds][Agent] : OK, perfect. Oh, lovely. So I'm, I was gonna ask you some more question on that and I'm gonna, umm, give your answers back to underwriters so they can assist.
+[2 minutes 20 seconds][Customer] : Perfect.
+[2 minutes 19 seconds][Agent] : OK, lovely. So please describe the reason for the consultation, including symptoms and diagnosis. And it said it was the right shoulder surgery and symptoms where numb, numbness and tingling in the right hand, weakness in the right hand and also head pain in the shoulder.
+[2 minutes 38 seconds][Customer] : Yeah. And I'd say limited range of movement in the shoulder.
+[2 minutes 38 seconds][Agent] : Correct in the, in the right hand, only in the shoulder. OK, blind head, so limited shoulder movement.
+[2 minutes 47 seconds][Customer] : Yeah, yeah, like range of motion.
+[2 minutes 54 seconds][Agent] : Yep, range motion is it? Did it only happen to the right shoulder or in the like did you have this limited range of motion in the both shoulder?
+[3 minutes 8 seconds][Customer] : So the symptoms in the hand were for both hands, but the left side kind of resolved with physiotherapy so I didn't need surgery.
+[3 minutes 17 seconds][Agent] : OK, OK, OK.
+[3 minutes 19 seconds][Customer] : Yep, Yep.
+[3 minutes 20 seconds][Agent] : So you had the numbness and technique in both of the hand and weakness in both of the hand. OK. All right. I'm just going to start be before I what I did, I just put down on the right hand, but I'm just going to change it back to both hand this time, OK?
+[3 minutes 25 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 34 seconds][Agent] : OK.
+[3 minutes 47 seconds][Customer] : The black child.
+[3 minutes 35 seconds][Agent] : Both hand and you only have the pain in the shoulder, right in the right shoulder, right shoulder scan had limited range of motion in the SH in the in the shoulder.
+[3 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[4 minutes][Agent] : And for the left hand, you have taken some physiotherapy to get rid of the pain and the numbness.
+[4 minutes 10 seconds][Customer] : Yeah, that resolved with physios.
+[4 minutes 11 seconds][Agent] : OK, like just to be clear on that stand, umm, for the physiotherapy, did you take it for both hand or only for the right? Only for the right hand. Sorry. Left hand.
+[4 minutes 13 seconds][Customer] : Yeah, both, both sides. But it only worked on the left. The right. I had to have surgery, yeah.
+[4 minutes 25 seconds][Agent] : OK, OK, OK, perfect. Thank you for letting me know. So client has taken physiotherapy therapy.
+[5 minutes 1 seconds][Customer] : No, that's OK.
+[4 minutes 59 seconds][Agent] : Sorry, I might be silent here, but I'm tapping at the back end.
+[5 minutes 3 seconds][Customer] : All good.
+[5 minutes 4 seconds][Agent] : No, it's still here. Thank you for understanding. So tingling sensation. Once I finish shopping I'll read that out to you. Let me know if it this is applicable and accurate, OK?
+[5 minutes 19 seconds][Customer] : Yep.
+[5 minutes 19 seconds][Agent] : Umm, umm, the physiotherapy. So the physiotherapy was helping you with the, umm, helping you to resolve the left hand, umm, uh, numbness and tingling sensation, correct?
+[6 minutes 1 seconds][Customer] : Yep, Yep.
+[6 minutes 1 seconds][Agent] : And what about the uh, left hand? What did you need? Correct surgery.
+[6 minutes 9 seconds][Customer] : I didn't have surgery on the left. No, just the right. Nah.
+[6 minutes 13 seconds][Agent] : And do you still have the numbness and the tingling sensation on the left hand?
+[6 minutes 18 seconds][Customer] : Nope.
+[6 minutes 19 seconds][Agent] : So physiotherapy did help you to resolve the issue on the both hands?
+[6 minutes 25 seconds][Customer] : So the physio worked on the left side, so I had the physio on both sides.
+[6 minutes 29 seconds][Agent] : Yeah, Yeah.
+[6 minutes 32 seconds][Customer] : Physio worked on the left side, but on the right side I required surgery. And that's resolved with the surgery.
+[6 minutes 41 seconds][Agent] : OK. So the right shoulder request that I do not the right hand, just to make it clear. OK. And the right shoulder surgery resolved the right hand issue as well. Is that what trying to say?
+[6 minutes 44 seconds][Customer] : Yeah, no, this, yeah, yeah, yeah, there, yeah, yeah, yeah, 'cause it's a nerve.
+[6 minutes 52 seconds][Agent] : OK, alright, perfect. It was a nerve issue.
+[6 minutes 53 seconds][Customer] : It was a nerve issue, Yeah, yes.
+[6 minutes 56 seconds][Agent] : OK, thank you. So you have to go through the Li right ho ho right shoulder surgery for the tragic outlets syndrome, correct?
+[7 minutes 31 seconds][Customer] : Yeah, yeah.
+[7 minutes 31 seconds][Agent] : OK, OK. And OK, so if I have typed in the first section was asking please describe the reason for the consultation including symptoms and diagnosis, OK.
+[8 minutes 20 seconds][Customer] : Yep.
+[8 minutes 21 seconds][Agent] : And I have noted down as the client had thoraci, thoracic outlook. Is that how you pronounce thoracic or?
+[8 minutes 30 seconds][Customer] : Yes. 3336. Yes.
+[8 minutes 32 seconds][Agent] : Yeah, perfect. So client had a touristic outlook syndrome back in 2000, 2020.
+[8 minutes 44 seconds][Customer] : Yes. Yep. Yep. Yep.
+[8 minutes 39 seconds][Agent] : Client ended up having the surgery in 2000 2020 2 correct umm and the symptoms were numbness and tingling in the both hands, weakness in the uh, weakness in the hands umm, and also had pain in the right shoulder. Umm, client had limited range of motion in the shoulder. Umm.
+[8 minutes 56 seconds][Customer] : Yep, Yep.
+[9 minutes][Agent] : The client had taken physiotherapy on both hands to resolve the numbness and tingling sense tingling sensation.
+[9 minutes 7 seconds][Customer] : Yep.
+[9 minutes 7 seconds][Agent] : The physiotherapy helped the client to resolve the left hand numbness and tingling sensation, umm, and, and, and the client had to do, had to go through the right shoulder surgery in 2022 for the Tori Thorius sick outlet syndrome.
+[9 minutes 23 seconds][Customer] : Yep.
+[9 minutes 23 seconds][Agent] : And that's actually help the client to resolve the right and numbness and Ting tingling sensation, correct.
+[9 minutes 28 seconds][Customer] : Yes, yeah, yeah.
+[9 minutes 27 seconds][Agent] : OK, I might be repeating some of the question, but we just the more we write down is more umm, umm, the more is better in this, in this in your situation with the California, the underwriter will have that umm more uh, thorough answer to go through and give you an outcome.
+[9 minutes 44 seconds][Customer] : Perfect.
+[9 minutes 43 seconds][Agent] : OK, umm, so when did it occur?
+[9 minutes 50 seconds][Customer] : The symptoms occur started occurring in July of 2000 and 2020.
+[9 minutes 46 seconds][Agent] : The next question it asking Sien symptom square symptom occur in July 2020. Yeah. And the surgery, right, surge, uh, shoulder surgery happened. That was umm in 2022.
+[10 minutes 11 seconds][Customer] : Yes, yes.
+[10 minutes 34 seconds][Agent] : OK, so symptoms, when is the symptoms that umm, occurred in July 2020, that was the symptom for the umm, touristic outlet syndrome, correct. OK, OK, perfect. Alright, next question, please provide the details of medical tests. It could be examination, X-ray scans, blood tests or biopsy including dates and results as far as it as as you can recall, like what type of medical examination that you had to go through around that time, let me know. I can type that in for you. Mm hmm.
+[10 minutes 45 seconds][Customer] : Yeah, yeah, I had an MRI on the shoulder. Yeah, right side.
+[11 minutes 25 seconds][Agent] : On the shoulder done and right on the right shoulder.
+[11 minutes 32 seconds][Customer] : I'm pretty sure I had an X-ray as well.
+[11 minutes 33 seconds][Agent] : Yep, X-ray was done as well.
+[11 minutes 37 seconds][Customer] : Yep. And then just a physical examination.
+[11 minutes 41 seconds][Agent] : X-ray was done. That was the back in 2022, 2020 or 2022.
+[11 minutes 48 seconds][Customer] : I think the X-ray was done in 2021 when I first saw the specialist or the surgeon.
+[11 minutes 56 seconds][Agent] : What about the MRI?
+[11 minutes 58 seconds][Customer] : That was in 2020.
+[12 minutes 1 seconds][Agent] : OK, so the umm, the way I'm going to type that in is just the client had done an MRI on the right shoulder in 2000, 2020, 2000, in 2000, 2020 when she had experienced the symptoms is that would be accurate. And there was an extra as well that was done in 2022 when she saw the specialist.
+[12 minutes 28 seconds][Customer] : Yes, the yeah, the X-ray was 2021. That was the first time that I saw the surgeon like the specialist.
+[12 minutes 52 seconds][Agent] : OK, OK.
+[12 minutes 51 seconds][Customer] : Yeah, yeah.
+[12 minutes 55 seconds][Agent] : When she. When you say specialist, what type of specialist was that? May I know please?
+[13 minutes 21 seconds][Customer] : He was a oh, God, he specialized in plastic surgery, but like shoulder and hand.
+[13 minutes 36 seconds][Agent] : Hmm. Shoulder in.
+[13 minutes 35 seconds][Customer] : Yeah, Yeah. I'd say he was. He was like a shoulder, like a shoulder surgeon.
+[13 minutes 37 seconds][Agent] : Should I put down a shoulder in hand specialist shoulder surgeon.
+[13 minutes 42 seconds][Customer] : Yeah, yeah.
+[13 minutes 44 seconds][Agent] : OK, OK. And you said out of physical examination.
+[13 minutes 51 seconds][Customer] : He performs like physical, like range of motion and like pulse oximetry. Just, you know, physical.
+[13 minutes 49 seconds][Agent] : What do you mean by that line had to go through and it was and 2000, 2020 one at the specialist.
+[14 minutes 7 seconds][Customer] : Yeah, yeah.
+[14 minutes 8 seconds][Agent] : OK.
+[14 minutes 23 seconds][Customer] : Yeah, like RA, range of motion and movement, Yeah, movement, stuff like that.
+[14 minutes 8 seconds][Agent] : Let you go through physical example, is it motion, motion movement, movement at the specialist is that was it at the at the specialist?
+[14 minutes 45 seconds][Customer] : Yeah, yeah.
+[15 minutes][Agent] : Well, when you had done the MRI for the first time, see and what was the outcome on that one like the like, like who had referred you to go to the specialist?
+[15 minutes 8 seconds][Customer] : Oh gosh, it was my physio.
+[15 minutes 15 seconds][Agent] : Was that your GP P0?
+[15 minutes 20 seconds][Customer] : Yeah, I started physio.
+[15 minutes 20 seconds][Agent] : OK and the P0 asks you to do the MRI or the GP?
+[15 minutes 23 seconds][Customer] : Yeah, the physio asked me to go to the GP to get the referral for it. Yep.
+[15 minutes 29 seconds][Agent] : OK, OK. OK so that way I put down is time, sought advice from the physio for the shoulder pain.
+[16 minutes 28 seconds][Customer] : Yeah, yeah, yeah.
+[16 minutes 28 seconds][Agent] : The physio had asked the client to go to a GP to get a referral to do an MRI and the client had done an MRI on the right shoulder back in 2020 and when she had experienced the symptoms and there was an X-ray that was done in 2021 when she had gone to see the shoulder specialist. Client had to go through some physical examinations such as range of motion, movement at the specialist as well. Correct.
+[16 minutes 40 seconds][Customer] : Yes, yes, yeah, yeah, yeah.
+[17 minutes][Agent] : OK, perfect. All right, just making sure I have typed in everything correctly. Alright, the next one is for the same reason. Is any further investigation or treatment plan? If so, when?
+[17 minutes 21 seconds][Customer] : No. All resolved.
+[17 minutes 22 seconds][Agent] : All resolved, No further treatment plan. Please advise if a full recovery has been made. Yes. Do you take an 100% full recovery? That's good. I'm glad to hear that. But good thing you had to go through a lot.
+[17 minutes 22 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[17 minutes 51 seconds][Agent] : But I'm glad that the surgery had resolved the issue. All right, so the specialist had asked you to go go through the surgery and the surgery had resolved the issue. Correct.
+[18 minutes 4 seconds][Customer] : Yes.
+[18 minutes 5 seconds][Agent] : OK, Specialist. Perfect and we have kept it that umm the your umm the touristic touristic out testing them in the system.
+[18 minutes 54 seconds][Customer] : Yep.
+[18 minutes 54 seconds][Agent] : The next question, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Yes or no?
+[19 minutes 6 seconds][Customer] : No.
+[19 minutes 7 seconds][Agent] : Thank you. So next two questions for you is in regards to your family history.
+[19 minutes 12 seconds][Customer] : Yep.
+[19 minutes 12 seconds][Agent] : So when I'll be saying your immediate family, I'll be referring to your mom, dad, brother and sister only.
+[19 minutes 18 seconds][Customer] : OK, Yep.
+[19 minutes 18 seconds][Agent] : OK, Thank you. To the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or family abnormalities, polyposis, yes or no? Thank you. To the best of your knowledge, have any of your immediate families suffered from cancer, heart condition, stroke or other heritage 3 disease prior to age 60? Yes or no?
+[19 minutes 35 seconds][Customer] : No, my dad has type diabetes.
+[19 minutes 55 seconds][Agent] : So we don't go through. So if a cus umm there is a nerd to follow. So any family history of high blood pressure, hemochromati, hemochromatosis, high cholesterol, diabetes does not need to be disclosed for this question.
+[20 minutes 12 seconds][Customer] : OK, perfect.
+[20 minutes 11 seconds][Agent] : OK, so to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other height 3 disease prior to age 60?
+[20 minutes 25 seconds][Customer] : No.
+[20 minutes 24 seconds][Agent] : This or no Thank you. Only one last question to ask you Sien, you're doing really well. So other than one of events, umm, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering, ABS ceiling scuba diving deeper than 40 meters, cave or rig diving or any other hazardous activity? Yes or no?
+[20 minutes 57 seconds][Customer] : No, no way.
+[20 minutes 58 seconds][Agent] : It's a, it's a no from me as well. I'm not that adventurous. Umm, my most adventurous thing would be sitting at home and watching adventurous thing on my Netflix.
+[21 minutes 9 seconds][Customer] : Yeah, no. Exactly right.
+[21 minutes 12 seconds][Agent] : I'm glad, I'm glad that you're doing. Uh, I'm really well in terms of your health, which is great.
+[21 minutes 17 seconds][Customer] : Thank you.
+[21 minutes 17 seconds][Agent] : Umm, in regards to your occupations, Deanna, as you mentioned that you worked, umm, in a custody, As for the with the cream, you work with the criminal, correct?
+[21 minutes 24 seconds][Customer] : Yep, yes.
+[21 minutes 28 seconds][Agent] : Yeah. So just making sure I've captured everything and I'm doing right by you. Just making sure.
+[21 minutes 33 seconds][Customer] : Yep.
+[21 minutes 33 seconds][Agent] : So what would be the title of your job here? May I know please?
+[21 minutes 37 seconds][Customer] : Youth justice worker.
+[21 minutes 38 seconds][Agent] : Justice worker.
+[21 minutes 40 seconds][Customer] : Yep.
+[21 minutes 39 seconds][Agent] : OK, so you're not like working with a weapon, like you don't carry a gun or anything like that, Correct. OK. OK. All right. Now I'm glad. I'm glad. But yeah, so other than that, you don't do any sort of hazardous thing in in your workplace.
+[21 minutes 45 seconds][Customer] : Oh, no, no, no, no.
+[21 minutes 56 seconds][Agent] : That's correct. OK, OK, perfect. Thank you. Umm, what I'm going to do See, I'm going to put you in a brief hold. In the meantime, I'm going to check everything at the back and umm and umm like recheck and triple check everything, making sure everything has been correct, capture correctly.
+[22 minutes 10 seconds][Customer] : Yep, perfect.
+[22 minutes 10 seconds][Agent] : Before I send your answer to the underwriter, please hold the line. I'll be, I'll be, I'll be right back. Thank you.
+[22 minutes 15 seconds][Customer] : No worries.
+[22 minutes 16 seconds][Agent] : Thanks. Thank you for holding the line there here. Appreciate that.
+[28 minutes 3 seconds][Customer] : All good.
+[28 minutes 4 seconds][Agent] : Perfect.
+[28 minutes 17 seconds][Customer] : Yep. Yep.
+[28 minutes 5 seconds][Agent] : So see and based on your disclosure of the that, let me double check as well that you mentioned about the your shoulder surgery, the right shoulder surgery, the psoriatic arc de syndrome that happened back in 2020. So your application needs to be referred to the underwriter for assessment. OK. In the meantime, I'll let you know the the application outcome and I'll let you know the pricing as well.
+[28 minutes 27 seconds][Customer] : Yep, Yep, Yep.
+[28 minutes 33 seconds][Agent] : OK, let me just double check. Sorry, my system might get another coffee. It's just working really slow today.
+[28 minutes 44 seconds][Customer] : Yeah, that's alright.
+[28 minutes 45 seconds][Agent] : Thank you. Thank you for understanding. You've been really patient with me.
+[28 minutes 50 seconds][Customer] : Oh, good. No, sorry.
+[28 minutes 49 seconds][Agent] : So thanks to you so, so I need to advise you that the premium has risen to $23.15 per fortnight and due to that I'll let you know the reason why. Due to the mental health, three to four applications, symptoms or treatment within the last six months, 50% due to health in the underwriting application.
+[28 minutes 59 seconds][Customer] : Yep, Yep, Yep.
+[29 minutes 13 seconds][Agent] : OK, with the new premium as well. Yeah, $23 and $0.15 per fortnight. Is that coming manageable and affordable to yourself?
+[29 minutes 26 seconds][Customer] : Yeah, that's fine.
+[29 minutes 27 seconds][Agent] : OK, perfect. So as I mentioned that your application will be accessed by the underwriter today.
+[29 minutes 33 seconds][Customer] : Yep.
+[29 minutes 34 seconds][Agent] : So while your application is being accessed, you will be covered for accidental death, which pays out if death was due to a direct result of an accident.
+[29 minutes 44 seconds][Customer] : Yep.
+[29 minutes 44 seconds][Agent] : Cover under this law until the insurer makes a decision on your application or 30 days from today, whichever is earlier.
+[29 minutes 51 seconds][Customer] : Yep.
+[29 minutes 50 seconds][Agent] : OK, So what I can do from here today?
+[29 minutes 59 seconds][Customer] : Yep.
+[29 minutes 54 seconds][Agent] : Tian, I'll collect your payment details and read your declaration so I can get this access by the underwriter as well.
+[30 minutes 1 seconds][Customer] : Yep.
+[30 minutes 1 seconds][Agent] : Alright, are you happy to proceed?
+[30 minutes 4 seconds][Customer] : 100% Yep.
+[30 minutes 5 seconds][Agent] : Perfect, thank you so much. So after the payment you have an option, you just you can select the fast payment collection day of your choice and after that every four month your basis from that day your premium will be deducted.
+[30 minutes 14 seconds][Customer] : Yep, OK perfect.
+[30 minutes 18 seconds][Agent] : OK, which day if you have get paid on a certain day, I can line up with that as well. So which day would you like to put down the fast payment collection day?
+[30 minutes 25 seconds][Customer] : Yep, my NE payday is the 19th of December.
+[30 minutes 34 seconds][Agent] : Did you want me to line up with that, Diane?
+[30 minutes 36 seconds][Customer] : Yes we could. That would be amazing.
+[30 minutes 38 seconds][Agent] : Perfect. We can do that. Not a problem. And for the payment as well, Sir, you have got two different options. We can do with the BSP account number or we can do with the Visa and MasterCard as well. Either way you do, there's no surcharge. How would you like to do it?
+[30 minutes 54 seconds][Customer] : We'll go bank account, yes.
+[30 minutes 58 seconds][Agent] : Bank account, savings account or checking account? Thank you. May I know the BSP please when you're ready.
+[31 minutes 2 seconds][Customer] : Savings 784230.
+[31 minutes 15 seconds][Agent] : And account number, yeah, yeah, OK, I'll repeat that back to you.
+[31 minutes 17 seconds][Customer] : 100519215 Yep Yep Yep, Yep, Yep 215.
+[31 minutes 27 seconds][Agent] : So BB 704230 account number is 100519215 and it's so 100519215 perfect. And account name, is that your name Sian Mortrosong.
+[31 minutes 46 seconds][Customer] : Yep, Yep, yes, just my name. Yep.
+[31 minutes 50 seconds][Agent] : OK, perfect. So I'm going to read your declaration now.
+[31 minutes 59 seconds][Customer] : Yep.
+[31 minutes 54 seconds][Agent] : And as I said before, I'm going to send you applications to the underwriter to assess the performance span of your cover will be subject to the final assessment by the underwriter.
+[32 minutes 4 seconds][Customer] : Yep.
+[32 minutes 4 seconds][Agent] : If the issuer approves cover without any changes. Are you happy for me to record your acceptance of this policy now? And we'll send you out the policy documentation to your e-mail address and postal address as well.
+[32 minutes 17 seconds][Customer] : Yep.
+[32 minutes 17 seconds][Agent] : So are you happy for me to accept the policy on your behalf if you come back without any changes?
+[32 minutes 22 seconds][Customer] : Yes.
+[32 minutes 23 seconds][Agent] : Perfect. And sometimes the underwriter might have some extra questions to ask you.
+[32 minutes 28 seconds][Customer] : Yep.
+[32 minutes 27 seconds][Agent] : So if they come back with some further question, I'll get back to you to ask you those questions again.
+[32 minutes 32 seconds][Customer] : Yeah, that's all good. Beautiful.
+[32 minutes 32 seconds][Agent] : OK, thank you. So I'm going to read you the declaration now, and after that, I'll send the applications to the underwriter to access.
+[32 minutes 39 seconds][Customer] : Yeah.
+[32 minutes 41 seconds][Agent] : Perfect. I'm going to go back to your main profile, making sure I got all the details here correct.
+[32 minutes 46 seconds][Customer] : Yeah.
+[32 minutes 45 seconds][Agent] : So I got your full name. It's Missianne Moore.
+[32 minutes 49 seconds][Customer] : Yeah.
+[32 minutes 48 seconds][Agent] : Toto and the date of birth is second of the 12th 1997 and I got you as a female and Australian resident correct as well. Lovely.
+[32 minutes 53 seconds][Customer] : Yeah, yeah, yeah. Yep. Perfect.
+[32 minutes 59 seconds][Agent] : So for half $1,000,000 covers here your fortnightly payment is $23.15 per fortnight and your first payment it will be collected from your account on the 19th of this month which is on Thursday and after that every fortnightly basis from that day.
+[33 minutes 16 seconds][Customer] : Yep.
+[33 minutes 15 seconds][Agent] : OK lovely and I got your e-mail address is sian.moore.trotter@gmail.com correct?
+[33 minutes 22 seconds][Customer] : Yes. Correct.
+[33 minutes 23 seconds][Agent] : Lovely thank you so much.
+[33 minutes 27 seconds][Customer] : Yep.
+[33 minutes 24 seconds][Agent] : Now starting your declaration, now it says thank you Sian more Trotter, it is important you understand the following information. I will ask for your agreement to this terms at the end and your policy will not be enforced unless you agree to this terms in full.
+[33 minutes 40 seconds][Customer] : Yep.
+[33 minutes 40 seconds][Agent] : Family life cover is issued by Hanover Life Ari of Australasia Ltd whom we will refer to as Hanover. Hanover has an arrangement with Greensstone Financial Services, whom I will refer to as GFS Trading as real Insurance, to issue an insurance on his behalf. Hanover relies upon the accuracy of the information you have provided when accessing your application. That includes the information we initially collected from you to provide a correct. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to I need to remind you of the duty to take reasonable care that you agree to. And can you please confirm you have answered all of our questions in accordance with your duty, yes or no?
+[33 minutes 55 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, yes.
+[34 minutes 40 seconds][Agent] : Thank you. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services by, I think this declaration. You can't seem to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of Cyan MO Trotter received $500,000. In the event of life insurance, a benefit is not paid in event of suicide. In the 1st 13 months of the policy for Sian Mutrauta Life Insurance, unloading was applied during the application process. By agreeing to this declaration you agreed to any non standard exclusions or loadings placed on your policy and you understand they will remain in place for the life of the policy. You may request for any of these alternative terms to be reviewed at any time by calling us.
+[34 minutes 50 seconds][Customer] : Yep, Yep, Yep, Yep.
+[35 minutes 38 seconds][Agent] : Your premium for your first year of cover is $23.15 per foot. 9 Your premium is stepped which means it will be calculated at each policy anniversary and will generally increase as you age. Your Your sum insured will also increase. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 65% to cover cost. Your premium will be debited from your nominated bank account in the name of which you are authorized to debit from and have provided to us.
+[35 minutes 52 seconds][Customer] : Yep, Yep, Yep.
+[36 minutes 16 seconds][Agent] : The policy documentation, PDF and FHQ will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider this documents to ensure the product miss you miss. You have a 30 day cooling off. When you may cancel your policy at any premium you may have paid will be refunded in full unless you have lost a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which? We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you.
+[36 minutes 44 seconds][Customer] : Yep, Yep, Yep.
+[37 minutes 3 seconds][Agent] : And yeah, in regards to your premium, if you need more information, you can also find information about our premium structure on our website too.
+[37 minutes 11 seconds][Customer] : Perfect.
+[37 minutes 10 seconds][Agent] : OK, so I'm going to ask you two final question before we get this one accessed by the underwriter. The first question is, do you understand and agree with the declaration, yes or no?
+[37 minutes 17 seconds][Customer] : Yes, Yes.
+[37 minutes 22 seconds][Agent] : Last question, Thank you. Would you like any other information or would you like me to read any part of the PDF to you? Yes or no?
+[37 minutes 29 seconds][Customer] : No, I'm all good.
+[37 minutes 31 seconds][Agent] : Thank you so much. So see, and I'm gonna reverify your address line there because once you get approved and it's it's come back without any changes as you have given me the authority to accept.
+[37 minutes 42 seconds][Customer] : Yep.
+[37 minutes 42 seconds][Agent] : So you're gonna send you the hard copy to that postal address? So the hard copy will go to 1 Ronald Kurt, second home Victoria 3810. Is that correct?
+[37 minutes 53 seconds][Customer] : Yes, that's correct.
+[37 minutes 54 seconds][Agent] : And your postal address is exactly the same as the home address as well, right. Lovely. Thank you. But that's all done there Sienne, you'll receive, hopefully you'll re the underwriting team, they're quite efficient. If not today, hopefully by tomorrow or Friday will receive the outcome from us.
+[37 minutes 58 seconds][Customer] : Yep, Yep, Yep.
+[38 minutes 12 seconds][Agent] : But as I said before, if they come back with some further question, I'll get back to you and ask you this question and and send them back again.
+[38 minutes 20 seconds][Customer] : Perfect.
+[38 minutes 19 seconds][Agent] : OK, lovely. If you need me, I need any help from me or do not hesitate to call me back again at this number.
+[38 minutes 26 seconds][Customer] : Yep.
+[38 minutes 26 seconds][Agent] : And when you receive the emails from me, my name and number will be at the bottom of the e-mail. You do not hesitate to give me a call.
+[38 minutes 33 seconds][Customer] : Perfect.
+[38 minutes 32 seconds][Agent] : Alright, let's see. One last thing here, just to remind you, once you receive the policy copy, only thing you have to do is to finalize the beneficiary form. OK?
+[38 minutes 43 seconds][Customer] : Yep, Yep.
+[38 minutes 44 seconds][Agent] : So if you can, you can call customer support and you can nominate your parents over the phone. Otherwise, you can fill out the form and you can send it back to us as well.
+[38 minutes 55 seconds][Customer] : Perfect.
+[38 minutes 54 seconds][Agent] : Alright, lovely. That's all been done.
+[38 minutes 59 seconds][Customer] : No worries.
+[38 minutes 57 seconds][Agent] : Thank you so much for your patience for the whole time.
+[39 minutes][Customer] : Thank you so much.
+[39 minutes 2 seconds][Agent] : You're welcome. Cian, is there anything else I can assist you today before I let you go?
+[39 minutes 6 seconds][Customer] : No, it's all good. You've done an amazing job.
+[39 minutes 9 seconds][Agent] : Thank you so much for your understanding. I appreciate that. Have a lovely rest of the day and have a Merry Christmas.
+[39 minutes 14 seconds][Customer] : Thank you. You too. Merry Christmas.
+[39 minutes 15 seconds][Agent] : Thank you. Merry Christmas. Bye.
+[39 minutes 18 seconds][Customer] : Bye.

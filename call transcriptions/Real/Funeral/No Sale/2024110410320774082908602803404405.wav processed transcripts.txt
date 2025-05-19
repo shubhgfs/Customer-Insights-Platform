@@ -1,0 +1,81 @@
+[1 seconds][Agent] : Thanks for calling real insurance. Oh hey, how you doing?
+[5 seconds][Customer] : Good, champ. How you going?
+[7 seconds][Agent] : I'm pretty good.
+[8 seconds][Customer] : That's good. I didn't buy any drinks, mate. So I've got the sale for you.
+[12 seconds][Agent] : All right.
+[13 seconds][Customer] : Yeah, it's complete. Some customer care. But anyway, I'll jump out for you then. Long story short, I've got the pay purchase on the phone, Robert. OK, he recently took out the policy for GAIL a while back. He's looking to take out a policy for himself.
+[13 seconds][Agent] : It's umm, Yep, Yep. All right. So.
+[33 seconds][Customer] : So for the amount of $12,000, Yep, spot on.
+[37 seconds][Agent] : So his name is Robert Is the same last name Fullerton. All right, just because I'll try and look up his profile. Doesn't look like he's got one. That's OK.
+[40 seconds][Customer] : Yep, Yep, it. I tried to search for it before chance and yeah, couldn't find it.
+[53 seconds][Agent] : That's all right. We'll start one up for him. I'm ready. Whenever you are.
+[52 seconds][Customer] : So awesome. And I've done obviously all the ID questions for main date of birth address, contact details, e-mail address, if that matters. But all good. I'll do it. Won't transfer. Thanks. OK, dear. Alright, Awesome. Thank you so much.
+[1 minutes 6 seconds][Agent] : Yep, no worries.
+[1 minutes 12 seconds][Customer] : Thanks for holding. Thanks very much for your patience. Yeah, I do have the helpful look on the phone and he'll look after you this Monday. Thanks, guys. Thank you.
+[1 minutes 10 seconds][Agent] : What actually happened? Thank you so much for holding. So, umm, yeah, my name is Luke. I'm from the sales department here. Real insurance. How are you today?
+[1 minutes 30 seconds][Customer] : Yeah, good. Thanks.
+[1 minutes 31 seconds][Agent] : That's very good to hear. So, umm, my colleagues let me know, Robert, that you were looking at taking out a funeral insurance for yourself as well. Is that right?
+[1 minutes 38 seconds][Customer] : That's right. Yep.
+[1 minutes 39 seconds][Agent] : Perfect.
+[1 minutes 45 seconds][Customer] : Yeah. Robert Fullerton, 15954.
+[1 minutes 40 seconds][Agent] : So just to begin with, so I can create a profile for you, can I confirm please your full name and date of birth 5954?
+[1 minutes 59 seconds][Customer] : Yep.
+[1 minutes 52 seconds][Agent] : And just to triple check, so that's RABERTFULLERTON 280. And so I confirm that you're a male Australian resident. Too easy. So what we'll do for you. So I understand that you have umm, looked at cover before for umm, umm, your partner. So what we'll do is I'll run through how the cover works. Umm, just rehash how that works. Umm, if you have any questions, feel free to jump in, stop me at any point umm, And then we'll have a look at some quotes, find something suitable to help get set up for yourself. Umm, But all I get that umm loaded up as mentioned in terms of what you're actually covered for. So for the 1st 12 months, you'll be covered for accidental death and accidental serious injury only. And then after the first 12 months, you'll be covered for deaths due to any cause.
+[2 minutes 5 seconds][Customer] : Yep, Yep, Yep.
+[2 minutes 44 seconds][Agent] : And then in addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you're first diagnosed with a terminal illness with 12 months or less to leave by a medical practitioner in a very unfortunate case, we pay the funeral insurance yet to you in full. So you get it while you're still alive to help with things like medical costs as well as that way you can plan for the future accordingly with loved ones.
+[3 minutes 8 seconds][Customer] : Yep.
+[3 minutes 8 seconds][Agent] : Now of course, Rob, included in the cover is an early cash out option, which means any time after you reach 85 years of age, you can choose to end your cover if you do pay you 75% of the funeral insurance benefit. Lastly, of course, you may pay more in total premiums over the life of the policy then the benefit amount. So just please where this insurance is not of a savings or investment element. So if you cancel outside of the 30 days, your cover will stop and you not receive anything back unless you're eligible for and choose that early cash back. But of course, we'll be late to pick anywhere from 3000 to 15,000 for yourself to be covered for.
+[3 minutes 21 seconds][Customer] : Yeah, yeah, 12,000.
+[3 minutes 43 seconds][Agent] : Did you have an amount in mind that you were wanting to be covered for for the 12,000? Perfect, and I've got the quote loaded up before we go through that, was there any questions so far? All sounding pretty straightforward.
+[3 minutes 58 seconds][Customer] : Yeah, no, it's pretty, pretty well right.
+[4 minutes][Agent] : Too easy. Well, today for the 12,000 level of cover we'll be looking at for yourself, $55.83 per fortnight. And the great thing is that your premiums are designed to stay the same each year rather than going through yearly increases.
+[4 minutes][Customer] : Yep, Yep, Yep.
+[4 minutes 16 seconds][Agent] : And of course, you can also find information about our premium structure on our website. But Rob, for the 12,000 of funeral insurance, you've got some for yourself as well at $55.83 a fortnight. Did you feel that that would be affordable and suitable for you?
+[4 minutes 32 seconds][Customer] : Yep, Yep.
+[4 minutes 32 seconds][Agent] : All right, perfect. So just because we've opened up a new profile for you, I'll confirm a couple details and we can help get something put in place. Can I just confirm please a post code where you live and which town or suburb was that?
+[4 minutes 43 seconds][Customer] : 2875 Cundall.
+[4 minutes 49 seconds][Agent] : And could I confirm the address there please?
+[4 minutes 52 seconds][Customer] : Yeah, 22 Long St.
+[4 minutes 54 seconds][Agent] : 22 Long Street. And that's the same for your postal as well. And I've got your best phone 0478832779.
+[4 minutes 58 seconds][Customer] : Yes, that's right.
+[5 minutes 6 seconds][Agent] : And did you have an e-mail address?
+[5 minutes 9 seconds][Customer] : Yes. FU Double LO Bob Yeah, at bigpond.com.
+[5 minutes 15 seconds][Agent] : Yep, Bob, too easy. So yeah, we've confirmed all without. What we're able to do from here is help provide you with some immediate cover and of course, send out all the documentation for this policy as well. And the great thing is that even though you're covered from the end of the phone call, umm, well, we don't require upfront payment. We actually ask you when would you like for the first payment to come out?
+[5 minutes 50 seconds][Customer] : On the 11th of September please.
+[5 minutes 54 seconds][Agent] : Perfect. And do you prefer to pay for your insurances via BSP? An account or credit or debit card? There's no surcharge either way.
+[5 minutes 59 seconds][Customer] : Yes, pays pay pays pay account.
+[6 minutes 3 seconds][Agent] : Perfect. And before we do enter a BSP account, I just want to triple check. Umm Robert, are you happy to continue?
+[6 minutes 11 seconds][Customer] : Yep.
+[6 minutes 12 seconds][Agent] : Perfect.
+[6 minutes 15 seconds][Customer] : Savings account.
+[6 minutes 12 seconds][Agent] : So for this one, was it a savings or check account that's under your name? Robert Fullerton. And when you're ready, what was the BSB for this one, please?
+[6 minutes 20 seconds][Customer] : Yes, it's 882000.
+[6 minutes 33 seconds][Agent] : 882000 and just the account number please.
+[6 minutes 39 seconds][Customer] : OK, so I hadn't and I forgotten that. Yeah, it's 1001. So I'm going to have to go and open the thing.
+[6 minutes 50 seconds][Agent] : Yeah, that's all right. Take your time. Isn't it Rush?
+[7 minutes 3 seconds][Customer] : It won't take me just a moment to have a look. None. Yeah, still there, OK, right. Yeah, so 100128384.
+[8 minutes 6 seconds][Agent] : Yep, Yep, perfect. So all that's left for me to do now, Robert, is to read the final declaration that outlines the terms and conditions of cover. Does take a couple of minutes to read this one, so if you have any questions, feel free to jump in. Stop me at any point, umm, but after we finish reading this one, umm this will all be finished. Your cover will be in place.
+[8 minutes 36 seconds][Customer] : Yep.
+[8 minutes 36 seconds][Agent] : It just reads thank you Robert Fullerton, it is important you understand the following information. I'll ask your agreement to these terms at the end and your policy will not be enforced. So let's you agree to these terms in full Real funeral coverage issued by Hanover Life Rev Australasia Ltd, whom we'll refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services trading is real insurance the issue and arrange this insurance on its behalf. Your answers to the application questions and any related documents form the basis of your contract of insurance and how they realize upon the accuracy of the information you provided when assessing your application. How neighbors set a target market determination for this product, which describes the type of consumers this product is designed for.
+[9 minutes 16 seconds][Customer] : None.
+[9 minutes 15 seconds][Agent] : That distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer, admission with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By agreeing to this declaration, you can send to be contacted by us in relation to all the products and services.
+[9 minutes 44 seconds][Customer] : None.
+[9 minutes 44 seconds][Agent] : You can opt out of this in any time by contacting us. You've agreed to take out a single wheel funeral cover with the following cover Robert Fullerton's cover for $12,000. An event of death in the case where death is accidental or if you suffer to find accidental serious injury. The benefit of now will triple coverage for accidental death and only for the 1st 12 months of cover with death by any cause of diagnosis of a terminal illness covered thereafter. Accidental serious injury cover for each life insured Underage 75 starts immediately, means on the policy anniversary following the life insured 75th birthday.
+[10 minutes 15 seconds][Customer] : None.
+[10 minutes 14 seconds][Agent] : Once the life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and it's not of a savings or investment component. You can then be covered anytime by contacting us. If you stop paying your premiums we may only be covered, but we will give you notice before doing so. If coverings prior to age 85, no, but if it is payable and there's no refund of premiums after the cooling off.
+[10 minutes 46 seconds][Customer] : None.
+[10 minutes 45 seconds][Agent] : If cover continues beyond age 85, the life insured receive an additional 25% of bonus cover from that date and you'll not be required to pay any further premiums. The bonus cover is not payable if the early cash out option has been taken out. Cover for each life insurance on the day prior to their 100th birthday, we will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for your first year of coverage $55.83 per fortnight.
+[11 minutes 16 seconds][Customer] : None.
+[11 minutes 11 seconds][Agent] : Your premiums are level, which means the other side stay consistent year on year and when we change fuel to your cover or the insurer just the premium rates applying to your policy. The insurer can only make a change if it's applied consistently across all policyholders. You may pay more in premiums than the benefit amount of the life of the policy. Included in your premium is an amount payable to real insurance of between 32% and 59% calculated on a level basis over the life of the policy.
+[11 minutes 44 seconds][Customer] : None.
+[11 minutes 35 seconds][Agent] : Your premium will be debited from your nominated bank account in the name of Robert Fullerton, which authorized to debit from and have provided to us, and they provide written communications to you by the e-mail address you provided to us. This will include any legal notices you are required to provide to you in writing. If you prefer to receive these only by mail, you can update communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you provide this with an e-mail address, the policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the products meets your needs. You have a 30 day calling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged a claim.
+[12 minutes 15 seconds][Customer] : None.
+[12 minutes 13 seconds][Agent] : There are risks associated with replacing policies, so new policy may not be identical to your existing cover. We recommend you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which can access at any time by contacting us. Full details are available online and in the documentation we are sending you.
+[12 minutes 35 seconds][Customer] : Yep.
+[12 minutes 31 seconds][Agent] : So Robert, do you understand and agree with the declaration and would you like any other information? Would you like me to read any part of the PDS to you?
+[12 minutes 40 seconds][Customer] : No, it's not so good.
+[12 minutes 43 seconds][Agent] : Perfect. Well, congratulations because you're covered as of immediately for the 12 thousandth cover with real funeral cover and with first payment set for next Wednesday, the 11th of September. And of course, Robert, it's been an absolute pleasure speaking with you today and helping to get this all set up for you. But before I let you go, is there any other questions or anything else at all that I can assist with?
+[13 minutes 6 seconds][Customer] : That's all good.
+[13 minutes 8 seconds][Agent] : Perfect. Well, if you have any questions in the future, please feel free to give us a call. Always be more than happy to assist. But for today, Robert, thank you so much for choosing real insurance and do hope you have a lovely rest of your day.
+[13 minutes 20 seconds][Customer] : Thank you.
+[13 minutes 21 seconds][Agent] : I see a good one.

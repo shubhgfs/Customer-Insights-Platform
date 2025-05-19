@@ -1,0 +1,54 @@
+[2 seconds][Agent] : Welcome to the customer support department. You're speaking with Tracy. How can I help you today? OK. Do you have a policy NUM?
+[8 seconds][Customer] : I was wondering if I could get on that funeral, the funer, funeral payments to cover funeral.
+[18 seconds][Agent] : Yeah. Do you have a post?
+[18 seconds][Customer] : What was that?
+[19 seconds][Agent] : Do you have a policy number with us at all?
+[29 seconds][Customer] : I was with you, you know, back and then there's it got messed up with the bank.
+[38 seconds][Agent] : OK, that's OK. So can I grab your, can I grab your first name?
+[35 seconds][Customer] : So I've changed banks and I might 27th of the 11th, 46.
+[47 seconds][Agent] : Sorry. The 27th of the 11th, 46.
+[50 seconds][Customer] : Yeah.
+[50 seconds][Agent] : OK, that's your date of birth.
+[52 seconds][Customer] : Yeah.
+[51 seconds][Agent] : Can I grab your first name, Angela. And your surname, Angela?
+[53 seconds][Customer] : Angela Bridge.
+[59 seconds][Agent] : It should be B for Bravo. Yep.
+[1 minutes 3 seconds][Customer] : BRIDGE.
+[1 minutes 6 seconds][Agent] : OK. Yeah. All right. Let me just see if I can find you here. OK. All right. Now, can you also confirm for me the type of policy that you have with us? OK. Yep. No problem.
+[1 minutes 21 seconds][Customer] : It was just for a funeral policy, wasn't it? Yeah.
+[1 minutes 27 seconds][Agent] : Yeah, I don't know. I like. That's why I'm asking you. And can you also confirm for me the e-mail address we have on file?
+[1 minutes 37 seconds][Customer] : Oh, I wouldn't know that now.
+[1 minutes 39 seconds][Agent] : That's OK. Can you confirm for me your residential address? Yep, that's OK. Can you just give me the post code of that address as well?
+[1 minutes 45 seconds][Customer] : It was 9 Niagara Street in Armidale, NSW, But now I've moved 2350.
+[1 minutes 59 seconds][Agent] : Excellent. And can you confirm the mobile number that we would have on file?
+[2 minutes 5 seconds][Customer] : Oh, things have changed since then. I'll just have a look.
+[2 minutes 18 seconds][Agent] : So it might be the number that you're calling off.
+[2 minutes 21 seconds][Customer] : No, no, I've got a new number now. Was one of the numbers 0460572386.
+[2 minutes 24 seconds][Agent] : OK, no, OK, so.
+[2 minutes 36 seconds][Customer] : That might have been, that might have been Carly. My, you know, we have to give her next.
+[2 minutes 42 seconds][Agent] : Yep.
+[2 minutes 42 seconds][Customer] : Again, that might have been her number. Yeah.
+[2 minutes 45 seconds][Agent] : OK, that's OK. So did you know what frequency you paid your policy is? Did you pay them annually, monthly or fortnightly?
+[2 minutes 56 seconds][Customer] : Yeah.
+[2 minutes 54 seconds][Agent] : A fortnight. OK, let me just go into this one for you.
+[2 minutes 56 seconds][Customer] : A fortnight now.
+[3 minutes 10 seconds][Agent] : OK. And what would be that policy number?
+[3 minutes 8 seconds][Customer] : I've got a policy number here now, 731539485.
+[3 minutes 19 seconds][Agent] : OK, excellent. Alright, So I'm just looking at it here. It looks like your last date was quite a long time ago.
+[3 minutes 26 seconds][Customer] : A long, yeah.
+[3 minutes 28 seconds][Agent] : Yeah, it would have been the 18th of May 2017.
+[3 minutes 27 seconds][Customer] : It was a long time ago, yeah.
+[3 minutes 35 seconds][Agent] : Yep. So are you looking to purchase a new policy with us or?
+[3 minutes 43 seconds][Customer] : I was going to try if I could.
+[3 minutes 46 seconds][Agent] : Yeah. So you want to purchase a new policy with us, is that right? OK, So what I'm going to have to do, I am going to have to transfer you through to our sales team. OK, Alright. And they can obviously have that discussion with you if you want to purchase a new policy.
+[3 minutes 49 seconds][Customer] : Yeah, yeah, yeah. Alright then. Right. Thank you.
+[4 minutes 3 seconds][Agent] : OK, Alright, no problem. Yeah, So just bear with me. It might be a longer than two minutes, so I do apologize if it's longer than two minutes, OK.
+[4 minutes 19 seconds][Customer] : Yeah, no, that's fine.
+[6 minutes 11 seconds][Agent] : OK, Angela shouldn't be too much longer.
+[6 minutes 14 seconds][Customer] : Yeah, Now that's fine. Thank you.
+[6 minutes 13 seconds][Agent] : OK, no problem. Are you there, Angela? Yeah, I have Georgia here from our sales team. Now she's going to help you out with a new policy. OK.
+[7 minutes 45 seconds][Customer] : Yeah, Yeah. Alright then.
+[7 minutes 52 seconds][Agent] : All right. All right.
+[7 minutes 53 seconds][Customer] : Thank you.
+[7 minutes 53 seconds][Agent] : Excellent. George, I'm just transferring you through now. OK. Thanks, Tracy.
+[7 minutes 56 seconds][Customer] : Alright, thanks.

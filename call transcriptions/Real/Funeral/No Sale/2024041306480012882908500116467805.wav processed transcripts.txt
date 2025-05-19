@@ -1,0 +1,82 @@
+[12 seconds][Customer] : Hello.
+[13 seconds][Agent] : Hi, Sharon, it's Charles calling from Real Insurance. How you doing?
+[17 seconds][Customer] : Yeah, Good. Thank you.
+[19 seconds][Agent] : Awesome. I'm happy to hear that you're doing well. I'm giving you a call.
+[29 seconds][Customer] : Yeah.
+[22 seconds][Agent] : Following up in regards to the previous inquiry for the fuel insurance, I can say that one of my colleagues has been taking me through this one and then we're up to one of the final stages and in order to get this one processed for yourself, but just so I can bring this up for you, Sharon, can I please confirm I'm speaking with the correct person? Just confirming your first name, surname, and date of birth, Sharon.
+[42 seconds][Customer] : Sharon vet 28 second 1967.
+[45 seconds][Agent] : Awesome, thank you for that. I do just need to remind you that calls are recorded. Any advice that providers, general and nature might not be suitable to your situation? Can I please confirm that you're an Australian resident?
+[54 seconds][Customer] : Yep, Yep.
+[57 seconds][Agent] : Fantastic. So I can see here that my colleague had sent you out the quote with all the information attached and with the actual coverage itself. What did you think about that one? Were you still happy to organize immediate coverage for that one?
+[1 minutes 7 seconds][Customer] : Is it $37 something for the whole time or does it?
+[1 minutes 13 seconds][Agent] : Uh, so this one WI with this one. Your premiums are level Sharon, which means they are designed to stay the same as you get older. And in fact, Sharon, when you reach the age of 85, your premiums will actually cease. So you'll have nothing more to pay and will automatically receive a 25% bonus cover, which will be applied to that $15,000 benefit amount that you're looking at.
+[1 minutes 33 seconds][Customer] : Yes.
+[1 minutes 34 seconds][Agent] : Does that answer your question there, Sharon?
+[1 minutes 35 seconds][Customer] : Yeah. Just making sure I didn't have to pay extra during it.
+[1 minutes 38 seconds][Agent] : No, you're fine. You're, you're all good. We'll look from this one. What we'll essentially do is organize that immediate coverage for yourself. Umm, and then we'll get that put in place for you. But I just do need to cover some, some information with yourself. Umm, just on my end, considering I'm not the same person that you spoke with in that previous call. So I'm just going to go through this information for you and then we'll obviously organize, umm, that payment and then get that coverage in place.
+[1 minutes 54 seconds][Customer] : Yep, Yep.
+[2 minutes 1 seconds][Agent] : But for the 1st 12 months, Sharon, you'll be covered for accidental death and accidental serious injury. Only after the first 12 months you'll be covered for due to any cause. In addition, there is a Terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with the terminal illness with 12 months or less by a medical practitioner, we'll pay your claim in full.
+[2 minutes 21 seconds][Customer] : Yes.
+[2 minutes 21 seconds][Agent] : Your premiums again are level. Umm, so your premiums are level. And then this cover also provides you with an early cash flow option.
+[2 minutes 37 seconds][Customer] : Yep.
+[2 minutes 28 seconds][Agent] : So anytime after you reach age 85 years of age, you can choose to end your cover and we will pay you 75% of the funeral insurance benefit amount and you may pay more in total premiums over the life of the policy than the benefit amount. Please be aware this insurance is not the savings or investment element. So if you cancel outside of the 30 days, your cover will stop and you're not receiving anything back unless you're eligible for and choose yearly cash back option. But uh, sorry offer. But with this one, we generally collect payment within the next 7 days. One in the next 7 days would be more suitable for yourself, Sharon. So we can look at any day, umm, being today, tomorrow, next day, Thursday, Friday, next Monday if you wanted to. At the end of the day, it's just completely, umm, you know, it's up to you.
+[3 minutes 13 seconds][Customer] : Next Thursday?
+[3 minutes 9 seconds][Agent] : One today that works best for yourself next Thursday. So the next Thursday being the 18th of the 5th, is that correct? Cool. So I'm just going to confirm I've got this one down this next Thursday, the 18th of the 5th.
+[3 minutes 20 seconds][Customer] : I think so this Thursday.
+[3 minutes 26 seconds][Agent] : Are you happy for that one to be the first collection day this Thursday? Cool. So this Thursday being the 11th of the fifth, you're happy with that one? And how do you normally settle your insurance? Is that by direct debit or credit or debit card? There's no surcharge. I needed more. Cool. And was that via savings or a check account?
+[3 minutes 36 seconds][Customer] : Yes, direct debit savings.
+[3 minutes 52 seconds][Agent] : And what was the BSP for that one there?
+[3 minutes 55 seconds][Customer] : I'll have to have a look.
+[3 minutes 54 seconds][Agent] : Sharon, You're OK?
+[4 minutes 6 seconds][Customer] : Are you there?
+[4 minutes 8 seconds][Agent] : Yeah, Still here, Sharon. Cool.
+[4 minutes 10 seconds][Customer] : Yeah, The phone just went quiet.
+[4 minutes 12 seconds][Agent] : No, you're fine.
+[4 minutes 14 seconds][Customer] : Do I give you the number on my card or the?
+[4 minutes 17 seconds][Agent] : Oh, WW, whatever one works best for you. So you can do either direct debit or credit or debit card. Umm, it's completely up to you. Credit, credit card or debit account. Sorry. Umm, or direct debit.
+[4 minutes 27 seconds][Customer] : So I don't know what to do.
+[4 minutes 29 seconds][Agent] : So do you do you have the direct debit there with the BSB and account number? Cool. So we'll go about that one then. What was the BSB and that one there?
+[4 minutes 33 seconds][Customer] : Yeah, 193877.
+[4 minutes 39 seconds][Agent] : Yeah, yeah. And was that by 193877? Yeah. And then just the account number. Yeah. Cool.
+[4 minutes 47 seconds][Customer] : Yep 494554 2050.
+[4 minutes 59 seconds][Agent] : 205208. Cool.
+[4 minutes 59 seconds][Customer] : Sorry, 208, No, 205.
+[5 minutes 2 seconds][Agent] : So I'm just going to 2:05. Sorry. Cool.
+[5 minutes 6 seconds][Customer] : Yeah. 879.
+[5 minutes 6 seconds][Agent] : So I'm just going to confirm, I've got the PSB as 193877 879, sorry.
+[5 minutes 17 seconds][Customer] : Yep, Yep.
+[5 minutes 15 seconds][Agent] : And that's on the Bank of Melbourne, and I've got the account number as 494554205 and it's the account name under Sharon Burn. I'm sorry. Sharon Burt?
+[5 minutes 28 seconds][Customer] : I'll check.
+[5 minutes 30 seconds][Agent] : Yeah. OK, you're good.
+[5 minutes 31 seconds][Customer] : I think it is Sharon Jaybird.
+[5 minutes 36 seconds][Agent] : Sharon J Burt. Cool, and I've got the first collection date being the 11th of the 5th. Umm, I've got your best e-mail address as SC Sorry SHAZ b.urt67@gmail.com.
+[5 minutes 53 seconds][Customer] : Yep.
+[5 minutes 53 seconds][Agent] : Is that correct? Cool and I'm just going to rehash the coverage that we got here. So it's for $15,000 benefit now under us here at Real Insurance as a fortnightly premium of $37.96 you do receive back.
+[6 minutes 5 seconds][Customer] : How do I give you the people's names that the money goes to when I die?
+[6 minutes 10 seconds][Agent] : So with that one, we do send you out a beneficiary form through the through your post and that will be coming to your to your at postal address. So we send that out to you and then just pull that one out. It's a very simple process. Then we essentially know who the beneficiaries are at that point.
+[6 minutes 15 seconds][Customer] : Yep, Yep, Yep.
+[6 minutes 25 seconds][Agent] : But Sharon, the final step here is just to go through the declaration with yourself and then that coverage is put in place. And I'll just stop by reading this one here. Thank you, Sharon. But it is important you understand the following information. I'll ask your agreement to these terms at the end in your policy. You will not be enforced unless you agree to these terms in full or a funeral color is issued by Hanover Life Ari of Australasia Ltd Hanover has set an arrangement with Greenstone Financial Services Training as a real insurance to issue and arrange this insurance on its behalf. Your answers to the application questions and any related documents on the basis of your contracted insurance and however, relies upon the accuracy of the information you have provided when assessing your application. Hannah has set a target market determination for this product, which describes the type of consumers. This product is designed for a distribution practice as an app consistent with this determination and you can attend a copy on our website. We collect your personal information to provide. Sorry, We collect your personal information to provide insurance quotes, issue cover and other related services. We share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims.
+[7 minutes 35 seconds][Customer] : None.
+[7 minutes 34 seconds][Agent] : Our privacy policy tells you more, including how to access and correct your information and much complaints about breaches of privacy. We may from time to time provide office to you about the communication methods you have provided to us in relation to other products and services. By bringing this declaration you can tend to allow us to contact you for this purpose until you opt out. You cannot that of this at any time. By contacting us, you have agreed to take out a single real funeral cover with the following cover. Sharon Bird is covered for $15,000 in the event of death. In the case where death is accidental or or if you suffer defined accidental serious injury, the benefit amount will triple.
+[8 minutes 13 seconds][Customer] : Hi.
+[8 minutes 9 seconds][Agent] : Cover is for accidental death only for the first 12 months of trouble with death by the causal diagnosis of the terminal almost covered thereafter. Accidental serious injury cover for each life insured under age 75 starts immediately and end on the policy following the life insured 75th birthday. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's Co that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash option offer, you will no longer have a right to claim under the policy for that life insured. This policy does not have a savings or investment component. If cover ends prior to age 85, the benefit is payable. There is no refund of premiums after the going up. If you choose to retain cover beyond age 85, you will be entitled to an additional 25% of bonus cover from that date and you will not be required to pay any further premiums after the Life insured to 85th birthday. The bonus cover is not payable if you take the early cash option. Each life insured ends in the day price their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point. Your total premium for the first year of cover is $37.96 per fortnight. Your premium is designed to stay the same year in year and will only change if you alter your cover or the insurer adjust the premium rate applying to your policy. You may pay more in premiums in the benefit amount over the life of the policy. Included in your premium isn't about payable to real insurance of between 31% and 57% calculated on a level basis over the life of the policy. Your premium will be debited from your nominated no from your nominated bank account in the name of Sharon Drake Bird, which you are authorized to debit. Someone has provided to us, we may provide written communications to you by the e-mail address you have provided to us and this will include any legal notices which we are required. Sorry, any legal notices we are required to provide to you in writing. If you would prefer to receive these by mail, you can update your communication preference at any time. We will send you a welcome pack including your policy schedule, PDS and FSG by e-mail. If you have provided us with an e-mail address, your policy schedule will also be emailed to you today. You should carefully consider these documents to ensure the product needs. You have a 38 calling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged the claim. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Sharon. With that being said, do you understand and agree with the declaration? I've read you yes or no? Sorry, I just need a clear yes or no for that one. Sorry Sharon.
+[10 minutes 36 seconds][Customer] : I, I think so, yes.
+[10 minutes 41 seconds][Agent] : Yes. And would you like any other?
+[10 minutes 42 seconds][Customer] : So it won't go up any further than $37 something ever.
+[10 minutes 46 seconds][Agent] : So with, with this one, your premium is designed to stay the same year and year and will only change if you alter your cover or the insurer adjusts the premium rights applying to your policy. Umm, so that's, that's essentially for that question there.
+[11 minutes][Customer] : Yeah. I don't want to pay any more than $37 something for the whole lot of it.
+[11 minutes 5 seconds][Agent] : No, I completely see where you're coming from, Sharon. It's just for you 2 did did that answer your question there for you, by the way? Cool. Sorry, was that just a yes?
+[11 minutes 13 seconds][Customer] : I think so, yes.
+[11 minutes 17 seconds][Agent] : Sharon, I'm just going to read this one again. So do you, do you understand and agree with the declaration of review, yes or no?
+[11 minutes 24 seconds][Customer] : Yes.
+[11 minutes 24 seconds][Agent] : And would you like any other information about the insurance now or would you like me to read any part of the PDF to you? Yes or no? Cool. So Sharon, just confirming with yourself. I've got that going back to shazbert67@gmail.com. Beautiful. So I'm sending that one out to your e-mail address and also sending it to your umm home address, also to your postal address as well-being 23 Granol Parade, Corrio Victoria 3214. Is that correct?
+[11 minutes 33 seconds][Customer] : No, Yep, Yep, Yep.
+[11 minutes 56 seconds][Agent] : Cool. So I'm sending that documentation out to yourself, but I do just want to thank you for your time today. Is there anything else that I can assist you with today?
+[12 minutes 3 seconds][Customer] : No. I just wanted to make sure that it wasn't gonna go up in price.
+[12 minutes 7 seconds][Agent] : No, I completely see where you're coming from. Well, look, I'll leave that one with you for the moment there, Sharon. But yeah, just just with the premiums, I will let you know again, just that your premiums are level, which means they are designed to stay the same as you get older. And when you reach the age of 85, your premiums will cease. So you'll have nothing more to pay and will automatically receive 25% bonus cover.
+[12 minutes 20 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 27 seconds][Agent] : And this will be applied to your benefit amount. Umm, and the premium. Correct. Yeah, correct.
+[12 minutes 29 seconds][Customer] : So you're sending me the paperwork for me to write down the people's names that get the money if I die?
+[12 minutes 34 seconds][Agent] : Yeah, correct. That's exactly right, Sharon. Cool. Well, I'll leave that with you for a moment, but thank you so much for your time. Hope you have a lovely rest of your day.
+[12 minutes 39 seconds][Customer] : OK, OK, bye.
+[12 minutes 45 seconds][Agent] : Thanks and bye.

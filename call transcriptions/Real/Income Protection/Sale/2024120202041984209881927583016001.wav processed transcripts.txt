@@ -1,0 +1,296 @@
+[3 seconds][Agent] : Welcome to Real Insurance. My name is Andrew. How can I help you?
+[7 seconds][Customer] : Hello, I'm, I'm just returning a call for returning a call for page.
+[13 seconds][Agent] : Yeah, yeah, of course. For pays. Did you save it? Was that Paige?
+[17 seconds][Customer] : Yeah, it's a page, yeah, yeah, yeah.
+[22 seconds][Agent] : Yeah.
+[21 seconds][Customer] : And I'm very keen to have a chat because I've and I have a couple of income protection, umm, insurance quotes and they also like I can't get it.
+[32 seconds][Agent] : Oh, OK, we can have a look for your page. Before we go into that. Please note all of our calls are recorded. And thank you for returning the call. My name is Andrew from Real Insurance, so if you have any questions along the way just let me know. And any advice that provides general in nature and may not be suitable for your situation. So Paige, could I please confirm your full name and your date of birth?
+[44 seconds][Customer] : Yep, Yep.
+[56 seconds][Agent] : Yep.
+[53 seconds][Customer] : Full name is Paige McGowan and my date of birth is the 7th of May 1996.
+[59 seconds][Agent] : Perfect. Thank you. Just going into your profile on our page won't be long and I can get a better look and see what you do. What you looked at online for us.
+[1 minutes 5 seconds][Customer] : Great. Thank you.
+[1 minutes 7 seconds][Agent] : Oh yeah, I've got your e-mail here. Could you confirm that for me as well, please?
+[1 minutes 11 seconds][Customer] : Yep, it's paigemcgowan1234@outlook.com.
+[1 minutes 16 seconds][Agent] : Perfect. So you looked at the income protection insurance, I can see.
+[1 minutes 20 seconds][Customer] : Yes, yeah.
+[1 minutes 21 seconds][Agent] : Yep. So I'll run into what income protection insurance is. I mean, it sounds probably a little bit obvious based on the name of it, but there are some different features and benefits that I'll let you know about. And just to clarify, so you said you've been looking around, you've been having a bit of trouble getting it. Let's just see if that's an issue on our end straight away so I don't waste your time, of course.
+[1 minutes 32 seconds][Customer] : Yep, Yep.
+[1 minutes 40 seconds][Agent] : What was the reason for that? You aren't able to get it usually.
+[1 minutes 44 seconds][Customer] : Because I got like those with ulceritis, colitis, like a, it's like a, it's like a minor form of it. It's like only it's like Titus or something.
+[1 minutes 52 seconds][Agent] : OK, so ulceritis. Colitis, did you say it's called?
+[1 minutes 57 seconds][Customer] : Yeah.
+[1 minutes 58 seconds][Agent] : Let me have a look.
+[1 minutes 58 seconds][Customer] : And I think that's why I keep getting knocked back. But I, I need to get some sort of cover like that for my work. So I just if you have any advice on how I can go about it that would be great.
+[2 minutes 9 seconds][Agent] : Hmm. So it's it's in regards to Bell, look, there's there's a section the underwriting questions that have Bell in there. I guess we could just list it there might just refer if there is a decline, of course, I'll just let you know. But based on what you're telling me now, I mean, I'm, I don't have an answer to that. I think it might even just be an exclusion potentially, but the best way to find out is just to go through the process and then see how you go.
+[2 minutes 30 seconds][Customer] : Yeah, Yeah, yeah, right.
+[2 minutes 33 seconds][Agent] : So I'll guide you through a page and then when we get to that, our question, we'll go from there.
+[2 minutes 38 seconds][Customer] : Yeah, it's Missus. I got married a week ago.
+[2 minutes 38 seconds][Agent] : Umm, and would you prefer the title on the profile being Miss Misses or miss? Oh, nice. How good, how exciting. I got married in October. So we're both freshly married.
+[2 minutes 50 seconds][Customer] : Yeah. Busy time to get married. Yeah. Christmas.
+[2 minutes 52 seconds][Agent] : It is, it is so, umm, I've got Mrs. Paige McGowan SE uh, seventh of the 5th 1996 and then the e-mail paigemcgowan1234@outlook.com. So yeah, you may need to hear getting this just because it's a requirement for work. That's fine. I hear it pretty often. So when it comes to income protection insurance, uh, it's ultimately paying a monthly income benefit directly to you. If you're unable to work due to a disabling sickness or injury and you suffer a loss of income. Umm, it's then designed to help cover your bills and living costs in a unfortunate situation.
+[3 minutes][Customer] : Yeah, yeah, yeah.
+[3 minutes 24 seconds][Agent] : Salary is interrupted, umm, when it comes to paying the premiums for this, I'll assure the pricing soon, But as long as you can keep up with those premiums, when it comes down to tax return, uh, each year, the premiums for income protection are generally tax deductible, which can make it even more cost effective for you.
+[3 minutes 42 seconds][Customer] : Great. Yep.
+[3 minutes 42 seconds][Agent] : OK, so when it comes to that time of year, we can provide you with the relevant documentation that you'd need in order to sort out the tax side of things.
+[3 minutes 50 seconds][Customer] : Great.
+[3 minutes 50 seconds][Agent] : Now, umm, we offer an income benefit of up to 70% of your monthly pre tax income from $1000 up to a maximum of $15,000 of cover. Very easy to apply for. No medical checks or blood tests required.
+[4 minutes 7 seconds][Customer] : Yeah.
+[4 minutes 3 seconds][Agent] : Yes, you did let me know about that disclosure of the ulcerated colitis, something that's pronounced, UMM, that one there. We'll find out in the application, of course, if you're approved, umm, and if you know, if you're happy with it, then it can cover you into your policy anniversary following your 65th birthday.
+[4 minutes 25 seconds][Customer] : Great.
+[4 minutes 19 seconds][Agent] : So I know you're only 28, but just letting you know that that's how long you can have this policy in place if you need to, Umm, and keep in mind that there are some exclusions that apply as outlined in PDS and depending on how you answer the health and lifestyle questions, further exclusions can apply. Then I'll of course let you know about those if that, uh, is the case.
+[4 minutes 39 seconds][Customer] : Yep. Bye. Yep.
+[4 minutes 39 seconds][Agent] : Now in regards to the, umm, your occupation, I should say we do a duty based assessment. So that's, that's basically just a few yes or no questions surrounding your occupation to give us an idea. And then umm, we'll continue from there. So first of all, can I please confirm that you are a female Australian resident?
+[4 minutes 50 seconds][Customer] : Yep, yes.
+[4 minutes 57 seconds][Agent] : Thank you. And in regards to the duty based assessment, before answering any of our questions, it is important that you are aware of your duty to answer all our questions accurately and honestly.
+[5 minutes 8 seconds][Customer] : Yep.
+[5 minutes 7 seconds][Agent] : Failure to do so could impact your coverage claims time.
+[5 minutes 11 seconds][Customer] : Yep.
+[5 minutes 10 seconds][Agent] : OK, so the first question that I see is you want it just says do you work 15 hours or more per week? Yes or no? Thank you.
+[5 minutes 18 seconds][Customer] : Yes, Yep, yes.
+[5 minutes 20 seconds][Agent] : Is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment yes or no thank you. Do you perform heavy physical duties, use heavy machinery, or drive a vehicle?
+[5 minutes 37 seconds][Customer] : No.
+[5 minutes 36 seconds][Agent] : Yes or no thank you. Sorry next question says are you qualified skilled or semi skilled or hold the required licenses to perform your role?
+[5 minutes 50 seconds][Customer] : Yes.
+[5 minutes 49 seconds][Agent] : Yes or no Thank you. Do you work in any of the following fields? Aviation as a pilot or crew, entertainment or sporting industry, Air Force, army, armed forces or do you handle explosives? Yes or no, thank you. Do you regularly work underground or underwater? Worker heights above 10 metres, work offshore or carry a firearm? Yes or no?
+[6 minutes 3 seconds][Customer] : No, no.
+[6 minutes 14 seconds][Agent] : Thank you. So that's the duty based assessment complete. So thank you for your patience while I went through that.
+[6 minutes 21 seconds][Customer] : Correct.
+[6 minutes 20 seconds][Agent] : Just going to the next part now. OK, now for your current occupation, are you currently employed or self-employed?
+[6 minutes 30 seconds][Customer] : self-employed.
+[6 minutes 31 seconds][Agent] : Yep. So the reason I ask is because we give a definition of what pre tax income is.
+[6 minutes 41 seconds][Customer] : Yep.
+[6 minutes 36 seconds][Agent] : So pre tax income is your share of annual income earned in the business before tax directly due to your own personal efforts. So that's any business expenses and excluding super contributions. This is the amount that the business would otherwise cease earning in the event you are unable to work due to a disability. So currently what's your annual income before tax? 2:20 Yep.
+[6 minutes 48 seconds][Customer] : Yep, about 220 thousand, yeah.
+[7 minutes 2 seconds][Agent] : So 220,000. And for your smokers status, have you had a cigarette in the last 12 months?
+[7 minutes 2 seconds][Customer] : So yeah, no, I've had a baby though.
+[7 minutes 12 seconds][Agent] : Vape. OK. And for the monthly benefit amount you can choose between $1000 being the minimum up to a maximum of $12,833 for the maximum. So between and this is based on your duties and income, so between $1000 up to 12,833. What monthly benefit amount would you like me to quote you on?
+[7 minutes 37 seconds][Customer] : What?
+[7 minutes 41 seconds][Agent] : Yep. OK, let's have a look.
+[7 minutes 38 seconds][Customer] : So maybe like 10,000, yeah.
+[7 minutes 46 seconds][Agent] : So for the $10,000 monthly benefit amount, we can look at a waiting period of 30 days or 90 days for this insurance. So the waiting period's a non payment period that you must wait before the income benefit is payable after the insured.
+[8 minutes 3 seconds][Customer] : Oh, yeah.
+[8 minutes 2 seconds][Agent] : Of that as I said you can choose 30 days and 90 days. Please keep in mind the income benefit is paid monthly in arrears. So this means if you choose a 30 day waiting period, your first payment would be 60 days after you were first eligible to claim. So which waiting period would you like me to select for you out of 30 days or 90 days?
+[8 minutes 24 seconds][Customer] : Oh, maybe, maybe just do 30 days.
+[8 minutes 26 seconds][Agent] : 30 days is more expensive, 9 days is the lower cost, but obviously it's because of the waiting period aspect. So 30 days did you say?
+[8 minutes 36 seconds][Customer] : Yeah, Just do 30 days, yeah.
+[8 minutes 38 seconds][Agent] : Yep. Now the benefit. Is the maximum amount of time that we will pay the income benefit for anyone injury or illness. So you can choose six months, one year, two years or five years. So which benefit. Would you like me to select?
+[8 minutes 55 seconds][Customer] : Maybe 2.
+[8 minutes 58 seconds][Agent] : Let's have a look. OK, so if we're looking at a $10,000 monthly benefit amount, there's a 30 day waiting period and a two year benefit. Fortnightly. The premium for that would be $141.54 per fortnight if you want to go with that amount.
+[9 minutes 7 seconds][Customer] : Yeah, yeah, yeah.
+[9 minutes 17 seconds][Agent] : If you want to drop that cost, 90 days waiting period brings it down to $73.07 a fortnight. And then further there a one year benefit. In in conjunction with the 90 days brings it to $51.96 fortnight for the 10,000 of cover. So you can see that you know, adjusting those bits and pieces adjust the premium.
+[9 minutes 39 seconds][Customer] : Yeah, maybe we'll do. I can. Can I do the sorry, can I just change it to 90 days waiting period for the two years cover or the two? Yeah, yeah.
+[9 minutes 38 seconds][Agent] : But as I said, is yeah, that's fine, of course. So we got a 90 day waiting period with a 2 year benefit. And a $10,000 monthly benefit amount. You'd be looking at a fortnightly premium of $73.07 a fortnight.
+[9 minutes 55 seconds][Customer] : Yeah, Yeah.
+[10 minutes][Agent] : Uh, of course, as long as you can maintain those payments, you know, when it comes down to tax return, then of course we umm, provide you with that relevant documentation you need so you can organize the tax side of things as the premiums for income protection insurance are generally tax deductible.
+[10 minutes 18 seconds][Customer] : Yeah, right.
+[10 minutes 17 seconds][Agent] : OK, now we'll go for the health and lifestyle question. See how you go. Umm, if there's pre-existing conditions, generally they're exclusions for those kind of things. So just keep that in mind.
+[10 minutes 28 seconds][Customer] : Yeah.
+[10 minutes 28 seconds][Agent] : Umm, but yeah, we'll see how we go and hopefully get the outcome you're looking for. Umm, another thing to note with this insurance is it's not just about providing a monthly income benefit to pay for those bills and living costs, but it's also about getting you back to work so that you're, so that you're able to, umm, they're making a regular income again. So there is a rehabilitation benefit included, which means that it pays a reimbursement of up to 50% of your monthly income benefit to a maximum of $3000 to help with rehabilitation costs whilst claiming, or we can reimburse up to six times your income benefit towards cost of equipment or modifications required to assist your return to work.
+[10 minutes 48 seconds][Customer] : Yeah, Yep, yeah.
+[11 minutes 9 seconds][Agent] : So that's also part of it as well.
+[11 minutes 11 seconds][Customer] : Great.
+[11 minutes 11 seconds][Agent] : Now, uh, what's your post code for your home address? OK, 225 O in the suburb Wyoming. Yep.
+[11 minutes 14 seconds][Customer] : 2250 Wyoming A 100A Glenny St. 110 Glenny St.
+[11 minutes 23 seconds][Agent] : And the street address and the number 110. Oh yeah, I see it. Glenny Street. Is that your postal address?
+[11 minutes 33 seconds][Customer] : which is gle Yeah.
+[11 minutes 40 seconds][Agent] : Thank you. Umm, and you also do get a final expenses benefit with this policy. Not a very exciting topic. It's, it's if you were to unfortunately pass away under this policy, then we can pay $10,000 to your beneficiaries in that unfortunate event so that they can use it for medical, for funeral cost, etcetera. In that unfortunate situation. Now, umm, your premium is stepped, which means that it will generally increase each of your age.
+[11 minutes 54 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 5 seconds][Agent] : We do like to give a premium projection of that. Umm, you'll see what I mean in a second. So as an indication, if you make no changes to the policy, your premium next year would be $74.07 per fortnight for the $10,000 monthly benefit amount with a 90 day waiting period and a two year benefit.
+[12 minutes 26 seconds][Customer] : What?
+[12 minutes 26 seconds][Agent] : So that would be going from $73.07 a fortnight to $74.07 a fortnight.
+[12 minutes 40 seconds][Customer] : Yep.
+[12 minutes 33 seconds][Agent] : Your following year of cover, umm, the year after that in 2026 will be $74.54 per fortnight, OK Umm, please be aware that all of our premium projections are indicative only and assume that you do not make any amendments to your cover. That's just an example for you. And you can also find information about our premium structure on our website if you need to. Anyway, I just like to go over to some people on the phone.
+[12 minutes 55 seconds][Customer] : Yep, Yep.
+[12 minutes 55 seconds][Agent] : OK, Now we'll go into those health and lifestyle questions for you. I'm just going to read you a short paragraph prior. It simply explains what's expected of myself and ask you these questions, what's expected of yourself and answering them.
+[13 minutes 2 seconds][Customer] : Yep, Yep.
+[13 minutes 7 seconds][Agent] : And, uh, if you get the outcome that you're looking for, then we can organize the policy for you over the phone very easily. And then following your first policy anniversary date, we actually give you a refund of $189.98 if you were to go for this monthly benefit amount, umm waiting period and benefit. For the fortnightly premium of $73.07. OK, now do you have any questions for me before I hop into the health and lifestyle questions? No, it's all clear at the moment.
+[13 minutes 14 seconds][Customer] : Yep, Yep, Yep.
+[13 minutes 40 seconds][Agent] : Yep, so easy so just read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase an Income Protection policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty? Yes or no?
+[14 minutes 46 seconds][Customer] : Yes.
+[14 minutes 46 seconds][Agent] : Thank you. So first question for you now, Paige, Uh, it's nice, easy ones in regards to COVID, so it says have you been hospitalized for COVID-19 in the last 12 months or have you been, oh, sorry. Or have you experienced any ongoing symptoms or complications associated with your COVID-19 infection in the last 30 days? Yes or no? Thank you. Umm are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia, Yes or no?
+[15 minutes 5 seconds][Customer] : No, yes.
+[15 minutes 15 seconds][Agent] : Thank you. Does your work require you to use explosives, travel to areas experiencing war or civil unrest, or work offshore? Yes or no?
+[15 minutes 24 seconds][Customer] : No.
+[15 minutes 26 seconds][Agent] : Are you A employed or B self-employed? Thank you. Do you own a business or are you a contractor?
+[15 minutes 30 seconds][Customer] : B self-employed, yes.
+[15 minutes 37 seconds][Agent] : Thank you. Are you a business owner or are you a contractor?
+[15 minutes 41 seconds][Customer] : A contractor?
+[15 minutes 42 seconds][Agent] : Thank you. Are you currently contracted or subcontracting? So we'll say yes.
+[15 minutes 48 seconds][Customer] : Yes.
+[15 minutes 51 seconds][Agent] : Oh, wait. Sorry, I read that. Did I read that right? Yeah. So I just asked, are you currently contracted or subcontracting?
+[15 minutes 57 seconds][Customer] : Yes.
+[15 minutes 57 seconds][Agent] : Thank you. Do you expect your income to reduce in the next 12 months? Yes or no? Thank you. If you were to become disabled and unable to work, would your business continue to generate income for more than 60 days? Yes or no, Thank you. The next one says, do you have a second occupation that generates a taxable income, yes or no? Have you ever been declared bankrupt or placed in receivership, in voluntary liquidation or under administration? Yes or no?
+[16 minutes 3 seconds][Customer] : No, No, no, no.
+[16 minutes 31 seconds][Agent] : The next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So for the first question, it says what is your exact height in either centimeters or feet and inches 172 CMS. What is your exact weight, either kilograms, pounds or stones?
+[16 minutes 53 seconds][Customer] : 172 centimetres, 70 kilograms.
+[17 minutes 5 seconds][Agent] : Thank you. The next question says to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS, yes or no? Thank you. Have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[17 minutes 16 seconds][Customer] : No, no.
+[17 minutes 24 seconds][Agent] : Yes or no, Thank you. Do you have definite plans to travel or reside outside of Australia IE booked or will be booking to travel within the next 12 months? Yes or no Thank you. The next question says do you have existing income protection cover, yes or no, Sorry.
+[17 minutes 35 seconds][Customer] : No, I did.
+[17 minutes 45 seconds][Agent] : OK, so just based on the time application, do you have existing income protection cover? Yes or no?
+[17 minutes 44 seconds][Customer] : So no, no.
+[17 minutes 52 seconds][Agent] : Thank you. The next one says have you ever had symptoms of, been diagnosed with or traded for or intend to seek medical advice to any of the following?
+[18 minutes 7 seconds][Customer] : Yep.
+[18 minutes 2 seconds][Agent] : So, uh, I'm just gonna skip straight to that bowel and see what comes up as, uh, where is it? Here it is. So it says hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. So we'll say yes in regards to the bowel. Umm and based on your response, please answer yes or no for each of the following. Hepatitis yes or no? Disorder of the liver Yes or no?
+[18 minutes 32 seconds][Customer] : No, no, no.
+[18 minutes 39 seconds][Agent] : A disorder of the stomach or bowel will say yes.
+[18 minutes 42 seconds][Customer] : Yes.
+[18 minutes 43 seconds][Agent] : A sorry. A disorder of the bowel sorry, where is it? Bowel disorder, yes or no, will say yes. Yep. And it says is it Crohn's disease or sorry. Crohn's disease or ulcerative colitis will say yes.
+[18 minutes 51 seconds][Customer] : Oh, yes, yes, yes, yes. Altrider suppliers.
+[19 minutes 2 seconds][Agent] : Oh, sorry. Ulcerative. This one is ulcerate. Ulcerative.
+[19 minutes 7 seconds][Customer] : Yeah, it's probably called, that's probably called Rome.
+[19 minutes 10 seconds][Agent] : All good? Yeah. Ulcerated. Ulcerative colitis, Sorry. So we'll say yes and then it says Crohn's disease, yes or no.
+[19 minutes 14 seconds][Customer] : Yeah, that's the no.
+[19 minutes 20 seconds][Agent] : Ulcerative colitis will say yes. OK. So when we say yes to that, it doesn't decline the application.
+[19 minutes 22 seconds][Customer] : Yes, it doesn't.
+[19 minutes 29 seconds][Agent] : It's just has a no, it just has an exclusion. So it says no benefit will be, says no benefit will be payable for any disability condition, disease, disorder, treatment of complications related to or arising from ulcerative colitis.
+[19 minutes 33 seconds][Customer] : Oh, great, great, great.
+[19 minutes 43 seconds][Agent] : Perfect. So we'll continue the application.
+[19 minutes 46 seconds][Customer] : Yep.
+[19 minutes 47 seconds][Agent] : Umm, so yeah, this section here again just says, have you ever had symptoms of, been diagnosed with or treated for, or tend to seek medical advice for any of the following cancer, tumour, mole or cysts, including skin cancer, some spots, Melanoma or leukemia, Yes or no. The next one says stroke, chest pain, palpitations or heart conditions such as but not limited to heart attack and angina or high blood pressure. Yes or no? High cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no Diabetes raise blood sugar. Impaired glucose Tolerant or impaired fasting glucose.
+[20 minutes 2 seconds][Customer] : No, no, no, no.
+[20 minutes 26 seconds][Agent] : Yes or no Thank you. Have you ever had an abnormal cervical smear? Yes or no?
+[20 minutes 34 seconds][Customer] : Yes.
+[20 minutes 35 seconds][Agent] : Yep. So this has the drop down saying what was the abnormality described as by your doctor? So HPV, human papilloma virus or wart virus, CIN 1, CIN 2, CIN 3, abnormal cells, precancerous lesions, slash cells or cervical dysplasia or don't know.
+[20 minutes 53 seconds][Customer] : Don't know. It was a lot of hands.
+[20 minutes 55 seconds][Agent] : Don't know enough. Have your follow up cervical scheme has been normal since yes or no? Thank you. Have you been given clearance by your doctor with no ongoing treatment or monitoring required other than routine cervical smear tests?
+[21 minutes][Customer] : Yes, Yes.
+[21 minutes 9 seconds][Agent] : Yes or no, Thank you.
+[21 minutes 17 seconds][Customer] : No.
+[21 minutes 12 seconds][Agent] : The next question says gallbladder or pancreas, yes or no, thank you. And this is in regards to the question where it says hepatitis or any disorder of the liver, stomach bell, gallbladder or pancreas.
+[21 minutes 27 seconds][Customer] : Yep.
+[21 minutes 26 seconds][Agent] : We did say yes to that and then in one of the drop downs it says, again, based on your response, please answer yes or no for each of the following. And then it says gallbladder or pancreas, yes or no, Thank you. Next one says epilepsy, motor neuron disease, multiple sclerosis, osteo dystrophy, Parkinson's disease or paralysis. Yes or no.
+[21 minutes 35 seconds][Customer] : No, no.
+[21 minutes 47 seconds][Agent] : Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no? OK, so we'll do the drop downs because it's it's also like symptoms etcetera.
+[21 minutes 55 seconds][Customer] : I don't have a diagnosis, but I have done like counselling, yeah.
+[22 minutes 6 seconds][Agent] : So it says is your condition a form of schizophrenia, bipolar or psychotic disorder, yes or no? Is your condition depression, anxiety, post Natal depression or stress including post traumatic stress disorder, yes or no?
+[22 minutes 12 seconds][Customer] : No Anxiety yes.
+[22 minutes 22 seconds][Agent] : Yep. And it says how many episodes have you had which required treatment? Would you say 1 to 2/3 to 4/5 to 6/7 plus? Yep. So we'll go one to two episodes and it says was it more than one episode, yes or no?
+[22 minutes 29 seconds][Customer] : 1 no.
+[22 minutes 36 seconds][Agent] : Have you had sorry? Have you had symptoms or treatment for this condition within the last six months, yes or no? Have you ever seriously contemplated or attempted suicide? Yes or no? Have the factors of sorry, have the factors or causes that triggered the symptoms being partially or fully removed, yes or no? Yep. In the last 10 years, have you required hospitalization as a result of this condition? Yes or no? In the last five years, how much time off work have you required as a result of this condition? Zero to two weeks. Two to four weeks or more than four weeks?
+[22 minutes 41 seconds][Customer] : No, no, yes, that's No 0.
+[23 minutes 10 seconds][Agent] : Yep. So we're zero to two because it's zero.
+[23 minutes 13 seconds][Customer] : Yeah.
+[23 minutes 12 seconds][Agent] : The next one says any illegal drug use, abuse of prescription medication or received medical advice or counselling. So alcohol consumption, Yes or no. Disorder of the kidney or bladder, Yes or no. Blood disorder or disease, Yes or no. Asthma or other respiratory disorder, excluding childhood asthma, Yes or no. Back or neck pain or disorder, Yes or no. Arthritis, Chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia, Yes or no. Joint or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Yes or no? Osteoporosis or osteopenia? Yes or no?
+[23 minutes 21 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[23 minutes 58 seconds][Agent] : Any defective hearing or sight other than which is corrected by glasses or contact lenses. Yes or no?
+[24 minutes 3 seconds][Customer] : No.
+[24 minutes 4 seconds][Agent] : Thank you. There's only about 5 questions left by the way. Almost done.
+[24 minutes 8 seconds][Customer] : Oh, no. That's all good. Thank you.
+[24 minutes 10 seconds][Agent] : That's OK. So for this one here, a disorder of the stomach or bowel said yes. Stomach disorder, yes or no? Thank you. Alright, we'll get next page. Umm, so this one's other than what you have already told me about.
+[24 minutes 20 seconds][Customer] : No, Yep.
+[24 minutes 28 seconds][Agent] : So because you've already mentioned the ulcerative colitis, it's not, you don't have to bring that up umm in this section because we have already disclosed it.
+[24 minutes 37 seconds][Customer] : OK.
+[24 minutes 37 seconds][Agent] : So this is other than what you have already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but unlimited to any surgeries, X-rays, scans, blood tests or biopsy? Yes or no? Other than what you have already told me about, Are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Yes or no, other than what you have already told me about, have you ever during your work and career required more than two consecutive weeks of work due to illness or injury, Yes or no?
+[24 minutes 54 seconds][Customer] : No, no, no.
+[25 minutes 14 seconds][Agent] : Thank you. So this is to the best of your knowledge, this section.
+[25 minutes 17 seconds][Customer] : Yep.
+[25 minutes 17 seconds][Agent] : So to the best of your knowledge, have any of your immediate family, so mother, father, brother or sister, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatis? Sorry, familial adenomatis polyposis, yes or no? Thank you. To the best of your knowledge, have any of your immediate family, so mother, father, brother or sister suffered from cancer, heart condition, stroke or other hereditary disease prior to the age of 60 years old? Yes or no? Thank you. And the last question says other than monitor events, so besides like gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, tape or rest, diving or any other hazardous activity? Yes or no? Sorry.
+[25 minutes 33 seconds][Customer] : No, no, no, no.
+[26 minutes 14 seconds][Agent] : Thank you. So thanks for your patience going through that. I'll just umm, double check the height of ways, correct? I've got the height for 172 fans and the weight 70 KG. Is that correct? Yep. Perfect. Thank you. So I'll put out of this now for you. We'll get that outcome up just to give you a bit of Peace of Mind. You haven't you've been approved, you haven't been declined.
+[26 minutes 22 seconds][Customer] : Yep, Yep, right.
+[26 minutes 33 seconds][Agent] : It's just I'm gonna show you the terms, OK? Which I'm pretty sure we already touched on anyway, which which is the exclusion for the austerity colitus, but I'll just pull it up formally and read it out to you.
+[26 minutes 36 seconds][Customer] : Yep, Yep, right.
+[26 minutes 44 seconds][Agent] : And it may affect your Max benefit amount as well. Sometimes conditions like that, it's still actually the insurance, but it reduces it to uh. I think the maximum is about $5000.
+[26 minutes 57 seconds][Customer] : Yeah, that's OK. Yeah. Yeah.
+[26 minutes 55 seconds][Agent] : So just keep that in mind as well, but we'll have a look and see uh and mind you that will of course force your price to also uh come down as well because you're looking at a lower benefit amount.
+[27 minutes 6 seconds][Customer] : Yeah. Yeah. Yeah.
+[27 minutes 7 seconds][Agent] : Umm and in regards to like I said, maybe so you haven't had a cigarette in the last 12 months, you just to vape umm, so you've, you've vaped in the last 12 months Yep. So vaping with the like nicotine vapes, etcetera, it's still considered in the same category as smoking. Yeah.
+[27 minutes 15 seconds][Customer] : Yes, yeah.
+[27 minutes 23 seconds][Agent] : The funny thing is, umm, when it comes to smoking status on this, cigars don't, but vaping and cigarettes do, uh, both considered like soaking. So, umm, mind you, that's already been factored because I told you anyway, earliest to keep that in mind.
+[27 minutes 38 seconds][Customer] : OK.
+[27 minutes 37 seconds][Agent] : But if you do go a period of umm, 12 months without a vape or cigarette, etcetera, for a 12 month period, you can call up to the plot of your smoker status review.
+[27 minutes 47 seconds][Customer] : OK.
+[27 minutes 46 seconds][Agent] : OK, umm, now, so your application is approved with the below terms. So I'll read this over with you now. Uh, and then we'll, we'll have a look and reevaluate that cost and see what it is.
+[27 minutes 48 seconds][Customer] : Yeah, yeah. Perfect.
+[27 minutes 57 seconds][Agent] : So, umm, the Max benefit amount and benefit. Has been updated. So the Max benefit amount is $5000 and the Max benefit. Is 2 years. Mind you, we didn't, I don't think we even looked over two years anyway. We had it for two years. So it's just your Max benefit amount is 5000, OK. And as I said, the Max benefit of benefit. Is 2 years. Now this is due based on the disclosure of the ulcerative colitis from the underwriting application, OK. Now again based on the disclosure of ulcerative colitis, the application, the following exclusion applies. So it's the ulcerative colitis exclusion. So no benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or arising from ulcerative colitis. OK, umm and then of course, let's have a look at the premium adjustments, if that's had an update as well. So there is a premium adjustment due to ulcerative colitis. I think that's the 30 quotes updated premium. OK, So the premium fortnightly is mind you, this is $5000 monthly benefit amount within 90 day waiting period and a two year benefit.
+[28 minutes 43 seconds][Customer] : Yep, Yep, Yep.
+[29 minutes 5 seconds][Agent] : OK, So this fortnightly premium, umm, has been, has come down based on the disclosure of the ulcerative colitis application. We brought it to 40, $5.51 fortnight. Umm, of course, because it's brought down your Max benefit amount. OK, that's, that's also a factor. Umm, bear with me. So yeah, so $5000 monthly benefit amount with a 90 day waiting period and a two year benefit. It's $45.51 a fortnight, umm, and you get a refund of $118.32 paid back to you following your first policy anniversary date.
+[29 minutes 21 seconds][Customer] : Yep, Yep, Yep.
+[29 minutes 42 seconds][Agent] : OK, umm, I already gave you a premium projection early, uh, earlier. But seeing as, I mean, I've got you here and we've already finished the application, I'm also gonna give you another one.
+[29 minutes 53 seconds][Customer] : Yep.
+[29 minutes 53 seconds][Agent] : So as I said to you, your premium is set, which means it will generally increase each year as you age.
+[29 minutes 59 seconds][Customer] : Yep.
+[29 minutes 59 seconds][Agent] : So as an indication, if you make no changes to the policy, your premium next year will be $46.13 per fortnight.
+[30 minutes 9 seconds][Customer] : Yep. Yep.
+[30 minutes 6 seconds][Agent] : And this is for the monthly benefit amount of $5000 with a waiting period of 90 days and a benefit period of two years the following year. After that, in 2026, it would be $46.43 a fortnight. OK, so I just want to give you these examples again, please be aware that all of our premium projections are indicative only and assume that you do not make any amendments to your cover. Uh, and you can also find information about our premium structure on our website. I know it sounds a bit repetitive, but I'd just like to make sure I really drill these things into people when I speak to them to make sure it's all clear.
+[30 minutes 13 seconds][Customer] : Yeah, Yeah, yeah.
+[30 minutes 38 seconds][Agent] : Umm, but yeah, I'm, I'm glad we could give you the outcome you're looking for. I know it was a bit of a concern for you at the beginning, so congratulations, you've been approved.
+[30 minutes 45 seconds][Customer] : Thank you.
+[30 minutes 45 seconds][Agent] : We can start the policy now, but you don't have to make the payment now.
+[30 minutes 49 seconds][Customer] : Yeah.
+[30 minutes 49 seconds][Agent] : You can actually push payment back as far as up to 30 days if you'd like, but by the end of the declaration, once that's accepted, the your policy will begin and that's it.
+[30 minutes 58 seconds][Customer] : Great, great.
+[30 minutes 58 seconds][Agent] : OK, so today is Monday, the 2nd of December.
+[31 minutes 3 seconds][Customer] : Yep.
+[31 minutes 3 seconds][Agent] : What date do you want the first payment to be on this one page? Yeah, it's up to you. Whatever, just keeping in mind it comes out fortnightly. So if you want to come out on a payment day or a day after payment day, for example, we can do that for you.
+[31 minutes 9 seconds][Customer] : Like this week, I guess let's just do Friday.
+[31 minutes 18 seconds][Agent] : Otherwise, if there's a preferred date just between Monday to Friday, if you're doing fortnightly, right, no worries. So we'll do Friday the 6th of December, OK, And then it will come out fortnightly on the Friday thereafter for you.
+[31 minutes 29 seconds][Customer] : Yep, Yep.
+[31 minutes 33 seconds][Agent] : OK, umm, what we do is we pop down either a base be an account number or a card, which I'll collect in just a SEC.
+[31 minutes 41 seconds][Customer] : Yep.
+[31 minutes 39 seconds][Agent] : Then I'll read you the declaration once I've got that out too. If you're happy with it, I'll accept it. And then we're finished. That's it.
+[31 minutes 45 seconds][Customer] : Great.
+[31 minutes 46 seconds][Agent] : Yeah.
+[31 minutes 46 seconds][Customer] : So easy. Thank you.
+[31 minutes 47 seconds][Agent] : So you're, yeah, we try to keep it nice and simple. Umm. So yeah. Now, as I said, once this PO policy is in place, we'll cover you into your policy anniversary following your 65th birthday. Umm, and as I said, keep in mind there are some exclusions that apply as outlined in the PDS. And of course, when it comes down to the umm, rehabilitation benefit and final expenses benefit, we did touch on that. Umm, is that all clear with the rehabilitation benefit and final expenses benefit as well? Yeah, perfect. Alright, well, I will uh, pop down the banking. Now, did you want to do base bank account or card for this one?
+[32 minutes 13 seconds][Customer] : Yes, yeah, I'll do BSc an account if that's OK.
+[32 minutes 24 seconds][Agent] : That's fine. And was this a savings account or a cheque account?
+[32 minutes 35 seconds][Customer] : It's just it's my work account, but it's like a business transaction account. Let's do savings.
+[32 minutes 30 seconds][Agent] : Usually it's what you would press like at the ATM for example if you were to use use an ATM savings. Yep. And then for BSB, as long as the BSB account number arrives it's usually not an issue.
+[32 minutes 49 seconds][Customer] : OK, cool.
+[32 minutes 50 seconds][Agent] : What's the BSB number?
+[32 minutes 52 seconds][Customer] : The BSB number is 062692.
+[32 minutes 55 seconds][Agent] : Yep, Yep. So you have a savings account, BSB 062692, is that correct? Yep. And that's Commonwealth Bank on my end.
+[33 minutes 4 seconds][Customer] : Yep, yes, yeah.
+[33 minutes 6 seconds][Agent] : And that comes up as Yep. And then the account number when you're ready.
+[33 minutes 11 seconds][Customer] : The account number is 8256, 3013.
+[33 minutes 15 seconds][Agent] : Yep, 3, so 82563013. Yep.
+[33 minutes 23 seconds][Customer] : Yep.
+[33 minutes 24 seconds][Agent] : And then the account name, was that just your first and surname or was there a middle name? Oh OK so I've got Paige and then Space MCGOWEN, is that correct?
+[33 minutes 27 seconds][Customer] : Yeah, yeah, yeah, yeah. Yeah, yeah.
+[33 minutes 37 seconds][Agent] : Perfect. Alright, so first selection days are 6th of December 2024. The e-mail is Paige. Is it pronounced McGowan?
+[33 minutes 45 seconds][Customer] : Yeah. McGowan.
+[33 minutes 46 seconds][Agent] : Yep. hmcgowan1234@outlook.com.
+[33 minutes 46 seconds][Customer] : Yep, Yep.
+[33 minutes 48 seconds][Agent] : OK, you'll be receiving a welcome e-mail shortly after the call. However your hard to be policy documentation will be sent to your postal address within 5 working days.
+[33 minutes 57 seconds][Customer] : OK. Yeah.
+[33 minutes 57 seconds][Agent] : Umm, if you have any change of mind that's fine. You can simply call up and you can apply to cancel at any time. There are no locking contracts or cancellation fees umm and you do get a 30 day calling off. As well that doesn't start until the day the first payment comes out. So if you decide to cancel in the 30 day calling off. Page and any payments you've made umm to us, we will refund that money back to you unless the claim has been made.
+[34 minutes 5 seconds][Customer] : OK, OK. Yep.
+[34 minutes 21 seconds][Agent] : OK, so I'll read you about the declaration now I just before I do it on my end again, I like to make sure, umm, is all the information understood in clear page.
+[34 minutes 31 seconds][Customer] : Yes, Yes.
+[34 minutes 32 seconds][Agent] : OK, And do you have any further questions today before I read you the declaration?
+[34 minutes 36 seconds][Customer] : No.
+[34 minutes 37 seconds][Agent] : Perfect. Alright, umm, and if, oh, you said you had a policy before but you don't anymore. But just, I'm just reading this as a blanket statement. If you are replacing an existing policy, we do recommend you don't cancel it until your application has been approved and you have reviewed this policy in full as it may not be identical to your existing cover. And you should also consider the benefits that may not apply or waiting periods that may start again. So you understand? Yep. Perfect. Alright, so it just reads, uh, thank you, Paige. This is the declaration, by the way. Thank you, Paige McGowan. It is important you understand the following information. I will ask for your agreement to these terms at the end, and your policy will not be enforced unless you agree to these terms in full real income protection insurance. Uh, sorry, just to make sure I've got the address correct before I read this declaration for you.
+[34 minutes 45 seconds][Customer] : Yeah, yeah, yeah, yeah, that's OK.
+[35 minutes 24 seconds][Agent] : Sorry about that, just because sometimes it automatically sends out after I accept it. So. 110 Glenny St. UH, Wyoming, Oh, I didn't know how to pronounce that. Wyoming, is that right?
+[35 minutes 35 seconds][Customer] : Wyoming.
+[35 minutes 36 seconds][Agent] : Wyoming. Sorry.
+[35 minutes 36 seconds][Customer] : Yeah, yeah.
+[35 minutes 37 seconds][Agent] : 110 Glenny St., Wyoming, NSW 2250 for the home and postal address. Beautiful. Sorry, I just didn't want to accept declaration and then realise that the home address was off because as I said, they sent automatically.
+[35 minutes 44 seconds][Customer] : Yes, yeah. No, that's fine.
+[35 minutes 52 seconds][Agent] : Umm, so yeah, G again, just to recap declaration, uh, thank you. Paige McGowan. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Life Free of Australasia Ltd, whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I'll refer to to as GFS Trading as Real Insurance, to issue and arrange this insurance on its behalf. Hanover relies upon the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination, and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to.
+[36 minutes 50 seconds][Customer] : Yes.
+[36 minutes 45 seconds][Agent] : Can you please confirm you have answered all of our questions in accordance with your duty, yes or no Thank you. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover provides the following insurance cover for Page McGowan, a monthly insured amount of $5000 with a waiting period of 90 days and a benefit period of 24 months. The monthly income benefit payable in the event of a claim may be less than the monthly insured amount as your income benefit is limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffered sorry before you suffered your disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments from other sources. There is a final expensive benefit of $10,000 paid to your beneficiaries if you passed away while your policy is in place. In addition to the standard exclusion contained within the PDS, the following exclusions apply for Page McGowan Income Protection benefit. No benefit will be payable to any disability, condition, disease, disorder, treatment or complications related to or arising from ulcerated colitis. By agreeing to this declaration, you agreed to any non standard exclusions or loadings placed on your policy and you understand they will remain place for the life of the policy.
+[38 minutes 16 seconds][Customer] : Yes.
+[38 minutes 15 seconds][Agent] : You may request for any of these alternative terms to be reviewed at any time by calling us. Your cover expires on December 6th, 2061, 12:00 AM. Your premium for your first year of cover is $45.51 per fortnight. Your premium is a STEP premium, which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable to by Hanover to GFS of between 37% and 51% to cover costs. Your premium will be debited from your nominated bank account in the name of Paige McGowan, which you were authorized to debit from and have provided to us.
+[38 minutes 54 seconds][Customer] : None.
+[38 minutes 54 seconds][Agent] : The policy documentation, PDS and FSG will be mailed to you, and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and the documentation we are sending you. Do you understand and and agree with the declaration, yes or no?
+[39 minutes 40 seconds][Customer] : Ye yes.
+[39 minutes 41 seconds][Agent] : Thank you. And last question and would you like any other information or would you like me to read any part of the PDS to you? Yes or no?
+[39 minutes 49 seconds][Customer] : No.
+[39 minutes 50 seconds][Agent] : Thank you. So I've set that for you now. Paige, thanks for your patience while going through that. I know it's a little bit lengthy, that declaration, but all done and dusted. Umm, now the declarations loaded up so that, uh, $5000 monthly benefit amount with the 90 day waiting period and two year benefit period of income protection insurance is now in force again. That's for $45.51 a fortnight and you'll be getting a refund of $118.32 paid back to you following your first policy anniversary date.
+[40 minutes 17 seconds][Customer] : Yep.
+[40 minutes 17 seconds][Agent] : OK umm, as mentioned, the premiums for Income Protection insurance are generally tax deductible, which can make it even more cost effective for you. Umm and of course we have the phone number 0435940932 is that correct? Yep, perfect. Umm and then lastly, can I please confirm that you are a female Australian resident? Yes or no? Perfect. All right, well done. So thanks for your patience today. I know it's a lot of repetitiveness and lots of me talking, which is probably annoying, so I'm sorry about that.
+[40 minutes 33 seconds][Customer] : Yes, yes, yeah, that's OK. Perfect. Great. Thank you so much.
+[40 minutes 48 seconds][Agent] : Umm, but it's all done umm, and you're covers in, in force, so hopefully you can see a bit of Peace of Mind now Paige, umm, you're welcome. Is there anything else I can help you with before I let you go?
+[41 minutes][Customer] : No, no, that's everything. Thank you.
+[41 minutes 2 seconds][Agent] : Beautiful. No worries at all. Umm again, the rehabilitation benefit pays a reimbursement of up to 50% of your monthly income benefit to a maximum of $3000 to help with rehabilitation cost whilst claiming or we can reimburse up to six times your income benefit towards cost of equipment or modifications required to assist your return to work. Uh, so required to assist your return to work. So if you're in a position where you need to, you know, get back on your feet in that situation, just keeping in mind you have that rehabilitation benefit. Is that all clear? And you're happy to continue with everything Page.
+[41 minutes 33 seconds][Customer] : Yep, Yep.
+[41 minutes 34 seconds][Agent] : Yeah. Beautiful.
+[41 minutes 34 seconds][Customer] : That sounds great.
+[41 minutes 35 seconds][Agent] : No worries at all. Right. I'll let you get back. You're enjoying your day. You can also find information about our premium structure on our website. Thanks so much for your patience and keep an eye out for that welcome e-mail.
+[41 minutes 43 seconds][Customer] : Perfect. Thanks so much.
+[41 minutes 44 seconds][Agent] : See you later. Bye.
+[41 minutes 45 seconds][Customer] : OK, bye.

@@ -1,0 +1,269 @@
+[2 seconds][Agent] : Good morning. Thank you for calling Wheelie Insurance. My name is Christine. How can I help you today?
+[7 seconds][Customer] : Yeah, Joseph, can I got this call, I think real, real insurance.
+[15 seconds][Agent] : Yes, correct. What can we do to assist you today, Joseph?
+[19 seconds][Customer] : Yeah.
+[25 seconds][Agent] : Yeah. Like life insurance, you mean? Yep. What can I assist you with? Did you want, like, a quote?
+[19 seconds][Customer] : Before I tell my daughter to apply for cover for family, Yeah, Yeah, of course. Yeah.
+[34 seconds][Agent] : OK. I'll be happy to help you, Joseph. And it's for your daughter. Is that correct?
+[39 seconds][Customer] : Yeah.
+[43 seconds][Agent] : OK.
+[40 seconds][Customer] : For all all of us sits together in the family.
+[44 seconds][Agent] : OK, Joseph, so I can help you, can I ask for your last name and your date of birth, please, to begin?
+[49 seconds][Customer] : Yeah. My, my last name is Kenyi. KENYI and date of birth of January 1968.
+[58 seconds][Agent] : Ah, New Year's Day. Happy birthday.
+[1 minutes 1 seconds][Customer] : Yeah. Thank you.
+[1 minutes 1 seconds][Agent] : Very nice, thank you Joseph. Umm I just also need to confirm your residency that you are a male and an Australian resident, yes or no?
+[1 minutes 11 seconds][Customer] : Yeah, I'm a Surat, a resident.
+[1 minutes 14 seconds][Agent] : Beautiful, thank you so much for confirming the details. Oh yes I can see you made an inquiry 3 days ago online for $300,000 of life insurance for yourself.
+[1 minutes 25 seconds][Customer] : Yeah.
+[1 minutes 25 seconds][Agent] : Umm, so I'll be happy to quote you on that amount just for yourself to start with.
+[1 minutes 36 seconds][Customer] : Yeah.
+[1 minutes 30 seconds][Agent] : The level of cover you can choose starts with $100,000 minimum up to $500,000 maximum. So you'd like me to quote you on 300,000 for you first? Yep.
+[1 minutes 42 seconds][Customer] : Yes, you can cut that one today. I'm glad.
+[1 minutes 44 seconds][Agent] : OK, perfect. And just as I need to confirm as well your smoking status, have you had a cigarette in the last 12 months? Yes or no?
+[1 minutes 54 seconds][Customer] : No, I have noticed smoking.
+[1 minutes 55 seconds][Agent] : No, that's fine. Thank you.
+[1 minutes 57 seconds][Customer] : Yeah.
+[1 minutes 57 seconds][Agent] : And you said you wanted to look for cover for the six of you. Do you have, uh, four children?
+[2 minutes 3 seconds][Customer] : Yeah, I have four children and my wife.
+[2 minutes 4 seconds][Agent] : Oh, beautiful. And your wife? Lovely wife.
+[2 minutes 7 seconds][Customer] : Yeah.
+[2 minutes 7 seconds][Agent] : No worries.
+[2 minutes 8 seconds][Customer] : Thank you.
+[2 minutes 8 seconds][Agent] : What's the ages of your children? The youngest and the oldest, please.
+[2 minutes 13 seconds][Customer] : The youngest one is turning now from 2010. Yeah, it's 14 now. Yeah, 14.
+[2 minutes 17 seconds][Agent] : So 1415 youngest. Yep. And the eldest?
+[2 minutes 23 seconds][Customer] : The oldest one is from 2:01.
+[2 minutes 28 seconds][Agent] : So that'll be 232423.
+[2 minutes 28 seconds][Customer] : It's now 20/20/23. Yeah.
+[2 minutes 31 seconds][Agent] : OK, Beautiful.
+[2 minutes 37 seconds][Customer] : Yeah.
+[2 minutes 33 seconds][Agent] : So for the youngest child, you're 15 year old, umm, we have children's cover as well that you can choose as an optional extra to add on to your life insurance with you and your wife. Uh, so if your children are Australian residents age between 2 and 17 years old, then you can add them on to your policy until they reach 21.
+[2 minutes 46 seconds][Customer] : Yeah, OK. Yeah.
+[2 minutes 57 seconds][Agent] : Umm, The Children's insurance benefit amount is paid as a lump sum in the event that the insured child suffers death from any 'cause or a serious injury or illness as assessed against the definite definitions in the PDS there for you, for the rest of your children. No, we can assist in life insurance for them by themselves so they can apply for life insurance. I'll give you a quote for them as well.
+[3 minutes 26 seconds][Customer] : OK then.
+[3 minutes 24 seconds][Agent] : OK, OK, beautiful with this cover. Joseph, have you ever had life insurance before or is this the first time?
+[3 minutes 34 seconds][Customer] : No, it's first time.
+[3 minutes 35 seconds][Agent] : That's fine. That's fine. That's what I'm here for. It's just to guide you in understanding how it works. So please don't hesitate to ask any questions if you're unsure. I'll be happy to help.
+[3 minutes 35 seconds][Customer] : Yeah, Yeah, OK.
+[3 minutes 45 seconds][Agent] : And you said for your wife as well. So let's put some details for your wife so we can see if she's eligible for life insurance. May I have your wife's first name, please, JACQU.
+[3 minutes 57 seconds][Customer] : First name is Jacqueline JACKLINE. Jacqueline.
+[4 minutes 2 seconds][Agent] : OK, JACKLINE. Jacqueline.
+[4 minutes 9 seconds][Customer] : Yeah.
+[4 minutes 10 seconds][Agent] : Beautiful. And same last name.
+[4 minutes 12 seconds][Customer] : Last name is Pitia. PITIA.
+[4 minutes 17 seconds][Agent] : Beautiful. PITIA. Pitia. Thank you. And may I have Jackie's date of birth?
+[4 minutes 17 seconds][Customer] : Pitia Yeah, 1st of January answer 1975.
+[4 minutes 27 seconds][Agent] : Oh, wow. Same it was.
+[4 minutes 30 seconds][Customer] : Yeah, because there we lost our certificate during the war.
+[4 minutes 35 seconds][Agent] : Ah, I see.
+[4 minutes 35 seconds][Customer] : We come from Africa.
+[4 minutes 40 seconds][Agent] : Ah, I see. Well that's still, that's still beautiful though. You 2 get to spend the birthday together.
+[4 minutes 36 seconds][Customer] : That is why they produce like this, yeah.
+[4 minutes 47 seconds][Agent] : Ah, thank you for confirming and I'll confirm Jacqueline is a female Australian residence. Yes or no? Beautiful. Thank you. So let's add her in as well. Has your wife Jacqueline had a cigarette in the last 12 months? Yes or no?
+[4 minutes 53 seconds][Customer] : Yeah, no.
+[5 minutes 4 seconds][Agent] : No, that's fine. Thank you uh, and for your wife, I'll just let you know how much cover you can choose for her. So uh, she minimum 3 minimum 100,000. You can choose uh up to the maximum for Jacqueline of let me just bring up the maximum for her because she's slightly younger, so her level of cover may differ to yours. So you can choose up to the 750,000 maximum for your wife. Did you also want me to quote you on $300,000 for her?
+[5 minutes 40 seconds][Customer] : Yeah, this, this code is different, yeah, between me and her all family, different code.
+[5 minutes 46 seconds][Agent] : No, it's the same. Same for the same insurance but she can choose more cover because of her age if that makes sense.
+[5 minutes 49 seconds][Customer] : Yeah, yeah.
+[5 minutes 54 seconds][Agent] : So you'll, you'll cut off cover is 500,000 maximum Hers is 750,000, but she's under the age of 50. Uh, so you would, would you also like me to quote you on the 300,000 for her for Jacqueline?
+[6 minutes 1 seconds][Customer] : OK, yeah, yeah. OK then.
+[6 minutes 10 seconds][Agent] : OK, OK, beautiful. Umm, now I also wanted to explain to you, uh, how this life insurance will be provided to how it works. So Joseph, our cover is designed to provide financial protection to your loved ones through a lump sum payment if you wish to pass away, if you were to pass away. So this could be helped, sorry. This could be used to help pay off if you have like mortgage or any loans, for example, or any other costs involved just in helping raise your family and protect them in case something happens to you.
+[6 minutes 21 seconds][Customer] : Yeah, yeah.
+[6 minutes 52 seconds][Agent] : So yeah, it's it's basically there. It's just it's there to give you the Peace of Mind that if something happened to you, then your family will have that financial security in place. So in saying that, you can nominate, so you can choose up to five beneficiaries that you would like for the money to go to if you pass away. So that's for them to receive the nominated benefit. Yeah, it's a beneficiary is the person you nominate to leave the money to. OK. OK. So I know you mentioned you've got four children and a wife, if you, for example. So if you wanted to leave it to all five of them, you're more than welcome. It's up to you. Otherwise, if you just say, wanted to leave it to your wife, you're more than welcome as well. It's entirely up to who you'd nominate. Umm, I also wanted to explain how how to apply for the life insurance. So please keep in mind, Joseph, not everyone is eligible for the life insurance. So what we need to do to determine if you are eligible is I'm just going to ask you some health and lifestyle questions over the phone and that will determine if you are approved for the life cover.
+[7 minutes 20 seconds][Customer] : OK, OK.
+[8 minutes 4 seconds][Agent] : OK, so I'll need to do that with you and your wife as well and also your children that are over the age of 17, uh, over the age of 18. Sorry, that wanna apply for life insurance as well to have a policy for themselves. Umm, otherwise the kids, the children that you wanna add on to your policy through the children's cover. I don't need to speak to them.
+[8 minutes 20 seconds][Customer] : Yeah, yeah.
+[8 minutes 27 seconds][Agent] : Umm, so in saying that Joseph, if you are accepted for the life insurance and once you decide to commence the policy, yes you will be covered immediately for death due to any cause. Just the only thing that is not covered is suicide in the 1st 13 months there is that understandable so far? OK. Uh, the other thing I wanted to clarify with you is we also include a living benefit. So what that means there is a terminally ill advanced payment that we include in the cover for you and it's no extra cost. So it's included if you were diagnosed with 12 months or less to leave by a medical practitioner, then just as we will pay this benefit about to you in full this claim and you can use the money while you're still alive for anything, absolutely any means necessary. Is that understandable? OK. And any questions regarding that so far or is that pretty straightforward for you?
+[8 minutes 57 seconds][Customer] : Yeah, yeah, yeah. Is it? You're going to send what is called the clarification of this one. Then I can go through them with my my daughter.
+[9 minutes 58 seconds][Agent] : Yeah, of course.
+[9 minutes 58 seconds][Customer] : Oh, you can e-mail.
+[9 minutes 59 seconds][Agent] : So I'll, I'll send you the quotes for you and your wife and also one for your daughter.
+[10 minutes 4 seconds][Customer] : Yeah.
+[10 minutes 4 seconds][Agent] : Umm, and then I'll also explain.
+[10 minutes 10 seconds][Customer] : OK.
+[10 minutes 7 seconds][Agent] : I'm just explaining what you're covered with just so you understand how it works as well. Umm. So do you have any questions regarding what I've mentioned so far? Is that makes sense?
+[10 minutes 17 seconds][Customer] : Yeah. All good. Yeah.
+[10 minutes 17 seconds][Agent] : OK, all good. OK, One last thing I wanted to share with you that we include with the life insurance is a $10,000 advance payment as well. So this advance payment can help with the funeral costs at the time you unfortunately pass away.
+[10 minutes 31 seconds][Customer] : Yeah, yeah, yeah.
+[10 minutes 34 seconds][Agent] : So that's there for your beneficiaries to request at the time they apply to make a claim on your life insurance. So at least they have those funds available to go towards, you know, covering the funeral expenses in case something happens to you.
+[10 minutes 50 seconds][Customer] : OK, OK.
+[10 minutes 49 seconds][Agent] : OK, OK, let's let's look at the pricing now because it is important that it's manageable and affordable for you.
+[10 minutes 55 seconds][Customer] : Yeah, yeah. That's why I want.
+[10 minutes 58 seconds][Agent] : So, yeah. So, uh, bear in mind how the premiums are generated, Joseph.
+[11 minutes 13 seconds][Customer] : Yeah, OK.
+[11 minutes 6 seconds][Agent] : It is based on your age at the time of application, the level of cover you choose, your smoking status plays a role and also the gender that you are can depend on how much your premiums cost.
+[11 minutes 22 seconds][Customer] : OK.
+[11 minutes 22 seconds][Agent] : So for yourself, 1st $300,000 of cover per fortnight for you is $77.12 per fortnight. For your wife Jacqueline, for $300,000 of cover, it's $29.29 a fortnight.
+[11 minutes 39 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[11 minutes 46 seconds][Agent] : Can you see the difference there between your and her sort of premiums?
+[11 minutes 50 seconds][Customer] : It's big different.
+[11 minutes 50 seconds][Agent] : Yeah, OK, OK, so I'll send this quote out and then I'll also, umm, confirm a quote for your daughter. So I'll just make sure I have the correct e-mail josephcanyou11423@gmail.com. Beautiful.
+[12 minutes 6 seconds][Customer] : Yes, that's my e-mail.
+[12 minutes 8 seconds][Agent] : Thank you. Now let's look at a quote for your daughter.
+[12 minutes 17 seconds][Customer] : Yes, it's 23.
+[12 minutes 12 seconds][Agent] : Uh, is she she the 23 year old you're wanting life insurance for 23? OK, beautiful. Let's confirm some pricing for her then. What's your daughter's first name to start with, please?
+[12 minutes 27 seconds][Customer] : It's Eva. Eva.
+[12 minutes 26 seconds][Agent] : Joseph IVA, beautiful and same last name, Kenya.
+[12 minutes 34 seconds][Customer] : Yeah, last 97.
+[12 minutes 35 seconds][Agent] : And what is Iva's date of birth please?
+[12 minutes 39 seconds][Customer] : He's 20/20/29 of August 2001.
+[12 minutes 51 seconds][Agent] : 29 of the 8th 2001, Yeah, sure. 29 August 2001 and I'll confirm either is a female Australian resident. Yes or no. It's beautiful. So she's 22 turning 23 in August, Correct?
+[12 minutes 53 seconds][Customer] : Yeah, yes, yeah.
+[13 minutes 7 seconds][Agent] : Beautiful. Let's add her to the quote. So I'll send this as a separate quote to the one I just sent for you and your wife. Uh, and I'll confirm as well. Uh, so you can send your daughter's a female Australian resident, correct? And has she had cigarette in the last 12 months? No, thank you. Uh, so for either based on her age, she, you can choose cover from 100,000 up to $1 million of cover for either. What amount would you like me to quote you for her?
+[13 minutes 17 seconds][Customer] : Yeah, yes, No, no, you can make between. Yeah, you can make even 200 is OK.
+[13 minutes 54 seconds][Agent] : OK, $200,000 for Eva would be per fortnight $6.17 based on her age.
+[13 minutes 53 seconds][Customer] : Yeah, Yeah, OK.
+[14 minutes 5 seconds][Agent] : OK, so I'll send that out for you. Joseph. I'm also wanting to take you through the application while I have you today so we can at least determine if you're actually eligible for the cover. So what I'll do before I can take you through the application, I need to save your address. Can I have your post code to begin with please?
+[14 minutes 17 seconds][Customer] : OK, post code is 6055.
+[14 minutes 31 seconds][Agent] : Beautiful.
+[14 minutes 36 seconds][Customer] : It's cumbersome.
+[14 minutes 32 seconds][Agent] : And may I confirm what is your suburb Coversham? And may I have your address please?
+[14 minutes 41 seconds][Customer] : Yeah, 32 Lombardy. Lombardy Cumbersome.
+[14 minutes 46 seconds][Agent] : Thank you. So I'll confirm your residential and your postal address. 32 Lombardy Crescent, Coversham, WA 605 five, is that correct? Thank you. Umm, now just why I'm, while I'm loading up this application, I wanted to explain to you how the premiums work for this life insurance. Uh, so just keep in mind Joseph, that your premium, it is stepped, which means it will generally increase each year as you age.
+[14 minutes 56 seconds][Customer] : Yes, yeah, yeah.
+[15 minutes 22 seconds][Agent] : So in addition, this policy has automatic indexation, which means that each year your son insured will increase by 5%. So the amount that you're covered with it will increase by 5% with the associated increases in premium. And, uh, if you choose to, you can opt out of this automatic indexation each year. You just need to apply to let us know, Uh, otherwise I'll give you an example just to help make sense of it. Uh, so as an indication, uh, for you, Joseph, if you make no changes to the policy, then next year your premium will be $91.69 per fortnight and your benefit amount will be $315,000 of cover for you. Is that understandable? That'll increase to $350,000 of cover.
+[16 minutes 16 seconds][Customer] : Yeah, yeah, maybe quite lower because I got the mortgage also.
+[16 minutes 20 seconds][Agent] : Uh, I wanted to ask as well, is that affordable for you the, the $300,000 of cover for $77.12 a fortnight or did you want me to quote you on something lower for you it but the mortgage?
+[16 minutes 37 seconds][Customer] : Yeah. And then?
+[16 minutes 37 seconds][Agent] : OK, let's look at a no, that's fine. It just as long as it's something that's affordable and manageable that we can find for you because that's also important as well. So let's say the 100,000 Joseph $100,000 of cover. So at least you've got something in place for yourself and your family would be $25.71 a fortnight. Is that more affordable for you?
+[16 minutes 59 seconds][Customer] : Yeah, that, that would be better. Yeah.
+[17 minutes 2 seconds][Agent] : That's better. OK, no problems. We'll, let's go through the application, umm, we'll determine your approval and you can also find information about our premium structure on our website as well, but we will be sending all the documents via post for you to review also.
+[17 minutes 20 seconds][Customer] : OK.
+[17 minutes 19 seconds][Agent] : OK, OK, wonderful. Just before I get into the application, Joseph, uh, is everything I've discussed so far understandable for you? It's making sense.
+[17 minutes 29 seconds][Customer] : Yeah, it makes sense. Yeah.
+[17 minutes 30 seconds][Agent] : OK, beautiful. So now the reason why we take you through the application, not only will it determine your approval, but it's also gonna confirm the final price based on the outcome of this application. I'll take you through now.
+[17 minutes 47 seconds][Customer] : Yeah. OK then.
+[17 minutes 46 seconds][Agent] : OK, beautiful. Thank you Joseph. Uh, so I'll just read this to you first. It explains why we need to take you through the question. So please be aware all calls are recorded for quality and monitoring purposes. Joseph, we collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. So I'll confirm, Joseph, do you understand and agree to your duty, Yes or no? Yes, thank you. And so I'll just confirm then the first question of the application is have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no? No, that's great to hear. Thank you. The next question for you, uh, regarding your residency reconfirming that Joseph, are you a citizen or permanent resident of Australia or New Zealand currently residing in Australia, yes or no Australian citizen, yes.
+[19 minutes 24 seconds][Customer] : Yes, No as well as citizen yes.
+[20 minutes 9 seconds][Agent] : Beautiful, thank you. Uh, regarding your occupation as of currently, Joseph, does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore? Yes or no?
+[20 minutes 35 seconds][Customer] : Yes, sometimes, because when sometimes I'm going to visit my country, we don't know what is going to happen there.
+[20 minutes 43 seconds][Agent] : So this is for work.
+[20 minutes 45 seconds][Customer] : No, no, it's not for work. It's just for visit.
+[20 minutes 47 seconds][Agent] : OK, so this this question just regarding your occupation for work.
+[20 minutes 50 seconds][Customer] : Yeah, no, yeah.
+[20 minutes 51 seconds][Agent] : OK, so just confirming. So I'll just reconfirm there's your work, require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives to travel to areas experiencing war or civil unrest or work offshore. Yes or no?
+[21 minutes 3 seconds][Customer] : Ah, yeah, I get it.
+[21 minutes 7 seconds][Agent] : No, thank you for confirming. That's a definite no. No problem. Umm, moving on to the next section, which is in relation to your height and your weight. Umm, So just please be aware that I'm required to obtain a confident single figure measurements for each in order to continue with the application. So the system, it does not allow me to enter any approximate figures, words or height and weight ranges. So just firstly, can I confirm what is your exact height please?
+[21 minutes 7 seconds][Customer] : No, Yeah, yeah.
+[21 minutes 41 seconds][Agent] : Your exact height, Yeah, in centimetres or feet and inches.
+[21 minutes 45 seconds][Customer] : Oh, the hi, I think between 12:00, 12th I think, or 12 or 13. I'm not sure yet. Yeah, maybe I will confirm for you.
+[21 minutes 53 seconds][Agent] : So how, how, how, how tall are you the last time you measured your height?
+[21 minutes 59 seconds][Customer] : Or the last time I forget.
+[21 minutes 59 seconds][Agent] : So for example, 6 foot, a six foot or 180 centimetres tall.
+[22 minutes 1 seconds][Customer] : Yeah, I think 100 and between 100. Yeah, 100 and I forget, sorry.
+[22 minutes 16 seconds][Agent] : OK, that's fine.
+[22 minutes 18 seconds][Customer] : Maybe maybe I'll I'll when I'll do it after.
+[22 minutes 17 seconds][Agent] : We'll move on to OK, we'll, we'll confirm your weight then. What is your exact weight, please? How much do you weigh? So we need the exact weight. So the last time you measured yourself, what was it exactly on the scale?
+[22 minutes 27 seconds][Customer] : Yeah, My, my weight between 8385 is 85.
+[22 minutes 39 seconds][Agent] : 85 beautiful 85 kilograms is your exact weight.
+[22 minutes 40 seconds][Customer] : Yeah, Kilo, yeah.
+[22 minutes 45 seconds][Agent] : And uh, so you're not sure how tall you are The last time you had your height measured, You don't know how tall in no. Does your wife know? Can she help you measure? Can she may help you measure how tall you are? Do you have measuring tape? If you're at the medical centre you can ask the doctor. Also measure your height.
+[22 minutes 55 seconds][Customer] : Yeah, no, she, she, yeah, yeah, I can make that form here when I'm now in medical centre, I come to for I'm already in the car.
+[23 minutes 15 seconds][Agent] : I see no problems. Well, when you get home, no worries, we can confirm your height.
+[23 minutes 12 seconds][Customer] : I finished because I got PEOI come for PEO, Yeah.
+[23 minutes 20 seconds][Agent] : So we'll just move on to the next question then, which is, uh, I'll just confirm next question. Have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? Yes or no? Thank you. And to the best of your knowledge Joseph, are you infected with or are you in a high risk category for contracting HIV which causes AIDS, yes or no? And just regarding travel, do you have definite plans to travel or reside outside of Australia IE booked or will be booking travel within the next 12 months, yes or no?
+[23 minutes 35 seconds][Customer] : No, no, man, I'm not sure yet. This one I can put now, yeah.
+[24 minutes 11 seconds][Agent] : This you can put no, that's fine, Yeah, umm, and then we'll move on then to the next question. So we're just over halfway so doing well so far. Umm, so the next question is just confirming, uh, do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5,000,000? Yes or no? No Beautiful. OK, we're up to the medical history section of the application now. So just if I just need you to con confirm, umm, have you ever had symptoms of, been diagnosed with or treated for, or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma, or leukemia? Yes or no? Thank you. Have you ever had an abnormal PSA test or an enlarged prostate? Yes or no?
+[24 minutes 41 seconds][Customer] : No, no, no.
+[25 minutes 24 seconds][Agent] : No, Great. Thank you. Any stroke, chest pain, palpitations or heart conditions such as but not limited to heart attack and angina or high blood pressure. Yes or no? Yes.
+[25 minutes 37 seconds][Customer] : Yes, I have high blood pressure.
+[25 minutes 41 seconds][Agent] : Thank you for your honesty. So just based on your response, Joseph, please answer yes or no for each of the following.
+[25 minutes 52 seconds][Customer] : No, no, no.
+[25 minutes 48 seconds][Agent] : Is it regarding stroke, yes or no regarding chest pain, yes or no regarding pericarditis, yes or no regarding heart conditions, So for example, heart murmur, heart palpitations, heart attack or angina, but not limited to these conditions, yes or no? And is it regarding high blood pressure, yes or no?
+[26 minutes 11 seconds][Customer] : No, yes.
+[26 minutes 17 seconds][Agent] : Thank you. And Joseph, is your high blood pressure caused by heart disease or kidney disease? Yes or no? No, that's fine. And have you been prescribed medication to treat this condition for your high blood pressure, yes or no? And did treatment commence within the last three months, yes or no? So did you start the medication in the last three months or before that?
+[26 minutes 27 seconds][Customer] : No, it's just yes, yes, yeah, I'm in the last three months.
+[26 minutes 52 seconds][Agent] : Yeah, But when did you first start taking it? I'm done.
+[26 minutes 51 seconds][Customer] : Yeah, I'm taking medication a long time now, I think more, more than two years.
+[26 minutes 58 seconds][Agent] : So just asking if you first started taking it in the last three months. So just reconfirming, did treatment commence within the last three months, yes or no?
+[27 minutes 3 seconds][Customer] : No, no.
+[27 minutes 8 seconds][Agent] : No, that's fine. And have you had your blood pressure checked in the past six months by your GP? Yes or no?
+[27 minutes 15 seconds][Customer] : Yes.
+[27 minutes 16 seconds][Agent] : Yes, Beautiful. And Joseph, were you told by your doctor that your blood pressure has returned to within normal range the last time you had it checked, yes or no?
+[27 minutes 26 seconds][Customer] : Yes.
+[27 minutes 27 seconds][Agent] : Yes, beautiful. That's great to hear. Thank you for your honesty. Uh, so let's move on to the next question now, Joseph. Uh, anything that is regarding high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting, yes or no. Uh, any diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose? Yes or no? Any hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas? Yes or no, No worries. Uh, epilepsy, noting neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis? Yes or no. Anxiety, depression or stress requiring medical treatment or any other mental health disorder. Yes or no? No, that's fine. Any illegal drug use, abuse of prescription medication, or received medical advice or counselling for alcohol consumption? Yes or no. No Beautiful. Any disorder of the kidney or bladder? Yes or no. Any blood disorder or disease? Yes or no. And then the final question for this section, Joseph is regarding asthma or other respiratory disorder excluding childhood asthma. Yes or no?
+[27 minutes 43 seconds][Customer] : No, no, no, no, no, no, no, no, no, no.
+[28 minutes 56 seconds][Agent] : No, thank you so much. So let's move on to the next question.
+[29 minutes 2 seconds][Customer] : Is it taking long? I can't because I have not. I want to go have a rest. I'm working at night.
+[29 minutes 1 seconds][Agent] : Joseph, other than what you have, I'm so sorry. We've got. So we've got four more questions left. So it'll take about another 5 minutes. Is that OK with you?
+[29 minutes 17 seconds][Customer] : Yeah, OK then.
+[29 minutes 17 seconds][Agent] : Just wanted to assist you. Uh, so other than what you've already told me about Joseph, in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist or are you awaiting any results? Uh, for, sorry, are you awaiting results for any medical tests or investigations such as, but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Yes or no? Thank you. You did mention you just came from a physio appointment. What was that in relation to, if you don't mind me asking? You're poor thing.
+[29 minutes 45 seconds][Customer] : No, I just my my knee in the join because in the work we are standing 12 hours then my knee join does Yeah is help.
+[30 minutes 2 seconds][Agent] : So is it knee pain or joint disorder?
+[30 minutes 5 seconds][Customer] : Yeah, knee pain.
+[30 minutes 7 seconds][Agent] : Knee pain. OK, we can answer yes to this question then for your knee pain, is that OK with you?
+[30 minutes 12 seconds][Customer] : Ah, it's OK then.
+[30 minutes 13 seconds][Agent] : Beautiful. And anything else you need to disclose or that was it?
+[30 minutes 18 seconds][Customer] : Yeah, that was it.
+[30 minutes 19 seconds][Agent] : That's it? No.
+[30 minutes 19 seconds][Customer] : Just I, I just want to ask about I got another three kids, the one under 8. I got another one is 21. I think it's 1021.
+[30 minutes 33 seconds][Agent] : So your children that are aged between 2 and 17 will be included.
+[30 minutes 30 seconds][Customer] : It's not, not not including in this policy different code.
+[30 minutes 37 seconds][Agent] : We can add them that any child over the age of 18, we need to obviously provide their own quotes. Yeah, correct. So if you've got a child that's gonna be 21 as well, I can give you a quote for them as well after I finish the application, if you like.
+[30 minutes 45 seconds][Customer] : OK, OK. This one. Maybe next time then I'll see.
+[30 minutes 56 seconds][Agent] : Yeah, no, that's fine. I don't mind, uh, providing the quote for them as well if need be. Umm, I already quoted you on, uh, Eva, so that's fine. Umm, so I'll quote you on your other. So how many daughters do you have, by the way? Do you have a mix of two daughters, two sons, or?
+[31 minutes 6 seconds][Customer] : Yeah, Yeah. I have two daughters, Two sons.
+[31 minutes 15 seconds][Agent] : Oh, that's beautiful. I've got two boys and one girl myself.
+[31 minutes 19 seconds][Customer] : Yeah. It's good.
+[31 minutes 19 seconds][Agent] : Umm, I can't imagine adding another one to the mix. They're good on you. I'm sure they keep you busy. You and you and your wife.
+[31 minutes 26 seconds][Customer] : Yeah. Thank you.
+[31 minutes 27 seconds][Agent] : No, that's no, no worries. Good on you there. Umm, and thank you for your honesty about the knee pain. So we can move on to the next question, uh, which is Joseph, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[31 minutes 47 seconds][Customer] : No.
+[31 minutes 45 seconds][Agent] : Yes or no, No, beautiful, uh, wonderful. So we're on the second last question now. This is just regarding your family history. Uh, so it's to the best of your knowledge, just as have any of your immediate family living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adenomatous polyposis? Yes or no? Uh, and to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to the age of 60? Yes or no? No Beautiful final question. Now you've done so well, Joseph. Thank you so much for your patience. So this last question is just regarding hazardous pursuits. Uh, so it's asking other than one off events, Joseph, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, Motor racing, parachuting, mountaineering, ad sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity?
+[32 minutes 10 seconds][Customer] : No, no, no.
+[32 minutes 59 seconds][Agent] : Yes or no, No Beautiful. Uh, so that's the end of the application. So I'll leave that on hold until we find out what your height is. Umm, would you like me to give you a quote as well for your other child that's, uh, turning 21 for the life insurance while I have you, I can give you a quick quote for them as well. No, it takes 2 minutes. I just need to confirm their full name and date of birth.
+[33 minutes 20 seconds][Customer] : Oh, it's not going to take Yeah, I've I've first first name is Ugos UUGO. Yeah, UUDOUS.
+[33 minutes 38 seconds][Agent] : Yeah, yeah, beautiful.
+[33 minutes 44 seconds][Customer] : OK, it's the same family name.
+[33 minutes 49 seconds][Agent] : And what's Oglesuk's date of birth?
+[33 minutes 53 seconds][Customer] : It's 18 of of July 2004.
+[33 minutes 59 seconds][Agent] : Beautiful. 18th of July 2004.
+[34 minutes 6 seconds][Customer] : Yeah. Ma, ma. Yeah. Sorry.
+[34 minutes 3 seconds][Agent] : And Oglesuk, are they male Australian residents, an Australian resident, beautiful. Thank you.
+[34 minutes 14 seconds][Customer] : Yeah.
+[34 minutes 11 seconds][Agent] : So they are they 19 years old at the moment or are they 20 turning 21?
+[34 minutes 21 seconds][Customer] : Yeah.
+[34 minutes 23 seconds][Agent] : It's OK. One 2004. So they're 19 turning 20. No, that's fine.
+[34 minutes 21 seconds][Customer] : One 2004, Yeah, yeah.
+[34 minutes 27 seconds][Agent] : And so turning 20, beautiful. And uh, I will also confirm has also had a cigarette in the last 12 months. Yes or no? No, that's fine. And for them, you can choose cover from 100,000 up to $1 million. Did you want me to quote you want 200,000 for Ogle silk as well?
+[34 minutes 27 seconds][Customer] : 10/10/20 Yeah, no, yes please.
+[34 minutes 48 seconds][Agent] : OK, beautiful. So I will quote you on 200,000 for Ogle silk, which will be per fortnight. So it's just loading. I'll e-mail this.
+[35 minutes 1 seconds][Customer] : Yeah, OK.
+[35 minutes 10 seconds][Agent] : So I've already emailed you one quote for you and your wife together, the other quote with you and Eva together, and then this quote will be for you and Oglesiuk. So I'll just put this through. It went away. I'm so sorry.
+[35 minutes 29 seconds][Customer] : Yeah, it's OK.
+[35 minutes 31 seconds][Agent] : How do I spell Oglesiuk's name again? U G0S 0UK Can you Perfect.
+[35 minutes 35 seconds][Customer] : Yeah, just one minute. Let me let me take Medicare.
+[35 minutes 43 seconds][Agent] : I got it. Thank you.
+[35 minutes 51 seconds][Customer] : Alright, you've got it.
+[35 minutes 44 seconds][Agent] : U G0S 0UK Yes. U G0S 0UK beautiful.
+[35 minutes 55 seconds][Customer] : Yeah, UDOUS.
+[36 minutes][Agent] : Oh us OK beautiful.
+[35 minutes 59 seconds][Customer] : OK, Yeah.
+[36 minutes 3 seconds][Agent] : UGOU us OK beautiful. Alright, let's add them in. Beautiful for $200,000 of cover. Sorry, it's just taking a while to load. I'll definitely let you go. What do you do for work if you don't mind me asking?
+[36 minutes 37 seconds][Customer] : Yeah, we are making food. Ready food. Yeah.
+[36 minutes 41 seconds][Agent] : Ah, so you do long, long night shift hours in the factory.
+[36 minutes 44 seconds][Customer] : Long line working always 12 hours. Yeah. In the factory in Husband Park.
+[36 minutes 48 seconds][Agent] : Ah, you're a hard working man.
+[36 minutes 51 seconds][Customer] : Yeah.
+[36 minutes 51 seconds][Agent] : Understandable.
+[36 minutes 52 seconds][Customer] : What we're going to do is fly.
+[36 minutes 52 seconds][Agent] : With your beautiful family you've got to provide.
+[36 minutes 55 seconds][Customer] : Yeah.
+[36 minutes 57 seconds][Agent] : Thank you so much for sharing.
+[36 minutes 57 seconds][Customer] : And I've been working there for long, almost now, 20 years.
+[37 minutes 1 seconds][Agent] : Oh wow, good on you. Well done. They're lucky to have you. Hard worker. So for Ogusuk, I'll just confirm the, uh, life insurance will be $9.02 a fortnight for $200,000 of Ogusuk for him.
+[37 minutes 3 seconds][Customer] : Yeah, yeah, yeah, it's OK.
+[37 minutes 22 seconds][Agent] : OK, so I'll send this quote as well. Uh, I know you said you're working for night shift, so what's, what's the time that's suitable to, uh, call you back? Do you think you'll be able to get the measurement for your height when you get home and I can quickly call you back then?
+[37 minutes 39 seconds][Customer] : I will try. OK then.
+[37 minutes 42 seconds][Agent] : OK, so not far from home.
+[37 minutes 42 seconds][Customer] : Yeah, I'm not far from home, maybe taking 15 minutes if.
+[37 minutes 46 seconds][Agent] : So OK, 15 minutes. How about I call you in? What's the time now? It's about 10:00 there. Do you want me to call you about 10:30 so you can get your height? OK?
+[37 minutes 57 seconds][Customer] : Yeah, 10:30 or 10:15 years.
+[37 minutes 59 seconds][Agent] : Beautiful. And in that time as well, please feel free to read the emails that I sent to you. So I'll call you back at 10:30. No problems.
+[37 minutes 59 seconds][Customer] : OK, OK then. OK.
+[38 minutes 8 seconds][Agent] : Thank you so much for your time, Joseph. I will speak to you soon.
+[38 minutes 11 seconds][Customer] : No worries.
+[38 minutes 12 seconds][Agent] : Drive safe. Thank you. Bye.
+[38 minutes 14 seconds][Customer] : Thank you.
+[38 minutes 14 seconds][Agent] : Bye.

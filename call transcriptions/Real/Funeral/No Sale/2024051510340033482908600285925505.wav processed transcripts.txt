@@ -1,0 +1,159 @@
+[1 seconds][Agent] : Alright, that's Steph. Thank you.
+[3 seconds][Customer] : That's OK, I'll just get on the lead. I told her that I was just going to double check, so I said that you weren't here. So I'll just tell her that you are here when?
+[10 seconds][Agent] : Mm, Hmm.
+[10 seconds][Customer] : I won't transfer her in.
+[11 seconds][Agent] : Sure. Yeah. Cool. Thank you.
+[14 seconds][Customer] : Just let me know when you're ready.
+[16 seconds][Agent] : Yeah, I'm ready.
+[17 seconds][Customer] : Alright. Thank you. Thank you for holding Ruth. I've got AJ on the line. He's still in the building, so he's going to assist you. Oh, OK. Cheers.
+[26 seconds][Agent] : Thank you, Steph. Uh, hello. Good afternoon.
+[29 seconds][Customer] : Bye.
+[29 seconds][Agent] : Uh, how are you today?
+[30 seconds][Customer] : Hi. Yeah. Good. How are you?
+[32 seconds][Agent] : I'm well, so this is AJ again from real insurance so I can help you.
+[35 seconds][Customer] : Yeah. Cheers.
+[36 seconds][Agent] : May I please get you to confirm just your full name and date of birth for me, please?
+[39 seconds][Customer] : Yeah. Ruth Elizabeth Sandoval, 8th of December 1965.
+[43 seconds][Agent] : Thank you. And also just confirming that you are a female and an Australian resident. Is that correct?
+[48 seconds][Customer] : That's correct.
+[49 seconds][Agent] : Wonderful, thank you. Just please, all calls are recorded. Any advice we provide is general nature may not be suitable to your situation. So the last time we spoke to you was on the 21st of April and we ran through a few funeral insurance quotes with you. How'd you manage to go in deciding upon which one you're happy to proceed with?
+[1 minutes 5 seconds][Customer] : I think I was going to ask, but I think I'll probably go with just the my husband Tony at this stage.
+[1 minutes 13 seconds][Agent] : Just a hidden OK, not a problem. 12,000. Sure, give me one SEC. Mm hmm.
+[1 minutes 14 seconds][Customer] : Yeah and probably the 12th 12,000 I think yeah, just I was going to ask can I later and myself what would be a separate policy then? I suppose. I suppose that wouldn't Yeah, big deal.
+[1 minutes 30 seconds][Agent] : Uh, it wouldn't make a difference to the pricing. Umm, if you do it, if you remember, if you do it as a joint or a single doesn't make a difference to the pricing. It just the premiums are based of your age and the level of cover you choose at the time of application.
+[1 minutes 48 seconds][Customer] : Yeah. But yeah, sure.
+[1 minutes 42 seconds][Agent] : Uh, so you can, you can take out a cover for yourself as long as you're in this, uh, in Australia and you're so a female Australian resident agency, 18 and 72, yeah, yes.
+[1 minutes 50 seconds][Customer] : But obviously we so just one of us, it's obviously gonna be half the price, the premium as having two.
+[1 minutes 54 seconds][Agent] : And his one, yeah.
+[1 minutes 56 seconds][Customer] : Yeah, yeah.
+[1 minutes 57 seconds][Agent] : So his one, it'll be installed. His cover is $12,000 for $31.47 per fortnight. Uh, $31.47 per fortnight.
+[2 minutes 4 seconds][Customer] : How much 31 sure. OK, Yeah. And I'd probably want that to start after the 25th of May, please.
+[2 minutes 17 seconds][Agent] : 25th of May. Yeah, I can do that for you. Give me one tick.
+[2 minutes 19 seconds][Customer] : Yeah, sure.
+[2 minutes 20 seconds][Agent] : I'll just go back. I'll go into his profile so I can set it up for you. I'm just currently in your one. Are you both living in the same address, using the same phone number and e-mail? Is that what? OK, give me one tick. I'll just copy it over to his profile.
+[2 minutes 28 seconds][Customer] : Yes, Yeah, that's right, seeing as I've got other, you know, covering things, but he doesn't really have anything.
+[2 minutes 43 seconds][Agent] : Right. That's OK.
+[2 minutes 43 seconds][Customer] : So I thought probably makes sense to get something for him at this stage.
+[2 minutes 47 seconds][Agent] : Yeah.
+[2 minutes 47 seconds][Customer] : Yeah, Yeah, that's right.
+[2 minutes 53 seconds][Agent] : So the same phone number I'll put on his profile, OK, your phone number 0411495396 and you have to submit it, use the same e-mail ruth.sandovar@bigpond.com.
+[3 minutes 5 seconds][Customer] : Yeah. No, that's good. Yeah. I don't know if you're gonna send anything through last time, but I haven't received anything. Or maybe you didn't.
+[3 minutes 13 seconds][Agent] : Uh, I did send out an e-mail on the day on the 21st to that e-mail address.
+[3 minutes 16 seconds][Customer] : Oh, OK.
+[3 minutes 17 seconds][Agent] : It may have arrived in your junk mail or spam mail or no inbox e-mail.
+[3 minutes 25 seconds][Customer] : Right. I was checking the junk e-mail. Maybe it's there.
+[3 minutes 29 seconds][Agent] : Yeah.
+[3 minutes 32 seconds][Customer] : No, I don't see anything there.
+[3 minutes 34 seconds][Agent] : Do you have like, uh, no inbox E uh, no inbox mailbox there?
+[3 minutes 40 seconds][Customer] : No. Can you just read out my e-mail address again?
+[3 minutes 44 seconds][Agent] : Yeah, it's ruth.ruth.vandavazandavar@bigpond.com.
+[3 minutes 52 seconds][Customer] : Yeah, that's it. Yeah. I don't remember S saying it was the 21st You sent it, was it?
+[3 minutes 54 seconds][Agent] : Yeah, that's the one we sent it to, uh, 21st, correct?
+[4 minutes][Customer] : I'll just go. And I don't remember seeing it, but I have another one.
+[3 minutes 58 seconds][Agent] : Yeah, just come up on the real insurance.
+[4 minutes 8 seconds][Customer] : Oh, sorry. Yeah, I do. Sorry. Yep. Cheers.
+[4 minutes 9 seconds][Agent] : That's all right. That's OK.
+[4 minutes 11 seconds][Customer] : Yeah, sorry.
+[4 minutes 17 seconds][Agent] : Bear with me.
+[4 minutes 12 seconds][Customer] : I've OK.
+[4 minutes 17 seconds][Agent] : Let's hop into his profile. Just make these updates on his name. So I've got, yeah, his full name, Tony Zandva. I'll add in your number there and your e-mail and I'll update the address to your address as well. You're living, of course, living the same address again.
+[4 minutes 47 seconds][Customer] : Yeah, that's correct.
+[4 minutes 48 seconds][Agent] : OK, Travellin. And that is number 17 year old Ave.
+[5 minutes][Customer] : Yep.
+[5 minutes 3 seconds][Agent] : OK, Yep, yeah, you just do it.
+[5 minutes 3 seconds][Customer] : So if I wanted to get it later, it would be a separate policy.
+[5 minutes 8 seconds][Agent] : You just give us a call, set up your policy.
+[5 minutes 9 seconds][Customer] : Yeah, yeah.
+[5 minutes 10 seconds][Agent] : Uh, you can link it up to the same day using the same bank details. It's not a problem.
+[5 minutes 15 seconds][Customer] : OK.
+[5 minutes 14 seconds][Agent] : So you can just come, it will just come out of the same bank account. But remember, if you're a year older or the, you know, if you're the same age now, then that's fine. You get the same price.
+[5 minutes 22 seconds][Customer] : MMM. Yeah. Mm. Hmm.
+[5 minutes 21 seconds][Agent] : So it's like $30 or so for your one, umm, But if you're a year older, you'll just see a slight difference in the pricing for the same level of cover. OK, umm, does that make sense? Does that does that click?
+[5 minutes 33 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah. Sure.
+[5 minutes 34 seconds][Agent] : OK OK, so again, I'll just recap on the benefits and the waiting period for his policy.
+[5 minutes 40 seconds][Customer] : Yeah, yeah, sure.
+[5 minutes 40 seconds][Agent] : Again, just to make sure you understand everything.
+[5 minutes 42 seconds][Customer] : Sure. Mm, hmm.
+[5 minutes 42 seconds][Agent] : So remember, you can choose between 3 and $15,000. You get an accidental death benefit and an accidental serious injury benefit as remember if death was due to an accident, the chosen benefit amount will triple from $12,000 to $36,000.
+[5 minutes 57 seconds][Customer] : Mm, hmm.
+[5 minutes 57 seconds][Agent] : If he was to survive an accident but it became seriously injured, for example quadriplegic or paraplegic.
+[6 minutes 3 seconds][Customer] : Hmm. Mm.
+[6 minutes 3 seconds][Agent] : And if this occurred anytime before the policy anniversary following his 75th birthday, then the benefit of that is also tripled. OK.
+[6 minutes 9 seconds][Customer] : Mm, hmm.
+[6 minutes 10 seconds][Agent] : For the 1st 12 months you'll be covered for accidental death and accidental serious injury. Only after the first 12 months, you'll be covered for death due to any cause.
+[6 minutes 19 seconds][Customer] : Mm hmm.
+[6 minutes 19 seconds][Agent] : In addition, there is a terminal illness benefit, which means after holding his policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we will pay his claim in full OK. At any time after he reaches the age of 85, you can choose to end his cover and we'll pay him 75% of the funeral insurance benefit. That is the early cash adoption. And once he reaches the age of 85, his premiums will cease and a 25% bonus cover will automatically be applied to his benefit demand as well. OK. The premiums are level, which means they're designed not to increase as he gets older. You get a free will kit and we also give you a real reward. So after the first year that you that is with us, we return 10% back. So you get $81.82 returned back to his hands as well.
+[6 minutes 33 seconds][Customer] : OK, OK, OK.
+[7 minutes 8 seconds][Agent] : So you're paying for it, right? So it'll come back to your account, OK.
+[7 minutes 10 seconds][Customer] : Yeah, yeah, yeah, sure.
+[7 minutes 12 seconds][Agent] : Uh, keep in mind you may pay more in total premiums over the life of the policy that the benefit amount. And just please be aware this insurance does not have a savings or an investment moment. So if you cancel outside of the 30 days, your cover will stop and you will not receive anything back. OK umm, now just want to confirm any questions before we confirm your details there to set this up. Mm hmm, 12,000 in full. Yeah, 12,000 in full.
+[7 minutes 27 seconds][Customer] : OK, with the the terminal illness thing did that's paid out you mean TH the 12,000 in full or that's yeah, yeah, yeah, sure. Yeah, yeah, yeah. None of that sounds pretty reasonable. Yeah.
+[7 minutes 45 seconds][Agent] : OK, beautiful. Now you don't need to pay anything today. What we just noted down as a preferred method of payment and a payment date that's suitable for you. As a business, we generally collect your first payment generally within the next 7 days. But is there a day in the next 7 days that's more suitable for you?
+[7 minutes 56 seconds][Customer] : No, like I said. So you can't.
+[8 minutes 7 seconds][Agent] : Oh, you did say sorry. You did mention that you want to put on the the 25th click.
+[8 minutes 10 seconds][Customer] : Yeah, yeah. Is that alright?
+[8 minutes 11 seconds][Agent] : OK, yeah, that's fine. He's birth. I just want to double check his birthday. He's on the March, so yeah, that's fine. We can push that for him. I just have to quickly send an e-mail.
+[8 minutes 19 seconds][Customer] : OK Ma, Yeah, maybe make it the twen. Oh, 25th or 26th would be good if that's alright.
+[8 minutes 22 seconds][Agent] : It's OK. Yeah, I can do that there with me. Sorry. Pull up my. OK. And you're paying for this out of your account, is that correct?
+[8 minutes 46 seconds][Customer] : Yeah, that's right. Yeah.
+[8 minutes 56 seconds][Agent] : Alright, give me one moment. Would you mind if I just pop you in a quick hold for one second?
+[9 minutes 1 seconds][Customer] : Yeah, sure. Yep.
+[9 minutes 2 seconds][Agent] : Thank you. Thank you so much for holding the line.
+[11 minutes 18 seconds][Customer] : That's alright.
+[11 minutes 19 seconds][Agent] : OK, so just to tell you, I have trouble opening my emails just a moment ago. So I was just fixing that up and everything's back up and running now. So I've got your admin request here to push out your payment. Umm, push up payment the 26th of May, Did you say?
+[11 minutes 42 seconds][Customer] : Yeah, that's right. That'd be great. Thank you.
+[11 minutes 44 seconds][Agent] : Yeah, I can do that and I'll just put in your details as a pay purchase on your husband's profile here. Your name is just Ruth Zanderville.
+[11 minutes 59 seconds][Customer] : Yeah, yes, yeah. Elizabeth is my middle name with an S. Yep.
+[12 minutes 8 seconds][Agent] : Yep, Oh Yep, it is that and can you to confirm your date of birth for me please?
+[12 minutes 24 seconds][Customer] : 8th of December 1965. Yep. 17 Newmont Ave. Yep.
+[12 minutes 30 seconds][Agent] : And of course, again, confirming in the same address and Yep. And relationship is wife.
+[12 minutes 39 seconds][Customer] : Yeah, that's right.
+[12 minutes 40 seconds][Agent] : OK, beautiful. So as a payment method, again, you can link it up to a Visa, MasterCard or a BSB account number.
+[12 minutes 50 seconds][Customer] : Yeah.
+[12 minutes 50 seconds][Agent] : Uh, what payment method would you like to use?
+[12 minutes 53 seconds][Customer] : A BSB account, please.
+[12 minutes 52 seconds][Agent] : Ruth's And that's just under your name. Or is it a joint account?
+[12 minutes 59 seconds][Customer] : Yes, that's just under my name, that one.
+[13 minutes 2 seconds][Agent] : Ruth Vanderbilt? And is it a savings account or check account that you'd like to use?
+[13 minutes 5 seconds][Customer] : Yeah, a savings account.
+[13 minutes 10 seconds][Agent] : And what is your BSP number first, please?
+[13 minutes 14 seconds][Customer] : Just a minute. I'm just getting into that.
+[13 minutes 16 seconds][Agent] : Yes, take your time. Yep, thank you. And the account number? Yep. I'll repeat that back to you, Sir.
+[13 minutes 19 seconds][Customer] : It is 067600, yeah, 10001826, That's it.
+[13 minutes 37 seconds][Agent] : BSP 067600, Commonwealth Bank of Australia, account number 10001826, under your name, Ruth Zandva.
+[13 minutes 47 seconds][Customer] : That's right, yeah.
+[13 minutes 47 seconds][Agent] : OK, wonderful. So we got a declaration for United States here. Thank you. Tony Zandva. It's important you understand the following information. I'll ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Wheel funeral cover is issued by Hanover Library of Australia's Limited. Hanover has an arrangement with Greenstone Financial Services, trading as real Insurance, to issue and arrange this insurance on its behalf. Your access to the application questions and any related documents from the basis of your contract of insurance and Hanover relies upon the accuracy of the information you have provided when assessing your application. Hanover has set a target market determination for this product, which describes the type of consumers this product is. Grind for distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We'll share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our promise to policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. We may from time to time provide office to you about the communication methods you have provided to us in relation to other products and services. By going to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can also do this at any time by contacting us. You have agreed to take out a single real funeral cover with the following cover. Tony Zanderberg is covered for $12,000. In the event of death in the case with that is accidental or if you suffer a defined accidental serious injury, the benefit of that will triple coverage for accidental death only for the 1st 12 months of cover with death by any cause or diagnosis of a terminal illness covered thereafter. Accidental serious injury cover for each life insured and the age 75 starts immediately and ends on the policy anniversary following the life insured 75th birthday. Once the life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash at option, you will no longer have a right to claim under the policy for that life insured. This policy does not have a savings or an investment component. That cover ends prior to age 85. No benefit is payable, but there's no refund of premiums after the cooling off. If you choose to retain cover be on age 85, you'll be entitled to an additional 25% of bonus cover from that date and will not be required to pay any further premiums after the life insured's 85th birthday. The bonus cover is not payable. If you take the early cash adoption cover for each life insured ends on the day prior to their 100th birthday, we will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for your first year of cover is $31.47 per fortnight. Your premium is designed to stay the same year on year and won't change if you alter your cover or the ensure to adjust the premium rate applying to your policy. You may pay more in premiums on the benefit amount over the life of the policy included in your premiums and demand payable to real insurance of between 31% and 56% calculated on a level basis over the life of the policy. Your premium will be debited from a nominated bank account in the name of Ruth Zander which are authorized to debit from and have provided to us. We may provide a written communications to you by the e-mail address you have provided to us, and this will include any legal notices we are required to provide to you in writing. If you would prefer to receive these only by mail, we can update your communications preference at any time. We'll send you a welcome pack including your policy schedule, PDS and FSG by mail. If you have provided us with an e-mail address, your policy schedule will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During that you may cancel your policy and any premium you may have paid will be refunded in full unless you have launched a claim. We have a complaints process which you can access at any time by contacting us. All details available online and in the document we are sending you. I've got 2 questions for you now. First question is do you understand and agree with the declaration? I've just read you yes or no? And would you like any other information about the insurance now or would you like me to read any part of the PDS to you? Yes or no?
+[17 minutes 36 seconds][Customer] : Yes, sorry. How long was the cooling off. Again? Sure. Yep, sure.
+[17 minutes 46 seconds][Agent] : 30 days ma'am, which starts on that first payment day on your on the 26th, sorry of May.
+[17 minutes 49 seconds][Customer] : Oh, OK, Right. Yep. No, that's all fine.
+[17 minutes 54 seconds][Agent] : OK beautiful. So I'll just reconfirm, would you like any other information about the insurance now or would you like me to read any part of the PDS to you? Yes or no?
+[18 minutes 2 seconds][Customer] : No, that's fine. That's all good.
+[18 minutes 1 seconds][Agent] : Umm, no, that's fine. OK beautiful. So I'll accept that for you now. Your first payment will come out on the 26th of May 2022. Umm, and every fortnight from that downwards.
+[18 minutes 16 seconds][Customer] : Yeah. Cool.
+[18 minutes 15 seconds][Agent] : OK, Umm, if you'd like to make any changes, we're available Monday or Friday, 8:00 AM to 8:00 PM NSW time.
+[18 minutes 25 seconds][Customer] : Sure.
+[18 minutes 21 seconds][Agent] : So, umm, you can give us a call and apply to, you know, make changes or even apply to cancel the policy. If we do apply to cancel the policy to get a full refund back if any premiums had been made. OK.
+[18 minutes 26 seconds][Customer] : Yeah, sure.
+[18 minutes 33 seconds][Agent] : So just keep that in mind. And umm, I just reconfirm our Tony's details just one more time to make sure I've got everything correct here there with me.
+[18 minutes 42 seconds][Customer] : Yeah.
+[18 minutes 41 seconds][Agent] : Full name first and last, I'm sorry, Mr. Tony Zandva, date of birth, 23rd of March 1965. He's a male Australian resident, Address 70 New World Ave. Travellin TAS 7250, phone number 0411495396. e-mail roots.zandva@bigpond.com. Is that all correct?
+[19 minutes][Customer] : Yeah. No, that's good. Yep.
+[19 minutes 2 seconds][Agent] : OK, beautiful. My name is AJ from Real Insurance. Again, just please know our calls are recorded. Any advice we provide is general in nature may not be suitable to your situation. So that's all done for you now Ruth and welcome aboard to Real Insurance.
+[19 minutes 12 seconds][Customer] : Cool. Thank you.
+[19 minutes 13 seconds][Agent] : If you have any questions again, just give us a bell back. We'll be more than happy to help you again. OK.
+[19 minutes 17 seconds][Customer] : Thank you.
+[19 minutes 22 seconds][Agent] : Yeah, correct.
+[19 minutes 18 seconds][Customer] : So you'll e-mail, obviously there'll be a policy number and etcetera, you'll e-mail all the details. Yeah, sure. Yeah.
+[19 minutes 22 seconds][Agent] : You get a you get 2 copies, one in the e-mail form, which will arrive within about 10 to 15 minutes and and a hard copy be posted to your postal address within about two to five business days. You just need to get your husband to sign the beneficiary forms and just post them back to us when he's ready.
+[19 minutes 38 seconds][Customer] : OK. Yeah. Cool. OK.
+[19 minutes 39 seconds][Agent] : OK, Awesome.
+[19 minutes 40 seconds][Customer] : No, that sounds good. OK.
+[19 minutes 41 seconds][Agent] : Thank you.
+[19 minutes 42 seconds][Customer] : Thank you very much for that. Great.
+[19 minutes 43 seconds][Agent] : That's right.
+[19 minutes 43 seconds][Customer] : Thank you.
+[19 minutes 43 seconds][Agent] : You have a good night.
+[19 minutes 44 seconds][Customer] : Thanks.
+[19 minutes 44 seconds][Agent] : Take care.
+[19 minutes 45 seconds][Customer] : Thank you. You too. Bye.
+[19 minutes 46 seconds][Agent] : Bye bye.

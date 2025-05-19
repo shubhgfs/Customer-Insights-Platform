@@ -1,0 +1,159 @@
+[1 seconds][Agent] : Welcome to Real Insurance. You're speaking to. How can I help you Today?
+[6 seconds][Customer] : Hello, this is Nathia speaking.
+[9 seconds][Agent] : It's Tim. How can I help you, Matthew? Yep.
+[7 seconds][Customer] : Sorry I didn't catch your name it it seemed last year on December I was trying to get the life insurance from the insurance and while I was answering to health question there were a couple of questions that I didn't know the answer.
+[29 seconds][Agent] : Yep.
+[29 seconds][Customer] : So I attended my GP. I've got the answer now but I believe the phone should be saved from there because I have two attempts phone calls.
+[33 seconds][Agent] : OK, Yeah, let me let me look you up here. What was your full name? Matthew and your date of birth.
+[45 seconds][Customer] : Matthew Moss 15th of May 1986.
+[52 seconds][Agent] : Thanks for that, and just confirming, you are of course a male Australian resident.
+[59 seconds][Customer] : Yes, correct.
+[1 minutes 1 seconds][Agent] : Perfect. Just Please note that calls are recorded and any advice we provide is general in nature and may not be suitable for your situation.
+[1 minutes 9 seconds][Customer] : OK.
+[1 minutes 12 seconds][Agent] : Umm, alright, give me one second. Alright, look, I'll take you through these questions again. I can see you where you went through them at the very start of December. So the answers only save for 28 days. So I'll take you through them again and we'll be able to disclose the new information you've got. OK, Let me jump into this for you. I can see. Yes.
+[1 minutes 34 seconds][Customer] : And yeah, just before you start the questions, I've got other things to do.
+[1 minutes 46 seconds][Agent] : Yep.
+[1 minutes 41 seconds][Customer] : I've got income protection insurance as well from real insurance.
+[1 minutes 46 seconds][Agent] : Yeah, I can see that. Yep.
+[1 minutes 48 seconds][Customer] : Yeah. And there was some back pain issue that I declared the day that I was getting this and the person who was looking after my case that by December, if you've been recovered, we removed the exclusion of that kind of time issue.
+[1 minutes 58 seconds][Agent] : OK, OK, Yep, Yep, Yep. OK, look what?
+[2 minutes 14 seconds][Customer] : If they can do that, that would be great.
+[2 minutes 16 seconds][Agent] : Yeah, perfect, perfect. Yeah, Look, I'll help you out with the, uh, life cover and then I can put you through to someone to, to sort out the income prediction.
+[2 minutes 24 seconds][Customer] : That's it. Thank you.
+[2 minutes 23 seconds][Agent] : OK, OK, so with the life cover, umm, I'll just quickly touch on how it works again here.
+[2 minutes 35 seconds][Customer] : Yes.
+[2 minutes 29 seconds][Agent] : So we have actually had an update to our policy in the, in the last month, umm, so it would have been a couple of weeks after you spoke with my colleague. So I'll explain how the policy works. It is very similar, umm, but the amounts that we're able to cover are slightly different. So, umm, can I just ask firstly, have you had a cigarette in the last 12 months?
+[2 minutes 49 seconds][Customer] : No.
+[2 minutes 50 seconds][Agent] : Perfect. And is your current annual income $50,000 or more?
+[2 minutes 56 seconds][Customer] : Current what?
+[2 minutes 57 seconds][Agent] : Uh, annual income $50,000 or more.
+[2 minutes 57 seconds][Customer] : Sorry, $50,000 And you what? Yeah. Yeah, that's small.
+[3 minutes 4 seconds][Agent] : Ye yeah, perfect. Yeah, excellent. And, umm, so you can choose from $100,000 up to $2,000,000 cover now. Umm, I understand you were previously looking at $1,000,000. Did you wanna just stick with the $1,000,000 cover?
+[3 minutes 20 seconds][Customer] : Yes, I would call it my mortgage. Yeah.
+[3 minutes 18 seconds][Agent] : Yeah, yeah, no problem. Alright, we'll stick with that. The policy now so includes a funeral component. So we do a 20% advanced payouts cover, funeral costs up to a Max of $20,000. We'll take you through these health questions. We'll see if you're eligible for it. The $1,000,000 cover, it's $62.40, uh, fortnightly on the new policy. OK, no problem.
+[3 minutes 42 seconds][Customer] : Yeah, well, what was the last figure on last year?
+[3 minutes 46 seconds][Agent] : I think it was about 55. I think it's I think it was about 55.
+[3 minutes 46 seconds][Customer] : Was it the OK?
+[3 minutes 49 seconds][Agent] : So it's a it's a few dollars difference.
+[3 minutes 51 seconds][Customer] : No worries.
+[3 minutes 50 seconds][Agent] : Yeah, no problem, I'll jump into these health questions. I'm just going to read you a pre underwriting disclosure. This just frames up how to answer the questions again. So just read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issues and other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and logical complaints about breaches of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations.
+[4 minutes 34 seconds][Customer] : OK.
+[4 minutes 33 seconds][Agent] : This means that you need to ensure that you understand each question I asked you and that you provide all most accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you've had. If you do not take reasonable care, you may breach a duty and if this happens, the insurer may be entitled to cancel your policy decline. I claim I'll make adjustments to the P terms and conditions of your policy. Uh, do you understand and agree to your duty?
+[5 minutes][Customer] : Yes, thank you.
+[5 minutes 2 seconds][Agent] : Perfect. And just Please note that our calls are recorded and any advice we provide is general and nature may not be suitable for the situation. Umm, the first question here is just in without the pandemic. So just have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Perfect uh, are you a citizen or permanent resident of Australia or a citizen of New Zealand currently residing in Australia?
+[5 minutes 21 seconds][Customer] : No citizen of Australia.
+[5 minutes 32 seconds][Agent] : Perfect Uh, have you had, have you ever had symptoms of been diagnosed with or treated or intend to seek medical advice for any of the following? So stroke or heart conditions such has been not limited to palpitations, heart, normal heart attack and angina.
+[5 minutes 47 seconds][Customer] : No.
+[5 minutes 49 seconds][Agent] : A lung disorder excluding asthma, sleep apnea, pneumonia, cancer, leukemia or Melanoma, excluding other skin cancer, hepatitis or any disorder of the liver.
+[5 minutes 54 seconds][Customer] : Uh, no, no, no.
+[6 minutes 8 seconds][Agent] : Anxiety, depression, or stress requiring medical treatment or any other mental health disorder.
+[6 minutes 15 seconds][Customer] : Yeah, I do take Philips 13 everyday. Like for anxiety?
+[6 minutes 20 seconds][Agent] : OK, no problem. In the last 10 years have you attempted suicide or been hospitalized from mental health condition? Perfect. Is your condition a form of schizophrenia, bipolar or psychotic disorder?
+[6 minutes 27 seconds][Customer] : No, no.
+[6 minutes 38 seconds][Agent] : Two conditions. So I've got AB or C. So A depression, anxiety, personated depression or stress, including post traumatic stress disorder, B as anorexia, universal bulimia or CADHADD. And I'll just confirm it's just anxiety.
+[6 minutes 53 seconds][Customer] : A.
+[6 minutes 51 seconds][Agent] : So A yeah, yeah. Perfect. And how many episodes have you had with your required treatment? I can put down one to 2/3 to 4/5 to six or seven plus.
+[7 minutes 4 seconds][Customer] : What do you mean by appeasement?
+[7 minutes 6 seconds][Agent] : Yeah, I'll read you the definition. So umm. An episode is an event. Occurrence of reoccurrence of symptoms would increase severity from normal mood and usually require either medical intervention, referral or treatment alteration.
+[7 minutes 23 seconds][Customer] : Yeah, what are what?
+[7 minutes 19 seconds][Agent] : Sorry, umm sorry or treat Sorry an episode is in venture cancer recurrences. Symptoms will decrease ready for normal. Usually require a medical information for intervention, referral, treatment or alteration. Slash adjustment to existing maintenance treatment. Treatment can take the form of medication into account. Slash therapy. If someone has mental health symptoms that require treatment, this is an episode. If they return to their doctor several times to monitor the situation and offer repeat prescriptions, this is the same single episode. If, however, they have a relapse or symptoms worsen and treatment needs to be changed or increased, then this constitutes a an episode. Similarly, if the applicant recovers and treatment stops and the applicant is fine, but the later date symptoms try and they have to go back to the doctors, seek further advice, this would be a separate episode.
+[8 minutes 7 seconds][Customer] : Yep. So that would be 1 episode then.
+[8 minutes 9 seconds][Agent] : One episode. Excellent. Yeah. Perfect. And so was it, was it more than one episode? So we'll answer no for that because it was just the one.
+[8 minutes 9 seconds][Customer] : Yeah, it does. Symptom of what?
+[8 minutes 17 seconds][Agent] : And have you had symptoms or treatment for this condition within the last six months of the anxiety? So symptoms of treatment for the anxiety within the last six months.
+[8 minutes 25 seconds][Customer] : Sorry, No, the teeth can't work.
+[8 minutes 34 seconds][Agent] : OK. Are you still on the medication there? Yeah. Yeah. OK.
+[8 minutes 33 seconds][Customer] : So yeah, yeah, it's been 8-9 years to come from medication. Yeah.
+[8 minutes 40 seconds][Agent] : Excellent. No problem. Have you ever seriously contemplated or attempted suicide? Perfect. Next question here, have you been diagnosed with a terminal illness, motion or disease, any form of dementia, including Alzheimer's disease or been told by a doctor that you have a condition that will reduce your life expectancy?
+[8 minutes 45 seconds][Customer] : No, no.
+[9 minutes 4 seconds][Agent] : Uh, in the last 10 years, have you used illegal drugs, abuse prescription Medicaid, received treatment or counseling for drug or alcohol consumption? Perfect. The next section is just in relation to your height and weight. Just please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system doesn't allow me to enter any approximate figures, words or height of weight ranges. Uh, given that in mind, what is your exact height?
+[9 minutes 11 seconds][Customer] : No, I'm the seven 4 centimeter.
+[9 minutes 31 seconds][Agent] : So how tall are you perfect and what is your exact weight?
+[9 minutes 42 seconds][Customer] : 90 kilograms.
+[9 minutes 44 seconds][Agent] : And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? No problem. Does your work require you to go underground? Work at heights above 20 meters, dive steps below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of Australia so booked or will be booking travel within the next 12 months?
+[10 minutes 7 seconds][Customer] : No, no, no.
+[10 minutes 27 seconds][Agent] : Do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5 million. Have you ever had symptoms of been diagnosed without treated for or intend to seek medical advice for any of the following? So diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, mole or cyst, including skin cancer or sunspots.
+[10 minutes 35 seconds][Customer] : No, no, no, no.
+[11 minutes 6 seconds][Agent] : I think you know, in the premium location. You did mention you were having a cyst removed, is that right?
+[11 minutes 12 seconds][Customer] : No, it wasn't. It wasn't.
+[11 minutes 16 seconds][Agent] : OK, OK. All right. Yeah. Perfect.
+[11 minutes 14 seconds][Customer] : I was curious and I told the other person that I need to go and check and my GP told me it's only a boy and it's it's just yeah, they didn't need to do anything.
+[11 minutes 26 seconds][Agent] : Excellent. No problem.
+[11 minutes 25 seconds][Customer] : Yeah, yeah, yeah.
+[11 minutes 27 seconds][Agent] : All right, next question here. Have you ever had an abnormal PSA test or an enlarged prostate?
+[11 minutes 36 seconds][Customer] : Yeah, well, I'll have the test.
+[11 minutes 44 seconds][Agent] : Yep.
+[11 minutes 37 seconds][Customer] : And as you can see in my previous, it was diagnosed as BPH and it's fully recovered.
+[11 minutes 45 seconds][Agent] : OK, excellent. Umm, So what was the abnormality described as me doctor, please confirm if you so it was by now prostate hyp hypertrophy. Umm and please confirm if you have fully recovered. So we'll answer yes for that. You just told me yes.
+[12 minutes][Customer] : Yes, yeah.
+[12 minutes 1 seconds][Agent] : Perfect.
+[12 minutes 8 seconds][Customer] : No, no, no, no, no, no, no.
+[12 minutes 2 seconds][Agent] : Our next question here is thyroid condition or neurological symptoms such as dizziness or fainting disorder of the stomach, bowel, gallbladder or pancreas, epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis, bladder or urinary tract disorder, kidney disorder, blood disorder or disease and sleep apnea or asthma, excluding childhood asthma. Perfect. And other than what you've already told me that in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist or are you waiting results of any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy?
+[12 minutes 37 seconds][Customer] : No, no.
+[12 minutes 55 seconds][Agent] : I know you mentioned obviously like back pain that you that you disclosed on the income protection was that in the last three years that you have the back pain.
+[13 minutes 5 seconds][Customer] : Yeah, it was the last three years. Yeah.
+[13 minutes 6 seconds][Agent] : OK, no problem. And but there's no medical and there's no outstanding medical investigations for that.
+[13 minutes 13 seconds][Customer] : No, no, it's fully recovered. Yeah.
+[13 minutes 13 seconds][Agent] : No Excellent, perfect. And then other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Perfect. Just three questions to go the next to our family history. So it's a medium, family only. So just brother, sister, mother, father. To start, to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to the age of 60?
+[13 minutes 25 seconds][Customer] : No, no, no.
+[13 minutes 59 seconds][Agent] : Perfect. And just one last question for you. So just other than one off events, gift certificates or vouchers, do you engage in or intend to engage in any of the following? So aviation other than as a fair paying pasture on a recognized airline, motor racing, parachuting mounts, airing ABS sailing, scuba diving deeper than 40 meters K for wreck diving or any other houses activity.
+[14 minutes 21 seconds][Customer] : No.
+[14 minutes 23 seconds][Agent] : Perfect. That's the last question there. So I'll get this sent off. It should just take a moment to come back. Umm, just while we're waiting for it to come back. Umm, yeah, actually perfect. That's come. It's come back straight away there. Big congratulations. You have been fully approved for the, uh, life just in regards to health and lifestyle questions in regards to the anxiety, the premium has risen. So let me know if this still works for yourself. If not, we can look at a different level of cover. But for the $1 million life coverage, which will include the $1 million terminal illness coverage as well as the 20,000 funeral advance, you'd be looking at a fortnightly premium of $93.61. Do you think that's still going to work for yourself, Matthew?
+[15 minutes 4 seconds][Customer] : So instead of 60 something dollars now $90.00, right?
+[15 minutes 9 seconds][Agent] : Yeah, correct. Yeah, that was just due to the anxiety.
+[15 minutes 15 seconds][Customer] : OK. Yeah.
+[15 minutes 15 seconds][Agent] : Is that still going to work for yourself or did you want to look at something below 1,000,000?
+[15 minutes 21 seconds][Customer] : Yeah. Well, can you go through the question of anxiety again?
+[15 minutes 26 seconds][Agent] : Yeah, of course. Yeah, Yeah, I mean, I can double check that we put it down, right.
+[15 minutes 29 seconds][Customer] : Just want to make sure that I have an answer and need to call.
+[15 minutes 32 seconds][Agent] : Yeah. I, I, I think we have captured it correctly because you said you're still on medication. So that's the only reason that there was the umm, because you're currently on medication for it. If you weren't on medication for it, umm, it wouldn't have actually give you the increase in price because we've captured I, I believe we've captured everything correctly here.
+[15 minutes 49 seconds][Customer] : OK then.
+[15 minutes 48 seconds][Agent] : So, uh, we've put down that you have anxiety. Uh, it was only the one episode. Umm, you've just had trained within the last six months, obviously. And no, you've never seriously contemplated or attempted suicide.
+[16 minutes 2 seconds][Customer] : No, it's been nearly 910 years, so I guess that's helping.
+[16 minutes 6 seconds][Agent] : Yeah, fair enough.
+[16 minutes 5 seconds][Customer] : Taking medication, OK.
+[16 minutes 7 seconds][Agent] : You no problem. So I'll let you know. So congratulations. Obviously you have been approved. So the policy will cover you for death due to any cause except for suicide in the 1st 13 months. There's a terminally ill advanced payment attached, which means if you were diagnosed with 24 months or less to live by a medical practitioner will pay the claim that in full. In that situation, and I'll just let you know as well, the policy does include an automatic indexation. Basically what that means is the level of cover goes up by 5 each year and there's an increase in premium based on that. However, if you want to keep it at just the $1,000,000 each year, you just have to let us know. So just please be aware that your premium is STEP which means it will generally increase each year. In addition, this policy has an automatic indexation which means each year your sum insured will increase by 5% with associated increase in premium until you reach the maximum benefit now or until the policy anniversary following your 75th birthday. You can opt out of this automatic indexation each year as an indication if you keep it at the same level of covering changes to it next year. Premium from $99.75. You can also find information about our premium structure on our website.
+[17 minutes 17 seconds][Customer] : OK. Then. So regarding to this health, life, not health, sorry, life insurance.
+[17 minutes 15 seconds][Agent] : OK, Yep. Mm, hmm.
+[17 minutes 21 seconds][Customer] : So if anything happens to me, including accidents, that's $1 million goes to my family, right?
+[17 minutes 27 seconds][Agent] : Yep, correct. Yeah. So it goes to whoever you put down as the beneficiary. So I'm gonna send you a beneficiary form today. You'll just have to fill that out, sign that, send that back to us so we know who I'm paying the money after if anything happens.
+[17 minutes 42 seconds][Customer] : OK, no worries. Cool. Thank you. You got my e-mail address?
+[17 minutes 41 seconds][Agent] : Umm, yeah, I'm gonna double check that I've got all the contact information correct now, so I've got your postal address as 42 Port St. uh, Jamboree Heights, QLD 4074.
+[17 minutes 55 seconds][Customer] : Yes.
+[17 minutes 54 seconds][Agent] : The e-mail address is matt.moss.abby@gmail.com.
+[18 minutes 5 seconds][Customer] : Yep.
+[17 minutes 59 seconds][Agent] : Uh, best contact number 0423174719 and the name was Matthew Moss. Date of birth, 15th of the 5th 80. You are a male Australian resident. All correct?
+[18 minutes 11 seconds][Customer] : Yeah. OK.
+[18 minutes 10 seconds][Agent] : OK, perfect. Excellent. So we'll get this in place for you now and I'll get all the documents sent out. Before we do that, we do need to enter a preferred payment method, but no payments will come up today. I'm going to let you select the payment date in the future. So the preferred payment method, what would you like to put down? We can either do a BSB and account number or a Visa or MasterCard. No problem. Is it a savings or checking out the you sorry method?
+[18 minutes 31 seconds][Customer] : VSB account number, what? What was the account that you used for the other one? Is it website or Commodus?
+[18 minutes 44 seconds][Agent] : I'm not sure. So once we enter, it gets encrypted so that we can't see it.
+[18 minutes 49 seconds][Customer] : Yeah.
+[18 minutes 48 seconds][Agent] : So not everyone of the company has access to your payment details?
+[18 minutes 52 seconds][Customer] : OK. So we all set up one thing to make sure.
+[18 minutes 56 seconds][Agent] : Yeah. Which would you prefer? So we can do either a savings or a checking account.
+[19 minutes 2 seconds][Customer] : Saving or shipping account I'm not sure what's the difference up to only got PSP account number on my app.
+[19 minutes 11 seconds][Agent] : OK, yeah, that's fine. That's fine. Is it the account just in your name?
+[19 minutes 11 seconds][Customer] : On my app, yes.
+[19 minutes 17 seconds][Agent] : OK, no problem.
+[19 minutes 21 seconds][Customer] : The PSP is 734108.
+[19 minutes 17 seconds][Agent] : What was the BSP number for that one?
+[19 minutes 33 seconds][Customer] : Any what?
+[19 minutes 29 seconds][Agent] : And the account number, uh, and, uh, sorry. And the account number, sorry.
+[19 minutes 34 seconds][Customer] : Sorry, Account number 832709.
+[19 minutes 42 seconds][Agent] : And that's just, uh, a check account with Westpac.
+[19 minutes 46 seconds][Customer] : Yes, correct.
+[19 minutes 45 seconds][Agent] : Yeah, no problem. And for the first payment date, so we'll let you select a day in the future. I can line it up with like a payday if you'd like. When would you like me to set the first one for? I can do that. That's fine. That'll be the 13th. OK.
+[19 minutes 59 seconds][Customer] : The pay date next Monday, yeah.
+[20 minutes 7 seconds][Agent] : The one we have to do is just read you through the final terms conditions just to make sure we're on the same page about everything. Then I'll transfer you through to the customer support team to sort out the income prediction.
+[20 minutes 17 seconds][Customer] : OK.
+[20 minutes 16 seconds][Agent] : OK, so this just reads Matthew, just Please note our calls are recorded. Thank you. Matthew Moss, it is important you understand the following information. I will ask for your agreement to these terms of ending your policy. We'll not be enforcing the sugar to these terms in full. The life insurance is issued by Hanover Life free of Australasia Limited who will refer to us Hanover. Hanover has an arrangement bring some financial service you know will refer to as GFS trading as real insurance. You should arrange this insurance on its behalf and it relies upon the accuracy of the information you're provided when assessing the application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market submission for this product which describes the type of concerns. This product is designed for our distribution practices of assist with this determination. You can obtain a copy on our website. I need to remind you of the Judy to take reasonable care that you agreed to. Can you please confirm you've answered all of our questions in accordance with your Judy? Oh really?
+[21 minutes 12 seconds][Customer] : Confirm what? Sorry. Yes, correct.
+[21 minutes 14 seconds][Agent] : Can you please confirm you have answered all of that all of our questions in accordance with your Judy perfect. We may from time to time provide offers to you via the communication methods you've provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose and to you update You can update of this at any time by contacting us. We accepted cover pace of lump sum benefit not of loss receives $1 million in the event of life insurance and benefits not paying you to suicide in the 1st 30 months of the policy from S you must life insurance awarding was applied during the application process. By agreeing to this declaration, you agreed to me and I'm seeing the exclusions or learnings placed in the policy and you understand there are many places in the life of the policy. You may request for any of these alternative terms reviewed at any time. By calling us. You're paying for your first year of cover is $93.61 per format. Your premium is step premium, which means it will be calculated at each policy and will generally increase as your age. Your summit also increase automatically by 5% each year until you reach the maximum benefit matter until the policy anniversary following your 70th birthday. You can opt out of this. You understand that the premium rejection provided is indicative only and does not take into account any existing policies you you may have with us included in your premiums and payable to GFS of between 41% and 55% to cover costs. The premium will be debited from your bank account in the name of Matthew Moss which authorised debit from and have provided to us the policy documentation. PDS and FSC will be able to you and if you have provided us with an e-mail address, the policy documentation will also be emailed to you today.
+[22 minutes 45 seconds][Customer] : None.
+[22 minutes 43 seconds][Agent] : You should carefully consider these documents to ensure the product meets your needs. You have a 30 day calling off when you may cancel your policy and any premium you may have payable refund unless you've lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to existing cover. We recommend that you cannot cancel an existing policy into your received and viewed our policy in full. Finally, we have a complaints process which can access anytime by contacting us. Full details are available online and in the documentation we're sending you. And just two final questions here for you, Matthew.
+[23 minutes 14 seconds][Customer] : Yes, I do.
+[23 minutes 10 seconds][Agent] : It's just, do you understand and agree with the declaration and other than the information I'm sending out for you right now, right now, would you like any other information or would you like me to read any part of the PDS to you?
+[23 minutes 23 seconds][Customer] : No, that's so good.
+[23 minutes 25 seconds][Agent] : Perfect. OK, that's sent out for you now. Now I'm going to put you on hold for a moment and I'll transfer you through to the, uh, customer support team in regards to the income protection and they'll be able to, to run through that with you. OK.
+[23 minutes 36 seconds][Customer] : Oh, good. Thank you.
+[23 minutes 35 seconds][Agent] : All right, thank you. Just one moment. Matthew, I've got Kirsten here from my customer support team there versus you further, Kirsten, I've confirmed full name, date of birth address, uh, type of policy, contact number and e-mail address. Please go ahead.

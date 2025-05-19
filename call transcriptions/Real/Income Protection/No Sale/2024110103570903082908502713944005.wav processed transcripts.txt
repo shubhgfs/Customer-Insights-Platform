@@ -1,0 +1,95 @@
+[8 seconds][Customer] : Hello, Adam speaking.
+[9 seconds][Agent] : Hello and good afternoon there. Adam, this is Sharmaine calling you from Real Insurance in regards to the income protection insurance inquiry that was put through. How you doing today?
+[18 seconds][Customer] : Oh, OK, good. Thank you.
+[21 seconds][Agent] : That's really correct. So the reason for my call today is to run you through how the policy works, explain the features and benefits of the cover and also I'll bring out the pricing for you. Let me know how is that all sounding. OK umm, to begin with can I quickly confirm that I'm speaking with Mr. Adam Williams and the date of birth I got is 29th of the 7th 1971.
+[34 seconds][Customer] : Yes, yes, that's fine.
+[45 seconds][Agent] : Beautiful. Can I also confirm that you are a male in gender and Australian resident? Yes or no? Beautiful, Thank you for confirming the details for compliance reasons. Just a friendly reminder to you Adam that all calls are recorded. Any advice they provide this generally in nature and may not be suitable to your situation. So Adam, please help me to understand your situation so I can help you best as well. Have you ever had any sort of in competition, in cover in place?
+[51 seconds][Customer] : Yes, yeah, Yep, Yes, I do and I still do at the moment.
+[1 minutes 17 seconds][Agent] : OK. And what made you to look into the another one if you don't mind asking? Are you comparing?
+[1 minutes 23 seconds][Customer] : Yeah, I'm just comparing at this stage. I've been with the other company now for about 15 to 20 years and I thought I might be a chance to change.
+[1 minutes 29 seconds][Agent] : OK, OK. And how much of the coverage do you have with them?
+[1 minutes 38 seconds][Customer] : Oh, it depends on how I injure myself to what, what sort of coverage they give me. Do you know what I mean? Yeah, yeah.
+[1 minutes 44 seconds][Agent] : OK, depending on your age, injury, they will OK OK, all right. And umm, how much are you currently paying if you don't mind asking? So to help me to compare.
+[1 minutes 55 seconds][Customer] : I think it's about $280 a month.
+[2 minutes 1 seconds][Agent] : OK, all right, all right. I have noted it down. Let's see with our brand, uh, we, what I will do, I'll go through, umm, the benefit demand, which you as well as the monthly premium. Let me see, umm, let me know how is that one sounding for you as well?
+[2 minutes 15 seconds][Customer] : Yeah.
+[2 minutes 15 seconds][Agent] : OK, But umm, we do like to let your customer know Adam that if you are replacing an existing policy, we recommend that you do not cancel it until your application has been approved and you have reviewed this policy in full as it may not be identical to your existing cover. You should also consider that the benefits that may not apply or waiting periods that may start again with us as well. OK, So in terms of our policy at it is designed to provide a monthly income benefit. It will be paid directly to you if you are unable to work due to a disabling sickness or injury and you suffer a loss of income. OK, So it is designed to help you with the, umm, pay your bills or any sort of living cost if your salary is interrupted. And you can apply for this cover if you work at least 12, at least 15 hours per week in a paid employment.
+[2 minutes 56 seconds][Customer] : Yep, Yep, Yep. Yep.
+[3 minutes 11 seconds][Agent] : OK, So Adam, we offer income benefit of up to 70% of your monthly pre tax income. Uh, the benefit amount can ranges from $1000 goes up to $15,000. OK. And once the policy in place, Adam, it will cover you until your policy anniversary following your 65th birthday. OK.
+[3 minutes 24 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 35 seconds][Agent] : And keep that in mind as well that there are some exclusions that apply as outlined in the PDF as well. So what we do Adam, we go through some questions that is regarding your duties at work. So we go through some duty based assessment with us to find out about how much of the benefit amount you can apply.
+[3 minutes 55 seconds][Customer] : Yep.
+[3 minutes 55 seconds][Agent] : OK, So I'll ask you those questions also letting you know, Adam, before answering any of our questions, it is important that you are aware of your duty to answer all our questions accurately and honestly. Failure to do so could impact your cover at claims time.
+[4 minutes 13 seconds][Customer] : Yep.
+[4 minutes 12 seconds][Agent] : OK so first question is do you work 15 hours or more power week yes or no?
+[4 minutes 19 seconds][Customer] : Yes.
+[4 minutes 20 seconds][Agent] : Beautiful. And is your role of an administrative, managerial or professional nature why you spend the majority of your time indoors in an office or clinical environment? Yes or no?
+[4 minutes 35 seconds][Customer] : No.
+[4 minutes 37 seconds][Agent] : Do you perform heavy physical duties, use heavy machinery or drive a vehicle? Yes or no?
+[4 minutes 44 seconds][Customer] : Yes.
+[4 minutes 46 seconds][Agent] : Are you qualified, skilled or semi skilled or hold the required licenses to perform your role? Yes or no?
+[4 minutes 54 seconds][Customer] : Yes.
+[4 minutes 55 seconds][Agent] : Beautiful. Do you work in any of the following fields? Aviation as a pilot or crew, Entertainment or sporting industry, Air Force, army, armed forces or do you handle explosives? Yes or no? Perfect. Next question, do you regularly work underground or underwater, work at high above 10 meters, work offshore, carry a firearm or drive long haul? Yes or no? Perfect. Thank you for answering all the questions that your duty based assessment is being completed now and we can go through the pricing. To go through the pricing we ask you one question that is relating to your smoking status. So have you had a cigarette in the last 12 months? Yes or no?
+[5 minutes 11 seconds][Customer] : No, no, no, I've never had one cigarette my life.
+[5 minutes 54 seconds][Agent] : They're very great, a very healthy lifestyle as well. I think I've tried once when I went through my teenage life.
+[6 minutes 3 seconds][Customer] : Never. No, never even had one when I was a teenager.
+[6 minutes 1 seconds][Agent] : Umm and oh beautiful. I think it's not it. Umm it's nothing good to be trying to be honest. It was really I disgusting. I didn't like it.
+[6 minutes 14 seconds][Customer] : Yeah, yeah. No, I can't stand it myself.
+[6 minutes 16 seconds][Agent] : Umm oh beautiful beautiful that's really great to hear.
+[6 minutes 23 seconds][Customer] : Yep.
+[6 minutes 21 seconds][Agent] : So I have asked you as a non-smoker then Adam and can I please confirm if you are employed or are self-employed?
+[6 minutes 28 seconds][Customer] : I'm self-employed. Yep.
+[6 minutes 29 seconds][Agent] : self-employed Beautiful. So pre tax income is your share of annual income and in the business before tax directly due to your own personal efforts less any business expenses and excluding super contributions. OK. So this is the amount that the business would otherwise cease earning in the event you were unable to work due to a disability. So Adam, may I know your annual income before tax please?
+[6 minutes 48 seconds][Customer] : Yep, annual income before tax.
+[6 minutes 58 seconds][Agent] : Annual income before that?
+[7 minutes 5 seconds][Customer] : I think it's about $90,000.
+[7 minutes 3 seconds][Agent] : Yes, please 90,000 beautiful. I have uh captured that I spell so based on your duties Adam uh that questionnaire that you went through with me uh so you can select the benefit amount minimum is $1000 and the maximum you can go up to $5250.
+[7 minutes 27 seconds][Customer] : Yep.
+[7 minutes 25 seconds][Agent] : OK, So what now did you want me to have a look at today?
+[7 minutes 30 seconds][Customer] : Say the highest amount. Yep.
+[7 minutes 31 seconds][Agent] : Hi to match $5250. OK beautiful.
+[7 minutes 35 seconds][Customer] : Yes, Yep.
+[7 minutes 37 seconds][Agent] : I have kept, umm I have kept are still loading up with the pricing. Umm we do have to select. You do also have the option to select the different waiting periods and benefit periods as well depending on your circumstances of course.
+[7 minutes 49 seconds][Customer] : Yeah.
+[7 minutes 50 seconds][Agent] : So the I'll explain the what we mean by the waiting period. So the waiting period is the non payment period that you must wait before the income benefit is payable after the insured event. You can choose the 30 days or 90 days waiting period. Please keep in mind that the income benefit is paid in areas. This means if you chose a 30 day waiting period, your first payment would be 60 days after you are first eligible to claim. OK, so which waiting period would you like me to give you the pricing on? 30 days or 90 days?
+[8 minutes 18 seconds][Customer] : Yeah, yeah, just the 30 days.
+[8 minutes 25 seconds][Agent] : 30 days, OK. And you also have the option to select the benefit. The benefit. Is the maximum amount of time that we will pay the income benefit for anyone injury or illness, OK. You can choose the different benefit. As well. So they are 6 months, one year, 2 years, five years. So what benefit. Did you want me to give you the pricing on?
+[8 minutes 25 seconds][Customer] : Yeah, Yeah, I just say one year. Yeah, yeah.
+[8 minutes 49 seconds][Agent] : One year, OK, perfect. So I have selected that. So Adam, for the $5250 worth of income protection insurance with the waiting period of 30 days and the benefit period of one year, you are looking at an indicated payment of $132.02 a fortnight if I change it to monthly. So that will help you to go through with your current insurance as well. So monthly we are looking at $286.05, OK. And also with the policy, Adam, we also have the real rework attached. So it means follow your fast policy anniversary date, we are going to refund you 10% of the premiums you have paid in that time.
+[9 minutes 22 seconds][Customer] : OK, Yep, Yep, Yep, Yep.
+[9 minutes 36 seconds][Agent] : So you're going to receive $343 and 2626 cents back after the first year, OK, Beautiful. Sent out for the pricing Adam, $286.05 a month to cover you for the $5250. Is that coming manageable and suitable to yourself?
+[9 minutes 55 seconds][Customer] : Yeah, I just, I was just getting prices and I just wanted to say and just compare stuff and looking the stuff.
+[10 minutes 1 seconds][Agent] : Sure.
+[10 minutes][Customer] : So yeah. So basically that's that's all I was looking at doing at this stage.
+[10 minutes 6 seconds][Agent] : OK. But how is that sounding to you compare to your existing cover?
+[10 minutes 12 seconds][Customer] : I just have to cross reference and check everything for apples, for apples and see.
+[10 minutes 10 seconds][Agent] : That is my main concern of course, and you could umm, yeah, because you didn't umm, could you umm like provide me with the monthly benefit amount as well? Because I the pro pricing that I've quoted you is based on the monthly benefit income umm amount your waiting period and benefit. As well. So what I can do? I can send you some information so you can look over with your kind policy hold as well to see how much of the benefit amount you do have and what is the waiting period there and the benefit. There as well.
+[10 minutes 31 seconds][Customer] : Yeah, yeah.
+[10 minutes 42 seconds][Agent] : Umm, umm, any chance of the, umm, pricing? Does it go up each year or how is the premium instructor there, Adam?
+[10 minutes 50 seconds][Customer] : Yeah, yeah. It does go up each year, but I don't know how much. Or they just send me a renewal and I just just keep paying it just so it's in place.
+[10 minutes 55 seconds][Agent] : OK, OK, all right. With our premium instructor as well. Umm, your premium is stepped, which means it will generally increase each year as you age. I can give you our off indication. I do have the calculator in front of me.
+[11 minutes 8 seconds][Customer] : Yeah, yeah.
+[11 minutes 12 seconds][Agent] : So as an indication, yes. So as an indication, Adam, if you make no changes to the policy, your premium next year will be $313.81 a month, OK. And your benefit a man will be $5250, OK.
+[11 minutes 12 seconds][Customer] : No, Yep, Yep.
+[11 minutes 30 seconds][Agent] : And if you do request some more information, you can also find information about our premium structure on our website as well. So what I'll do Adam, since you are just umm, shopping around with the current policy and comparing as well, I'll send you for some information and so you can look over when you look at the pricing, don't just compare with the price. Umm, just also compared with the features and benefits as well. OK, And how, umm, when is the policy expired date of that on your current policy too?
+[11 minutes 56 seconds][Customer] : Yeah, yeah, yeah.
+[12 minutes 2 seconds][Agent] : So with our policy, there is a final expenses benefit of us, which is pays $10,000 in the event that you pass away and they rehabilitation benefit as well that is included in the policy. I'll explain everything in the next call. Let me know how is our policy sounding in the next call. If you do like to go ahead and switch over, all you have to do is we take you to the next stage, ask you some health and lifestyle question over the phone to see whether you're eligible for the cover. OK. In the meantime, I'm going to send you through some information to adamandsally1@bigpond.com. Is that correct?
+[12 minutes 31 seconds][Customer] : Yep, Yep, Yep.
+[12 minutes 39 seconds][Agent] : Beautiful. So I'll get back to you on Friday just to see how we went with the pricing. I'll give you tomorrow to, umm, go do your homework. OK. And is there any suitable time to call you back at on Friday?
+[12 minutes 54 seconds][Customer] : No, not at this stage. I just don't know where I'll be.
+[12 minutes 57 seconds][Agent] : OK, OK. Umm, next week is OK with you.
+[12 minutes 56 seconds][Customer] : So yeah, you'll just, you'll just have to keep trying till I pick up.
+[13 minutes 3 seconds][Agent] : Keep trying.
+[13 minutes 4 seconds][Customer] : Or you. Yeah.
+[13 minutes 4 seconds][Agent] : OK, All right then I'll try to get back to you next week Wednesday around the same time as today. OK.
+[13 minutes 10 seconds][Customer] : Yeah. Alright.
+[13 minutes 10 seconds][Agent] : And if you do decide to go ahead, call us back at the same number that I have called you on.
+[13 minutes 15 seconds][Customer] : Yep.
+[13 minutes 14 seconds][Agent] : I'm more than happy to take you to the next stage.
+[13 minutes 17 seconds][Customer] : OK, bye.
+[13 minutes 16 seconds][Agent] : OK, Beautiful. Thank you for your time, Madam.
+[13 minutes 20 seconds][Customer] : Thank you.
+[13 minutes 20 seconds][Agent] : Is there anything else I can do?
+[13 minutes 22 seconds][Customer] : OK, thank you.
+[13 minutes 23 seconds][Agent] : Thanks. Have a good day. Bye.
+[13 minutes 24 seconds][Customer] : You too. Bye.

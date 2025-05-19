@@ -1,0 +1,198 @@
+[3 seconds][Agent] : Good afternoon, Michael. My name is Emily. I'm calling back from Real Insurance. How you going?
+[1 seconds][Customer] : Oh, yeah, Yeah. Good.
+[10 seconds][Agent] : That's good to hear. I'm good. Thank you for asking. I'm giving you a call to follow up on the conversation we had regarding the income protection.
+[9 seconds][Customer] : Yeah, yeah, yeah, that's correct.
+[19 seconds][Agent] : Just bef beautiful. Just before we continue, I need to let you know calls are recorded. Any advice to provide is general in nature. It may not be suitable to your situation and I'll get you to confirm your name and your date of birth for me.
+[32 seconds][Customer] : Yes, it's Marco Balupa. The 11th, the 2nd, 1991.
+[37 seconds][Agent] : Yep, beautiful. And you are of course, a male Australian resident, is that right?
+[46 seconds][Customer] : Yes. Yeah, of course. Yes.
+[49 seconds][Agent] : Beautiful. Thank you. Now I did.
+[58 seconds][Customer] : Yes, I did. Last night after work, Yeah.
+[54 seconds][Agent] : So I did want to ask you, did you end up getting your weight, beautiful. So we'll be able to enter that one in just before we do. I just need to confirm a couple of things with you first. So the first one is a valid duty based assessment currently exists. Has, oh, sorry, have your duties changed in the past 30 days or do you now work less than 15 hours per week?
+[1 minutes 20 seconds][Customer] : Yes.
+[1 minutes 22 seconds][Agent] : So your duties have changed since we spoke to You.
+[1 minutes 24 seconds][Customer] : Oh, no, no. Sorry.
+[1 minutes 26 seconds][Agent] : Beautiful.
+[1 minutes 25 seconds][Customer] : Because I don't know right at the moment. Yeah. I tried to hear from you. Sorry.
+[1 minutes 28 seconds][Agent] : Oh, that's OK. No, that's OK. Is it maybe a better time? I can give you a call.
+[1 minutes 32 seconds][Customer] : No, it's alright.
+[1 minutes 34 seconds][Agent] : OK. You can hear me.
+[1 minutes 34 seconds][Customer] : Wait, I can talk.
+[1 minutes 34 seconds][Agent] : OK.
+[1 minutes 35 seconds][Customer] : Yeah. When I drop. Yeah. Because I put the Bluetooth on.
+[1 minutes 38 seconds][Agent] : All right. No problem at all. And do you work a minimum of 15 hours per week?
+[1 minutes 43 seconds][Customer] : Oh, more. Yeah.
+[1 minutes 45 seconds][Agent] : Beautiful. Beautiful. And just in relation to your smoking status and all the questions I've already asked, do you have anything changed with your responses? OK, Fantastic.
+[1 minutes 53 seconds][Customer] : Oh, no, I think they change everyday. Excuse me? Yeah.
+[1 minutes 59 seconds][Agent] : No, that's OK. But has anything changed?
+[2 minutes 2 seconds][Customer] : No. Oh, yeah.
+[2 minutes 3 seconds][Agent] : OK, beautiful.
+[2 minutes 4 seconds][Customer] : Yeah, the weather change. That's good.
+[2 minutes 6 seconds][Agent] : So with regards to your responses and your smoking status and all the questions I've asked you, has anything changed? Beautiful. Thank you. So the question we were up to is what is your exact weight?
+[2 minutes 12 seconds][Customer] : No, no, Yeah, it's, it's 82.
+[2 minutes 22 seconds][Agent] : 82 kilograms. Beautiful.
+[2 minutes 23 seconds][Customer] : Yes.
+[2 minutes 25 seconds][Agent] : And have have you been? That's OK. Umm, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? Perfect. And just confirming again, sorry, that was 82 kilograms.
+[2 minutes 36 seconds][Customer] : No, Yes.
+[2 minutes 42 seconds][Agent] : Great. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[2 minutes 51 seconds][Customer] : No.
+[2 minutes 53 seconds][Agent] : Do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months?
+[3 minutes 2 seconds][Customer] : I'm not sure. No, Yeah.
+[3 minutes 6 seconds][Agent] : So it's asking do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? So do you have beautiful do you have existing life insurance? Pol Sorry, sorry. Do you have existing income protection cover?
+[3 minutes 16 seconds][Customer] : No, no.
+[3 minutes 28 seconds][Agent] : Great. Have you ever had symptoms of, been diagnosed with or treated for, or intend to seek medical advice for any of the following cancer, tumour, mole or cyst, including skin cancer, sunspots, Melanoma or leukemia?
+[3 minutes 44 seconds][Customer] : Oh, no. Nothing at all.
+[3 minutes 47 seconds][Agent] : Beautiful.
+[3 minutes 54 seconds][Customer] : Oh, no.
+[3 minutes 48 seconds][Agent] : Have you ever had an abnormal PSA test or an enlarged prostate stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure? Yes or no?
+[4 minutes 6 seconds][Customer] : Oh, no. I'll be young. Still young, you know?
+[4 minutes 9 seconds][Agent] : That's good to hear. So we can put that one down as a definite no for the whole question. Is that correct?
+[4 minutes 15 seconds][Customer] : Yes.
+[4 minutes 16 seconds][Agent] : Beautiful. Hi CU.
+[4 minutes 16 seconds][Customer] : Yeah, I don't want to know.
+[4 minutes 20 seconds][Agent] : So the next one is high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no diabetes raised blood sugar, imped glucose tolerance or imped fasting glucose. Yes or no. Hepatitis already disorder of the liver, stomach, bowel, gallbladder or pancreas.
+[4 minutes 29 seconds][Customer] : No, no, no.
+[4 minutes 49 seconds][Agent] : Epilepsy, Motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Beautiful anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[4 minutes 58 seconds][Customer] : No, no. Oh no.
+[5 minutes 14 seconds][Agent] : Any illegal drug use, abuse of prescription medication or received medical advice or counselling for alcohol consumption, disorder of the kidney or bladder, blood disorder or disease.
+[5 minutes 29 seconds][Customer] : Oh, no, no at all.
+[5 minutes 36 seconds][Agent] : Sorry, was that a yes or no for that one?
+[5 minutes 38 seconds][Customer] : No, no, no, no, no. Yeah.
+[5 minutes 40 seconds][Agent] : Perfect. Perfect Asthma or other respiratory disorder, excluding childhood asthma, back or neck pain or disorder, arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome, or fibromyalgia.
+[5 minutes 47 seconds][Customer] : No, no, no.
+[6 minutes 8 seconds][Agent] : Joints or muscle pains. Ligament injuries, including replacement or reconstructive surgery. Osteoporosis or osteopenia. Any defect of hearing or sight other than which is corrected by glasses or contact lenses.
+[6 minutes 15 seconds][Customer] : No, no, no.
+[6 minutes 41 seconds][Agent] : Other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy?
+[7 minutes 2 seconds][Customer] : Oh, oh, no, no, Nothing. Nothing. Nothing at all. No.
+[7 minutes 6 seconds][Agent] : Beautiful, Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[7 minutes 19 seconds][Customer] : Oh, no.
+[7 minutes 22 seconds][Agent] : Other than what you have already told me about, have you ever during your working career required more than two consecutive weeks off work due to illness or injury?
+[7 minutes 32 seconds][Customer] : Oh no.
+[7 minutes 38 seconds][Agent] : To the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or Familial adenomatous polyposis? To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[7 minutes 52 seconds][Customer] : No, no.
+[8 minutes 9 seconds][Agent] : Perfect. And there's one last question for you. Now Michael, you've flown through this. So other than one of events, gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cable wreck diving, or any other hazardous activity? Fantastic. So I'm just loading this all up for you now.
+[8 minutes 36 seconds][Customer] : Oh, no, Yep.
+[8 minutes 48 seconds][Agent] : And congratulations, you were fully approved for the cover, which is fantastic.
+[8 minutes 54 seconds][Customer] : Oh, OK.
+[8 minutes 53 seconds][Agent] : There were no changes made to the price or the terms, which is awesome. So what we'll do for you now is we'll take you through some quotes.
+[9 minutes 2 seconds][Customer] : Yep.
+[9 minutes 1 seconds][Agent] : We'll have a look at what's going to be suitable, what's affordable for you. If you I can go through as many quotes as you need and adjust whatever aspects you want. So you just tell me how it sounds and we'll go from there.
+[9 minutes 13 seconds][Customer] : OK, Yeah.
+[9 minutes 14 seconds][Agent] : Now if we have a look at the quote we built yesterday for a monthly benefit amount of $5250 with a 30 day waiting period and two year benefit. You'd be looking at a fortnightly premium of $129.57 per fortnight.
+[9 minutes 35 seconds][Customer] : None.
+[9 minutes 35 seconds][Agent] : Yep, Now with this one here, what it also includes is a rehabilitation benefit along with the final expen expenses benefit, which pays $10,000 in the event that you pass away. Now that that can assist with funeral costs and other final expenses. Also with this policy, uh, your premium is obviously steps, which means it would generally increase each of your age. And you can also find information about our premium structure on our website. And we also have a reward.
+[10 minutes 12 seconds][Customer] : Yep.
+[10 minutes 6 seconds][Agent] : So following your first policy anniversary date, we'll actually refund you 10% of the premiums you paid in that time. Now does this, umm, does that quote there? Does that sound like it would be affordable for you or would you like to adjust anything on that quote?
+[10 minutes 21 seconds][Customer] : So for the for one month is 5000. What? What? What? Is it 5000? What?
+[10 minutes 28 seconds][Agent] : So you would if if obviously claims successful, you would be receiving $5250 per month from us and there's a 30 day waiting period with a 2 year benefit.
+[10 minutes 40 seconds][Customer] : OK, OK, so when, when when when I can use after 30 days or after two years?
+[10 minutes 39 seconds][Agent] : On that quote and that's $129.57 a fortnight, No, no, no. So you can use it. Well essentially you can claim straight as soon as the policy is in place.
+[10 minutes 56 seconds][Customer] : Oh, OK. Yeah.
+[10 minutes 55 seconds][Agent] : So once you are accepted with this policy here, So once you are with regards to the waiting period, that's the non payment period that you must wait before the income benefit is payable after the insured event.
+[11 minutes 12 seconds][Customer] : OK.
+[11 minutes 12 seconds][Agent] : So with this policy here, if you are accepted and once you do commence the policy, it'll cover you until your policy anniversary following your 65th birthday.
+[11 minutes 24 seconds][Customer] : OK.
+[11 minutes 24 seconds][Agent] : But there's no, like, waiting period to make a claim.
+[11 minutes 28 seconds][Customer] : Oh, yeah. OK. I'll we go ahead.
+[11 minutes 31 seconds][Agent] : You're happy with that one? They did you.
+[11 minutes 32 seconds][Customer] : Yeah, I'll be going.
+[11 minutes 33 seconds][Agent] : That's affordable. Yeah. Beautiful. Well, the great news is because you've been approved, we can organize to get you covered over the phone today.
+[11 minutes 34 seconds][Customer] : Yeah, yes.
+[11 minutes 40 seconds][Agent] : What that means is that we'll get all the proper policy documentation sent out for you to sit down and have a really good read through. Actually you are happy with everything to do with the cover, but you don't have to pay anything until the day that you choose. If you end up looking through it and you decide against it for any reason, that is perfectly fine Michael. There's no cancellation fees and you do have a 30 day cooling off. So if you cancel within that 30 days, you get a full refund of any premiums you may have paid, unless of course a claim has been made, but touch with that's not the case for a very, very long time.
+[12 minutes 10 seconds][Customer] : OK, alright.
+[12 minutes 18 seconds][Agent] : What I also need to do for you is actually give you a premium projection just to give you an idea of what next year's going to look like. As an indication, if you make no changes to the policy, your premium next year will be $136.68 a fortnight. Now I need to confirm a couple more of your details. I've got your e-mail address hereasespenidoublela1981@hotmail.com. Great. And your address, just to reconfirm again, is 1 Poppy St. Nickleham 3064.
+[12 minutes 47 seconds][Customer] : Yes, yes, I'm sorry again.
+[12 minutes 58 seconds][Agent] : And your post, we've got it as #1 Poppy St. Nickleham in 3064.
+[13 minutes 4 seconds][Customer] : Yes, that's correct.
+[13 minutes 6 seconds][Agent] : Beautiful. And your postal address is the same, is that correct?
+[13 minutes 5 seconds][Customer] : That's correct, yes.
+[13 minutes 10 seconds][Agent] : Perfect. Now. Oh, sorry, is this your best contact number that I've called you on today? All right, too easy. Even though you are covered from today, Michael, you still don't have to pay anything until the day that you choose.
+[13 minutes 18 seconds][Customer] : Yes, OK.
+[13 minutes 27 seconds][Agent] : What day would you like me to note down for the first payment day here?
+[13 minutes 31 seconds][Customer] : Oh, as soon as soon as possible.
+[13 minutes 35 seconds][Agent] : OK, I mean, we can select today, but it's up to you.
+[13 minutes 39 seconds][Customer] : OK today.
+[13 minutes 42 seconds][Agent] : Oh. What day would you like for that first payment?
+[13 minutes 45 seconds][Customer] : Alright, I'm making it sweet then.
+[13 minutes 47 seconds][Agent] : Sure. What?
+[13 minutes 47 seconds][Customer] : Or or tomorrow. Make tomorrow. Make tomorrow.
+[13 minutes 48 seconds][Agent] : What day tomorrow? Yeah, we can do that.
+[13 minutes 51 seconds][Customer] : Yeah, Tomorrow when?
+[13 minutes 52 seconds][Agent] : So your first time, it's going to be tomorrow, Wednesday, the 16th of October, and then it's going to be every four on a Wednesday. So you're happy with that?
+[13 minutes 59 seconds][Customer] : Yes.
+[14 minutes][Agent] : Awesome. Yeah, it's nice and easy. Umm, we do a direct debit. Are we noting down a BSP account number or Visa or MasterCard?
+[14 minutes 7 seconds][Customer] : Yeah, because I'm still, I haven't got my card yet. Yeah, I'm still waiting for my card, so just use my CSB number.
+[14 minutes 13 seconds][Agent] : OK, sounds good. Is it a savings or cheque account?
+[14 minutes 18 seconds][Customer] : Yeah, saving.
+[14 minutes 22 seconds][Agent] : Savings. Beautiful. Now take your time if you've got to grab those details. But when you're ready, I'll grab the BSB number off you first. Great. What's the BSB?
+[14 minutes 29 seconds][Customer] : Yeah, I'm ready now, 013347.
+[14 minutes 37 seconds][Agent] : Yep, beautiful.
+[14 minutes 44 seconds][Customer] : Yes, all right. Account number is 389, Yep. 166, Yep.
+[14 minutes 42 seconds][Agent] : So that's with A&Z and the account number 389 166 665 S 389166665.
+[15 minutes 3 seconds][Customer] : And 665, Yeah, that's correct.
+[15 minutes 13 seconds][Agent] : Beautiful. And that's in your name, Michael Malupa.
+[15 minutes 16 seconds][Customer] : Uh, yes, of course.
+[15 minutes 18 seconds][Agent] : Beautiful. All I've got to do for you now, Michael, is read you through a declaration and then I'll ask for your agreement to the terms at the end. There's also a question in the middle that I'll need a yes or no answer for if I start to read this too fast. So if there's anything in here that you want to clarify, jump in. Let me know. I'll be happy to help you out.
+[15 minutes 31 seconds][Customer] : OK, yes.
+[15 minutes 40 seconds][Agent] : So it reads, thank you. Michael Maloofa. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Live Free of Australasia Limited and we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services you know will refer to as GFS Trading is Real insurance to issue and arrange this insurance on its behalf. How to relies upon the AC the information you have provided when assessing your application that includes the information we initially collected from you to provide a quote.
+[16 minutes 8 seconds][Customer] : Yep, Yep.
+[16 minutes 18 seconds][Agent] : Hanover has set a partner market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination, and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you've agreed to. Can you please confirm you have answered all of our questions in accordance with your duty? Beautiful. I'll just, uh, just with that question. Can you please confirm you have answered all of our questions in accordance with your duty?
+[16 minutes 30 seconds][Customer] : OK, yes, I understand everything, Yes.
+[16 minutes 51 seconds][Agent] : Yes or no Perfect. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to be contact. Sorry. You consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover provides the following insurance cover for Michael Malupa, a monthly insured amount of $5250 with a waiting period of 30 days and a benefit period of 24 months. The monthly income benefit payable in the event of a claim would be less than the monthly insured amount as your income benefit is limited to 70% of your average monthly income of any 12 consecutive months during the two years before you suffered your disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments from other sources.
+[17 minutes 48 seconds][Customer] : Yeah.
+[17 minutes 44 seconds][Agent] : There is a final expenses benefit of $10,000 paid to your beneficiaries if you pass away while your policy is in place.
+[18 minutes][Customer] : Yep.
+[17 minutes 52 seconds][Agent] : By agreeing to this declaration, you agree to any non standard exclusions or learnings placed on the policy and you understand they will remain in place for the life of the policy you. You may request for any of these alternative terms to be reviewed at any time by calling us. Your cover expires on October 16th, 2046, 12:00 AM. Your premium for your first year of cover is $129.57 and cents per fortnight.
+[18 minutes 15 seconds][Customer] : Yep.
+[18 minutes 16 seconds][Agent] : Your premium is a stepped premium, which means it will be calculated at each policy anniversary and will generally increase each year.
+[18 minutes 24 seconds][Customer] : OK, Yep.
+[18 minutes 24 seconds][Agent] : Included in your premium is an amount payable by 100 to GFS of between 37% and 51% to cover costs. Your premium will be debited from your nominated bank account in the name of Michael Maluba, which you will authorize to debit from and have provided to us.
+[18 minutes 40 seconds][Customer] : Yep.
+[18 minutes 39 seconds][Agent] : The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full. Unless you have launched a claim. There are risks associated with replacing policies. As your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy and she have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and then the documentation we are sending you. So just two questions for you, Michael. Do you understand and agree with the declaration, yes or no?
+[19 minutes 25 seconds][Customer] : Yep, yes, I understand everything.
+[19 minutes 31 seconds][Agent] : Beautiful. So just reconfirming, do you understand and agree with the declaration, yes or no?
+[19 minutes 31 seconds][Customer] : Yes, yes, I agree.
+[19 minutes 39 seconds][Agent] : Beautiful, Beautiful. So sorry, just confirming for that because I need a yes for both the understand and degree aspect. So I'll just get a clear yes or no only.
+[19 minutes 54 seconds][Customer] : Oh, yes.
+[19 minutes 49 seconds][Agent] : Do you understand and agree with the declaration, yes or no, beautiful? And would you like any other information about the insurance now? Or would you like me to read any part of the PDS to you?
+[20 minutes 6 seconds][Customer] : Oh, she came through my e-mail. Yeah, I read it out.
+[20 minutes 9 seconds][Agent] : Y yeah, we're gonna get everything sent out for you, but would you like any other information about the insurance now or would you like me to read any part of the PDF to you? Yes or no?
+[20 minutes 28 seconds][Customer] : Yeah, Yeah.
+[20 minutes 29 seconds][Agent] : Sorry, it's up to you whether you want it or not.
+[20 minutes 32 seconds][Customer] : No, I really. I really.
+[20 minutes 31 seconds][Agent] : I I just have to make it clear. Yes or no?
+[20 minutes 33 seconds][Customer] : If you send it out an e-mail, I will read out everything. I read it tonight.
+[20 minutes 37 seconds][Agent] : OK, no problem. So is there any other information or part of the PDS you'd like me to read to you now?
+[20 minutes 44 seconds][Customer] : Yeah. If you can.
+[20 minutes 45 seconds][Agent] : OK, what would you like me to read to you?
+[20 minutes 49 seconds][Customer] : I don't know. Nothing. Nothing. Yeah. All all good.
+[20 minutes 51 seconds][Agent] : OK, Perfect.
+[20 minutes 52 seconds][Customer] : Everything good. Yeah.
+[20 minutes 53 seconds][Agent] : OK, beautiful. Well, congratulations Michael, you are now covered for the income protection. Umm, if you do have any questions or concerns, don't hesitate to give us a call at any time.
+[20 minutes 59 seconds][Customer] : Yep, yeah, Yep.
+[21 minutes 5 seconds][Agent] : We'll be happy to help you out. OK. Absolutely.
+[21 minutes 7 seconds][Customer] : Yes, yes. No, I'm happy because lucky I have problem now because heart get out, you know.
+[21 minutes 14 seconds][Agent] : Yeah, definitely.
+[21 minutes 16 seconds][Customer] : Yeah.
+[21 minutes 15 seconds][Agent] : Well, I'm so glad I was able to help you out with that.
+[21 minutes 17 seconds][Customer] : So yeah for this one like it's time for if you're sick or you know what I mean. And you sick couple.
+[21 minutes 18 seconds][Agent] : It was, that's exactly what it's designed for. Is it pay?
+[21 minutes 24 seconds][Customer] : OK, so I'll get, I'll get alright. Yeah. Yeah. Couple of days. Yeah. Yeah. Yeah.
+[21 minutes 25 seconds][Agent] : It'll pay that income benefit directly to you, a monthly income benefit if you're unable to work due to a disabling sickness or injury and you suffer a loss of income.
+[21 minutes 36 seconds][Customer] : OK. Yeah. Yeah. Alright. Yeah.
+[21 minutes 38 seconds][Agent] : Now just so well, that one's all done.
+[21 minutes 45 seconds][Customer] : Yes.
+[21 minutes 41 seconds][Agent] : If you do have any other questions for me, Michael, you just let me know, OK, You give us a call. Alright. Thanks so much. It was so lovely speaking with you. Have a fantastic day.
+[21 minutes 45 seconds][Customer] : Yes, yes, yeah. You too. Have a nice day.
+[21 minutes 53 seconds][Agent] : Thank you.
+[21 minutes 54 seconds][Customer] : Thank you.
+[21 minutes 54 seconds][Agent] : Thank you.
+[21 minutes 54 seconds][Customer] : Thank you very much.
+[21 minutes 54 seconds][Agent] : Bye. Everything's gonna get emailed to you today, as well as posting at a hard copy.
+[21 minutes 55 seconds][Customer] : So you think that for me today or you know, OK, Yep. All good.
+[22 minutes 4 seconds][Agent] : Alright, Thanks so much.
+[22 minutes 5 seconds][Customer] : No worry. Have a good day. Thank you very much.
+[22 minutes 6 seconds][Agent] : You too.
+[22 minutes 7 seconds][Customer] : Appreciate everything.
+[22 minutes 7 seconds][Agent] : Bye.
+[22 minutes 8 seconds][Customer] : Thank you. Bye.

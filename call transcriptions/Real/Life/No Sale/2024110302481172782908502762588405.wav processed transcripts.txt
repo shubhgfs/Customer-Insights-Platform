@@ -1,0 +1,59 @@
+[3 seconds][Agent] : Welcome to Real Insurance. My name is Daniel. How can I help you today?
+[7 seconds][Customer] : OK, Yeah, I'm just ringing with regards to my existing life insurance policy.
+[12 seconds][Agent] : Yep. Do you have a policy number with you?
+[15 seconds][Customer] : I do.
+[18 seconds][Agent] : Yep.
+[16 seconds][Customer] : It is 751929163.
+[22 seconds][Agent] : Can I have your full name and date of birth please?
+[24 seconds][Customer] : Yeah, so like so it's gonna be the 3rd 78. Yeah.
+[28 seconds][Agent] : One moment and your e-mail address please and address including state and prescript.
+[36 seconds][Customer] : Sal S al.str@hotmail.com Yeah. 29 Lancashire Dr.
+[45 seconds][Agent] : Thank you. Phone number is 04204739330545. Yep.
+[43 seconds][Customer] : Mugabe QLD 4213 3045 Yeah, that's correct.
+[53 seconds][Agent] : How can I help you? OK.
+[54 seconds][Customer] : Yes, I'm just ringing up, I've just got my renewal policy and I'm just wanting to look at maybe changing some options because it's gone up quite a bit and I can't really afford $120.00 a month for it.
+[1 minutes 7 seconds][Agent] : OK. Let me have a look into that. Yeah, it looks like your policy is on the 25th of August. So you've got life insurance benefit amount at the moment of 469,000 and $33 and so it's almost a 67,000 and five dollars. Yeah. So what were you looking to do with the policy? OK. So can I confirm this is may I ask the reason to you're looking at decreasing that long term or short term affordability?
+[1 minutes 20 seconds][Customer] : Yeah, that may be probably decreasing the life insurance amount, not the serious illness one, but the life insurance amount probably decreasing now that I think you've increased it to 492 with the change over now long term because it's just too expensive for me to pay monthly.
+[1 minutes 51 seconds][Agent] : OK, OK.
+[1 minutes 53 seconds][Customer] : You've it's increased to $60.00 a fortnight my premium.
+[1 minutes 57 seconds][Agent] : So, yeah, so we can have a look into that for you. I do need to advise when the policy does end on the 25th of August, the premiums it will increase again based on age and automatic summit short increase of 5%. So you can deduct the option to decline the automatic summit short increase of 5%. So if you do decrease your benefit amount today and then decrease decline the automatic summit short increase, the benefit amounts will remain at what you reduced to today.
+[2 minutes 28 seconds][Customer] : Yeah.
+[2 minutes 27 seconds][Agent] : However, when your policy increase in the 25th of August, your premiums are still going to increase based on age. That increase we cannot decline.
+[2 minutes 39 seconds][Customer] : So that again, sorry, sorry.
+[2 minutes 40 seconds][Agent] : So the premiums will increase based on age. We can't, we can't decline the age based increase, but we can decline the automatic summary sort increase. So the benefit amount stays that we want to reduce it to today.
+[2 minutes 40 seconds][Customer] : It will still increase based on age, but you, yeah, yeah, yeah.
+[2 minutes 54 seconds][Agent] : OK. So with your benefit amount, well, we can, I'll give you a go through a few quotes and we'll see what works best for you.
+[2 minutes 54 seconds][Customer] : OK, OK.
+[3 minutes 3 seconds][Agent] : So I'm just going to get that ready for you now.
+[3 minutes 7 seconds][Customer] : Thank you.
+[3 minutes 16 seconds][Agent] : OK. OK, so at the moment you have 469,000 and $33. Do you want to reduce it to 400,000 and keep serious on this at $67,005 at the moment your new 4 nightly premium will be $47.26 and then when your policy renews without the automatic some short increase, it will then be increasing it to $51.38 per fortnight.
+[3 minutes 53 seconds][Customer] : OK, so it's still quite expensive. What is the 350,000?
+[3 minutes 55 seconds][Agent] : OK, 350 So at the moment before the policy anniversary it will be $43.23 and then after the policy anniversary without the automatic some short increase, it will be sorry for my computer to wide $47.03 a 400.
+[4 minutes 18 seconds][Customer] : OK. So that's still fitting. So it's $26 cheaper a month. So I would look to opt to doing that one. Thank you.
+[4 minutes 25 seconds][Agent] : OK. If you're happy to go ahead with that, what I'll do, I'll just get everything ready and then we can make those adjustments for you.
+[4 minutes 33 seconds][Customer] : OK, thank you.
+[4 minutes 33 seconds][Agent] : OK. So any case, I'll place you on a brief hold just before I organize everything.
+[4 minutes 37 seconds][Customer] : That's fine. Thank you.
+[4 minutes 38 seconds][Agent] : Thank you. One moment, please.
+[4 minutes 40 seconds][Customer] : Thank you.
+[5 minutes 43 seconds][Agent] : Thank you for holding. I appreciate your patience.
+[5 minutes 45 seconds][Customer] : That's correct.
+[5 minutes 46 seconds][Agent] : Alright, So what I'm going to do, we'll go through everything you're covered for and then we'll go through the decreased information.
+[5 minutes 51 seconds][Customer] : OK.
+[5 minutes 51 seconds][Agent] : OK, so your policy covers you for death due to any cause for 469,000 and $33. The policy offers a terminal on this advance payment or if you were diagnosed as a 12 months or less leave biomedical practitioner, you can claim your full benefit of the living benefit and this could help the medical costs etcetera.
+[6 minutes 11 seconds][Customer] : Hmm. Mm.
+[6 minutes 11 seconds][Agent] : Including the life benefit is a $10,000 advance payment that your beneficiary can request. This could help with cost associated with the funeral and with your serious illness. Your serious illness could have a pays a lump sum benefit of 67,000 and $5 if you were to suffer malignant cancer, stroke, heart attack or if you have to get a coronary artery bypass surgery as defined in the PDS. Each claim is against is assessed against these definitions and the policy and the cover will sorry and the policy will cover you until your policy anniversary following your 60th birthday. So that's everything that you're covered for. We'll go through the decrease in information now.
+[6 minutes 52 seconds][Customer] : Yep, Yep.
+[6 minutes 54 seconds][Agent] : Please confirm that you agreed to reduce your benefit amounts for life insurance of 350,000 and remain serious almost 67,000 and five dollars. And I understand that once you accept this change, any request to increase the insured amount in the future will be subject to aid eligibility and the application process, which may result in new terms and conditions or the application could be declined.
+[7 minutes 19 seconds][Customer] : Yeah, it's fine.
+[7 minutes 20 seconds][Agent] : Alright.
+[7 minutes 32 seconds][Customer] : Yeah. Thank you.
+[7 minutes 21 seconds][Agent] : So I'll go ahead and print that for you and just confirming you would like to decline your automatic service or increase to keep the benefit amount at 350 thousand when my policy. Yeah, OK. I'll just go ahead and do that for you now. OK, Well, it's been completed. So the benefit amount is 150,000 for life insurance and your new premiums and the policy renews is going to be $47.03 a fortnight.
+[8 minutes 3 seconds][Customer] : OK, perfect. Thank you, Sen.
+[8 minutes 4 seconds][Agent] : OK, that's all been completed and we'll be sending you out new policy documents reflecting these changes.
+[8 minutes 6 seconds][Customer] : OK, OK, beautiful. Thank you so much for your help.
+[8 minutes 11 seconds][Agent] : Thank you.
+[8 minutes 13 seconds][Customer] : Have a good day.
+[8 minutes 13 seconds][Agent] : Thanks. Thank you.
+[8 minutes 14 seconds][Customer] : Bye.
+[8 minutes 14 seconds][Agent] : You too. Bye.

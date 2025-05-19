@@ -1,0 +1,54 @@
+[0 seconds][Customer] : Thank you for calling the translating and interpreting service Tiers National. Which language should the interpreter speak? Thanks, you've asked for now, is that right?
+[21 seconds][Agent] : Yes.
+[24 seconds][Customer] : OK, Please wait while we contact an operator. For information on how TIS National handles your personal information, please read our Privacy Notice located on our website at tisnational.gov dot AU.
+[56 seconds][Agent] : None. No. Hello there. None. None. None. Hello.
+[3 minutes 52 seconds][Customer] : None.
+[3 minutes 47 seconds][Agent] : Confirm your full name and you're at work at the moment. Otherwise, I could arrange a call back another time for you. Yeah. When? When do you want me to call you? Do you want me to accommodate after work hours for you? Because open to open usually between 9:00 and 5:00. You're in WA? Yeah. So we open for five. Yeah. OK. Yeah. WH what we'll do is just to wait for you to do.
+[5 minutes 21 seconds][Customer] : The.
+[5 minutes 27 seconds][Agent] : None. None.
+[5 minutes 49 seconds][Customer] : None.
+[6 minutes 17 seconds][Agent] : None.
+[6 minutes 33 seconds][Customer] : None.
+[7 minutes 35 seconds][Agent] : Sorry. Hello, how are you? Thank you. Hello there. You're speaking with technical insurance. How are you? That's good.
+[8 minutes 47 seconds][Customer] : Welcome to National, This is Rob. How can I help you? Uh, sure. What's your client code there?
+[8 minutes 50 seconds][Agent] : Hi I'm just about to allow the client code. Sorry, let me pull this up OK? It's not C 988607.
+[9 minutes 5 seconds][Customer] : Yeah, Greenstone. And what was your name?
+[9 minutes 12 seconds][Agent] : Sita.
+[9 minutes 12 seconds][Customer] : We'll need your full name there.
+[9 minutes 14 seconds][Agent] : Yep. So Sita. And my surname is Funaki FUNAKI.
+[9 minutes 17 seconds][Customer] : Yeah, great. And what's your contact number there, Greenstone? The general number.
+[9 minutes 21 seconds][Agent] : And then. So it's 888. I'm so sorry. I need to pull this up.
+[9 minutes 26 seconds][Customer] : Yeah, that's OK.
+[9 minutes 33 seconds][Agent] : Oh, Jason. Yeah. 8886. OK. Thank you, 8323.
+[9 minutes 44 seconds][Customer] : No worries. And what was the area code there? No worries. And I'll just grab your Evolve ID as well.
+[9 minutes 48 seconds][Agent] : 02 Yep.
+[9 minutes 55 seconds][Customer] : Yeah, great. Is it a male or a female client?
+[9 minutes 53 seconds][Agent] : 27036647 Just e-mail.
+[10 minutes 5 seconds][Customer] : And, uh, she's on the other line.
+[10 minutes 8 seconds][Agent] : No, I need to call her back.
+[10 minutes 7 seconds][Customer] : Is she OK? Uh, do you want me to call her?
+[10 minutes 13 seconds][Agent] : Oh no, that's fine. I can dial her in.
+[10 minutes 16 seconds][Customer] : That's OK. What was her full name?
+[10 minutes 18 seconds][Agent] : So it's quite a long 1.
+[10 minutes 21 seconds][Customer] : Yeah, yeah, yeah.
+[10 minutes 19 seconds][Agent] : So it's Sal EE LAWA D Double EP.
+[10 minutes 31 seconds][Customer] : OK. And the last name or is that in there somewhere?
+[10 minutes 35 seconds][Agent] : No, no.
+[10 minutes 38 seconds][Customer] : Yeah.
+[10 minutes 35 seconds][Agent] : Her surname is PRAWAK UL.
+[10 minutes 45 seconds][Customer] : Is that it? No. UL. What's going on? Is is are we finished or?
+[10 minutes 51 seconds][Agent] : Yep. That we're done. And can I please connect it to an interpreter that's certified or above?
+[10 minutes 53 seconds][Customer] : OK, Bye. Yep. I can. There are two, but they're not logged in. Give me a second. We'll try and get them one moment. OK.
+[11 minutes 3 seconds][Agent] : OK. Not sure. That's fine. Thank you. None.
+[11 minutes 37 seconds][Customer] : Music. Hello, I see you there.
+[12 minutes][Agent] : Yeah.
+[12 minutes 2 seconds][Customer] : Uh, look, uh, unfortunately there's no umm interprets, uh, the certified at the moment.
+[12 minutes 17 seconds][Agent] : Yeah.
+[12 minutes 8 seconds][Customer] : Umm, what I would suggest is, uh, trying to pre book it uh, because that, that would be uh, otherwise you're going to have a very, very hard time trying to just call up and get a certified allow interpreter. They are quite rare.
+[12 minutes 20 seconds][Agent] : Do you know how I can pre book it?
+[12 minutes 23 seconds][Customer] : Uh yeah, you would pre book it through the website.
+[12 minutes 32 seconds][Agent] : Yep, Yep, Yep. Alright, perfect. Thank you so much.
+[12 minutes 25 seconds][Customer] : Umm, if you have advanced any trouble doing that umm I'll give you a phone number to call this the basically the pre booked team umm it's called service delivery team 1-3 hundred 655082 No worries. Thank you.
+[12 minutes 47 seconds][Agent] : Thank you.
+[12 minutes 47 seconds][Customer] : Thanks. Bye. Bye.
+[12 minutes 47 seconds][Agent] : Thank you. Bye now.

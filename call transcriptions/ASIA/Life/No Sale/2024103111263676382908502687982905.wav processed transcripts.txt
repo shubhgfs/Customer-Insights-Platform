@@ -1,0 +1,106 @@
+[1 seconds][Agent] : Welcome to Transcendence. You're speaking with danger. How can I help you?
+[5 seconds][Customer] : Oh, good morning. I just an enquiry down.
+[10 seconds][Agent] : Yep.
+[8 seconds][Customer] : I'm just looking at my things, my funeral benefit team.
+[12 seconds][Agent] : Yep.
+[13 seconds][Customer] : I better give you my name and number. Be nice.
+[16 seconds][Agent] : That's right. Yep.
+[15 seconds][Customer] : Wouldn't know who you're talking to. My membership number is it's Julie Shane.
+[17 seconds][Agent] : What e-mail address do we have on file here for you? What's your e-mail address? Yeah, yeah, Yep, Yep. OK. And what's your date of birth?
+[26 seconds][Customer] : Anyway, our policy number is 601 six 5517 30, the 11th 50.
+[39 seconds][Agent] : Thank you. Just bringing this up one few moments. OK.
+[49 seconds][Customer] : Sorry.
+[46 seconds][Agent] : And I'll just your e-mail address, just your e-mail address there.
+[49 seconds][Customer] : Go julie.shane50@gmail.com.
+[55 seconds][Agent] : Thank you. And I've got an address here of 229 Dingera Rd. Glenroy, NSW and contact ending in 3661.
+[1 minutes 2 seconds][Customer] : Yep, Yep, Yep.
+[1 minutes 5 seconds][Agent] : You're calling off, All right. And I can help you with your policy?
+[1 minutes 10 seconds][Customer] : Well a couple of questions. My funeral benefit thing is 12,762 as you can see.
+[1 minutes 17 seconds][Agent] : Yep.
+[1 minutes 19 seconds][Customer] : If I took that up to 15,000, what would be the differ of the install, the premium?
+[1 minutes 24 seconds][Agent] : I'll see if it can be increased.
+[1 minutes 33 seconds][Customer] : No not going anywhere but I'm just getting just need to update everything.
+[1 minutes 26 seconds][Agent] : Umm, I'll check that first for you, see what we can do Umm yeah, so we can actually increase it. Umm, let me see if that works yeah umm, let's have a look and see. See currently 5141 and 5141 fortnight, OK, it's got to 15,000 if you're looking at a new full value of $60.43.
+[1 minutes 49 seconds][Customer] : If you can't, yes, yes, wow, 60, oh sixty, sorry $60.00 and you have $0.43.
+[2 minutes 22 seconds][Agent] : 43 cents Yep. So an extra $9.02.
+[2 minutes 27 seconds][Customer] : OK, now one more question. If I took it up to 20, which I don't know what you No 15 should be playing. No. OK.
+[2 minutes 35 seconds][Agent] : We can't actually go above 15 as well. It's a maximum of 15.
+[2 minutes 36 seconds][Customer] : So OK, that's that's fine. No, because I went to a funeral the other day and I was talking to people, you know, talking about cost and you know how through the roof of these different things. And I thought, oh God, when I got dead in 1020, thirty years, you know, I'll be lucky to get a flower.
+[2 minutes 50 seconds][Agent] : Yeah, Yep, yeah, it's it's a bit, can be very expensive. Hey.
+[3 minutes 4 seconds][Customer] : So, OK, I want to take it up to the 15th.
+[3 minutes 8 seconds][Agent] : OK, yeah, we can have a look at that for you. Send new premium would be the 643.
+[3 minutes 17 seconds][Customer] : Yep.
+[3 minutes 17 seconds][Agent] : OK, let's have a look and see what we can do. Umm, just got to go through find out how to increase that. Umm, haven't done one of these for quite a while.
+[3 minutes 33 seconds][Customer] : Oh, OK.
+[3 minutes 34 seconds][Agent] : OK, OK, so that's fine. How's your morning been?
+[3 minutes 44 seconds][Customer] : Oh, lovely. Yeah, I've been out in the garden thing. No.
+[3 minutes 47 seconds][Agent] : Oh nice, let's have a look. OK, so file expenses increase. OK, so firstly, can I please confirm that you are an Australian resident? Thank you. Alright so I was going to go through what's covered and then we'll we'll get that increased for you. So the final expenses insurance cover provides your family members with a cash benefit of up to $15,000 in the event that you pass away. It can be used not only for funeral expenses but also any other final expenses like unpaid bills. If death was due to an accident, the benefit of that is tripled. I do need to advise you that there is an exclusion on this policy. For the 1st 12 months you're covered against accidental death. Only after 12 months. It covers death due to any cause including an accident. This applies to the increased amount.
+[4 minutes 8 seconds][Customer] : Yep, Yep, Yep.
+[4 minutes 45 seconds][Agent] : So the original amount is fine, but it's just the just the increased amount of that will apply to. Included in your cover is the cash out benefit, which means once the oldest person covered under the policy turns 85, you have the option to cancel your policy and receive a cash out benefit of 50% of the funeral insurance benefit amount for one life insured. You also have a sum insured bonus. Once the oldest person covered under the policy turns 90, premiums are no longer payable and you will also receive a 25% sum insured bonus on the funeral insurance benefit amount at no additional cost to you from the age of 90. If you opt to cancel cover and receive the cash up benefit, it'll be 50% of your increased funeral insurance benefit amount for one life insured. So just reconfirming you currently have a policy for the 12,001 second. Oops, that amount again, the 12,762.
+[5 minutes 42 seconds][Customer] : 700 and six 12,762 Yes.
+[5 minutes 46 seconds][Agent] : Yeah, and just confirming you'd like your total benefit amount to be, as mentioned there, the umm, the 15,000, is that correct?
+[5 minutes 54 seconds][Customer] : Yep, Yep.
+[5 minutes 56 seconds][Agent] : No problems at all. OK, and I'll just reconfirm that amount. So umm, for the $15,000 umm cover you would be paying umm, let's have a look. Ah, one 2nd. OK, you'll be paying $60.43 per fortnight, so how does that sound for you? Is that OK?
+[6 minutes 22 seconds][Customer] : No, that's fine. No, that's fine.
+[6 minutes 24 seconds][Agent] : No problems at all.
+[6 minutes 25 seconds][Customer] : It's not even a cup of coffee those days.
+[6 minutes 25 seconds][Agent] : OK, that's alright. Umm, now this one also too. So your premium is stepped, which means it will generally increase each year as you age. In addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increase in premium. You can opt out of this indexation each year. We will let you know in advance of any changes to your benefit AM amount and premium. Do you have any questions regarding that?
+[6 minutes 56 seconds][Customer] : No, that's fine. And the beneficiaries assigned me the two boys.
+[7 minutes 1 seconds][Agent] : Yep.
+[7 minutes][Customer] : So yeah, no, that's fine. That's perfect.
+[7 minutes 1 seconds][Agent] : Beneficiaries.
+[7 minutes 2 seconds][Customer] : Thank you.
+[7 minutes 3 seconds][Agent] : Yep. Alright. And then just finally, are you happy for me to increase the funeral insurance, the final expenses on your policy, yes or no?
+[7 minutes 15 seconds][Customer] : Yes.
+[7 minutes 16 seconds][Agent] : Wonderful. Thank you. Just going to help with that now. OK. So yeah. So 15,000. OK, alright, OK, so I can confirm this has been completed for you and will be effective from your next regular collection date. We'll also send out new policy documents reflecting that change. OK.
+[7 minutes 50 seconds][Customer] : Yeah.
+[7 minutes 49 seconds][Agent] : So benefit amount is yeah 15,000.
+[7 minutes 51 seconds][Customer] : Well, the next time it the next time it comes out is the 12th of February. So that'll be the new payment then?
+[7 minutes 58 seconds][Agent] : 13th it is, yeah.
+[8 minutes 2 seconds][Customer] : Oh, the 13th. Yeah. Sorry. Yeah, yeah, yeah. So the $60.00 will commit then. OK, that's fine.
+[8 minutes][Agent] : The $60.43 on the 13th, Yep, that's right. Yep.
+[8 minutes 7 seconds][Customer] : Now that's awesome.
+[8 minutes 8 seconds][Agent] : OK with those policy documents as well, we will send them out. That'll be about 5 to 7 business days in the mail there for you.
+[8 minutes 17 seconds][Customer] : Yeah, that would be great. Love. Thank you very much. Now one more question.
+[8 minutes 20 seconds][Agent] : Sure.
+[8 minutes 21 seconds][Customer] : I keep seeing on the TV and I keep seeing brochures everywhere in the doctors things and wherever I go of people our age keep taking out life insurance. What's that all about?
+[8 minutes 34 seconds][Agent] : There is we, we do offer life insurance on our side, but I'm just going to check the IH eligibility. I'm just going to say. So the the life insurance is a little bit different to the funeral insurance.
+[8 minutes 44 seconds][Customer] : Up to 70, yeah, I know, I know. I had life insurance in my earlier days when I was working.
+[8 minutes 59 seconds][Agent] : Yep.
+[8 minutes 53 seconds][Customer] : And then just one thing to another, I, for reasons being on my own, divorce, whatever else, I had to cancel it and it was the biggest mistake I'd ever made. I just wish I'd battled on and cancelled something like food or pets or.
+[9 minutes 7 seconds][Agent] : Yeah. But yeah, it is, it is definitely it's, it's different to the the funeral itself like says, you know, it's a high benefit. But in terms of this, there's more, there's other things involved in that as well that are that are not in not included in the the funeral insurance benefit. So it's different, different conditions there as well.
+[9 minutes 34 seconds][Customer] : But I just couldn't believe that you could take a life insurance out at this age.
+[9 minutes 39 seconds][Agent] : I just want to confirm that you can umm, 75. Is that OK? Yeah. I haven't seen that one in quite a while. So umm, to come across these every day.
+[9 minutes 42 seconds][Customer] : Well, it said on the TV up anyone up to 75, the premium DVC, I'd imagine.
+[9 minutes 56 seconds][Agent] : So umm, let me just umm, can they did you want me to give you an idea of the price?
+[10 minutes 8 seconds][Customer] : Yeah, roughly, though. Yeah, that'd be good.
+[10 minutes 9 seconds][Agent] : Yeah, I can do that for you. Just a quick look here, OK? Just just trying to get everything loaded for you won't be a moment. OK. Do you have an amount in mind that you wanted to be for me to quote you one?
+[10 minutes 43 seconds][Customer] : No, I no, I haven't. But I as I said, I have no ID that you could do with it at this rate.
+[10 minutes 50 seconds][Agent] : Yeah. Let me let me see what we've got here. So amount is up from so you can choose a cover amount from 10,000 up to 200,000.
+[11 minutes 6 seconds][Customer] : OK. Yeah, well, that's the premium that you should refund the big ones.
+[11 minutes 16 seconds][Agent] : I can, I can, I can check that for you.
+[11 minutes 17 seconds][Customer] : OK, let's say ballpark 5550 thousand.
+[11 minutes 19 seconds][Agent] : Did you did you want me to quote you on a certain number 50,000? OK. All right, let's have a look here. Let's see what I've got. All right, just for this part, I just need to let you know that all our calls are recorded for quality monitoring purposes. I'm just going to bring that up. And can you confirm, have you had a cigarette in the last 12 months?
+[11 minutes 51 seconds][Customer] : A what? Right.
+[11 minutes 52 seconds][Agent] : A cigarette in the last 12 months?
+[11 minutes 55 seconds][Customer] : I've been smoked in the last 70 years.
+[11 minutes 57 seconds][Agent] : No worries. All good.
+[11 minutes 58 seconds][Customer] : I've never smoked. Never smoked in my life or drink.
+[12 minutes 3 seconds][Agent] : That's all right, so 50,000 now this is before this is before any like, so you would have to go through half the master questions. So this is only just a base figure. You're looking at, umm, premium, uh, $86.66 per fortnight.
+[12 minutes 13 seconds][Customer] : Yeah, yeah, that's high, isn't it? A lot of money and the age.
+[12 minutes 24 seconds][Agent] : Yeah, it's, umm, it's, it's, it's because of this, you know, as I mentioned, there's different terms and conditions on there in relation to like, oh, and the ages. So, yeah. And it would also be dependent on how the health and milestone questions would go.
+[12 minutes 41 seconds][Customer] : Yeah, you're good.
+[12 minutes 40 seconds][Agent] : So you'd get through a series of questions there to determine if there's any, like if there's any change to that premium based on the answers you provide.
+[12 minutes 52 seconds][Customer] : Yes. Yeah, Yeah, Yeah.
+[12 minutes 52 seconds][Agent] : And then that would be so that that amount is just purely based on like the the non-smoking side like before any health and lifestyle questions there?
+[13 minutes 5 seconds][Customer] : OK, that's fine. I just wanted to give an idea if I'll just go with the. I'm happy with that.
+[13 minutes 10 seconds][Agent] : Oh good, no problems at all. But that's all, all up to date for you with your funeral cover now.
+[13 minutes 21 seconds][Customer] : Yep.
+[13 minutes 17 seconds][Agent] : So you're sitting at 15,000 and that payment will come out on the 13th of February for you.
+[13 minutes 25 seconds][Customer] : Alright. Thank you very much.
+[13 minutes 25 seconds][Agent] : OK, that's all right.
+[13 minutes 27 seconds][Customer] : You have a lovely day.
+[13 minutes 28 seconds][Agent] : Not a problem. You have a great day as well. Thanks for your call.
+[13 minutes 31 seconds][Customer] : Thank you.
+[13 minutes 32 seconds][Agent] : Bye.
+[13 minutes 32 seconds][Customer] : Bye.

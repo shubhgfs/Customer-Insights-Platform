@@ -1,0 +1,130 @@
+[9 seconds][Customer] : Hello, Roslyn speaking.
+[10 seconds][Agent] : Hi Robin, it's Chris calling from One Choice.
+[13 seconds][Customer] : Hi.
+[13 seconds][Agent] : I was calling regarding the life insurance that you just enquired about on our website just a minute ago. And thank you for for taking the time to put to the enquiry with us. Just before I can assist you further, can I confirm I'm speaking with Robin Lew Akeola. Thank you. And your date of birth the 10th of December 1997.
+[19 seconds][Customer] : Yeah, yeah, yeah.
+[35 seconds][Agent] : Perfect. And can I confirm that you are a female New Zealand resident currently residing in New Zealand?
+[41 seconds][Customer] : Yes.
+[42 seconds][Agent] : Perfect. Please note all our calls are recorded. Any advice you provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. Now Robin, before we get to the life insurance together, can I ask what made you look into the life insurance recently?
+[1 minutes 2 seconds][Customer] : I just saw that it came both three months free.
+[1 minutes 9 seconds][Agent] : I'm sorry.
+[1 minutes 6 seconds][Customer] : I think with my iPad, I just got a e-mail that it was three months free or something.
+[1 minutes 16 seconds][Agent] : Oh, you you saw an e-mail that said this three months free.
+[1 minutes 20 seconds][Customer] : Yeah.
+[1 minutes 22 seconds][Agent] : OK. And does it say one choice on that on that e-mail?
+[1 minutes 27 seconds][Customer] : Let me see.
+[1 minutes 28 seconds][Agent] : Yeah. Just have a quick look for me, please.
+[1 minutes 30 seconds][Customer] : Yeah, Yeah, it does.
+[1 minutes 34 seconds][Agent] : It says one choice in the e-mail and it says three months free.
+[1 minutes 38 seconds][Customer] : Yeah.
+[1 minutes 39 seconds][Agent] : OK. And is it is, is is the e-mail green by any chance?
+[1 minutes 46 seconds][Customer] : Let me check.
+[1 minutes 52 seconds][Agent] : Like does it have the name one choice and it's and it's says life insurance there.
+[2 minutes 1 seconds][Customer] : But it's not. It's just a sponsored ad underneath something that's three months free.
+[2 minutes 2 seconds][Agent] : It's not, it's it, Oh, it's a sponsored ad that's underneath something else that is three months free. Ah, that's OK. Yeah. I was going to say I was. I hadn't heard of our life insurance having three months free.
+[2 minutes 12 seconds][Customer] : Yes, Sorry.
+[2 minutes 22 seconds][Agent] : That's OK. I can provide you with a quick price though, if you'd like.
+[2 minutes 21 seconds][Customer] : No, that's all good. Yes, please.
+[2 minutes 28 seconds][Agent] : OK, perfect. So have you had a cigarette in the last 12 months, perfect?
+[2 minutes 33 seconds][Customer] : No, Yes.
+[2 minutes 35 seconds][Agent] : And is your current annual income $50,000 or more perfect? OK, so you can look between 100,000 as the minimum and 2 million as the highest I can see online you put 2,000,000 down. Is that what you'd be interested in?
+[2 minutes 50 seconds][Customer] : Yes.
+[2 minutes 51 seconds][Agent] : OK, perfect. And also just to clarify, there isn't any three months free in case I need to to confirm that the indicative price would be $65.50 per fortnight.
+[3 minutes 4 seconds][Customer] : Fortnite. Yeah. What about your medical?
+[3 minutes 5 seconds][Agent] : OK, so sorry.
+[3 minutes 11 seconds][Customer] : What about the medical? Umm, questions?
+[3 minutes 14 seconds][Agent] : Yes, So we have health and lifestyle questions that we ask over the phone.
+[3 minutes 18 seconds][Customer] : Yeah.
+[3 minutes 18 seconds][Agent] : There's we don't ask you using medical checks. It's just questions over the phone and they see if we're able to approve you or if there's any changes to the price.
+[3 minutes 28 seconds][Customer] : OK.
+[3 minutes 28 seconds][Agent] : Yeah, but is that price affordable for you? OK, perfect. All right, So what I'll do is, umm, we're able to go through those questions now and we'll see if there's any changes for you. I'm just going to read you something called a pre underwriting disclosure. These questions usually take around 10 minutes.
+[3 minutes 31 seconds][Customer] : Yes, yeah.
+[3 minutes 44 seconds][Agent] : Umm, and if umm, I'll just read this plan of writing disclosure to you now it says. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issued cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct information and lodge complaints about breachs of privacy. I also need to inform you about your duty of disclosure before you enter into the life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to ensure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk. We ensure you have this duty into the time we enter into the contract. If you fail to disclose the matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid a policy entirely. Do you understand this? Yes or no, Perfect. And now most of these responses are just yes or no answers. The first question is, are you a citizen or permanent resident of New Zealand or Australia currently residing in New Zealand?
+[4 minutes 48 seconds][Customer] : Yes, Yes.
+[5 minutes 1 seconds][Agent] : Perfect. Have you ever had symptoms of, been diagnosed with or treated for or intend to seek medical advice for any of the following stroke or heart conditions such as they're not limited to heart memory, heart attack and angina. Lung disorder excluding asthma, sleep apnea or pneumonia?
+[5 minutes 15 seconds][Customer] : No asthma.
+[5 minutes 23 seconds][Agent] : Asthma.
+[5 minutes 23 seconds][Customer] : And what was the second one? No, no.
+[5 minutes 24 seconds][Agent] : So it was lung disorder excluding asthma, sleep apnea or pneumonia.
+[5 minutes 30 seconds][Customer] : OK. No. Can I? Can I I want to tell you something before we start, before I'm wasting your time.
+[5 minutes 31 seconds][Agent] : OK, OK, OK.
+[5 minutes 37 seconds][Customer] : I have tried this year for another AIA life insurance and they declined. My they declined because my diabetes.
+[5 minutes 51 seconds][Agent] : OK. So we may be able to approve you with the diabetes and we may not be. I can get, we can. There's a question later on about diabetes. We can get to that and I can tell you.
+[5 minutes 58 seconds][Customer] : Yeah, OK.
+[6 minutes 5 seconds][Agent] : Yeah. But for this question, lung disorder excluding asthma, sleep apnea or pneumonia? Yes or no.
+[6 minutes 5 seconds][Customer] : Yeah, No, no.
+[6 minutes 13 seconds][Agent] : Cancer or leukemia, excluding skin cancer, anxiety, depression or stress requiring medical treatment or any other mental health disorder. Have you been diagnosed with a terminal illness, motor neuron disease, any form of dementia, including Alzheimer's disease? I've been told by a doctor that you have a condition that will reduce your life expectancy. In the last 10 years, have you used illegal drugs, abuse prescription medication, or safe treatment or counseling for drug or alcohol consumption? The next section is in relation to your height and weight. Please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height please?
+[6 minutes 23 seconds][Customer] : No, no, no, 174 centimeters.
+[7 minutes 1 seconds][Agent] : Thank you. And what is your exact weight please? OK, are you are you confident for me to put 107 kilograms for your weight?
+[7 minutes 5 seconds][Customer] : I checked maybe two or three weeks ago or was 107 KGS, yeah.
+[7 minutes 14 seconds][Agent] : OK perfect, have you experienced any unexplained weight loss of more than 7 kilos in the last 12 months? Perfect. Next question is does your work require you to go underground? Work the heights above 20 meters, dive to depths below 40 meters, use explosives so travel to areas experiencing war of civil unrest or work offshore. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[7 minutes 21 seconds][Customer] : No, no, no.
+[7 minutes 45 seconds][Agent] : Do you have definite plans to travel or reside outside of New Zealand, IE booked or be booking travel within the next 12 months?
+[7 minutes 52 seconds][Customer] : Yes.
+[7 minutes 53 seconds][Agent] : Thank you. So which countries do you intend to travel to?
+[7 minutes 58 seconds][Customer] : Nowhere. Nowhere. Yep.
+[8 minutes][Agent] : Sorry newer what? Where is that? Is that is that? Is that the name of the country?
+[8 minutes 9 seconds][Customer] : Yes.
+[8 minutes 10 seconds][Agent] : Oh, Oh, no.
+[8 minutes 9 seconds][Customer] : It's a small island in Polynesia.
+[8 minutes 11 seconds][Agent] : Oh, no. Oh, sorry. It's a small island. Polynesia. Could you spell that for me?
+[8 minutes 16 seconds][Customer] : Yeah. MIUE.
+[8 minutes 18 seconds][Agent] : Niue. OK, Perfect. And will you be overseas for longer than three consecutive months? Perfect.
+[8 minutes 26 seconds][Customer] : No, Just one week.
+[8 minutes 28 seconds][Agent] : Perfect. Do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5,000,000.
+[8 minutes 37 seconds][Customer] : No. Yes. Tattoo.
+[8 minutes 38 seconds][Agent] : Perfect next question is have you ever had symptoms of been diagnosed with or treated for or intend to seek medical advice for any of the following diabetes raised blood sugar impaired glucose tolerance or impaired fasting glucose perfect type one or type 2 diabetes type 2. OK, so I answer yes because it's it's asking as a yes or no. OK, And I will submit your answers there, Robin. OK And thank you for taking the time to go through the application with me. The outcome I have for you is congratulations. Your application has been approved subject to the following terms and conditions. OK, So we are able to approve you. We are able to offer you a benefit amount of $50,000 to $100,000 with a policy term of 20 years. OK, now for $100,000 of life cover you're looking at a payment of $6.21 per fortnight. OK, now for the 1st 12 months you'll be covered for accidental death only. After 12 months you'll be covered for death due to any cause. However, suicide is not covered in the 1st 13 months of the policy and there is a terminally ill advanced payment included in the cover. After holding your policy for 12 months, if you were diagnosed with 12 months or less to live by medical practitioner, we will pay the benefit amount to you in full.
+[9 minutes 11 seconds][Customer] : Yep, Yep, Yep.
+[10 minutes 3 seconds][Agent] : OK, now please be aware that your premium is stepped, which means it will generally increase each year. In addition, this policy has automatic indexation which means each year your benefit amount will increase by 2% with associated increases in premium. You can opt out of this indexation each year. OK, so Robin, can I just grab your home address so I can add that to your profile here, please?
+[10 minutes 26 seconds][Customer] : Yes, it's 16.
+[10 minutes 28 seconds][Agent] : Yeah, sorry. Kendall Crescent, Tyndall. So TIN.
+[10 minutes 29 seconds][Customer] : Tyndall Crescent, Tyndall DALL.
+[10 minutes 40 seconds][Agent] : OK, perfect. Perfect. And the post code for that is 2023. Yeah. Otara. Perfect.
+[10 minutes 49 seconds][Customer] : Yeah, yes.
+[10 minutes 52 seconds][Agent] : And is that also where you get your mail sent to Perfect, Perfect. Now, now that we've gone through the features and the benefits together as well as we've gone through that pricing and gotten you approved today, does that also sound like a cover that that is suitable for you? OK. Oh, OK, So what you're saying is you're already covered for the next year because you've already paid for the whole year.
+[11 minutes 9 seconds][Customer] : I I have a cover for accidental the terminal illness and stuff with AIA and it's paid up to a year advance 30 Yep. Our our company pays for that.
+[11 minutes 30 seconds][Agent] : Oh OK, OK, your work company.
+[11 minutes 36 seconds][Customer] : Yep.
+[11 minutes 36 seconds][Agent] : Oh OK, OK. What I can do for you then is I'm able to send out an activation, a pre activation policy schedule to you. OK. And what that means is as your cover has been approved, what I'm going to do is e-mail your policy schedule for $100,000 of cover that is pending activation. And if you want to activate it, you just follow the instructions on that e-mail, which is robinwellitsyourfirstnamelastname@gmail.com. OK? I'll send it through today. You can activate that if you'd like. OK, That's you can activate that and it has instructions there on how to do that and your policy will get started. OK.
+[11 minutes 44 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[12 minutes 16 seconds][Agent] : If your policy elsewhere doesn't seem like it's suitable anymore. Is, is that price cheaper than what umm I was offering?
+[12 minutes 25 seconds][Customer] : It was.
+[12 minutes 25 seconds][Agent] : How much was it for the year and how much? How much cover? Sorry.
+[12 minutes 27 seconds][Customer] : That one was just under 900 a year for I think 4 different what? What do you mean?
+[12 minutes 38 seconds][Agent] : So was it for 100,000 or was it for more than that?
+[12 minutes 42 seconds][Customer] : Oh no, I couldn't get the life insurance. That one was just for accident.
+[12 minutes 46 seconds][Agent] : Oh OK.
+[12 minutes 47 seconds][Customer] : Umm, some, some illness. There was four different ones.
+[12 minutes 50 seconds][Agent] : Oh OK. So what we could do is within that pre activation policy, if you do decide to set that up, you'd you'd, you'd be covered for more than just accidents. So for the 1st 12 months you'll be covered for accident to death only. But then after 12 months in the policy, you'll be covered for death due to any cause, of course, except suicide is not covered in the 1st 13 months of the policy. OK. Is it OK if I sent through that activation through to you? And if you decide that you'd like to do that, you can just approve yourself. You can activate it yourself online.
+[13 minutes 1 seconds][Customer] : Yep, Yep, Yep, Yep, Yep. That's OK.
+[13 minutes 25 seconds][Agent] : Perfect. Yeah.
+[13 minutes 25 seconds][Customer] : Umm, can I ask, is it OK if we have, if I have two different covers for the life? I mean for accident and the ACC and stuff.
+[13 minutes 36 seconds][Agent] : So with one choice, it doesn't affect our policy if you have a cover elsewhere. I can't say the same about the other place because I I don't know.
+[13 minutes 41 seconds][Customer] : OK, Yeah.
+[13 minutes 45 seconds][Agent] : But for us, it doesn't affect ours.
+[13 minutes 48 seconds][Customer] : OK. So I'll, I'll just sign up then. It should be fine.
+[13 minutes 52 seconds][Agent] : Oh, you'll sign up like just now. OK, perfect. Yeah.
+[13 minutes 55 seconds][Customer] : Oh yeah.
+[13 minutes 57 seconds][Agent] : I mean, yeah, yeah, we can sign up now. That's not a problem. What I would now ask is when would you like that first payment date to be?
+[14 minutes 7 seconds][Customer] : To start next week, please.
+[14 minutes 9 seconds][Agent] : OK, so you'll be covered from today, but you want the first payment to be the 18th of September.
+[14 minutes 14 seconds][Customer] : Yeah.
+[14 minutes 15 seconds][Agent] : OK, Perfect. Perfect. And what what way were you looking to pay? Was it a Visa or a MasterCard or was it your bank account number?
+[14 minutes 26 seconds][Customer] : This account number, please.
+[14 minutes 28 seconds][Agent] : Perfect. OK. So whenever you're ready, you can just provide me with your bank account number, please.
+[14 minutes 35 seconds][Customer] : Oh, no, Sir. I'll do the. I'll activate it if I activate it.
+[14 minutes 38 seconds][Agent] : Oh, you activate it online? Yeah. Yeah, you can activate it online yourself. Yeah. What I'll do is that if it hasn't been activated, I'll call you back in a week. OK.
+[14 minutes 40 seconds][Customer] : Yeah, yeah.
+[14 minutes 48 seconds][Agent] : And, but if you have any questions at all, you can call us. My number's on there.
+[14 minutes 56 seconds][Customer] : Nice.
+[14 minutes 52 seconds][Agent] : But you can activate that yourself on our on our website, on our e-mail that we send you.
+[14 minutes 56 seconds][Customer] : And yeah. And you're going to send more details.
+[15 minutes 1 seconds][Agent] : Oh, yeah. So there'll be the policy documentation you can read over, and if you have any questions at all, once you've seen that documentation, you can just give us a call and we'll be happy to help you.
+[15 minutes 12 seconds][Customer] : Nice. Thank you so much.
+[15 minutes 11 seconds][Agent] : No worries. It was a pleasure speaking with you, Robin. I hope that was helpful.
+[15 minutes 17 seconds][Customer] : Yes, you have.
+[15 minutes 17 seconds][Agent] : And I'll speak to you next week, but maybe I won't if you set it up yourself.
+[15 minutes 22 seconds][Customer] : Yep. OK, thank you.
+[15 minutes 23 seconds][Agent] : You're welcome. Thank you. Have a great day.
+[15 minutes 25 seconds][Customer] : Same to you. Bye.
+[15 minutes 27 seconds][Agent] : Thank you. Bye.

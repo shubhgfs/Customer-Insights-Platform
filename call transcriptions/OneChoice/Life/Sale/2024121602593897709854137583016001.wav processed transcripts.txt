@@ -1,0 +1,214 @@
+[3 seconds][Customer] : Hello.
+[4 seconds][Agent] : Hi, good afternoon. My name's Simone. I'm calling from One Choice Insurance. How are you going today?
+[3 seconds][Customer] : WH, WH what? Are you sure?
+[12 seconds][Agent] : One Choice Insurance. So I'll give you a call in regards to the life insurance there. I did speak to your wife previously. I made you about the life insurance there.
+[21 seconds][Customer] : Yeah, yeah, yeah. No problem.
+[23 seconds][Agent] : I was going to take you through the questions and also talk about the life insurance with you and so I can assist you further here. Could I please, can you confirm your full name and date of birth please?
+[35 seconds][Customer] : This OO your last name and then 20 of August 1984.
+[40 seconds][Agent] : Thank you. And can I please confirm you are a male New Zealand resident currently residing in New Zealand?
+[49 seconds][Customer] : You mean my wife? Oh, yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+[50 seconds][Agent] : No, you, I can confirm you are a male New Zealand resident currently residing in New Zealand.
+[55 seconds][Customer] : Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+[56 seconds][Agent] : Thank you and I'll quickly let you know as well. All our calls are recorded.
+[1 minutes 1 seconds][Customer] : Yeah. Yeah. Yeah.
+[1 minutes 1 seconds][Agent] : Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs.
+[1 minutes 9 seconds][Customer] : Yeah. Yeah.
+[1 minutes 9 seconds][Agent] : We do not consider your personal circumstances.
+[1 minutes 12 seconds][Customer] : Yeah. Yeah, yeah, Yeah.
+[1 minutes 12 seconds][Agent] : So thank you so much. You know, taking all the time to inquire with us and you know for my better understanding, you know with this life insurance as well. Are you new to life insurance or do you kindly have some cover and place?
+[1 minutes 23 seconds][Customer] : No, we, we, I think, I think, I think you say we already bought for long time, but I think the credit card been hacked and then I the detail the the company cannot charge the money or something. So this one, my wife, I buy another one.
+[1 minutes 43 seconds][Agent] : Oh OK, so with your current cover then do you still have it in place?
+[1 minutes 48 seconds][Customer] : I think already already because they are before I got the BNZ 1 and the and another company can't remember. And then I thought they they got the card been the the number we give to them.
+[2 minutes 3 seconds][Agent] : Yep.
+[2 minutes 4 seconds][Customer] : You say over a long time and then that a lot of time that the the the now the letter is sent to the PO Box at that time.
+[2 minutes 16 seconds][Agent] : Oh, OK. Yeah.
+[2 minutes 11 seconds][Customer] : My wife is a had failure didn't go there for long, long time yes for the the insurance they have been cancelled.
+[2 minutes 21 seconds][Agent] : Oh, OK.
+[2 minutes 21 seconds][Customer] : They've been not not been paid.
+[2 minutes 27 seconds][Agent] : Yep.
+[2 minutes 23 seconds][Customer] : So that's why that's why now I have to buy a new one now my one just find out recently. So that's why need to buy another new one.
+[2 minutes 33 seconds][Agent] : Oh, OK, yeah, so your previous one last.
+[2 minutes 32 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[2 minutes 35 seconds][Agent] : So you, I'm looking for some life insurance now, OK? Yeah, no worries. So again, yeah, thank you so much for taking out the time to enquire with us at One Choice.
+[2 minutes 47 seconds][Customer] : Yep.
+[2 minutes 46 seconds][Agent] : So what I'll do is I'll explain the main features and benefits of our life insurance that way you do also. I mean, I know how that works and understand the process. And then I'll run through some pricing with you as well. OK.
+[2 minutes 52 seconds][Customer] : OK, OK, OK.
+[2 minutes 59 seconds][Agent] : If you did have any questions along the way, please feel free to stop me and ask me. I'll be more than happy to answer them for you. OK, so with our life insurance, it is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away. This benefit could be used to help maintain their lifestyle by helping them pay off a mortgage or loans, or could also be used to help with any other costs involved in raising a family. So basically it's advantage for the Peace of Mind that if something happened to you, your family would have that financial security. OK. And I know when I previously spoke to your wife, she mentioned you guys, you know, you have your three kids, is that correct?
+[3 minutes 46 seconds][Customer] : What, what? What?
+[3 minutes 47 seconds][Agent] : You have you have three children. Is that correct?
+[3 minutes 47 seconds][Customer] : I I see.
+[3 minutes 51 seconds][Agent] : Yeah, yeah. And yeah. Were you looking to leave the money behind, you know, for your wife and your three children there?
+[3 minutes 51 seconds][Customer] : Yes, yes, yes.
+[3 minutes 58 seconds][Agent] : That's good to hear. Yeah. So, umm, you know, with the money, you can, umm, nominate up to five beneficiaries to receive the benefit amount. So if you wanna nominate your wife and your three kids, you can, you have that option to nominate up to five people there to receive the benefit amount. OK. And I'm interested that you do pass as well. Your family. Sorry. Pardon me. Umm, they can request an advanced payout of $10,000, so while the claim's been assessed there, they have access to that money to help with funeral costs or any other final expenses at the time. OK, there is a terminally ill advanced payout included in the cover as well. So do keep in mind and simple for you, everything is done over the phone. So there's no forms to fill in, no medical checks or blood tests to complete. We simply take you through health and lifestyle questions as this will determine the pricing in terms of the policy. OK, so let me load up some pricing for you now as well.
+[4 minutes 13 seconds][Customer] : OK, OK, OK, OK.
+[5 minutes 3 seconds][Agent] : To begin with, have you had a cigarette in the last 12 months?
+[5 minutes 7 seconds][Customer] : No.
+[5 minutes 7 seconds][Agent] : No, thank you. That's good to hear, you know, help you last our choice. That's good to hear. And is your current annual income $50,000 or more?
+[5 minutes 19 seconds][Customer] : Yeah, I think so.
+[5 minutes 22 seconds][Agent] : So the yes you would answer yes for that?
+[5 minutes 20 seconds][Customer] : Yeah, yeah, yeah.
+[5 minutes 25 seconds][Agent] : Yes. Thank you. So I'm keeping in mind with the cover. So you can choose cover between $100,000 up to $2,000,000 and it's $50,000 increments in between. So it starts from 100,000 next one's 150,200 thousand all the way up to $2,000,000. So what benefit amount did you want me to quote you on 1st?
+[5 minutes 51 seconds][Customer] : OK, I don't know my wife how much I she put on.
+[6 minutes][Agent] : Your what, 1-2? Yeah, she initially asked about $2,000,000.
+[6 minutes 5 seconds][Customer] : 2 million.
+[6 minutes 5 seconds][Agent] : So did you want to look at 2 million?
+[6 minutes 6 seconds][Customer] : Oh, oh, my, my, my God. Maybe she'll kill me. Yeah, sorry. My wife is here. Life insurance there. There are 2 million, Sir. I'm.
+[6 minutes 24 seconds][Agent] : That's OK.
+[6 minutes 24 seconds][Customer] : Oh, yeah.
+[6 minutes 24 seconds][Agent] : I can give you a quote on.
+[6 minutes 24 seconds][Customer] : She she yeah, yeah, She said. They just depends on the price.
+[6 minutes 29 seconds][Agent] : Oh yeah, that's OK. I can let you know the price for any other amount. So what amount did you want me to quote you on 1st? A million, yeah.
+[6 minutes 35 seconds][Customer] : That might be $1,000,000 because our mortgage will be about about one point something.
+[6 minutes 40 seconds][Agent] : Oh, OK, Yeah, no worries. Let's look at $1 million.
+[6 minutes 40 seconds][Customer] : Yeah, yeah.
+[6 minutes 43 seconds][Agent] : So for $1 million of cover, you are looking at an indicative payment of $55.11 per fortnight. How is that sounding for you?
+[6 minutes 55 seconds][Customer] : So 50, so about 100 something dollars a month, about $1200 a year roughly.
+[7 minutes 3 seconds][Agent] : I can let you know the monthly premium as well.
+[7 minutes 6 seconds][Customer] : OK.
+[7 minutes 6 seconds][Agent] : So for $1 million of life cover, you're looking at an indicative payment of $119.42 per month. Yeah. How was that sounding for you?
+[7 minutes 16 seconds][Customer] : OK, OK. Yeah, $120.00. Hold on. Yes, I one more one minute, huh? Oh, OK. Yeah, yeah.
+[7 minutes 38 seconds][Agent] : OK. Yeah, of course, I do also want to, umm, take you through those health and lifestyle questions, umm, because once we do go through those health and lifestyle questions, the final premium in terms of the policy, they're dependent on the outcome of the application. So I do want to go through those health and lifestyle questions. That way I can let you know the final premium in terms of your policy.
+[7 minutes 30 seconds][Customer] : I write it down and then I can comparing and then I get my Wi-Fi to discuss and then we can negotiate what would be the best for actually and then I yes, Yep, OK, yeah, no problem. And it.
+[8 minutes 2 seconds][Agent] : OK, let's go through that together and then before to go through umm, the questions with you, I do need to read to you a pre underwriting disclosure statement and it does require your confirmation at the end. So does read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes. If you cover and other related services, we will share this with your insurer and they share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and much complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could basically be be expected to know, which may affect our decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk.
+[8 minutes 15 seconds][Customer] : OK, alright, OK.
+[9 minutes 12 seconds][Agent] : We insure You have this, Judy, until the time we enter into the contract. If you fail to disclose a matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy, or avoid your policy entirely. Do you understand this yes or no?
+[9 minutes 34 seconds][Customer] : So sorry, can you say it again?
+[9 minutes 36 seconds][Agent] : Do you want me to repeat the whole thing?
+[9 minutes 35 seconds][Customer] : No, no, no, no, no, no. TH that's fine. Yes. Already. Yeah.
+[9 minutes 42 seconds][Agent] : OK. I think you heard everything. So the last question was, do you understand this? Yes or no?
+[9 minutes 46 seconds][Customer] : Yeah, I understand. Yeah.
+[9 minutes 48 seconds][Agent] : Yes. OK, thank you. So I'll go through the questions with you now. If you want me to slow down or repeat any questions, please do let me know.
+[9 minutes 48 seconds][Customer] : Yes, Yeah.
+[9 minutes 58 seconds][Agent] : And if I could please have a clear yes or no answer for all the questions as well. OK, so the first question, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand? Yes or no? Thank you. And the next one reads, have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following stroke or heart condition, such as but not limited to palpitations, heart murmur, heart attack and angina? The next one is a lung disorder excluding asthma, sleep apnea or pneumonia, cancer or leukemia, excluding skin cancer.
+[10 minutes 3 seconds][Customer] : OK, Yes, Nope, Nope, Nope. No, no case.
+[10 minutes 55 seconds][Agent] : No, no. OK, anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[10 minutes 57 seconds][Customer] : No, no, no, no.
+[11 minutes 7 seconds][Agent] : Also, if I can have a clear note, We kind of set a note. Yes.
+[11 minutes 11 seconds][Customer] : Uh, no. No.
+[11 minutes 12 seconds][Agent] : Thank you.
+[11 minutes 12 seconds][Customer] : No.
+[11 minutes 12 seconds][Agent] : So, yeah, we just need a clear note. We're not allowed to set a note. That's the answer.
+[11 minutes 15 seconds][Customer] : Oh, I see. Right. OK.
+[11 minutes 15 seconds][Agent] : So yeah, that's OK. So that was a note for that one.
+[11 minutes 19 seconds][Customer] : No.
+[11 minutes 20 seconds][Agent] : Yeah, No, thank you. Umm, next one. Have you been diagnosed with a terminal illness? No, no neuron disease, any form of dementia, including Alzheimer's disease or being told by a doctor that you have a condition that will reduce your life expectancy. Thank you. Umm, next question. In the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counseling for drug or alcohol consumption?
+[11 minutes 21 seconds][Customer] : Uh, yeah, no, no.
+[11 minutes 52 seconds][Agent] : Thank you. The next section is in relation to your height and weight. Please be aware that I am required to obtain a competent single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So the first question, what is your exact height in either centimeters or feet and inches, 173 centimeters? And what is your exact weight in either kilograms, pounds or stones?
+[12 minutes 16 seconds][Customer] : 173 PM Yep, 60 KG.
+[12 minutes 28 seconds][Agent] : 60 kilograms. Thank you. The next question, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? No, no.
+[12 minutes 42 seconds][Customer] : Nope, no, no.
+[12 minutes 47 seconds][Agent] : OK. Yeah. Thank you. I have to be clear, yes or no for the answers. Our next question, does your work require you to go underground, work at heights above 20 meters back to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest or work offshore? To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[12 minutes 51 seconds][Customer] : OK, no, Nope.
+[13 minutes 22 seconds][Agent] : I'm happy. Yes or no? So was that a no for that one?
+[13 minutes 25 seconds][Customer] : No, no.
+[13 minutes 28 seconds][Agent] : OK, thank you. Next question, do you have definite plans to travel or reside outside of New Zealand that is booked or will be booking travel within the next 12 months? Thank you. Do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5,000,000? MMM, thank you. So the next question reads, have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following? So the first one is diabetes raise the blood sugar impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure tumor, mole or cysts, including skin cancer, sunspots or Melanoma. No. Have you ever had an abnormal TSA test or an enlarged prostate?
+[13 minutes 40 seconds][Customer] : No, no, no, no, no, no, no, no.
+[14 minutes 43 seconds][Agent] : Thyroid condition or neurological symptoms such as dizziness or fainting? Disorder of the stomach, bowel, gallbladder or pancreas? Hepatitis or any disorder of the liver? Epilepsy. Multiple sclerosis, Muscular dystrophy? Parkinson's disease or paralysis? Bladder or urinary tract disorder?
+[14 minutes 49 seconds][Customer] : No, no, no, no, no, no, no, no.
+[15 minutes 19 seconds][Agent] : Kidney disorder, blood disorder or disease, Sleep apnea or asthma, excluding childhood asthma.
+[15 minutes 33 seconds][Customer] : No.
+[15 minutes 37 seconds][Agent] : Thank you. So the next question, other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as we're not limited to any surgeries, X-rays, scans, blood tests or biopsy other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[16 minutes 3 seconds][Customer] : No, no.
+[16 minutes 18 seconds][Agent] : Thank you. So the next question is in regards to your family history. And when I say family history, it refers to your father, mother, brother or sister. OK, so the question raised, to the best of your knowledge, has any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adamatis polyposis?
+[16 minutes 31 seconds][Customer] : OK, no.
+[16 minutes 50 seconds][Agent] : To the best of your knowledge, has any of your immediate families suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60? OK.
+[17 minutes 5 seconds][Customer] : My father got a stroke when he was about 6560, but they.
+[17 minutes 13 seconds][Agent] : Oh, that's a good.
+[17 minutes 13 seconds][Customer] : Yeah. 50. Yeah, yeah, yeah, yeah, yeah. So.
+[17 minutes 14 seconds][Agent] : This one is prior to age 60, so before age 60, So no. OK, thank you. So the next question other than one off events gift certificate slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, upsailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity? Thank you. So those were all the questions there. So thank you for your patience throughout the whole application.
+[17 minutes 18 seconds][Customer] : So no, no, no, no.
+[18 minutes 1 seconds][Agent] : So I do want to let you know, congratulations, your application has been approved. So I'll let you know a bit more about how the policy works as well.
+[18 minutes 6 seconds][Customer] : OK, OK.
+[18 minutes 9 seconds][Agent] : So this policy will cover you for death due to any cause except suicide in the 1st 13 months, OK.
+[18 minutes 19 seconds][Customer] : OK.
+[18 minutes 20 seconds][Agent] : In addition, there is also a living benefit as well. So there is a terminally ill advanced payment included in the cover.
+[18 minutes 36 seconds][Customer] : Hmm. Mm.
+[18 minutes 28 seconds][Agent] : So what this one is, is that if you were diagnosed with 12 months or less to live by a medical practitioner, we will pay your claim in full. And that money could be used for medical costs, et cetera, to ensure you receive the best care possible, OK.
+[18 minutes 46 seconds][Customer] : MMM.
+[18 minutes 48 seconds][Agent] : Your beneficiaries, they will still be able to request a funeral advance payout of $10,000.
+[18 minutes 47 seconds][Customer] : OK, Alright.
+[18 minutes 55 seconds][Agent] : OK and also let you know. Please be aware that your premium is stepped, which means it will generally increase each year.
+[19 minutes 3 seconds][Customer] : OK.
+[19 minutes 3 seconds][Agent] : In addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. You can opt out of this indexation each year.
+[19 minutes 18 seconds][Customer] : Oh, OK. So each year will be far the same increase.
+[19 minutes 22 seconds][Agent] : Yeah, so the benefits.
+[19 minutes 27 seconds][Customer] : OK, OK.
+[19 minutes 23 seconds][Agent] : So this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium.
+[19 minutes 33 seconds][Customer] : OK. OK.
+[19 minutes 33 seconds][Agent] : OK, so just a recap for yourself, for that $1 million of life cover, it's a monthly premium of $119.42.
+[19 minutes 44 seconds][Customer] : OK.
+[19 minutes 44 seconds][Agent] : How is everything sounded for you with the life insurance?
+[19 minutes 48 seconds][Customer] : OK. Yeah. Sounds, sounds, sounds OK. Yeah.
+[19 minutes 52 seconds][Agent] : That's good. You know everything's sounding OK for you.
+[20 minutes][Customer] : OK.
+[19 minutes 55 seconds][Agent] : What I can do for you is I can get you a mini covered over the phone today and I will send you all the policy documents to review.
+[20 minutes 3 seconds][Customer] : Yep.
+[20 minutes 4 seconds][Agent] : This policy gives you a 30 day cooling off.
+[20 minutes 8 seconds][Customer] : OK, OK.
+[20 minutes 7 seconds][Agent] : So if you decide this policy is not suitable for you and cancel within the 30 days, then you will receive a full refund of your premium unless a claim has been made.
+[20 minutes 14 seconds][Customer] : OK, OK.
+[20 minutes 19 seconds][Agent] : OK, yeah, give me.
+[20 minutes 20 seconds][Customer] : So how how much for for for the 1.5, just double check.
+[20 minutes 25 seconds][Agent] : OK. Give me one moment.
+[20 minutes 26 seconds][Customer] : Yeah, yeah.
+[20 minutes 26 seconds][Agent] : Let me double check that for you.
+[20 minutes 28 seconds][Customer] : Thank you. Yeah, no, 1.5 still cannot finish or pay, pay the mortgage. Oh my God, don't worry, I don't want to die so early. I, I I will work more than a 1.5 don't worry.
+[20 minutes 50 seconds][Agent] : Let me have a look for you how how much the 1.5 is. So for $1.5 million of life cover, it's a monthly premium of $178.28 per month.
+[20 minutes 54 seconds][Customer] : Yep, 1 .8.
+[21 minutes 5 seconds][Agent] : How was that one sounding in comparison?
+[21 minutes 4 seconds][Customer] : OK yeah, might be I think we do the 1,000,000 first if I need it and then I can do the 1.5. But now 111 million is is OK, at least pay off 11 house.
+[21 minutes 18 seconds][Agent] : OK, yeah, no worries. Yeah, So we can do the 1,000,000 and I'll let you know you can apply in the future to increase your cover subject to eligibility. OK.
+[21 minutes 24 seconds][Customer] : Yeah, yeah, OK, no problem.
+[21 minutes 31 seconds][Agent] : And So what I wanted to do, I want to confirm some of your details as well.
+[21 minutes 35 seconds][Customer] : Yep.
+[21 minutes 35 seconds][Agent] : I want to confirm that with you. Just bear with me one moment. So your e-mail address ivegotitdownascaleblandscape@outlook.com, is that correct? Yes, and I've got your phone number 0210628302, is that right? Yeah. And then spelling of the name. I've got it as ZHIXIONG as your first name and then your last name. OU.
+[22 minutes 4 seconds][Customer] : Yeah, Yep, Yep, Yep, Yep.
+[22 minutes 24 seconds][Agent] : Thank you. And if I could please grab your home address starting with the post code. The four digit code.
+[22 minutes 31 seconds][Customer] : Hmm. Mm. 440 Galaxy Drive, Marandi Bay and post code is 0630. Hello.
+[22 minutes 48 seconds][Agent] : Yep. I'm sorry.
+[22 minutes 51 seconds][Customer] : Yeah, in Marangi Bay.
+[22 minutes 49 seconds][Agent] : 40 Galaxy Drive in Meringue Bay, Auckland, 0630. The post code, is that right? Yeah. And your postal address, is that the same as your home address?
+[22 minutes 53 seconds][Customer] : Yeah, yeah, yeah, that's the one we have APO box, but they yeah, you can post to to the home address no problem. Yeah.
+[23 minutes 13 seconds][Agent] : Are you? Do you want me to put the PO Box? Do do you want the documents posted to the PO Box or to your home address?
+[23 minutes 19 seconds][Customer] : A home address, please. Yeah.
+[23 minutes 20 seconds][Agent] : Home address. No worries. So with the payment, so you're not required to make a payment today?
+[23 minutes 30 seconds][Customer] : OK.
+[23 minutes 29 seconds][Agent] : We generally click payment within the next 7 days, but you can choose a date suited for you best in the future for the first payment day.
+[23 minutes 38 seconds][Customer] : OK.
+[23 minutes 38 seconds][Agent] : OK, So what day was most suitable for you for the first payment?
+[23 minutes 43 seconds][Customer] : Today is 16. Let's do. Yeah. Every. Maybe 20. Every 20.
+[23 minutes 46 seconds][Agent] : Yeah, today's Monday 16, 20th.
+[23 minutes 53 seconds][Customer] : Yeah.
+[23 minutes 54 seconds][Agent] : Yeah, no worries. So I've selected the 20th of December.
+[23 minutes 59 seconds][Customer] : Yeah.
+[23 minutes 57 seconds][Agent] : So that's Friday, the 20th of December as the first payment date and they'll come out every month on the 20th after that. OK, OK. And so with the payment, so we can do direct debit with your bank account or we can do Visa or MasterCard.
+[24 minutes 2 seconds][Customer] : Yep, no problem Debit card.
+[24 minutes 14 seconds][Agent] : Which one would you prefer the debit card? No worries. So for security purposes while obtaining your card details, the call recording will stop and will recommend after we have collected your details. OK.
+[25 minutes 7 seconds][Customer] : The. The. The. The. The. The. The. The. The. The.
+[29 minutes 52 seconds][Agent] : So please be advised that the call recording has now resumed for quality and monitoring purposes. And I do just want to confirm for the call recording as well that you did have authorization to use the business card.
+[29 minutes 52 seconds][Customer] : Yep, Yep.
+[30 minutes 10 seconds][Agent] : Thank you. So we are on the final home stretch, so I need to read to you one last declaration and it will take me a few minutes. So I do appreciate your patience in advance. And there are some yes or no questions to ask you throughout. OK. If you need me to repeat anything or if you need me to slow down as well, please don't hesitate to let me know, OK? And I'm the pronunciation of your name. How, how did I pronounce that?
+[30 minutes 31 seconds][Customer] : OK, yeah. OU at Oh yeah, yeah. Oh yeah, yeah.
+[30 minutes 38 seconds][Agent] : Smith Wong So is OU the answer is O or OK?
+[30 minutes 46 seconds][Customer] : Oh yeah, yeah, just yeah. So Oh yeah, that's right.
+[30 minutes 48 seconds][Agent] : So SH SH song O OK, because I do understand we are in the home stretch. So I read to your declaration now.
+[31 minutes][Customer] : Yep.
+[30 minutes 59 seconds][Agent] : OK OK, so does read. Thank you. This song or it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One Choice Life Insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Can you go have an agreement with Greenspan Financial Services NZ Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf? GFS is licensed by the Financial Market Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals, or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. So with the clear yes or no answer, can you please confirm that you understand and agree to this? Thank you. The answer to the application questions and any related documents on the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the Judy of disclosure that you agreed to. So with a clear yes or no answer, can you please confirm you have answered all of our questions in accordance with your Judy of disclosure?
+[32 minutes 51 seconds][Customer] : Yes.
+[32 minutes 52 seconds][Agent] : Thank you. By agreeing to this declaration, you consent to be contacted by us in relation to other products and services. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amounts of Zeus on you. Receives $1 million in the event of life insurance. A benefit is not paid in the event of suicide. In the 1st 13 months of the policy. Your total premium for the first year cover is $119.42 per month. Your premium is stepped which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this. Included in your premium is the amount payable to GFS of between 24% and 71% of each premium. Your premium will be productive in accordance with the authority you have provided to us. A Invest has made a pinnacle with AB plus financial strength, good and trouble. B minus issue a credit rating with the outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address will also be emailed to you today. You should carefully consider these documents to ensure the product meets your meet. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. So thanks for your patience there. I do have to finish off with two last yes or no questions. So the first one is, do you understand and agree with the declaration, yes or no? Thank you. And the next question, would you like any other information now or would you like me to read any part of the policy document to you?
+[34 minutes 39 seconds][Customer] : Yes, no, that's fine.
+[34 minutes 49 seconds][Agent] : Thank you. So set this declaration on your behalf. Just bear with me one moment. Yes, that's been all completed for you. Thank you for choosing one choice. Your documents, they will be with you shortly. Is there anything else that I can assist you with today?
+[35 minutes 9 seconds][Customer] : No, that's fine.
+[35 minutes 10 seconds][Agent] : No worries, no worries. And I do wanna let you know as well before I do let you go. We did also have funeral insurance or income protection as well. Were you interested in any of those and do you want me to give you a quick quote for them? OK, No worries. I will also let you know with your documents as well. At the back there will be a beneficiary form. You can fill that out and return that back to us and then do normally any beneficiaries for you. OK.
+[35 minutes 25 seconds][Customer] : I think so far just this one should be OK, OK.
+[35 minutes 41 seconds][Agent] : Did you have any other questions?
+[35 minutes 43 seconds][Customer] : No, this should be OK.
+[35 minutes 47 seconds][Agent] : OK, thank you. So no worries then. If you did have any other questions, please don't hesitate to reach out to us. We're open Monday to Friday, 8:00 AM to 8:00 PM, excluding public holidays. So if you have any issues, you can always give us a call. OK.
+[36 minutes 2 seconds][Customer] : OK. Yeah.
+[36 minutes 3 seconds][Agent] : All right. Thank you so much for choosing one choice. I hope you have a lovely rest of your day.
+[36 minutes 7 seconds][Customer] : Well, thank you so much.
+[36 minutes 8 seconds][Agent] : All right.
+[36 minutes 8 seconds][Customer] : Hey, thank you.
+[36 minutes 9 seconds][Agent] : Thank you. Have a good one.
+[36 minutes 10 seconds][Customer] : You too. Bye. Bye. Bye.
+[36 minutes 11 seconds][Agent] : Bye.

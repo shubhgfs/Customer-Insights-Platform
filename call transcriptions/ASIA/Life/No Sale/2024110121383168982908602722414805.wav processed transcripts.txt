@@ -1,0 +1,130 @@
+[8 seconds][Agent] : Hello. Hello. Good morning Mr. Dusan. My name is AJ. I'm calling in from the Australian Seniors Insurance. We received your special interest. Mr. Dusan, regards to our seniors life insurance. I'm going to help you with that information and pricing for you today so that I can help you again. Can I get you to confirm just your full name and date of birth for me please?
+[6 seconds][Customer] : Hello, Yep, my name is Dushan Dusan and the full name is Korma KORLIT.
+[34 seconds][Agent] : Thank you and your date of birth please.
+[37 seconds][Customer] : It's 24th October 1950.
+[40 seconds][Agent] : Beautiful. And also just confirming that you are a male and an Australian resident, is that correct?
+[46 seconds][Customer] : Yes.
+[47 seconds][Agent] : Beautiful, Thank you. Just please, all calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. And thank you again for putting that inquiry through with us. Mr. Disson, I'll be here to help you with your life insurance application just so I can get a bit of an understanding of your inquiry. Can I ask you what initially has motivated you to look into some life insurance?
+[1 minutes 8 seconds][Customer] : What is the motive?
+[1 minutes 12 seconds][Agent] : Yeah. I'm asking you what sparked your interest to look into life insurance at the moment.
+[1 minutes 17 seconds][Customer] : Yeah, I'm interested.
+[1 minutes 20 seconds][Agent] : Sorry.
+[1 minutes 18 seconds][Customer] : Yeah, Yeah, Yeah, I'm interested about the license.
+[1 minutes 41 seconds][Agent] : OK, so that's fine. What I'm asking you is, were you looking into life insurance to protect your family or to leave some? OK. No, that's fine. Not a problem. Umm, I can see that you have previously spoken to us.
+[1 minutes 24 seconds][Customer] : You know that the major point, you know, that not the, you know, to have to have to make uh, sure, you know, the, the case and comes, you know, and the, the, some places, you know, you protect my personal protect mostly my family, you know yeah, I spoken, I spoken yes previously I spoken. I always, I always searching uh for the amount of 30,000, you know, and that amount is premium. It's a little bit high. I can't still afford, you know, and I always searching, I don't know, can I find something cheaper or something like that?
+[2 minutes 1 seconds][Agent] : Umm, yeah, I can see you spoke to us yesterday. Is that right? Yeah. Yeah. How do you find that one?
+[2 minutes 27 seconds][Customer] : Yeah, yeah, yesterday and you told me about monthly $160.00 per $30,000 per 30,000 amount approximately 150.
+[2 minutes 42 seconds][Agent] : Yeah, that's right. How did you find the price on that one? Is that affordable for you or do you not look at anything lower?
+[2 minutes 46 seconds][Customer] : No, it's not, it's not affordable, you know, it's not affordable. I I know that this 20,000 is less premium, but 20,000 you know, always that is, that is how is going the money, you know, value money always. It's going, going down, you know, going down. And I think it's 10,000, uh, some amount which I, which is, you know, how can I express myself, uh, suitable or something like that.
+[3 minutes 22 seconds][Agent] : OK, that's fine. Well, if you feel like the cover is suitable in regards to the price and the amount, umm, but what? I'll what I'll do for you again today because you're speaking to me for the 1st and I'll run to the cover with you again and check your eligibility because we don't know if you're eligible for the cover first.
+[3 minutes 40 seconds][Customer] : Yes, yes, yes.
+[3 minutes 40 seconds][Agent] : OK Yeah.
+[3 minutes 41 seconds][Customer] : Yes, yes. Yeah.
+[3 minutes 42 seconds][Agent] : So basically the seniors life insurance is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away before your 85th birthday when this policy ends.
+[3 minutes 50 seconds][Customer] : Yeah, yeah, yeah.
+[3 minutes 55 seconds][Agent] : OK, Now with us, you can choose between $10,000 up to $200,000 cover.
+[3 minutes 56 seconds][Customer] : Yes, yes.
+[4 minutes 1 seconds][Agent] : And to apply for the cover, we ask you 8 questions relating to health.
+[4 minutes 6 seconds][Customer] : Yes, yes, yes.
+[4 minutes 6 seconds][Agent] : Now if you are accepted with these eight questions, and once you've decided to commence the policy, what we do then is that we will cover you immediately for death due to any cause. And the only thing that's not covered is suicide in the 1st 13 months, OK?
+[4 minutes 21 seconds][Customer] : Yes, OK.
+[4 minutes 22 seconds][Agent] : We also give you a terminally ill advanced payment included in the cover as well. And what this means is that if you were diagnosed with 24 months or less to live by a specialized medical practitioner, then we compare the claim directly to you in full, OK? So while you're living, you can use your own life insurance in that event to support your medical expenses and ensure that you receive the best care possible. OK.
+[4 minutes 38 seconds][Customer] : Yeah, OK.
+[4 minutes 49 seconds][Agent] : The policy will also include accident cover, uh, Tucson. So if your death, God forbid, is due to an accident like a car accident, then your chosen benefit amount will triple.
+[4 minutes 53 seconds][Customer] : Yeah, OK.
+[5 minutes 1 seconds][Agent] : OK. And lastly, we provide a funeral benefit as well. So how this funeral benefit works is that at the time of your passing, if you're beneficiaries, if they don't have any funds to help cover the cost of your funeral, they can request an advance payout of 20% of your benefit amount to help with your funeral and final expenses as well. OK, so those are the benefits of our seniors life insurance policy. Do you have any questions on the benefits?
+[5 minutes 24 seconds][Customer] : OK, sorry.
+[5 minutes 29 seconds][Agent] : Again, do you have any questions about the benefits of ex of this explained to you?
+[5 minutes 32 seconds][Customer] : No, no, no, I don't. I don't. I don't.
+[5 minutes 38 seconds][Agent] : OK, beautiful.
+[5 minutes 40 seconds][Customer] : Yeah, I'm fine.
+[5 minutes 40 seconds][Agent] : So quick question I need to ask you is have you had a cigarette Sir in the last 12 months?
+[5 minutes 45 seconds][Customer] : No.
+[5 minutes 46 seconds][Agent] : OK so and you can choose the amount of cover again between $10,000 up to $200,000. How much cover did you want me to quote you on please? OK 30,000 that one every fortnight is $75.14 per fortnight. So per month it works out to be again, $162.81 per month. OK, Now I understand you mentioned a couple of times with us in the past, but it's maybe not affordable for you. But what we'll do first is let's go to the questions because then we can tell you if you're firstly eligible and then we can come back to that amount that you want to go for. OK, I just gotta update your details. Your e-mail is D dot uh, call at, at yahoo.com. Your phone number 0415502944 and your address 42 A Harold St.
+[5 minutes 56 seconds][Customer] : 3030 thousand Yeah, yes, yes, yeah, yeah, yes, yes, yes.
+[6 minutes 41 seconds][Agent] : Uh, Donnella Washington 6059 OK, now I'll just read out a quick statement for you, which is called a pre underwriting disclosure statement. We read this just before we take you through these health questions. It just states here. Please be aware all calls recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes issue covered in other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. UH Privacy Policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy. Decline a claim. We'll make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty? Just to clear, yes or no, please.
+[8 minutes 2 seconds][Customer] : Yes.
+[8 minutes 3 seconds][Agent] : OK, So first question is a COVID question. It says yeah. Have you been hospitalized for COVID-19 in the last six months? Well, have you been diagnosed with COVID-19 in the last seven days? Yes or no? Next question, in the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke? Yes or no? Next question, in the last five years have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions? Yes or no?
+[8 minutes 16 seconds][Customer] : No, no, no.
+[8 minutes 41 seconds][Agent] : Next on in the last five years, have you been diagnosed with or treated for any of the following cancers, lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? Yes or no? Next question. Do you have a renal kidney condition that currently requires dialysis or transplant or doctors advised will be required in the future? Next one, do you have a liver condition that will require a transplant in the future? Have you been diagnosed with or currently undergoing testing for, or has a doctor advised you to be tested for motor neurone disease or any form of dementia, including Alzheimer's disease? In the last five years, have you attempted suicide or been hospitalized for a mental health condition? Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to live?
+[9 minutes 2 seconds][Customer] : No, no, no, no, no, no.
+[9 minutes 55 seconds][Agent] : OK, So congratulations Mr. Jason, you're approved for the seniors life insurance. So you are eligible to take on board any amount of cover between $10,000 up to $200,000 worth of cover.
+[10 minutes 13 seconds][Customer] : Yeah, yeah. Yeah.
+[10 minutes 7 seconds][Agent] : Now in initially, no, you've, you've contacted us at quite a fair bit of maybe a three or four times and you're looking at the same cover, $30,000 cover. And each time you mentioned it is of course not manageable for you.
+[10 minutes 20 seconds][Customer] : Yes. Yes. Yes.
+[10 minutes 19 seconds][Agent] : Umm, I'm I'm glad. That's because you're on a pinch at the moment, correct?
+[10 minutes 24 seconds][Customer] : Yes. Yes.
+[10 minutes 25 seconds][Agent] : Yeah, yeah. So again, the price won't change it. It's only gonna get higher and higher if you call every year.
+[10 minutes 31 seconds][Customer] : Yeah. Yeah.
+[10 minutes 31 seconds][Agent] : The bigger the price is based of your age, so the the older you are, that's the more expensive it will be.
+[10 minutes 37 seconds][Customer] : Yeah.
+[10 minutes 37 seconds][Agent] : Does it make sense? Does that make sense for you?
+[10 minutes 38 seconds][Customer] : Yeah, yeah, yeah. It makes sense. Yeah, yeah, yeah. Yeah.
+[10 minutes 42 seconds][Agent] : So if you call, yeah, if you if you call next year, if you call next year, the price will be higher.
+[10 minutes 48 seconds][Customer] : Yeah.
+[10 minutes 48 seconds][Agent] : OK, So at the moment what I want to make sure is what are you, what are you looking at life insurance for? Is it just to leave your money to your wife or children?
+[10 minutes 58 seconds][Customer] : No, just just just so you know, the my family to to not have, you know, any problems financial.
+[11 minutes 5 seconds][Agent] : Yeah, financially OK.
+[11 minutes 6 seconds][Customer] : Yeah, yeah.
+[11 minutes 8 seconds][Agent] : Ah, what were the main?
+[11 minutes 8 seconds][Customer] : No, it's not it's not about the same money or something like that. No, it's not that, you know, just no problem, you know.
+[11 minutes 16 seconds][Agent] : That's fine, I understand. So you're just wanting to leave some money to your family if you were to pass away, right.
+[11 minutes 19 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[11 minutes 21 seconds][Agent] : OK, so here in the Australian seniors, we understand that, you know, you wanna, uh, provide protection for your beneficiaries, but we also wanna make sure the cover is affordable for you and suitable for you. Because if you're on a pension, we understand the funds that you get from the pension is not much. OK? Now you have other bills to pay for other expenses. And if you pay, you know, something that's not in your budget, then you're the one who's going to, you know, be affected at the end of the day.
+[11 minutes 39 seconds][Customer] : Yes, yes.
+[11 minutes 50 seconds][Agent] : OK, so when you consider the quote that you've requested at $30,162.81 per month, which roughly is about $75 a fortnight, do you feel like that is affordable for you or do you wanna look at the low? I can only bring out bring down the price by bringing down the color. OK, So if you look at 30, sorry, $20,000 cover then monthly that's $108.54 per month for 20,000. There's no 25,000, there's only 1020, Thirty 4050 all the way up to 200,000. There's no, there's no amount for us to select here.
+[12 minutes 21 seconds][Customer] : And there is no 25,000 amount you you can you can make exception now 25,000 now because 2025 thousand 25,000 my wife as well is going to take life influence.
+[12 minutes 38 seconds][Agent] : It's only well, I wish I could give you 25,000, but I don't have the option here for 25,000. It's only 10,020 thousand 30,000.
+[12 minutes 54 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[12 minutes 57 seconds][Agent] : So this and you let me know how does 20,000 sound to you? Is that more affordable for you?
+[13 minutes 3 seconds][Customer] : It's more affordable, but, uh, you know, I always can, uh, but, you know, every thousand is better. Yeah.
+[13 minutes 15 seconds][Agent] : It is better, yeah. Again, it's up to you, right.
+[13 minutes 17 seconds][Customer] : I mean, this, this always thinking about the, about the, you know, a down value of money, you know what I mean?
+[13 minutes 27 seconds][Agent] : Well, remember to send the price again. I I do apologize. I want to retract the statement of it is better.
+[13 minutes 25 seconds][Customer] : That is all this means, you know, Oh, what is, what is your yeah. What is your name? Uh, uh, just wanted to know in, in the case, uh, if I change the mind, you know, I will call you back.
+[13 minutes 33 seconds][Agent] : I want to mention that's fine because my name is AJ from the Australian Seniors. Now can I ask you a question? You called yesterday, you've called a couple of weeks ago. You cons.
+[13 minutes 53 seconds][Customer] : Yeah yeah. I always, I always when I find, I think it's not, it's making different, uh, different, you know, it's not the same.
+[14 minutes 5 seconds][Agent] : Why? Why do you?
+[14 minutes 3 seconds][Customer] : That is why so sorry, you know, because I, I thought this is a couple of times.
+[14 minutes 6 seconds][Agent] : Why do you feel that it will be different? But why? Why? Why do you think that it's different?
+[14 minutes 9 seconds][Customer] : Yeah, yeah, I thought it different, you know, but they different to make the quote maybe affordable quote for someone else. That is why. That is why.
+[14 minutes 21 seconds][Agent] : Well, well, if the cover doesn't change every day, you know what I mean. It's the same cover. The price, the amounts are still gonna be the based off your age, gender, smoking status and level of cover you choose. If you call tomorrow, it's still gonna be the same. Does that make sense? Yeah. So. Well, the price will only go higher and higher if you call after your, you know, as you're getting older and older, it doesn't reduce. It's not like car insurance, it's not like home insurance. This is a life insurance. So life insurance is different to the other insurances that you're possibly looking at.
+[14 minutes 36 seconds][Customer] : Yeah, No, no, I mean, I, I, I, I mean, always said that it's not that there's some different field or some different, you know, Yeah, yeah.
+[15 minutes 7 seconds][Agent] : OK, now you know, I gotta, I gotta clarify Now this policy, you know, if you feel like the 30,000 is what you want but you can't afford it. So if 20,000 is sounding affordable for you, this policy is flexible. So for example, if you wanna start a fund, a level of cover that is affordable at least and it gives you the Peace of Mind you have something in place in the future. If you can afford more, you can give us a ring and apply for a separate pop up policy subject to eligibility and you can increase your cover. And you can do that as long as the total that you have with us does not increase about $200,000. OK. So at the moment if you don't have, do you have any life insurance at the moment or any kind of protection at the moment for your family, you don't have anything?
+[15 minutes 48 seconds][Customer] : No, no, no, no, no. I haven't got any.
+[15 minutes 54 seconds][Agent] : You don't have anything.
+[15 minutes 54 seconds][Customer] : No, I don't have. I don't have any. Yeah, I don't have any.
+[15 minutes 55 seconds][Agent] : Well, you're approved for cover, yes Yeah. So keep in mind you are eligible for cover. We don't really get a lot of people who are eligible because not everyone is healthy, you know what I mean?
+[16 minutes 10 seconds][Customer] : Yeah, yeah. No, I thought that.
+[16 minutes 7 seconds][Agent] : Some people can umm, you know, based off those questions that, you know, some people can be declined and those questions they don't like, you know, for example, next month you may get a ha, God forbid, a card attack or cancer or something. You just never know what's gonna happen.
+[16 minutes 22 seconds][Customer] : Yeah, yeah.
+[16 minutes 22 seconds][Agent] : So at the moment you are eligible for cover and you are able to take out life insurance. I don't know what is going to happen in six months time or one year's time to your health, uh, or anything. We can't, we can't determine that, right. So if you're eligible and if you feel like the 20,000 is standing affordable, how about we send you the, the policy documents for the 20,000. You can sit down with your family, review that, see if it is affordable and suitable, and then if you're happy with it, you can continue that one.
+[16 minutes 47 seconds][Customer] : Every, No, I am happy with that and about explanation, I understood every, I understood everything, you know, So I just wanted to, to tell you, give me, give me, give me a couple of days. I will talk with my wife. I got your, uh, number and then I will call you back, you know, because I'm 100% interest about life insurance that I have to take to apply, as I say, to protect my father, family of the international problems, you know what I mean?
+[17 minutes 30 seconds][Agent] : Yeah, yeah. Again.
+[17 minutes 24 seconds][Customer] : In the case when it comes death or, or, or illness or or something, you know, yeah, give me, give me, give us, give us, give us a couple of days. I will speak with my wife and we will consider all that stuff and we will decide which amount and, and and and they will call you back, you know.
+[17 minutes 46 seconds][Agent] : Well, again, that's what I'm trying to understand this. And you've been calling us since March, April, you know, this year.
+[17 minutes 55 seconds][Customer] : No, won't be, won't be long. Won't be long. Won't be long. No, no, no, won't be long.
+[17 minutes 53 seconds][Agent] : You've been trying to, you know, speak to us and you, yeah, uh, again, I'm just, I'm just confused to why it's, uh, why you're constantly, you know, you know, asking for the same amount, same price for the last few months.
+[18 minutes 10 seconds][Customer] : Yeah.
+[18 minutes 8 seconds][Agent] : I just wanna help you as best as I can to understand what the situation is. Umm, C can I ask you, you know, Y you know, is the cover the C the I understand the price may be a concerned, but do you, do you not understand that this cover or the, the, the health questions, you know, it's, it's all approved for you at the moment. So what I can do is we can send you your documents instead of a quote and the PDS, we can send you your actual policy documents. You can sit down with your wife and review it while you're protected with us. You don't need to stop paying for the cover. AIA, that's an insurance company. Yeah.
+[18 minutes 40 seconds][Customer] : You know, I, you, you, you heard about uh, AIA insurance company. Yeah uh, I applied for uh, IA and the, they, they gave me, they gave me for $30,130.00.
+[18 minutes 55 seconds][Agent] : OK, OK.
+[19 minutes 2 seconds][Customer] : But, but, but they call my uh, GP, uh, interesting about my health, uh, conditions.
+[19 minutes 12 seconds][Agent] : Yep.
+[19 minutes 13 seconds][Customer] : My health conditions is really at the moment good in past, in past, that was more than 20 years ago, I had no Hoskin lymphoma.
+[19 minutes 24 seconds][Agent] : That's fine with our policy, it's eligible.
+[19 minutes 24 seconds][Customer] : But yeah, but I am not I I am not anymore in ambition, you know, that means no Hoskin lymphoma skewed, you know, and they, they, they say, ah, no, that is umm, you don't know the blah, blah, blah, you know, and they declined, declined, you know, and This is why I always thinking maybe I find find another company, you know, uh, for $107.00 for 110, even $120.00 if it's 120 monthly, I will take it and 3030 thousand amount. And why I already insisted on 30,000 and 50 just because of the value of money, you know what I mean?
+[19 minutes 32 seconds][Agent] : Yeah, yeah, yeah, yeah, yeah, yeah. Understood. OK, well the good news is with the Australian seniors, Yeah, so.
+[20 minutes 11 seconds][Customer] : Yeah, because, because 1001 thousand dollars, $1000 doesn't, uh, value, uh, this year at was.
+[20 minutes 22 seconds][Agent] : Yeah, Yeah, I understood.
+[20 minutes 21 seconds][Customer] : Five years ago, you know, yeah.
+[20 minutes 24 seconds][Agent] : So this and what you got to understand is that here in the Australian seniors, we are approving you for the life insurance. So we are able to offer you the life insurance and you just obviously got to understand that you can choose any amount of cover that's affordable for you. In the future, if your situation changes, you can always call us back and apply to reduce the cover or even apply to increase the policy subject to eligibility. And you can do that as long as the total you have with us does not increase about 200, $1000. So let your wife know that you approved with the Australian seniors. Obviously the 30,000 is $160.00 a month, 20,000 is $108.00 a month. OK.
+[21 minutes 2 seconds][Customer] : Great.
+[21 minutes 2 seconds][Agent] : And just ask and I'll compare that, see what works best for you. I'll give you a call back then once you had some time to speak to wife. And I'll give you, let's say, how about I call you back maybe on Thursday. Would that be a good time to maybe call you back once you've spoken to your wife?
+[21 minutes 17 seconds][Customer] : Uh, Thursday, Thursday, Thursday, uh, Thursday, I've got some O some obligation, you know, I won't be so, uh, free, you know, to take it. Uh, uh, because I've got some appointments, you know, and, uh, dog, maybe, maybe next Monday.
+[21 minutes 31 seconds][Agent] : When are you free then for a quick chat next Monday.
+[21 minutes 38 seconds][Customer] : OK. I will speak like with my wife. OK. Thank you. Yeah. Yeah. Yeah, yeah.
+[21 minutes 37 seconds][Agent] : OK, yeah, I'll e-mail you the quotes to your e-mail d.call@yahoo.com and I'll call you back on Monday and we'll see what you'd like to do. OK.
+[21 minutes 52 seconds][Customer] : OK. Thank you.
+[21 minutes 53 seconds][Agent] : Alrighty, thank you. Have a good day. Bye bye.
+[21 minutes 55 seconds][Customer] : Bye.

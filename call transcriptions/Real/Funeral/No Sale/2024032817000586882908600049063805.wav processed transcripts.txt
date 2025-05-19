@@ -1,0 +1,78 @@
+[9 seconds][Customer] : Hello.
+[10 seconds][Agent] : Hi, this is Cody calling from Real Insurance. How are you today?
+[13 seconds][Customer] : Yeah. Good, good buddy.
+[15 seconds][Agent] : That's good. I'm just giving you a call as we have received your expression of interest online in regards to our funeral insurance. Yeah. So I can assist you further. May I have your full name and date of birth, please?
+[21 seconds][Customer] : Yes, yes, actually this is I I was inquiring about my mother-in-law.
+[33 seconds][Agent] : Oh, OK.
+[32 seconds][Customer] : So it's it's for her. I'm just trying to get some codes, you know, but yeah.
+[33 seconds][Agent] : Yep, Yep. What I'll do is I'll just grab your details just because you're the person I am talking to. So can I please have your full name and date of birth?
+[43 seconds][Customer] : Yeah, yeah, it's Shelvin Kumar.
+[50 seconds][Agent] : Yeah. Can you spell that for me, please? KAKU? No worries at all. And your date of birth. No dramas. Alright, then I'll just get you to confirm your mother's details, please.
+[51 seconds][Customer] : SHELV EE NKUMAR KUM AM AR 05/01/1988 It's OK. Uh huh.
+[1 minutes 24 seconds][Agent] : So just first name and last name? Yep.
+[1 minutes 27 seconds][Customer] : Her name is Lakshmi and the second name is There's no second name. So I just wrote Lakshmi because there was a their name there too.
+[1 minutes 37 seconds][Agent] : OK, yeah, that's that's no dramas at all. And the date of birth please. Yep. And is she an Australian resident?
+[1 minutes 37 seconds][Customer] : Yeah, 01/12/1950, A resident.
+[1 minutes 51 seconds][Agent] : Perfect. No job miss at all. OK, So what I'll do is I'll just I'll just run through some main features and benefits and then we can get through some pricing.
+[1 minutes 50 seconds][Customer] : Yeah, yeah, yeah.
+[2 minutes 1 seconds][Agent] : Is there it? I just want to ask, is there a reason as to why you're looking into your insurance for your mother?
+[2 minutes 7 seconds][Customer] : No, no, we just want to get it done for like, Peace of Mind, you know? So, yeah.
+[2 minutes 11 seconds][Agent] : Yeah, no, I completely understand that the dramas. OK, So what I'll do is, yeah, as I said before, as I'll run through some of the main pages and benefits and then we can enter the pricing and and hand out the quote.
+[2 minutes 21 seconds][Customer] : Yeah, yeah. Hold it.
+[2 minutes 21 seconds][Agent] : OK, so our cover is designed to provide a cash benefit of up to $15,000 to your loved one when you pass away. They can use the funds not only for fuel expenses, but also any other final expenses like unpaid bills. You can nominate up to five beneficiaries to receive their nominated benefit amount. And if death is due to an accident, the benefit amount will triple OK. In addition, there before the policy anniversary following the 75th birthday, if you were to suffer an accidental serious injury such as quadriplegia or paraplegia, the benefit amount will also triple. OK, so there's no it's, it's, it's easy to apply. There's no medal or checks. And if they're an Australian resident aged between 40 and 79, which I can see they are accepted as guaranteed.
+[2 minutes 29 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[3 minutes 14 seconds][Agent] : OK, so I'll just, I'll just let you know that they will be covered for the 1st 12 months. Sorry, sorry. Let me stop it again. Just so you know, for the 1st 12 months, they will be covered for accidental death and accidental serious injury only. After the first 12 months they will be covered for deaths due to any cause. In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we will pay your claim in full to help with things like medical expenses.
+[3 minutes 30 seconds][Customer] : Yeah, yeah. OK.
+[3 minutes 51 seconds][Agent] : OK, so how is that sounding so far?
+[3 minutes 55 seconds][Customer] : Yeah, Yeah. It's good.
+[3 minutes 56 seconds][Agent] : Yeah.
+[3 minutes 56 seconds][Customer] : Yeah.
+[3 minutes 56 seconds][Agent] : Do you have any questions for me at all?
+[3 minutes 58 seconds][Customer] : Yeah. No, not at the moment.
+[4 minutes][Agent] : That's too easy. What we'll do is we'll jump into the, into the quote together. Uh, so I'll just let you know that you can choose between 3000 up to $15,000.
+[4 minutes 5 seconds][Customer] : Yeah, yeah, yeah.
+[4 minutes 12 seconds][Agent] : And a couple of things to note that your premiums are level, which means they are designed to stay the same as you get older. And when you reach the age of 85, your premiums will cease. So you'll have nothing more to pay and you also automatically receive a 25% bonus cover and that will be applied to the benefit amount.
+[4 minutes 32 seconds][Customer] : OK, fair enough.
+[4 minutes 32 seconds][Agent] : OK, so you can also find the information about our premium structure on our website. Alright, so your cover also provides, umm, an early cash option.
+[4 minutes 38 seconds][Customer] : Yeah, Yeah.
+[4 minutes 45 seconds][Agent] : So at any time after you reach the age of 85 years, sorry, reach 85 years of age, you can choose to end your cover and we'll pay you 75% of the funeral insurance benefit.
+[4 minutes 57 seconds][Customer] : Oh, yeah.
+[4 minutes 59 seconds][Agent] : OK, so let's go through some pricing together. As I mentioned before, the levels of cover ranges from 3000 up to $15,000. So what would you like me to cover your, your mother for today?
+[5 minutes 14 seconds][Customer] : Let's go, 15,000. Let's go.
+[5 minutes 15 seconds][Agent] : You want to see the 15,000?
+[5 minutes 17 seconds][Customer] : Yeah.
+[5 minutes 17 seconds][Agent] : I can do that. So for $15,000, you're looking at a fortnightly premium of $86.54. So how's that sending for suitability?
+[5 minutes 32 seconds][Customer] : Yeah. For that one, I, I have to talk to with my wife and we discussed about that one. Is there any possibility you can e-mail me all that pricing?
+[5 minutes 43 seconds][Agent] : Yeah, Yeah, I can. I can send off all that information and you can talk to it with your wife. There's no dramas.
+[5 minutes 47 seconds][Customer] : Yeah, yeah.
+[5 minutes 47 seconds][Agent] : However, if you are liking the sound of the cover, what I can do is I can set up the cover today. You're not required to make a payment today. But what we do, we jump into a calendar, we select the payment date that best suits you guys and you will then re umm, after, after, after the the 30 days is complete. I'm sorry. After the payment date within the 30 days comes through, then you will have sorry, sorry. Let me start this again. OK, So what I can do is I can get you immediately covered over the phone and I will send you all the policy documents to review. The policy gives you a 30 day cooling off. And if you decide the policy is not suitable for you and cancel within the 30 days, you will receive a full refund of your premiums unless a claim has been made.
+[6 minutes 15 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[6 minutes 34 seconds][Agent] : OK, so obviously you can go goes, I can send you all the information today, but if you are like in the center of the cover, I can also set up the cover today and we can go into the calendar together to select the payment that best suits you guys.
+[6 minutes 47 seconds][Customer] : Now just please e-mail me the, all the codes and then, uh, all, all the requirements and everything.
+[6 minutes 54 seconds][Agent] : Yeah, yeah, yeah. No dramas. What I'll do is I'll actually just confirm your e-mail address.
+[6 minutes 56 seconds][Customer] : So I'll discuss with my wife and, uh, we'll get back to you about the cover and, uh, if she's happy to go forward, we'll, we'll be in touch and we'll go forward with that one, Yeah. Correct.
+[7 minutes 12 seconds][Agent] : So what I have here is SHELV doubleen_kumar@yahoo.com perfect so. I'll Send all that information out to you now.
+[7 minutes 23 seconds][Customer] : Yeah, yeah, yeah. OK.
+[7 minutes 27 seconds][Agent] : What I CAN also do is I CAN set up a call back service and we can we can we can have another chat after you guys have have spoken over it. Not yet. You'll get me. Yeah.
+[7 minutes 37 seconds][Customer] : So, so when we get call back, I'll get you or some other, OK.
+[7 minutes 48 seconds][Agent] : Yeah. So what day would work best for you? Yeah, Tomorrow. Yeah.
+[7 minutes 49 seconds][Customer] : And umm, I think Fridays will be good because I do have the, you know, uh, yes, yes, yes.
+[8 minutes][Agent] : And. And what time would work best?
+[8 minutes][Customer] : Tomorrow I can say say four.
+[8 minutes 2 seconds][Agent] : Whether I can set a time 4:00 Yep, I have that all set up for you now.
+[8 minutes 7 seconds][Customer] : Yeah, yeah, yes. And so obviously if I go for 10,000, the premium will be less.
+[8 minutes 13 seconds][Agent] : So I'll have a call back set up service set up for tomorrow at 4:00, correct?
+[8 minutes 23 seconds][Customer] : Yeah, yeah. OK. Now you please forward me all the code and I'll discuss with my wife and we can chat tomorrow and I'll confirm with you.
+[8 minutes 24 seconds][Agent] : Yes, Yep, no, no problems at all.
+[8 minutes 40 seconds][Customer] : OK.
+[8 minutes 37 seconds][Agent] : That, that all that information should be within your e-mail address within the next hour or so.
+[8 minutes 41 seconds][Customer] : Good. Thank you, bro. And who am I talking to?
+[8 minutes 41 seconds][Agent] : OK, uh, this is Cody.
+[8 minutes 45 seconds][Customer] : Cody. Nice talking to you, Cody.
+[8 minutes 47 seconds][Agent] : Yeah, you too. It's a pleasure talking to you.
+[8 minutes 49 seconds][Customer] : Yeah.
+[8 minutes 49 seconds][Agent] : Well, I guess I'll talk to you tomorrow.
+[8 minutes 51 seconds][Customer] : Sweet. Thank you.
+[8 minutes 51 seconds][Agent] : Have a lovely rest of your day. Thanks.
+[8 minutes 52 seconds][Customer] : You too. Take care. Bye.
+[8 minutes 53 seconds][Agent] : Bye.

@@ -1,0 +1,33 @@
+[2 seconds][Agent] : Welcome to One Choice Insurance. My name is Heidi. How may I help you?
+[6 seconds][Customer] : Hello there, it's Sean calling from Christchurch.
+[11 seconds][Agent] : Yeah, absolutely sure. Sorry. What?
+[9 seconds][Customer] : I had a missed call and I think one of your colleagues was trying to contact me about some insurance had she did it, we did her.
+[16 seconds][Agent] : What was the name again? What's the surname? Sean.
+[18 seconds][Customer] : Sean, surname's Moor M Double ORE.
+[27 seconds][Agent] : OK. Did I ring on this number that you've called us on the 02? What is it, 0278092390? OK, then would it be in the name of anybody else?
+[34 seconds][Customer] : 809-2390 You guys called off the Yeah, same number could be in the name.
+[44 seconds][Agent] : Anybody else coming?
+[45 seconds][Customer] : My partner, Nicolette Mulder. No.
+[48 seconds][Agent] : OK, so she, she's the one that we're looking at, so I'm not sure why they're calling her. Oh, OK. OK, let's have a look.
+[55 seconds][Customer] : So yes, he's arranged for this person to call me and they rang yesterday and then we rearranged to take the call today.
+[1 minutes 6 seconds][Agent] : No.
+[1 minutes 5 seconds][Customer] : But I was just on another call when they when they tried to call me.
+[1 minutes 9 seconds][Agent] : OK, let me have a look for you. Yep. Sean, here we go. OK, let me try and put you through to Jonty.
+[1 minutes 19 seconds][Customer] : Thank you.
+[1 minutes 19 seconds][Agent] : Won't be a moment. Why?
+[1 minutes 21 seconds][Customer] : Cheers.
+[1 minutes 21 seconds][Agent] : I'll just say she's available.
+[1 minutes 49 seconds][Customer] : It's hard for the course to hang over this Saturday, isn't it?
+[2 minutes 6 seconds][Agent] : Yeah, I'll just wait here. Bye. Be a moment.
+[2 minutes 8 seconds][Customer] : Thank you.
+[2 minutes 9 seconds][Agent] : Thanks. Bye. Bye.
+[2 minutes 26 seconds][Customer] : Hello.
+[2 minutes 27 seconds][Agent] : Hello lovey. I have Sean on the phone for you. I think you must have set up his girlfriend yesterday or whatever it was. His girlfriend's name is Nicolette.
+[2 minutes 33 seconds][Customer] : Oh, yes, yes, yes.
+[2 minutes 35 seconds][Agent] : I've got Sean on the phone for you.
+[2 minutes 37 seconds][Customer] : All good. Thank you.
+[2 minutes 39 seconds][Agent] : Alright, I am out. Alright. What? Are you ready?
+[2 minutes 43 seconds][Customer] : Yep, Yep.
+[2 minutes 45 seconds][Agent] : Ready.
+[2 minutes 45 seconds][Customer] : Ready.
+[2 minutes 45 seconds][Agent] : Go.

@@ -1,0 +1,19 @@
+[3 seconds][Agent] : Hello, welcome to Veal Insurance. My name is Michael. How can I help you?
+[6 seconds][Customer] : Hi Michael, my name's Jeff. I'd like to well, I've just received my annual policy or the anniversary and just realised that my cover is quite low, so I'm hoping I can increase it.
+[5 seconds][Agent] : Do you have a policy number then?
+[26 seconds][Customer] : Yeah, 880023282.
+[34 seconds][Agent] : And can I get you to confirm just your name and date of birth and the type of policy you have with us? Thank you. I'm opening up the policy. I'm just going to take a couple of the other details for you. Postal address it's #4 View Rd.
+[38 seconds][Customer] : Jeffrey Malcolm Cadbury 251258 Funeral no right?
+[54 seconds][Agent] : Boston, Washington, 6107. e-mail is sue74@westnet.com dot AU.
+[57 seconds][Customer] : Yep, Yep.
+[1 minutes 2 seconds][Agent] : And we've got your contact number just as a landline, 0899801320. OK Should it be the mobile you're calling from at the moment?
+[1 minutes 3 seconds][Customer] : That all done no correct.
+[1 minutes 18 seconds][Agent] : OK, so that's coming up as 04 40889. Sorry, I couldn't clean my glasses. Uh, 0408895694.
+[1 minutes 28 seconds][Customer] : 895694 Yeah.
+[1 minutes 33 seconds][Agent] : OK, I'm just getting rid of the landline. OK, let's have a look at the actual policy, because not all funeral policies could be increased in the way that you're thinking. But let me just have a closer look. OK, so with this particular policy, Jeff, this one's a guaranteed funeral insurance. Now because these ones are fixed rate policies, the benefit amount on them can't be increases and just increasing a sum. In short, you've got a couple of different options. So option 1, you can replace the policy with a a newer cover, but the money you paid into it and transfer across. But the other option is what's called a top up policy. It's a second cover that works together with the existing policy to give you a total higher sum insured. Yep.
+[2 minutes 40 seconds][Customer] : OK umm, I'll meet you either way as long as I get the high cup.
+[2 minutes 45 seconds][Agent] : So the yeah, that's OK. The so with the the top up one, because it's a separate policy, the funds that you pay into your own policy, you're guaranteed funeral. They still accrue because with the with these particular ones we've had out that you chi chosen benefit amount or the total premiums that you've paid into whichever the higher of the two is. So you paid a little bit of the 2600 into your current policy. So you still got that 4K there. Umm, but this way that'll still continue to accrue. Why you get the higher cover from the new policy. Now to get this one fixed up, I'd have to put you through one of our sales team, though, so they'll be able to take that new application while I see who's available. I'll place you on a brief hold. Might take me a couple of minutes. I'll be as quick as I can.
+[3 minutes 31 seconds][Customer] : OK.
+[3 minutes 32 seconds][Agent] : Alright, please hold. Thanks for your patience, Jeff. I'm sorry for the delay, but I've got Cameron on the line to help you further.
+[5 minutes 28 seconds][Customer] : OK. Thank you.
+[5 minutes 29 seconds][Agent] : Thanks. Uh, thanks.

@@ -1,0 +1,181 @@
+[11 seconds][Customer] : Hello. It's Barry speaking.
+[13 seconds][Agent] : Hi Barry, it's Simsa calling you back from real insurance. How are you?
+[16 seconds][Customer] : Oh yeah, real good. Thanks. Thanks. I'm I'm real good. Thank you.
+[18 seconds][Agent] : Is, is this an OK time?
+[20 seconds][Customer] : Yeah, yeah, It's great now. Yeah. Tha thanks for giving that little bit of breathing space. I just had to do something earlier.
+[25 seconds][Agent] : No, that's fine.
+[25 seconds][Customer] : It quite. It's quite urgent. Yeah.
+[26 seconds][Agent] : Not a not a problem.
+[27 seconds][Customer] : I I'm I've got plenty of plenty of time to talk me out. Yeah, yes.
+[31 seconds][Agent] : OK well umm so I can assist you further. May I have your full name and your date of birth first please? Yep and your birthday.
+[38 seconds][Customer] : It's Barry West, 2020 20th of July 1957.
+[47 seconds][Agent] : OK. Please note all our calls are recorded. Any advice I provide is generally nature and may not be suitable to your situation. Can I confirm that you are an Australian resident?
+[57 seconds][Customer] : That that's correct.
+[58 seconds][Agent] : OK. Thank you, Barry, so I can have a better understanding of why you're looking into funeral insurance today. Are you new to it or do you currently have some cover in place?
+[1 minutes 7 seconds][Customer] : No, I no, I don't actually.
+[1 minutes 11 seconds][Agent] : Yes.
+[1 minutes 9 seconds][Customer] : I just thought it was a good, good thing to do, that's all.
+[1 minutes 13 seconds][Agent] : Yeah.
+[1 minutes 16 seconds][Customer] : S sorry. Cover for who?
+[1 minutes 13 seconds][Agent] : Cover for your loved ones maybe as well for your loved ones maybe.
+[1 minutes 20 seconds][Customer] : Oh, no, no, I'm fine. No, I'm just single. I'm just a single person.
+[1 minutes 24 seconds][Agent] : OK, So what I'll do in that case is explain the main features and benefits and run through some options with you.
+[1 minutes 23 seconds][Customer] : Yeah, OK.
+[1 minutes 29 seconds][Agent] : OK, so our cover is designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away. They can use the funds not only for funeral expenses, but also any other final expenses like unpaid bills. You can nominate up to five beneficiaries to receive the nominated benefit amount and if death is due to an accident, your chosen benefit will triple OK. In addition, before the policy anniversary following your 75th birthday, if you were to suffer an accidental serious injury such as quadriplegia or paraplegia, the benefit amount will also triple. It's easy to apply. There are no medical checks. If you are an Australian resident aged between 40 and 79, acceptance is guaranteed.
+[2 minutes 16 seconds][Customer] : Right.
+[2 minutes 15 seconds][Agent] : OK, just just so you know as well, for the 1st 12 months you'll be covered for accidental death and accidental serious injury are in which after the first 12 months you will be covered for deaths due to any cause. In addition, there is a terminal illness benefit, which means after holding a policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by medical practitioner, we will pay your claim in full to help you with things like medical expenses.
+[2 minutes 46 seconds][Customer] : Right.
+[2 minutes 45 seconds][Agent] : OK, you can choose between $3000 up to $15,000. And a couple of things to note, your premiums are level, which means they are designed to stay the same as you get older. And when you reach the age of 85, your premiums will cease. So you'll have nothing more to pay and you will also automatically receive 25% bonus cover. This will be applied to your benefit amount. You can also find information about our premium structure on our website. Do you have any questions for me so far, Barry?
+[3 minutes 17 seconds][Customer] : No, I think I'm right. Just one would cover I if I took out a policy now I'm covered. Let's say there was an accident I ran over by a bus in next too much time, I'd I'd be covered then, wouldn't I?
+[3 minutes 33 seconds][Agent] : Yeah. So for for the 1st 12 months you'll be covered for accidental deaths.
+[3 minutes 39 seconds][Customer] : Yeah.
+[3 minutes 38 seconds][Agent] : So yes, you will be covered. Yeah.
+[3 minutes 39 seconds][Customer] : Y Yes, Yes, That's what I thought. Yeah. Yeah.
+[3 minutes 41 seconds][Agent] : And then after that 12 months you'll be covered for any cause, any 'cause that will cause the death.
+[3 minutes 47 seconds][Customer] : Right. That's it. Yeah, that's fine. Thank you.
+[3 minutes 47 seconds][Agent] : OK, OK. So I'll just continue then. Your cover also provides you with an early cash out option, so at any time after you reach 85 years of age, you can choose to end your cover and we will pay you 75% of the funeral insurance benefit.
+[4 minutes 6 seconds][Customer] : Right.
+[4 minutes 5 seconds][Agent] : OK, so let's go through some pricing together. As I mentioned, the level of cover ranges from $3000 up to $15,000 and you can get cover just for yourself. OK. So what benefit amount would you like me to look at first?
+[4 minutes 19 seconds][Customer] : I, I, I'm, as I said earlier, I'm a single person. I'm just looking at cover for myself and I, I estimate $9000 would be probably quite adequate for fairly ordinary average funeral.
+[4 minutes 35 seconds][Agent] : Yep. Did you want me to have a look at 9000 then to start off and we'll see how we go.
+[4 minutes 33 seconds][Customer] : I, I tend to think, yeah, yeah, yeah, yeah, yeah, yes.
+[4 minutes 41 seconds][Agent] : OK, perfect. So for 9000, Barry of Sorry Barry for $9000 of cover, the premium will be $35.08. OK. How does that sound in terms of suitability for yourself?
+[4 minutes 56 seconds][Customer] : That's a month, I'm sure. Is that right?
+[4 minutes 58 seconds][Agent] : Oh no, this will be Fortnite.
+[5 minutes][Customer] : Oh, Fortnite, Fortnite.
+[5 minutes 1 seconds][Agent] : OK. Did you want to look at monthly because I can change that to monthly for yourself?
+[5 minutes 1 seconds][Customer] : OK, Yeah, yeah, Actually I'll just the simplicity. I'd rather pay in a like not not Fortnite, but maybe monthly or even quarterly.
+[5 minutes 16 seconds][Agent] : Well, we do Fortnite in monthly or annually. Would you try, do you want to maybe try monthly for you?
+[5 minutes 20 seconds][Customer] : Oh, monthly, yeah, yeah, monthly's fine.
+[5 minutes 25 seconds][Agent] : OK. So Barry, for $9000 of cover, the premium, it will be $76.01 per month. How does that sound in terms of suitability? No, so you may pay more in total premiums over the life of the policy than the benefit amount. So please be aware this insurance does not have a savings or investment element.
+[5 minutes 24 seconds][Customer] : Yes, that's per month A, A and that that premium remains constant year by year or is is it in change with indexation or no, no.
+[5 minutes 56 seconds][Agent] : So if you cancel outside of the 30 days, your cover will stop and you will not receive anything back unless you are eligible for and choose the early cash back offer. So you may pay more in total premiums over the life of the policy.
+[6 minutes 10 seconds][Customer] : Yeah, Yeah, that's I understand that.
+[6 minutes 11 seconds][Agent] : OK. Yes, that's correct. How does that sound for you?
+[6 minutes 12 seconds][Customer] : So about $76.00 a month for for $9000 of funeral cover A and the policy I I if I just imagine I did decide to terminate this in a year's time I is that OK? How does that work? I realise I'm making my money premiums back. I don't expect that, don't you, but.
+[6 minutes 35 seconds][Agent] : Yeah, I so you are 66 years of age now.
+[6 minutes 40 seconds][Customer] : Ye, ye, yes.
+[6 minutes 41 seconds][Agent] : OK, just give me one moment just to have a look. I just want to make sure I'm giving you the appropriate information. So you mean if you cancel in the 1st 12 months? Hello Barry.
+[6 minutes 55 seconds][Customer] : Ye. Yes. I'm. I'm sorry. I'm here.
+[6 minutes 57 seconds][Agent] : Yeah.
+[6 minutes 57 seconds][Customer] : Yes.
+[6 minutes 58 seconds][Agent] : So are you asking if you cancel in the 1st 12 months?
+[7 minutes 1 seconds][Customer] : I I I'm not intending to. I'm just sort of thinking of all the possibilities. Yeah. Yeah. OK.
+[7 minutes 7 seconds][Agent] : So.
+[7 minutes 7 seconds][Customer] : Let's say I cancelled six months later. How does that work? Is that OK? How does that work?
+[7 minutes 13 seconds][Agent] : You won't be getting any of your premium payments back, if that's what you mean.
+[7 minutes 18 seconds][Customer] : No, No, I don't. I don't expect to. No. I mean you, you can cancel in the future, is that right?
+[7 minutes 19 seconds][Agent] : Let me yeah, you can cancel in the future. Yeah, of course. And the only problem with that is you know, you've, you would have not been able to do your whole waiting period as well for the 12 months, umm, before, you know, getting cover for any, any cause of death. Umm, but yes, you can definitely cancel with us. You just have to call up and, and customer support will do that for you.
+[7 minutes 51 seconds][Customer] : Yeah, yeah, call up and cancel and obviously I don't I don't expect to get any premiums back if if say I cancelled 18 months time and that again is is OK. Is that right?
+[8 minutes 4 seconds][Agent] : I'm just going to pop you on hold just so I, umm, get the right information from you for you. So do you mind just holding for two minutes? OK.
+[8 minutes 2 seconds][Customer] : TH thank Yep, that's not yes tha thank you.
+[8 minutes 12 seconds][Agent] : Thank you. Hi, Barry, you there.
+[9 minutes 12 seconds][Customer] : Yes, I'm here.
+[9 minutes 13 seconds][Agent] : Thank you so much for holding and your patience. Yeah. So if you choose to cancel in 18 months, you won't get any of the money back, but you also won't pay a cancellation fee or anything like that. You would just call up and then cancel over the phone? Yeah.
+[9 minutes 27 seconds][Customer] : Oh, I see is is there normally does that mean there's normally a cancellation fee in in other cases? No, no.
+[9 minutes 34 seconds][Agent] : No, no, not well, not, not with umm, real insurance. I I can't say for other insurance companies. Yeah, OK. Yeah, of course.
+[9 minutes 38 seconds][Customer] : OK, Yeah O OK, OK yeah S so I can I can cancel at different stages if if I choose to obviously a month I won't get any money back. I don't know wouldn't expect it to. That's fine.
+[9 minutes 47 seconds][Agent] : Yeah, yeah. Well, I mean if you do choose to cancel in the 1st 30 days, so you umm, you know, that would be different altogether because that's a cooling off. But I will go into that further when we go down the line. Did you want to lock that in or would you want want to look at other levels of cover?
+[9 minutes 51 seconds][Customer] : Alright, Just I, I, I see just maybe just out of interest, $6000 a cover, what what does that equate to in terms of the premium?
+[10 minutes 21 seconds][Agent] : OK, let me have a look, $6000 and that was still monthly for yourself.
+[10 minutes 26 seconds][Customer] : Yeah, yes. Thanks.
+[10 minutes 30 seconds][Agent] : OK, So Barry, for $6000 amount of cover, the premium will be $50.68 per month. What do you think of that? Does that sound a bit better for you?
+[10 minutes 41 seconds][Customer] : O OK, yeah, yeah, yeah, yeah, yeah, OK, yeah, thank, thank you. Just want to think WI with the $9000 cover, how does that work? I it's your funeral costs, let's say $7000 WH, what amount do you then pay to the beneficiary O of the estate?
+[11 minutes 2 seconds][Agent] : OK. Let me just have a look here. So you know, it depends on the time, but you know your cover also provides you with the early cash out option. So after you reach 85 years of age, you can choose to end your cover and you'll be paid out 75% of the funeral insurance benefit. So that's one of the factors there. And then Yep. So it's, it's designed to provide a cash benefit of up to 15,000 to your loved ones when you pass away. So that's, that's what it's designed to do. Does that answer your question?
+[11 minutes 45 seconds][Customer] : I I see in that case the $15,000 cover that's just a fixed amount. Like even for example let's say the funeral costs $11,000, you'd still pay the beneficiary the $15,000. No, it's not the actual cost of the funeral. It's a fixed amount given that a certain person's passed away and they have this level of in insurance with you.
+[12 minutes 14 seconds][Agent] : Yes, exactly. So you know, it's different depending on what cover, Yeah.
+[12 minutes 12 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah, yeah. OK.
+[12 minutes 21 seconds][Agent] : Does that make sense?
+[12 minutes 22 seconds][Customer] : Y yeah, that's fine.
+[12 minutes 23 seconds][Agent] : Yeah.
+[12 minutes 24 seconds][Customer] : N maybe yeah, I'd look at the $9000 cover.
+[12 minutes 28 seconds][Agent] : OK. We'll go back to 9000 and that was still monthly for yourself.
+[12 minutes 31 seconds][Customer] : Ye, yes.
+[12 minutes 31 seconds][Agent] : So Yep. So just to remind you of that, for $9000 of cover, the premium will be $76.01 per month.
+[12 minutes 43 seconds][Customer] : Right.
+[12 minutes 44 seconds][Agent] : So did you want to stick with that one or are you happy to look around still?
+[12 minutes 46 seconds][Customer] : Yeah, yeah, No, that one's fine. The $9000 covers would be fine.
+[12 minutes 52 seconds][Agent] : OK, I'll create that application for you. OK And just I'm just going to repeat myself just so you understand this important point. Also, you may pay more in total premiums over the life of the policy than the benefit amount. Please be aware this insurance does not have a savings or investment elements. So if you cancel outside of the 30 days, your cover will stop and you will not receive anything back unless you're eligible for and choose the early cash back offer. OK so just to get started, can I have your post code please?
+[13 minutes 24 seconds][Customer] : Right I I'm actually in Melbourne because I work in Melbourne, but for much of the time I live in Adelaide. Probably not Adelaide this long, but based so 5118 is the post code. No, I'm, I'm going back to Adelaide early July, which is about 3 weeks away.
+[13 minutes 38 seconds][Agent] : OK, well would you be back in Adelaide in the next 4 days, four business days, early July. OK, umm, I might, I might get your your address in Melbourne then, because we do send out a hard copy package as well.
+[13 minutes 55 seconds][Customer] : OO OK yeah yeah, yeah, that'd be better. Yeah.
+[14 minutes 6 seconds][Agent] : And yeah, I think you would prefer have it with you as soon as you can. OK, So, yeah, wherever you're staying for within the next two weeks, you can just give me your post code for that 3052.
+[14 minutes 17 seconds][Customer] : O OK 3052 It it, it's the Carlton area of of Melbourne. It's just north.
+[14 minutes 26 seconds][Agent] : OK, I've got, I've got Parksville or Melbourne University. OK. And your first address line please.
+[14 minutes 29 seconds][Customer] : Yeah, I'm actually at Melbourne University Post Office, Box 4109.
+[14 minutes 42 seconds][Agent] : 4109 Yep.
+[14 minutes 44 seconds][Customer] : Yes, it's APO, Box 4109.
+[14 minutes 50 seconds][Agent] : Victoria. OK.
+[14 minutes 47 seconds][Customer] : Melbourne University Victoria. The Post Code's 3052.
+[14 minutes 55 seconds][Agent] : OK. And is this the same as your postal address? Well, for the time being, Yep, for these for these documents, OK.
+[15 minutes][Customer] : That's what postal address yes ye, yes, if you send it to that address, I'll I'll get that in a few days time when once it obviously once it arrives.
+[15 minutes 11 seconds][Agent] : OK perfect. So what I can do for you is get you immediately covered over the phone today and I'll send you all the policy documents to review. This policy gives you a 30 day cooling off. If you decide this policy is not suitable for you and cancel within the 30 days then you will receive a full refund of your premium unless a claim has been made. OK so I'm just going to go to payments and declaration now for yourself. OK, so how would you like to pay through direct debit or credit card?
+[15 minutes 48 seconds][Customer] : Probably direct debit savings account.
+[15 minutes 49 seconds][Agent] : OK, Is that with the savings or cheque account savings? OK, Can I please have your BSP number to start?
+[16 minutes 3 seconds][Customer] : I don't have a credit card.
+[16 minutes 7 seconds][Agent] : Oh, so the. Well, you get to choose. So you can choose either.
+[16 minutes 5 seconds][Customer] : Do you mean you're gonna apply a cover from today? Is, is that what you're saying?
+[16 minutes 14 seconds][Agent] : Yeah, it'll be applied from today. Yeah, but you don't.
+[16 minutes 15 seconds][Customer] : Oh, oh, I, I, I wasn't expecting that.
+[16 minutes 17 seconds][Agent] : But you don't have to pay today. You can choose the date that you want to pay first.
+[16 minutes 17 seconds][Customer] : I, I didn't, I didn't bring my credit card with me. I, I imagine it was a few days before this got processed.
+[16 minutes 26 seconds][Agent] : Well, that's OK. You can if you know your BSB number and your account number for your bank instead. We can do direct debit as well, whatever you've normally like. However you normally pay umm, your bills or anything like that, we can do it on the same day as well as when you receive payment for your job.
+[16 minutes 52 seconds][Customer] : You're saying I'll be covered from today under this policy?
+[16 minutes 54 seconds][Agent] : Yes, you'll be covered from today, but you get to choose what day you want your first payment to come out. So you don't have to pay today, but you will be covered from today. Does that make sense?
+[17 minutes 6 seconds][Customer] : OK then, alright, see if you if you post that through and I'll get it in a few days time, read the documents. I I guess I have to fill out & something and post it back to you, is that right?
+[17 minutes 21 seconds][Agent] : Yes, that's correct. You read all of it, umm, and then it'll come with instructions on what to do next. Umm and then like he's like I said, if you're reading it and you find that you know it actually isn't suitable for you, then you can let us know within that 30 day cooling off.
+[17 minutes 41 seconds][Customer] : OK.
+[17 minutes 40 seconds][Agent] : So I the cover can start today. However, umm, but like I said, you get to choose which day you want to have make your first payment.
+[17 minutes 49 seconds][Customer] : O OK. Today's the 13th. Yes, probably. I'm guessing probably in probably in a weeks time.
+[18 minutes 6 seconds][Agent] : Yep.
+[18 minutes 3 seconds][Customer] : I reckon by then I'll have the paperwork and in the paperwork, can I nominate my bank account details which then gets posted back to you. Is, is that how it works?
+[18 minutes 16 seconds][Agent] : Well, if, if you're not comfortable with sharing your bank information over the phone, umm, I can actually send you a pre activation e-mail. And So what this will have is you'll open it up and put in your details yourself. Umm, if you don't feel comfortable sharing on the phone, umm, otherwise I can get your bank details now. Umm, And then when you get sent your information, umm, you can follow it, follow those instructions and put in the right forms, etcetera.
+[18 minutes 38 seconds][Customer] : I, I don't, I don't have the bank details with me because I wasn't expecting to actually implement a, a policy as of today. I, if you, I'm just thinking rather than post this material to me, it, it, are you up to e-mail? Assuming that might be quicker actually.
+[18 minutes 56 seconds][Agent] : OK yeah I can e-mail you with the. Do you want the pre activation as well or just the info?
+[19 minutes 17 seconds][Customer] : Ma, maybe can you just e-mail TH the material today? Obviously TH I'll get it in very quickly. Then I can read it, sign whatever, maybe post it back to you, whatever and and give you the bank details on that form. Is that possible?
+[19 minutes 32 seconds][Agent] : Yeah, I can do that. Alternatively, I can call you back later today and we can get it done over the phone. It's totally up to you.
+[19 minutes 46 seconds][Customer] : I probably can't do it. I'm actually at work today. There's a limit to how much TI time I I can.
+[19 minutes 41 seconds][Agent] : Oh, OK. Yeah, that's OK. Well in that case I can just send you a pre activation e-mail so.
+[19 minutes 57 seconds][Customer] : Yeah, Alright, Yeah, alright. I I'll give you my e-mail address. I if you then e-mail me the materials that you would have posted to me, I can then print that this out tonight. Look at it and probably even send it back to you. Tomorrow morning or something like that. Is that OK?
+[20 minutes 16 seconds][Agent] : OK yeah, of course, whenever you're ready. That's totally fine. So, umm, I have an e-mail address hereforyourselfitsbarry.w.australia@gmail.com.
+[20 minutes 29 seconds][Customer] : That. That's right?
+[20 minutes 29 seconds][Agent] : Is that the right one to send it to?
+[20 minutes 29 seconds][Customer] : Yes, Yes, that's yes.
+[20 minutes 32 seconds][Agent] : OK.
+[20 minutes 32 seconds][Customer] : Yes, I'll get that.
+[20 minutes 33 seconds][Agent] : And umm, just before we do continue on this, I'm just going to confirm some of your contact details again, umm, and then I can get that sent over to you. Does that sound OK?
+[20 minutes 43 seconds][Customer] : OK. Yes, yes.
+[20 minutes 44 seconds][Agent] : All right, So Barry West birth date is 20th of the 7th 1957 male Australian residence and your address is PO Box 4 one O 9, Melbourne University, Victoria three O 5 two, OK. And your best contact number is 0428188983, is that correct? OK.
+[21 minutes 5 seconds][Customer] : Yes, yes, yes, that's all correct.
+[21 minutes 14 seconds][Agent] : So yeah, if you'd like, I'll send that over to you today and then you just get to it when you can. And if you have any other questions, please don't hesitate to ask. OK?
+[21 minutes 25 seconds][Customer] : Alright, I I'll print that all out tonight when I get home, have a look at it and probably tomorrow morning I'll get back to you. Yeah, that should be OK. Yeah.
+[21 minutes 37 seconds][Agent] : Did you want me to also call you back tomorrow morning just to check that you understand it all or yeah. Is is there appropriate time for you?
+[21 minutes 43 seconds][Customer] : Y you can you can actually M maybe about Y yes that'll be OK. Maybe about 11:00 tomorrow morning I'll have some S free time there. Is that OK?
+[21 minutes 57 seconds][Agent] : 11:00 And that would be Melbourne time, correct?
+[22 minutes 2 seconds][Customer] : Ye, yes, I'm in Melbourne at the moment.
+[22 minutes 4 seconds][Agent] : OK. Because it did say SA before. So I think that's, that's why I called you a bit later. Umm.
+[22 minutes 10 seconds][Customer] : I, I, oh, I see. I'm actually much the year I live in Adelaide, but I work in the university sector in Melbourne, at Melbourne University. So during the academic year I'm over in Melbourne and other times of the year I'm in back home in Adelaide.
+[22 minutes 26 seconds][Agent] : Oh, wow, very busy.
+[22 minutes 30 seconds][Customer] : I'm not a fly in, I'm not a fly in fly out person except I, I'm not in the mining industry. I I'm in education that works. That makes sense.
+[22 minutes 38 seconds][Agent] : Oh, OK, so you're a teach. You're a do you teach.
+[22 minutes 42 seconds][Customer] : Yes. I teach at Melbourne University.
+[22 minutes 45 seconds][Agent] : Oh. Oh, awesome. That's really cool. Umm. OK, so I will send that package over to you and then I'll just call you sometime tomorrow. 11:00 You said 11:00 Melbourne time.
+[22 minutes 45 seconds][Customer] : Yes E 11:00 tomorrow morning.
+[22 minutes 55 seconds][Agent] : And then yeah.
+[22 minutes 55 seconds][Customer] : I've got a bit of S spare time then and that'll be good. I can talk to you there.
+[22 minutes 59 seconds][Agent] : OK.
+[22 minutes 59 seconds][Customer] : By then I would have read the material overnight, which I would have printed out and I can finalise then whatever N needs to be done. And I'll make sure I've got my bank details with me tomorrow. Yeah. Yes.
+[23 minutes 14 seconds][Agent] : OK. Well, in.
+[23 minutes 15 seconds][Customer] : Is that all right?
+[23 minutes 16 seconds][Agent] : Yeah, in that case, I'll send you the info and then I'll call you at 11. OK.
+[23 minutes 21 seconds][Customer] : Tomorrow. Yes. Yes.
+[23 minutes 21 seconds][Agent] : And then we can go over your bank details over the phone.
+[23 minutes 24 seconds][Customer] : OK. OK.
+[23 minutes 25 seconds][Agent] : OK.
+[23 minutes 25 seconds][Customer] : All right.
+[23 minutes 26 seconds][Agent] : All right.
+[23 minutes 26 seconds][Customer] : Good.
+[23 minutes 26 seconds][Agent] : Have a good day.
+[23 minutes 27 seconds][Customer] : Good, Ma. Many thanks. Bye.
+[23 minutes 29 seconds][Agent] : All right. Bye. Bye.
+[23 minutes 30 seconds][Customer] : Goodbye.

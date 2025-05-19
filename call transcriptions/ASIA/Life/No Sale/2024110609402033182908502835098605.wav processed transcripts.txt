@@ -1,0 +1,58 @@
+[13 seconds][Customer] : Hello. Hello. Hello. Yeah, me.
+[19 seconds][Agent] : Hello, it's Jane calling from Australian Seniors. How are you today?
+[25 seconds][Customer] : Oh, good. Thank you. How are you?
+[26 seconds][Agent] : That's not too bad, thank you. I'm just giving you a call as we've received your expression of interest online in regards to our life insurance.
+[34 seconds][Customer] : Yeah.
+[35 seconds][Agent] : Umm, just so I can assist you further with that, can I just have your full name and date of birth please?
+[40 seconds][Customer] : So mine or my mum's? Because I I enquired on behalf of my mum.
+[44 seconds][Agent] : OK, no problem. No problem. Umm, I'll just confirm your mom's name. Yep, no worries thank you for that. Please note all calls are recorded. Any of us are providers generally nature and may not be suitable to your situation. Can also confirm that she is a female Australian resident. Perfect thank you and I might just grab your details as well if that's OK.
+[49 seconds][Customer] : Yep, so full name Teapot William and date of birth the 3rd of December 1955 Yep Yep. So first name son.
+[1 minutes 14 seconds][Agent] : Your first name, date of birth, Let's spell it VU.
+[1 minutes 19 seconds][Customer] : SON surname is Boo BU Yep.
+[1 minutes 23 seconds][Agent] : Yep, and date of birth.
+[1 minutes 24 seconds][Customer] : Date of birth 29th of the 11th, 1987.
+[1 minutes 30 seconds][Agent] : Perfect. Thank you so much for that. Just so I can get a better understanding, are you new to life insurance or do you kind of have some covering place for your mum already?
+[1 minutes 40 seconds][Customer] : So it would be you, I believe.
+[1 minutes 44 seconds][Agent] : OK, no worries. So what I'll do is I'll just explain the main features and benefits and then run through a little bit of pricing with you as well.
+[1 minutes 52 seconds][Customer] : Yep.
+[1 minutes 52 seconds][Agent] : OK, so seniors life insurance is designed to provide financial protection for your loved ones through a lump sum payment if your mother was to pass away before her 85th birthday. When the policy ends, you can choose cover between $10,000 up to $200,000 and nominate up to five beneficiaries to receive the dominant the nominated benefit amount. If death is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with things like funeral costs or any other final expenses. OK, so it's easy to apply. We just asked you 8 yes or no questions relating to your to her health over the phone to see if she's approved.
+[2 minutes 30 seconds][Customer] : OK.
+[2 minutes 29 seconds][Agent] : OK, if she's approved and once you commence the policy, she'll be covered immediately for death due to any cause except for suicide in the 1st 13 months. Umm, In addition, there is a terminally ill advanced payment included in the cover. So if she was diagnosed with 24 months or less to live by a specialized Med medical practitioner, we can pay her benefit amount in full to help with all those medical costs. Umm, I'm sure she gets the best care possible.
+[2 minutes 54 seconds][Customer] : Yeah.
+[2 minutes 54 seconds][Agent] : OK, do you have any questions for me so far son? Perfect. All right, let's go through a bit of pricing together, umm, starting with a question. Have you had a cigarette in the last 12 months?
+[2 minutes 57 seconds][Customer] : Not at the moment, no.
+[3 minutes 13 seconds][Agent] : Sorry. So I'm just going to place you on a quick hold here. Just going to refer to my colleague. OK, I won't be too long.
+[3 minutes 16 seconds][Customer] : Yeah, OK. Bye.
+[4 minutes 14 seconds][Agent] : Thanks for your patience there, son.
+[4 minutes 17 seconds][Customer] : Yeah, that's OK.
+[4 minutes 17 seconds][Agent] : So just going back to that question, has your mother had a cigarette in the last 12 months? No, OK. All right, so just keeping in mind the level of cover ranges from $10,000 all the way up to $200,000. We can look at different amounts until you find the right level of cover.
+[4 minutes 22 seconds][Customer] : No, Yeah, I think I lifted down 200,000.
+[4 minutes 40 seconds][Agent] : Did you have somewhere as a starting point you'd like to look at 200, the top level? Yep, no worries.
+[4 minutes 50 seconds][Customer] : Yeah, in the inquiry, yeah.
+[4 minutes 52 seconds][Agent] : All right, I'll pop that in now into the system. So for the benefit amount of $200,000 umm and looking at a payment of $247.16 per fortnight umm, that includes a free will kit and a complimentary subscription to Australian Seniors Dare magazine. Umm would you like to look at any other levels? How's that sort of sounding at the moment?
+[5 minutes 15 seconds][Customer] : Probably on the high end for what my parents would be comfortable with. So can can you just have a look at 100,000.
+[5 minutes 22 seconds][Agent] : OK, no 100,000 Yep no worries, I'll cut that in half. So yeah, for the benefit amount of $100,000, the premium comes out to be $123.58 per fortnight.
+[5 minutes 37 seconds][Customer] : OK. And then if you can just do one extra 1 for me and then I'll discuss it with her if that's OK.
+[5 minutes 44 seconds][Agent] : Ye, yeah, yeah, sure.
+[5 minutes 48 seconds][Customer] : Yeah. So if we try for a 50,000 as well.
+[5 minutes 45 seconds][Agent] : With as in a different level, 50,000? Yep. So that comes out to a fortnightly premium of $61.79.
+[5 minutes 59 seconds][Customer] : OK. Yep, yeah.
+[6 minutes 1 seconds][Agent] : OK Umm, So just letting you know as well, umm, obviously you're doing this inquiry on behalf of your mother. Umm, if you, if you sort of go back to her and go through everything is a bit of that pricing that we've gone through today. When you do call back and if you decide to go through with the policy, umm, you will need her there on the phone so that we can go through those underwriting questions and make sure she's, she's OK to get approved.
+[6 minutes 7 seconds][Customer] : Yeah, OK. Yep, that's no problem.
+[6 minutes 25 seconds][Agent] : OK, All right, umm, so I can send those details out to you via e-mail. Just confirm your e-mail is son.vu@live.com dot AU.
+[6 minutes 26 seconds][Customer] : OK, correct.
+[6 minutes 37 seconds][Agent] : OK, perfect. No worries. So I'll send that all out, Umm, and then maybe schedule a call back with you at some time next week after you've sort of had a, had a chat with mom and that sort of thing. Going through that pricing. Umm, do you have a day next week? That's preferable. I might be able to get back in touch.
+[6 minutes 54 seconds][Customer] : Not so much. So I think it's probably better just because I work pretty much like 9:00 to 5:00 Monday to Friday. Is is it OK if you just leave it with me and then I'll, you know, contact if necessary.
+[7 minutes 13 seconds][Agent] : Yeah, yeah, that's alright.
+[7 minutes 15 seconds][Customer] : OK. Yeah.
+[7 minutes 14 seconds][Agent] : Umm, I was going to say maybe, uh, even next week the same time or a little bit later. We are open until 8:00 PM in the evenings.
+[7 minutes 15 seconds][Customer] : Oh, OK. Yeah, I think just like with me and I'll just discuss it with mum.
+[7 minutes 22 seconds][Agent] : Umm, OK, no problem.
+[7 minutes 31 seconds][Customer] : OK.
+[7 minutes 30 seconds][Agent] : How you going? Anything else I can help you with today?
+[7 minutes 33 seconds][Customer] : No, thank you.
+[7 minutes 34 seconds][Agent] : OK, no problem. Thanks son.
+[7 minutes 36 seconds][Customer] : Thanks very much.
+[7 minutes 37 seconds][Agent] : Enjoy the rest of your day.
+[7 minutes 38 seconds][Customer] : Thanks you too.
+[7 minutes 39 seconds][Agent] : Cheers. Bye. Bye.

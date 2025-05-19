@@ -1,0 +1,227 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hello there. It's Mary calling back to insurance. That's OK.
+[3 seconds][Customer] : Oh, I'm so I thought they, I thought somebody else had rung and, you know, cut off our conversation.
+[14 seconds][Agent] : No, that's OK.
+[14 seconds][Customer] : So I'm trying to get rid of that person so I could get back to you. I didn't realise it was you.
+[19 seconds][Agent] : Oh, that's OK. That's OK.
+[21 seconds][Customer] : I'm sorry.
+[21 seconds][Agent] : That's all good. I thought it was, I thought your phone might have died. So I was like, Oh no, that's not good. So I just double check to give you a ring back.
+[27 seconds][Customer] : I don't know what happened.
+[29 seconds][Agent] : That's OK. That's all good. Just as it is a new call. I do just have to let you know again, my name is Mary from Bill Insurance. All calls are recorded. Any advice to provide is general in nature and may not be suitable to your situation. And if it's OK with you, just to be confirmed your full name and date of birth for me, please. Yep, Yep.
+[50 seconds][Customer] : Deborah DEVORAH actually none of the rounds KKO Y, but I am actually going back to my labeling.
+[1 minutes 3 seconds][Agent] : Oh, OK.
+[1 minutes 4 seconds][Customer] : I've already changed it on my license, but I haven't got round to change it at my bank. So not yet. So it's still in Harran, but it, you know, will be Dale.
+[1 minutes 4 seconds][Agent] : And yeah, does it currently.
+[1 minutes 19 seconds][Customer] : The the current name is that it's on the lock on my license. It's Dales Dale.
+[1 minutes 23 seconds][Agent] : Yeah, OK. And was that?
+[1 minutes 30 seconds][Customer] : So that's what it will be, you know, or I guess it's what it is.
+[1 minutes 36 seconds][Agent] : Was that also updated already on your birth certificate? So it should be Deborah Kay Dale?
+[1 minutes 35 seconds][Customer] : If it's on my license, yes, I've got a person to forget.
+[1 minutes 45 seconds][Agent] : Yep, Yep. And it says Deborah Kay Dale on the birth certificate.
+[1 minutes 44 seconds][Customer] : Yes, yes, yes.
+[1 minutes 48 seconds][Agent] : OK, perfect. I'll make sure to fix that up for you as well. So that way there's no issues later on down the line.
+[1 minutes 52 seconds][Customer] : I I have forgotten about that.
+[1 minutes 54 seconds][Agent] : That's OK. No, no, that's perfectly fine. We'll fix that up for you and umm also just to make sure that that if you can confirm your date of birth and umm, we'll confirm everything else after that as well.
+[1 minutes 54 seconds][Customer] : I'm so sorry. I I was just supposed to tell you all that.
+[2 minutes 15 seconds][Agent] : Yep.
+[2 minutes 11 seconds][Customer] : Deborah DEBORAHKKOY Dale DOLE at Work 2589 Fairfield Rd. Yoranda, Brisbane Spring, France 4104 And my birth date is the 21st of the 8th 56.
+[2 minutes 36 seconds][Agent] : Perfect. Thank you. And just lastly confirming you were a female and an Australian resident.
+[2 minutes 44 seconds][Customer] : Yes. It's not sad. You gotta ask that question.
+[2 minutes 45 seconds][Agent] : Thank you.
+[2 minutes 48 seconds][Customer] : It really isn't so sad. Oh my gosh.
+[2 minutes 49 seconds][Agent] : No, please, we always have to just reconfirm it all.
+[2 minutes 55 seconds][Customer] : Oh, dear.
+[2 minutes 57 seconds][Agent] : Perfect.
+[2 minutes 57 seconds][Customer] : But I know what to know.
+[2 minutes 57 seconds][Agent] : And just to make some thank you and just to make sure really quickly, I know we just confirmed so home address and postal address, they're both the same as well.
+[3 minutes 7 seconds][Customer] : That's the same.
+[3 minutes 9 seconds][Agent] : Perfect. And then I have e-mail was DKH double nam@yahoo.com dot AU.
+[3 minutes 8 seconds][Customer] : Yes, yes, that's right.
+[3 minutes 18 seconds][Agent] : Lovely.
+[3 minutes 17 seconds][Customer] : And I want to change the lap.
+[3 minutes 20 seconds][Agent] : That's OK. No problem.
+[3 minutes 19 seconds][Customer] : It will say that even though my last name will be different. Yeah.
+[3 minutes 26 seconds][Agent] : That's OK. That's all good. And just to make sure, of course, I know the phone number is correct.
+[3 minutes 32 seconds][Customer] : Yes.
+[3 minutes 30 seconds][Agent] : It was 0490133071.
+[3 minutes 34 seconds][Customer] : Yes, yes.
+[3 minutes 34 seconds][Agent] : Perfect.
+[3 minutes 35 seconds][Customer] : Sorry, I forgot that one.
+[3 minutes 37 seconds][Agent] : That's OK.
+[3 minutes 37 seconds][Customer] : Yeah.
+[3 minutes 37 seconds][Agent] : That's all good. Well, what we'll do next is so just to jump back into that pricing. So it's $15,000 and you're happy with that level, which was $65.56 a fortnight. Perfect. And we've noted down first payment date for you, Deborah. So it's the 20th of January, next week on the Monday and then it would just be every fortnight on the Monday for you.
+[3 minutes 50 seconds][Customer] : Yes, right. That's wonderful. Thank you, love.
+[4 minutes 6 seconds][Agent] : Perfect. That's OK. That's all good. All we have to do now for you, Deborah, just noting down your preferred payment method. Did you want me to note down Visa MasterCard or do you prefer it to be a Visa account number? No problem. What we'll do is we'll pause the call recording. That way we can enter that in for you securely. It just confirms here with you. Are you happy to continue, yes or no?
+[4 minutes 20 seconds][Customer] : No, it will be a Visa card with my visa number. I'm going to find it first.
+[4 minutes 40 seconds][Agent] : So just to confirm, no, that's OK. So just confirm are you happy to continue with setting this up today as well and also entering that all in?
+[4 minutes 48 seconds][Customer] : Yes, yes, I'm. I'm fine with that. I was just going to find the handbag.
+[4 minutes 53 seconds][Agent] : That's OK. Take your time and while still looking for your card, it just lets you know for security purposes while obtaining your car details, the call recording will stop and we'll recommend after we've collected your details that you.
+[5 minutes 54 seconds][Customer] : The. The. The. The. The.
+[8 minutes 9 seconds][Agent] : And it just lets you know. Please be advised that the call recording is now resumed for quality and monitoring purposes. Umm, but also just before I read out your declaration, I'm just going to let you know with your policy, it does provide you with a 30 day cooling off. So that is if once you've read through your documents, you decide it's not suiting your need, you can just give us a ring back and you can apply to cancel that policy to receive a 30, uh, a refund of your premium unless a claim has been made. And that would just be again within the 30 days if you decide to cancel that policy.
+[8 minutes 47 seconds][Customer] : Well, that's good. Thank you for saying that.
+[8 minutes 46 seconds][Agent] : OK, No worries. That's OK.
+[8 minutes 50 seconds][Customer] : A lot of places don't, but there's always got to be a pool of food.
+[8 minutes 56 seconds][Agent] : Yeah, of course.
+[8 minutes 57 seconds][Customer] : But yeah, some aren't there, you know, to acknowledge that. So I'm very pleased you said that. Thank you.
+[9 minutes 4 seconds][Agent] : OK, no worries. That's OK. But all that's left now for you, Deborah, is I'll just read out your final declaration.
+[9 minutes 11 seconds][Customer] : OK.
+[9 minutes 11 seconds][Agent] : So that's basically going to summarize everything we've discussed and what's included in the cover for you. May just ask you 2 questions at the end, but that'll be all done just before I read it out. Just wanna make sure with you, you're understanding everything included in the funeral insurance today.
+[9 minutes 29 seconds][Customer] : Yes.
+[9 minutes 28 seconds][Agent] : Yep, lovely. Well just as here. Thank you Deborah K Dale, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real fee cover is issued by Hanover Lively of Australasia Ltd, whom we refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, trading as Real Insurance, to issue and arrange this insurance on its behalf. Your answers to the application questions and any related documents from the basis of your contract of insurance and Hanover relies upon the accuracy of the information you have provided when assessing your application. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed and for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance credits, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By agreeing to this declaration, you can sent to you consent to be contacted by us in relation to other products and services. You can opt out of this at any time. By contacting us, you have agreed to take out a single real funeral cover with the following cover. Deborah K Dale is covered for $15,000 in the event of death. In the case where death is accidental or if you suffer a defined accidental serious injury, the benefit amount will triple coverage for accidental death only for the 1st 12 months of cover with death by any cause or diagnosis of the terminal illness covered thereafter. Accidental serious injury cover for each life insured under age 75 starts immediately and ends on the policy anniversary following the life insured 70th birthday. Co cover is for accidental death only for the 1st 12 months of cover with death by any cause or diagnosis of the terminal illness covered thereafter. Accidental serious injury cover for each life insured under age 75 starts immediately and ends on the policy anniversary following the life insured 75th birthday. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you will no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. You can end your cover at any time by contacting us. If you stop paying your premiums, we may end your cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off. If cover continues beyond age 85, the life insured will receive an additional 25% of bonus cover from that date and you will not be required to pay any further premiums. The bonus cover is not payable if the early Cash App option has been taken out. Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for your first year of cover is $65.56 per fortnight. Your premiums are level, which means they are designed to stay consistent year and year and will only change if you alter your cover or the insurer adjust the premium rates applying to your policy. Insurer can only make a change if it is applied consistently across all policyholders. You may pay more in premiums than the benefit amount over the life of the policy. Included in your premium is an amount payable to real insurance of between 34% and 54%, calculated on a level basis over the life of the policy. Your premium will be debited from your credit card, which you're authorized to debit from and have provided to us. We may provide written communications to you by the e-mail address you have provided to us, and this will include any legal notices we are required to provide you in writing. If you would prefer to receive this only via mail, you can update your communication preferences at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you. AT will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. Then you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as a new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Just the last two questions left. The first one is asking do you understand and agree with the declaration, yes or no?
+[15 minutes 25 seconds][Customer] : Yes.
+[15 minutes 26 seconds][Agent] : Thank you. And would you like any other information or would you like me to read any part of the PDS to do yes or no?
+[15 minutes 35 seconds][Customer] : No, I'm fine. Thank you, love.
+[15 minutes 37 seconds][Agent] : Thank you so much, Debra. Well, that is all completed for you today. And again, just keeping an eye out for your document as you should receive that e-mail in the next 15 or so of it and then your hard copy in the mail in the next three to five business days. The only thing you need to send back to us is just the beneficiary form once you've completed it with your friend's details and just sending that back to us once completed. But if you need any assistance at all, feel free to give us a ring back. We have a support would seem to you that they're able to assist you with any questions, updating any details or anything else you may need assistance with.
+[16 minutes 12 seconds][Customer] : That's wonderful. Thank you very much, Sir.
+[16 minutes 11 seconds][Agent] : OK, sorry, that's all good. But thank you so much for your time, Deborah and choosing Zeal Insurance again. And I do hope all your wishes that you mentioned to me earlier, they're all carried out in the way you want it to be.
+[16 minutes 25 seconds][Customer] : I'm pretty sure I will be.
+[16 minutes 27 seconds][Agent] : That's good.
+[16 minutes 27 seconds][Customer] : And thank you. And could you?
+[16 minutes 28 seconds][Agent] : That's it.
+[16 minutes 29 seconds][Customer] : Thank you. I will. You could do. I like it better if I have a good week. Oh, dear.
+[16 minutes 36 seconds][Agent] : Do you have a lovely week, lovely year. The rest of the year, 2025, I'm sure it's going to be an amazing year for you.
+[16 minutes 42 seconds][Customer] : Yeah, yeah. So I don't like it. So what was I going to say to you? The best comment that I made to you about people cancelling when, you know, they just have a serious medical issue. I actually got you to suggest that to someone or to tell them that I said that, you know, because I didn't remember cancelling it, but I figured I must have because I haven't heard from you in a while.
+[17 minutes 18 seconds][Agent] : Yeah. And I can. That's OK.
+[17 minutes 21 seconds][Customer] : I hadn't seen. I did figure I must have, but I didn't remember it. And it happens so easily when you're unwell.
+[17 minutes 33 seconds][Agent] : Yeah, of course.
+[17 minutes 33 seconds][Customer] : You go through like a a morning or busy period.
+[17 minutes 38 seconds][Agent] : MMM, yeah.
+[17 minutes 38 seconds][Customer] : You know, when you when you've been really sick and what you failed doing, that time should never be held against you.
+[17 minutes 49 seconds][Agent] : Of course.
+[17 minutes 50 seconds][Customer] : You know, that should sound like we'll take a notice of that, but we'll keep it going and we'll be back in three months to see how you feel.
+[18 minutes 1 seconds][Agent] : Yeah, of course, I can definitely let my pass that message on and see maybe we can change that process that way.
+[17 minutes 59 seconds][Customer] : Well, something like that, yeah.
+[18 minutes 8 seconds][Agent] : You know, like you mentioned, you may have not been aware that you cancelled your policy and you know, you lost the life insurance that you wanted in place. So maybe we can have a description about that.
+[18 minutes 20 seconds][Customer] : Yeah.
+[18 minutes 18 seconds][Agent] : I'll discuss with my manager, see what type of methods they can do. Hmm. Yeah.
+[18 minutes 21 seconds][Customer] : Well, you know, if that was considered suitable, you know, the people following hopefully would benefit by it, you know, because. Yeah.
+[18 minutes 39 seconds][Agent] : MMM.
+[18 minutes 36 seconds][Customer] : So I don't remember doing it, but I didn't know that I have some really dark times.
+[18 minutes 43 seconds][Agent] : Of course I can go on.
+[18 minutes 43 seconds][Customer] : So what to do then? Could be an answer?
+[18 minutes 44 seconds][Agent] : Yeah, Yeah.
+[18 minutes 48 seconds][Customer] : You know, I mean, I don't, I don't know, doing as a criminal. I just mean it's it's just a really dark period, you know?
+[18 minutes 53 seconds][Agent] : No, of course, yeah.
+[18 minutes 59 seconds][Customer] : So, yeah, no, that was all because, yeah, I am sad that it's not there anymore.
+[19 minutes 8 seconds][Agent] : Yep.
+[19 minutes 9 seconds][Customer] : But what is, is you can't sound sick. And but if, yeah, you could help somebody in the future, you know, that'll be wonderful.
+[19 minutes 23 seconds][Agent] : Yeah, of course.
+[19 minutes 23 seconds][Customer] : You know, if that's all we said, we'll, you know, we'll call back in three months and see if you still feel that way. Yeah. OK.
+[19 minutes 32 seconds][Agent] : Yeah, of course.
+[19 minutes 33 seconds][Customer] : Thank you so much for your time and the wonderful information.
+[19 minutes 37 seconds][Agent] : That's like 9.
+[19 minutes 37 seconds][Customer] : And I really do hope you have a lovely year. Bye.
+[19 minutes 42 seconds][Agent] : Thank you so much, Steph. I hope you have a lovely year as well. And you know, you just get to do everything you want to do this year. I'm sure there's a lot that you can get done in the year, more than me at least.
+[19 minutes 52 seconds][Customer] : Oh, many years. I'm Energizer.
+[19 minutes 58 seconds][Agent] : That's great. That's perfect.
+[19 minutes 58 seconds][Customer] : I just run online.
+[20 minutes][Agent] : That's perfect. That's what you need to do. Keep that energy up and just have as much fun as you can. Perfect.
+[20 minutes 4 seconds][Customer] : Absolutely everybody that works is to always say that to me wherever I work like that. Oh my goodness. If somebody winds you up in the morning and we go.
+[20 minutes 18 seconds][Agent] : Like they wound you up and you're just ready to go, isn't it? That's good. That's the type of energy you want on the daily.
+[20 minutes 20 seconds][Customer] : Yes, yes it is.
+[20 minutes 27 seconds][Agent] : Perfect.
+[20 minutes 26 seconds][Customer] : I said, well, I'll wait to go and I'll have to talk to you again sometime.
+[20 minutes 31 seconds][Agent] : Thanks. No problem at all. Thank you. I hope you lo ha again. Have a lovely day. Bye. You have a lovely rest of your day as well. It was lovely talking to you.
+[20 minutes 31 seconds][Customer] : And thank you for your help and thank you so very much. And I, I wish the same to you.
+[20 minutes 45 seconds][Agent] : Thank you.
+[20 minutes 45 seconds][Customer] : And I'd, I'd like to say it to everyone and I just have the horrible source of our island. All those poor people over there is awful, really awful.
+[20 minutes 49 seconds][Agent] : Yes, exactly it is. It is very awful.
+[20 minutes 59 seconds][Customer] : And I don't know why Australia didn't think over Thailand to show them how to debunk.
+[21 minutes 6 seconds][Agent] : Yeah, honestly, yeah, the California flies are really bad.
+[21 minutes 6 seconds][Customer] : They weren't, they're going to check this and trailing, you know, deep holes and I don't, they didn't send me water helicopters over or anything like that.
+[21 minutes 25 seconds][Agent] : It is very sad.
+[21 minutes 22 seconds][Customer] : And yeah, I thought it was really sad, you know, because, because will you have Bush fires, you know, probably better, you know, what to do. But we're gonna watch me. It's like, where are the barriers? Where are the brakes? Where? Yeah, where there were spot fires. They should've just come and do it with a tractor and dumped it on top of it, you know, and I would have been out, but instead they just let it burn.
+[21 minutes 49 seconds][Agent] : Yeah, exactly. And a lot of people, a lot of people, especially celebrities, lost their homes as well. It's all been burnt down.
+[21 minutes 53 seconds][Customer] : So I don't know, Ah, it's awful.
+[22 minutes][Agent] : It's terrible to see there.
+[22 minutes 3 seconds][Customer] : I don't know whether it's still going or how serious it is, but you know how how bad it is. But oh, I just can't help this feel for them. Oh my gosh.
+[22 minutes 7 seconds][Agent] : Yeah, I think it's still, yeah, I think it's still going actually because I think the other day or yesterday I saw that there was a a fire torn tornado actually that happened due to the fires. It was really, it was horrible. I saw it on the news like a a clip of it and it was a tornado, but it was filled with fire just travelling through. It was really bad. Yep exactly.
+[22 minutes 31 seconds][Customer] : Yes, 'cause it sucks everything up, doesn't it?
+[22 minutes 35 seconds][Agent] : And it just kept travelling but I think it was more so where the fires were. I don't think it travelled too far down. Thank goodness it didn't do anything.
+[22 minutes 35 seconds][Customer] : Oh wow.
+[22 minutes 42 seconds][Agent] : Any major damage I would hope, but it was just still in that area where it started terrifying.
+[22 minutes 48 seconds][Customer] : Well, I actually put on my Facebook page. I said somebody just shared a thought with me and I'd like you to share a thought. Yeah, sure, this thought with other people. And hopefully if everybody keeps sharing this thought, you somebody that, you know, can do something. But the thought was about singing some of our water helicopters that weren't in use and other equipment and possibly some scene you buy a member to 1000 about, you know, building but specific doesn't burn.
+[23 minutes 30 seconds][Agent] : Yeah.
+[23 minutes 30 seconds][Customer] : You're not doing anything proactive to try and stop it, to hold it. I mean, I understand it's really traumatic.
+[23 minutes 39 seconds][Agent] : Hmm. Hmm.
+[23 minutes 38 seconds][Customer] : It really is, but we could've really helped them.
+[23 minutes 44 seconds][Agent] : They could have.
+[23 minutes 44 seconds][Customer] : I really didn't think we could have.
+[23 minutes 46 seconds][Agent] : Yeah.
+[23 minutes 46 seconds][Customer] : But yes, I, I haven't searched my Facebook or anything, but I do hope people have been cheering and thought that maybe hopefully can get to the ill someone that can do something. And maybe if it's not this, this fire, it's the next one.
+[23 minutes 58 seconds][Agent] : Yeah, exactly.
+[24 minutes 2 seconds][Customer] : But they go, you know, I was trying now we don't know what to do.
+[24 minutes 8 seconds][Agent] : I hope so.
+[24 minutes 8 seconds][Customer] : Too late for those people that.
+[24 minutes 10 seconds][Agent] : No, it is. I believe they've all evacuated, which is like the main thing. They're keeping themselves safe as well. And it's horrible. They're losing, you know, their properties and their livelihood, their their homes.
+[24 minutes 19 seconds][Customer] : It's beautiful, It really is. Yeah.
+[24 minutes 20 seconds][Agent] : But I'm sure that it's, it's the best thing that I can think of is that they're all at least safe and out of that zone. Yeah, we can wish the best.
+[24 minutes 27 seconds][Customer] : Well, they weren't really on, I guess, fortunately, but I don't know if you noticed last night they had a time on the animals that have been brought in, family pets that hadn't been taken, and there were monkeys and all sorts of things. It was ridiculous.
+[24 minutes 45 seconds][Agent] : Yeah, yes, yes, it's very strange, very strange. Dying on.
+[24 minutes 53 seconds][Customer] : They had taken Monkey with shoes that could be dangerous. Some of those.
+[24 minutes 58 seconds][Agent] : Yeah, of course. I've seen a couple of them even. I think I saw a person that actually went back for their cat, which was lovely. I mean, she was, she was ready to go back and save her cat. And she did. And she got out of there right after because it is very dangerous, those fires. You can barely breathe in it. Yeah.
+[25 minutes 14 seconds][Customer] : Well, sadly, animals don't and hide, you know, it's an instant sort of thing.
+[25 minutes 22 seconds][Agent] : Instead of wanting.
+[25 minutes 21 seconds][Customer] : And then maybe you can't find them.
+[25 minutes 24 seconds][Agent] : Yeah. Hmm. And they get out of there.
+[25 minutes 25 seconds][Customer] : But yes, I have hoped that everybody has tapped a suitcase, just a a quick suitcase with the the valuables, you know, don't want to take and take. Everybody should have a a folder with read the documents and all the rest of it and just have that in the bag and maybe a couple of sets of clothes where the animal a couple with the food for them and it off in a bowl.
+[25 minutes 34 seconds][Agent] : Hmm, exactly.
+[25 minutes 56 seconds][Customer] : You know, and you know that you know, really is all the road. It's the West burns down. It is tragic, but you know, they were told repeatedly not to build there.
+[26 minutes 10 seconds][Agent] : Hmm, yes, I know a lot of the celebrities I think didn't live in and like they just, it's a lot of private property as well. I think that's why there's an issue with like the fire brigade being able to access it because it is a gated community. A majority of those houses are in gated community. So that's why that fire spread very, very fast.
+[26 minutes 26 seconds][Customer] : Ah, Yep, Yep, ah.
+[26 minutes 34 seconds][Agent] : So it's just, it's just an ongoing issue where they're choosing to build then, you know, like it's, it's just terrible because they're doing it to themselves.
+[26 minutes 44 seconds][Customer] : Yep.
+[26 minutes 43 seconds][Agent] : You know, you're putting yourself in a high risk area surrounded by a bunch of bushes. Like I I'm not even too sure, honestly, how the fire started. Maybe it was the weather. I don't know if someone lit something, but it just, it's just got out of control.
+[26 minutes 54 seconds][Customer] : Well, they said, well, I got it, got out of control because I didn't know what to do and I didn't do the right things.
+[27 minutes 1 seconds][Agent] : Exactly, Exactly. Yeah. Yeah. MMM.
+[27 minutes 3 seconds][Customer] : But there was fire that had just, I, I think with the heat, like a piece of glass or something had started some of them, but some of them had been lit too. Why you would do that, I don't know.
+[27 minutes 21 seconds][Agent] : Yeah, it's terrible.
+[27 minutes 22 seconds][Customer] : But apparently somebody had victim. And then they reported there were riches going around, you know, the remnants of the houses of rich people looking at the jewels and silver and all that kind of stuff.
+[27 minutes 22 seconds][Agent] : MMM, that's terrible.
+[27 minutes 39 seconds][Customer] : Horrible people.
+[27 minutes 40 seconds][Agent] : Horrible.
+[27 minutes 41 seconds][Customer] : Horrible, horrible.
+[27 minutes 41 seconds][Agent] : Honestly, I don't understand how they could do something like that and try and gain something from this terrible situation.
+[27 minutes 47 seconds][Customer] : I don't either.
+[27 minutes 48 seconds][Agent] : That's horrible. Yeah, exactly. They should. Definitely. My heart's there.
+[27 minutes 48 seconds][Customer] : I thought that she'd give a triple to, you know, a really horrible power of Jackal it sounds yes. I find it all very sad. I really do.
+[28 minutes 3 seconds][Agent] : Yeah, it is. It could have. That's good. Yeah.
+[28 minutes 4 seconds][Customer] : And a lot of it could have been avoided and stopped Navy at the beach because the the helicopter just picked this stuff up some of the ocean and put it on the the beach side there, you know, but they didn't very sad, very sad. But anyway, I've just to go before you get in trouble and it must be your lunchtime.
+[28 minutes 31 seconds][Agent] : Thank you so much.
+[28 minutes 28 seconds][Customer] : So you should go and have lunch, a good healthy lunch, sitting in a shade, dancing in the sun.
+[28 minutes 37 seconds][Agent] : I would definitely not.
+[28 minutes 37 seconds][Customer] : And well, you know, I never sat in the sun either. But when I was a kid, we used to go to, I don't know where you are at the moment, but there's an island called Pete's Magro off Victoria Point.
+[28 minutes 56 seconds][Agent] : Mm, Hmm.
+[28 minutes 53 seconds][Customer] : And we used to go there a lot and then bought rock around and all that kind of thing. And there was no sun exploring when I was a kid.
+[29 minutes 5 seconds][Agent] : Wow.
+[29 minutes 5 seconds][Customer] : You know, there was zinc that she could put on, but to put it on her lips, we didn't put it on her face.
+[29 minutes 5 seconds][Agent] : Oh, oh, OK.
+[29 minutes 13 seconds][Customer] : You know, sometimes it's not silly on put like wall pants on her face, but you know it.
+[29 minutes 24 seconds][Agent] : Yeah.
+[29 minutes 21 seconds][Customer] : Nobody really took it seriously, which is sad.
+[29 minutes 25 seconds][Agent] : No, it's yeah.
+[29 minutes 26 seconds][Customer] : But as a child, yes, I do remember getting sunburn and I did something in the shade.
+[29 minutes 32 seconds][Agent] : Yeah.
+[29 minutes 32 seconds][Customer] : So me getting sunburn wasn't a big thing.
+[29 minutes 38 seconds][Agent] : Hmm.
+[29 minutes 36 seconds][Customer] : I didn't spell it out very long, but I did get sunburn, but I don't remember any on my face.
+[29 minutes 45 seconds][Agent] : Hmm.
+[29 minutes 45 seconds][Customer] : But in the shade, I literally did get sunburn in the shade. And I'm really serious when I say that.
+[29 minutes 49 seconds][Agent] : Yeah, I know there's some bent everywhere. Yeah, it is. Hmm.
+[29 minutes 52 seconds][Customer] : Yeah, but yes, it's, it's horrible, a horrible thing to have. So I very easily avoid both. If you go out of the sun, but you know, don't go around, you know how some people like to get burnt so they can really low cut dress or whatever? Yeah, Hungry, cozy. They're gonna have both. Like Lisa when I was older.
+[30 minutes 15 seconds][Agent] : Yeah, there can be more pain and everything, yeah, but that's very true because they don't protect their skin, which is terrible, very, very bad for you in the long run as well.
+[30 minutes 28 seconds][Customer] : Yes, neither that absolutely.
+[30 minutes 38 seconds][Agent] : Yeah.
+[30 minutes 33 seconds][Customer] : And the it's it's an actual burn when you get sunburnt, you know, people should take it seriously or both. Oh, well, I'll put some of these cream on, you know, and you'll get there eventually. It's just the sunburn. But it's it's not just the sunburn. No, you don't.
+[30 minutes 49 seconds][Agent] : Yeah, exactly.
+[30 minutes 54 seconds][Customer] : You could get something, you know, don't have them, you know, but yeah, just wear a hat.
+[31 minutes][Agent] : Yeah, Well, I'll make sure to take care of myself, make sure we're wearing our sunscreen. Yes. Always wearing a hat. You too as well, Debra. Always wearing a hat. Sunscreen. Keep yourself protected.
+[31 minutes 10 seconds][Customer] : Bird sitting in the shade that there's a lot of fresh hair.
+[31 minutes 14 seconds][Agent] : Exactly. Well, thank you again. It was lovely, Lovely talking to you, Deborah.
+[31 minutes 20 seconds][Customer] : Thank you.
+[31 minutes 19 seconds][Agent] : And I hope you have a lovely rest of your day. And feel free to give us a ring if you have any questions at all.
+[31 minutes 26 seconds][Customer] : I will.
+[31 minutes 25 seconds][Agent] : But thank you so much for your time. Thank you.
+[31 minutes 28 seconds][Customer] : That's OK. You go and enjoy yourself. Bye.
+[31 minutes 30 seconds][Agent] : Thank you so much, Deborah. Bye, Bye. Bye.
+[31 minutes 31 seconds][Customer] : Bye bye.

@@ -1,0 +1,86 @@
+[1 seconds][Customer] : Hello. Just speaking.
+[2 seconds][Agent] : Oh, hi, this is Ethan calling from Australian Seniors. I've got Paul who has put in an enquiry to of an expression of interest by life insurance.
+[9 seconds][Customer] : Yeah, That's that's that's my dad's. I needed to help him with it.
+[14 seconds][Agent] : Oh, oh, OK, not a problem. Well, I'm more than happy to Yeah. Either have a chat with you or your dad just to run through you know the main pictures and benefits and S some pricing.
+[24 seconds][Customer] : I'm not with him at the moment, but I can have a quick chat now. I'm I'm with my two young children, but I can have a quick chat.
+[31 seconds][Agent] : OK, not a problem. In order for me to, you know, get him approved and everything, we would need to have run through some medical questions, but that would have to be with him. So I can run through the main features and benefits with yourself just so you have an understanding of what goes into the life insurance as well, if you'd like. So there's a couple of things we'll have to go through first.
+[33 seconds][Customer] : Yeah, yeah, Yep, I'm coming with me.
+[50 seconds][Agent] : So can I just confirm your full name and date of birth please?
+[53 seconds][Customer] : Sorry, Yeah. Tess R O'Brien at Gmail. So that's my first. Sorry. Did you say e-mail? Oh, sorry.
+[58 seconds][Agent] : Yep, Yep Yep, that's alright.
+[1 minutes 7 seconds][Customer] : Oh, got it.
+[1 minutes 5 seconds][Agent] : No, but I actually do have an e-mail here so that was a good identifier.
+[1 minutes 8 seconds][Customer] : So yeah. Tess O'Brien 04/03/1990 Sure.
+[1 minutes 8 seconds][Agent] : Yep, and his date of birth as well. Fantastic. Please no.
+[1 minutes 20 seconds][Customer] : OK.
+[1 minutes 15 seconds][Agent] : All calls are recorded and your advice for providers of general nature may not be suitable to your situation, so I'll ask these questions. Just in regards to your dad, can I confirm that he is a male Australian resident?
+[1 minutes 25 seconds][Customer] : Correct.
+[1 minutes 26 seconds][Agent] : Yeah. All right. No worries.
+[1 minutes 26 seconds][Customer] : It's OK, come out.
+[1 minutes 29 seconds][Agent] : Yeah. Just so I can have a better understanding of why you and your dad were looking into life insurance. Are you guys new to this or is there something currently in place?
+[1 minutes 39 seconds][Customer] : I don't believe there's something oh, I mean you've got no, I don't think there's something currently in place.
+[1 minutes 51 seconds][Agent] : Yep.
+[1 minutes 42 seconds][Customer] : I think he's just wanting, I mean, I don't know if he would be approved or else because he does have some health issues, but he's just wanting, I think there's a bit of extra protection.
+[1 minutes 55 seconds][Agent] : Yeah, of course. Yeah.
+[1 minutes 54 seconds][Customer] : So he's got 4 kids and the wife, they own their house.
+[2 minutes 2 seconds][Agent] : Yep. Yep.
+[2 minutes 3 seconds][Customer] : But then obviously once that kind of gets split four ways or whatever, you know, there might not be as much. So I think he's just wanting an extra layer of financial protection.
+[2 minutes 9 seconds][Agent] : Oh, Yep, of course. Oh, well, that's good that all the mortgages paid off. But yeah, we've been, you know, splitting between 4 kids, there's a lot to a lot to split up.
+[2 minutes 24 seconds][Customer] : Yeah. Yeah.
+[2 minutes 24 seconds][Agent] : Yeah, alright, that's that's not a problem then.
+[2 minutes 27 seconds][Customer] : Put your shoe on, please.
+[2 minutes 28 seconds][Agent] : Well, what I'll do is just yeah.
+[2 minutes 29 seconds][Customer] : But he's got like, yeah, I mean, I can go through some of his health because I know it.
+[2 minutes 36 seconds][Agent] : That's right.
+[2 minutes 33 seconds][Customer] : But I know if we were actually to go ahead, you would have to speak to him.
+[2 minutes 39 seconds][Agent] : That's right. Yeah. With the medical questions, they are quite specific.
+[2 minutes 39 seconds][Customer] : But you don't need brushes.
+[2 minutes 43 seconds][Agent] : So even if he has some medical issues, if it's not the ones that are on the list, then yeah, it will still get covered for that.
+[2 minutes 53 seconds][Customer] : OK. Yeah.
+[2 minutes 52 seconds][Agent] : But anyways, what I'll do is just run through the main features and benefits with you. That way if you ever do need to discuss it with him, you know you've got that info as well.
+[3 minutes 1 seconds][Customer] : OK, great. There you go. No, that's OK.
+[3 minutes 1 seconds][Agent] : So seniors life insurance is designed to provide financial protection to the loved ones through a lump sum payment if your father was to pass away before his 85th birthday when the policy ends.
+[3 minutes 13 seconds][Customer] : OK.
+[3 minutes 13 seconds][Agent] : So you can choose somewhere between $10,000 up to $200,000 and nominate up to five beneficiaries to receive the nominated benefit amount.
+[3 minutes 19 seconds][Customer] : OK, OK.
+[3 minutes 22 seconds][Agent] : Now, if death is due to an accident, the choice of benefit amount will triple and will also include an advance payment of 20% of the benefit amounts held with funeral costs or any other final expenses at the time. Now it's really easy to apply. We just asked the eight yes or no questions relating to the health over the phone to see if he has approved. If accepted and once he commences the policy, he'll be covered immediately for death due to any cause except for suicide in the 1st 13 months.
+[3 minutes 34 seconds][Customer] : OK, OK, OK.
+[3 minutes 51 seconds][Agent] : Now, in addition, and knock on wood that this number has to apply, but there is a terminally ill advanced payment as well included in the cover.
+[3 minutes 59 seconds][Customer] : OK, OK. Where we stop?
+[3 minutes 59 seconds][Agent] : So if he were diagnosed with 24 months or less to live by a specialized medical practitioner, we can pay that benefit amount in full while he is still alive to help with medical costs to ensure, you know, he receives the best care possible.
+[4 minutes 12 seconds][Customer] : OK, great. And how to and if he was approved, what would be is it like a weekly amount, a monthly amount?
+[4 minutes 18 seconds][Agent] : Yeah, Yeah, sure. So that would be, you can go fortnightly, monthly or annually.
+[4 minutes 22 seconds][Customer] : What's the OK? Yeah, that would be great.
+[4 minutes 27 seconds][Agent] : I can run through some quotes with you just to give you a bit of an idea of how much that would be. Bear with me one SEC. And Oh yes, yeah, he is an Australian resident. So the first question just to that will make an adjustment to the premium is has your father had a cigarette in the last 12 months? No. OK. Now keep in mind this is probably an indicative quote until we actually do talk to your dad and run through the medical questions.
+[4 minutes 33 seconds][Customer] : Yeah, no, yeah, of course.
+[5 minutes 2 seconds][Agent] : But just to give you a rough idea. So the cover ranges from $10,000 up to $200,000. We can have a look at different amounts until we do find the right level of cover. Where would you like me to start with that one cheaper side?
+[5 minutes 15 seconds][Customer] : The on the cheaper side, yeah.
+[5 minutes 18 seconds][Agent] : So in terms of how much we'd like to leave behind, we can go somewhere like well U up to you, but what uh from 10,000 up to 200 cheapest side anywhere between 10,100 thousand. What do you think would be suitable?
+[5 minutes 35 seconds][Customer] : WH what about the what? The most expensive? So what 2 Hun, you said 200,000.
+[5 minutes 40 seconds][Agent] : Yeah, well, yeah, we can, we can actually restaurant through a bunch of different ones just so we find the right level of color.
+[5 minutes 44 seconds][Customer] : Yeah, that would be great. Yeah.
+[5 minutes 46 seconds][Agent] : Uh, so 200,000 fortnightly premium and I can adjust that to monthly or annually. Fortnightly premium is $573.53.
+[5 minutes 55 seconds][Customer] : OK, OK. Yeah. OK. OK. I know your plants are wet, darling. They're not that wet. It's OK. Sorry. So 549, So 1000 a month. Yeah.
+[6 minutes 5 seconds][Agent] : So roughly it's yeah, 573 a fortnight. I can. The monthly premium is $1242.66.
+[6 minutes 22 seconds][Customer] : OK, OK. That's just fair bit of money, isn't it?
+[6 minutes 27 seconds][Agent] : Well, we can lower that low.
+[6 minutes 26 seconds][Customer] : Because my dad's on the pension.
+[6 minutes 30 seconds][Agent] : Yeah, well, that's right.
+[6 minutes 34 seconds][Customer] : Let me stay here.
+[6 minutes 31 seconds][Agent] : It's it's about finding something that is, you know, affordable but but yeah, and that's not going to affect, you know, his current lifestyle at the moment as well.
+[6 minutes 42 seconds][Customer] : Yeah, Yes, yes, sure.
+[6 minutes 41 seconds][Agent] : So if we were to drop that down, maybe looking at 100,000, do you think that would be, just to give you an idea, probably it's just gonna hold it, but yeah, $286.77 per fortnight.
+[6 minutes 53 seconds][Customer] : OK for 100,000.
+[6 minutes 54 seconds][Agent] : And then let's just say for 100,000 and then going halfway from there down to the 50, looking at $143.38 per fortnight.
+[6 minutes 59 seconds][Customer] : OK, OK, OK.
+[7 minutes 9 seconds][Agent] : In terms of, umm, affordability for your father, what do you think would be, you know, uh, somewhere within his budget for that?
+[7 minutes 18 seconds][Customer] : Umm, umm, well done it probably only about I suppose you would only have about maybe 300 a month to spend.
+[7 minutes 28 seconds][Agent] : Yeah, OK, let's let me change that to the monthly premium just so it's a bit easier to work out because if you've only got 300 a month to spend, you know, you wouldn't want all the money to go towards, you know, the life insurance.
+[7 minutes 28 seconds][Customer] : Umm yeah. So, so do you mind if I call you back?
+[7 minutes 43 seconds][Agent] : But yeah, of course, I don't know if the number that I've called you on actually is a return number. I can give you a call back in when it's merciful for you. Maybe like what, 10-15 minutes?
+[7 minutes 45 seconds][Customer] : Sorry, I'm just arrived at at childcare and age just to get my son settled in about 15 minutes.
+[8 minutes][Agent] : Yeah, easy. No worries. Alright, cool.
+[8 minutes 1 seconds][Customer] : OK, OK, thank you so much.
+[8 minutes 4 seconds][Agent] : All good. Cheers, Seth.
+[8 minutes 4 seconds][Customer] : Bye.
+[8 minutes 5 seconds][Agent] : Bye.

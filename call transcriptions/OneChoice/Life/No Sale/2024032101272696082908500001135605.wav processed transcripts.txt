@@ -1,0 +1,229 @@
+[2 seconds][Agent] : Hello. Hi. Hi.
+[4 seconds][Customer] : Hello, Christopher, How are you?
+[6 seconds][Agent] : I'm good. Thanks. How are you?
+[9 seconds][Customer] : I'm very well. Thank you. Alright, So I do have a potential sale for you. So this customer, I'm not too sure if I want to get into the lead so it can jump out.
+[19 seconds][Agent] : OK, OK.
+[21 seconds][Customer] : OK Yeah. So he wants to set up funeral cover for his son. So I've given him the criteria like I have to be a fully delayed. So he wants to set it up now funeral cover for his kids.
+[35 seconds][Agent] : OK, so OK, so I didn't have to really jump into his lead. I can just.
+[34 seconds][Customer] : OK so, OK, so I didn't have to really jump smoothly.
+[39 seconds][Agent] : I have to make a lead for his kids.
+[40 seconds][Customer] : I have to make a lead for you. Yeah, you can.
+[43 seconds][Agent] : OK. Yeah, of course.
+[43 seconds][Customer] : I'm not too sure what your processes are.
+[45 seconds][Agent] : Yeah.
+[45 seconds][Customer] : Mm Hmm.
+[45 seconds][Agent] : Yeah, yeah, yeah, yeah. No worries.
+[46 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[46 seconds][Agent] : No worries.
+[47 seconds][Customer] : Alright. Sorry.
+[47 seconds][Agent] : So you've confirmed. Oh, it doesn't matter. I'll confirm everything again with him and you're on the flight there and the ages of the children. Did you have any catch what the ages were?
+[48 seconds][Customer] : Umm, so you umm the no that's OK, but I'll have them the full ID Well that was 17. He said no 18 and 21. He said one of them was 8, so I told him that has to be a legal age to have the policy set up for them. So he's aware.
+[1 minutes 10 seconds][Agent] : OK, OK, no worries.
+[1 minutes 14 seconds][Customer] : OK, now you can Hello.
+[1 minutes 13 seconds][Agent] : And I'm you can hi, umm it.
+[1 minutes 18 seconds][Customer] : OK, perfect. Cool. You they Sorry. OK, both of you have a good day. Bye for now. Bye. Bye.
+[1 minutes 23 seconds][Agent] : Hi. Hi.
+[1 minutes 23 seconds][Customer] : Thanks. Goodbye.
+[1 minutes 24 seconds][Agent] : Hi, Phil, it's Chris. I'm from One Choice.
+[1 minutes 27 seconds][Customer] : Yeah.
+[1 minutes 27 seconds][Agent] : How are you?
+[1 minutes 27 seconds][Customer] : Goodbye. Good. Thank you.
+[1 minutes 29 seconds][Agent] : That's good. Just so I can make sure I I've told you this. I just have to let you know that all calls recorded.
+[1 minutes 36 seconds][Customer] : Yep. Yep.
+[1 minutes 35 seconds][Agent] : Any advice providers limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. OK. So could I just my colleagues mentioned that you're looking to get insurance for your children. Yeah. OK.
+[1 minutes 50 seconds][Customer] : Most definitely because they're saying that one is bloody irresponsible. So join, do it so and I don't get named the bloody dog little I'm going through the nightmare of you know what I mean?
+[2 minutes 1 seconds][Agent] : OK, I I understand. Yeah.
+[2 minutes 2 seconds][Customer] : Yep.
+[2 minutes 3 seconds][Agent] : I'm sorry. Could I just grab one of the son's first names, please? Jayden.
+[2 minutes 7 seconds][Customer] : OK, My son is Jayden the Indian. Yep.
+[2 minutes 14 seconds][Agent] : And then the last name. Sorry. Yep.
+[2 minutes 13 seconds][Customer] : Jayden Kingsford KING, is it? Oh, I did.
+[2 minutes 20 seconds][Agent] : OK, Thank you. And then his date of birth please.
+[2 minutes 22 seconds][Customer] : His date of birth. You guessed something. We could we 12th of July, 2005. Sorry, 2015. Sorry, 215. He's 8.
+[2 minutes 31 seconds][Agent] : 12th of July 2005, OK, 02/15. OK.
+[2 minutes 37 seconds][Customer] : Yep.
+[2 minutes 37 seconds][Agent] : So from what I understand, my colleague mentioned to you that there's an age criteria for this insurance.
+[2 minutes 50 seconds][Customer] : So what?
+[2 minutes 45 seconds][Agent] : So it's from 16 to 79, I believe.
+[2 minutes 50 seconds][Customer] : So yeah.
+[2 minutes 51 seconds][Agent] : Yeah, yeah. So I'll be unable to to do Jayden for you today.
+[2 minutes 52 seconds][Customer] : OK, OK, OK, well, I'll leave him out, but I'll go. I'll go. I'll find something else that will cover him, but I'll do the other. I'll do another. The three girls.
+[3 minutes 2 seconds][Agent] : OK. So so it was actually 18 and 79. Yeah. OK.
+[3 minutes 7 seconds][Customer] : OK, so I'll do the two girls.
+[3 minutes 9 seconds][Agent] : Yeah, my apologies.
+[3 minutes 9 seconds][Customer] : So yeah, Yeah, I'll go for another. I'll go for another. Insurance Center for that.
+[3 minutes 10 seconds][Agent] : Yeah, yeah, yeah.
+[3 minutes 12 seconds][Customer] : OK, OK. I'll do the first two. Yeah. 2 girls. Tiana Rose.
+[3 minutes 20 seconds][Agent] : TINATIN.
+[3 minutes 17 seconds][Customer] : Tatiana T. Yeah. Tao. Sorry. Yeah. Tiana.
+[3 minutes 29 seconds][Agent] : Yeah, TIANA.
+[3 minutes 30 seconds][Customer] : Yeah, that's right.
+[3 minutes 32 seconds][Agent] : OK.
+[3 minutes 32 seconds][Customer] : Sorry.
+[3 minutes 32 seconds][Agent] : Thank you.
+[3 minutes 33 seconds][Customer] : Hang on. Yeah, Tia, you know.
+[3 minutes 37 seconds][Agent] : And and it's Kingsford as well. And then the date of birth please.
+[3 minutes 35 seconds][Customer] : Yeah, thanks for that as well. Her date of birth is. Oh, my God. ****. Hang on. That's what my comment's out of this. Come on. Don't see that often. It's gone. It's the birthday. It's the 2nd of July, isn't it? Yeah. Thank you. 22nd of July 2001.
+[4 minutes 2 seconds][Agent] : 22nd of July 2001. OK, thank you. And can I confirm that she is a female New Zealand resident currently residing in New Zealand? OK.
+[4 minutes 9 seconds][Customer] : G is, G is.
+[4 minutes 11 seconds][Agent] : OK, thank you. OK, OK. And then now an e-mail on the policy please.
+[4 minutes 23 seconds][Customer] : That'll be my e-mail, lisaandpaul@outlook.co dot NZ dot NZ. That's correct.
+[4 minutes 25 seconds][Agent] : OK, so Lisa import at outlook.co.nzalrightandthenlisaitslisaandthenitsandpaul@outlook.co dot NZ.
+[4 minutes 41 seconds][Customer] : That's correct. Yep.
+[4 minutes 41 seconds][Agent] : Alright, thank you. And the number on the policy, is that the one you're ringing from now?
+[4 minutes 47 seconds][Customer] : Yeah, Miles possibly, yes.
+[4 minutes 50 seconds][Agent] : OK, 0284065982.
+[4 minutes 50 seconds][Customer] : Yeah, 65983.
+[4 minutes 59 seconds][Agent] : OK, thank you. OK, so I've got those details for you And now before I go through pricing, I'll just read you some information I need to to let you know.
+[5 minutes 8 seconds][Customer] : So I need to do another. I need, I need to have my other as well, my other daughter as well.
+[5 minutes 12 seconds][Agent] : OK. Yeah.
+[5 minutes 13 seconds][Customer] : Yeah, Yep.
+[5 minutes 13 seconds][Agent] : Umm, so we have to be individual policies for for each of them. Yeah, yeah. So umm, so for the 1st for Tiana, for the 1st 12 months, you'll be covered for accidental death and accidental serious injury only after the first 12 months, you'll be covered for death due to any cause. In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to live by a medical practitioner, we pay your benefit amount to you in full.
+[5 minutes 27 seconds][Customer] : Yep, Yep, Yep.
+[5 minutes 46 seconds][Agent] : And regarding the premium, so you can choose between a minimum of $3000 and a maximum of $30,000 of cover. So how much cover would you like me to quote you for?
+[5 minutes 57 seconds][Customer] : I think that's 12,000 actually, because dental funerals cost roughly about that between 10:00 and 12:00.
+[6 minutes 2 seconds][Agent] : OK, OK, So we can do 12,000, so $12,000 of funeral cover, you'd be looking at a fortnightly premium of $10.45.
+[6 minutes 16 seconds][Customer] : That's fine.
+[6 minutes 17 seconds][Agent] : OK, and that's per fortnight. OK, thanks. Now for your premiums, your premiums are level, which means they're designed to stay consistent year on year. And when you reach the age of 85, your premiums will cease, which means you will stop paying premiums and a 25% bonus cover will be automatically added to your benefit amount. Also, at any time after your 85th birthday, you will have an early cash out option where you can choose to end your cover and we will pay you 75% of the funeral insurance benefit. OK, now for this question. Can I please confirm you're authorized to disclose this? No, sorry. Can I please confirm you're authorized to purchase this policy on behalf of the insured?
+[6 minutes 19 seconds][Customer] : Yep, Yep, Yep.
+[6 minutes 58 seconds][Agent] : OK, thank you.
+[6 minutes 58 seconds][Customer] : She didn't get sponsor one, but I'll type her.
+[7 minutes][Agent] : All right, now you may OK, thank you.
+[7 minutes 4 seconds][Customer] : Yeah, that's fine.
+[7 minutes 5 seconds][Agent] : And you may pay more in total premiums over the life of the policy than the benefit amount.
+[7 minutes 10 seconds][Customer] : Yeah.
+[7 minutes 10 seconds][Agent] : Please be aware this insurance does not have a savings or investment element. So if you cancel outside of the 30 days, your cover will stop and you will not receive anything back.
+[7 minutes 16 seconds][Customer] : Yeah, that. That's fine. Yeah.
+[7 minutes 18 seconds][Agent] : OK, OK, no worries.
+[7 minutes 24 seconds][Customer] : Let's take a moment. Yeah. Be the same, the same. Be the same as my address carrying on my policies.
+[7 minutes 22 seconds][Agent] : Now for the, uh, the no, it's now for the home address just so I have to put the ad the the address for for yes.
+[7 minutes 34 seconds][Customer] : She's got.
+[7 minutes 33 seconds][Agent] : So, uh, I don't, I just umm, I I can't jump in and out.
+[7 minutes 34 seconds][Customer] : Yeah, OK. Yeah, yeah, yeah.
+[7 minutes 37 seconds][Agent] : So what I'll do is I'll put it down for here and I'll put it to the side.
+[7 minutes 39 seconds][Customer] : 12 Yeah, yeah. 12 Tibble, Chris, Newlands, Wellington.
+[7 minutes 40 seconds][Agent] : Yeah, 12 Sorry.
+[7 minutes 47 seconds][Customer] : Tibble, Yeah. TURBILLE, Chris.
+[7 minutes 47 seconds][Agent] : Could you spell the toodle TUR? Yeah. OK.
+[7 minutes 53 seconds][Customer] : Newlands, Wellington Ville.
+[8 minutes 8 seconds][Agent] : Oh, there's an E at the end. That's why it didn't come up. Well, it's not coming up either way. OK. On the post code. So what was the post code?
+[8 minutes 15 seconds][Customer] : That's 037.
+[8 minutes 16 seconds][Agent] : 6037. And you said it was Newlands.
+[8 minutes 21 seconds][Customer] : That's me, Owens.
+[8 minutes 22 seconds][Agent] : Yeah. So it's not coming up. OK. Oh, no. Oh, Terville. Oh, my apologies.
+[8 minutes 28 seconds][Customer] : OK, 3 of it.
+[8 minutes 30 seconds][Agent] : Terville present. OK, and that's also the postal address.
+[8 minutes 31 seconds][Customer] : Yes, Yes it is.
+[8 minutes 39 seconds][Agent] : OK, thank you. And just to confirm is that that's yours and that's Tiana's as well.
+[8 minutes 46 seconds][Customer] : No, piano's a board, and that was basically floating around walleting somewhere.
+[8 minutes 52 seconds][Agent] : OK, OK. Umm, so? So if she was to so she doesn't live there with you at all.
+[9 minutes][Customer] : No, doesn't look here, but I need to cover it because I'm not going to get labeled stuck with a huge bill afterwards.
+[9 minutes 6 seconds][Agent] : OK. OK.
+[9 minutes 11 seconds][Customer] : There'll be this address in the meantime.
+[9 minutes 7 seconds][Agent] : So for her home address while we need OK. And then with the postal address, does she get a mail still sent there?
+[9 minutes 12 seconds][Customer] : Yeah, she does.
+[9 minutes 18 seconds][Agent] : OK, OK, no worries. Alright. So the way it works, I know you want to dump to the other, umm, other children now, but I'd have to set up each of them as we go.
+[9 minutes 34 seconds][Customer] : Yep, that's fine.
+[9 minutes 33 seconds][Agent] : So I have to finish Tiana first? Yeah. OK.
+[9 minutes 34 seconds][Customer] : Yep, Yep, that's fine.
+[9 minutes 40 seconds][Agent] : OK, so now you can select a payment date that best suits you. We generally collect payment within the next 7 days, but when is most suitable for you?
+[9 minutes 37 seconds][Customer] : Yep, next week.
+[9 minutes 51 seconds][Agent] : OK, So I can do on the 22nd, OK, 22nd and that's a Friday and it'd be every fortnight from there on. And then we can, we can set up the policy with either a card number or an account number.
+[9 minutes 53 seconds][Customer] : Next week, Yep, Yep, got.
+[10 minutes 5 seconds][Agent] : So what would you prefer to to pay with card? OK, no worries. Before you provide me with that, I'll just have to pause the recording. I'll let you know when the recording is paused.
+[10 minutes 9 seconds][Customer] : Yep, Yep, Yep.
+[10 minutes 15 seconds][Agent] : So for security purposes, while obtaining your card details, the core recording will stop and we'll recommend after we have collected your details, OK. None. None. Been registered successfully. It's now for Tiana. What I have to do now is before I do that, sorry.
+[11 minutes 46 seconds][Customer] : Yep.
+[11 minutes 44 seconds][Agent] : I pleased to advise that the call recording has now resumed for quality and monitoring purposes, umm, for Tiana. What I'll do now is read the final declaration. But before I can get to that, I just have to check something with my manager just for one moment, and I'll be right back. OK?
+[11 minutes 55 seconds][Customer] : Yep, this one. Yep.
+[11 minutes 57 seconds][Agent] : OK. Thank you. OK. Thank you very much for holding Paul.
+[14 minutes 18 seconds][Customer] : All good.
+[14 minutes 18 seconds][Agent] : I just have to clarify a couple of things. But now I can do for Tiana's policy is read that final declaration, then we can move on to the the next policy. So thank you. It's going to have Tiana's name in this. So thank you.
+[14 minutes 26 seconds][Customer] : Yeah, Yeah.
+[14 minutes 30 seconds][Agent] : Tiana Kingsford. It is important to understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless we agree to these terms in full. One choice funeral insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and NZ Limited, whom I refer to as GFS to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice you have provided to you is limited to assisting you to make a decision about whether one choice for your insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this Yes or no?
+[15 minutes 33 seconds][Customer] : Yes.
+[15 minutes 34 seconds][Agent] : Thank you. Your answer to the application questions in any related documents on the basis of your contract with Insurance and Pinnacle relies upon the information you have provided when assessing your application. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with Pinnacle, our related companies, including those located in Australia, and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy, which can be accessed on our website, tells you more, including how to access and correct your information. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By agreeing to the declaration, you can send to allow boss to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us or by using any unsubscribe facility on communications we send you. You have agreed to take out a single one choice for new insurance policy with the following cover. Gianna Kingsford is covered for $12,000 in the event of debt death. In the case where death is accidental or if you suffer defined accidental serious injury, the benefit amount will triple in the 1st 12 months your policy is in force. A death benefit is paid only in the event of accidental death. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum of 75% of the chosen benefit amount. If you take up this offer, you will no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. It's covered and prior to age 85, no benefit is payable and there is no refund of premiums after the cooling off. If you choose to retain cover beyond age 85, you'll be entitled to an additional 25% of bonus cover from that date and you'll not be required to pay any further premiums after the life insurance 85th birthday. The bonus cover is not payable if you take the early cash out option cover. For each life insurance end of the day prior to their 100th birthday, we will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for the first year of cover is $10.45 per fortnight. Your premiums are level, which means they're designed to stay consistent year on year and will only change the fuel to your cover or the insurer adjust the premium rates applying to your policy. The insurer can only make the change if it is applied consistently across all policy holders. You may pay more in premiums than the benefit amount over the life of the policy. Included in your premium is an amount payable to GFS of between 36% and 61% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. AM Best has rated Pinnacle with AB Plus financial strength Good and Triple B Minus issue our credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you by mail and if you have provided provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key factsheet which outlines key aspects of your cover in plain language. You should carefully consider these documents to ensure the product you met your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged the claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact your first on 0800005804 or e-mail support@onechoice.co dot NZ. Do you understand and agree the declaration? I've just read you yes or no? Thank you. And the last question for this application is would you like any other information about the insurance now or would you like me to read any part of the policy document to you? Yes or no?
+[19 minutes 3 seconds][Customer] : Yes, yes, just send it out in the mail.
+[19 minutes 17 seconds][Agent] : I'm sorry.
+[19 minutes 19 seconds][Customer] : Yeah, I understand it. Yep, Yep.
+[19 minutes 21 seconds][Agent] : OK, so, so sorry. So the question was I'm just to clarify, would you like any other information about the insurance now or would you like me to read any part of the policy document to you? OK, thank you. OK, so I accept that for you. And that will be sent out via e-mail as well as the other policies you set out. And it will also be sent out via post usually within 5 to 10 business days. OK, So that that was just being submitted. It's taking, it's taking a bit. Apparently while that's loading, I'm going to have to put your note, your details in the notes for each of these profiles.
+[19 minutes 32 seconds][Customer] : No, Yep, that's fine.
+[19 minutes 58 seconds][Agent] : So I've got Paul Kingsford, can I just grab your date of birth please?
+[20 minutes][Customer] : Yep, 29th of August 1972.
+[20 minutes 5 seconds][Agent] : 29th of August 1972.
+[20 minutes 11 seconds][Customer] : Same as Yep 12/2 or quiz.
+[20 minutes 9 seconds][Agent] : And your home address is the same and 12 turtle cres. Yep. And your number is the the one you're ringing us.
+[20 minutes 20 seconds][Customer] : That's correct.
+[20 minutes 21 seconds][Agent] : OK. OK. Thank you. I'm going to have these all on the side so I don't have to ask you every time.
+[20 minutes 31 seconds][Customer] : Yeah, no, it's fine. Yep, Yep.
+[20 minutes 31 seconds][Agent] : So, yeah, OK, so that's the one completed. I'm just going to move to the next one for you. OK, Alright. OK, now for the next one for you. What was the next one's name, please?
+[20 minutes 59 seconds][Customer] : The next one is Alyssa. Alyssa, Michelle.
+[21 minutes 2 seconds][Agent] : OK, So it's a what is it?
+[21 minutes 4 seconds][Customer] : Alyssa.
+[21 minutes 7 seconds][Agent] : Yep. And you said Michelle. Michelle.
+[21 minutes 11 seconds][Customer] : That's correct.
+[21 minutes 12 seconds][Agent] : And then surname is Kingsford, is that correct?
+[21 minutes 14 seconds][Customer] : That's correct.
+[21 minutes 14 seconds][Agent] : Yeah. Thank you. And date of birth, please, 2020, fourth of the 12th, 2002. And can I confirm that she is a female New Zealand resident currently residing in New Zealand?
+[21 minutes 18 seconds][Customer] : Date of birth is the 24th of the 12th, 2000 and 12, correct?
+[21 minutes 30 seconds][Agent] : Yep. Thank you. OK.
+[21 minutes 30 seconds][Customer] : Yes, same thing. That's correct.
+[21 minutes 37 seconds][Agent] : And the and the e-mail was lisaandpaul@outlook.co dot NZ. OK, OK. OK. So now for this policy, it's the same as the the details I'll be going through is the same as the other policies.
+[22 minutes 6 seconds][Customer] : Yep.
+[22 minutes 5 seconds][Agent] : So would you like me to go through it again or not?
+[22 minutes 8 seconds][Customer] : No, it'll be the. It'll be the same thing as well.
+[22 minutes 8 seconds][Agent] : OK, Yes. So what I just what I just told you.
+[22 minutes 10 seconds][Customer] : Yeah, yeah, yeah, that's fine.
+[22 minutes 14 seconds][Agent] : Yeah, it'll be the same as what I just went through with you for Tiana, for this. I still have to ask, can I please confirm you authorized this purs authorized to purchase this policy on behalf of the insured.
+[22 minutes 17 seconds][Customer] : Yeah, yes.
+[22 minutes 26 seconds][Agent] : OK, Thank you. OK. And it it's the same 3000 to 30,000 were looking, were you looking for the same amount or another amount?
+[22 minutes 34 seconds][Customer] : Same way up. Yeah, 12,000 plus.
+[22 minutes 35 seconds][Agent] : Same amount, 12,000 Thank you. So that's $9.79 per fortnight. OK. And now it's going to ask the address, but I've got that here still. So it's 6037.
+[22 minutes 36 seconds][Customer] : Yeah, she had moving out of home, unfortunately. She's a mama's girl.
+[22 minutes 56 seconds][Agent] : So sorry, just to clarify, it is 1212 Crescent for for Alice and Michelle Azar.
+[23 minutes][Customer] : Yeah, that is her. Yeah, yeah, yeah.
+[23 minutes 1 seconds][Agent] : OK, so that's her home address and her postal address. OK, thank you.
+[23 minutes 5 seconds][Customer] : Yes, it is your mama's girl, that one.
+[23 minutes 10 seconds][Agent] : OK, thank you. And for the payment day, again, you can pick a day what you prefer.
+[23 minutes 18 seconds][Customer] : Yeah.
+[23 minutes 18 seconds][Agent] : We use we generally collect.
+[23 minutes 22 seconds][Customer] : Umm, not next week, Week after.
+[23 minutes 24 seconds][Agent] : OK, yeah. So we can do the 29th. Yeah.
+[23 minutes 26 seconds][Customer] : Yeah, yeah.
+[23 minutes 32 seconds][Agent] : OK.
+[23 minutes 43 seconds][Customer] : That's fine. That's fine.
+[23 minutes 32 seconds][Agent] : So for that, since it's after her birthday, it's actually changed the price to $10.11 per fortnight since we've selected a payment date with after her birthday.
+[23 minutes 44 seconds][Customer] : Yeah, Yeah, that's fine.
+[23 minutes 44 seconds][Agent] : OK, OK, OK, no worries. So now for the payment, we look to pay with card again. OK, thank you. I'll just let you know when I'm able to get that from you.
+[23 minutes 54 seconds][Customer] : Yeah, yeah. No problem.
+[23 minutes 57 seconds][Agent] : For security purposes while obtaining your card details, the full recording will stop and we'll recommend after we have collected your details. Successfully and now even though I've read this to you before, I have to read the final declaration again.
+[25 minutes 26 seconds][Customer] : Yeah, that's fine.
+[25 minutes 26 seconds][Agent] : Please be advised that the call recording has now resumed for quality and monitoring purposes. So I'll just read that final declaration for you again and if you have any questions throughout, let me know. So thank you, Alyssa. Michelle Kingsford, it is important to understand the following information. I will ask to agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice for new insurance is issued by Pinnacle Life Insurance Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and Z Limited, whom I refer to as GFS, to issue and arrange this insurance on it's behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice they provided to you is limited to assisting you to make a decision about whether one choice for your insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered the specific financial needs or goals or considered any other insurers, products or services. We're verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this Yes or no?
+[26 minutes 41 seconds][Customer] : Yes.
+[26 minutes 42 seconds][Agent] : Thank you. Your answer to the application questions and any related documents from the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with Pinnacle, our related companies, including those located in Australia, and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy, which can be accessed on our website, tells you more, including how to access and correct your information. We may may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you can send to allow Last to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us or by using any unsubscribed facility on communications we send you. You have agreed to take out a single one choice funeral insurance policy with the following cover. Alyssa Michelle Kingsford is covered for $12,000 in the event of death. In the case where death is accidental or if you suffer defiant accidental serious injury, the benefit amount will triple in the 1st 12 months your policy is enforced. The death benefit is paid only in the event of accidental death. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum of 75% of the chosen benefit amount. If you take up this offer, you will know no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. If cover ends prior to age 85, no benefit is payable and there is no refund or premiums after the cooling off. If you choose to retain cover beyond age 85, you'll be entitled to an additional 25% of bonus cover from that day and you'll not be required to pay any further premiums after the life insurance 85th birthday. The bonus cover is not payable if you take the early cash out option cover. For each life insurance end of the day prior to their 100th birthday, we will pay the funeral benefit and bonus cover for the life insured. At this point your total premium for the first year of cover is $10.11 per fortnight. Your premiums are level, which means they're designed to stay consistent year on year and will only change if you'll do your cover or the insurer adjust the premium rates applying to your policy. Insurer can only make a change if it's applied consistently across all policy holders. You may pay more in premiums than the benefit amount over the life of the policy. Including in your premium is the amount payable to GFS of between 36% and 61% of each premium to cover the distribution costs for this policy. Your premium will be deducted in accordance with the authority you have provided to us. AM Best is rated Pinnacle with AB plus financial strength good and Triple B minus issue a credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via mail and if you have provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key fact sheet which outlines key aspects of your cover in plain language. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GFS 10800005804 or e-mail support@onechoice.co dot NZ. Do you understand and agree the declaration? I've just read you yes or no?
+[30 minutes 1 seconds][Customer] : Yes.
+[30 minutes 2 seconds][Agent] : Thank you. And would you like any other information about the insurance? Now would you like me to read any part of the policy document to you, yes or no?
+[30 minutes 9 seconds][Customer] : No.
+[30 minutes 10 seconds][Agent] : OK, thank you. OK, so I'll take that for you again and the details I've got already. So that's that's fine. I'll just have to copy that in there. OK. OK.
+[30 minutes 35 seconds][Customer] : All good.
+[30 minutes 31 seconds][Agent] : So that's that's all sorted for Alyssa. OK.
+[30 minutes 36 seconds][Customer] : Yeah. Ah, no, she's Steven Teen at the moment, so she wouldn't qualify for your 18.
+[30 minutes 37 seconds][Agent] : And now was there another one or was that was that both of them or OK?
+[30 minutes 44 seconds][Customer] : So I'll probably do it until next year, but I'll probably find another insurance company. Don't tell her at the mean time.
+[30 minutes 50 seconds][Agent] : Yeah, OK. OK, no worries.
+[30 minutes 49 seconds][Customer] : So, yeah, thank you.
+[30 minutes 51 seconds][Agent] : Well, it was my it was my pleasure assisting you and your documentation will arrive in the e-mail and in the post.
+[30 minutes 58 seconds][Customer] : Yeah.
+[30 minutes 57 seconds][Agent] : And if you have any questions throughout, you can always give us a ring.
+[31 minutes][Customer] : Yeah. Not a problem.
+[31 minutes 1 seconds][Agent] : Alright.
+[31 minutes 1 seconds][Customer] : OK. Thank you.
+[31 minutes 2 seconds][Agent] : Thanks Paul. Have your day re rest of your day.
+[31 minutes 3 seconds][Customer] : Have a good weekend.
+[31 minutes 4 seconds][Agent] : You too. You too.
+[31 minutes 5 seconds][Customer] : You too.
+[31 minutes 5 seconds][Agent] : Thank you.
+[31 minutes 5 seconds][Customer] : Thank you.
+[31 minutes 5 seconds][Agent] : Thank you.
+[31 minutes 6 seconds][Customer] : Bye. Bye.
+[31 minutes 7 seconds][Agent] : Bye. Bye.

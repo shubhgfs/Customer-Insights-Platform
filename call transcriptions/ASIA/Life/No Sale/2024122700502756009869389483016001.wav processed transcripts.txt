@@ -1,0 +1,149 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hello, good morning. My name is Maggie. I'm calling from Australian Seniors Insurance. Is that Susan?
+[6 seconds][Customer] : Oh, that was quick.
+[8 seconds][Agent] : Yeah, just come back pretty quick. I'm giving you a call. Thank you. You made some enquiries online there in regards to life insurance. Thank you. More than happy.
+[16 seconds][Customer] : Yep, they're gone. Sorry.
+[21 seconds][Agent] : Well and happy to help you with that. Umm, before I go any further though, my name is Maggie. All calls are recorded. Any advice I'm providing is generally in nature and may not be suitable to your situation. Is it Suzanne Sweetman I'm speaking with?
+[33 seconds][Customer] : That's right. That's right.
+[34 seconds][Agent] : Thank you, thank you. Umm, let me have a look here for you and I've got your date of birth is the 5th of the 1st 1949.
+[42 seconds][Customer] : Yep, that's right.
+[43 seconds][Agent] : And are you a female Australian resident as well?
+[46 seconds][Customer] : That's right.
+[47 seconds][Agent] : OK. Thank you. Thank you. You sound a lot younger than 75. My goodness.
+[52 seconds][Customer] : What?
+[53 seconds][Agent] : Yeah.
+[53 seconds][Customer] : Oh, great.
+[53 seconds][Agent] : You you do, Susan. You do. You do. I would. I'm. I'm not being silly. You actually do.
+[54 seconds][Customer] : Oh good, I'm not the perfect.
+[59 seconds][Agent] : So I wanted, I wanted to ask you, umm, no, you don't sound that way. And can I confirm? Sorry, just so I may have already asked you, are you a female Australian resident? Can I confirm that you are a female Australian resident?
+[1 minutes 9 seconds][Customer] : Yes, that's right.
+[1 minutes 12 seconds][Agent] : Yep, thank you. So Susan, with a life insurance, we've actually signed a life insurance for our seniors so that you can have it in your senior years, allowing you to leave something behind for your family at this stage in life. OK now umm, it's something that's very easy to apply for because we only ask you 8 questions in relation to your health, so you can have a number of different medical conditions to be eligible for this one. Umm, but what made you decide to look at the cover?
+[1 minutes 13 seconds][Customer] : Yes, Yep, just an ad.
+[1 minutes 40 seconds][Agent] : What prompted your inquiry and add?
+[1 minutes 45 seconds][Customer] : An ad that came up on my phone.
+[1 minutes 45 seconds][Agent] : Yeah, alright, OK, So what made you decide to do something about that? Have you got family or loved ones you'd leave something behind? For? What? What's your situation?
+[1 minutes 55 seconds][Customer] : Yes, at the moment, at the moment I think the charge in as much as we're moving, but within the next 6 months to NSW to be closer to my family.
+[1 minutes 56 seconds][Agent] : Hmm, right.
+[2 minutes 9 seconds][Customer] : But I'm I'm probably not in the financial situation to do it before I move.
+[2 minutes 16 seconds][Agent] : Hmm, that's OK.
+[2 minutes 16 seconds][Customer] : So I just want to make enquiries more than anything.
+[2 minutes 19 seconds][Agent] : That's alright.
+[2 minutes 20 seconds][Customer] : And is there an age limit on it?
+[2 minutes 23 seconds][Agent] : Yeah. Let me have a look. You. Well, you're not too old to look at it, that's for sure. Right. So let's, let's have a look. I'll explain it all to you and you can stop me along the way if you've got questions. Alright, so The thing is, life insurance is designed to provide financial protection for your loved ones. It's a lump sum payment that's paid out if you would have passed away before your 85th birthday. When the policy ends, your benefit amount is tripled if your death wish you to an accident and you can look anywhere from 10,000 up to $200,000. So if you had like a $50,000 policy, your family would get 150,000 if you death reach you to an accident, OK, it's tripled. And also, umm, there is an advance payment for your family of umm, 20% of your benefit amount to help with funeral and final expenses because we understand not all families have that funding sitting and waiting.
+[2 minutes 26 seconds][Customer] : OK, Yep, Yep.
+[3 minutes 12 seconds][Agent] : OK, once I've looked at your eight questions because it's very easy to apply and once you've gone through those, you have the milestone questions over the phone to see if we can get you approved. If you are accepted and want to commence the policy, you will be covered immediately to get you to any cause except suicide in the 1st 13 months. OK. Hmm. Mm. Now, there's a living benefit on here for you, Susan. It's called a terminally ill advanced payment. This is on the cover. So if you were diagnosed with 24 months or less to leave by a specialized medical practitioner, what we're gonna do in that case is pay the claim in full to you instead. So you'd get the full amount. All right?
+[3 minutes 33 seconds][Customer] : Right, right. OK.
+[3 minutes 52 seconds][Agent] : That way you can go and get the very best medical care, and we'll get your fees in order as well. OK. While you're alive. Yep. So that's all the benefits. Before I look at it, though, I wanted to ask you, have you understood everything so far? And do you any questions for me at all? Yeah.
+[4 minutes 7 seconds][Customer] : Yes. No, Yes, I understood. No.
+[4 minutes 10 seconds][Agent] : Umm, and no questions yet. OK. So have you had a cigarette in the last 12 months? Yes or no? OK, thank you. One second.
+[4 minutes 12 seconds][Customer] : Yeah, no, probably say 60 or 70.
+[4 minutes 23 seconds][Agent] : That's good.
+[4 minutes 22 seconds][Customer] : Yeah, 7575.
+[4 minutes 24 seconds][Agent] : That's, that's good, that's good. OK. Now I do want to let you know that we do provide you with a, a free online legal will and this is valued at $160.00 with your policy. That's complementary. If you don't have a will in place, you can use that.
+[4 minutes 24 seconds][Customer] : Yeah, I do already.
+[4 minutes 39 seconds][Agent] : Oh, OK, alright. And we do give you a subscription to the Australian Seniors Day magazine as well.
+[4 minutes 40 seconds][Customer] : Yeah, OK.
+[4 minutes 44 seconds][Agent] : OK, now I wanna play around with the figures and see if we can find something that works for you. What amount would you like to look at first?
+[4 minutes 45 seconds][Customer] : Yeah, Look the lowest, which is 10.
+[4 minutes 52 seconds][Agent] : We can look from 10,000. OK, let me look one SEC. So from 10,000 up to 200,000. OK, 10,000 would come in at. That's 30,000 for your accidental death. That would be $19.84 a fortnight.
+[5 minutes 10 seconds][Customer] : OK, Yeah, probably could.
+[5 minutes 10 seconds][Agent] : Does that one sound like that would work within your budget or do you want me to increase a little bit? Yeah.
+[5 minutes 14 seconds][Customer] : It probably could. Yeah.
+[5 minutes 16 seconds][Agent] : All right, well, what we'll do is I'll read through your eight questions and I can tell you straight away what your outcome is and look at your options for you. OK. All right, let me go out here. I'll update your details. Oh, I like your e-mail.
+[5 minutes 23 seconds][Customer] : OK it is.
+[5 minutes 28 seconds][Agent] : Is it.susiesuitesumm49@gmail.com. Yeah, yes.
+[5 minutes 36 seconds][Customer] : Yeah, that's me.
+[5 minutes 37 seconds][Agent] : Thank you. 0405146990. Thank you. That's the mobile. No landline, just the mobile.
+[5 minutes 42 seconds][Customer] : Yes, no thanks.
+[5 minutes 46 seconds][Agent] : All right. And is it misses your title, Ms. The same as me. OK. And let me get your address here. Hang on a SEC. All right? What's the well where you are now? What's the post code where you are now? Bun Bunyan.
+[5 minutes 50 seconds][Customer] : Move any 3357 Bunningham.
+[6 minutes 5 seconds][Agent] : Bunyan Young. Yep.
+[6 minutes 6 seconds][Customer] : Yep.
+[6 minutes 6 seconds][Agent] : And what's your address, please?
+[6 minutes 9 seconds][Customer] : 4A Allen St. Bunningham.
+[6 minutes 12 seconds][Agent] : I've got you. Is your home address and your postal address both the same?
+[6 minutes 17 seconds][Customer] : Yes they are.
+[6 minutes 18 seconds][Agent] : OK. Thank you. Have a look for you, Suzanne.
+[6 minutes 20 seconds][Customer] : Now before you go ahead, oh, I'm not wanting to do anything until I move and see what my FI finances are going to be, but I would really like to look at it like I'm not ready to do it now.
+[6 minutes 31 seconds][Agent] : Yeah, of course that's OK. I understand.
+[6 minutes 34 seconds][Customer] : Yeah, OK.
+[6 minutes 34 seconds][Agent] : I understand what you're saying. I need to see if you're eligible because some people still do decline for different reasons, OK?
+[6 minutes 39 seconds][Customer] : Oh, OK.
+[6 minutes 40 seconds][Agent] : All right.
+[6 minutes 40 seconds][Customer] : OK.
+[6 minutes 41 seconds][Agent] : And that way I can tell you straight away, OK, But is that affordable at the moment? And would that be affordable as well when you move? It's just, I've just under $10 a week approximately.
+[6 minutes 47 seconds][Customer] : Yes, Yeah, yeah, yeah, that's fine.
+[6 minutes 51 seconds][Agent] : All right, OK, well, let's have a look. Umm. So let me explain about your premiums as well for the future, because I want you to understand that too. So hang on a minute. OK, so your premium is stepped, which means it will increase each year. So as an indication for you, if you make no changes to the policy, your premium next year would go to $21.23 per fortnight, alright? And your sum insured will remain the same on your $10,000 and 30,000 for your accented death. And you can also find information about our premium structure on our website. OK, so with the one second, where did that just go?
+[7 minutes 28 seconds][Customer] : Does it, does it make a difference that by the time I take that out, I'll be a year older?
+[7 minutes 34 seconds][Agent] : Yes, it will. Hang on one second. Just trying to bring the screen back up. There it is. Yes. If you have a birthday there, it would make a difference.
+[7 minutes 46 seconds][Customer] : Yep.
+[7 minutes 46 seconds][Agent] : OK. Yes, it would. Yeah. Yeah. So let me look. You're having a birthday in between there. When's your birthday? Oh, OK.
+[7 minutes 56 seconds][Customer] : Yeah, in a fortnight, 5th of January.
+[7 minutes 59 seconds][Agent] : Yeah, congratulations to you.
+[8 minutes 3 seconds][Customer] : Oh, look at me and I'm still talking, Yeah.
+[8 minutes 2 seconds][Agent] : OK, all right, let me just read 2 quick paragraphs that this explains to you why we asked the questions that you need to be honest with your responses. OK, so one SEC and we'll have a look. This one says please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty yes or no Thanks. Susan.
+[9 minutes 16 seconds][Customer] : Yes, it is.
+[9 minutes 19 seconds][Agent] : Suzanne, isn't it not Suzanne Susanne near me. I'm sorry.
+[9 minutes 22 seconds][Customer] : It is.
+[9 minutes 22 seconds][Agent] : I'm sorry.
+[9 minutes 22 seconds][Customer] : That's right.
+[9 minutes 25 seconds][Agent] : Sorry.
+[9 minutes 32 seconds][Customer] : Oh, OK.
+[9 minutes 26 seconds][Agent] : OK, All right, so it's actually 9 questions I tell a fibs sorry first one's in regards. I know. Look, it's a question about COVID because of the big pause we went through a while ago.
+[9 minutes 32 seconds][Customer] : I caught you out already, right?
+[9 minutes 39 seconds][Agent] : So have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Right, OK. In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or a stroke? Yep. In the last five years, have you been admitted to hospital and an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions? Thank you. In the last five years have you been diagnosed with or treated for any of the following cancers? Lung cancer, cancer, the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or seem to be treated with chemotherapy? Thank you. Do you have a renal kidney condition that currently requires dialysis or transplant or doctor has advised will be required in the future? Do you have a liver condition that will require a transplant in the future?
+[9 minutes 47 seconds][Customer] : No, no, no, no, no, no, no, no.
+[10 minutes 43 seconds][Agent] : Thank you in the future, sorry yes or no thank you. Umm have you been diagnosed with or currently undergoing testing for? Has the doctor advised you to be tested for no to neuron disease or any form of dementia including Alzheimer's disease? You, in the last five years, have you attempted suicide or been hospitalized for mental health condition? OK. Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or being diagnosed as having 12 months or less to leave?
+[10 minutes 58 seconds][Customer] : No, no, no.
+[11 minutes 19 seconds][Agent] : OK. Now are you satisfied with the answers you have provided to me, Suzanne?
+[11 minutes 24 seconds][Customer] : Yes.
+[11 minutes 25 seconds][Agent] : Yes. OK, let me have a look. Well, I've got some good news for you. You have been fully approved, OK, Which is the very best outcome for you? All right. Now, you did mention that you did wanna receive. You wanted to receive some information about it. You weren't wanting to make a decision today. Let me explain to you a couple of things we can do. I can send you an e-mail.
+[11 minutes 34 seconds][Customer] : Yes, yeah.
+[11 minutes 46 seconds][Agent] : The other option is because you've been approved, I'll explain to you why as well. We, uh, we can actually get you covered immediately over the phone today. The reason being there's no payments at all today. It's set up for date in the future of your choice and you will be covered. You have plenty of time to review it because the policy also provides you with a full 30 day cooling off period from that date. You've got plenty of time to look at it, make sure it's right for you fill out the beneficiary form so we know who you want the funding to go to. But if you decide for any reason, this is not for you, if you cancel within the 30 days, you get a full refund of all of your premium unless you've made a claim. So my question for you is, I can put it in place for you and cover you today and put the date in the future, or I could send a quote out for you. But you do have the opportunity. You can get cover today if you'd like to. I'll put the date in the future.
+[12 minutes 34 seconds][Customer] : How far in the future are you looking?
+[12 minutes 36 seconds][Agent] : I can do up to 30 days from today.
+[12 minutes 39 seconds][Customer] : No, I I need to do it after I've moved. No, I just need to keep my finances as they are at the moment.
+[12 minutes 47 seconds][Agent] : So can I ask you then when you're talking about that, you're wanting to do it in the future, but is it affordable for you at the moment? Where you at with that?
+[12 minutes 56 seconds][Customer] : Oh yeah, yes. But we've got so much going on with house and everything. I don't really want to commit to anything else right now.
+[13 minutes 4 seconds][Agent] : Right. I'm with you. Yeah.
+[13 minutes 5 seconds][Customer] : That's it's just, yes, I can, but I don't, I don't want to just now.
+[13 minutes 11 seconds][Agent] : Yeah.
+[13 minutes 11 seconds][Customer] : That's that's the thing.
+[13 minutes 16 seconds][Agent] : No, I understand.
+[13 minutes 13 seconds][Customer] : It's we've just got so many unexpected things and I just, I'm just, I'm happy.
+[13 minutes 22 seconds][Agent] : Yep, of course. Yep.
+[13 minutes 20 seconds][Customer] : Just I worked my budget out and now, but I've been well clear of all those little things that might appear within the within the next few months.
+[13 minutes 34 seconds][Agent] : Yep.
+[13 minutes 35 seconds][Customer] : We're, we're putting the house on the market.
+[13 minutes 37 seconds][Agent] : Right.
+[13 minutes 37 seconds][Customer] : That's where I'm at, right?
+[13 minutes 38 seconds][Agent] : I'm with you. Yep.
+[13 minutes 39 seconds][Customer] : And it's just, you know, repairs and everything. I just, I'm just putting myself through that stress. I, I don't want to stress with anything else.
+[13 minutes 49 seconds][Agent] : No, I understand.
+[13 minutes 49 seconds][Customer] : So I'm, I'm just, yeah.
+[13 minutes 50 seconds][Agent] : I'll just ask, you know, just asking the second question just so I could get some clarity on that. But what I'm gonna do for you in this case, umm, because you've been approved, what I'll do is send you an e-mail with the policy schedule for the $10,000. Right now. It's pending activation.
+[14 minutes 3 seconds][Customer] : Yep, Yep.
+[14 minutes 6 seconds][Agent] : OK, so you can actually go into it. You could click the buy now button and you can put in place yourself if you're happy with that.
+[14 minutes 12 seconds][Customer] : OK.
+[14 minutes 14 seconds][Agent] : You receive the health and lifestyle questions and responses you gave me and you'll be able to go into it and have a look at it. Everything's in there. You've got links to the product disclosure statement, financial services guide as well. You've got everything you possibly need. Umm, I'll send it out to your e-mail. Umm, when you're opening it, just use your date of birth as the password because it is password protected. OK, because it's for you. Umm, yeah, that's gone to you now. Umm, I can, I can set a call back for you in February if you wish, just to touch base with you and see how you're traveling, if you'd like me to do that. Yeah. I can't set a call back that far in advance, sorry.
+[14 minutes 32 seconds][Customer] : OK, L Look, I, I can tell you now we're not moving till after April, so no.
+[14 minutes 54 seconds][Agent] : I can sit in. Yeah. OK.
+[14 minutes 54 seconds][Customer] : So if anything, like really, if you want to just let it go for now, I will call you back. If you want me to call you personally, I can do that.
+[15 minutes 2 seconds][Agent] : Yeah, my name and numbers on there. You can always call me my name and numbers on the e-mail I've sent you as well.
+[15 minutes 2 seconds][Customer] : But OK, Maggie, you've been really helpful.
+[15 minutes 7 seconds][Agent] : OK, That's OK.
+[15 minutes 8 seconds][Customer] : But I just, I'm just, I'm just inquiring for the future more than now.
+[15 minutes 13 seconds][Agent] : Yeah, yeah, of course, of course.
+[15 minutes 14 seconds][Customer] : And if I if I can't get between now and then, I've locked out.
+[15 minutes 19 seconds][Agent] : Well, Touchwood, that doesn't happen.
+[15 minutes 17 seconds][Customer] : So no, no, I'm not planning to.
+[15 minutes 21 seconds][Agent] : So I don't want that to happen. No, no, no, no. So.
+[15 minutes 26 seconds][Customer] : OK, Maggie. Thank you. Yep.
+[15 minutes 26 seconds][Agent] : But look, you've got that there and yeah, well, give us a call when you're ready, right? I need to happy to help you. OK.
+[15 minutes 32 seconds][Customer] : OK.
+[15 minutes 33 seconds][Agent] : Alright.
+[15 minutes 33 seconds][Customer] : Thanks, Maggie.
+[15 minutes 34 seconds][Agent] : Take care.
+[15 minutes 34 seconds][Customer] : Thanks for that.
+[15 minutes 35 seconds][Agent] : Bye. Bye.
+[15 minutes 35 seconds][Customer] : Bye.

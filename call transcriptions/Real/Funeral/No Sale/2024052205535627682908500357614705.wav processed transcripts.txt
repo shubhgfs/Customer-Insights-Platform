@@ -1,0 +1,50 @@
+[2 seconds][Agent] : Hey, Taylor, how are you?
+[1 seconds][Customer] : Hi, I'm good. Thanks. How are you?
+[5 seconds][Agent] : Good. Thank you.
+[6 seconds][Customer] : So I have a Rebecca on the phone. I just set up her husband's policy, but she's wanting to update. So I've got APO box. I'm just sending, I'm held there for you. So she was confirmed full name, date of birth and APO box address. She's wanting to add her home address to the profile now.
+[14 seconds][Agent] : Yeah, yeah. Perfect. And I've got that one here. You can pop Rebecca through whenever you're ready.
+[26 seconds][Customer] : No worries, all good.
+[27 seconds][Agent] : Thanks.
+[27 seconds][Customer] : So it's starting in 321.
+[31 seconds][Agent] : Good afternoon. Welcome to Real Insurance. You're speaking with Shana. Can I just confirm I'm speaking with Rebecca? Yes, thank you so much. And I can see here that we have your policy profile and my colleague has mentioned that you're wanting to add your residential address to your profile, Is that right?
+[37 seconds][Customer] : Yes, yeah, that's right.
+[49 seconds][Agent] : Excellent. So we'll go ahead and do that for you. And what's your residential address?
+[55 seconds][Customer] : 391 W Yuri EURI Rd. Bowen.
+[1 minutes 2 seconds][Agent] : So, and that's Queensland 4805.
+[1 minutes 5 seconds][Customer] : Yeah, that's right.
+[1 minutes 6 seconds][Agent] : Yep, perfect. So we'll go ahead and add that for you. So it was 391 W Erie Rd. Bowen, Queensland, 4805 and the postal address we still have is PO Box 1377, Bowen, Queensland.
+[1 minutes 17 seconds][Customer] : Yeah, yeah. That's correct.
+[1 minutes 24 seconds][Agent] : Yep, excellent. So just added your residential address there and I'll confirm the contact details as well.
+[1 minutes 36 seconds][Customer] : Yeah.
+[1 minutes 31 seconds][Agent] : The mobile is the same one you're calling from ending in 978 and then we have your e-mail address as beck391@hotmail.com.
+[1 minutes 41 seconds][Customer] : Yep, that's correct.
+[1 minutes 43 seconds][Agent] : Excellent. Anything else we can help you with today?
+[1 minutes 46 seconds][Customer] : Yes. I need to cancel because we've just got life insurance and the funeral. We have the funeral cover in our life insurance. I need to cancel our funeral insurance through Real.
+[1 minutes 57 seconds][Agent] : OK, yes. So you're wanting to cancel the funeral cover and just take out or keep the life insurance that you've just set up, is that right?
+[2 minutes 7 seconds][Customer] : Yeah, we've we've just set life insurance up and so we've got a funeral cover in that. So I need to cancel my funeral cover.
+[2 minutes 14 seconds][Agent] : OK, perfect. So I can go ahead and help you with organising the cancellation of the funeral and just having that replaced with the life cover.
+[2 minutes 21 seconds][Customer] : Good morning.
+[2 minutes 25 seconds][Agent] : So what I might do for you, Rebecca, is I'll place you on a brief hold. It might be two minutes or more, and I'll bring up the information there. Is that OK? Yeah. Won't be a moment. Thank you. Thank you so much for your patience here, Rebecca. I really do appreciate it. So I've just got the information here and I'll go through a couple of declarations with you. I'll read out everything and then I'll get your confirmation at the end.
+[4 minutes 23 seconds][Customer] : Yep.
+[4 minutes 23 seconds][Agent] : OK, So just to confirm, what we're doing for you is cancelling the guarantee for your insurance and replacing that with the family life cover that you've just set up?
+[4 minutes 33 seconds][Customer] : Yeah.
+[4 minutes 34 seconds][Agent] : Yes, thank you. So please be advised that by changing policies you're commencing a new insurance policy, which means you will no longer be entitled to any benefits you accrued under your old policy. You may need to reserve waiting periods and any pre-existing conditions or other exclusions relevant to your new policy will reapply from your new acceptance date. Do you understand this in which to proceed, yes or no?
+[4 minutes 47 seconds][Customer] : Yes, yes, yes.
+[5 minutes 2 seconds][Agent] : Thank you Sir. I just need to confirm the following. We have agreed to waive the requirement under your policy to put your cancellation in writing and by agreeing to this declaration, you acknowledge that your instruction to cancel your policy is immediate, final and non reversible. Your policy is currently paid up until the 15th of December 2021, so after this date there will no longer be coverage under your guaranteed FEMA insurance policy number 670020085. Can you please confirm that you agreed with this declaration and instruct me to cancel your policy? Yes or no?
+[5 minutes 21 seconds][Customer] : Yes, yes, yes.
+[5 minutes 47 seconds][Agent] : Perfect. Thank you so much. And now we've gone ahead and actioned that for you, and we'll be sending you a confirmation letter within the next 7 to 10 business days just confirming the cancellation of that funeral cover for you.
+[6 minutes 1 seconds][Customer] : So that policy, that one policy that that included my husband and my son.
+[6 minutes 7 seconds][Agent] : Yes. So that funeral cover was for yourself, Shane and Dusty.
+[6 minutes 8 seconds][Customer] : Yeah, yeah, that's right.
+[6 minutes 13 seconds][Agent] : Yeah. And now you've got the just the life cover that's active. So I've cancelled the funeral cover. And for the life policy you have yourself and Dusty under the under that policy.
+[6 minutes 26 seconds][Customer] : Yeah. And is there another, there should be another policy there for my husband as well. But no, that's fine. Just mine. That's fine.
+[6 minutes 32 seconds][Agent] : OK, Yeah, it's just because I can only see your profile, but if you were to search under your husband's policy number, then that will bring up his details there.
+[6 minutes 43 seconds][Customer] : Yeah, No, that's fine.
+[6 minutes 45 seconds][Agent] : OK.
+[6 minutes 44 seconds][Customer] : We're we we're we're fine with that.
+[6 minutes 47 seconds][Agent] : OK. Perfect. And that's all done for you there. Was there anything else we can help you with while we're here?
+[6 minutes 53 seconds][Customer] : No, that's it. Thank you.
+[6 minutes 54 seconds][Agent] : OK. Thank you so much for your time today. You have a great day.
+[6 minutes 58 seconds][Customer] : You too. Thanks. Bye.
+[6 minutes 59 seconds][Agent] : Thank you. Bye. Bye.
+[7 minutes 1 seconds][Customer] : Bye.

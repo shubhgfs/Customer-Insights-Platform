@@ -1,0 +1,405 @@
+[3 seconds][Agent] : Good afternoon. Welcome to Real Insurance. My name is Ash. How may I help you today?
+[7 seconds][Customer] : Hi, my name is Courtney. I'm actually just calling around at the moment as I'm trying to find some life insurance with some income protection.
+[16 seconds][Agent] : Right. Perfect. Yeah, Well, they're two separate policies. With us, you can do life and income protection. So that's, that's not a problem. Umm, the reason being is with us, your income protection generally tax deductible because here it's direct income protection. That one might make it a bit more cost effective. And then life life covers, uh, a personal choice as well.
+[22 seconds][Customer] : Yeah, yeah, yeah. 25th of the 7th, 1996.
+[37 seconds][Agent] : OK, so let me have a look here and I'll just start with your date of birth, please, if I could perfect 25796 perfect. And your name, please. Courtney Thompson. Ah, with AAP or without AP Thompson. Sorry. Perfect. Female Australian resident. Yes or no? Excellent. All right.
+[52 seconds][Customer] : Courtney Thompson with AP Yes 47416099.
+[1 minutes 13 seconds][Agent] : I think I've found this one here, 04, that's the one.
+[1 minutes 26 seconds][Customer] : Yep.
+[1 minutes 26 seconds][Agent] : Thank you. And the only reason is I've got a, I've got a another number here 0243933494. Is that something current that you're happy with there or like a home number or a work number that we're currently on there?
+[1 minutes 38 seconds][Customer] : 4949 Oh, yeah, That's my work number. Yeah. Yeah, I can't. I know that number. Where am I knowing that number? Yeah, that's my work number.
+[1 minutes 44 seconds][Agent] : That's all OK Nah, cool. All right. Do you want that listed on your profile or just your mobile?
+[1 minutes 54 seconds][Customer] : I'm just on mobile.
+[1 minutes 55 seconds][Agent] : Cool, I'll get rid of that. No worries. Umm now we've done a quote for you just last year.
+[2 minutes 3 seconds][Customer] : Oh yeah, that's correct. Yep, still the same thing.
+[2 minutes 1 seconds][Agent] : That's why I found this one here for you Co thompson1@outlook.com Cool and still in administration an administrative officer. Cool. Very good. All right yeah.
+[2 minutes 17 seconds][Customer] : Oh, my partner and I just got a mortgage.
+[2 minutes 15 seconds][Agent] : So what's made you re look into it because we did the quote for the last congratulations. Well done Exciting times.
+[2 minutes 21 seconds][Customer] : Yeah, yeah, but that's open dead.
+[2 minutes 24 seconds][Agent] : Yeah, exciting but daunting. But all all all the above. But Congrats. That's a good step. And umm you work at least 20 hours per week.
+[2 minutes 28 seconds][Customer] : Yeah, I'm full time so I work, umm, Monday to Friday 95.
+[2 minutes 35 seconds][Agent] : OK, cool. Definitely. All right, all right, so we'll go through each together.
+[2 minutes 46 seconds][Customer] : Yeah.
+[2 minutes 44 seconds][Agent] : The income protection we'll umm, what we can do is we can streamline this for you because then if you're going to be approved on one income or life, you'll generally be approved on the other one because they're the underwriting applications very similar.
+[2 minutes 59 seconds][Customer] : Yep.
+[2 minutes 58 seconds][Agent] : OK, so we won't have to double handle it because what I'll be able to do is umm, copy across the, the details from the, you know, the life 1 so you don't have to re go through it all.
+[3 minutes 11 seconds][Customer] : Yep.
+[3 minutes 10 seconds][Agent] : OK, So have you had a cigarette in the last 12 months?
+[3 minutes 16 seconds][Customer] : There you are.
+[3 minutes 17 seconds][Agent] : Perfect. Now with the life insurance, you can apply anywhere from $100,000 all the way up to $1 million with a cover. OK.
+[3 minutes 28 seconds][Customer] : Yep.
+[3 minutes 29 seconds][Agent] : The design obviously is for that, umm, financial protection touch when anything happens, you know you can make it pay out of mortgage or any other costs involved in raising a family or what have you.
+[3 minutes 38 seconds][Customer] : Yep.
+[3 minutes 38 seconds][Agent] : OK umm, what sort of benefit amount were you considering? What what, what level of coverage do you want to look at taking out today to cover things?
+[3 minutes 46 seconds][Customer] : So 600,000.
+[3 minutes 48 seconds][Agent] : We can do that all right, non smoke. Uh, and if you are accepted through this, through the health and lifestyle questions, if you are accepted once you commence the policy will be covered immediately for death due to any cause except suicide in the 1st 13 months of the policy.
+[4 minutes 7 seconds][Customer] : Yep.
+[4 minutes 7 seconds][Agent] : OK, And there is a terminally advanced payment, which means that if you were diagnosed with 12 months or less to live by a registered medical practitioner, we'll pay out the claim in full touch with you ever have to use that? OK.
+[4 minutes 17 seconds][Customer] : Yeah, OK, Yep.
+[4 minutes 22 seconds][Agent] : All right.
+[4 minutes 24 seconds][Customer] : What about if we became disabled or something like that? Yeah.
+[4 minutes 28 seconds][Agent] : Yeah, TPD or total permanent disability, you definitely can have a look at that. That's, that's another component. I'll explain that for you.
+[4 minutes 35 seconds][Customer] : Yep.
+[4 minutes 34 seconds][Agent] : All right, we'll do it.
+[4 minutes 40 seconds][Customer] : Yep.
+[4 minutes 37 seconds][Agent] : I'll, I'll just, I'll break it all down so you know what each part costs and we can make adjustments if we need to. OK.
+[4 minutes 43 seconds][Customer] : Yep. Yep.
+[4 minutes 43 seconds][Agent] : So we've got 600,000 full life cover, $18.06 per fortnight, OK. And six cents, Yeah.
+[4 minutes 50 seconds][Customer] : $18.06 a fortnight. Yep.
+[4 minutes 55 seconds][Agent] : Now the TPD, I'm just reconfirming. Do you work a minimum of 20 hours per week? Yes or no? And you're, umm, in administration officer say professional. OK, so TPD as an employed pays as a lump sum benefit in the event that you guys suffer the loss of limbs or sight umm, or are unable to work for a period of six consecutive months and are not able to return to work in any field which you are experienced, educated or trained or if you were to suffer the loss of independent existence. OK? That's how it pays out.
+[5 minutes 1 seconds][Customer] : Yes, Yep, Yep, Yep.
+[5 minutes 32 seconds][Agent] : Umm, So what benefit amount? Because you can choose from 50,000 up to your chosen life insurance benefit amount. OK, so how this works? There's an exclusion under this cover. This is just the TPD we're talking about. For any intentional self-inflicted injury. Please be aware that any payment made under total and permanent disability cover reduces the available life insurance benefit amount.
+[5 minutes 40 seconds][Customer] : OK, Yep, Yep.
+[5 minutes 56 seconds][Agent] : So in saying that, what what sum insured would you like on the TPD? Yep.
+[6 minutes 1 seconds][Customer] : Uh, we'll say 500,000 because you can still take the permit disability and the income production at the same time, is that correct? Yep.
+[6 minutes 10 seconds][Agent] : Of course, again, yeah, yeah, yeah.
+[6 minutes 11 seconds][Customer] : OK, Yep. Yep. So it'll be 500,000.
+[6 minutes 13 seconds][Agent] : Cool. And and then with this policy as well, Courtney, I'll just let you know it's designed to be both of them flexible throughout the lifetime of the policy.
+[6 minutes 23 seconds][Customer] : Yeah.
+[6 minutes 22 seconds][Agent] : So you're always welcome to apply to increase, decrease or add on their components as you say, fit.
+[6 minutes 26 seconds][Customer] : Yep.
+[6 minutes 27 seconds][Agent] : OK.
+[6 minutes 33 seconds][Customer] : $8.65 the fortnight.
+[6 minutes 27 seconds][Agent] : Umm, and then it's just $8.65 per fortnight a day per day, 500, So we got now 2671. That's in total.
+[6 minutes 35 seconds][Customer] : Yep, OK. Yep.
+[6 minutes 40 seconds][Agent] : So you got 600,000 full life cover, 500,000 TPD. OK, so we'll run through some help and lifestyle questions on this one first and we can use the same for income cover, OK?
+[6 minutes 45 seconds][Customer] : Yep, Yep, Yep. Oh cool.
+[6 minutes 53 seconds][Agent] : Each policy will get you 10% cash back, which is your real reward, OK umm, following your first policy anniversary date with us, we actually give you back 10% of what you've paid within that time just to say thanks for choosing us and being a loyal customer of ours. And the life cover as well, we send out with a free will kit so you can get that updated if needed as well. OK with the TPD because it's completely optional, I just need to ask, are you happy for me to add this optional cover to your quote for the life insurance policy today? Yes or no?
+[7 minutes 13 seconds][Customer] : Yes, yes.
+[7 minutes 25 seconds][Agent] : Perfect. And also just please be aware that your premium is stepped, which means it will generally increase each year as you age. In addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% with associated increases in premium. You can opt out of this automatic indexation each year if you wish. So you do have control over that. OK. Yeah, exactly. You do. So each each year you can. If you don't want that extra cover, you can just let us know. It's just designed for CPI. But umm, yeah, it's up to you. So, you know, you might want to accept it one year and then the next two not and then the fourth year do it's it's your choice. You know what I mean.
+[7 minutes 46 seconds][Customer] : Yeah, when I control Yep, Yep, Yep.
+[8 minutes 2 seconds][Agent] : And what is the mailing address post code? Firstly, if I could to where we send your documents to, please.
+[8 minutes 9 seconds][Customer] : Alright.
+[8 minutes 11 seconds][Agent] : Yeah.
+[8 minutes 9 seconds][Customer] : It is 24 Dale Ave.
+[8 minutes 13 seconds][Agent] : 24 Dale.
+[8 minutes 15 seconds][Customer] : Yep. Ave.
+[8 minutes 14 seconds][Agent] : Yeah, Yep.
+[8 minutes 18 seconds][Customer] : Chain Valley Bay.
+[8 minutes 20 seconds][Agent] : Beautiful. Alright, 2259.
+[8 minutes 24 seconds][Customer] : Yep, that's correct.
+[8 minutes 30 seconds][Agent] : Excellent. Whereabouts is that there on set up the coast?
+[8 minutes 35 seconds][Customer] : Yeah.
+[8 minutes 34 seconds][Agent] : Is it beautiful?
+[8 minutes 36 seconds][Customer] : Just a bit South of Newcastle.
+[8 minutes 38 seconds][Agent] : Oh yeah. Nice. OK. Chain Valley Bay.
+[8 minutes 44 seconds][Customer] : No. So we actually purchased the Homeland Terrace. So when we end up moving in there because we're building, that's when we'll have to change our addresses.
+[8 minutes 41 seconds][Agent] : And is that where you've purchased together that I built it up too easy. That's no worries. That's right, because it'll be posted up there to 24 Dale Ave. two to five working days. But you'll get an e-mail copy as well. That's alright, Alright. But Congrats on building a new place together. That's cool.
+[8 minutes 52 seconds][Customer] : Yeah, Yeah, yeah, yeah, yeah, exactly.
+[9 minutes 4 seconds][Agent] : Even more tricky than because you got to decide all the different things you want, you know, uh, but fun at the same time. So as we get through the questions, if you've got any of your end their call and you just pause and we'll go through it together.
+[9 minutes 16 seconds][Customer] : Yeah, no worries.
+[9 minutes 16 seconds][Agent] : The umm, the disclosure just reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issued cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to ensure you end on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk. We insure you have this due until the time we enter into the contract. If you fail to disclose the matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy or avoid your policy entirely. It asks you please do you understand this? Yes or no?
+[10 minutes 20 seconds][Customer] : Yes, yes.
+[10 minutes 21 seconds][Agent] : Perfect, nice and easy. Are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia. Yes or no?
+[10 minutes 28 seconds][Customer] : Yes.
+[10 minutes 29 seconds][Agent] : Excellent. Does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore?
+[10 minutes 42 seconds][Customer] : No.
+[10 minutes 41 seconds][Agent] : Yes or no Excellent. Now the next section is in relation to your height and weight. Please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application, just as the system does not allow me to enter any approximate figures, words or height weight ranges. Just ask you please, what is your exact height? Courtney, how tall are you please? 53 Easy. And what is your exact weight please? Perfect. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[11 minutes 3 seconds][Customer] : 5 foot 3, 85 kilos No.
+[11 minutes 17 seconds][Agent] : Yes or no Excellent. To the best of your knowledge are you infected with or are you in a high risk category for contracting HIV which causes aid? Yes or no? And do you work as or do you engage with the services of a six worker? Yes or no and you have definite plans to travel or reside outside of Australia IE booked or will be booking travel within the next 12 months and you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5,000,000.
+[11 minutes 27 seconds][Customer] : No, no, no, no.
+[11 minutes 50 seconds][Agent] : Excellent Quick medical. Just asking here, have you ever had symptoms of, been diagnosed with or treated for or intended to seek medical advice for any of the following? So cancer, tumour, moles including skin cancer, some spots Melanoma or leukemia. Yes or no Perfect. Have you ever had an abnormal pap smear? Yes or no stroke, chest pain or heart conditions such as, but not limited to heart attack and angina or high blood pressure. Yes or no high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Diabetes, raised blood sugar, impaired glucose tolerance or intaired fasting glucose. Eczema, hepatitis, or any disorder of vilia, stomach, bowel, gallbladder, or pancreas.
+[12 minutes 7 seconds][Customer] : No, no, no, no, no, no, no.
+[12 minutes 35 seconds][Agent] : Epilepsy, metineuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Anxiety, depression, or stress requiring medical treatment or any other mental health disorder. Any illegal drug use, abuse of prescription medication, or receive medical advice or counselling for alcohol consumption. Disorder of the kidney or bladder. Blood disorder or disease. Asthma or other respiratory disorder, excluding childhood asthma, back or neck pain or disorder. Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome, or fibromyalgia.
+[12 minutes 42 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[13 minutes 14 seconds][Agent] : Joint or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Excellent osteoporosis or osteopenia and any defect of hearing or sight other than which is corrected by glasses or contact lenses.
+[13 minutes 19 seconds][Customer] : No, no, no.
+[13 minutes 29 seconds][Agent] : Perfect. All right, so clean bill of health, well done. Other than what you've already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist, or are you awaiting the results of any medical tests or investigations? Yes or no? Other than what you've already told me about, Are you contemplating seeking medical advice or any symptoms you're currently experiencing within the next two weeks? And other than what you've already told me about, have you ever during your working career required more than two consecutive weeks of work due to illness or injury?
+[13 minutes 44 seconds][Customer] : No, no, no.
+[14 minutes 5 seconds][Agent] : Excellent. Now, quick family history here, to the best of your knowledge of any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous bolioposis?
+[14 minutes 20 seconds][Customer] : I don't know what they are now.
+[14 minutes 21 seconds][Agent] : That's pretty, pretty ugly. That last one took us a week in training just to pronounce and yeah, it's pretty nasty. So it's good. Umm, it's good. You haven't heard of it. So that's, that's good. And then to the best of your knowledge, have any of your immediate family suffered from cancer, heart conditions, stroke or other hereditary disease prior to age 60? Perfect. Final question, bit of a daredevil question for you. Other than one off events, gift certificates or vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering and sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity, Yes or no?
+[14 minutes 41 seconds][Customer] : No, no.
+[15 minutes 4 seconds][Agent] : Alright, perfect. Just gonna submit this to the underwriter. It'll just take a moment. Umm, also just make a note that your beneficiaries can request an advanced payout of $10,000 dealt with funeral costs, and that's part of the policy. On the back of the PDS, which is a product disclosure statement, you'll find the Nomination of beneficiaries form. So you can of course, nominate who you'd like the money to go to see what happened. Touchwood OK, you can actually nominate up to five if need be, but that's your choice. OK.
+[15 minutes 16 seconds][Customer] : Oh yeah, yeah, yeah, yeah, yeah. OK.
+[15 minutes 32 seconds][Agent] : And umm, just your title on, is it just, is it Miss Courtney Thompson or is it?
+[15 minutes 37 seconds][Customer] : It's missed currently.
+[15 minutes 38 seconds][Agent] : Yes, currently, Yep, Yep. Can update that. That's fine.
+[15 minutes 40 seconds][Customer] : Yeah, yeah. I'll have to update that next year.
+[15 minutes 42 seconds][Agent] : All right, perfect. Congratulations there as well. And congratulations on, uh, I've been fully approved and let me just check, I've come back fully approve about any changes, which is good. So it remains the same. Umm, so just confirming that $26.71.
+[15 minutes 46 seconds][Customer] : Yeah, $26.71 Fortnite.
+[15 minutes 59 seconds][Agent] : That's, that's the total. Yeah. Just making sure that that's affordable for you and you're happy with that level of cover because that's approved.
+[16 minutes 2 seconds][Customer] : Uh, yeah, I'm just, I think I'm all in because I need to do my partners as well.
+[16 minutes 7 seconds][Agent] : Yeah, yeah, yeah. So we'll have to go through his health and lifestyle questions, but I can get it all ready for you.
+[16 minutes 15 seconds][Customer] : Yeah, that's fine.
+[16 minutes 15 seconds][Agent] : That's that's totally fine.
+[16 minutes 16 seconds][Customer] : Yeah, Yeah, that's fine.
+[16 minutes 18 seconds][Agent] : Umm. So let me just have a look. Identical. Yeah. Cool.
+[16 minutes 19 seconds][Customer] : It would be basically the same, yeah.
+[16 minutes 23 seconds][Agent] : I'll work on that. What's your umm, What's your partner's date of birth?
+[16 minutes 24 seconds][Customer] : Oh, and so it's the 9th of the 1st 1989. Yep.
+[16 minutes 33 seconds][Agent] : And so 9th of Jan was it the first 89? Yeah. Cool.
+[16 minutes 37 seconds][Customer] : Yep.
+[16 minutes 38 seconds][Agent] : And name please. Yeah. Male Australian resident, yes or no?
+[16 minutes 39 seconds][Customer] : Richard Powell, POWE Double L Yes.
+[16 minutes 50 seconds][Agent] : And partner Mr. And has he had a cigarette in the last 12 months? Perfect.
+[16 minutes 57 seconds][Customer] : No, yeah, I could tell you through the medical. The only thing that's medically with him is he has asthma. After all those questions, he only has asthma.
+[17 minutes 7 seconds][Agent] : Oh, perfect. Well then he should have a very similar outcome as well, which is fine because yours has been fully approved. No changes as I said.
+[17 minutes 11 seconds][Customer] : Yeah, yeah.
+[17 minutes 15 seconds][Agent] : So the breakdown was 1806 on the 600,000 life, $8.65 on the 500,000 TPD.
+[17 minutes 23 seconds][Customer] : Yep.
+[17 minutes 23 seconds][Agent] : OK, so just confirming that the 2671 which is the per Fortnite premium on the total is affordable for you, yes or no?
+[17 minutes 32 seconds][Customer] : Yeah, that one's affordable for me.
+[17 minutes 34 seconds][Agent] : Yep. Uh, well, well that's your that's your life insurance. Yeah, that's the life insurance. So you've got your 600,000 full life cover component, OK, And then your 500,000 TPD. Yo, are you, when you say 75%, are we talking income?
+[17 minutes 34 seconds][Customer] : Is that for 75% protection for the income protection?
+[17 minutes 52 seconds][Agent] : Yeah, that's what we can offer as well.
+[17 minutes 52 seconds][Customer] : Yeah, yeah, yeah.
+[17 minutes 53 seconds][Agent] : That's uh yeah. Anywhere from $1000 up to 75% of your monthly pre tax income, which will actually calculate together in just a moment.
+[18 minutes 4 seconds][Customer] : Oh, have you not done income protection yet?
+[18 minutes 4 seconds][Agent] : Umm, because that'll generate that one because like I said, income protection is a separate policy.
+[18 minutes 11 seconds][Customer] : Oh, OK. So that's doing insurance right now. Is that what we're doing? Yeah, yeah. Yeah.
+[18 minutes 11 seconds][Agent] : Umm, because it yeah, just doing the lo just doing the life cover first because then I'll, I'll, I'll use the same application on this one anyway.
+[18 minutes 19 seconds][Customer] : Yeah. Yeah.
+[18 minutes 18 seconds][Agent] : So that that's fine because remember, they're separate. So your, your income protection. Hang on to the schedule, the policy schedule on that one reason being is that the premiums, like I say, generally tax deductible.
+[18 minutes 19 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[18 minutes 30 seconds][Agent] : OK, cool. And that, that'll be the same for for Richard as well. So, umm, with the life insurance, I just need to ask. We as a business, we generally collect payment within the next 7 days, but we ask you when in the next 7 days would be more suitable for you. Do you have a preferred day?
+[18 minutes 50 seconds][Customer] : I'll say next, next seven days off.
+[18 minutes 53 seconds][Agent] : Oh, if you need next Thursday, I can do that. What's next Thursday? The 20? Oh, that falls on Anzac Day. Can we do the day after the 26th?
+[18 minutes 56 seconds][Customer] : Yeah, yeah, yeah.
+[19 minutes 1 seconds][Agent] : That's fine. All right. So if you are accepted, which you have been, and congratulations, you'll be covered immediately for death due to any cause, accept suicide in the 1st 13 months of the policy.
+[19 minutes 12 seconds][Customer] : Yep.
+[19 minutes 12 seconds][Agent] : Umm, the terminally of advanced payment we spoke of means that if you were diagnosed with 12 months or less to live by registered medical practitioner, we pay out the claim in full for you as well.
+[19 minutes 21 seconds][Customer] : OK.
+[19 minutes 21 seconds][Agent] : I'll just reconfirm your full name and date of birth just to be sure everything's correct on your paperwork, if I may. So at this stage it's, it's Miss Courtney Thompson to be updated next year. Umm, and your date of birth please.
+[19 minutes 27 seconds][Customer] : Yes, it is the 25th of the 7th, 1996.
+[19 minutes 39 seconds][Agent] : Perfect.
+[19 minutes 39 seconds][Customer] : Do you need middle names?
+[19 minutes 39 seconds][Agent] : And you, umm, no, that should be fine. I can update it if you'd like. There.
+[19 minutes 42 seconds][Customer] : OK, no, that's fine.
+[19 minutes 42 seconds][Agent] : Umm, it's your choice. And then, umm, you're a female Australian resident, yes or no? And have you had a cigarette in the last 12 months? Yes or no? Perfect. And we're mailing it out to 24 Dale Ave. James Valley Bay and uhclthompson1@outlook.com.
+[19 minutes 50 seconds][Customer] : Yes, no, yes, yes, that's correct.
+[20 minutes 4 seconds][Agent] : And next Friday the, umm, the 26th.
+[20 minutes 4 seconds][Customer] : So we're coming from an account savings.
+[20 minutes 7 seconds][Agent] : And is it coming from a card or an account, savings or cheque and just in your name at this stage.
+[20 minutes 16 seconds][Customer] : No, it's actually both our names.
+[20 minutes 18 seconds][Agent] : Perfect. So Courtney Thompson and Richard L. Excellent. And the BSP number there when you're ready.
+[20 minutes 22 seconds][Customer] : Yes, umm, hang on, let me just grab that. I'm sorry, I'm scrubbing in.
+[20 minutes 44 seconds][Agent] : No, no, you're right. Yep, perfect. The account number. Yep. Perfect. All right. And you have authority to debit from the account provided in the name of Courtney Thompson and Richard Powell, and you're having that to come out on the 26th and fortnightly after, is that correct?
+[20 minutes 50 seconds][Customer] : So that's 062, 691, 10537302, Yep, pardon monthly. Yep.
+[21 minutes 16 seconds][Agent] : Uh, you can by all means, let me just go back for you. Uh, that works out.
+[21 minutes 21 seconds][Customer] : It's just easier for me to do monthly.
+[21 minutes 23 seconds][Agent] : That's, yeah, that's no worries. That's too easy.
+[21 minutes 28 seconds][Customer] : Yep. Yep.
+[21 minutes 25 seconds][Agent] : Umm, so it works out the same over the course of the year, but monthly is 5789 per month.
+[21 minutes 33 seconds][Customer] : That's fine. Yep, that's fine. Yeah. Yeah, that's so fun.
+[21 minutes 34 seconds][Agent] : OK, on the and the 26th still works perfect. All right now I just need to read through a declaration here for you.
+[21 minutes 45 seconds][Customer] : Yep.
+[21 minutes 44 seconds][Agent] : Just, uh, Please note calls are recorded. Any advice we provide is generally in nature and may not be suitable to your situation.
+[21 minutes 51 seconds][Customer] : Yep.
+[21 minutes 50 seconds][Agent] : And it reads here. Thank you. Courtney Thompson, it is important to you understand the following information. I'll ask your agreements to these terms that the end and your policy will not be enforced unless you agree to these terms in full. Family life cover is issued by Hanover Live Free of Australasia Limited, to whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS Trading as Real Insurance, to issue and arrange this insurance on its behalf. Hanover has relied upon the information you provided when assessing your application. That includes the information we initially collected from you. To provide a quote, I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure, yes or no?
+[22 minutes 36 seconds][Customer] : Yes.
+[22 minutes 36 seconds][Agent] : Thank you. Now, we may from time to time provide offers to you via the communication methods you provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays on some benefit amount of the following. Courtney Thompson receives $600,000 in the event of life insurance. Courtney Thompson receives $500,000 in the event of TPDA. Benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year of cover is $57.89 per month. Your premium is a stepped premium, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 65% to cover costs. Your premium will be debited from your bank account BSB 062691, account number 10537302 in the name of Courtney Thompson and Rich Powell, which you're authorized to debit from and provided to us.
+[23 minutes 51 seconds][Customer] : Yes.
+[23 minutes 50 seconds][Agent] : The policy documentation, PDS and FSG will be sent to you within 5 working days and if you've provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. If you are replacing an existing policy with this cover, we recommend that you do not cancel that policy until you have received and reviewed our policy in full. There are risks associated with replacing policies as your new policy may not be identical to your existing cover and there may be other risks you should consider depending on your circumstances. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you and it says here and thank you. Do you understand and agree? What's the declaration?
+[24 minutes 46 seconds][Customer] : Yes.
+[24 minutes 43 seconds][Agent] : I have just read you yes or no, And would you like any other information about the insurance now or would you like me to read any part of the PDS to you? Yes or no?
+[24 minutes 54 seconds][Customer] : No, but could you e-mail me? But I'll get it all emailed to me. I don't know. Anyway.
+[24 minutes 58 seconds][Agent] : Yeah, of course you do. Yeah, yeah.
+[24 minutes 59 seconds][Customer] : Yeah, yeah.
+[24 minutes 59 seconds][Agent] : So you'll get, what'll happen is you'll get an e-mail copy of this life cover that'll come through in about 15 minutes. And once we do the last couple of questions on IP or income protection, same thing, you'll get an e-mail copy of that one.
+[25 minutes 3 seconds][Customer] : Yep, Yep, Yep.
+[25 minutes 10 seconds][Agent] : And then all your hard copy documents will be posted two to five working days. Umm, like, is it all we need? On the back of the life insurance PDS product disclosure statement is the nomination of beneficiaries form nominating who you want the money to go to. Of course.
+[25 minutes 20 seconds][Customer] : Yep, no, it's been my partner anyway.
+[25 minutes 23 seconds][Agent] : OK, Yep, and then the income protection umm Y you can umm just hang on to for of end of financial year, which is around the corner or you know, months a couple of months away, umm, because it's generally tax deductible.
+[25 minutes 38 seconds][Customer] : Yep, Yep, cool.
+[25 minutes 40 seconds][Agent] : OK, so we'll, OK, so umm, before I just e-mail this one through, sorry, would you like any other information about the insurance now or would you like me to read any part of the PDS to you? Yes or no?
+[25 minutes 51 seconds][Customer] : No, that's fine.
+[25 minutes 52 seconds][Agent] : Perfect. Now income protection, we'll just confirm that you work at least 20 hours per week in administrative, uh, or administration officer, is that correct?
+[26 minutes 1 seconds][Customer] : It's.
+[26 minutes 1 seconds][Agent] : Excellent. And this is paid to you if you're unable to work due to disabling sickness or injury and you lost, you suffer a loss of income. OK, umm, and it's 24/7 worldwide cover where we can offer you anywhere from $1000 all the way up to 75% of your monthly pre tax income up to a maximum of $10,000 per month. So we'll work on that.
+[26 minutes 9 seconds][Customer] : Yep, Yep, Yep, Yep, Yep.
+[26 minutes 23 seconds][Agent] : So pre tax income means income and through personal exertion after the deduction of expenses incurred in producing that income and before the deduction of income, uh, tax. So what is your monthly pre tax income? Please call if I may ask.
+[26 minutes 37 seconds][Customer] : It is 3000 $161.
+[26 minutes 38 seconds][Agent] : Yep, perfect and non-smoker 3161 so we can offer you anywhere from 1000 up to 2370, which is the 75% there off OK, umm, just can I confirm that you've earned this level of income on average for the past 12 months?
+[27 minutes 3 seconds][Customer] : Uh, yes.
+[27 minutes 4 seconds][Agent] : Perfect.
+[27 minutes 13 seconds][Customer] : Oh, sorry. That's my actual taxable.
+[27 minutes 5 seconds][Agent] : Umm, so in say in saying that the month, the maximum monthly benefit we can look at 75% of three 161 is uh, like I said, yeah, no, that's alright.
+[27 minutes 17 seconds][Customer] : That's my after tax. Sorry.
+[27 minutes 19 seconds][Agent] : That's your after tax.
+[27 minutes 19 seconds][Customer] : Let me just call Yeah, sorry. It actually gross is, let me just get into my Facebook.
+[27 minutes 20 seconds][Agent] : No, no, you're right, you're right.
+[27 minutes 31 seconds][Customer] : It's 3750.
+[27 minutes 34 seconds][Agent] : 3750, that's monthly. Yeah, perfect. All right, that'll allow us actually to go up to 2800 and 1275% off OK, Umm, now what benefit amount would you like me to quote you on the 75% off?
+[27 minutes 36 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[27 minutes 50 seconds][Agent] : Yep.
+[27 minutes 50 seconds][Customer] : It's 75%.
+[27 minutes 51 seconds][Agent] : Cool. Alright, so the other two parameters, umm, is the benefit. Is the maximum amount of time that we will pay the income benefit for anyone injury or illness.
+[28 minutes][Customer] : Yeah.
+[28 minutes][Agent] : And you can look at six months, one year, two years or five years. Which benefit. Would you like me to quote you on there, Courtney?
+[28 minutes 7 seconds][Customer] : Uh, it's like at certain periods in a time. Is that what it is?
+[28 minutes 14 seconds][Agent] : Umm, no, it's, it's, it's for, it's for anyone injury or illness. So I'll give you an example. Let's say you've got a one year benefit. OK. And then let's say you're out of action for 14 months. Uh, your Brock leg or whatever, umm, the last two, because the benefit. Is only 12 months. The last two months of that claim, if you like, wouldn't be able to be paid based on the benefit. Chosen.
+[28 minutes 23 seconds][Customer] : Yeah, Yep, Yep.
+[28 minutes 39 seconds][Agent] : Whereas if you had two years, obviously got 24 months worth of benefit, that's just the maximum. Or the benefit. Is the maximum amount of time that we will pay the income benefit for anyone enjoy your illness.
+[28 minutes 52 seconds][Customer] : OK. Would it go 12 months?
+[28 minutes 52 seconds][Agent] : So yeah, 12 months, just a year. Yeah, perfect.
+[28 minutes 54 seconds][Customer] : So just do a year or.
+[28 minutes 59 seconds][Agent] : It's up to you. How about I show you the difference between 2:00 and 1:00 or say 12 months and 24 months and you let me know? I think it's not We'll just have a look together. I don't think it's going to be almost double, you know what I mean? It'll just be a few dollars. Every dollar counts there. So I'll show you the two and you let me know. OK.
+[29 minutes 2 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[29 minutes 15 seconds][Agent] : And then the.
+[29 minutes 15 seconds][Customer] : Even six months because I mean, I don't really see us getting sick for longer than six months.
+[29 minutes 19 seconds][Agent] : Yeah, Well, exactly right, Touchwood, that that's not the case.
+[29 minutes 22 seconds][Customer] : That's when I would go into the disability section anyway for something like that.
+[29 minutes 22 seconds][Agent] : So the PPD talent, but yeah, that's right. And then the waiting period is the non payment period that you must wait before the income benefit is payable after the insured event.
+[29 minutes 28 seconds][Customer] : Yeah, yeah, yeah.
+[29 minutes 36 seconds][Agent] : And you can look at 30 or 90 days. Umm, please keep in mind that the income banner is paid in arrears. So this means if you choose a 30 day waiting period, your first payment would be 60 days after your first eligible to claim.
+[29 minutes 45 seconds][Customer] : Yep, Yep.
+[29 minutes 49 seconds][Agent] : So which waiting period would you like to call you on? 30 Cool. Alright, so I'll show you all three then.
+[29 minutes 52 seconds][Customer] : 30 to you. Sorry.
+[29 minutes 56 seconds][Agent] : So if you go 281230 days, two years, the fortnightly premium is $19.41, uh, $19.41. That's fortnightly.
+[30 minutes 4 seconds][Customer] : It is 41. Yeah.
+[30 minutes 9 seconds][Agent] : So then if you dropped it to one year, it'll bring it down to, uh, $14.95 a fortnight for the one year, and the six months will be $14.22. That didn't change much there. Yeah. And for the sake of of what is it, umm, 73 cents?
+[30 minutes 17 seconds][Customer] : 925, yeah, and oh, it may as well do the one year for like 73 cents.
+[30 minutes 37 seconds][Agent] : Yeah. One year. OK. You want, you want to look at this monthly as well? Is that just easier for you, for everything's monthly?
+[30 minutes 37 seconds][Customer] : Yeah, we'll do one year, yeah, yeah, yeah. Monthly.
+[30 minutes 46 seconds][Agent] : Yeah. 1495 works out to be 3238 per month. OK.
+[30 minutes 51 seconds][Customer] : 3238 Yep.
+[30 minutes 53 seconds][Agent] : You'll get your 10% cash back real reward on this policy as well after the first year. Mental disorder or disease is an exclusion under this policy. So we'll just ask the last couple of income protection questions. But what I've actually done is I've transferred the all the questions on the life insurance across so you don't have to run through all that again.
+[31 minutes 11 seconds][Customer] : Yep, that's perfect.
+[31 minutes 11 seconds][Agent] : OK, All right, so, uh, does your work require to go underground, work at heights above 20 meters, dive to depths below 40 meters, easy explosives or travel to areas experiencing war or civil unrest? Or work offshore? Yes or no?
+[31 minutes 30 seconds][Customer] : No.
+[31 minutes 30 seconds][Agent] : Excellent. How many hours do you currently work per week in permanent paid employment? We have at least 20 hours or more. At least 15 hours, but less than 20 hours or less than 15 hours. At least 20 hours or more. Yep. Perfect.
+[31 minutes 41 seconds][Customer] : Minimum yeah, at least 20 hours a month is easy.
+[31 minutes 44 seconds][Agent] : And do you have a second occupation that generates a taxable income? Yes or no?
+[31 minutes 49 seconds][Customer] : No.
+[31 minutes 50 seconds][Agent] : Have you ever been declared bankrupt or placed in receive a ship in voluntary liquidation or under administration?
+[31 minutes 56 seconds][Customer] : No.
+[31 minutes 57 seconds][Agent] : Perfect. Are you a employed or be self-employed? Employed.
+[32 minutes 1 seconds][Customer] : Employed, not self-employed.
+[32 minutes 4 seconds][Agent] : Have you been in your current occupation for at least 12 months?
+[32 minutes 3 seconds][Customer] : Yes, Yes.
+[32 minutes 9 seconds][Agent] : Do you intend to change your current occupation in the next 12 months? And do you have existing income protection cover?
+[32 minutes 13 seconds][Customer] : No, no.
+[32 minutes 20 seconds][Agent] : And other than what you've already know that's already been done with TPD, that's everything.
+[32 minutes 31 seconds][Customer] : OK, so that's when you're done.
+[32 minutes 32 seconds][Agent] : Uh, that's yeah, I'm just, umm, excellent. So that, that's straight line that quickly because you have the TPD component on the life insurance. We'd asked all those questions anyway, so that's fine. So let me just see what that. So this one has come back also fully approved. Let me just see what's happened to you. Just is a slight increase just based on height and weight, BMI scale for income protection.
+[32 minutes 54 seconds][Customer] : Yep, Yep. Oh, it's going up to date, isn't it?
+[32 minutes 53 seconds][Agent] : So if we leave it at that parameter, 30 days, one years, uh, one year rather or 12 months, it's 45 O 4 per month yeah. So if we do the maths on that, it's showing me here 39.07% what we call lighting. So do you want me to just drop it down to six months and see what that does for you? If it's going to change it drastically?
+[33 minutes 19 seconds][Customer] : Yeah, I would say what 6 months does.
+[33 minutes 36 seconds][Agent] : OK, that will work out to be uh, I thought it was going to change a little bit more, but it's 4285 4285 per month, so that's covering 2812 dollars. OK and 30 days six months. OK the other adjustment you could make only with if it's within what you're looking to achieve, you know, you could maybe step down that the income protection benefit amount to like maybe 2 1/2 thousand to 2500 even or something.
+[33 minutes 50 seconds][Customer] : Yeah, no, I still want to do the definitely.
+[34 minutes 7 seconds][Agent] : You want the 75% Yeah yeah, no, fair enough.
+[34 minutes 8 seconds][Customer] : Yeah, yeah, yeah, definitely. I'll do. I'll just stick to a one year cover file. It was 40. Was it 40?
+[34 minutes 9 seconds][Agent] : I just just we'll go back to that one. That's all right. OK. 4504 exactly per month.
+[34 minutes 39 seconds][Customer] : OK.
+[34 minutes 39 seconds][Agent] : So I'll just bring up this calendar with, uh, just confirming that that's affordable for you. Are you happy with that level of cover?
+[34 minutes 44 seconds][Customer] : Yeah, Yeah, that's one.
+[34 minutes 46 seconds][Agent] : And that way as a business, we generally collect payment within the next 7 days. We ask when in the next 7 days would be more suitable for you?
+[34 minutes 52 seconds][Customer] : Yep.
+[34 minutes 51 seconds][Agent] : Umm, which day was it again? The 26th.
+[34 minutes 55 seconds][Customer] : 26, yeah.
+[34 minutes 57 seconds][Agent] : OK OK.
+[35 minutes 2 seconds][Customer] : Savings.
+[35 minutes][Agent] : Savings or cheque account And in the name of Courtney Thompson and Richard Powell.
+[35 minutes 7 seconds][Customer] : Yes, that's correct.
+[35 minutes 8 seconds][Agent] : And to that BSB, one last time, please.
+[35 minutes 11 seconds][Customer] : Let me get it out. 062691, the account number 1053.
+[35 minutes 13 seconds][Agent] : Yep, Yep, 1053.
+[35 minutes 30 seconds][Customer] : Yep, 7302.
+[35 minutes 30 seconds][Agent] : Yep, 7302. And you've got authority to debit from that account in the name of Courtney Thompson and Richard Powell. And you're happy for that also to come out on the 26th of each month.
+[35 minutes 42 seconds][Customer] : Yep.
+[35 minutes 43 seconds][Agent] : Perfect. This reads Please note calls recorded. And thank you Courtney Thompson. That is important. You understand the following information. I will ask for your agreement to these terms at the end. And your policy will not be enforced unless you agree to these terms in full. Real Income Protection Cover is issued by Hanover Library of Australasia Limited and we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS, to issue and arrange real income protection cover policies on its behalf. Your answers to the application questions and any related documents form the basis of your contract of insurance and Hanover relies upon the accuracy of the information provided by you when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[36 minutes 30 seconds][Customer] : Yes.
+[36 minutes 31 seconds][Agent] : Thank you. Now, we may from time to time provide offers to you via the communication methods you provided to us in relation to other products and services. By agreeing to this declaration, you can send to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover provides the following insurance cover for Courtney Thompson, a monthly amount insured of $2812.00 with a waiting period of 30 days and a benefit period of 12 months. The monthly income benefit payable in the event of a claim may be less than the monthly amount insured as your income benefit is limited to 75% of your average monthly income over any 12 consecutive months during the two years before you suffered your disabling sickness or injury. Your income benefit can also be reduced if you receive payments from other sources. For Courtney Thompson Income Protection, a 50% loading was applied during the application process. Your total premium for your first year of coverage $45 and 0 uh, $45.04 per month. Your premium is a set premium, which means it'll be calculated to each policy anniversary and will generally increase as your age. Your sum insured will also increase automatically by 5% each year, and you can opt out of this each year. Included in the cost is an amount payable by Hanover to GFS of up to 67% of premiums. Your premium will be debited from your bank account DSB 062691, account number 10537302 in the name of Courtney Thompson and Richard Powell which you will author to debit from it or provided to us. A full explanation of the benefits provided under your policy and the exclusions which apply to those benefits is set out in the Product Disclosure Statement. The policy documentation, PDS and FSG will be sent to you within 5 working days and if you've provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. If you are replacing an existing policy with this cover, we recommend that you do not cancel that policy until you have received and reviewed our policy in full. There are risks associated with replacing policies as your new policy may not be identical to your existing cover and there may be other risks you should consider depending on your circumstances. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. And it says here again and thank you. Do you understand and agree with the declaration? I've just read you yes or no? Would you like any other information about the insurance now or would you like me to read any part of the PDS to you, yes or no? Excellent. All right now in terms of what does, because I can get the the quotes all ready for Richard, what time would he be available to run through those health and lifestyle questions there?
+[39 minutes 5 seconds][Customer] : Yes no, Oh God, he wouldn't be available until I'm just trying to think he's working this week.
+[39 minutes 37 seconds][Agent] : It's alright.
+[39 minutes 39 seconds][Customer] : Uh, what time? What time are your hours?
+[39 minutes 38 seconds][Agent] : Just so I'm actually here.
+[39 minutes 43 seconds][Customer] : He wouldn't be.
+[39 minutes 45 seconds][Agent] : Yeah. No, you're right. Yeah, right.
+[39 minutes 45 seconds][Customer] : He he doesn't finish work until 9:30 tonight and umm, yeah, and he starts work at 9:00 in the morning.
+[39 minutes 56 seconds][Agent] : Wow. OK.
+[39 minutes 57 seconds][Customer] : It's the same every day. Yeah, it's the same.
+[40 minutes 2 seconds][Agent] : Yeah, so is that it? Does it shift shift work or something?
+[39 minutes 59 seconds][Customer] : I mean, he has Friday off because it's Good Friday, but yeah, yeah, yeah.
+[40 minutes 8 seconds][Agent] : OK, umm, just trying to work out because the I do, I'm working till 8:00 PM tonight. Umm, I do another late shift on Wednesday where I worked at 8:00 PM in, in his day. Does he get like a break? Because it's what I'll do is if, if you'd like, I can get everything ready for him with you. So then I just need to run through the questions quickly. You know what I mean? You've done all the hard work.
+[40 minutes 39 seconds][Customer] : Yeah, OK.
+[40 minutes 40 seconds][Agent] : Umm, let's let's do that.
+[40 minutes 45 seconds][Customer] : He's a chef.
+[40 minutes 42 seconds][Agent] : So what is, what is, uh, Richard do for, for the chef? OK wow. That's some, it's big hours.
+[40 minutes 55 seconds][Customer] : Yeah.
+[40 minutes 54 seconds][Agent] : Hey, I didn't know, I didn't know you had to do that much.
+[40 minutes 57 seconds][Customer] : Well, are you guys open on the weekends?
+[40 minutes 57 seconds][Agent] : Uh, no, no, no, we Monday to Friday, 8:00 AM to 8:00 PM.
+[41 minutes 4 seconds][Customer] : Yeah, yeah.
+[41 minutes 6 seconds][Agent] : You know, we'll, we'll, we'll be able to work something out, I'm sure. Umm, OK. Is he like a head chef or something?
+[41 minutes 17 seconds][Customer] : No, it's just a qualified chef.
+[41 minutes 17 seconds][Agent] : Or just umm, yeah, yeah. OK, I knew they did some, umm, crazy hours, but I didn't know that much.
+[41 minutes 28 seconds][Customer] : Yeah, sure is.
+[41 minutes 29 seconds][Agent] : Yeah, because it's a hard gig because it's, umm, hospitality, you know, like if you want to, you're you're working at all the times you want to sort of go out, you know what I mean? Like when when people want to go out, like, you know, on the weekend and chef OK, here we go.
+[41 minutes 53 seconds][Customer] : Yeah, the exact same is what I have.
+[41 minutes 47 seconds][Agent] : And we're looking at we need to look at 600,000 life exact same cool. Umm, so I had you had a cigarette in the last four months.
+[41 minutes 56 seconds][Customer] : Yep, Yep.
+[42 minutes 3 seconds][Agent] : Love it.
+[42 minutes 17 seconds][Customer] : 26. Sorry.
+[42 minutes 8 seconds][Agent] : All right, so it's 202615 fortnightly for 600,000 and $0.15 Umm, that's for the 600,000 life component, OK.
+[42 minutes 22 seconds][Customer] : Yep, Yep.
+[42 minutes 27 seconds][Agent] : And umm, the 500,000 TPD is 2385 for 500,000 TPD thing is because you're it's risk rated to, to what you do for work. You know what I mean? So his one's just a little bit more expensive based on that. OK, umm plus even age and and umm gender comes into to play. Obviously, umm, but he's also a non non-smoker, which is good. So I'll let me e-mail that through as well. And umm yeah, is there does he have any sort of any downtime in the shift?
+[42 minutes 40 seconds][Customer] : Yeah, yeah, yeah, yeah. I've had a split section, but I'm not with him. That's the only thing. And so he has no idea what he's doing.
+[43 minutes 7 seconds][Agent] : No, that's fair enough.
+[43 minutes 16 seconds][Customer] : So that's the only issue.
+[43 minutes 17 seconds][Agent] : Well, how about, how about if you, if you can give him all those figures, you, everything's saved ready to go. Like I said, you've done all the hard work, right? Umm, So what we'll do is we'll, you have a chat with him and, and let him know that that's what it is. This is the process. We just need to run through the health and lifestyle questions quickly with him and then I can call him on that split shift time. What what works?
+[43 minutes 25 seconds][Customer] : Yeah, probably best. I would say about 3:00 maybe. Are you working tomorrow? Yes, I would say around that 3:00 tomorrow.
+[43 minutes 54 seconds][Agent] : Yeah, 3:00 tomorrow, 3:00.
+[44 minutes 3 seconds][Customer] : Oh, actually he types his number so I think when is the best time because he's not with me and he'll wanted to be on my mobile. Umm, umm, hello.
+[44 minutes 19 seconds][Agent] : Yeah, Yeah, still here.
+[44 minutes 20 seconds][Customer] : Oh, sorry. Umm, if you e-mail me, can I e-mail you back once I speak to him? Because he's at work right now, so it's really hard for me to sort of speak to him.
+[44 minutes 30 seconds][Agent] : Yeah, there's no, I mean, you can reply to the e-mail. I think it prompts me to give you a call if you say, if it says ready to go ahead if it's got that function on the one I sent through for you. But your actual policies are in force and active now you're covered on both of those.
+[44 minutes 34 seconds][Customer] : Yeah, yeah, yeah, yeah. If you want to e-mail me, he's separate or something, I don't know.
+[44 minutes 46 seconds][Agent] : So it may not give you that option, whereas what I can do, just thinking, do do you want me to follow up later?
+[45 minutes 2 seconds][Customer] : Follow up, Rick. Yeah, follow up Rick one, umm, if you can, like make. I don't know. I'm thinking what am I with him? You know, open all weekends.
+[45 minutes 3 seconds][Agent] : Yeah, yeah, no, unfortunately, sorry about that.
+[45 minutes 16 seconds][Customer] : So I know we're together on the 26th. He's not working that day either, am I?
+[45 minutes 19 seconds][Agent] : Yeah, yeah, of course I can. Yeah, I can give you a courtesy call on the 26th.
+[45 minutes 22 seconds][Customer] : So unless he's, if you follow me up on the 26th, umm, I mean mom will be in place already, but he's can then go in after that.
+[45 minutes 30 seconds][Agent] : Yeah, of course I can. That's fine.
+[45 minutes 34 seconds][Customer] : But the only thing is, is that it would be separate transaction dates when that for the policies to come out.
+[45 minutes 39 seconds][Agent] : Uh, yes, it would. But what I could do possibly let me just have a look at it and allow me to do that 26 Yeah, just. It'll just be shy of the umm wha? What about would you? Will you be speaking with him before, before he finishes tonight?
+[46 minutes 3 seconds][Customer] : No, because he doesn't. He's already had his brake. He's already had his split brake.
+[46 minutes][Agent] : Like maybe in umm, Yeah, OK. Umm ho. How about just more of a courtesy than anything. I'll touch base with you tomorrow sometime That works for you while I don't get you at work or anything.
+[46 minutes 17 seconds][Customer] : Yeah, yeah.
+[46 minutes 18 seconds][Agent] : And then just see see where where we've gone. You know, if, if umm understand, you know, you, you probably won't be that keen to pass on his number, but it would just be safe and secure in, in his profile. And we'd really only have to call it that one time to go through the questions. I'm not suggesting you have to hand it out now. You just just have a, have a chat with him and just just make him aware. And, but I think if it comes from, you know, from you yourself, it'll be more comfortable with it, that idea, you know what I mean?
+[46 minutes 39 seconds][Customer] : OK, yeah, OK.
+[46 minutes 50 seconds][Agent] : Umm, and then that way, you know, you just say, look, I've done all the hard work. All you need to do is go through these questions and, and listen to these declarations. It'll take 15 minutes, you know what I mean? Not even, because like I said, you've done all the actual hard work on it. Umm, And then same thing I just sent you in the BSP account number the day he wants it to come out, if he wants it to come out with yours or you want his to come out with yours, whatever is, just let him know the date and everything, and then we'll go through there. How's that sound?
+[47 minutes 6 seconds][Customer] : Yeah, OK. I'm just doing my math right now.
+[47 minutes 24 seconds][Agent] : Yeah, you're right.
+[47 minutes 24 seconds][Customer] : Sorry just for his color because of course he's older and everything is more expensive.
+[47 minutes 28 seconds][Agent] : Yeah. See the more expensive part of his policy is you can do compared to yours, as you can see rather compared to yours is that TPD just the risk rating of it. But you can you can play around with the figures anyway.
+[47 minutes 54 seconds][Customer] : OK, OK.
+[48 minutes 6 seconds][Agent] : That one, no, that one won't come up because of the profile and how it's set up. We have to go through those questions. What's what's his monthly pay tax income?
+[48 minutes 1 seconds][Customer] : And then do you know roughly what his income protection would be a month, uh, pre tax would be 4166?
+[48 minutes 17 seconds][Agent] : Yeah, 4166. So we can then offer a cover, $3124.00 worth of cover for his one.
+[48 minutes 30 seconds][Customer] : Yeah, Yep, Yep.
+[48 minutes 40 seconds][Agent] : Umm, but yeah it'll be on we're just sitting in the link. Umm, I did yes and OK like I'll show him all the different options with the six months, one year, 2 years as well, but I guess you just want it set up the same as yours, do you? Almost identical.
+[48 minutes 55 seconds][Customer] : Yeah, These are standards, right?
+[48 minutes 56 seconds][Agent] : Yeah, yeah. Alright.
+[48 minutes 56 seconds][Customer] : Yeah, Because I just need to know that if it's because if this isn't under what I've been quoted elsewhere, then OB obviously I'm going a bit cheaper.
+[48 minutes 59 seconds][Agent] : So in terms of umm, yeah, yeah, yeah, of course. Definitely. I totally understand.
+[49 minutes 10 seconds][Customer] : Umm, so that's why I need to know what his would be. So then I can sort that out.
+[49 minutes 14 seconds][Agent] : Yeah, yeah. So I've you've got all the figures for the life and TPD, is that right? Yeah, And he's, umm, he said all fit and healthy. Just asthma maybe, you said.
+[49 minutes 24 seconds][Customer] : Yeah, yeah, yeah, yeah, I can see that. I think.
+[49 minutes 42 seconds][Agent] : Yeah, but he's a nonsmoker as well. Yeah. OK.
+[49 minutes 45 seconds][Customer] : Yeah, yeah, yeah.
+[49 minutes 44 seconds][Agent] : So why? Why would they let you bet on something that you already had to do? Just gonna get out of your profile. What's the best time I can call you tomorrow just to touch base?
+[50 minutes 1 seconds][Customer] : Umm, you can call me at 3:00. That's fine.
+[50 minutes 2 seconds][Agent] : You wouldn't believe it, right?
+[50 minutes 5 seconds][Customer] : Oh, yeah. Three. That's fine.
+[50 minutes 15 seconds][Agent] : OK, his date of birth. Sorry. Yeah, 89. That's right. All right, sorry. What's your, because your work numbers come up on this one again, somehow I'm not sure what's your mobile contact? Yep. Just hold on 0447. Yep.
+[50 minutes 19 seconds][Customer] : The ninth of the 1st 1989 044741 Oh yeah, SO 0447416099.
+[51 minutes 7 seconds][Agent] : Excellent chef and of course he works more than 20 hours per week. Of course much more. He does that almost in 2 days.
+[51 minutes 16 seconds][Customer] : Yes, about that.
+[51 minutes 30 seconds][Agent] : OK.
+[51 minutes 35 seconds][Customer] : Yep. Yeah, we'll do one year, $30.
+[51 minutes 31 seconds][Agent] : So 4166 is that's pre tax cool and are we looking at one year cool $30.84 fortnight, so 3124 thirty days one year, so same same parameters as your one.
+[52 minutes 2 seconds][Customer] : So it's 666682 a month, is that correct?
+[52 minutes 9 seconds][Agent] : I think you've done the maths right. Yes, Yep.
+[52 minutes 12 seconds][Customer] : Yeah, let's do all my calculations of everything.
+[52 minutes 17 seconds][Agent] : Yeah, no, that's, that's spot on. Plus you get you get 10% cash back on both of his policies as well. And we're we're giving you a call back tomorrow at around 3:00. And then, yeah, just just so you know the figures, even when he's ready to run through the questions, I can, I can make sure I'll do the same as I did with your one. Just try to streamline it so we don't have to double handle all the the questions on both policies. I'll just G copy them across to that one. OK, perfect.
+[52 minutes 43 seconds][Customer] : Yeah, OK. No worries.
+[52 minutes 44 seconds][Agent] : Well, I'll follow up tomorrow at 3 for you just to touch base to see how you're going and and we'll go from there.
+[52 minutes 53 seconds][Customer] : Thank you very much.
+[52 minutes 52 seconds][Agent] : Alright, you're most welcome and have a have a lovely evening. Thank you.
+[52 minutes 56 seconds][Customer] : You too.
+[52 minutes 57 seconds][Agent] : Cheers.
+[52 minutes 57 seconds][Customer] : Bye.
+[52 minutes 57 seconds][Agent] : Bye.

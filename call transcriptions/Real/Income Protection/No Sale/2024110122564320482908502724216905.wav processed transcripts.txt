@@ -1,0 +1,78 @@
+[15 seconds][Customer] : This is Kylie.
+[19 seconds][Agent] : Hi, Kylie, it's Dean calling from Real Health Insurance. How are you?
+[18 seconds][Customer] : Oh, hello. Good.
+[26 seconds][Agent] : Very well actually thank you for asking.
+[24 seconds][Customer] : How are you going?
+[29 seconds][Agent] : Uh, Carly, I was giving you a call and she had recent an inquiry on our website in regards to the health insurance and I was calling you back in regards to answer any questions you may have and help you further with it all. Umm, what prompted you to have a look at our health insurance?
+[44 seconds][Customer] : Well, I've taken out income protection insurance with you and I've just got an updated bill from by HealthPartners that has increased to something like $320 a month. So it's just doing comparison costs.
+[1 minutes 3 seconds][Agent] : OK alright well I'm happy to go through some options with you and see what we can do for you then today.
+[1 minutes 9 seconds][Customer] : OK.
+[1 minutes 12 seconds][Agent] : Alright so just firstly before we go through it all, I just need to let you know all our calls are recorded for quality watching purposes to make sure I'm with the right person. Can I have you to confirm your name for me please?
+[1 minutes 26 seconds][Customer] : Yes, Kylie Scott.
+[1 minutes 31 seconds][Agent] : And your date of birth.
+[1 minutes 33 seconds][Customer] : January 1971.
+[1 minutes 32 seconds][Agent] : OK, great. Thank you. And is this something that we're looking at just for yourself today or? OK. All right. Thank you. So who are you with currently at the moment there, Kylie?
+[1 minutes 47 seconds][Customer] : No, myself and my 13 year old son, HealthPartners, they're called.
+[2 minutes 6 seconds][Agent] : Alright, so you're just looking away from them just to see if you can save some money, is that correct? Mm, hmm.
+[2 minutes 12 seconds][Customer] : Well, I'm getting older and my son's getting younger for some reason, but as I, as I mentioned, he's 13. I'm more interested in covering him.
+[2 minutes 29 seconds][Agent] : Mm Hmm.
+[2 minutes 23 seconds][Customer] : And as I'm getting older, I don't need things like gynecology or parental or I'm not having any more babies.
+[2 minutes 32 seconds][Agent] : Yeah.
+[2 minutes 32 seconds][Customer] : Umm, he's enough. Thanks. Umm, So yeah. So I was just, yeah, looking for comparison.
+[2 minutes 41 seconds][Agent] : So with what you have at the moment, is it a hospital covering extras or hospital only or?
+[2 minutes 47 seconds][Customer] : Yeah, it's hospital and extras and I pay currently with HealthPartners. I think it's off the top of my head, it's something like $318 a month.
+[2 minutes 59 seconds][Agent] : OK. All right, so, All right, So what I would actually like to do here with you first, umm, it's just go through some questions with you so I can get a better understanding of what your needs are, what you're looking for. Umm, so then that way I can recommend suitable level of cover for yourself and also for your son.
+[3 minutes 16 seconds][Customer] : OK, OK.
+[3 minutes 21 seconds][Agent] : So umm, you mentioned you're more so concerned about making sure you have the right coverage for him.
+[3 minutes 28 seconds][Customer] : Yes.
+[3 minutes 27 seconds][Agent] : So in regards to your hospital cover, first what things are important to you to make sure that you would be covered for under your level of hospital cover? Mm hmm. Mm hmm.
+[3 minutes 37 seconds][Customer] : Umm, well I can umm, I've got a fair bit of money in the bank so I can umm, have the excess of 750 per visit and I understand that umm, once a year, no matter how many visits it is the current thing with HealthPartners, umm, and then just being a 13 year old boy that plays rugby and if he has a twisted ankle, a broken ankle, a broken arm or he's who, God, God knows what, umm, just that he has full access to hospitals and maybe any rehabilitation from a physio point of view or umm, those types of things.
+[4 minutes 18 seconds][Agent] : OK, OK. So when you say rehab first, are you wanting to make sure he would be covered for rehabilitation? It was required in hospital. Mm hmm. Mm hmm.
+[4 minutes 27 seconds][Customer] : Umm, when I say rehabilitation, yeah, I guess if he broke his ankle or his leg or whatever the case may be.
+[4 minutes 35 seconds][Agent] : Mm hmm.
+[4 minutes 32 seconds][Customer] : So I stick him in hospital and he gets the treatment that he needs to have a leg, umm, fixed, not replaced. I would hope umm and just, yeah, just just things with the 13 year old boy.
+[4 minutes 50 seconds][Agent] : Yeah, no, I understand. So because I'm just looking the hospital covers that and that's why I just want to clarify because I know sometimes after an injury, you do have the option to go to like a physio, umm, like that. Umm, or sometimes in regards to like if you have or like a joint replacement or you may require like rehabilitation or umm, or if it's like after you've had like a physical surgery or something in the hospital. And that that's what I'll see if that, that's what just a little see if that is thought you'd be looking for as well.
+[5 minutes 24 seconds][Customer] : Yeah.
+[5 minutes 26 seconds][Agent] : So just having so just having a look.
+[5 minutes 37 seconds][Customer] : Oh, sorry, you're breaking up on me. Let me see if I can move my car. What did you just say?
+[5 minutes 29 seconds][Agent] : So I'll make sure that we I'll make sure that the football you were saying football, you were saying so he was saying he plays football. He was saying he plays football.
+[5 minutes 48 seconds][Customer] : Oh, it it's seasonal football season. All the right thing. OK, so he's coming into the season, he's never had any injuries, but he he just, he, he's just got No Fear. So I'll look at that as a single parent to make sure he's covered.
+[6 minutes 5 seconds][Agent] : Mm hmm. Mm hmm. Mm hmm. Mm hmm, mm. Hmm. OK, OK, alright. So, alright, so I'm having a look here. Look here, so I'll make sure we have coverage so I'll make sure we have coverage for enjoying unbox also fine as well as well too. Umm, just, umm, just happy, Yeah. And was there anything that you you had coverage for or is this also for him?
+[6 minutes 39 seconds][Customer] : Well, I guess no, I'm health healthy, I'm fit, fit. I'm but I'm 53. I'm not getting any younger. So whatever old age problems that might be out there, who knows?
+[6 minutes 53 seconds][Agent] : Are you, do you have any, are you, do you have any like cataracts at all or not really?
+[7 minutes][Customer] : No, no, no, nothing like that.
+[7 minutes 2 seconds][Agent] : Thank you.
+[7 minutes 3 seconds][Customer] : I'm I'm 100% fit.
+[7 minutes 4 seconds][Agent] : Thank you. All right. OK. So, so just so the definition up, just so the definition up in regard of hospital coverage rehabilitation, just to see if the hospital can just to see for an example of that, for an example of that and it would be indication rehabilitation, cardiac rehabilitation.
+[7 minutes 33 seconds][Customer] : OK, Can I stop you?
+[7 minutes 32 seconds][Agent] : So yeah.
+[7 minutes 36 seconds][Customer] : Oh, can I stop you for a minute? I'm getting a lot of feedback. Can I just let me get upstairs? Can you call me back in about 5 minutes?
+[7 minutes 44 seconds][Agent] : Yeah, I'll give, I'll give you a call.
+[7 minutes 48 seconds][Customer] : Yeah, please. Because I'm getting feedback where you're saying things. Thanks. Twice. And I I can't understand you.
+[7 minutes 54 seconds][Agent] : OK. I'll give you a call back in 5 minutes.
+[7 minutes 56 seconds][Customer] : Oh, no, you're right now. OK. Keep talking. You're right now. It's good.
+[8 minutes][Agent] : It's alright. So it's just saying I'm tossing up between 2 levels.
+[8 minutes 6 seconds][Customer] : Yep.
+[8 minutes 5 seconds][Agent] : I'm looking at the moment for the hospital cover.
+[8 minutes 16 seconds][Customer] : OK.
+[8 minutes 8 seconds][Agent] : One has full coverage in regards to the rehabilitation but one has minimum benefits payable, so have a look here for you. In regards to the extras, What extras do you wanna make sure you'd be covered for?
+[8 minutes 29 seconds][Customer] : Umm, OK. No, I guess more so for him. Physio. Umm. Chiropractic eye, uh, for glasses, umm, I'm, we're not in the massages or anything like that. Umm, we don't need gym rehabilitation if it's going to physio. So I guess it's just a comparison through through what you've got as as options for that.
+[9 minutes][Agent] : OK, so I'm just having a look here. And do you use anything at all?
+[9 minutes 11 seconds][Customer] : No, not unless I have to. But no, I use I maybe once every two years, but in saying that, that's not that much of A benefit to me simply because I can pay for it out of pocket if I need to.
+[9 minutes 26 seconds][Agent] : OK, let's have a look then and have either of yourself or your son, have you had to go to hospital at all, say within the last five years? Mm. Hmm.
+[9 minutes 37 seconds][Customer] : I have to take my breast implants out, but that was all active and I paid for that out of my own pocket. But otherwise, no, we haven't been in hospital.
+[9 minutes 48 seconds][Agent] : OK. All right. Great. Just a second. So just to clarify the things that are important to you is to cover those things for your someone like as well to discuss about the joint, bone, joint and muscle, the back and neck and spine. And I'll give you the whole options in regards to the rehabilitation. And then for your extras to have like physio, chiro, optical, is that correct?
+[10 minutes 32 seconds][Customer] : Yes, that sounds good.
+[10 minutes 33 seconds][Agent] : OK. Do you need anything in regards to dental at all?
+[10 minutes 36 seconds][Customer] : Yes we do. Sorry, didn't add that. I forgot he's the grind boy. Yeah, he's, he's got no problem.
+[10 minutes 43 seconds][Agent] : So at the moment, is it something you're just going for like your check ups and claims or just OK, Yep.
+[10 minutes 49 seconds][Customer] : He's got no problems with his teeth, nor have I, umm, he doesn't need braces or anything like that. Umm, but just just to clean them and make sure they're all aligned and doing whatever they need to do.
+[10 minutes 55 seconds][Agent] : Mm hmm, OK, alright, lovely. Just be a second. OK, I think I've got an idea what I'll look at for you. Now, can I confirm your Sophie, your son used both have full Medicare eligibility?
+[11 minutes 53 seconds][Customer] : Yes, we do.
+[11 minutes 54 seconds][Agent] : OK, perfect. Thank you. And have you held hospital covered continuously for a period of 10 years? All right, lovely. And what state do you reside in?
+[11 minutes 54 seconds][Customer] : Yeah, we have resettle house.
+[12 minutes 6 seconds][Agent] : All right, perfect. Thank you. Now you may be eligible for the Australian Government rebate as it is income tested. I'm just gonna read some TS out to you. If you could just let me know which T you would fall into, that would be great so that I can include that in the quote. So for T0 it would be $186,000 or less. So is your income higher than that or lower than that?
+[12 minutes 20 seconds][Customer] : OK, OK, Laura.
+[12 minutes 35 seconds][Agent] : Alright, lovely. Thank you. Is it alright? Just checking here. And did you want me to quit you monthly today? Alright. Is your income, is it under 93,000?
+[12 minutes 51 seconds][Customer] : Yes, please, no 154 just on jumping on my elevator. Don't hang up. I mean, OK, I just need to get to my yes, but we'll reconnect in a minute, so don't hang up.
+[13 minutes 14 seconds][Agent] : You you're right.

@@ -1,0 +1,34 @@
+[0 seconds][Customer] : Thank you for calling the translating and interpreting service Tis National. Which language should the interpreter speak saying the language name, for example Mandarin or Arabic? Tell me which language interpreter do you need? Thanks. You've asked for Tamer, is that right?
+[27 seconds][Agent] : Leo No, sorry. Lao.
+[40 seconds][Customer] : Alright, let's try again. Which language do you need?
+[46 seconds][Agent] : Lao.
+[48 seconds][Customer] : Thanks. You've asked for now.
+[46 seconds][Agent] : Oh yeah, yeah, yes.
+[52 seconds][Customer] : Is that OK? Please wait while we contact an operator. For information on how TIS National handles your personal information, please read our Privacy Notice located on our website at tisnational.gov dot AU. This is Grace. How can I help you? What language, Lau, Thank you. And what is your client's code, please? Yeah, thank you. And where you calling from And your full name? Surname F for Frank UNAKI. Thank you. And your file's ID? Yeah. And your contact number? Your agency.
+[2 minutes 36 seconds][Agent] : I'm Lao please Yep C9 double 8607 Greenstone financial services sita sita SUNAKI Yep 27036647 sorry.
+[3 minutes 37 seconds][Customer] : Yeah, thank you. And the client is a male or female?
+[3 minutes 35 seconds][Agent] : 8886 8300 female.
+[3 minutes 47 seconds][Customer] : Thank you. And her name?
+[3 minutes 49 seconds][Agent] : I guess it's quite a long 1.
+[3 minutes 53 seconds][Customer] : Yeah, Yeah.
+[3 minutes 50 seconds][Agent] : So Sal double ELA WAB EE P for Peter RA WA KEL.
+[4 minutes 2 seconds][Customer] : Surname, yeah, yeah, Thank you. No worries. Uh, is the client on the line?
+[4 minutes 16 seconds][Agent] : No, I'm going to dial her.
+[4 minutes 19 seconds][Customer] : OK. We actually don't have any certified interpreters in the fridge, uh, that are logged in at all. Uh, that was a bit of a hard language you guess. And yeah, I can try the two certified that aren't logged in and see if they answer, which it might be highly unlikely. Do you know how long the call will take?
+[4 minutes 42 seconds][Agent] : Umm, maybe 30 minutes.
+[4 minutes 41 seconds][Customer] : Let me just call the two certified and see if either 1 answers.
+[4 minutes 50 seconds][Agent] : OK, thank you.
+[4 minutes 49 seconds][Customer] : OK, please hold.
+[4 minutes 52 seconds][Agent] : Thanks.
+[4 minutes 52 seconds][Customer] : Please wait while we contact an interpreter. No, both, umm, both phones are turned off I'm afraid.
+[5 minutes 22 seconds][Agent] : No, that's fine. Do you know when is the best time to call? Oh, really?
+[5 minutes 28 seconds][Customer] : No, we don't get many interpreters for low login at any time to be honest.
+[5 minutes 33 seconds][Agent] : Oh, OK.
+[5 minutes 31 seconds][Customer] : And umm, now it's a very uncommon like, well, yeah, we don't get many calls. 1st and interpreted login is all. There is one interpreter logged in, but he's not certified.
+[5 minutes 41 seconds][Agent] : Oh, yeah. Yeah.
+[5 minutes 40 seconds][Customer] : Yeah, it's the lower Yeah.
+[5 minutes 42 seconds][Agent] : Does have to be certified. Oh, OK. No, that's fine. Yeah.
+[5 minutes 43 seconds][Customer] : So, yeah. And yeah, sorry about that.
+[5 minutes 48 seconds][Agent] : Oh, no, no, that's fine. That's fine. OK. Sure. Thank you.
+[5 minutes 48 seconds][Customer] : No worries. Thank you. Bye. Bye.
+[5 minutes 52 seconds][Agent] : OK, bye.

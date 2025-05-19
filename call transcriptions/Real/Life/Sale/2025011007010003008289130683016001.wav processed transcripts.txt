@@ -1,0 +1,181 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hey there, Charmaine, it's Adam calling from real insurance, just giving you a call back to follow up with the life insurance enquiry.
+[9 seconds][Customer] : Oh, wonderful. Thank you for that. Yeah.
+[10 seconds][Agent] : Yeah, yeah, no, I'm so happy to help out with that, to help out with that today. Charmaine, what I'll do first, I'll just get you to confirm your full name and date of birth for me, please, just as part of our ID check.
+[20 seconds][Customer] : 16th of May 1960.
+[24 seconds][Agent] : Yep. And and Charmaine, your full name. Yep. Sorry.
+[25 seconds][Customer] : SH Charmaine, Dawn Ducheau.
+[28 seconds][Agent] : Awesome. Thank you so much for that, Shaman. I'll quickly let you know that our calls are recorded and any advice I provide is general nature may not be suitable to your situation. Shaman, I'm. I'm definitely happy to take you through that cover today. It looks like you've. Yeah, it looks like. MM, Hmm. Mm, hmm.
+[36 seconds][Customer] : OK, I just mine just I just the let went over and I discussed and I I don't know why, but I just hadn't been that busy with work and everything.
+[54 seconds][Agent] : Mm hmm.
+[51 seconds][Customer] : So and I thought I'd just sort of give it a call and and just give they should have done it. Oh, really? A hell long ago. But it's my own fault.
+[1 minutes 1 seconds][Agent] : Oh, that's OK.
+[1 minutes][Customer] : And I and I was hoping, I thought that they might have been that after six months you can't go back. Is that right? After the six months that you've actually expired, you know, that it's gone over O over the due date. Is that the policy that.
+[1 minutes 8 seconds][Agent] : After, after six months, what sorry of of the of of the commotes for the policy.
+[1 minutes 18 seconds][Customer] : Yeah, No, the policy that I had. Yeah, I did have.
+[1 minutes 20 seconds][Agent] : Oh, as in, oh, good to say you had a policy with with your insurance.
+[1 minutes 24 seconds][Customer] : So now I have to.
+[1 minutes 25 seconds][Agent] : OK, sure.
+[1 minutes 26 seconds][Customer] : Yeah. This is another one. I have to start up again.
+[1 minutes 26 seconds][Agent] : Yeah, yeah, OK. No, no worries at all. Happy to help out with that today. I mean, that's OK.
+[1 minutes 30 seconds][Customer] : Yeah, Yeah.
+[1 minutes 32 seconds][Agent] : Umm, yeah, I definitely understand. Sometimes life gets in the way. And umm, yeah, I think it's at the moment. I'm happy to help out today.
+[1 minutes 38 seconds][Customer] : Thank you.
+[1 minutes 38 seconds][Agent] : And yeah, So what I'll do for you, Charmaine, is I'll just go through quickly what they're covering because again, I know you might be familiar with it. I'll just quickly run through that with you.
+[1 minutes 47 seconds][Customer] : Yep.
+[1 minutes 49 seconds][Agent] : Umm yes. So with the cover, it is uh designed to provide that financial protection for your loved ones through a lump sum payments.
+[1 minutes 56 seconds][Customer] : Mm, hmm.
+[1 minutes 55 seconds][Agent] : Umm, if you were to pass away umm and so I'll take you through. You know some of the things that Inc include.
+[2 minutes 4 seconds][Customer] : Right.
+[2 minutes][Agent] : So it includes an advance payment of 20% of the benefit amount uh up to a maximum of 20.
+[2 minutes 9 seconds][Customer] : Yep.
+[2 minutes 5 seconds][Agent] : That sorry $20,000 just to help out with any funeral costs or any other final expenses at the time.
+[2 minutes 11 seconds][Customer] : Mm. Hmm.
+[2 minutes 11 seconds][Agent] : Uh, and it also provides you with terminal advance payouts.
+[2 minutes 17 seconds][Customer] : Right.
+[2 minutes 15 seconds][Agent] : Umm, which is also included in the coverage Xiaomi and yeah. We keep it nice and simple for you. Everything's on over the phone. There's no forms to fill in on medical medical checks or podcasts to complete.
+[2 minutes 23 seconds][Customer] : Lovely. OK.
+[2 minutes 23 seconds][Agent] : We just, we just take you through the health and lifestyle questions as this will determine the pricing in terms of the policy. OK umm, so just in regards to that, do you have any questions for me so far?
+[2 minutes 28 seconds][Customer] : Yeah, No, nothing at that stage.
+[2 minutes 34 seconds][Agent] : OK, yeah, so I'll bring up some pricing for you. Xiaomi, umm, just to begin with, have you had a cigarette in the last 12 months?
+[2 minutes 35 seconds][Customer] : No, no, a nonsmoker.
+[2 minutes 43 seconds][Agent] : Awesome, That's good to hear. Nice and healthy choice and just with the, the, uh, the benefit amount, so you're looking at uh, an amount between $100,000 up to $500,000. What would you, umm, I see in the I see we're interested in 300,000. Is that correct?
+[3 minutes][Customer] : Yeah, that was correct.
+[3 minutes 1 seconds][Agent] : Yeah.
+[3 minutes 1 seconds][Customer] : What? And what price would that be?
+[3 minutes 4 seconds][Agent] : Mm hmm. So if you're looking at $300,000, you're looking at the format of a premium of $172.28. OK.
+[3 minutes 3 seconds][Customer] : So between that and the 500, yeah, fortnightly watch a monthly.
+[3 minutes 14 seconds][Agent] : So that, that that's per fortnight.
+[3 minutes 16 seconds][Customer] : OK.
+[3 minutes 16 seconds][Agent] : Yeah, I can change it to monthly for you. So monthly you're looking at $373.28. That's what $300,000 of cover.
+[3 minutes 18 seconds][Customer] : Yeah, right.
+[3 minutes 26 seconds][Agent] : Yeah. So how is that sounding for you so far? Is that something that sounds suitable with the 300,000? Did you want to look at?
+[3 minutes 30 seconds][Customer] : Yeah, no, that sounds, that sounds good.
+[3 minutes 32 seconds][Agent] : Yeah, OK.
+[3 minutes 32 seconds][Customer] : Yeah, yes, thanks.
+[3 minutes 34 seconds][Agent] : Not is it did you did you want to look at the 500,000 or just the. OK, Sure.
+[3 minutes 37 seconds][Customer] : Well, just yeah, as an option just to look give that, yeah, that the that see what's there.
+[3 minutes 41 seconds][Agent] : Yeah, just just because you, yeah, if you're looking at $500,000, uh, the monthly premium would be $622.14.
+[3 minutes 42 seconds][Customer] : But yeah, month.
+[3 minutes 50 seconds][Agent] : OK, That, that's per month. Yeah, correct.
+[3 minutes 52 seconds][Customer] : Yeah. OK. Now we'll start with the 300. We'll stay with the three-year.
+[3 minutes 53 seconds][Agent] : Umm, so in yeah, OK, yeah, yeah, sure. No is at all.
+[3 minutes 56 seconds][Customer] : Yeah, yeah.
+[3 minutes 58 seconds][Agent] : Uh, also quickly mentioned shaman and, uh, real insurance also gives you that, uh, uh, 10% refund. And so if you were to, so I'm sorry, at the end of the first year, we'll give you that 10% refund of your premiums that you've paid in that time. So that would come to $447.94 and they'll automatically get refunded back to you at the end of the first year. Uh, so the next step he shaman is just to take you for this help.
+[4 minutes 25 seconds][Customer] : OK.
+[4 minutes 23 seconds][Agent] : And last, last questions I mentioned, OK, so I'll get that started for you. And so just bear with me one moment.
+[4 minutes 25 seconds][Customer] : Yeah, yeah.
+[4 minutes 33 seconds][Agent] : I will have to get your address just to get the into those questions. Yeah. So could I get your address?
+[4 minutes 40 seconds][Customer] : Do the address. Yeah, it's I'm punctured to do my PA box if that's OK or do you need them?
+[4 minutes 48 seconds][Agent] : Yeah, No, yeah.
+[4 minutes 49 seconds][Customer] : Yeah, the PA box would be better.
+[4 minutes 49 seconds][Agent] : So usually I just get your I get your yeah. So I'll get your home address.
+[4 minutes 53 seconds][Customer] : An address, yes, definitely. Yeah.
+[4 minutes 53 seconds][Agent] : Just have that on record and also the postal I I can get both for you. Yep. Hmm. Mm.
+[4 minutes 57 seconds][Customer] : Post the address is 12 Barge B for Bob ARGE Court CORU yeah.
+[5 minutes 3 seconds][Agent] : Yep, Yep, yeah, yeah, yeah, yeah.
+[5 minutes 6 seconds][Customer] : Anyway, Armadale.
+[5 minutes 8 seconds][Agent] : 12 bites. Cool. Yep. Armadale.
+[5 minutes 8 seconds][Customer] : Armadale is W yeah, WA 6112.
+[5 minutes 11 seconds][Agent] : Yep, Yep, no worries at all.
+[5 minutes 13 seconds][Customer] : That's the postal and the PA box is 506. Armadale Post code is 6 double 9/2.
+[5 minutes 15 seconds][Agent] : And Yep, yeah, that's awesome. OK, yeah, no worries at all. I've got that down for you. And also I have to read out something called a pre underwriting disclosure for you, Xiaomi.
+[5 minutes 29 seconds][Customer] : Yeah, understandable.
+[5 minutes 29 seconds][Agent] : So it's just a just, yeah, just a reminder to be truthful to any questions. I'll just quickly read that out to you and I'll ask the agreement. And so please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access incorrect information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means they need to ensure that you understand each question I ask you and they provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us and any other discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, you insurer may be entitled to cancel your policy, decline the claim, or make adjustments to the term, terms and conditions of your policy. Now, Charmaine, do you understand and agree to your duty? Thank you. The first question I have here for you is just in relation to COVID. So it says here, have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[6 minutes 26 seconds][Customer] : Yes, No.
+[6 minutes 40 seconds][Agent] : Thank you. And Charmaine, are you a so most, sorry, just the premise to most of these questions for you, Charmaine, most of them are yes or no. So I read out the whole question. I'll just ask for a yes or no at the end. OK. So the first one is, are you a citizen or permanent resident of Australia or a citizen of New Zealand currently residing in Australia, yes or no?
+[6 minutes 50 seconds][Customer] : OK, yes.
+[7 minutes 1 seconds][Agent] : And the next section, the next section, there's an overarching question. So as I say, have you ever had symptoms of, been diagnosed with or treated for or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Yes or no. Lung disorder excluding asthma, sleep apnea or pneumonia, cancer, leukemia or Melanoma, excluding other skin cancer, a kidney disorder, hepatitis, or any disorder of the liver, Anxiety, depression or stress requiring medical treatment, or any other mental health disorder. And have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for but a neuron disease or any form of dementia including Alzheimer's disease?
+[7 minutes 17 seconds][Customer] : No, no, no, no, no, no, no, no.
+[7 minutes 57 seconds][Agent] : Thank you. And Shaman, the next section is in relation to your height and weight. So Sicia, please be aware that I know required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or heights and weight ranges. So Shaman, what is your exact height? Sorry, was that 5153?
+[8 minutes 17 seconds][Customer] : OK, 53 Yes, Yep.
+[8 minutes 23 seconds][Agent] : Did you say it's a hundred 153 centimeters? You happy to put that in there?
+[8 minutes 28 seconds][Customer] : Yes, please.
+[8 minutes 28 seconds][Agent] : Yep, not at all. And your exact weight 72, is that kilograms?
+[8 minutes 29 seconds][Customer] : Yes, 72, Yes.
+[8 minutes 36 seconds][Agent] : Yep, no worries at all. And Shaman, have you experienced any unexplained weight loss of more than 5 kilograms for the last 12 months?
+[8 minutes 46 seconds][Customer] : No.
+[8 minutes 47 seconds][Agent] : OK. And next one is just in regards to your occupation. Does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest or work offshore? And to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? And do you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months?
+[9 minutes 6 seconds][Customer] : No, no, no, no.
+[9 minutes 27 seconds][Agent] : And do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5 million that's OK. And next section is just in relation to your medical history. So this one also has an overarching question. It says have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, mole or cysts, including skin cancer or sunspots? And have you ever had an abnormal cervical smear, a thyroid condition or neurological symptoms such as sorry. Thyroid condition or neurological symptoms such as dizziness or fainting. Disorder of the stomach, bowel, gallbladder, or pancreas.
+[9 minutes 57 seconds][Customer] : No, no, no, no, no, no.
+[10 minutes 29 seconds][Agent] : Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Any illegal drug use, Abuse of prescription medication, or received medical advice or counseling for alcohol consumption. Bladder or urinary tract disorder. Blood disorder or disease. Sleep apnea or asthma, excluding child with asthma.
+[10 minutes 35 seconds][Customer] : No, no, no, no, no.
+[11 minutes 4 seconds][Agent] : And other than what you've already told me in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as, but not limited to any surgeries, X-rays, scans, blood tests or biopsy? And other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? OK. And next next section is in relation to your family history. Charmaine, to the best of your knowledge, have you have any of your immediate family living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or familial adenomatosopoliposis? And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[11 minutes 23 seconds][Customer] : No, no, no, yes, yes.
+[12 minutes 6 seconds][Agent] : So is that prior to age 60?
+[12 minutes 12 seconds][Customer] : Prior to age 60. That's before or after? No, sorry. No, Yeah.
+[12 minutes 12 seconds][Agent] : And given my immediate family, it's before age 60 and OK, That's OK, yeah. And other than one off events, uh, for example, with gift vouchers of uh, sorry, gift certificates of vouchers. Do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, Motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity.
+[12 minutes 48 seconds][Customer] : No.
+[12 minutes 52 seconds][Agent] : OK, so that's all done for you Xiaomi and and good news. No surprise here Charmaine, you have been uh fully approved for the life insurance and your policy yeah your policy will cover you for deaths due to any cause except suicide in the 1st 13 months.
+[13 minutes 1 seconds][Customer] : Oh, wonderful, right?
+[13 minutes 8 seconds][Agent] : OK and in addition, there is a terminally ill advanced payment included in the cover.
+[13 minutes 22 seconds][Customer] : Lovely.
+[13 minutes 12 seconds][Agent] : So what that one is, is if you're diagnosed with 24 months or less to live by a medical practitioner, we will pay that benefit amount in full to you while you're leaving Charmaine just to have, uh, just to help you have fun. So any medical expenses during that time, OK.
+[13 minutes 27 seconds][Customer] : Yep.
+[13 minutes 27 seconds][Agent] : And keep in mind your premium is stepped Shamim, So which means it will generally increase each year. In addition, this policy has an automatic indexation, which means each year your sum insured will increase by 5% with associated increases in premium until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday. And keep in mind you can opt out of this automatic indexation each year. Uh, but I'll bring up a, a projection for you. So as an indication, if you make no changes to the policy, your premium next year will be uh $444.67 uh cents per month and the benefit amount would go up to 315,000. OK, Yep. And you can also find more information about our premium structure on our website if you'd like. So Charmaine, at this point it's, uh, it's pretty simple, Uh, because you have been fully approved, I can get that $300,000 of cover started for you for the monthly premium of $373.28. And to keep in mind to get the cover started today, Charmaine, you don't have to pay anything today. You put a payment date of your choice, OK?
+[14 minutes 9 seconds][Customer] : OK, Yeah, that's good. Yeah, Sorry. Yep. Keep going.
+[14 minutes 33 seconds][Agent] : And you also get a Yep, I was just going to say that you also get a 30 day cooling off. As well.
+[14 minutes 40 seconds][Customer] : Oh, wonderful. Yep, Yep.
+[14 minutes 40 seconds][Agent] : So if you decide the yeah, if you decide the policy is not suitable for you, feel free to call up and cancel within those 30 days and we'll give you a full refund of the premium unless the claim has been made.
+[14 minutes 48 seconds][Customer] : Wonderful. Yep.
+[14 minutes 49 seconds][Agent] : OK, so are you happy to get that one started today? Shami noise.
+[14 minutes 50 seconds][Customer] : OK, Yeah, yeah. If you can then can you start?
+[14 minutes 55 seconds][Agent] : Oh yeah, Yep.
+[14 minutes 56 seconds][Customer] : I would like, Cos I have a cover for my brother as well.
+[15 minutes][Agent] : Mm hmm. OK.
+[15 minutes][Customer] : I would like that to be sent the payments taken out at the same time, if that's possible, Cos he's he's, I pay for him on the 16th of every month.
+[15 minutes 6 seconds][Agent] : So you do the the 16th did you say? Yeah, sure I can do that for you. So 16th would be next Thursday and then it would come out every month on the 16th. OK. Yep. No worries at all. I can do that for you and before so just before I get into all the payment details, I quickly just, uh, confirm, uh, all your details just to make sure everything's correct. And the number I called you on Charmaine, is that the best number to have on the policy? 0429326965? That's the one. Yep. And and for your e-mail, I have your c.uh.dershow1@hotmail.com. Is that the one?
+[15 minutes 14 seconds][Customer] : Yes, yes, yes, OK, yes, that's the NUM that, yes, that's the one that's correct.
+[15 minutes 47 seconds][Agent] : And yes, it's uh, your just reconfirming your address. So I'll put down 12 Barge Court Armadale 6112 WA for your home address and your PO Box was #506 Armadale Washington 6992.
+[15 minutes 46 seconds][Customer] : Yes, yes, yes, yes.
+[16 minutes 3 seconds][Agent] : Yes, correct.
+[16 minutes][Customer] : And that's for all the mail to be sent to the Pi box, yes?
+[16 minutes 5 seconds][Agent] : OK, no worries at all. And what would your preferred payment method be, Charmaine? But if you can do credit card or direct debits, what would you? What would you?
+[16 minutes 14 seconds][Customer] : And direct debit will be best.
+[16 minutes 16 seconds][Agent] : Yeah, sure. No worries at all. I'll get that one started for you. Just bear with me one moment while I double check everything a second. OK. And would that be a savings account or a checking account, Charmaine? Sure. Yeah, no worries at all. And whenever you're ready, just let me know the BSP and account number 086116.
+[16 minutes 16 seconds][Customer] : Yeah, a savings account, the BSc is 086116, Yes, and the account is 296740. Yeah, 40912.
+[16 minutes 50 seconds][Agent] : 2967 Yep, yeah.
+[16 minutes 59 seconds][Customer] : Yes, that's correct.
+[16 minutes 55 seconds][Agent] : So 296740912 Awesome. And Charmaine, that account, is that in your name? Charmaine Dershow.
+[17 minutes 4 seconds][Customer] : Yes, that's correct.
+[17 minutes 6 seconds][Agent] : OK, so I'll just double check your spelling as well. Charmaine for Charmaine. And then so is it pronounced Dershow? Sorry, Ders.
+[17 minutes 5 seconds][Customer] : Yes, yes, yes, they say, they say.
+[17 minutes 16 seconds][Agent] : Dershow they're they're sure, yeah. So DDERSS uh, sorry.
+[17 minutes 19 seconds][Customer] : Yes, that's correct.
+[17 minutes 22 seconds][Agent] : DERSCHOW Awesome. Alright, thank you so much for that. Sharmaine. Just one last step I have here before everything is finalized. It's just to read out the declaration to you. So just sort of recaps of everything we talked about, uh, give you some, give some information about the insurance and there's some, there's a couple of questions in there that I'll ask. Uh, uh, yeah, in between.
+[17 minutes 38 seconds][Customer] : Yeah, yeah.
+[17 minutes 43 seconds][Agent] : So just, uh, it might take me a few minutes to read, but I'll try to be as quick as possible for you.
+[17 minutes 46 seconds][Customer] : No worries. All good.
+[17 minutes 48 seconds][Agent] : Thank you. Charmaine Dershow. It is important you understand the following information. I'll ask for your agreement to these terms at the end. Then your policy will not be enforced unless you agree to these terms in full. Real life insurance is issued by Hanover Live Free of Australasia Limited, whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS trading as real insurance to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing the application that I think there's the information we initially collected from you to provide a quote. I never has said a target marked the determination for this product, which describes the type of consumers this product is designed for. Distribution practices are consistent with this determination and you can obtain a copy on our website. And Sharman, I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty? Thank you. And we may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us.
+[18 minutes 41 seconds][Customer] : Yes, yes.
+[18 minutes 57 seconds][Agent] : The accepted cover pays a lump sum benefit of Chapter Charmaine. Their share receives $300,000 in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year of cover is $373.28 per month. Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday.
+[19 minutes 30 seconds][Customer] : Yep.
+[19 minutes 29 seconds][Agent] : You can opt out of this. You understand that the premium projection provided is indicative only and does not take into account any existing policies you may have, uh, you may have with us. Included in your premium premium is an amount payable to GFS of between 41% and 55% to cover costs. Your premium will be debited from your nominated bank account in the name of Charmaine Docho, which you are authorized to debit from and have provided to us. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. And you may cancel your policy and any premium you may have paid will be refunded in full unless you have. Lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until they've received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and the documentation we are sending you now. Charmaine, do you understand and agree to declaration?
+[20 minutes 32 seconds][Customer] : Yes, I do.
+[20 minutes 33 seconds][Agent] : Thank you. And last question, would you like any other information or would you like me to read any part of the PDS to you?
+[20 minutes 39 seconds][Customer] : No, I just Washington. Yeah, I do have a question then I want to in regards to my beneficiary.
+[20 minutes 41 seconds][Agent] : Yeah, yeah, yes. Umm, yeah.
+[20 minutes 49 seconds][Customer] : Oh, wonderful.
+[20 minutes 46 seconds][Agent] : So what happens is we send you all the hard copy documents, umm, to your address and there'll be some beneficiary forms on there.
+[20 minutes 50 seconds][Customer] : Yeah, lovely.
+[20 minutes 52 seconds][Agent] : You can just fill those out and send them back to us or whenever you're ready. You can also call up and apply to the beneficiaries, umm, over the phone as well. You do have that option as well.
+[20 minutes 59 seconds][Customer] : OK, no worries.
+[21 minutes][Agent] : OK, yeah.
+[21 minutes 1 seconds][Customer] : OK.
+[21 minutes 1 seconds][Agent] : So I'll, I'll, yeah, I'll read out re re read that last question out to you.
+[21 minutes 5 seconds][Customer] : Yep.
+[21 minutes 4 seconds][Agent] : So would you like any other information or would you like me to read any part of the PDFs to you?
+[21 minutes 8 seconds][Customer] : No, thank you.
+[21 minutes 9 seconds][Agent] : No worries at all, Shamin. That's all done for you.
+[21 minutes 12 seconds][Customer] : Oh, wonderful.
+[21 minutes 12 seconds][Agent] : Thank you for choosing real. Yeah. Thank you for choosing real insurance. Is there anything else I can help you out with today?
+[21 minutes 17 seconds][Customer] : No, thank you very much for your time.
+[21 minutes 20 seconds][Agent] : No worries at all.
+[21 minutes 19 seconds][Customer] : You've been really helpful.
+[21 minutes 21 seconds][Agent] : No at all.
+[21 minutes 21 seconds][Customer] : Thanks again.
+[21 minutes 21 seconds][Agent] : Happy to help, Shamin. No worries at all.
+[21 minutes 23 seconds][Customer] : Have a good weekend.
+[21 minutes 24 seconds][Agent] : You too. Thank you so much. Bye.
+[21 minutes 24 seconds][Customer] : Bye bye.

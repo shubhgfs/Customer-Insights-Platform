@@ -1,0 +1,21 @@
+[2 seconds][Agent] : Welcome to Real Insurance. My name's Joel. How can I help you?
+[10 seconds][Customer] : Hello.
+[11 seconds][Agent] : Oh, hello. Can you hear me? Oh.
+[12 seconds][Customer] : Yeah, I can hear you there, mate.
+[13 seconds][Agent] : Oh, hi. Yep.
+[14 seconds][Customer] : Yeah, yeah, my my name's Michael Giles. Sorry. I've got a policy with you, I believe.
+[19 seconds][Agent] : OK, sure. Can I just grab your date of birth, please? Thanks, Michael. And what type of insurance was it?
+[21 seconds][Customer] : OK, if you just look up my details, 13864 just life insurance, I think.
+[33 seconds][Agent] : Sure. Easy to be able to find that. There. There we go. I think I've got you here. And just make sure I get you through to the correct department. How can we help you today?
+[40 seconds][Customer] : Yeah, I just want to cancel everything.
+[42 seconds][Agent] : Yeah, sure. No worries. Let me just jump in. I'll just make sure I've got your contact information up to date just so I can let our customer support team know. Can you just confirm your e-mail address please?
+[53 seconds][Customer] : It might have been in Giles at bluewoodlegal.com.auormichael@coxwall.com dot AUI don't I can't remember which one.
+[1 minutes][Agent] : Yeah, no, that's right. So the second one I've got here, that's fine. Thanks for that. And just your address with the post code, please. That's the one and the number I'm speaking to you on now ending in 910, that's your number, is that right?
+[1 minutes 8 seconds][Customer] : 11 Cross St., Port Macquarie, 2444 That's fine mate.
+[1 minutes 16 seconds][Agent] : Perfect. Easy. Alrighty, I'll just let our customer support team know what you need and then I'll transfer you straight through. Won't be a SEC. Thank you so much for holding that.
+[2 minutes 22 seconds][Customer] : Thank you. Bye.
+[2 minutes 22 seconds][Agent] : I've got my colleague Regina on the line from our support team.
+[2 minutes 25 seconds][Customer] : Yep.
+[2 minutes 25 seconds][Agent] : Just to confirm, I have confirmed all points of ID. The contact information is up to date. I should be able to help you from here. You're ready.
+[2 minutes 31 seconds][Customer] : OK.
+[2 minutes 32 seconds][Agent] : Cheers.

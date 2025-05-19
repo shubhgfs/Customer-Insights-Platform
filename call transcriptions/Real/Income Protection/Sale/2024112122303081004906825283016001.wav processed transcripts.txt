@@ -1,0 +1,79 @@
+[1 seconds][Customer] : Hello, Linda.
+[2 seconds][Agent] : Hi, Belinda, it's Joel giving you a call back from Real. How you going?
+[2 seconds][Customer] : Speaking well, thank you yourself.
+[7 seconds][Agent] : That's good. Yeah, very well. Thank you for asking. I was just calling back because the underwriter did come back to me with an outcome. So I just wanted to let you know your options.
+[14 seconds][Customer] : Yeah.
+[14 seconds][Agent] : I just have to quickly say all that calls are recorded. Any advice provided is general in nature and may not be suitable to your situation. And just for compliance to please confirm your name and date of birth. Yep. And just your first and last name, please.
+[24 seconds][Customer] : 24th of August 1970 Linda Karen Jones.
+[32 seconds][Agent] : That's the one. Thanks so much. So just jumping back to what the underwriter said. So they actually made no changes to the referral. So yeah, you have been fully approved. And yet the underwriter didn't change anything.
+[42 seconds][Customer] : Mm hmm.
+[41 seconds][Agent] : So all the terms and conditions stayed exactly the same as what we spoke about yesterday.
+[45 seconds][Customer] : Yeah, yeah.
+[46 seconds][Agent] : So for here right now, that means the ball's in your court.
+[48 seconds][Customer] : Mm hmm.
+[48 seconds][Agent] : Now, you do have a couple of options. So I can definitely e-mail you out what we call an online activation e-mail.
+[54 seconds][Customer] : Yeah, yeah.
+[54 seconds][Agent] : So once you review the information, if you do decide to proceed with it within the next 30 days, you can activate it yourself or whenever you're ready.
+[1 minutes][Customer] : Mm, hmm.
+[1 minutes][Agent] : The other option we offer all our customers, if it is something that you are generally interested in, I can organize to send you out all the policy documentation for you to have a read through and review.
+[1 minutes 15 seconds][Customer] : Yeah.
+[1 minutes 10 seconds][Agent] : The difference being, if we do, that means we would start covering straight away just in case that we wouldn't actually take any payments at this stage.
+[1 minutes 17 seconds][Customer] : Hmm. Mm.
+[1 minutes 17 seconds][Agent] : Essentially all we do just to get the ball rolling, just attach your preferred method of payment that you can choose a start date in the future that works for you. However, of course, once you did review the policy, if there's anything you don't like or even if you just decided not to proceed with it, of course that's fine. You're not obligated to keep it. Policy does come with a full 30 day cooling off period from that first payment date as well. I'll be honest, Linda, I'm guided by you in this situation. Would you be interested in me setting up the policy and sending it out for you to read through?
+[1 minutes 25 seconds][Customer] : Yeah, yeah, look, that's probably the best option. I think I'm a bit of a paper person.
+[1 minutes 51 seconds][Agent] : OK. Yeah, sure.
+[1 minutes 53 seconds][Customer] : Plus my partner, he, he's up in Tamworth. I won't be seeing him until next week as well.
+[1 minutes 59 seconds][Agent] : Right. OK, I'm sure.
+[1 minutes 59 seconds][Customer] : So we can sort of sit down at our leisure and and have a good look.
+[2 minutes 5 seconds][Agent] : Yeah, absolutely. That's fine. I can do that. So we do post you out a hard copy which you should receive in about two to five business days.
+[2 minutes 11 seconds][Customer] : Yep.
+[2 minutes 11 seconds][Agent] : Umm, we do also e-mail you a copy which will come through in about 10 to 15 minutes as well.
+[2 minutes 20 seconds][Customer] : Mm Hmm.
+[2 minutes 16 seconds][Agent] : So just confirm, since we spoke yesterday, has your contact information changed at all or is that still the same?
+[2 minutes 21 seconds][Customer] : No.
+[2 minutes 21 seconds][Agent] : Not perfect. And with the health and lifestyle questions that we went through, all the answers still the same.
+[2 minutes 26 seconds][Customer] : Yes.
+[2 minutes 27 seconds][Agent] : Yeah, perfect. All right, so we'll organize at this stage for the $5000 a month with a 30 day waiting period and a two year benefit. Just to reconfirm, that was coming in at $178.15 per fortnight.
+[2 minutes 39 seconds][Customer] : Mm hmm.
+[2 minutes 39 seconds][Agent] : As I mentioned, we don't take any payments today, but just so that we can cover you in the interim, we just attach your preferred method of payment and you can choose a start date in the future, anywhere up to 30 days away. Umm, did you want to set that up using your bank account or a Visual MasterCard?
+[2 minutes 50 seconds][Customer] : Yeah, probably a bank account.
+[2 minutes 59 seconds][Agent] : OK, we can note that down for now. Now let's quickly jump onto that screen. Won't be 1 moment, sorry. It's just it's taking a moment to load. There we go. Was yours a savings account or a cheque account? Is that just your name on the account and all we need is just the BSB and the account number please?
+[3 minutes 23 seconds][Customer] : Savings, yes, BSB 815000 and account number 56950.
+[3 minutes 33 seconds][Agent] : Yep, thanks very much. Now as I mentioned, you can choose whatever day you'd like the payments to start anywhere within the next 30 days, so I'm happy to give you as much time as you need to have a chat to your partner and have a read through. Umm, when would you like me to schedule the start date at this point?
+[3 minutes 49 seconds][Customer] : Yeah, let me just hang on.
+[3 minutes 55 seconds][Agent] : Sure.
+[3 minutes 55 seconds][Customer] : Sorry.
+[3 minutes 55 seconds][Agent] : Yeah, Take your time. No, you're all right. Yeah, take your time. That's fine.
+[4 minutes 4 seconds][Customer] : I'm just checking my calendar is the 10th of December, is that in the 30 days?
+[4 minutes 25 seconds][Agent] : Yeah, absolutely. Let me grab my calendar. I'll push it back to the 10th, see how that works out. Well, I'll push it back. So that'll give you so.
+[4 minutes 33 seconds][Customer] : Hang on, hang on. Sorry. Give me a SEC.
+[4 minutes 34 seconds][Agent] : Yeah, yeah, sure.
+[4 minutes 39 seconds][Customer] : Sorry, the 17th.
+[4 minutes 40 seconds][Agent] : 17, Yeah, I can do that. That's fine. 17, that works out, that's fine. So that means you'll still be covered straight away from the end of this call that you weren't paying anything until the 17th. So you'll have roughly about 3 weeks worth of cover, which we're not going to back charge you for.
+[4 minutes 50 seconds][Customer] : Yeah, yeah.
+[4 minutes 56 seconds][Agent] : That'll give you 3 weeks to decide if you are happy with it and you wanted to stay in force. You won't have to do anything. The policy will just stay active in the first payment will come out on the 17. So effectively your policy starts on the 17th of December. There's any issues or if you just decide not to go ahead with it, just give us a call back before the 17th.
+[5 minutes 5 seconds][Customer] : Yep, Yep, Yep.
+[5 minutes 12 seconds][Agent] : We'll just apply to cancel it for you and that's as far as it'll go.
+[5 minutes 15 seconds][Customer] : OK, great.
+[5 minutes 15 seconds][Agent] : All righty now all I have to do just to get that finalized for you just need 2 minutes of your time just to read out a final declaration and then just ask for your agreements with at the end. Yeah. If you have any questions while I read this out, please feel free just to stop me and ask just to see it's here. Thank you. Belinda Johns Just a reminder all that calls are recorded. It is important you understand the following information. We'll ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Live free of Australasia Limited and we were referred to as Hanover. Hanover has an arrangement with Greenstone Financial Services and I'll refer to as GFS Trading as real Insurance. To issue and arrange this insurance on its behalf. And Over relies upon the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. And Over has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm that you have answered all of our questions in accordance with your duty, yes or no?
+[5 minutes 24 seconds][Customer] : Yep, yes.
+[6 minutes 24 seconds][Agent] : Thanks very much. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out, it'd be set anytime by contacting us. The accepted cover provides the following insurance cover for Linda Johns, a monthly insured amount of $5000 with a waiting period of 30 days and a benefit period of 24 months. The monthly income benefit payable in the event of a claim may be less than a monthly uninsured as your income benefit is limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffer your disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments from other sources. There is a final expenses benefit of $10,000 paid to your beneficiaries if you pass away while your policy is in place. In addition of the standard exclusions contained within the PDS, the following exclusions apply or Belinda John's Income Protection benefit. We will not pay the income benefit if the disability on which the claim is based is due is due to an three which occurred while you were at work in a game for occupation or while you were travelling from your home to your workplace or while you were travelling home from your workplace or Linda John's Income Protection benefit. No benefit will be payable for any disability, condition, disease, disorder, treatment or complications related to or rising from the spine, including it's inveritable dish nervous supporting muscular child ligaments. By agreeing to this declaration you agree to any non standard exclusions or loadings placed on your policy and you understand they will remain in place for the life of the policy. You may request for any of these alternative terms to be be reviewed at any time by calling us. Your cover expires on December 17th, sorry, December 17th, 2035 at 12:00 AM. Your premium for your first year of cover is $178.15 per fortnight.
+[8 minutes 9 seconds][Customer] : OK.
+[8 minutes 6 seconds][Agent] : Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premiums and amount payable by Hanover 2 GFS, so between 37% and 51% cover costs. Your premium will be debited from your nominated bank account in the name of Linda Jones which you authorised to debit from and have provided to us US. The policy documentation of PDS and FS Tube will be mailed to you and if you provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies. As your new policy may not be identical to your existing cover. We recommend that you do not cancel that existing policy until you have received and reviewed our policy in full. We have the complaints process which you can access at any time by contacting us. All details are available online and in the documentation we are sending you. OK, just two questions and I'll get that sent straight out for you just to see. Do you understand and agree with the declaration? Yes or no? Thank you so much. And before I send that out, would you like any other information or would you like me to read? Oh, sorry. Would you like any other information about the insurance now or would you like me to read any part of the PDS to you? Yes or no?
+[9 minutes 13 seconds][Customer] : Yes, no.
+[9 minutes 27 seconds][Agent] : Perfect. So let's make sure that goes through smoothly and just confirm to the number I'm speaking to you on now ending in 013. That's your number.
+[9 minutes 34 seconds][Customer] : Yes.
+[9 minutes 35 seconds][Agent] : But to make sure I've spelled your street name correct. So it was Warialda, WARIALDA St.
+[9 minutes 43 seconds][Customer] : Yes.
+[9 minutes 43 seconds][Agent] : It's #345 That was the one.
+[9 minutes 45 seconds][Customer] : Yes, yes.
+[9 minutes 46 seconds][Agent] : Yep, it's awesome. Alright Linda. Well, that has all been completed for you. So you are now covered with real income protection cover and that documentation will be with you shortly.
+[9 minutes 57 seconds][Customer] : No, that's all.
+[9 minutes 55 seconds][Agent] : Is there anything else I can do for you while I've got you here?
+[9 minutes 58 seconds][Customer] : Thank you.
+[9 minutes 59 seconds][Agent] : Awesome, not a problem. Well, thanks so much for your time. I'll let you get back to it and you enjoy the rest of your day.
+[10 minutes 3 seconds][Customer] : Yep, you too.
+[10 minutes 4 seconds][Agent] : Cheers.
+[10 minutes 4 seconds][Customer] : Thank you.
+[10 minutes 4 seconds][Agent] : Thanks. Bye.
+[10 minutes 5 seconds][Customer] : Bye.

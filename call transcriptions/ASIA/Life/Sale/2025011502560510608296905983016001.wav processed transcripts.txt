@@ -1,0 +1,397 @@
+[0 seconds][Agent] : Hello. Hi. Welcome to Australian Seniors Insurance. You're speaking with Brad. How can I help you today?
+[7 seconds][Customer] : Who am I speaking to please?
+[9 seconds][Agent] : You're speaking with Brad?
+[12 seconds][Customer] : It's Tommy Lee. I'm just ringing up reference life insurance.
+[20 seconds][Agent] : Yeah. So yeah, yeah.
+[21 seconds][Customer] : I've got him on his phone number right up to 12,000.
+[27 seconds][Agent] : Mm. Hmm. Now. Yeah. So. So I can assist you further. What was your inquiry there?
+[35 seconds][Customer] : I got yeah, I'm working here to tell them thousand people. I'm trying them out on my on my TV.
+[41 seconds][Agent] : You're looking for life insurance?
+[44 seconds][Customer] : Yeah, mate.
+[46 seconds][Agent] : Yeah. Yes. So I can assist you further. May I have your full name and your date of birth there?
+[45 seconds][Customer] : Yeah, yeah, yeah.
+[54 seconds][Agent] : Can I get you?
+[54 seconds][Customer] : Thomas. Right.
+[55 seconds][Agent] : Yep, Yep.
+[57 seconds][Customer] : Thomas Arnold Taylor, 14th of March 1951.
+[1 minutes 4 seconds][Agent] : OK, no problem. Thanks for confirming that. Thomas. I do need to let you know. Please note all our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. Now, Thomas, can I get you to confirm that you are both male and an Australian resident?
+[1 minutes 20 seconds][Customer] : I certainly am, mate. I've been living sorry for 73 years.
+[1 minutes 22 seconds][Agent] : Yeah, So just looking for nice, nice. Just for compliance purposes there. Thomas, I just want to confirm with a clear yes or no, OK. Umm, so I'll repeat the question. Can I get you to confirm that you are a male Australian resident? Yes. Perfect. Now thanks for confirming that for, uh, Thomas. Now, uh, just wanted to see what's got you looking into a bit of life insurance there.
+[1 minutes 25 seconds][Customer] : Yeah, yes, yeah, right.
+[1 minutes 52 seconds][Agent] : Yeah. What has you looking into it?
+[1 minutes 50 seconds][Customer] : Yep, I certainly am. Well, I've got 1, right?
+[1 minutes 57 seconds][Agent] : Mm, hmm.
+[1 minutes 59 seconds][Customer] : I put it down. It's turning this thing down. Hang on.
+[2 minutes 3 seconds][Agent] : MMM.
+[2 minutes 2 seconds][Customer] : I was kidding. Bloody. I saw it last night. Yeah, suckers. Yeah, I had, I've got one and the the premier was getting too high for me.
+[2 minutes 6 seconds][Agent] : Yeah, yeah, OK.
+[2 minutes 16 seconds][Customer] : And so I I it was up to 265,000. It kept on. It kept on going up. And the amount that I'm sure it kept going up, right?
+[2 minutes 26 seconds][Agent] : Hmm. Mm, hmm.
+[2 minutes 27 seconds][Customer] : Bring them up and I end up getting it down to $100,000, right? And I'm starting saying about $400.00 saving, but it's cut it right back to and half what I was on, you know, about 50 thou $5500 a month, right?
+[2 minutes 45 seconds][Agent] : Yeah.
+[2 minutes 46 seconds][Customer] : Instead of anyway, it doesn't build up like that one was. So as far as I'm concerned, what I want now is just sort of a bigger one.
+[2 minutes 57 seconds][Agent] : Hmm.
+[2 minutes 57 seconds][Customer] : Just decided something and I'm not even younger.
+[3 minutes 1 seconds][Agent] : Yeah, yeah.
+[3 minutes 1 seconds][Customer] : I predicted got out and on there that if I die before 99, you might get something out of them.
+[3 minutes 17 seconds][Agent] : Hmm.
+[3 minutes 13 seconds][Customer] : But if I die after 100 or after 99, no one gets nothing.
+[3 minutes 20 seconds][Agent] : Yeah, OK.
+[3 minutes 19 seconds][Customer] : No one gets nothing and there's no one.
+[3 minutes 27 seconds][Agent] : Mm, hmm.
+[3 minutes 24 seconds][Customer] : All that money is put into it, which is by thousands. It's it's more credit for the bank. See, I'm ****** ***.
+[3 minutes 30 seconds][Agent] : Yeah, MMM, yeah, I understand. And look, what I can do, umm, is I can explain the main features and benefits and run through some pricing with you as well. OK there. Now look with regards to, uh, the current policy that you do hold, uh, I do wanna let you know if you are replacing an existing policy, we recommend that you do not cancel that policy until your application has been approved and you have reviewed this policy. As your new policy may not be identical to your existing cover, you should also consider the benefits that may not apply or waiting periods that may start again.
+[4 minutes 8 seconds][Customer] : Yeah. My.
+[4 minutes 6 seconds][Agent] : OK, now, yeah.
+[4 minutes 9 seconds][Customer] : Yeah.
+[4 minutes 9 seconds][Agent] : With the regards to seniors life insurance, it's designed to provide funding protection for your loved ones to a lump sum payment if you were to pass away before your 85th birthday. When the policy ends, you can choose cover between a Hun. Uh, you can choose cover between $10,000 up to $200,000 and nominate up to five beneficiaries to receive their nominated benefit amount. If death is due to an accident, your chosen benefit will triple and we also include an advance payment of 20% of the benefit amount to help with funeral costs or any other final expenses at the time. OK now it's easy to apply. We just asked you a yes on that questions relating to your health over the phone to see if you are approved. If you are accepted and once you commence the policy, you will be covered immediately for death due to any cause except suicide in the 1st 13 months. Now in addition, there is a terminally ill advanced payment included in the cover. So if you were diagnosed with 24 months or less to live by by a specialized medical practitioner, we can pay your benefit amount in full to help you with medical. OK now.
+[5 minutes 11 seconds][Customer] : Yep, right.
+[5 minutes 16 seconds][Agent] : Yeah.
+[5 minutes 16 seconds][Customer] : That doesn't that that that doesn't worry me. And you like them with DVI, you see, you know. Sorry mate.
+[5 minutes 16 seconds][Agent] : MMM yeah, that's, yeah, that's fine. Now look, with regards to a bit of pricing, let's go through some CRO, uh, pricing. Now I do have a question that I will need a clear, uh, yes or no too, uh, just regarding your smoking status. OK. Now, have you had a cigarette in the last 12 months? Yes or no?
+[5 minutes 42 seconds][Customer] : No.
+[5 minutes 42 seconds][Agent] : No. Now keep in mind the level of cover ranges from $10,000 and up to $200,000. Now. What benefit amount would you like me to look at first yourself? Yeah.
+[5 minutes 53 seconds][Customer] : So that one between 10 and 200,000, no problem looking at you know, because at the moment I've got a few. Not going to die yet. I hope not. I'll have to tell you something before you keep on going, Right. I might stop there. I rang a person up there and he can't do that. I just had a a pacemaker pudding. Right?
+[6 minutes 5 seconds][Agent] : What was that? Sorry.
+[6 minutes 22 seconds][Customer] : Just had a pacemaker pudding.
+[6 minutes 25 seconds][Agent] : Sorry. You're just cutting out a bit there.
+[6 minutes 23 seconds][Customer] : No, I'll put it down.
+[6 minutes 29 seconds][Agent] : Yep.
+[6 minutes 29 seconds][Customer] : Yes. I'm. I'm very honest, right? That's why I got my money. I'm too very honest, You know?
+[6 minutes 32 seconds][Agent] : Yeah, no, that's fine.
+[6 minutes 35 seconds][Customer] : I mean, a dog doesn't even mean a dog means stud. Yeah, I just had a pacemaker put in on the 9th December and I've been cleared from the doctor and everything.
+[6 minutes 50 seconds][Agent] : Yeah.
+[6 minutes 50 seconds][Customer] : I'm going to see him in six months time.
+[6 minutes 52 seconds][Agent] : Mm, hmm.
+[6 minutes 52 seconds][Customer] : So I thought I'd be less, you know, about that because I, I was talking to one person about it and bang, it was like the lead balloon, you know.
+[6 minutes 58 seconds][Agent] : Yeah, Yeah.
+[7 minutes][Customer] : He said no, we can't do it now, you know.
+[7 minutes 3 seconds][Agent] : Well, look, how about we go, did you want to go through those health and lifestyle questions first just to to determine if you say if you are eligible cover first, Did you want to do that?
+[7 minutes 15 seconds][Customer] : OK, Brad, that's good. Thanks mate.
+[7 minutes 18 seconds][Agent] : Yeah. OK. Well, let's go through those health and lifestyle questions.
+[7 minutes 24 seconds][Customer] : OK.
+[7 minutes 22 seconds][Agent] : OK, now, umm, OK, so I'll just pop this up. So what I'll, what I'll do is I'll just read this, uh, pre underwriting disclosure. Now the pre underwriting disclosure does have a question towards the back end of the paragraph. Now it is a yes or a no. Umm, essentially what this covers is umm, how the hence how to answer the question. Sorry. Now the pre underwriting disclosure reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian Service Pro providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about the privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may break your duty and if this happens, you're insurer may be entitled to cancel your policy final claim or make adjustments to the terms and conditions of your policy. Now, Thomas, do you understand and agree to your duty? Yes. Perfect. Now, you need to ask the following questions specific to COVID-19. OK.
+[8 minutes 50 seconds][Customer] : Yes, Yes.
+[8 minutes 57 seconds][Agent] : Now, have you been hospitalized for COVID-19 over the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no? No. OK, Now, in the last yeah, in the last five years, have you been admitted to hospital as an inpatient because of a heart, heart failure or a stroke? No. OK. In the last five years have you been admitted to hospital as an in patient because of a lung disease other than for asthma or pneumonia as the only conditions?
+[9 minutes 5 seconds][Customer] : No, no, no, no, no.
+[9 minutes 29 seconds][Agent] : No, in the last five years have you been diagnosed with or treated for any of the following cancers, lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or do you currently or seem to be treated with chemotherapy? No. Do you have a renal kidney condition that currently requires dialysis or transplant or a doctor has advised will be required in the future? No. Do you have a liver condition that will require a transplant in the future? No. Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for Madden? You're on disease or any form of dementia, including Alzheimer's disease? No. In the last five years have you attempted suicide or been hospitalized for men for a mental health condition? No. Are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health related tests or investigations or been diagnosed as having 12 months or less lift?
+[9 minutes 47 seconds][Customer] : No, no, no, no, no, no, no, no.
+[10 minutes 37 seconds][Agent] : No, OK. So once this does load, umm, we'll just wait for the result there. Now, just to confirm, that's almost with regards to that disclosure you mentioned earlier, what was it that you mentioned there again? Sorry. A pacemaker.
+[10 minutes 51 seconds][Customer] : A pacemaker, Yes. Yep.
+[10 minutes 56 seconds][Agent] : OK.
+[10 minutes 56 seconds][Customer] : Do you know what that is?
+[10 minutes 57 seconds][Agent] : Now with regards to the pacemaker, no. So what's the pacemaker? Yeah, if you could clarify that one for me.
+[11 minutes][Customer] : Do you know what that is? Yeah. I kept on falling over a little bit every now and then. Right.
+[11 minutes 9 seconds][Agent] : OK.
+[11 minutes 10 seconds][Customer] : And I'll. I'll find that on me, me cook legs.
+[11 minutes 13 seconds][Agent] : MMM.
+[11 minutes 14 seconds][Customer] : So I've had five married places on one knee.
+[11 minutes 17 seconds][Agent] : Yeah.
+[11 minutes 16 seconds][Customer] : Right and my leg doesn't bend probably and I was I was blaming that.
+[11 minutes 24 seconds][Agent] : MMM.
+[11 minutes 20 seconds][Customer] : So anyway I had to go in this day and see me dog done.
+[11 minutes 26 seconds][Agent] : Yeah, yeah.
+[11 minutes 25 seconds][Customer] : Then I saw a cardiologist and he put his hat on the one ring.
+[11 minutes 30 seconds][Agent] : OK. Yeah, OK.
+[11 minutes 30 seconds][Customer] : Now the heart monitor was up from the right hand side up in my collarbone and walked him down down the bottom of the rib to the left hand side.
+[11 minutes 43 seconds][Agent] : Mm, hmm.
+[11 minutes 45 seconds][Customer] : And I forget what they called me or something bug or something. That's the name of the thing. It's like a a lady bird color, you know.
+[11 minutes 58 seconds][Agent] : OK. Mm, hmm.
+[11 minutes 55 seconds][Customer] : But anyway, it's on for four weeks and on the fourth week and I got a phone call from the doctor saying I want to see go away.
+[12 minutes 7 seconds][Agent] : Yeah.
+[12 minutes 5 seconds][Customer] : I was on a Monday, right go away and at 9:00 in the morning I was like, **** I said, don't, I only just got up and just got out of the shower, you know, And anyway, I had the I had this heart wander on.
+[12 minutes 17 seconds][Agent] : Yeah, Yep. Mm, hmm.
+[12 minutes 24 seconds][Customer] : I went in and stayed in because I'm in how long all these 30 kilometers away. So if I went to the the what are the, you know, heart doctor, right? What do you call me going now?
+[12 minutes 44 seconds][Agent] : Hmm. Yeah, mm.
+[12 minutes 39 seconds][Customer] : I thought, and he said what's happening during the night? It must have went through to Sydney or something.
+[12 minutes 48 seconds][Agent] : Yeah, OK.
+[12 minutes 48 seconds][Customer] : My heart was beating and then it missed a few beats and start again and missed a few beats and start again, right? But I'm going the next Monday and I'm going to outpatients.
+[12 minutes 57 seconds][Agent] : Yeah, Yeah, OK.
+[13 minutes 9 seconds][Customer] : They don't knock you out.
+[13 minutes 17 seconds][Agent] : OK.
+[13 minutes 10 seconds][Customer] : They just put put a sedative in, you know, and they put put this thing under your skin, alright.
+[13 minutes 18 seconds][Agent] : Yeah, Yep.
+[13 minutes 18 seconds][Customer] : And they're hooked up to your heart and away you go.
+[13 minutes 24 seconds][Agent] : Yeah.
+[13 minutes 24 seconds][Customer] : And I'm getting and it's slowly get better. Now I'm getting you bloody my sort of, what do you call it. I felt like I was getting worn out. I couldn't do this. I couldn't do that, you know? Now I'm getting better. So they said take your time. You know, I'm a mad gardener sort of thing.
+[13 minutes 25 seconds][Agent] : Well, yeah, yeah.
+[13 minutes 47 seconds][Customer] : And I was slow right down and slowly build myself up again. But it's been about six weeks now, I suppose. It's coming on really good.
+[13 minutes 53 seconds][Agent] : Yeah, yeah, yeah. And with regards to that, uh, just wanted to ask a question with regards to that, umm, what was the result of, uh, that health related test there? Did you manage to figure out or did the doctor take the diagnosis there? OK. OK.
+[14 minutes 15 seconds][Customer] : All the doctors did to this this heart, the heart wonder and then and then Nate then it's come better now since they they've had that done the the the pacemaker in and it's keeping them all they're keeping heart beating. Well, you know it's going alright. I have a, a nurse coming three days a week, Monday, Wednesday and Friday. And yeah, after that, 1011 o'clock 12 in the afternoon, Monday, Wednesday, Friday.
+[14 minutes 36 seconds][Agent] : Yeah, OK.
+[14 minutes 50 seconds][Customer] : And nurse today took my blood pressure and everything was excellent.
+[14 minutes 57 seconds][Agent] : OK.
+[14 minutes 57 seconds][Customer] : And my pulse is going up to 60 now where before it's down to 4550524546.
+[15 minutes 5 seconds][Agent] : Yeah.
+[15 minutes 5 seconds][Customer] : You know, that was right there. Now it's, it's, it's really good.
+[15 minutes 9 seconds][Agent] : OK. OK.
+[15 minutes 8 seconds][Customer] : Now it's it's back where it could be, Yeah.
+[15 minutes 11 seconds][Agent] : That's completely fine. So you're not currently undergoing or waiting for the results of any health related tests? That's more. Yeah. You're managing it now with a nurse, Correct.
+[15 minutes 22 seconds][Customer] : Yeah, yeah.
+[15 minutes 25 seconds][Agent] : OK.
+[15 minutes 23 seconds][Customer] : And when I see the doctor, yeah, the oncologist, yeah, I see him like another six months. I could see him. He's really happy.
+[15 minutes 27 seconds][Agent] : OK, OK. That's no problem at all.
+[15 minutes 38 seconds][Customer] : Yeah.
+[15 minutes 33 seconds][Agent] : So, ah, Thomas, what I'll do is I'll quickly pop you on a brief hold, umm, just to wait on the results of the application here. OK. Won't be a moment.
+[15 minutes 42 seconds][Customer] : Yeah.
+[15 minutes 44 seconds][Agent] : Yeah. Yeah, All good.
+[15 minutes 43 seconds][Customer] : Before you go, Brad, Yeah, I've got funerals, funeral insurance out with you guys too. No worries.
+[15 minutes 53 seconds][Agent] : OK, yeah, no problem. Umm, I'll, I'll quickly pop you on a brief holiday. OK, It won't be a moment.
+[16 minutes 1 seconds][Customer] : Yeah, brother might. While you do that, take your time. I'm gonna give myself a drink, OK?
+[16 minutes 5 seconds][Agent] : Yeah, all good. No problem.
+[16 minutes 7 seconds][Customer] : Very much.
+[16 minutes 8 seconds][Agent] : No, you're all good. OK, Hi Thomas, thanks for holding the line for me there.
+[18 minutes 31 seconds][Customer] : Bye, Mike.
+[18 minutes 33 seconds][Agent] : Yeah. So, umm, look with regards to the result, Hey, can you hear me there, Thomas?
+[18 minutes 38 seconds][Customer] : Yeah, Mike. Yep. Yep.
+[18 minutes 39 seconds][Agent] : Yeah, So, uh, congratulations, but your application has been approved.
+[18 minutes 45 seconds][Customer] : Thank you. Yep.
+[18 minutes 44 seconds][Agent] : Now in saying that, umm, in saying that, what benefit amount did you did you want to look at there, uh, for yourself?
+[18 minutes 53 seconds][Customer] : So that's the moment that 200. Yes, yes, right there.
+[18 minutes 55 seconds][Agent] : 200,000 OK le OK yeah, so I'll give you the back down for 200,000 OK Now, umm, and we can always move the level of cover down if it is something that's not affordable to you or if it's not suitable for you. OK, Now for $200,000 of cover, you are looking payment of $500.95 per fortnight.
+[19 minutes 3 seconds][Customer] : OK, yes, 595. Yes.
+[19 minutes 20 seconds][Agent] : Yes, $500.95 per fortnight, $500.95 per fortnight there.
+[19 minutes 25 seconds][Customer] : Beg your pardon, 595? Yes, that's good.
+[19 minutes 33 seconds][Agent] : Yeah. Is that something that's affordable to yourself or did you want to look at other levels of cover there?
+[19 minutes 34 seconds][Customer] : Yes, no, no, the other one's high and that long, I'm sure. Right.
+[19 minutes 42 seconds][Agent] : Yeah. Are you happy?
+[19 minutes 43 seconds][Customer] : You know, just try to. Yeah, I'm very happy, mate. Yeah, that's a good idea.
+[19 minutes 48 seconds][Agent] : Yeah.
+[19 minutes 47 seconds][Customer] : Yeah, 59595. Yes, yes, that's good. Yep, Yep.
+[19 minutes 51 seconds][Agent] : So $500.95 per fortnight for $200,000. Yeah, you have that.
+[19 minutes 59 seconds][Customer] : That's a 200. Very, very good, mate.
+[20 minutes 2 seconds][Agent] : Yeah, yeah. So I will just let you know.
+[20 minutes 1 seconds][Customer] : I'm very happy.
+[20 minutes 5 seconds][Agent] : Yeah, perfect. Now look, your premium is stepped, which means it will increase each year. As an indication, if you make no changes to the policy, your premium next is $536.02. You can also find information about our premium structure on our website. That OK.
+[20 minutes 21 seconds][Customer] : Yes, yes, yes.
+[20 minutes 21 seconds][Agent] : Yeah, yeah.
+[20 minutes 21 seconds][Customer] : So you'll send me every year What my see what I'll do is I'll do it. Well, I'm doing the funeral thing. So you don't need to have a funeral thing now, is he or keep that too?
+[20 minutes 24 seconds][Agent] : So, ah, well, it it's completely up to you if you'd like to do, if you'd like to keep it or not.
+[20 minutes 41 seconds][Customer] : Yeah, OK.
+[20 minutes 43 seconds][Agent] : Yeah, did you? It's up to you.
+[20 minutes 44 seconds][Customer] : Yeah, what I what I'll do, Fred.
+[20 minutes 45 seconds][Agent] : Ah, but look what Mm, hmm.
+[20 minutes 48 seconds][Customer] : Sorry, man.
+[20 minutes 51 seconds][Agent] : Mm, hmm. Mm hmm.
+[20 minutes 49 seconds][Customer] : What I'll do on payments right when we finally settle everything he said. You've taken out of my, my, my, my bank account, right. Each each month, fortnight. Yeah, every year.
+[21 minutes 4 seconds][Agent] : Yeah, for Fortnite, yeah. Umm, Now in saying that, did you umm, what we can do so I can get you covered over the phone today? I'll send you all the policy documents to review. Ah, this also, this policy also gives you a 30 day cooling off. So if you decide this policy is not suitable for you and cancel within 30 days, then you will receive a full refund of your premium unless a claim has been made. Now, you're not required to make a payment today. We'll let you select the payment out of your choice. OK, Now, umm, just wanted to reconfirm, you're happy to continue with getting covered today.
+[21 minutes 20 seconds][Customer] : Yes, yes, yes, I am.
+[21 minutes 41 seconds][Agent] : Yeah. What was that? Sorry. Yeah.
+[21 minutes 40 seconds][Customer] : Yes, that payment, that payment I get paid every fortnight.
+[21 minutes 49 seconds][Agent] : OK.
+[21 minutes 49 seconds][Customer] : Alright, it's 53 DVI I'll get take it out every fortnight OK and then say starting what's the best time to start on a Thursday when I get paid?
+[21 minutes 56 seconds][Agent] : Yeah, yeah, yeah. If you'd like to do it, if you get paid, it's completely up to you. Yeah.
+[22 minutes 11 seconds][Customer] : Yep, that's the best way cause the money take the money and go to Y before I spend it. No, you're right.
+[22 minutes 20 seconds][Agent] : So I just wanted to reconfirm. So for $200,000 of the cover, the fortnightly premium is $500.95 per fortnight. Yep.
+[22 minutes 25 seconds][Customer] : Yes, yes, that's good. Yes, I realize that.
+[22 minutes 31 seconds][Agent] : Yeah, yeah, that's fine. OK. Now look with regards to 1st collection day, when would you like that first collection that happened there?
+[22 minutes 32 seconds][Customer] : Yes, yes. What's what's that? Well, can't get me the diary because probably.
+[22 minutes 48 seconds][Agent] : That's all.
+[22 minutes 48 seconds][Customer] : Hang on, it's full of rubbish. What's what's what's next?
+[22 minutes 53 seconds][Agent] : Next Thursday, the 23rd, uh, next week Thursday is the 23rd.
+[22 minutes 52 seconds][Customer] : Thursday read Not not tomorrow, not tomorrow because the 23rd. That's payday for me. Yep, hang on, I just got you payday pretty good of January.
+[23 minutes 4 seconds][Agent] : Yep, Yep, Yep.
+[23 minutes 19 seconds][Customer] : I might leave it a bit longer now if I can. So when this is all approved, I'll cancel, I'll cancel the other one right? And then they they won't take any more money out otherwise if I do it.
+[23 minutes 24 seconds][Agent] : MMM, Yeah, yeah.
+[23 minutes 34 seconds][Customer] : So the 23rd next Thursday start taking them out.
+[23 minutes 38 seconds][Agent] : MMM.
+[23 minutes 38 seconds][Customer] : They're going to take their 500 and something dollars out also.
+[23 minutes 42 seconds][Agent] : Yeah. So, yeah. What? What you. Yeah, we can always. Yeah. So did so you did you want to. So what were you looking to do there? Sorry.
+[23 minutes 53 seconds][Customer] : I'll tell you the what? The 23rd, The fortnight after.
+[23 minutes 59 seconds][Agent] : OK. Do you want to do the fortnight after the 23rd?
+[24 minutes 2 seconds][Customer] : Yes, mate. Yeah.
+[24 minutes 4 seconds][Agent] : Yes.
+[24 minutes 8 seconds][Customer] : Yeah, I'll just write this down. I've written it down on something I need.
+[24 minutes 4 seconds][Agent] : So the 6th of February, Yeah, that's fine.
+[24 minutes 12 seconds][Customer] : I've read it everywhere.
+[24 minutes 15 seconds][Agent] : That's fine.
+[24 minutes 16 seconds][Customer] : What's that one? Instead, we're sorry.
+[24 minutes 18 seconds][Agent] : The 6th of February, that's the the 1st Thursday there.
+[24 minutes 26 seconds][Customer] : Is that a payday?
+[24 minutes 23 seconds][Agent] : So that would be a week after the 30th. So did you is is your payday?
+[24 minutes 32 seconds][Customer] : So you got paydays of it?
+[24 minutes 34 seconds][Agent] : Is your payday next week? Is it?
+[24 minutes 39 seconds][Customer] : Yeah, yeah. Next Thursday, which you said the 23rd.
+[24 minutes 41 seconds][Agent] : Yeah, yeah.
+[24 minutes 45 seconds][Customer] : So what's the date? The 14? The fortnight after the 23rd? You have 7, That's the 6th, is it?
+[24 minutes 45 seconds][Agent] : And then the next, that's the 6th, yeah. For the Thursday. Did you want it on the Thursday?
+[24 minutes 59 seconds][Customer] : Yeah, mate. Yeah, that's what I get paid.
+[25 minutes 1 seconds][Agent] : OK, so I'll set it for the Yeah. All good. So the 6th of February.
+[25 minutes 2 seconds][Customer] : Can I let it do that?
+[25 minutes 12 seconds][Agent] : Yep. And it'll be every fortnight on the Thursday after that.
+[25 minutes 9 seconds][Customer] : So that's 6th of February, the 6th.
+[25 minutes 19 seconds][Agent] : Yep.
+[25 minutes 21 seconds][Customer] : So that'll be the 6th, and seven is 13, and 7 is what, 1320 third. Oh, no. What day? That's a fortnight after the 6th, Brad. Sorry.
+[25 minutes 38 seconds][Agent] : Fortnight after the 6th. Let me just have a look here.
+[25 minutes 41 seconds][Customer] : Yeah, sorry.
+[25 minutes 43 seconds][Agent] : Yeah, that's alright. Unfortunately, I won't be able to do the 20th there because it does fall out of the 30 days there. Yeah. So next week.
+[25 minutes 54 seconds][Customer] : Alright, Yep, we're heading for the 23rd, then 23rd. Sorry, hang on. That's that's payday. Alright, but you can do the 6th of Feb, can't you?
+[26 minutes 11 seconds][Agent] : Yeah, sorry. Did you say leave it as the 6th?
+[26 minutes 18 seconds][Customer] : Yeah, 6th of February.
+[26 minutes 20 seconds][Agent] : OK.
+[26 minutes 19 seconds][Customer] : Yeah, that'll do that.
+[26 minutes 21 seconds][Agent] : Yeah.
+[26 minutes 21 seconds][Customer] : That that's Fortnite, isn't it?
+[26 minutes 21 seconds][Agent] : No, Yeah, exactly right. OK.
+[26 minutes 26 seconds][Customer] : OK, I think yeah. The first, the 6th of Feb.
+[26 minutes 25 seconds][Agent] : So Yep, that's all right. Take you all right. OK.
+[26 minutes 28 seconds][Customer] : Hang on, got a pen's gone from me anyway. The third, Alright, First installment, 6th of Feb.
+[26 minutes 46 seconds][Agent] : Yeah, exactly right.
+[26 minutes 47 seconds][Customer] : Now you'll take you'll take that out of my bank account like PIN abroad. Then his Pin's good. So yeah, I got hang on. Go on, Brad. Sorry.
+[26 minutes 48 seconds][Agent] : And then yeah, OK, OK, now, yeah. Umm, so with regards to payment, umm, we do have two options. So you can either use a card or you can either use a base bank account number. Now which option is better for yourself there?
+[27 minutes 2 seconds][Customer] : I use the I use the bank mate.
+[27 minutes 20 seconds][Agent] : Yep.
+[27 minutes 19 seconds][Customer] : He's taking out of me and taking out of my account number.
+[27 minutes 20 seconds][Agent] : So the BA OK, no problem. So I'll collect that now because I don't have access to that. Umm Now was it a savings account or a cheque account there? Check account now.
+[27 minutes 33 seconds][Customer] : Mine's a check account and the other card. Yeah, mine's checked and the other card. My daughter's got to care as well. She's got the savings account, right?
+[27 minutes 46 seconds][Agent] : OK, that's no problem. Now which account did you want to use for payment?
+[27 minutes 53 seconds][Customer] : Check account mate.
+[27 minutes 54 seconds][Agent] : Check account. Now what was the best pay number there?
+[27 minutes 59 seconds][Customer] : 33 numbers. I'll give you the card number.
+[28 minutes 1 seconds][Agent] : Yeah, no card number. OK, let me just switch that. So what I'll do, I'll pause the the call recording, OK, So that your details are covered there. Now for security purposes, while obtaining your details, the call recording will stop and we'll recommend after we have collected your details, OK?
+[28 minutes 11 seconds][Customer] : Thank you very much. The. The. The. Is it for the rest of my?
+[30 minutes 11 seconds][Agent] : Yeah, that's why I do know, you know, please be advised that the call recording has now resumed for quality and monitoring purposes. OK.
+[30 minutes 18 seconds][Customer] : No way. Yeah.
+[30 minutes 19 seconds][Agent] : Yep.
+[30 minutes 20 seconds][Customer] : Yeah, like I get a statement each month seeing everything put out on me so I can I can control them.
+[30 minutes 28 seconds][Agent] : Yeah.
+[30 minutes 30 seconds][Customer] : That's it. Check account mate.
+[30 minutes 29 seconds][Agent] : Now, was it a check account or a savings account for the account details there, check. What was the best pay number there, 732?
+[30 minutes 37 seconds][Customer] : Yep, 732736 732736 yes, the account number. You can turn that thing off if you like. Don't matter what the account number is.
+[30 minutes 45 seconds][Agent] : Yep, 73276, 7368, Yep, yeah, Yep. So what's the account number there, 561, 007?
+[31 minutes 2 seconds][Customer] : OK 561 8007 yes, that's right. Yep.
+[31 minutes 9 seconds][Agent] : So just to confirm, base pay number was 732736, account number was 561007 and account name was under Thomas Taylor, correct?
+[31 minutes 25 seconds][Customer] : Thomas Arnold Taylor.
+[31 minutes 26 seconds][Agent] : Thomas Arnold Taylor.
+[31 minutes 28 seconds][Customer] : Yep.
+[31 minutes 28 seconds][Agent] : OK, I'll just put Arnold there now. Thomas, I just want to confirm your details before to make sure that I do have the right file here. OK, now full name under the file was Thomas Taylor. Yep. Your address was PO Box 87. How long?
+[31 minutes 44 seconds][Customer] : Yes, yes.
+[31 minutes 48 seconds][Agent] : NSW 2643, Yeah. Did you have a residential address or were you fine with that address there?
+[31 minutes 57 seconds][Customer] : No, I didn't go through the PPO box mate.
+[32 minutes][Agent] : Yeah, that's completely fine. Your best phone number was 0439265493.
+[32 minutes 7 seconds][Customer] : Yes.
+[32 minutes 8 seconds][Agent] : You don't have an e-mail?
+[32 minutes 11 seconds][Customer] : No, no, no, nothing like that. No, no, no, no, no, no Internet. No, nothing.
+[32 minutes 11 seconds][Agent] : No, that's fine. Now your date of birth was the 14th of the 3rd 1951. Yes perfect and you're male and Australian resident correct?
+[32 minutes 23 seconds][Customer] : Yes, yes.
+[32 minutes 29 seconds][Agent] : OK, no problem at all.
+[32 minutes 39 seconds][Customer] : OK.
+[32 minutes 31 seconds][Agent] : So what I'll do here is I will just uh cross check see if it's correct here. OK, OK, now what I'll do here, umm, I will just read out your declaration here. Now the declaration just covers everything that we've chatted about today. There is a couple of yes or no questions that I will need a clear yes or no too.
+[32 minutes 53 seconds][Customer] : Yes, yes.
+[32 minutes 58 seconds][Agent] : Umm, and that will umm, and then yes, just provide me with those answers. OK, now the declaration rates. Thank you. Thomas Taylor, it is important you understand the following information. I will ask your agreement to these terms at the end and your policy will not be unless you agree to these terms in full. Seniors life insurance is issued by Hanover Library of Australasia Limited. Hanover has an arrangement with Greenstone Financial Services, trading as Australian Seniors Insurance Agency, to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumer product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty? Yes or no?
+[34 minutes][Customer] : Yeah.
+[34 minutes 2 seconds][Agent] : Yep. Uh. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following. Thomas Taylor receives $200,000 in the event of death. If death is as a result of an accident, the benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is is not paid in the event of suicide in the 1st 13 months of the policy. Your cover expires on 13th of the 3rd 2036 at 12:00 AM. Your premium for your first year of cover is $500.55 per fortnight. Your premium is stepped which means it will be calculated at each policy anniversary and will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 4046% of each premium calculated on a level basis over the life of the policy. Your premium will be debited from your nominated bank account in the name of Thomas Arnold Taylor, which you are authorized to debit from and have provided to us. Uh, we might provide Remi. We may provide written communications to you via the address you have provided to us. This will include any legal notices we are required to provide to you. If you would prefer to receive these only via mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address your policy documentation, we'll also so be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. All details are available online and the documentation we are sending you. Now Thomas, do you understand and agree with the declaration? Yes or no? Yes. Perfect. Now Thomas, would you like any other information or would you like me to read any part of the PDA? Yes or no?
+[36 minutes 7 seconds][Customer] : Yes, and I'm all I'm saying now mate, it's on.
+[36 minutes 20 seconds][Agent] : What was that? Sorry.
+[36 minutes 17 seconds][Customer] : So yes 03 said yes or no.
+[36 minutes 24 seconds][Agent] : Oh, no. Umm, so the question just asked if you'd like any other information or if you'd like me to read any part of the PDS to you there?
+[36 minutes 32 seconds][Customer] : No, it's pretty good there mate.
+[36 minutes 34 seconds][Agent] : Yep, that.
+[36 minutes 34 seconds][Customer] : Now once you, you go on bread.
+[36 minutes 37 seconds][Agent] : Yeah. Umm, so just for compliance purposes there. Thomas, I'm very sorry. I'll repeat the question. You can provide me with yes or no answer. OK. Now, would you like any other information or would you like me to read any part of the PDS to you? No. Perfect. Now, Tom, so you had a question for myself there.
+[36 minutes 50 seconds][Customer] : No, yeah, Better give you me bank details where they go to. I know you've got the SPS and everything you need what bank it's got to come out of.
+[37 minutes 7 seconds][Agent] : What was that? Sorry.
+[37 minutes 9 seconds][Customer] : You need the bank in which those details you got to take your money out of my account.
+[37 minutes 17 seconds][Agent] : Oh, yes, yes. You wanted to confirm the bank there were you?
+[37 minutes 21 seconds][Customer] : Yeah.
+[37 minutes 21 seconds][Agent] : Yeah.
+[37 minutes 21 seconds][Customer] : Yeah.
+[37 minutes 21 seconds][Agent] : The bank?
+[37 minutes 21 seconds][Customer] : For you.
+[37 minutes 22 seconds][Agent] : Yeah. The bank I have here is Westpac. Is that correct?
+[37 minutes 25 seconds][Customer] : Yeah. That's that's Dean St. Auburn, mate.
+[37 minutes 28 seconds][Agent] : Yeah. And that's a check account, Correct. OK.
+[37 minutes 31 seconds][Customer] : Yes, that's right.
+[37 minutes 33 seconds][Agent] : Yeah, I have that all on file here.
+[37 minutes 36 seconds][Customer] : Alright.
+[37 minutes 34 seconds][Agent] : OK, nothing.
+[37 minutes 36 seconds][Customer] : You're pretty good, aren't they? Dig it off the fiddle one. Did you?
+[37 minutes 40 seconds][Agent] : What was that? Sorry.
+[37 minutes 41 seconds][Customer] : Well, yes. Did you get off your funeral account one or my bloody S or the ISPs number?
+[37 minutes 49 seconds][Agent] : Ah, you're talking about your funeral policy, were you?
+[37 minutes 52 seconds][Customer] : No, no, we've got the bank form.
+[37 minutes 55 seconds][Agent] : Oh yes.
+[37 minutes 56 seconds][Customer] : All right. Yeah, it's all right.
+[37 minutes 55 seconds][Agent] : So it, yeah, I'm able to see which bank it's covered with, but no other details on that other than what you have provided.
+[38 minutes 6 seconds][Customer] : Yeah.
+[38 minutes 5 seconds][Agent] : Umm, but look Thomas, umm, look one thing, I, I will accept your declaration now. Now with regards to that, umm, we do ask one thing to you back now, we will send you a physical copy of the beneficiary's form. Now, umm, when you do receive that one, uh, complete that one, send that back to us, umm, and then we'll be able to update your file to know who to send the money to. OK.
+[38 minutes 18 seconds][Customer] : Right, Yep, OK there's there's there's two I have two on it is that OK?
+[38 minutes 28 seconds][Agent] : Now, yeah, that's fine. So once that beneficiary, yeah, yeah, that's completely fine.
+[38 minutes 35 seconds][Customer] : The benefits yeah, yeah, I put in a beneficiary to me daughter just say half 50 of each 50 of each cause what happened when Yeah see what happened was gotta be careful because I didn't know about this beneficiary stuff. You know when my wife passed away, her good friend no still pregnant no more her good friend right got her life and had no beneficiary on it.
+[38 minutes 53 seconds][Agent] : Yeah, yeah, yeah.
+[39 minutes 2 seconds][Customer] : So what this BD what this B did she wouldn't put hopefully she did put her sister's name on it as beneficiary and I and I came back I was coming back from Melbourne and down a taxi and I've seen a specialist and answer the phone. The woman said, dear Mr. Talia, your money is down the Philippines.
+[39 minutes 14 seconds][Agent] : MMM oh wow, wow, so sorry to hear about that.
+[39 minutes 27 seconds][Customer] : So I've got nothing you see, yes, I've got nothing and I still got nothing but nothing. Sorry, that's all I'm gonna worry down anyway.
+[39 minutes 32 seconds][Agent] : MMM MMM.
+[39 minutes 36 seconds][Customer] : I think I got told by that three different Filipinos he did now anyway had a heart attack or something that you know what, I'm glad he he got a dusty germs. I think, you know, but not being cruel. But yeah, it's been hard to type with our bills and that you know.
+[39 minutes 48 seconds][Agent] : Yeah, yeah, exactly. Right. Now, look, Thomas, with regards to that, did you have any other questions for me?
+[40 minutes 1 seconds][Customer] : Yeah. When? When? Yeah. They're gonna start on the 6th of February, aren't we?
+[40 minutes 8 seconds][Agent] : Yes.
+[40 minutes 8 seconds][Customer] : Is the first installment, is it?
+[40 minutes 9 seconds][Agent] : So, yes, so the first collection day is on the February.
+[40 minutes 15 seconds][Customer] : Yeah.
+[40 minutes 14 seconds][Agent] : Now I just want to let you know you're still covered starting from today. Yeah. OK. Yeah, that's that's fine. That's completely up to you.
+[40 minutes 19 seconds][Customer] : Oh, right, Oh yeah, 'cause the other thing it's doing, it's bringing up the bank and cancelling everything by the from the from the 6th Or do you want me to go before or do you want me to cancel before then?
+[40 minutes 32 seconds][Agent] : Hey, it's completely up to you on how you want to do it. What I can do. I can. Were you wanting to cancel it or?
+[40 minutes 46 seconds][Customer] : Yeah, I cancel it. It's not worth having my CD for me.
+[40 minutes 50 seconds][Agent] : What is this for your current, uh, life insurance?
+[40 minutes 54 seconds][Customer] : Yeah. To the bank. Yeah. Goes to West Bank, you see.
+[40 minutes 53 seconds][Agent] : Umm, yeah. It's completely up to you how you, umm, how you want to go about it. But yeah, it's unfortunately I can't provide advice, but if you feel like that's something you'd like to do, then it's completely up to you.
+[41 minutes 10 seconds][Customer] : Yeah. I've gotta do it because even though I'm covered from today. So first installment's on my 6th, right? Or do you want the first installment before then?
+[41 minutes 14 seconds][Agent] : Hmm, yeah, no, no. So you've already set it to the six, so, umm, we're more than happy to accept the six there if you like.
+[41 minutes 28 seconds][Customer] : No, I'll, I'll, I'll, I'll ring the bank up and tell them to complete it. It finish from the sixth.
+[41 minutes 27 seconds][Agent] : Hey, yeah, OK, that's completely fine.
+[41 minutes 36 seconds][Customer] : Yeah, fine.
+[41 minutes 38 seconds][Agent] : Umm, but yeah, look, yeah, that's, that's completely up to you. Umm, yeah, yeah, yeah. You can, you can give them a call and, uh, let them know about your situation, but yeah, unfortunately I'm not able to provide advice around that.
+[41 minutes 49 seconds][Customer] : Yeah, No, you're right.
+[41 minutes 51 seconds][Agent] : Umm, yeah.
+[41 minutes 53 seconds][Customer] : You're right.
+[41 minutes 54 seconds][Agent] : But Thomas, look, it's been a pleasure speaking with you today and like I said, if you do have any questions or uh, if you do have anything that you'd like to bring up with us, please feel free to give us a call back and we'll be able to help you out. OK.
+[42 minutes 7 seconds][Customer] : Yeah, that's on that 137 double O2.
+[42 minutes 11 seconds][Agent] : Yep, exactly right. Perfect.
+[42 minutes 13 seconds][Customer] : OK, Brad, it is you're you're stole a mate.
+[42 minutes 18 seconds][Agent] : Yeah. Appreciate it mate, Appreciate it. Easy.
+[42 minutes 16 seconds][Customer] : You've helped me a lot because I was watching TV and I rang up one more, but I said because I'm just had a a pace bike. I I'm honest, you know, I like to be honest, right?
+[42 minutes 29 seconds][Agent] : Mm hmm. Yeah. Mm hmm.
+[42 minutes 29 seconds][Customer] : We had a pitch bike put in and she just comes back. So we can't insure you.
+[42 minutes 36 seconds][Agent] : Mm hmm.
+[42 minutes 36 seconds][Customer] : I look at another one and then I thought I've asked you guys. I rang you guys once before about life insurance, right?
+[42 minutes 49 seconds][Agent] : Mm hmm.
+[42 minutes 49 seconds][Customer] : That you weren't doing it at that time. Did this one come up? And I put stuff, but I'll go and do it because I had my wife on the funeral 1 and I'm on the funeral one.
+[43 minutes][Agent] : Yeah.
+[43 minutes][Customer] : They say it's alright, stay on that funeral one.
+[43 minutes 3 seconds][Agent] : Mm hmm. Yeah.
+[43 minutes 9 seconds][Customer] : Yeah, I don't unlock anybody. Oh, I don't know. I'll stay and listen to what I do. I don't know how much, how much it is. I'd always not take it off and put it on that one.
+[43 minutes 5 seconds][Agent] : Well, it's completely up to you if you do wanna stay on it, but yeah, umm, no, I don't have any. Umm, I'm not unfortunately, because you called into the sales team here.
+[43 minutes 29 seconds][Customer] : Yeah.
+[43 minutes 28 seconds][Agent] : What I can do, uh, let me pop you on a brief hold, umm, and see if there's anything I can help you out with, OK, Won't be a moment.
+[43 minutes 35 seconds][Customer] : Thanks a lot, Fred.
+[43 minutes 37 seconds][Agent] : No problem, uh. Hi there, Thomas. Thanks for holding the line for me there.
+[47 minutes 53 seconds][Customer] : Yeah. Blood.
+[47 minutes 54 seconds][Agent] : Yeah, sorry for keeping you on the line there. Umm, and you were just umm, looking up on your funeral policy on how much you're paying as well, correct?
+[48 minutes 3 seconds][Customer] : Yeah.
+[48 minutes 4 seconds][Agent] : Yeah. So look, I'm, I'm UN, I'm unsure saying how much, umm, you are covered for in total, but I can see how much, uh, fortnightly premium is here now. Just wanted to confirm your fortnightly premium is $72.64.
+[48 minutes 23 seconds][Customer] : It's got a fortnight, is it?
+[48 minutes 21 seconds][Agent] : OK, yes. So that's your fortnightly cover there.
+[48 minutes 28 seconds][Customer] : Yeah. No worries. It'll do. That's all right. Leave it on me.
+[48 minutes 29 seconds][Agent] : Yeah, Yeah. Before I do let you go though, Thomas, I do just want to ask this one last question just to re clarify. OK.
+[48 minutes 39 seconds][Customer] : Goodnight.
+[48 minutes 38 seconds][Agent] : Now just regarding the question and the underwriting that we went through.
+[48 minutes 43 seconds][Customer] : Yep.
+[48 minutes 42 seconds][Agent] : So the last five years, have you been admitted to hospital as an inpatient because of a heart attack, yes or no? Heart failure, yes or no? No or a stroke, Yes or no Perfect, perfect. That all checks out Umm and look, like I said, if you do have any questions, feel free to give me a call back.
+[48 minutes 52 seconds][Customer] : No, no, no, no.
+[49 minutes 6 seconds][Agent] : I will be able to help you out there OK, Yep.
+[49 minutes 9 seconds][Customer] : OK Brad, thanks very much mate.
+[49 minutes 11 seconds][Agent] : Nothing, not a problem.
+[49 minutes 12 seconds][Customer] : Will I ring that up and ask for you or will I answer the phone?
+[49 minutes 18 seconds][Agent] : Umm, look, one of my colleagues will be able to help you out, but if you do request for me, feel free and I'll help you out with that. Regards. OK? Yep.
+[49 minutes 25 seconds][Customer] : Yes, I, I, I think I will ask you because you've done those for me and I'm very appreciated, Brad.
+[49 minutes 35 seconds][Agent] : Yeah, that's not a problem at all. More than happy to help you out. Umm, I am in the sale, I am in the sales team, so there is a bit of a limit how much I can help you out and access your file. But I will find the perfect person to help you out if you do have an inquiry, is there? OK?
+[49 minutes 39 seconds][Customer] : Oh, yeah. Thank you very much.
+[49 minutes 52 seconds][Agent] : No problem. Take care there Thomas.
+[49 minutes 55 seconds][Customer] : You too may know this the new year too.
+[49 minutes 58 seconds][Agent] : You too. Take care there.
+[50 minutes][Customer] : Thanks. Thanks, Brett. Sure you might. Bye, bye.
+[50 minutes][Agent] : Bye now all Good bye.
+[50 minutes 4 seconds][Customer] : Bye, bye, bye.
+[50 minutes 3 seconds][Agent] : Bye bye.

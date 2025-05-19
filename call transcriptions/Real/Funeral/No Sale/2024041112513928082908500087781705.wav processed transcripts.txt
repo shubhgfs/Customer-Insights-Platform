@@ -1,0 +1,179 @@
+[18 seconds][Customer] : Hello.
+[19 seconds][Agent] : Hi, my name is Matt. I'm calling from Real Insurance. How are you today?
+[23 seconds][Customer] : Not bad, mate.
+[25 seconds][Agent] : What was that? Sorry.
+[27 seconds][Customer] : Actually not bad.
+[29 seconds][Agent] : Oh, that's good. As you might know, we're giving you a call in relation to the funeral insurance inquiry that you popped through online. The reason for our call is mostly to help guide you through how the cover does work and go through some pricing with yourself there. Just so I can help out, Are you able to confirm your first name, last name and date of birthday please?
+[36 seconds][Customer] : Yeah, yeah, yeah.
+[52 seconds][Agent] : Yep.
+[49 seconds][Customer] : It's 12th of 953 and it's Clemence John Music.
+[55 seconds][Agent] : Beautiful.
+[56 seconds][Customer] : And it's John. You're right, man.
+[1 minutes 1 seconds][Agent] : Yep, and could I just confirm that you're a male Australian resident please? Yes or no?
+[1 minutes 7 seconds][Customer] : Yes.
+[1 minutes 8 seconds][Agent] : Yes, no worries. So I'll let you know. Firstly, all our calls are recorded.
+[1 minutes 13 seconds][Customer] : Yep. Yep. Yep.
+[1 minutes 12 seconds][Agent] : Any advice I do provide is general and nature and may not be suitable to your situation. So I just so I can get a better understanding of your situation is for the Clements.
+[1 minutes 18 seconds][Customer] : Yep, Yep.
+[1 minutes 23 seconds][Agent] : Is this the first time you're looking at getting funeral cover or do you have something in place?
+[1 minutes 26 seconds][Customer] : No, no, I have something in place but I'm trying to find. I'm a pensioner and I'm trying to find a joint one that's for me and the wife.
+[1 minutes 33 seconds][Agent] : Yeah, Yep.
+[1 minutes 40 seconds][Customer] : So that's why I applied. And you know, when you say joint, you know, it doesn't give you the option to say who else is on that policy when you fill it out on online.
+[1 minutes 52 seconds][Agent] : Oh, OK.
+[1 minutes 53 seconds][Customer] : So, yeah, go on.
+[1 minutes 53 seconds][Agent] : What, when we get in?
+[1 minutes 55 seconds][Customer] : You're on.
+[1 minutes 56 seconds][Agent] : Yep. I was going to say when we get into the court screen, I can add the joint details as well. Umm.
+[2 minutes 1 seconds][Customer] : OK.
+[2 minutes 1 seconds][Agent] : And then we can give you a quote for a joint cover.
+[2 minutes 4 seconds][Customer] : Yeah, yeah. If you wouldn't mind that, that, you know, I don't mind the phone call. But, you know, like I, I, I look at it this way, you know, I'm not saying that. Sorry. I'll start again. Like when I put it online, I just wanted to have it online so you can send me, so I can kind of look at it and say, yes, I will. I won't. You know what I mean? I don't want to waste your time.
+[2 minutes 4 seconds][Agent] : OK, Yeah, yeah, yeah, that, that, that's completely fine.
+[2 minutes 28 seconds][Customer] : And if you understand what I'm trying to say, yeah.
+[2 minutes 33 seconds][Agent] : Look, the only thing is we do go through the quotes over the phone.
+[2 minutes 37 seconds][Customer] : Yeah, you go for it, man.
+[2 minutes 37 seconds][Agent] : So yeah, yeah. And if it sounds suitable, uh, we could either send you through an e-mail of the quote or if it does, if you are happy with it, you can get it set up. That's your choice. We'll go through the quotes and everything first, though.
+[2 minutes 47 seconds][Customer] : Yeah, Yep. Yep.
+[2 minutes 50 seconds][Agent] : OK, Now with your current ones Lemon, is that just for yourself or is that joint as well?
+[2 minutes 56 seconds][Customer] : Nah. That's strong.
+[2 minutes 57 seconds][Agent] : That's right, no worries. So to get straight into it, they're basically it's very easy to apply for.
+[3 minutes 3 seconds][Customer] : Yep.
+[3 minutes 3 seconds][Agent] : There are no medical checks and it is guaranteed acceptance for you as well.
+[3 minutes 7 seconds][Customer] : Yep.
+[3 minutes 7 seconds][Agent] : Now the way it works is for the 1st 12 months you will be covered for accidents or death and accidents or serious injury. Only after the first four months you will be covered for death due to any cause.
+[3 minutes 17 seconds][Customer] : Yep, Yep.
+[3 minutes 22 seconds][Agent] : Now you may be able to have that waived just depending on which company you're with at the moment as well. OK, now in addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to leave by a medical practitioner, we can pay out your claim earlier. So maybe you can use that to store medical costs or just leave it for the funeral. That's up to you guys to decide.
+[3 minutes 28 seconds][Customer] : Yeah Yeah, yeah, yeah, yeah yeah yeah.
+[3 minutes 51 seconds][Agent] : OK, so moving on to the quote there for yourself and your partner's requirements, just for the joint quote, what was your partner's date of birth and first name? That's HARON.
+[4 minutes 2 seconds][Customer] : 16/01/54 Sharon, that's correct.
+[4 minutes 15 seconds][Agent] : And what's the date of birth? Sorry, not the not the date of birth, the the surname. Sorry.
+[4 minutes 18 seconds][Customer] : Umm, the 16/8 surname is Physic, same as mine.
+[4 minutes 26 seconds][Agent] : Yes, beautiful. And she's a female Australian resident.
+[4 minutes 29 seconds][Customer] : Yeah.
+[4 minutes 32 seconds][Agent] : Yeah. The cover does range from $3000 up to $15,000 worth of cover.
+[4 minutes 37 seconds][Customer] : Yeah.
+[4 minutes 37 seconds][Agent] : How much were you looking at comparing with at the moment? Sorry to hear.
+[4 minutes 40 seconds][Customer] : Well, I, we, well, I just put mom away last week and that was $18,000.
+[4 minutes 46 seconds][Agent] : Oh, that was 18,000.
+[4 minutes 49 seconds][Customer] : Yeah.
+[4 minutes 50 seconds][Agent] : OK, so based.
+[4 minutes 51 seconds][Customer] : And that was on a tha that was on a Saturday. Now, I believe, you know, this, this is another thing I've got to find out from you guys is what's the policy go with, you know, with paying out on a on a Saturday compared with the weekday funeral?
+[5 minutes 9 seconds][Agent] : So we are open with the claims team. They're open seven days a week.
+[5 minutes 14 seconds][Customer] : Yeah.
+[5 minutes 14 seconds][Agent] : Now, regardless of the day, it is generally paid out within 24 to 48 hours of the claim being processed. So what happens is during claims time for whoever your beneficiary is will get it.
+[5 minutes 20 seconds][Customer] : Yeah, Yep, Yep, Yep, Yep.
+[5 minutes 28 seconds][Agent] : Umm, we have a dedicated claims team, so they get an agent aside for them and then they guide them through the whole process.
+[5 minutes 35 seconds][Customer] : OK, righto. So yeah, 15,000 you know, I I don't know if that's enough. I suppose it would be.
+[5 minutes 35 seconds][Agent] : But generally it's within 24 to 48 hours, the maximum we.
+[5 minutes 46 seconds][Customer] : I don't know what prom promotions are worth or anything like that, but with my Sorry.
+[5 minutes 53 seconds][Agent] : Oh, sorry to interrupt, Clemens. I was just going to say we have, umm, some average costings of what a funeral would cost on average in Australia. It does. It does depend if you're looking at a cremation or a burial.
+[6 minutes 1 seconds][Customer] : Yeah, yeah.
+[6 minutes 7 seconds][Agent] : Would you? Yeah, yeah.
+[6 minutes 7 seconds][Customer] : Well, can I, can I have both, Both.
+[6 minutes 10 seconds][Agent] : I'll give you the average cost of both and then you can, we can get a quote for whatever you'd like. Sir.
+[6 minutes 16 seconds][Customer] : Yes, that's fine.
+[6 minutes 17 seconds][Agent] : This is according to the government's money slot website.
+[6 minutes 21 seconds][Customer] : Yep.
+[6 minutes 21 seconds][Agent] : So private funerals typically cost somewhere in the region. So a $4000 for a basic cremation up to $15,000 for a more detailed aerial service. So it really just depends if how, how fancy it everything will be. So if it's very detailed, if it's basic, all of that comes into play and sensitive cost.
+[6 minutes 45 seconds][Customer] : OK, I've got that. Yep. Yep. That's fine.
+[6 minutes 47 seconds][Agent] : So where we just still like to start off the court at the 15 and then work around that.
+[6 minutes 53 seconds][Customer] : Yeah, Yeah, it's still coming. This thing. Yeah.
+[6 minutes 53 seconds][Agent] : Yeah, sure. Now to give you the breakdown, first day Clements, your one would be coming in at $69.79 a fortnight.
+[7 minutes 6 seconds][Customer] : And I'm $69. Yep.
+[7 minutes 10 seconds][Agent] : Oh, I can because Sharon is the same age as you. It will actually be the same price, so it works out to be $139.58 per fortnight for the both of you.
+[7 minutes 15 seconds][Customer] : Alright then.
+[7 minutes 26 seconds][Agent] : How does that sound in comparison?
+[7 minutes 23 seconds][Customer] : OK, yeah, well I'm, I'll, I'll tell you who I'm with anyway. It doesn't make any difference to me.
+[7 minutes 36 seconds][Agent] : Yep.
+[7 minutes 33 seconds][Customer] : Uh, I'm insurance line is the mob I'm with and they just put it up to uh, around the 150 to $160.00 a MO. Uh, yeah, a pay a month or whatever it is like you did just now.
+[7 minutes 50 seconds][Agent] : OK.
+[7 minutes 53 seconds][Customer] : Yeah. OK. Well, that's what be what be exciting, right? Yeah, yeah.
+[7 minutes 50 seconds][Agent] : So this query is per Fortnite, is the insurance line OK Now with the 12 months waiting here that I mentioned before, Clements, because you are with insurance line and you've got an existing policy with them, it's actually you can have that wait if you waive with us because they're one of the companies that we waive it for. So you guys wouldn't need to serve that 12 months waiting period.
+[8 minutes 14 seconds][Customer] : OK right.
+[8 minutes 19 seconds][Agent] : And another question as well, Clemens, with insurance line, does your premium, does your price go up every year as you guys get older? How does that work?
+[8 minutes 22 seconds][Customer] : Yeah, yes. Yes. Yep.
+[8 minutes 29 seconds][Agent] : OK, so the difference is in the reason as to why I asked that is because with this one, so your premiums are level which means they are designed to stay the same as you get older.
+[8 minutes 37 seconds][Customer] : OK, OK.
+[8 minutes 42 seconds][Agent] : And then what happens is when yourself insurance turn 85, your premiums will cease.
+[8 minutes 46 seconds][Customer] : Yep, Yep, Yep. Yep.
+[8 minutes 48 seconds][Agent] : So you have nothing more to pay, but you'll still be covered and you automatically receive a 25% bonus cover added on to your $15,000 when you turn 85.
+[9 minutes][Customer] : Yeah. So I read that.
+[9 minutes 2 seconds][Agent] : In terms of the comparisons for yourself insurance so far, how is that all sounding for yourself so far?
+[9 minutes 8 seconds][Customer] : Yep.
+[9 minutes 21 seconds][Agent] : MMM. It all adds up.
+[9 minutes 9 seconds][Customer] : Well, yeah, that, that that brings the thing down for me a bit because like I said, being a pensioner, you know, 60 odd dollars or $139 is, is a lot out of the pension.
+[9 minutes 24 seconds][Agent] : Yeah, no, of course.
+[9 minutes 22 seconds][Customer] : Yeah, it all adds up and you, you know, it's today's world and you know what I'm talking about because you got a family and all that in the house to look after.
+[9 minutes 32 seconds][Agent] : MMM.
+[9 minutes 31 seconds][Customer] : But anyway, yeah well, that that to me it's, you know, it's at least, you know, a bit cheaper.
+[9 minutes 38 seconds][Agent] : Yeah, and you don't have to worry about it going after every year with your age as well.
+[9 minutes 38 seconds][Customer] : Uh, well, that's right. You know, that's what I was looking at, umm, on that side of it because, you know, I thought I tried somebody where I I get that premium and that's where it fits until I pass away. You know what I mean? Yeah, Yeah. Hold on. Go on.
+[9 minutes 54 seconds][Agent] : Yeah, just makes it more sustainable and to explain how the the process works.
+[10 minutes 6 seconds][Customer] : Yeah, yeah.
+[10 minutes 3 seconds][Agent] : So just so you're aware of it, Clements, basically once we go through how the cover does work and also the quote there with yourself and if, if it does sound suitable and it is affordable and everything and you're happy with the cover. Umm, we do organize to get the cover in place for yourself straight away. So you so you guys will be covered straight away. And then what happens is in terms of your payments that we don't expect any upfront payments.
+[10 minutes 22 seconds][Customer] : Yeah, yeah, Yep.
+[10 minutes 29 seconds][Agent] : So if you have a particular payday or pension day that suits you, even though you are covered straight away, your first payment doesn't have to come out until the day that you select.
+[10 minutes 41 seconds][Customer] : OK.
+[10 minutes 41 seconds][Agent] : Yeah. Does that make sense?
+[10 minutes 43 seconds][Customer] : Yeah, yeah, yeah, no, that's no worries.
+[10 minutes 52 seconds][Agent] : Yeah.
+[10 minutes 47 seconds][Customer] : I just got to have a look when the other premium yeah finishes or I think it's on my on my seat.
+[10 minutes 53 seconds][Agent] : Because you don't want to overlap. MM Hmm.
+[10 minutes 55 seconds][Customer] : Yeah, I don't wanna I wanna stop-payment on that one and and continue with you guys. So I think it's somewhere on the 16th or 15th of August.
+[11 minutes 6 seconds][Agent] : Oh, OK, so today's the 31st. Yes.
+[11 minutes 6 seconds][Customer] : So yeah. Yep. Yep. Yep.
+[11 minutes 10 seconds][Agent] : Basically the way it would work is, say for example, if you started today, you and Sharon will still be covered from today, but you won't have to make your first payment to the 15th or the 16th or whenever it is that your payment is.
+[11 minutes 23 seconds][Customer] : Yep, Yep. Yep. Yeah, fair enough. Is there anything else?
+[11 minutes 31 seconds][Agent] : That's pretty much covered the builder only other thing we do let everyone know is you can also find information about our premium structure on our website if you need to. And the the last feature attached to the policy, Clemens is an early cash out option.
+[11 minutes 39 seconds][Customer] : Yep, Yep, Yep.
+[11 minutes 46 seconds][Agent] : So when you guys do turn 85, you can choose to end your cover and we will pay you 75% of the funeral benefit or you can let the policy be as it is.
+[11 minutes 59 seconds][Customer] : How? Well, what would I?
+[11 minutes 56 seconds][Agent] : And so you possibly, it is your choice and yeah, that, that's, that's why it's optional. I mean, some people prefer to cash it out. They wonder when they reach that age. Uh, but if you want to leave it as it is and cover the funeral, that's up to you. OK. Umm, but look, that covers everything, umm, in terms of the cover, the features and benefits, the pricing and everything and how it all works. Basically, if you're happy with that claimants, we can get that in place straight away and get set your first payment for the day you select.
+[12 minutes 10 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[12 minutes 26 seconds][Agent] : Umm, are you happy to continue?
+[12 minutes 29 seconds][Customer] : Umm, can I think about it a bit? Can you send? Can can you send? I got the you got the e-mail address there, haven't you?
+[12 minutes 32 seconds][Agent] : Yeah, Yeah, it's the one you popped down online.
+[12 minutes 40 seconds][Customer] : Yeah. Can you just send that quote there for me?
+[12 minutes 43 seconds][Agent] : Yeah, too easy.
+[12 minutes 44 seconds][Customer] : Yeah, yeah. And and that way I, I can go and have a look at the insurance, you know, and then kind of cancel and then get back to you. Not, not that I'm not that I'm trying to chase you off.
+[12 minutes 53 seconds][Agent] : Yeah, that's no, that's fine.
+[12 minutes 56 seconds][Customer] : And because I am definitely, I'm definitely trying to, you know, get away from this mob because like you say, every, every year it goes up, you know, and, and, and unfortunately being what I am, a pensioner and, and the missus and that, no, I don't want that type of thing anymore.
+[13 minutes 7 seconds][Agent] : Yeah, that's why, yeah, that's why I wanted to ask that question if it does go up every year. But look, that's why it's good to compare, see what's out there and everything that you've done.
+[13 minutes 19 seconds][Customer] : Yeah, yeah, Yeah, yeah. Yep. Yep. Yep.
+[13 minutes 24 seconds][Agent] : Anything we do let everyone know as well, Clemens, is if you are replacing an existing policy, umm, we do recommend that you do not cancel it until your application is approved and you have reviewed this policy in full, as it may not be identical to your existing cover.
+[13 minutes 39 seconds][Customer] : Yep.
+[13 minutes 38 seconds][Agent] : Umm, you should also consider the benefits that may not apply or waiting periods that may start again.
+[13 minutes 45 seconds][Customer] : Yep, Yep, Yep.
+[13 minutes 44 seconds][Agent] : So we've already gone through the, you don't have to serve the waiting period because you've got that cover.
+[13 minutes 48 seconds][Customer] : That's fine.
+[13 minutes 48 seconds][Agent] : Umm, and, and the IT with the e-mail I'm going to send through as well, Clements and it because we've gone through the information over the phone already.
+[13 minutes 50 seconds][Customer] : Yep, Yep, Yep, Yep.
+[13 minutes 59 seconds][Agent] : If you're happy with it and everything and you go through the e-mail, you can actually activate the policies for your e-mail as well.
+[14 minutes 6 seconds][Customer] : That's right. That's right. That's what I like about it.
+[14 minutes 6 seconds][Agent] : So yes, as as your cover has been fully approved, what I'm going to do is e-mail you your policy schedule. It's a cover that is pending activation. Umm, so all you need to do is just follow the prompts in the e-mail, see when they get it in place on my end, just to keep the court open.
+[14 minutes 14 seconds][Customer] : Yep, Yep, Yep, Yep, Yep.
+[14 minutes 24 seconds][Agent] : If we don't hear from you, Clements, umm, do you think we give you a call back tomorrow or Wednesday to touch base and see how you went with that? Is that all right with you or?
+[14 minutes 33 seconds][Customer] : Umm, can you make it Friday or something like that?
+[14 minutes 41 seconds][Agent] : Yeah. What's on?
+[14 minutes 38 seconds][Customer] : I'm pretty well busy, tied up with other things, but yeah, give us a couple of days. One.
+[14 minutes 45 seconds][Agent] : Yeah, it's too easy. Just you'll. Are you from Queensland? Clements?
+[14 minutes 45 seconds][Customer] : Yeah, yeah, yeah.
+[14 minutes 50 seconds][Agent] : What's your Clem?
+[14 minutes 50 seconds][Customer] : Listen, mate, my, my name is Clements, but I like Clem KLEM.
+[14 minutes 56 seconds][Agent] : I it's. I'll leave. I'll leave it as Clements on the profile, but I'll call you Clem. Just quickly.
+[14 minutes 56 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[15 minutes 2 seconds][Agent] : Your address claim. What's your post code?
+[15 minutes 6 seconds][Customer] : 4300 and it's 68 Parker St. Goodna.
+[15 minutes 13 seconds][Agent] : Yep. And is your postal address the same as your home address there?
+[15 minutes 11 seconds][Customer] : There it is.
+[15 minutes 18 seconds][Agent] : All right, all good. So I'll send that through e-mail if we don't hear from you.
+[15 minutes 24 seconds][Customer] : Yep.
+[15 minutes 22 seconds][Agent] : If you don't activate it online, I'll touch base with yourself. Friday is the same as 12:00, OK. Or what time suits you.
+[15 minutes 30 seconds][Customer] : Yeah. Anytime after 11:00.
+[15 minutes 33 seconds][Agent] : Beautiful. So I'll set it for about 12:30 on Friday and then we can touch base if we don't hear from you. OK.
+[15 minutes 36 seconds][Customer] : Yeah, OK, man.
+[15 minutes 39 seconds][Agent] : All right. I'll let you go, Clem. And I hope you enjoy the rest of your day.
+[15 minutes 42 seconds][Customer] : Yeah. See you too.
+[15 minutes 44 seconds][Agent] : Thank you.
+[15 minutes 44 seconds][Customer] : Thanks a lot.
+[15 minutes 45 seconds][Agent] : Bye.
+[15 minutes 45 seconds][Customer] : Bye. Bye.

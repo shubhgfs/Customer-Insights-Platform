@@ -1,0 +1,206 @@
+[17 seconds][Agent] : Good morning.
+[17 seconds][Customer] : Hello.
+[17 seconds][Agent] : My name's Taylor. I'm calling you from real insurance. How are you?
+[21 seconds][Customer] : Good. Thanks. How are you?
+[22 seconds][Agent] : That's good to hear. I'm good. Thank you. Today's a follow up call for you. Is Shane home yet?
+[28 seconds][Customer] : Yep, he's here.
+[30 seconds][Agent] : Perfect.
+[29 seconds][Customer] : Something right beside him.
+[31 seconds][Agent] : No worries. So what I'll do to begin with, I will let you know, umm, the all calls are recorded. Any advice that providers general nature may not be suitable to your situation? Umm, and with that as well, umm, Rebecca, can I just get you to confirm just once more, because it was a little while ago, umm, that you give me permission to speak about your policy with Shane? Yep, perfect, Not a problem there.
+[49 seconds][Customer] : Yeah, Yep. No worries.
+[52 seconds][Agent] : Umm, what I'll need to do is umm, go through the rest of the call with Shane, umm, because I'll take him through that application umm, and we'll see if we can get him approved, but umm, if you just bear with me, umm, if you just put him on the phone, I'll be out of taking through that.
+[1 minutes 5 seconds][Customer] : Yeah. And there you go, mate. I'm here.
+[1 minutes 7 seconds][Agent] : Hi, I'm good, thanks.
+[1 minutes 9 seconds][Customer] : Good. Thanks.
+[1 minutes 8 seconds][Agent] : How are you now? All I need you to do for me, I'm just to begin with, can I get you to confirm your full name and date of birth for me, please?
+[1 minutes 16 seconds][Customer] : Air Shank Tenezotto 4, V 871.
+[1 minutes 18 seconds][Agent] : Perfect, excellent. And also let you know saying that all calls are recorded. Any advice that provide is general nature may not be suitable to your situation. And if you confirm that you're happy for Rebecca, umm, to discuss your policy, for me to discuss your policy with Rebecca.
+[1 minutes 31 seconds][Customer] : Yeah, Yeah, that's fine. I see the control, all that stuff. That's great.
+[1 minutes 33 seconds][Agent] : Yeah, not a problem there. What we'll do, just need to take that one. Umm, But what I'm going to do for you is take you through our cover umm see if we can get you approved for it and see what's suitable for you as well.
+[1 minutes 46 seconds][Customer] : Yep. OK, thank you. Yes.
+[1 minutes 47 seconds][Agent] : Now just to begin with umm can I confirm that you are a male Australian resident perfect not a problem and with our real life insurance, it is designed to provide financial protection for your loved ones. Do a lump sum payment if you were to pass away. Now what I'm going to do is I'll explain there's something I do need to explain for the cover, umm, and then I'll take you through organizing the level of cover that you're after as well as I tell them ask your questions.
+[2 minutes 15 seconds][Customer] : Yep.
+[2 minutes 15 seconds][Agent] : But with that, really easy to apply for. There's no medical checks or blood tests. It's just a series of health and lifestyle questions that I'm going to take you through over the phone. And if you are accepted, once you commence the policy, you will be covered immediately for death due to any cause except suicide in the 1st 13 months. And we also have a terminally or advanced payment included in the cover. So if you were diagnosed with 12 months or less to live by a medical practitioner, we will pay your time out in full. Umm, now after the level of cover, umm, you can choose from $100,000 and a million just depending on your age. But Shane, I'm just going to look into that for you. See what cover? Sorry, 200, I'm sorry, $100,000 up to 750,000. Now, was there a level of cover you'd like me to look into for you?
+[3 minutes 3 seconds][Customer] : Yeah, we're just thinking around a couple. 100,000.
+[3 minutes 6 seconds][Agent] : Yeah, it's a couple 100. I'm looking at 200,000. Yep, too easy. And we'll all do look into that for you. And also just need to confirm that a monthly premium. So you've asked me to have a monthly premium. Did you want to make it the same for you as well?
+[3 minutes 8 seconds][Customer] : Yep, Yep, same day comes out the same day.
+[3 minutes 22 seconds][Agent] : Yep, yeah, of course, I can definitely, umm, organize that and with that as well. Just jump in there. Perfect. And Shane, have you had a cigarette in the last 12 months? Yes or no?
+[3 minutes 22 seconds][Customer] : That'd be great, no?
+[3 minutes 34 seconds][Agent] : No, perfect, not a problem there. Now looking at $200,000 of cover. I'll get that monthly premium up for you as well. So we're looking at $57.49 per month, umm, for the 200,000. And we do have that real reward attached with the policy. So real insurance. Following your first policy anniversary date, we're gonna refund you back 10% of the premium if you paid in that time.
+[4 minutes][Customer] : Yep.
+[3 minutes 59 seconds][Agent] : Sorry, based on just the 200,000, umm, $68.99 is what we refund back to you. And we also have a funeral component within the cover as well.
+[4 minutes 11 seconds][Customer] : Yep.
+[4 minutes 10 seconds][Agent] : So your beneficiaries can request and pay out of $10,000 to help out with the funeral costs.
+[4 minutes 16 seconds][Customer] : Yep.
+[4 minutes 16 seconds][Agent] : Umm, but are you happy with that level of cover?
+[4 minutes 18 seconds][Customer] : Yeah, yeah.
+[4 minutes 19 seconds][Agent] : Yep, perfect.
+[4 minutes 19 seconds][Customer] : I mean, that is pretty good.
+[4 minutes 21 seconds][Agent] : Not a problem there. And I do need to let you know, please be aware that your premium is stepped, which means it will generally increase each year as you age.
+[4 minutes 28 seconds][Customer] : Yep.
+[4 minutes 28 seconds][Agent] : And in addition, this policy has automatic indexation, which means each year your sum insured will also increase by 5% with associated increases in premium. And you can opt out of this automatic indexation each year. So what I'll do is look into that for you. Now I did discuss with Rebecca that a few extras, you let me know if you want to add them on and how much you want them on 4 but we do have the total and permanent disability cover, children's cover, and serious illness.
+[4 minutes 41 seconds][Customer] : Yep, Yep.
+[4 minutes 57 seconds][Agent] : Now with those umm, were you interested in having a look at those? MM Hmm yes, Yep.
+[5 minutes 2 seconds][Customer] : We're interested in the price, the I think it was for 50,000 for permanent disability and there's the other one that we're looking at 50,000 as well.
+[5 minutes 11 seconds][Agent] : OK, so 50,000 for serious illness and TPD.
+[5 minutes 14 seconds][Customer] : Yeah, yeah.
+[5 minutes 15 seconds][Agent] : Yeah, no worries Shane, are you happy to look into that?
+[5 minutes 18 seconds][Customer] : Yep. Yep.
+[5 minutes 17 seconds][Agent] : For the 50,000 for serious illness until today.
+[5 minutes 20 seconds][Customer] : Yep, Yep. That'll be fine. Thank you.
+[5 minutes 21 seconds][Agent] : Yep, that is all good. What I'll do. I'm quite you on those. I'll also explain the covers to you as well.
+[5 minutes 30 seconds][Customer] : Yep.
+[5 minutes 27 seconds][Agent] : Obviously it's going to be umm your cover, so I'll like let you know what they entail, umm, and take you through that. But focus on that serious illness just to give me umm. So you're looking at serious illness cover paid a lump sum benefit If you were to suffer an insured event covered under this policy. The funds can be used in any way you see fit to assist in any rehabilitation costs or an income replacement as you're recovering. Being short, events under this policy are heart attack, cancer, stroke or if you were to undergo heart bypass surgery. I'd assess against the definitions in the PDF, sorry. With that, look into that for you and you can apply for coverage anywhere from $50,000 up to 50% of your chosen life insurance benefit amount. But looking at that $50,000 for serious illness cover, it's $49.38 per month on top of your life insurance premium. Now looking at that as well, umm, I do need to let you know that there is an exclusion for any insured events that become apparent before or during the first three months of the serious illness option commencing will not be covered.
+[6 minutes 35 seconds][Customer] : Right.
+[6 minutes 34 seconds][Agent] : Umm, just like be aware that and please also be aware that any payment made under serious illness cover reduces the available life insurance benefit amount. Sorry. If you also purchase total and permanent disability cover, the payday benefit amount will also reduce when you have a successful serious illness claim. Just so you know. But umm, for the serious illness, for the $50,000 covered there, are you happy for me to add this optional cover to your quote?
+[7 minutes 1 seconds][Customer] : Yep, Yep, Yep.
+[7 minutes 1 seconds][Agent] : Yeah, perfect. And I'm just going to take you through the total and permanent disability and then I'll update, umm, with the total premium. But with that, looking at TPD cover now, I do need to ask, do you work a minimum of 20 hours per week, yes or no?
+[7 minutes 18 seconds][Customer] : Yeah, Yep.
+[7 minutes 18 seconds][Agent] : Yep. Perfect. And with that as well, can I ask what your current occupation is?
+[7 minutes 27 seconds][Customer] : Yeah. Mine or I work out in gold mine. Mine operator.
+[7 minutes 30 seconds][Agent] : Yeah, Yep. So minor. Not a problem there. What I'm going to do is I'll double check this one. Umm, I know that I was speaking to Rebecca last time about this to get the pricing as well. Umm, So I'm just going to double check now. Perfect. Bear with me one moment. OK, Now with that as well, Shane, I just need to confirm. We've got a few here. Now we do have, do you work surface or underground? Yep, surface not a problem. And we've got here is it with explosives or with no explosives?
+[8 minutes 7 seconds][Customer] : Surface open gap, Yeah. No, I I don't work on the explosive crew.
+[8 minutes 20 seconds][Agent] : Yep, that's OK. What I'll do, umm, get it down for you. So we've got service, no explosives and a minor perfect. I've got you down now. And with that as well. Just going to go back into that excellent. And without total and permanent disability, it'll pay a lump sum benefit in the event you suffer the loss of limb or sight or unable to work for a period of six consecutive months. And I'm not able to return to work in any field. But you're experienced, educated or trained or if you, you were to suffer a loss of independent existence. So that's what that CPD cover will include for you.
+[8 minutes 55 seconds][Customer] : Right. And that's after the six months that I haven't worked. Is it?
+[8 minutes 59 seconds][Agent] : Sorry, it would be. So there's a few different things. I'm sorry, lump sum event. But if you stop the loss of a limb or side or unable to work for a period of six consecutive months and are not able to return, that would be part of it. That it would be 6 months just to begin with if it was any of those loss of sight or limb unable to work for a period of six consecutive months, that's when we can umm, start paying that out for you with a successful TPD claim.
+[9 minutes 23 seconds][Customer] : Yeah, yeah, yeah.
+[9 minutes 25 seconds][Agent] : And there's an exclusion under this cover for any intentional self-inflicted injury. Sorry. Please also be aware that any payment made on the total and permanent disability cover reduces the available life insurance benefit amount. And similar to before, if you also purchase serious illness cover, the serious illness benefit amount will also reduce when you have a successful TPD claim. But looking at that, you can choose from $50,000 up to 1,000,000 just depending on your age and your chosen life insurance benefit amount. So just to confirm, 50,000 for this one as well for TPA?
+[9 minutes 59 seconds][Customer] : Yep, thank you.
+[10 minutes][Agent] : Yep, perfect. Sorry, $50,000 of TPA insurance is $28.95 per month, and that's on top of your life insurance premium. So looking at the total premium, there was $50,000 of TPD, $50,000 of serious illness, and 200,000 of family last cover. It's a total, umm, premium of $135.82 per month there for you, Shane. And are you happy for me to add this optional cover to your quote for the TPD?
+[10 minutes 27 seconds][Customer] : Yeah, yeah, yeah.
+[10 minutes 33 seconds][Agent] : Yeah, perfect. Now what up there? Jump in there. Now the rule board, I will let you know, are, umm, adjusting that. So the KPD reward was $34.74, serious illness real reward $59.25. So I, the real rewards added together for you, umm, the total is $162.98 for the real reward that we're going to refund back to you after that first policy anniversary date. So go in there for you. Now, what I'm going to do for you now is take you through those health and lifestyle questions just to see if you're eligible for the cover and we can get you approved there. Now, just bear with me one moment while I open that up. And Shane, can I just get you to confirm what your home address is starting with the post code for me, please. 485 Perfect. And what was the suburb or town?
+[11 minutes 2 seconds][Customer] : Yeah, yeah, Post code 4805 bone.
+[11 minutes 30 seconds][Agent] : Yep, on excellent. And what was your home address?
+[11 minutes 35 seconds][Customer] : I'm not sure if I put 391 or what. 9 W Erie Rd. You just have to check on mine I think.
+[11 minutes 41 seconds][Agent] : OK, yeah, that's all what I'll do. Umm, Rebecca, after I've done this one for you, I'll double check your profile and see what, umm, the, the address is for there. If we need to change it, I'll pop you through to customer service. That's no worries. Umm, they'll be able to do that for you. But, umm, what should.
+[11 minutes 50 seconds][Customer] : Yeah, yeah, I think it's it'll be 391 W Yuri Rd.
+[11 minutes 59 seconds][Agent] : Yeah, OK.
+[12 minutes 1 seconds][Customer] : Yeah, 39 W Yuri Rd.
+[12 minutes 4 seconds][Agent] : Yep. 391 W Erie Rd. Perfect. Got that down for you. So you got 391 W Erie Rd. Bowen, Queensland, 4805? And is that also your postal address?
+[12 minutes 16 seconds][Customer] : No no PO postal address is PA box 1377.
+[12 minutes 17 seconds][Agent] : No, that's all good. 1377. Perfect. And what was the post code for your PO Box?
+[12 minutes 29 seconds][Customer] : Yeah, still the same.
+[12 minutes 31 seconds][Agent] : Oh the same 1 so 4805 yeah it's easy, not a problem. I'll get this down for you. So I got PO Box 1377. Perfect got that down. Sorry umm, PO uh postal address.
+[12 minutes 33 seconds][Customer] : Yeah, yeah.
+[12 minutes 43 seconds][Agent] : Sorry PO Box 1377 in Bowen, Queensland 4805 perfect Now with that as well umm, I just need to write out the pre underwriting disclosure statement to you umm. So it takes me roughly a minute to jump into those questions. This one just needs a yes or no at the end, but this one just reads. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share with other Australian service providers for the purpose of administering your policy or handling things. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. When applying for insurance, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and you provide honest, accurate and complete answers. You need to E answer each question in full, even if you have provided some information to us in any earlier discussions you've had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Now, in saying that, do you understand and agreed your duty, yes or no?
+[13 minutes 56 seconds][Customer] : Yes, yes.
+[13 minutes 56 seconds][Agent] : Yep, perfect. All good. And just put it on Rebecca too.
+[14 minutes 6 seconds][Customer] : Yep. No worries.
+[13 minutes 59 seconds][Agent] : Just while we're going through the health and lifestyle questions, just for me to be compliant, I do need changes to answer these ones by myself. We'll take him through though. And with this one, first few questions here just in regards to the current pandemic, James, are you waiting a COVID-19 test result or planning on being tested? No, perfect. And are you currently in quarantine due to COVID-19?
+[14 minutes 20 seconds][Customer] : No, no.
+[14 minutes 26 seconds][Agent] : No, perfect, no problem. Now, Now a lot of these questions are just going to be yeses or noise. If it's any different, I will let you know. But the first one I've got here for you is your residence. So this is a yes or no. It's asking are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia.
+[14 minutes 47 seconds][Customer] : Yes.
+[14 minutes 48 seconds][Agent] : Yep, perfect next one's occupation. Does your work require you to go on the ground? Work heights above 20 meters, dot cadets below 40 meters? Use explosives or travel to areas experiencing war or civil unrest, or work offshore. No Perfect. And this next section is going to need some figures for me. Umm, but the next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words, or height and weight ranges. In saying that, what is your exact height in centimeters or feet and inches? That's all good. Not a problem.
+[15 minutes 2 seconds][Customer] : No, Hang on. Give me two seconds.
+[15 minutes 35 seconds][Agent] : Not a problem. Shane, you take your time.
+[15 minutes 42 seconds][Customer] : Hold on. Couldn't give you me that that card, but 100, yeah, they they will cost the 180.
+[16 minutes 4 seconds][Agent] : Yeah. So what we can do? I do need a confident answer for that one.
+[16 minutes 12 seconds][Customer] : Hang on. I just need to. I've got it on.
+[16 minutes 10 seconds][Agent] : So it would be a confident single figure measurement.
+[16 minutes 20 seconds][Customer] : I'm just looking on this other one. Yeah, it's got it here.
+[16 minutes 27 seconds][Agent] : Yep. So are you confident for me to put down 180 a 184 centimetres for your height? Yep, Perfect. And what is your exact weight?
+[16 minutes 26 seconds][Customer] : 184, Yep, 108 kilos.
+[16 minutes 41 seconds][Agent] : Yep, 108 kilos. That is all good there Shane. So I've got a height 184 centimetres and then weight 108 kilos, is that correct?
+[16 minutes 49 seconds][Customer] : Yes, that's correct.
+[16 minutes 50 seconds][Agent] : Yep, perfect. And this one just may be yes or no. Have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? No, perfect, all good. Umm, next to you it is yes or no. This next one is your AIDS declaration. So two questions here. First one to asking to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? No Excellent and do you work out or do you engage your services with a sex worker?
+[16 minutes 59 seconds][Customer] : No, no, no.
+[17 minutes 22 seconds][Agent] : No, that's all good and travels. Next umm do you have definite plans to travel or reside outside of Australia? Are you booked or will be booking travel within the next 12 months? No, all good there. And next section here. So financial details, do you have existing life insurance policies with other life insurance companies for that Compu sorry for the combined total sum assured of more than $5,000,000 yes or no?
+[17 minutes 33 seconds][Customer] : No, no.
+[17 minutes 49 seconds][Agent] : No, that's all good. And next session here, so I'm going to list down these for you. Umm, they all just need yeses or nose. But have you ever had symptoms of been diagnosed with or treated for or intend to seek medical advice for any of the following? So first one here is cancer tumor, molar cyst, including skin cancer, sunspots, Melanoma or leukaemia. Excellent.
+[18 minutes 13 seconds][Customer] : No, no, no.
+[18 minutes 15 seconds][Agent] : And have you ever had an abnormal PSA test or enlarged prostate, perfect, umm, stroke, chest pain or heart conditions such as, but not limited heart attack and angina or high blood pressure, high cholesterol, thyroid condition or neurological symptoms such as dizziness or anything?
+[18 minutes 34 seconds][Customer] : Yeah, I have got a little bit of cholesterol. I'd take tablets for that.
+[18 minutes 35 seconds][Agent] : Yeah, yeah. Perfect. So take tablets for your cholesterol. That's all. Good.
+[18 minutes 40 seconds][Customer] : Yep.
+[18 minutes 40 seconds][Agent] : We'll get that down for you. Sorry. Based on your response, please answer yes or no for each of the following. Umm, so high cholesterol, we'll have to get it. Yes, down for that one there.
+[18 minutes 49 seconds][Customer] : Yes.
+[18 minutes 49 seconds][Agent] : And it's just asking, have you ever had a cholesterol blood test with the result greater than or equal to 7.0 millimoles per liter? No, that's all good. That's all it needed. Umm, and just to get down these ones two questions, Umm, so yes or no for these thyroid condition? No. And neurological symptoms such as dizziness or fighting, Excellent, not a problem there. And next one is diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose excellent. Hepatitis or any disorder of the liver, stomach, bowel, gall bladder or pancreas excellent. Epilepsy, motion neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis, anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[18 minutes 58 seconds][Customer] : No, No, No, no, No, no, no, no, no.
+[19 minutes 47 seconds][Agent] : Excellent and any illegal drug use, abuse of prescription medication or received medical advice or counseling for alcohol consumption. All right. And disorder of the kidney or bladder. Blood disorder or disease, Asthma or other respiratory disorder excluding childhood asthma. Nope. Perfect and back on neck pain or disorder.
+[19 minutes 55 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[20 minutes 13 seconds][Agent] : Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia, perfect joint or muscle pain, ligament injuries, including I'm sorry, including replacement or reconstructive surgery. Excellent. And lastly here, umm, osteoporosis or osteopenia and any of the effects of hearing or sight other than which is corrected by glasses or contact lenses.
+[20 minutes 28 seconds][Customer] : 9, 9 9.
+[20 minutes 42 seconds][Agent] : Bye perfect not a problem there. Now got three questions here just in regards to your medical history. Umm orders say yes or no. So first one here is other than what you've already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting the results of any medical tests slash investigations AG undergone any surgery, have medical tests or investigation, for example, X-rays, scans, blood tests or biopsy or awaiting the results yes or no other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? And last, on this one, other than what you've already told me about, have you ever during your working career required more than two consecutive weeks off work due to illness or injury?
+[21 minutes 13 seconds][Customer] : No, no, no.
+[21 minutes 36 seconds][Agent] : Excellent and and family history section here. So when I say immediate family, what I'm referring to here. So immediate family, a mother, father, brother or sister. But to the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familiar adenomatous polyposis? All right, excellent. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart conditions, stroke, or are the hereditary disease prior to age 60?
+[22 minutes 2 seconds][Customer] : No, no.
+[22 minutes 14 seconds][Agent] : Right, excellent. Not a problem there. And last question here for you. So have this pursuits. I'm just going to lift these down. Umm, it just needs to also know. For this one though, it's asking other than one of events, gift certificate, flush vouchers. Do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline? Motor racing, parachuting, mountaineering at sailing, scuba diving deeper than 40 meters, cable wreck diving or any has sorry any other hazardous activity? No, we'll get there. What I'll do Shane, pop that through for you. So congratulations there Shane, you have been fully approved for our cover here at real Insurance.
+[22 minutes 56 seconds][Customer] : Yep.
+[22 minutes 56 seconds][Agent] : Umm so we've got fully proof of TPD same with serious illness as well, so no changes there as well. So just gonna confirm at the very end once it loads for me. So you've got $200,000 of family life cover TPD insurance for 50,000 serious illness of 50,000 as well. So is has stated the same that the $135.82 per month there for you. Now what I can do for you is get that into place. Over the phone policy does give you a 30 day cooling off. So we send you all the documentation in full and should you decide to cancel within the 30 days, you receive a full refund of your premium unless it claims to be made.
+[23 minutes 38 seconds][Customer] : OK. Thanks, Pete.
+[23 minutes 38 seconds][Agent] : So what I'll do? Get this one sorted out for you. And just to confirm as well, umm, I've got your wife's number on this profile as well, so that's O 409-2569 seven 8, is that correct? Yep. And what would your mobile number be? Yep, Yep.
+[23 minutes 52 seconds][Customer] : That's correct, 0407576325.
+[24 minutes 1 seconds][Agent] : 6325. Perfect. Got that down for you. So you got 0407576325. Perfect. And we do have Beck's e-mail address on the profile. Did you want to keep it at hers?
+[24 minutes 16 seconds][Customer] : Yeah, yeah. Thanks.
+[24 minutes 16 seconds][Agent] : Yeah, of course.
+[24 minutes 17 seconds][Customer] : Just to be there and then can you get it all in control then? That's all good. Thank you.
+[24 minutes 21 seconds][Agent] : That's all good. Not a problem. What I can do is I've got beck391@hotmail.com for that e-mail address as well.
+[24 minutes 28 seconds][Customer] : That's great. Thank you.
+[24 minutes 30 seconds][Agent] : Perfect. Now what I'm going to do is get this all sorted out for you now, umm, we generally click playing within the next 7 days, when in the next 7 days would be more suitable for you for that first payment to line it up?
+[24 minutes 29 seconds][Customer] : On the 16th. Yeah. Yeah, Top of that. Yeah. 16th would be great if you can do it.
+[24 minutes 44 seconds][Agent] : Yep, yeah, too easy of course.
+[24 minutes 47 seconds][Customer] : Next is is that the day that mine comes out? It's the 16th, I think.
+[24 minutes 49 seconds][Agent] : So what I'm going to do is I'm going to double check that for you, Rebecca. Give me one moment.
+[24 minutes 56 seconds][Customer] : Yeah. You.
+[24 minutes 56 seconds][Agent] : I'll jump into yours and see what day the payments coming out. Just bear with me. One moment.
+[25 minutes 2 seconds][Customer] : You done with me now, are you?
+[25 minutes 5 seconds][Agent] : So not quite. I do need to read the declaration to you. I know. But what I'm going to do is I'm going to look up Rebecca's.
+[25 minutes 9 seconds][Customer] : Yeah, yeah.
+[25 minutes 14 seconds][Agent] : Just bear with me, OK?
+[25 minutes 16 seconds][Customer] : And just have a look at that address while you're in there too, please.
+[25 minutes 19 seconds][Agent] : Yeah, that's all good. Umm, what I'll do, it won't let me jump out of this lead just until it finishes it, but umm, I will be able to if it is any different, so I'll put it down and if you're happy with umm that Shane, I can pop it down for the 16th. If it's any different, I can always get customer service to change it to line it up with like, if it's any different. Umm, yeah.
+[25 minutes 28 seconds][Customer] : Yep, Yep, yeah, 'cause we'll just get license on the 16th every month. That'll be great.
+[25 minutes 44 seconds][Agent] : Oh yeah, no worries. Yeah, It just won't let me out of that, umm, until I finalize this.
+[25 minutes 48 seconds][Customer] : That is fine. That is fine.
+[25 minutes 47 seconds][Agent] : I do apologize, but as soon as I finalize it, I'll jump into Rebecca's. Umm, so what'll do? Look at that, the first payment coming out on the 16th of December. Perfect. And with that as well, umm, is it a BSP, an account number or Visa or MasterCard that you'd like to shut down for it? Yep.
+[26 minutes 5 seconds][Customer] : It's a BSc and account.
+[26 minutes 9 seconds][Agent] : All good. No, Rebecca, I would just need Shane to read it out to me. Sorry. Just to be compliant. Yeah.
+[26 minutes 9 seconds][Customer] : I'll just, Oh yes, no worries, I'll just get it up.
+[26 minutes 17 seconds][Agent] : Yeah. Too easy. Yep. 66. Perfect. And what was the account number? Yep, 679. Perfect. And is that a savings or a cheque account?
+[26 minutes 24 seconds][Customer] : Right there the BBFB 734-166 account number is 437679 Diving.
+[26 minutes 48 seconds][Agent] : Savings. Perfect. And with that as well, I don't recall, was it a joint account? Yeah, too easy. Is the wording of it. Shane and Rebecca Otto? Yep, perfect. And I understand that it is a joint account for you and your wife, but do you have authorization to debit out of that joint account?
+[26 minutes 53 seconds][Customer] : Yes, yes, yes.
+[27 minutes 7 seconds][Agent] : Yep, perfect. All good. Get that down. Excellent. All right, not a problem. So very last thing I need to do for you, Shane. I do need to read out this declaration to finalize umm, your policy has three questions in it that just need yeses on noise from you. Umm, but you just got to listen in and we'll get that sorted out for you. But this one just reads thank you Shane Order. It is important you understand the following information. I will ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Family life cover is issued by Hanover Lively of Australasia Limited whom we will refer to with Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I refer to as GFS Trading as real Insurance, to issue and arrange this insurance on its behalf. Hanover has relied upon the information you've provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination, and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you've answered all of that questions in accordance with your duty?
+[28 minutes 28 seconds][Customer] : Yes.
+[28 minutes 28 seconds][Agent] : Yeah, perfect. And we may from time to time provide office to you by the communication methods you provided to us in relation to other products and services. By agreeing to this declaration. You can send to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of the following. Shane Auto received $200,000 in the event of life insurance. Shane Auto received $50,000 in the event of serious illness. Shane Auto received $50,000 in the event of TPD, but benefit is not paid in the event of suicide. In the 1st 13 months of the policy, your premium for your first year of cover is $135.82 per month. Your premium is a stepped premium, which means it will be calculated at each policy anniversary and will generally increase as you age your sum. Your sum insured will also increase automatically by 5% each year and you cannot get out of this each year. Included in your premium is an amount payable to GFS, about to 65% to cover costs. Your premium will be debited from your nominated bank account in the name of Shane and Rebecca Otter, which you're authorized to debit from and have provided to us. The policy documentation, PDF and SSG will be sent to you within 5 working days and if you have provided us with an e-mail address, the policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged the claim. If you are replacing an existing policy with this cover, we recommend that you do not cancel that policy until you've received and reviewed our policy info. There are risks associated with the replacing policies, as your new policy may not be identical to existing cover, and there may be other risks you should consider depending on your circumstances. We have a complaints process which you can access any time by contacting us. Full details are available online and in the documentation we are sending you. Now. Shane, does these last two questions I just need yes or noise from you. Umm, the first one here is asking do you understand and agree with the declaration? I've just read you. Yeah. Next 1-2 part question. Just need the yes or no as well, though it's asking would you like any other information about the insurance now or would you like me to read any part of the PDF to you?
+[30 minutes 36 seconds][Customer] : Yes, No.
+[30 minutes 49 seconds][Agent] : No, that's all good. So they set that off covers now in place for you there Shane. But what I'm going to do for you is now you are A5 four. You said that your wife usually deals with this kind of thing as well because this is your policy.
+[31 minutes 9 seconds][Customer] : Yes.
+[31 minutes 3 seconds][Agent] : Did you want me to add third party authorization for her to speak on your behalf on future calls to make it easier?
+[31 minutes 11 seconds][Customer] : Yes.
+[31 minutes 10 seconds][Agent] : That's OK What I'll do. I'll take you through that. That'll only take a minute to do that for you. Umm, just be to understand if you're working fly and fly out umm, for certain things, you might umm, like your wife to be able to do that for you.
+[31 minutes 29 seconds][Customer] : Yep.
+[31 minutes 23 seconds][Agent] : Umm, and unfortunately, without the third party authorization, she wouldn't be able to umm, sorry, we'll get that organized for you both now we set as well. Just going to jot that down perfect. Now all I do is I get this down on the notes. So then umm customer service can see it as well. Umm, for the future calls if they were to, uh, if she were to call in, but can I just get you to confirm your wife's full name, please? Perfect. And what's her date of birth? Yep, 68. You're all good. So 6876. Perfect. And just to confirm, what was it? Oh, the 5th.
+[31 minutes 53 seconds][Customer] : Yeah, Rebecca Jane Auto 5th is the I-76, OK Yeah, 5th, 5th, 5th.
+[32 minutes 19 seconds][Agent] : Yep. Sorry about it.
+[32 minutes 18 seconds][Customer] : Yeah, 5th is the I-76.
+[32 minutes 21 seconds][Agent] : Yep. 5876 perfect. And just confirm to you, is her home address the same as yours at 33191 W Yuri Rd. Bowen.
+[32 minutes 30 seconds][Customer] : Yep.
+[32 minutes 30 seconds][Agent] : Yep. Perfect. I'm just going to get that down. Just bear with me. One moment. 34805 Perfect. And now as to the level of access, so I'll get this down. There's three options for this one here that you can give to your wife, umm, for the party authorization. Umm, so please confirm the process consent you would like to provide from the list from the following list, sorry. So that 1-2 and three, you let me know which one, umm, but we've got one is inquire only two is inquire, make changes or three, inquire, make changes and cancel the policy if required, right? Perfect. And do you shine give consent to Rebecca on this policy, umm, to inquire, make changes and cancel the policy if required now and in the future. Perfect, perfect. And I'm just going to get that down. So that'll be in the notes. Sorry. Alright, OK, that's all good there. So she can call up from it now, umm, I've got those notes in so she'll be able to inquire, make changes or cancel the policy if required on your behalf. Perfect. Now what I'm going to do for you as well, just check in on umm, Rebecca's to see what day, umm, that policy's out, and to double check the postal address as well. So come out of there. Excellent. Alrighty. It's got here.
+[33 minutes 9 seconds][Customer] : 3 Yes Yep, Yep.
+[34 minutes 10 seconds][Agent] : Yeah. So just very quickly, this will only take a second and then we're all done.
+[34 minutes 8 seconds][Customer] : If you think you're right, Yep.
+[34 minutes 14 seconds][Agent] : So we've got family life. Yeah.
+[34 minutes 19 seconds][Customer] : Yep.
+[34 minutes 15 seconds][Agent] : So payments coming out on the 16th of December for hers, and we've got the PR box for that one there. It didn't have the home address. So what I'm going to do? I'm Shane. That's all good for you. Now, yours is all sorted. If you have any questions, don't hesitate to give us a call. We'll be able to assist you further. But Rebecca, are you still there?
+[34 minutes 35 seconds][Customer] : Yeah.
+[34 minutes 36 seconds][Agent] : Yep. Perfect.
+[34 minutes 41 seconds][Customer] : Oh, OK.
+[34 minutes 37 seconds][Agent] : Umm, so with your profile here, umm, I only got down your PO Box, so I've got the PO Box 1377 umm, But what I'm gonna do for you is if you're wanting to add that, umm, the W Yuri Rd.
+[34 minutes 49 seconds][Customer] : Yeah.
+[34 minutes 49 seconds][Agent] : on, I'm gonna pop you through to customer service, umm, because they are able to edit the home address.
+[34 minutes 50 seconds][Customer] : Yep, Yep, Yep.
+[34 minutes 57 seconds][Agent] : Umm, So just gonna confirm here. Umm Rebecca, can I get you to confirm? It's just to be compliant for me to transfer you through, umm, full name and date of birth and that PO Box for me. Perfect. And what's the post code for that one?
+[35 minutes 7 seconds][Customer] : Rebecca Jane Auto 5876 and PO Box 1377 Star One 4805.
+[35 minutes 17 seconds][Agent] : Yeah, perfect. Oh, good there Rebecca, what I'm going to do, I'm popping on a very brief hold, transfer you through to customer service and they'll be able to add in your home address as well now.
+[35 minutes 27 seconds][Customer] : Cool. Thanks.
+[35 minutes 27 seconds][Agent] : Perfect. No worries. Lovely.
+[35 minutes 41 seconds][Customer] : Hey, Taylor, how are you?
+[35 minutes 40 seconds][Agent] : Hi, I'm good, thanks. How are you?
+[35 minutes 44 seconds][Customer] : Good. Thank you.
+[35 minutes 45 seconds][Agent] : I have a Rebecca on the phone. Umm, I just set up her husband's policy but she's wanting to update so I've got APO box. I'm just going to jump out of there for you. So she was confirmed umm, full name, date of birth and APO box address. She's wanting to add her home address to the profile now.
+[36 minutes][Customer] : Yeah, perfect. And I've got that one here you can put Rebecca through whenever you're ready.
+[36 minutes 5 seconds][Agent] : All right. OK.
+[36 minutes 6 seconds][Customer] : Thanks.
+[36 minutes 5 seconds][Agent] : So it's starting in 321.
+[36 minutes 10 seconds][Customer] : Good afternoon.

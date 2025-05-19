@@ -1,0 +1,23 @@
+[2 seconds][Agent] : Welcome to Real Insurance. My name is Danielle. How may I help you? Are you there?
+[13 seconds][Customer] : Yeah, I missed a call from this.
+[12 seconds][Agent] : What was that? Sorry.
+[17 seconds][Customer] : I missed a call from this number.
+[19 seconds][Agent] : Oh, thank you so much for returning our call. Sorry, I didn't quite hear you at the beginning. Can I just have your name and date of birth?
+[29 seconds][Customer] : It's 26th of the 8th, 1983. Sorry, I'm just in the middle of reading the milkshake.
+[35 seconds][Agent] : No, that's OK. You're right. Enjoy it. And what was your name?
+[40 seconds][Customer] : Bruce Warren.
+[41 seconds][Agent] : Thank you. Just having a look here, Bruce. OK, So the call is in regards to the income protection that you went through with one of my agents. Cody, they're just following up for you. I'm just having a look. Sorry, I'm just having a look here. OK. OK. Yep. Here we go. All right. So you're waiting to, I believe it was go to the doctors the last time you were going to the application?
+[1 minutes 16 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah. Suppose you get too much stuff going on, you just want to go to sleep and forget about all of it. Yeah, I woke up.
+[1 minutes 42 seconds][Agent] : Yeah, yeah, I I know.
+[1 minutes 46 seconds][Customer] : I woke up. I just woke up to another thing with the water. So, yeah, I'm, I've heard from this is where I'm working, you know, so they, they laid me off.
+[1 minutes 59 seconds][Agent] : Oh, dear.
+[1 minutes 57 seconds][Customer] : But yeah, yeah, they tried to, but I might have turned down the medical set.
+[1 minutes 59 seconds][Agent] : Oh, OK.
+[2 minutes 7 seconds][Customer] : But anyway, yeah, yeah, yeah, yeah. So yeah. OK. Yeah. Put me through to the guy.
+[2 minutes 12 seconds][Agent] : OK. Not a problem. Just bear with me, OK. Won't be long.
+[2 minutes 16 seconds][Customer] : OK, thanks.
+[2 minutes 17 seconds][Agent] : Thank you. Let me just place you on hold. I'll see if he's available.
+[2 minutes 24 seconds][Customer] : Alright, thank you.
+[2 minutes 24 seconds][Agent] : Thank you. Great. Thanks so much for holding. Sorry about the way. OK, so I can't think of running. I think it's it's in a meeting at the moment actually. No, he's free now. Sorry. Alright, just I'm going to transfer you through now. Sorry, it won't be long.
+[3 minutes 49 seconds][Customer] : Yeah, alright. Thank you.
+[4 minutes 3 seconds][Agent] : Thank you.

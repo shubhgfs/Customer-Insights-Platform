@@ -1,0 +1,25 @@
+[28 seconds][Agent] : Hi, Erika. I've got my colleague Vicky who was able to assist you with the beneficiary, OK. And I've confirmed a request for the new date of birth address and other e-mail policy tag as well from your policy. OK, thank you so much. Over to you. Bye.
+[44 seconds][Customer] : Thank you. Bye.
+[44 seconds][Agent] : Good, good evening, Derek. I'm Mitchell from the support team. How are you today?
+[50 seconds][Customer] : Bye. I'm good. Thank you.
+[51 seconds][Agent] : That's good to hear. How many beneficiaries were you planning to add? Erika.
+[59 seconds][Customer] : Actually, just one.
+[1 minutes 1 seconds][Agent] : Not a problem. What's that person's name?
+[1 minutes 4 seconds][Customer] : Jasmine JASMEN. Middle name is Sarah. Sarah.
+[1 minutes 18 seconds][Agent] : Oh, good. The surname.
+[1 minutes 19 seconds][Customer] : And the last last name is the same as mine.
+[1 minutes 31 seconds][Agent] : What is Jason's date of birth?
+[1 minutes 24 seconds][Customer] : Kaina Hoi, 30th of the fourth. I think it's 1987.
+[1 minutes 44 seconds][Agent] : That's OK. Does she have the exact name addresses here? What's her post code?
+[1 minutes 49 seconds][Customer] : No, she is at 9.
+[1 minutes 54 seconds][Agent] : Is that off suburb?
+[1 minutes 57 seconds][Customer] : It's the same 6230 the suburb is. So we're in Bunbury and her address is 9 Downing St., Downing Street, Carey Park.
+[2 minutes 27 seconds][Agent] : 9 Downing St. Kerry Park, WA 6230 Not a problem. What's her relation to you? What's her contact number?
+[2 minutes 31 seconds][Customer] : Correct Daughter Eldest daughter 0426829738.
+[2 minutes 54 seconds][Agent] : Jasmine Sarah telling you born on the 30th of April 1987. That's your daughter who lives at 9 Downing St., Kerry Park, WA 6230. Her contact number is 0426829738.
+[3 minutes 11 seconds][Customer] : Great.
+[3 minutes 13 seconds][Agent] : Jasmine will receive 100% of the benefit amount under valid thing Yes or no. Erica, I can confirm your beneficiaries have been updated. You you will be sending out your documents which will outline these changes. Please ensure you check the information is correct and as per your request. So that's all done on my side. Anything else I can assist you today?
+[3 minutes 18 seconds][Customer] : Yes, that's all. Thank you.
+[3 minutes 40 seconds][Agent] : Thank you so much for your time then. Have a great day.
+[3 minutes 43 seconds][Customer] : You too. Cheers. Bye.
+[3 minutes 45 seconds][Agent] : Bye.

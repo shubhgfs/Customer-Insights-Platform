@@ -1,0 +1,212 @@
+[2 seconds][Agent] : Hey, Lucy.
+[4 seconds][Customer] : Hey, Ashton, how are you?
+[6 seconds][Agent] : I'm good. Thanks yourself.
+[8 seconds][Customer] : I'm good. Thanks. OK, you ready for this one?
+[13 seconds][Agent] : I'm sorry. What? What? What? What is this? I'm not too sure what's going on.
+[12 seconds][Customer] : It's going to be a sale for you.
+[18 seconds][Agent] : OK, No problem.
+[18 seconds][Customer] : OK, I'm going to give you an ID. I'm going to give you an ID. OK, so I've got Steven's ID, but this will be for Hazel. It should be created because I've just added her as a beneficiary.
+[20 seconds][Agent] : So OK, OK. Yep.
+[31 seconds][Customer] : So it's going to be an ID 260, 15575.
+[39 seconds][Agent] : Yep, I'll double check now.
+[41 seconds][Customer] : Hopefully Hazel's details comes up perfect.
+[44 seconds][Agent] : Yes, Hazel, is it tier?
+[48 seconds][Customer] : Diori.
+[52 seconds][Agent] : OK, Yep, I've got that here.
+[49 seconds][Customer] : Yeah, Berlin, Crouridge, CLARIDGE. OK, so I've umm, so Jane had set up a policy for umm Steven for 10,000. Umm now the next payment date is the 1st of August because that's a pension week. Umm, he's currently paying $52.14.
+[1 minutes 1 seconds][Agent] : Yep, OK, Yep. Is that before right?
+[1 minutes 18 seconds][Customer] : OK, so she may want more. Yeah, I'm still in that. So yeah, she, she may want more.
+[1 minutes 25 seconds][Agent] : Yeah.
+[1 minutes 25 seconds][Customer] : I've just gone through, I've spent I think about 15 minutes trying to explain terminal illness.
+[1 minutes 32 seconds][Agent] : OK. OK.
+[1 minutes 32 seconds][Customer] : So I think he's finally got it because I thought they don't get covered for terminal illness if they're diagnosed within the 12 months.
+[1 minutes 39 seconds][Agent] : I see.
+[1 minutes 38 seconds][Customer] : So I've had to explain that as a living benefit. Yeah, it is fortnightly.
+[1 minutes 43 seconds][Agent] : OK. And what is he covered for? Like what's the amount, 10,000? OK, great. And so this is for life insurance.
+[1 minutes 42 seconds][Customer] : OK And what is the 10,000 5214 funeral?
+[1 minutes 54 seconds][Agent] : See. OK, perfect. There we are. That's even better. OK, great.
+[1 minutes 57 seconds][Customer] : So funeral. Yeah. So we've just gone through that all. Umm, uh, yes. So she may want more.
+[2 minutes 5 seconds][Agent] : Yeah.
+[2 minutes 4 seconds][Customer] : He may want more after, after the end of this conversation.
+[2 minutes 9 seconds][Agent] : Hmm. Mm.
+[2 minutes 7 seconds][Customer] : I'm not sure, Umm, but yes, just uh, so they're both there on the phone.
+[2 minutes 13 seconds][Agent] : OK. I see.
+[2 minutes 12 seconds][Customer] : OK, so he may answer, but Hazel's there and I haven't done the, umm, I haven't done to Hazel the, uh, call recording part because I will speak with Steven.
+[2 minutes 23 seconds][Agent] : Oh, OK, no problem at all.
+[2 minutes 30 seconds][Customer] : No, he's already got his side.
+[2 minutes 24 seconds][Agent] : Just to confirm, did I mention that they want to do, like, as a joint policy or not too sure? Oh, so he's already got his funeral in place. OK, that makes sense. Now Easy. Else.
+[2 minutes 32 seconds][Customer] : This is one for her Yeah, now I'm not too sure he's got his Yeah, his is all in place 10,000 and that's what he's paid.
+[2 minutes 39 seconds][Agent] : OK, great.
+[2 minutes 38 seconds][Customer] : Yep on the on the first of all, this is the next one.
+[2 minutes 41 seconds][Agent] : Yep. OK, perfect. No problem at all. So you can drop the number. Ready. Thank you.
+[2 minutes 41 seconds][Customer] : Alrighty let me know when you're ready and if you did just I'll give you note this down.
+[2 minutes 51 seconds][Agent] : OK. Yep.
+[2 minutes 48 seconds][Customer] : This is Stevens ID, just in case he may say I'll have a. So this is 259 87976.
+[2 minutes 55 seconds][Agent] : Yep, 87976.
+[3 minutes 2 seconds][Customer] : Yeah. OK.
+[3 minutes 2 seconds][Agent] : OK, perfect. Thanks so much for that, Lucy.
+[3 minutes 4 seconds][Customer] : And she's slightly older than him, too. All right, here we go, Steven. Thanks for holding. I've got my colleague Ashton on the line and he'll be able to run through, umm, that with Hazel. OK. Yeah, no problem. I'll pass you fine.
+[3 minutes 22 seconds][Agent] : Hey there, Steven. Hey, Steven. My name is Ashton from One Choice Insurance. How are you?
+[3 minutes 29 seconds][Customer] : Very good.
+[3 minutes 31 seconds][Agent] : That's great, dear.
+[3 minutes 30 seconds][Customer] : I'm going to hand you the phone over to Hazel's.
+[3 minutes 33 seconds][Agent] : Perfect.
+[3 minutes 33 seconds][Customer] : Good morning.
+[3 minutes 33 seconds][Agent] : Thank you so much. Good morning, Hazel. How are you doing?
+[3 minutes 37 seconds][Customer] : Very good. Uh huh.
+[3 minutes 39 seconds][Agent] : That's great to hear, ma'am. My name is Ashton from One Choice Insurance. I'm one of the specialists here so I can be able to help you with that cover today. OK, I will just let you know firstly that calls are recorded.
+[3 minutes 56 seconds][Customer] : Yep.
+[3 minutes 52 seconds][Agent] : Any advice I provide is limited to the products we offer and assisting you to make a decision about whether suitable for your needs. We do not consider your personal circumstances.
+[4 minutes 6 seconds][Customer] : Yep.
+[4 minutes 1 seconds][Agent] : Now I'll just open up your profile here Hazelt, so I can confirm I do have it all correct. And what is your, what is your full name? Thank you. And your date of birth, Great. And I've got your title here as missus and you are a female New Zealand resident, is that correct?
+[4 minutes 11 seconds][Customer] : Hazel Cure Bill encourage TIORR the 20th of the 6th 1950 Yes Yes.
+[4 minutes 29 seconds][Agent] : OK, fantastic. Now my colleague did mention to me that your husband Steven has insurance with us and you're looking at doing a fuel insurance here today. So what I'll do for you is very simple. We do that all over the phone. Hazel, I'll open up the the quote for you and also explain how the benefits do work in detail for you.
+[4 minutes 40 seconds][Customer] : Yep, Yep, Yep.
+[4 minutes 50 seconds][Agent] : OK, now with the cover we do include as well is a accidental death benefit that's able to pay out triple the chosen benefit amount.
+[5 minutes 3 seconds][Customer] : Yep.
+[5 minutes 2 seconds][Agent] : OK, so that's included.
+[5 minutes 6 seconds][Customer] : Yep.
+[5 minutes 5 seconds][Agent] : Whatever insured amount that you are covered for, Hazel, will be paid out in full directly to your beneficiaries. So you can nominate up to five loved ones with us, OK.
+[5 minutes 15 seconds][Customer] : Oh yeah.
+[5 minutes 16 seconds][Agent] : Yes. And they will receive the money in the account directly from us. So it's not going to be paid to any funeral directors, OK. Your beneficiary will have access to the money himself. We also do include Hazel is a is that without insurance when setting it up? There's no medical checks required so acceptance is guaranteed. OK.
+[5 minutes 29 seconds][Customer] : Oh yeah, Yep.
+[5 minutes 42 seconds][Agent] : We also have here the support covering natural cause of death as well as a living benefit. So for the 1st 12 months you will be covered for accidental death, an accidental serious injury. Only after the first 12 months you will be covered for death due to any cause. So that'll then pay out your insured amount that you are covered for.
+[6 minutes 6 seconds][Customer] : Yep.
+[6 minutes 6 seconds][Agent] : In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months left to live by a medical practitioner, we can pay your claim out in full.
+[6 minutes 23 seconds][Customer] : Mm. Hmm.
+[6 minutes 21 seconds][Agent] : OK, so you have that Peace of Mind. Sorry. What is that?
+[6 minutes 27 seconds][Customer] : Yep. Yep.
+[6 minutes 29 seconds][Agent] : OK, great. Yeah.
+[6 minutes 29 seconds][Customer] : Yep.
+[6 minutes 30 seconds][Agent] : So that's both included for you as well. All right, that terminal illness benefit, you can be able to claim that yourself, Hazel, OK, after a waiting period of 12 months. And you can even use that money towards medical costs or treatment. That's up to you.
+[6 minutes 46 seconds][Customer] : I like that. Yeah.
+[6 minutes 45 seconds][Agent] : All right, So what I'll do now is I'll open up a quote for you. Now you can be able to select from a cover starting at $3000 up to 30,000. What would you like me to quote?
+[7 minutes 1 seconds][Customer] : 20.
+[6 minutes 57 seconds][Agent] : You want Hazel or you after 20,000? No problem. Let's have a look at that.
+[7 minutes 5 seconds][Customer] : Yeah. Just how much that would cost me a fortnight.
+[7 minutes 11 seconds][Agent] : Of course, no worries. I'll let you know what that looks like, and then you let me know if it's suitable for you.
+[7 minutes 19 seconds][Customer] : Yeah.
+[7 minutes 17 seconds][Agent] : If not, we can look at a different amount.
+[7 minutes 20 seconds][Customer] : Yeah. Cool.
+[7 minutes 19 seconds][Agent] : OK, No problem and I do. I also can hear your husband Steve in the background there which is no problem.
+[7 minutes 31 seconds][Customer] : Yep.
+[7 minutes 27 seconds][Agent] : I'll just let you know as whilst that calls are recorded, any advice I provide is limited to the products we offer in assisting you to make a decision about with a suitable few needs.
+[7 minutes 36 seconds][Customer] : Yep.
+[7 minutes 35 seconds][Agent] : But then I'll consider your personal circumstances. So Hazel, what the $20,000 of insurance? That's a fortnightly premium of $123.16 per fortnight.
+[7 minutes 49 seconds][Customer] : 100 and three, $16.00 Is that a fortnight?
+[7 minutes 53 seconds][Agent] : So it's no. So it's $123.16 before yes.
+[7 minutes 55 seconds][Customer] : 23, 123 yeah yeah. 1215 grand. Yeah, yeah. OK.
+[8 minutes 3 seconds][Agent] : So that's at of course.
+[8 minutes 9 seconds][Customer] : And we're what about 15 when we were talking before and she says, oh, I, I don't really want to go over the $100 a fortnight.
+[8 minutes 17 seconds][Agent] : I see. OK.
+[8 minutes 19 seconds][Customer] : Hmm.
+[8 minutes 19 seconds][Agent] : Thanks for letting me know.
+[8 minutes 19 seconds][Customer] : So how does 50 look?
+[8 minutes 21 seconds][Agent] : No problem. Let's have a look into that.
+[8 minutes 21 seconds][Customer] : Yeah, yeah.
+[8 minutes 23 seconds][Agent] : So 15,000, that's actually coming up under the $100, which is $92.37 per fortnight.
+[8 minutes 33 seconds][Customer] : No, that sounds better. That sounds.
+[8 minutes 35 seconds][Agent] : Yeah, OK.
+[8 minutes 35 seconds][Customer] : Yeah, Yeah, I'll go for that one.
+[8 minutes 37 seconds][Agent] : Well, let's keep it as that then. No worries at all.
+[8 minutes 40 seconds][Customer] : Yeah.
+[8 minutes 40 seconds][Agent] : And I'll let you know as well, Hazel, is that without insurance if circumstances do change, OK, you can give us a call and you can apply to increase your level of cover due to eligibility or so you have two options for that. You can either cancel, replace the policy or you can apply for top up cover or for example, if circumstances change, you can even apply to reduce your level of cover down as well. So just letting you know that you have that flexibility. Great.
+[9 minutes 11 seconds][Customer] : Yep, Yep. Now that's cool. Yeah.
+[9 minutes 13 seconds][Agent] : We also do provide you with the Peace of Mind, Hazel, that your premiums are level, which means they are designed not to increase as you get older.
+[9 minutes 27 seconds][Customer] : Oh, OK. Yeah, yeah. Now that's alright.
+[9 minutes 26 seconds][Agent] : All right, perfect.
+[9 minutes 31 seconds][Customer] : That's all good.
+[9 minutes 31 seconds][Agent] : And at the age of 85 is when we will stop your premiums. You don't have to pay anything more.
+[9 minutes 38 seconds][Customer] : Oh, OK. Yeah. Mm. Hmm.
+[9 minutes 36 seconds][Agent] : We add on a 25% bonus automatically to your cover and you still insure up until the age of 100. So you have that full piece of night. If you find that you no longer happy with the insurance or circumstances change at a later stage, you have an early cash out option. At the age of 85, you may choose to end your cover and we'll pay you 75% of the fuel insurance benefit. All right, perfect.
+[9 minutes 58 seconds][Customer] : Yes, OK. Yep.
+[10 minutes 3 seconds][Agent] : So what we can do for you now, Hazel, is we can go ahead and get that organized and set up for you today.
+[10 minutes 10 seconds][Customer] : Yes, please.
+[10 minutes 8 seconds][Agent] : The the process is very simple and you can be able to select your preferred payment date. I will just confirm I do have your information correct when sending out the documents. We do send it out to your e-mail and your post. And what is your home address?
+[10 minutes 25 seconds][Customer] : Yeah, I'm 34, Wenyukigo St.
+[10 minutes 37 seconds][Agent] : Great.
+[10 minutes 33 seconds][Customer] : and Wong, the East Wonganyui 4545.
+[10 minutes 39 seconds][Agent] : OK, perfect. And your home address and postal address, they are the same. OK, fantastic. I've got that here for you. And I'll just confirm your contact number, Hazel, is 0211014900.
+[10 minutes 44 seconds][Customer] : Yes, yes.
+[10 minutes 59 seconds][Agent] : And do you have an e-mail address, Hazel, or does anything get sent to your post? OK. Do you mind just repeating that for me? So I just couldn't get that.
+[11 minutes 4 seconds][Customer] : I like to use Stevens from Rencred at extra dot NZ, Wayne Rencred, Rencred at Victor.
+[11 minutes 19 seconds][Agent] : Is that Wang?
+[11 minutes 20 seconds][Customer] : I'll, I'll, I'll spell it out.
+[11 minutes 23 seconds][Agent] : OK, thanks. Yep. Perfect. Yep. Fantastic. Thank you so much Steven. That's I've got that there. Fantastic. All right, so the last thing I'll do for you now, Hazel with setting that up is just note down a preferred payment date for yourself.
+[11 minutes 23 seconds][Customer] : The answer WANGTRAD OK Wayne Tread and extra.co NZ Yep.
+[11 minutes 50 seconds][Agent] : You may pay more in total premiums over the life of the policy than the benefit amount. Please be aware this insurance does not have a savings or investment element. So if you cancel outside of the 30 days, your cover will stop and not receive anything back.
+[12 minutes 3 seconds][Customer] : Yep.
+[12 minutes 2 seconds][Agent] : Now with the payment date, that's up to you. We generally click payment within the next 7 days when the next seven days will be more suitable for you. Hazel, what day works best for you ma'am? The next payment. Do you mean I, I actually had, yeah. So I actually had that conversation with my colleague because she mentioned that you were looking at linking that up.
+[12 minutes 13 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[12 minutes 30 seconds][Agent] : So I can see here that the what the payment that I think Steven has is on the 1st of August, which is that what you wanted to link up with?
+[12 minutes 41 seconds][Customer] : Yes, please.
+[12 minutes 43 seconds][Agent] : OK, that's fine. So we can do that. That's the next fortnight, Tuesday.
+[12 minutes 49 seconds][Customer] : Yes.
+[12 minutes 49 seconds][Agent] : OK, OK. No problem.
+[12 minutes 51 seconds][Customer] : And now come out here with Fortnite.
+[12 minutes 54 seconds][Agent] : That's correct. Yes, every fortnight following. Yeah.
+[12 minutes 57 seconds][Customer] : Yeah.
+[12 minutes 57 seconds][Agent] : With the payment method, we can note down direct debit using an account number or Visa or MasterCard. What do you prefer?
+[13 minutes 8 seconds][Customer] : Visa.
+[13 minutes 9 seconds][Agent] : Yeah, no worries at all. We can use that.
+[13 minutes 10 seconds][Customer] : Visa, Yes, yes.
+[13 minutes 13 seconds][Agent] : I'll just read you out the statements first.
+[13 minutes 20 seconds][Customer] : Yeah.
+[13 minutes 15 seconds][Agent] : This is just letting you know regarding your security At this point, Hazel, for security purposes while obtaining your car details, the call recording will stop and we'll recommence after we have collected your details. The. The. I'm gonna read the statement out to you now as well.
+[15 minutes 10 seconds][Customer] : Mm, hmm.
+[15 minutes 11 seconds][Agent] : Please be advised that the call recording is now resumed for quality and monitoring purposes. So the last thing I'll do for you now, Hazel, I'll just read out your declaration now. Just confirm, you mentioned with that card name it was just under HT and then your last name in full, is that correct?
+[15 minutes 28 seconds][Customer] : Yeah. Then.
+[15 minutes 29 seconds][Agent] : Wait, there we are. So with the declaration here, it does ask for your understanding and that'll all be done. OK.
+[15 minutes 29 seconds][Customer] : Yep, Yep, Yep.
+[15 minutes 36 seconds][Agent] : And like I said, they will be sent out to your home address has that hard copy document black and white that you can keep at home. All right, So just leads here.
+[15 minutes 44 seconds][Customer] : Oh, Yep.
+[15 minutes 44 seconds][Agent] : Thank you. Hazel Diory Berlin, Sorry, Berlin.
+[15 minutes 50 seconds][Customer] : Head. Yep.
+[15 minutes 50 seconds][Agent] : Claridge, it is important to understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice funeral insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenside Financial Services India Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GSS is licensed for the Financial Markets Authority to provide a financial advice service. The advice you provided to you is limited to assisting you to make a decision about whether One Choice Feudal Insurance is suitable for your needs. On the basis of the information you provided to us about your by your general circumstances when providing this advice, you've not considered your specific financial needs or goals, or considered any other insurance products or services. We've verified that you understand the cover and that you consider that the premiums are affordable. We'll send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this Yes or no?
+[16 minutes 55 seconds][Customer] : You said the.
+[16 minutes 57 seconds][Agent] : Thank you so much. Your answer to the application questions and any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided with assessing your application. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share to other service providers for the purpose of administering your policy or handling claims. So let's just clear that one out again for you, sorry.
+[17 minutes 25 seconds][Customer] : Yes.
+[17 minutes 24 seconds][Agent] : We collect your personal information to provide insurance quotes issued covered in other related services. We will share this with Pinnacle Outlet companies, including those located in Australia, may share to other service providers for the purpose of administering your policy or handling claims. A privacy policy which can be accessed on our website tells you more, including how to access and protect your information. We may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By going to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time. So you can opt out of this at any time by contacting us. Will be using in a subscribed facility on communications we send you. You have agreed to take out a single one choice life insurance policy. You have agreed to take out a single one choice female insurance policy with the following cover.
+[18 minutes 20 seconds][Customer] : OK.
+[18 minutes 15 seconds][Agent] : Hazel Theory of Burling Claridge is covered for $15,000 in the vent of death in the case where death is accidental. If you suffer define accidental serious injury, the benefit amount or triple in the 1st 12 months your policy is in force. A death benefit is paid only in the vent of accidental death. Once a life insured reaches age 85, you can choose to voluntarily cancel a person's cover to receive a lump sum of 75% of the chosen benefit amount. If you take up this offer, you'll no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. If cover ends tied to age 85, your benefit is payable and there's no refund of premiums after the cooling off.
+[19 minutes 6 seconds][Customer] : Mm hmm.
+[18 minutes 58 seconds][Agent] : If you choose to retain cover beyond age 85, you will be entitled to an additional 25% of bonus cover on that date and you will not be required to pay any further premiums after the life insured 85th birthday. The bonus cover is not payable if you take the early cash out option.
+[19 minutes 16 seconds][Customer] : Mm hmm.
+[19 minutes 14 seconds][Agent] : Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point the total premium for the first year of cover is $92.37 per Ford right?
+[19 minutes 31 seconds][Customer] : Yes.
+[19 minutes 30 seconds][Agent] : Your premiums are level which means they are designed to stay consistent here on here and will only change if you after you are cover or the insurer adjusted premium rates applying to your policy. The insurer can only make a change if it is applied consistently across all policy holders.
+[19 minutes 48 seconds][Customer] : Mm hmm.
+[19 minutes 46 seconds][Agent] : You may pay more in premiums and the benefit amount over the life of the policy. Included in your premium is an amount payable to GFS between 34% and 57% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. A Investors rated clinical with AB plus financial strength good and triple B minus issue of credit rating with an Outlook cost table. You can read more about these ratings on our website and in your policy documentation.
+[20 minutes 16 seconds][Customer] : Mm, hmm.
+[20 minutes 15 seconds][Agent] : The policy documentation Hazel will be sent to you via mail and if they have provided us with an e-mail address, this documentation will also be emailed to you today. We'll also be sending you a key fact sheet which outlines key aspects of your cover in plain language. You should carefully consider these documents to ensure the product mutual needs.
+[20 minutes 35 seconds][Customer] : Yeah.
+[20 minutes 34 seconds][Agent] : You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have launched the claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GFS on 0800 double 05804 or e-mail support@onechoice.co dot NZ. And just as a recap for you before the last two questions, that was the covered 15,000 accidental death part will be 45,000 and that was $92.37 per fortnight and that'll is the collection date on the 1st of August. OK.
+[21 minutes 14 seconds][Customer] : Mm hmm.
+[21 minutes 13 seconds][Agent] : And the last two questions for you, Hazel, do you understand and agree with the declaration? I've just read you yes or no?
+[21 minutes 20 seconds][Customer] : Mm hmm. Yeah, yes, yes, I did.
+[21 minutes 21 seconds][Agent] : Thank you so much. Would you like any other information about the insurance now or would you like me to read any part of the policy document to you, yes or no? No problem. Well, that's great. Well, that's all done for you now. Hazel, thanks a lot for your time with that.
+[21 minutes 31 seconds][Customer] : No, no, I'm right, Christian.
+[21 minutes 40 seconds][Agent] : Yes, of course.
+[21 minutes 41 seconds][Customer] : Christian cannot ask you. Can I put one of my not the children as my beneficiaries? If Stephen not here, he he goes before me.
+[21 minutes 57 seconds][Agent] : Very good question, ma'am. Yes, you can. You can actually be able to select up to five beneficiaries to be listed down.
+[22 minutes 4 seconds][Customer] : Oh, OK.
+[22 minutes 4 seconds][Agent] : That can be whoever you want.
+[22 minutes 6 seconds][Customer] : Oh, that's cool.
+[22 minutes 6 seconds][Agent] : That's right. Yeah.
+[22 minutes 7 seconds][Customer] : Yeah. Oh, cool. Yeah. Yeah.
+[22 minutes 8 seconds][Agent] : That beneficiary form that'll be attached to the hard copy documents that'll be sent to your home address.
+[22 minutes 14 seconds][Customer] : I see that.
+[22 minutes 16 seconds][Agent] : Oh, great.
+[22 minutes 15 seconds][Customer] : I was looking at Steven, but I wasn't too sure.
+[22 minutes 17 seconds][Agent] : Yes, no, that's fine. Now, good question.
+[22 minutes 21 seconds][Customer] : Yeah.
+[22 minutes 20 seconds][Agent] : Yeah, you can have the opportunity to select what you like.
+[22 minutes 24 seconds][Customer] : Oh, cool. Thank you very much for that.
+[22 minutes 25 seconds][Agent] : Yes, my pleasure. You too.
+[22 minutes 27 seconds][Customer] : You have a lovely day.
+[22 minutes 29 seconds][Agent] : Thanks for that, Hazel.
+[22 minutes 30 seconds][Customer] : Bye.
+[22 minutes 30 seconds][Agent] : And you have a great day too. Bye.
+[22 minutes 32 seconds][Customer] : Oh good.
+[22 minutes 32 seconds][Agent] : Bye.
+[22 minutes 33 seconds][Customer] : You too. Bye. Bye.

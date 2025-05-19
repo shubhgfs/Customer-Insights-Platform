@@ -1,0 +1,271 @@
+[3 seconds][Agent] : Welcome to Real Insurance. My name is John. How can I help you today?
+[7 seconds][Customer] : Hi Shawn, my name is Antoine.
+[10 seconds][Agent] : Antoine. Hey, Antoine, How can I help you? OK, no worries. Well, with the license, yeah, we can go through some information and some pricing today. Just so I can do that, can I get you to confirm your first name for me first, please?
+[14 seconds][Customer] : Just I want to inquire about your life insurance for me and my wife if you have the the information please Antoine A NTWAN.
+[35 seconds][Agent] : Is that ANTO Lyon or R Antoine? And your surname, please, KAYKATY. And just your date of birth, please, Antoine.
+[47 seconds][Customer] : Kaikaty KAIKATY no no KKAIKATY Kat. Correct.
+[59 seconds][Agent] : Yep, KAIKATY, Perfect and Antoine, can you please confirm your date of birth for me please?
+[1 minutes 13 seconds][Customer] : 2nd of November 1953.
+[1 minutes 16 seconds][Agent] : 1953 second of November 1953 Perfect. And Antoine, just one more thing confirming that you are a male Australian resident. All correct.
+[1 minutes 27 seconds][Customer] : Correct. Yes.
+[1 minutes 29 seconds][Agent] : All right, let me get something up here right now for you. All right now it's on. Just so I can assist you further and gain a bit of an understanding as to what your current circumstances are, what's prompted that inquiry for the life insurance for both you and your wife?
+[1 minutes 51 seconds][Customer] : Sorry I didn't get you WH Why?
+[1 minutes 56 seconds][Agent] : Yes. So what has motivated you to look into life insurance?
+[1 minutes 54 seconds][Customer] : Why we doing it for For my kids? Yeah, for my kids.
+[2 minutes 7 seconds][Agent] : I see.
+[2 minutes 8 seconds][Customer] : I have two boys.
+[2 minutes 10 seconds][Agent] : OK, no worries. And how old are your boys? I see.
+[2 minutes 17 seconds][Customer] : One is 40 with Danny and the other is 38 or 3737.
+[2 minutes 24 seconds][Agent] : OK, that's OK. So you've pretty much got the hard work done in in raising your children. Umm, well, well, the reason why I asked that Antoine, is, is because some people get the life insurance to, you know, uh, leave behind to their families so their family doesn't, you know, suffer that financial burden.
+[2 minutes 30 seconds][Customer] : Yes, yes, that's right. Yes.
+[2 minutes 46 seconds][Agent] : Some people use the life insurance to, you know, cover the cost of the funeral or some people use the life insurance just to leave behind to their children.
+[3 minutes 3 seconds][Customer] : No.
+[2 minutes 55 seconds][Agent] : So in your case, was it just to leave behind to your children or would were there any outstanding mortgages that you didn't want your children to suffer?
+[3 minutes 3 seconds][Customer] : Then there there's no mortgages.
+[3 minutes 7 seconds][Agent] : OK, Well, congratulations by the way. Umm, well, OK, in regards to that then umm, I'll give you a bit of information in regards to some of the things with our policy. All right, so with the, with, with our policy, we do have an advanced payout of 20% of the benefit amount that's there to Oh, and that, that's up to a maximum of $20,000. All right, now, that's that's there to help with funeral costs or any other final expenses at the time. All right. Now, in addition, there is a terminally ill advanced payout included in the cover. OK, now, and I'll explain that later down the track as well. Now, Anton, you said you had the two boys. Are these are these umm, are these boys?
+[4 minutes 1 seconds][Customer] : No, only my boys and I don't have any. My boys. And if I go before my wife, of course, that's for her and for the kids.
+[3 minutes 55 seconds][Agent] : Will they be, you know, are these people that you were leaving that money behind to or was there anyone else mind all to your boys, OK.
+[4 minutes 13 seconds][Customer] : You know what I mean?
+[4 minutes 15 seconds][Agent] : Yeah, no, that's OK. The reason why I asked that as well is because you can nominate up to five beneficiaries.
+[4 minutes 16 seconds][Customer] : Yeah, Yeah.
+[4 minutes 21 seconds][Agent] : So for example, your two boys or even your partner, that's for them to receive the nominated benefit amount. Now, we try to keep things nice and simple for you to apply as everything is done over the phone. There's no forms to fill in all medical checks or blood tests to complete. What we do is we simply take you through health and lifestyle questions as that will be that will determine the pricing in terms of the policy. OK, We'll go through some pricing right now. I understand that you wanted to get life insurance from both you and your wife. However, we can only do single policies. So if your wife wanted to apply for life insurance, he can just tell it to, you know, call us back and she can apply for a separate one for herself. OK.
+[5 minutes 7 seconds][Customer] : Yeah, yeah, she's here. She can talk to you if you want.
+[5 minutes 10 seconds][Agent] : Oh, no, no, no, that's OK.
+[5 minutes 11 seconds][Customer] : Let that, let that start with me and we see how much and, uh, what the beneficiary is, how much will be they will get.
+[5 minutes 11 seconds][Agent] : I'll put yes. So well, I'll start off with you first. OK, Just to just to confirm, do you have any questions for me so far, Antoine?
+[5 minutes 33 seconds][Customer] : No, all good. So far so good.
+[5 minutes 34 seconds][Agent] : OK, no worries. Let's go through some pricing together then. To begin with, have you had a cigarette in the last 12 months? Perfect. So I'll have this here, just confirming. I'll just need a yes or a no for that, sorry. Have you had a cigarette in the last 12 months?
+[5 minutes 43 seconds][Customer] : Never smoke in my life, no.
+[5 minutes 55 seconds][Agent] : Perfect. OK. Now keep in mind the level of cover you can choose from is from $100,000 all the way up to $200,000. What benefit amount do you feel like is, you know in is enough to leave behind to your wife and your two sons?
+[6 minutes 15 seconds][Customer] : Of course, 200 will be lovely.
+[6 minutes 20 seconds][Agent] : OK, So if we cover you for $200,000, then it's one you're looking at a fortnightly premium of $379.60. OK. How is that sending that just for you?
+[6 minutes 17 seconds][Customer] : I want to see the repayments on only for me, right?
+[6 minutes 37 seconds][Agent] : Yes, OK. How is that sounding there so far?
+[6 minutes 45 seconds][Customer] : I will. In this case we drove it to 100.
+[6 minutes 48 seconds][Agent] : OK, let's drop it to $100,000 then.
+[6 minutes 51 seconds][Customer] : Yeah.
+[6 minutes 51 seconds][Agent] : So to cover you for $100,000, you're looking at a fortnightly premium of $189.90 per fortnight.
+[7 minutes 4 seconds][Customer] : Fine, fine. Yes, yes, please.
+[7 minutes 6 seconds][Agent] : Sorry, that that that was sounding afford, how is that sounding in terms of affordability?
+[7 minutes 14 seconds][Customer] : I'm fine. I will go.
+[7 minutes 15 seconds][Agent] : Fine, no worries. Well, what we'll do now then is we'll take you through a series of health and lifestyle questions, OK. Now what we'll do for that because that like I said, that determines one if you are approved and to that determines your pricing and the terms of your policy. OK.
+[7 minutes 45 seconds][Customer] : At 2224 Sylvania.
+[7 minutes 38 seconds][Agent] : Now the first thing you'll need to confirm over here is your post code first please, 2224 and is that in Kangaroo Point, Sylva Sylvania, Sylvania and is that it? Could you let me get this one up? Just need to confirm that street address again please.
+[7 minutes 55 seconds][Customer] : Sylvania yearn St.
+[8 minutes 8 seconds][Agent] : Urine St. Sorry what was the number 7? Could you spell urine for me please?
+[8 minutes 6 seconds][Customer] : yearn 7 YERAN yearn.
+[8 minutes 24 seconds][Agent] : Urine Perfect. So I have 5-7 urine St.
+[8 minutes 30 seconds][Customer] : Correct.
+[8 minutes 28 seconds][Agent] : Sylvania NSW 2 four is that correct? Perfect.
+[8 minutes 31 seconds][Customer] : Yes, yes.
+[8 minutes 33 seconds][Agent] : And your postal address as well. That's one. OK, same. So your postal address is the same as your home address.
+[8 minutes 37 seconds][Customer] : I I think yeah, yeah, yeah, yeah.
+[8 minutes 45 seconds][Agent] : Perfect. All right, what I'll do, we'll go through the application questions right now. OK, I'll load up a pre underwriting disclosure takes me roughly one minute to read. It's just a friendly reminder to answer these questions honestly and accurately.
+[9 minutes 2 seconds][Customer] : I'm sorry. Be sorry before I I have one question. How long this policy will last? As long as I'm alive or there is a certain age and will you stop?
+[9 minutes][Agent] : All right, Anton, now while I have, Yeah, of course, no. So this will cover you. Just want to make sure over here. So this one, this policy will cover you for life as long as you of course pay your premiums on time.
+[9 minutes 31 seconds][Customer] : Correct. As long as I'm alive, like because some places they say up to your 13 age and your life and your and your your insurance stopped that way. I say to them what? What was going to happen? So I have to die between this age, You know what I mean?
+[9 minutes 38 seconds][Agent] : Oh, I yeah, of course.
+[9 minutes 52 seconds][Customer] : But I have, yeah.
+[9 minutes 54 seconds][Agent] : So you may be referring to term life insurance. Life insurance, that's something different. OK, so term life insurance that covers you for term. OK, now for the life insurance, you're covered for life as just as long as you keep paying your premiums on time. D Does that make sense?
+[10 minutes 14 seconds][Customer] : That's your your, your policy.
+[10 minutes 17 seconds][Agent] : Yes.
+[10 minutes 18 seconds][Customer] : Yes.
+[10 minutes 17 seconds][Agent] : So with the life insurance that covers you for your life.
+[10 minutes 22 seconds][Customer] : Yes. As long as I'm alive, yeah.
+[10 minutes 21 seconds][Agent] : OK, Yep.
+[10 minutes 24 seconds][Customer] : And after that, if, if something happened to me, 100,000 it goes between the three of them.
+[10 minutes 31 seconds][Agent] : Of course, so you can, you can nominate your beneficiaries.
+[10 minutes 33 seconds][Customer] : Yeah, yes.
+[10 minutes 36 seconds][Agent] : That's and you can nominate them to receive the you can get the you can nominate the nominated benefit amount. Sorry, umm, now, yes, up to five people.
+[10 minutes 45 seconds][Customer] : Up to five people, yes Fine.
+[10 minutes 49 seconds][Agent] : OK, perfect.
+[10 minutes 51 seconds][Customer] : Now we go ahead. Fine.
+[10 minutes 52 seconds][Agent] : OK, no worries. Now I do wanna, I did forget to mention as well, Antoine, we do have a real reward with the policy. OK, Now what that means is that following your first policy anniversary date, we'll refund you 10% of the premiums you've paid in that time. OK, so I'll let you know that figure. So following your first policy anniversary date, we'll refund you $493.49. OK. Now by any chance, Antoine, do you have a will in place as well?
+[11 minutes 21 seconds][Customer] : I have what?
+[11 minutes 28 seconds][Agent] : A will.
+[11 minutes 27 seconds][Customer] : Sorry no TH that's the only thing I I will need for the case. I don't have anything in my.
+[11 minutes 32 seconds][Agent] : That's OK, because that doesn't affect the price Yeah no, that that's OK. The reason why I do ask that don't worry, it doesn't affect your price. The only reason why I do ask that is because if you do wish to proceed with the policy, we do also include uh, we do also provide you with a free online legal will that's valued at $160.00 with each policy. So that's there for you to use.
+[11 minutes 59 seconds][Customer] : Fine.
+[11 minutes 58 seconds][Agent] : OK now I'm bringing up your pre underwriting disclosure right now. OK takes me about a minute to read. It's a friendly reminder to answer these questions honestly and accurately.
+[12 minutes 4 seconds][Customer] : Yes, go, go. Sorry.
+[12 minutes 8 seconds][Agent] : OK, uh, I'll just, you'll have one question at the end. I'll just need a yes or no for that question.
+[12 minutes 13 seconds][Customer] : OK.
+[12 minutes 12 seconds][Agent] : All right, now your pre underwriting disclosure states, please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are planning to purchase a life insurance policy and this such you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in four, even if you have provided some information to us in any earlier discussion you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. With that being said, do you understand and agree to your duty? Yes or no?
+[13 minutes 21 seconds][Customer] : Yes.
+[13 minutes 23 seconds][Agent] : Perfect. All right, let's get this up here. Now, the first thing you'll need to ask is more so regarding to COVID-19. All right, now that just says have you been hospitalized for COVID-19 in the LA? Sorry, I'll read that again. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[13 minutes 47 seconds][Customer] : No.
+[13 minutes 48 seconds][Agent] : Thank you. Now for the following questions, I'll need to read them out word for word and for compliance purposes. All I'll just need from you is just a yes or no. Once the questions being read out in full, we'll fly through these questions very smoothly. OK, Now the first question is, are you a citizen or sorry? Are you a citizen or permanent resident of Australia or citizen of New Zealand currently residing in Australia? Perfect. So was that a yes to that question then?
+[14 minutes 14 seconds][Customer] : I'm citizen of Australia, yes.
+[14 minutes 22 seconds][Agent] : Perfect. Now I'll continue on from you. Have you ever had have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack, and then China. Lung disorder excluding asthma, sleep apnea or pneumonia. Cancer, leukemia or Melanoma, excluding other skin cancer, kidney disorder, hepatitis, or any disorder of the liver. Anxiety, depression. Sorry, I'll read that again. Anxiety, depression or stress requiring medical treatment or any other mental health disorder.
+[14 minutes 43 seconds][Customer] : No, no, no, no, no, no.
+[15 minutes 17 seconds][Agent] : Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for motor neurone disease or any form of dementia, including Alzheimer's disease? Thank you now. And so on the next. With the application now, the system does not allow me to enter any approximate figures, words or height and weight ranges.
+[15 minutes 29 seconds][Customer] : No, hello, so sorry. The line cut off for the last seconds, so can you repeat?
+[15 minutes 52 seconds][Agent] : OK, Yeah, of course. Of course. So the next section is in relation to your height and weight. Please be aware that I am required to obtain a sorry. Please be aware that I am required to obtain a confident single figure measurement for each. In order to continue with the application. The system does not allow me to enter any approximate figures with all height and weight ranges. OK, So with that being said, Antoine, what is your exact height? How tall are you One? 158 centimeters, is that correct? Perfect.
+[16 minutes 23 seconds][Customer] : 158, correct yes.
+[16 minutes 31 seconds][Agent] : And what is your exact weight? How much do you weigh? 81, So I have 158cm and 81 kilograms is that all correct? Perfect. Antoine, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[16 minutes 35 seconds][Customer] : 81 Yes No.
+[16 minutes 56 seconds][Agent] : Perfect. OK, let's get this one over here. All right. Now, does your work require you to go underground? Work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore now to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of Australia IE booked or will be booking travel within the next 12 months? Do you have, Do you have? So I'll read that in again. Do you have existing life insurance policies with other life insurance companies with the combined total sum insured of more than $5 million?
+[17 minutes 17 seconds][Customer] : No, no, no, no.
+[17 minutes 56 seconds][Agent] : Perfect. OK now, have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following diabetes, Raised blood sugar, impaired glucose tolerance or impaired fasting glucose, Chest pain, high cholesterol or high blood pressure, Tumor, mole or cyst, including skin cancer or sunspots? Have you ever had an abnormal PSA test or an enlarged prostate, Thyroid condition or neurological symptoms such as dizziness or fainting? Disorder of the stomach, bowel, gallbladder or pancreas, Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis.
+[18 minutes 14 seconds][Customer] : No, no, no, no, no, no, no, no.
+[18 minutes 57 seconds][Agent] : Any illegal drug use, abuse of prescription medication, or receive medical advice or counseling for alcohol consumption. Bladder or urinary tract disorder.
+[19 minutes 6 seconds][Customer] : No, sorry. Say that again.
+[19 minutes 13 seconds][Agent] : Bladder or urinary tract disorder, Blood disorder or disease, Sleep apnea or asthma, excluding childhood asthma. Perfect. I'll just repeat the first question here. Diabetes raise blood sugar, impaired glucose tolerance or impaired fasting glucose.
+[19 minutes 16 seconds][Customer] : No, no, no, no.
+[19 minutes 39 seconds][Agent] : Perfect. OK, now other than what you have already told me about in the past three years, have you sought medical advice or treatment by medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Perfect, almost there. Now, the next section is regarding your family history and that's speaking about your immediate family. So when we say your immediate family, we're referring to your father, mother, brother or sister. OK, now to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial abnormalities? Polyposis. Perfect. OK, now to the best of your knowledge, how sorry? To the best of your knowledge, have any of your immediate families suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[20 minutes 2 seconds][Customer] : No, no, no, no.
+[21 minutes 4 seconds][Agent] : Perfect. OK, let's get that up now. The next section is in regards to hazardous pursuits. So other than one of events such as gift certificates, slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering, ad sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity? Perfect. All right, with that being said, are you satisfied with the answers provided as accepting, accepting them now, we'll lock the application. Perfect. I'll get that one locked in for you right now. Now with that being said, congratulations, your application has been approved. I'll, I'll say for 71, you are very healthy.
+[21 minutes 34 seconds][Customer] : No, Yes, good.
+[22 minutes][Agent] : Umm, I just want to, I just want to double check, uh, if there's been any changes to your price, OK, Umm, OK, so your, your price remains at $189.80 per fortnight. OK, that's to cover you and your two sons and your wife for $100,000. OK, now, like I said, your application's being approved. Now what this means is that this policy will cover you for death due to any cause except suicide. Sorry, let me repeat myself again. This policy will cover you for death due to any cause except suicide in the 1st 13 months. All right? Now, in addition, there is a terminally ill advanced payment included in the cover. What that means is that if you were diagnosed with 24 months or less to live by a medical practitioner, we can then pay out that benefit amount in full and that could be used for things like medical costs.
+[23 minutes 2 seconds][Customer] : Yes.
+[23 minutes][Agent] : OK, now, uh, Antoine, the next thing I'll need to let you know is that your premium is steps, which means it will generally increase each year. OK, now in addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% with associated increases in premium until you reach the umm, until you reach the maximum benefit amount until the policy anniversary following your 75th birthday. Now you can opt out of this automatic the indexation each year, OK? Well, Antoine, as an indication, if you make no changes to the policy, your premium next year will be $230.35 per fortnight, OK. And look, if you did want to find more information about our premium structure, you can also find that on our website as well. OK.
+[23 minutes 54 seconds][Customer] : No prob.
+[23 minutes 53 seconds][Agent] : Any questions for me so far?
+[23 minutes 56 seconds][Customer] : So far so good.
+[23 minutes 58 seconds][Agent] : No worries. Well, look, as the cover's being fully approved, what that allows us to do is get you covered over the phone today without you having to make a payment today. What we would generally do is we would send out those tailored policy documents for you. That way you can review them with your family, OK, And that way you do have that Peace of Mind knowing that when you do review, you are still covered, OK. Now if you did decide that you weren't suitable for us, you can call us back and apply to have that canceled. Umm, we don't have any locked in contracts or fees that apply. Now, along with your policy documents, there is a beneficiary form. If you did want to continue, all we need you to do is fill out that beneficiary form. That way something unexpected was to happen. We know where that money goes to as well.
+[24 minutes 48 seconds][Customer] : Beautiful. Good. Very nice and easy.
+[24 minutes 49 seconds][Agent] : OK, no worries. So can I just confirm, are you happy to continue and get covered today?
+[24 minutes 57 seconds][Customer] : Yes, Sir. Yes, Sir.
+[24 minutes 58 seconds][Agent] : No worries. Well, what I'll do is I'll confirm and finalize a couple details over here in my end. Bear with me for one moment and then we'll get you covered over the phone.
+[25 minutes 10 seconds][Customer] : Thank you.
+[25 minutes 10 seconds][Agent] : Bear with me for one moment. So can I confirm your your first name is Antoine. That is spelled as a NTWAN. All correct.
+[25 minutes 21 seconds][Customer] : Yes. Yes.
+[25 minutes 22 seconds][Agent] : Last.
+[25 minutes 22 seconds][Customer] : Initial S in the middle. Initial S Antoine SK Cathy.
+[25 minutes 28 seconds][Agent] : OK, did you want me to add your middle name along with the policy?
+[25 minutes 31 seconds][Customer] : Yes, please. Yes.
+[25 minutes 32 seconds][Agent] : Sure thing. OK, could you just spell out your middle name for me please?
+[25 minutes 40 seconds][Customer] : There's no middle name, just S initial s s.
+[25 minutes 44 seconds][Agent] : OK, So what is the S for?
+[25 minutes 48 seconds][Customer] : It's time for Sukri, my father's name. But in my passport, citizenship, driving license, Antoine S Kaikati is not full name like W George W Bush. Yeah, you know what I mean.
+[26 minutes 4 seconds][Agent] : OK, just because if we we can't I'll I'm not sure if we can put the initial. So I would need to actually put the name for the S?
+[26 minutes 14 seconds][Customer] : The full name.
+[26 minutes 15 seconds][Agent] : Yes, please.
+[26 minutes 16 seconds][Customer] : OK, leave it. Antoine Cacati. That's it.
+[26 minutes 19 seconds][Agent] : OK, OK, no worries. So confirming ANTWAN, that's your first name. Kaikaty. That's KAIKATY. Is that correct?
+[26 minutes 19 seconds][Customer] : Nice and easy, correct.
+[26 minutes 33 seconds][Agent] : Perfect.
+[26 minutes 34 seconds][Customer] : Correct.
+[26 minutes 34 seconds][Agent] : And Are you sure you don't want me to? Do you still want me to put the S there or just leave it out completely? OK.
+[26 minutes 40 seconds][Customer] : If if you want to put only the S that'll be lovely otherwise just leave it just one Cacati.
+[26 minutes 46 seconds][Agent] : We can because it's if we put in the S, we would need to put in the name for the S that's all.
+[26 minutes 52 seconds][Customer] : The full name. Yeah, that's alright. Just I, I don't want it to be complicated for you.
+[26 minutes 53 seconds][Agent] : Yeah, no, that's OK. I just want to know then, are we putting the S in or just leaving the S out?
+[27 minutes 3 seconds][Customer] : Yeah, you're going to put the S initial S That's fine.
+[27 minutes 8 seconds][Agent] : OK, well it ju just so we know Sir, is, is that as a second name of yours? Because, uh, just legally we have to put in the official name. We can't just put in the, the letter, the initial, we need to put up the full name.
+[27 minutes 23 seconds][Customer] : As I said, I just, I leave it, uh, just like that.
+[27 minutes 28 seconds][Agent] : OK, just leave it like that then.
+[27 minutes 27 seconds][Customer] : Antoine, Thank you.
+[27 minutes 31 seconds][Agent] : Umm now can you just reconfirm your address for me just so I have the correct one?
+[27 minutes 36 seconds][Customer] : 5-7 year end St.
+[27 minutes 39 seconds][Agent] : Yep, perfect. So I have 5-7 Yeren St. Sylvania NSW 2224, that's your postal address as well, is that all correct?
+[27 minutes 40 seconds][Customer] : Sylvania NSW 2224 correct?
+[27 minutes 56 seconds][Agent] : Perfect. And could you confirm, is this the number? Is this the best contact number to reach you on? Perfect. Could you just confirm that number for me please? Yes, please. So I just need to confirm that next. Could you just confirm your phone number for me first please? Yep.
+[27 minutes 55 seconds][Customer] : Yes, yes, I, I, I gave you also my e-mail if you want 0419696969.
+[28 minutes 20 seconds][Agent] : Perfect. I'll read that out to you again to make sure I'm the correct 10419696696969. OK, perfect.
+[28 minutes 32 seconds][Customer] : Yeah, or, or, or you can read it. Or you can read it as 0419696969.
+[28 minutes 34 seconds][Agent] : And the next thing I'll need ah 0419696969. Perfect.
+[28 minutes 46 seconds][Customer] : Yeah.
+[28 minutes 47 seconds][Agent] : Perfect. Alright, the next thing I'll need to confirm is your e-mail address for me please. D for delta. D for Delta. Perfect.
+[28 minutes 52 seconds][Customer] : OK, my e-mail DD Limousine this D for Del for Delta, D for Delta Limousines LIMOUSINE s@live.com.
+[29 minutes 14 seconds][Agent] : OK. So I have D for Delta, D for Delta, L for Lima, I for Igloo, M for Mary, O for Oscar, U for Umbrella, S for Sierra, I for Igloo, N for Nelly, E for Elephant, S for sierra@live.com all correct.
+[29 minutes 33 seconds][Customer] : The I, what you call it, I for India.
+[29 minutes 36 seconds][Agent] : I for India, yes.
+[29 minutes 38 seconds][Customer] : Yeah, Yeah. Limousine.
+[29 minutes 39 seconds][Agent] : OK, so I ha, I'll read it out.
+[29 minutes 44 seconds][Customer] : Yes, Correct. Correct. Lovely.
+[29 minutes 42 seconds][Agent] : I'll read it out in full ddlimousines@live.com all correct, Perfect. Alrighty. And I will confirm that benefit amount of $1 million, confirming that you are a non-smoker and confirming your benefit amount is $100,000. Your fortnightly premium is $189. And sorry, your fortnightly premium $189.80. Are those all correct? And are you happy to continue and get covered today? Perfect. Alright, well, you can select a payment date of your choice. So with that being said, you can align that with a payday pension day or a day that the rest of your bills do come in. Was there a specific day that you did have in mind?
+[30 minutes 17 seconds][Customer] : Yes, and it will be pension day.
+[30 minutes 37 seconds][Agent] : Pension day, What day would that be?
+[30 minutes 36 seconds][Customer] : Ah, well there there is one this week. So it will be following the was January 31st.
+[30 minutes 51 seconds][Agent] : January 31st.
+[30 minutes 53 seconds][Customer] : Yeah, it will be Friday. You can withdraw the money on. Yeah.
+[30 minutes 52 seconds][Agent] : That's OK, of course.
+[31 minutes 1 seconds][Customer] : Yes, Sir.
+[30 minutes 58 seconds][Agent] : Are you happy for me to are you happy for me to capture your your first payment date as the 31st of January 2025?
+[31 minutes 7 seconds][Customer] : Yeah. But I, I give you my bank details, you don't take it from my center. Yeah.
+[31 minutes 10 seconds][Agent] : Ye, yes. So just before I collect any of those banking details, I want to make sure everything's set up correctly.
+[31 minutes 20 seconds][Customer] : Yes.
+[31 minutes 18 seconds][Agent] : So confirming as per your choice first payment date is the 31st of January 2025, is that correct?
+[31 minutes 25 seconds][Customer] : Yes. Lovely.
+[31 minutes 26 seconds][Agent] : OK.
+[31 minutes 27 seconds][Customer] : Yes, Sir.
+[31 minutes 27 seconds][Agent] : And that premium will be debited from your nominated account every fortnight on a Friday.
+[31 minutes 33 seconds][Customer] : Correct. Correct.
+[31 minutes 32 seconds][Agent] : OK, perfect. So 31st of January 2025. No worries. Now just before we collect any banking details, do you have any questions for me?
+[31 minutes 45 seconds][Customer] : Excellent. No, all good. Thank you.
+[31 minutes 43 seconds][Agent] : So far, all good. OK, so no questions at all.
+[31 minutes 50 seconds][Customer] : No, no question at all.
+[31 minutes 52 seconds][Agent] : No worries now I'll just read this out again. OK, so I want to make sure. So your premium is steps, which means it will generally increase HE In addition, this policy has automatic indexation, which means HE your sum insured will increase by 5% with associated increases in premium until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday. You can opt out of this. You can opt out of this automatic indexation each now as a reminder, as an indication, if you make no changes to the policy, your premium next year will be $230.35. OK, that's next year as an indication. So fortnightly premium for now, uh, I have is $189.80.
+[32 minutes 34 seconds][Customer] : Yeah, thank you.
+[32 minutes 41 seconds][Agent] : OK, now what I'll, what I'll do over here. You said you wanted to put in your BSP and account number. Is that correct? No worries. Is that through a savings or a check account? Check account, no worries.
+[32 minutes 50 seconds][Customer] : Yeah, yes, check account 0624390.
+[32 minutes 59 seconds][Agent] : And the first thing you'll need to confirm is the BSB number please 062435 perfect. And is that with Commonwealth Bank of Australia?
+[33 minutes 13 seconds][Customer] : Yes, correct.
+[33 minutes 18 seconds][Agent] : Perfect.
+[33 minutes 18 seconds][Customer] : Come back 1049, 4501.
+[33 minutes 19 seconds][Agent] : And what's the account number 1049, 4501? Perfect. And is that account under your name Antoine Kayakati? Sorry, is your is the initial S there as well? I can put that in here.
+[33 minutes 36 seconds][Customer] : Yes, it's yeah, yeah, yeah, yes.
+[33 minutes 45 seconds][Agent] : OK, so that account is under the name of Antoine S Kaikati, is that correct?
+[33 minutes 51 seconds][Customer] : Correct, Correct. Perfect.
+[33 minutes 52 seconds][Agent] : Perfect. All right, now, just before I do read your final declaration, we're in the home stretch right now. We're almost done. I just want to make sure I've gone through everything with you. OK. And by the way, Antoine, have you ever looked at funeral insurance in the past? Do you have any existing policies?
+[34 minutes 16 seconds][Customer] : For life insurance, No.
+[34 minutes 18 seconds][Agent] : OK, no worries. Just wanna make sure I've gone through everything with you in this call. And by any chance, by any chance it's one was there, Am I on speaker at the moment or? OK?
+[34 minutes 32 seconds][Customer] : Yes, yes, I I have.
+[34 minutes 35 seconds][Agent] : OK. Is your wife in the background?
+[34 minutes 36 seconds][Customer] : But no, no, nobody will be in in the room.
+[34 minutes 39 seconds][Agent] : OK, So however, on any other call, has your wife heard me? OK, no worries. Uh, just for compliance purposes, if anyone is in the background, calls are recorded. Any advice or providers general in nature and they may not be suitable to your situation.
+[34 minutes 45 seconds][Customer] : No, no, no. All you good?
+[34 minutes 56 seconds][Agent] : OK, so just confirming, just confirming over here.
+[35 minutes 4 seconds][Customer] : I sorry, you know, I put it on loudspeaker because I don't wanna put it next to my ear. They say is not good for the brain.
+[35 minutes][Agent] : So I wanna make sure I'll get that loaded declaration loaded up in the background as we speak, Yes.
+[35 minutes 11 seconds][Customer] : They like, I've been talking to you now over 37 minutes. So imagine 37 minutes next to my ear, next to my brain, they say is not good. That's why I put you on a speaker. Yeah.
+[35 minutes 17 seconds][Agent] : MMM, Yeah, No, that's a that's a very healthy choice. I try not to. I always speak on the speaker phone as well. So, you know, nothing happens to my brain. Just confirming at any time or at any point of the call. Your wife hasn't entered the room. We she hasn't heard me speak to you at all. OK, no worries. OK. Just needed to know that just because out of compliance purposes, we do need to let everyone know if we're on speaker calls recorded.
+[35 minutes 36 seconds][Customer] : Yeah, no, yeah, yeah.
+[35 minutes 55 seconds][Agent] : OK, I'm just making sure I have your declaration loaded up. I'm making sure that I've gone through everything with you today. OK, We're almost there. Perfect. OK. Now with that being said, Antoine, your declaration, sorry, just a reminder, my name is John. Uh, my name is John. I'm from real insurance calls recorded. Any advice you provide is general in nature and may not be suitable to your situation. Now your declaration states, thank you Antoine Kaikathi, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real life insurance is issued by Hanover Live Free of Australasia Ltd whom we will refer to you as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I'll refer to you as a GFS trading as a real insurance issue and the range of this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing the application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the types of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of that questions in accordance with so I'll read that again. Can you please confirm you have answered all of that questions in accordance with your duty, Yes or no?
+[37 minutes 38 seconds][Customer] : Yes.
+[37 minutes 39 seconds][Agent] : Perfect. Now, we may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you can set to allow us to contact you for this purpose until you opt out. I'll read that again. So we may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you can set to allow us to contact you for this purpose until you opt out. So you can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit of and the accepted cover pays a lump sum benefit of. Antoine Kaikati receives $100,000 in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your Premium Your premium for your first year of cover is $189.90 per fortnight your premium is set, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year until you reach so your sum insured will also increase. I'll read that again because sum insured will also increase automatically by 5% each year until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday and you can opt out of this. You understand that the premium projection provided is indicate in the sorry. You understand that the premium projection is. You understand that the premium projection provided is indicative only and does not take into account any existing policies you may have with us. Included in your premium is an amount payable to GFS of between 41% and 55% to cover costs. Your premium will be debited from your nominated bank account in the name of Antoine S Kaikati, which you are authorized to debit from and have provided to us. The policy documentation, PDS and FSG will be mailed to you, and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you have launched the claim. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. But that being said, I'll ask you these two final questions over here, OK? Like I said, if you wanted to find more information about our premium structure, you can also find that on our website. OK, now I'll ask you these two final questions. First one being the understand and agree with the declaration. Yes or no?
+[40 minutes 39 seconds][Customer] : Sorry, can we go to that 75 years old?
+[40 minutes 47 seconds][Agent] : Oh, OK. Let me go back to that then. OK.
+[40 minutes 43 seconds][Customer] : I, I didn't understand what what, what 75 years because you mentioned it before and I was waiting to ask you and now you repeated it again.
+[40 minutes 51 seconds][Agent] : So your premium for your first year, No, no, no, no.
+[41 minutes 9 seconds][Customer] : Indexation.
+[41 minutes][Agent] : So that's in regards to your automatic indexation, not, not the policy, OK, yes, your automatic indexation. So I'll read that part out again. OK.
+[41 minutes 17 seconds][Customer] : Yes, please.
+[41 minutes 17 seconds][Agent] : Now your premium for your first year of cover is $189.90. Sorry. Your premium for your first year of cover is $189.80 per fortnight. Your premium is steps, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year. OK, does that make sense? So your sum insured that 100,000? Yeah. That $100,000 will increase automatically by 5% each year or until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday.
+[42 minutes 13 seconds][Customer] : That was gonna happen on after the 75th.
+[42 minutes 17 seconds][Agent] : You're still covered.
+[42 minutes 19 seconds][Customer] : Yeah.
+[42 minutes 19 seconds][Agent] : You're still covered. It's just your son insured that automatic indexation.
+[42 minutes 25 seconds][Customer] : OK.
+[42 minutes 25 seconds][Agent] : So what we mean automatic.
+[42 minutes 26 seconds][Customer] : Got you.
+[42 minutes 27 seconds][Agent] : Do you get me? No worries.
+[42 minutes 27 seconds][Customer] : Thank you, Lovely. Thank you.
+[42 minutes 30 seconds][Agent] : I'll. Does that make sense?
+[42 minutes 32 seconds][Customer] : Yes, Sir.
+[42 minutes 33 seconds][Agent] : No worries. I'll read that part again just for compliance purposes. OK. Your premium for your first year of cover is $189.80 per fortnight. Your premium is sensible. Your premium is that, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year until you reach. So your sum insured will also increase automatically by 5% each year until you reach the maximum benefit amount or until the policy anniversary following your 75th birthday. You can opt out of this. Yeah. And you can opt out of this. You understand that the premium projection provided is indicative only and does not take into account any existing policies you may have with us. OK. Now with that being said, I'll ask you the final question here, the understand and agree with the declaration. Yes or no, Perfect. And last question, would you like any other information or would you like me to read any part of the PDS to you? Yes or no?
+[43 minutes 36 seconds][Customer] : Yes, all good. Thank you.
+[43 minutes 49 seconds][Agent] : Perfect. Sorry, I'll just confirm that. Last question. I just need a clear yes or no, OK. Would you like any other information or would you like me to read any part of the PDS to you? Yes or no?
+[43 minutes 48 seconds][Customer] : Yes, No, thank you.
+[44 minutes 1 seconds][Agent] : Perfect. Let me get that one submitted right now. OK, now those policy documents, they should be with you shortly.
+[44 minutes 12 seconds][Customer] : OK.
+[44 minutes 10 seconds][Agent] : OK, Now while I have you over the phone, Antoine, was there anything else I could assist you with today?
+[44 minutes 20 seconds][Customer] : You've been good help. Thank you.
+[44 minutes 22 seconds][Agent] : No, I'm glad I was able to help you out. So with that being said, Antoine, umm, those policy documents, you'll receive them by the e-mail. You'll also receive a hard copy through the post, OK? Anything else?
+[44 minutes 34 seconds][Customer] : Bet better call copy.
+[44 minutes 37 seconds][Agent] : Perfect. Anything else I can help you out with today or?
+[44 minutes 43 seconds][Customer] : No. All good. I'll call you tomorrow to put my wife's as well.
+[44 minutes 48 seconds][Agent] : OK, no worries. If you did want to get back to me, just ask for John. I'll be more than happy to help you out, OK?
+[44 minutes 56 seconds][Customer] : Fine. Sounds good. Thank you, John.
+[44 minutes 57 seconds][Agent] : No worries.
+[44 minutes 58 seconds][Customer] : John, isn't it? Yeah.
+[44 minutes 59 seconds][Agent] : Yes, OK.
+[45 minutes 1 seconds][Customer] : Yes. Lovely.
+[45 minutes 1 seconds][Agent] : Alright, I'll leave that in your hands for now. Take care and all the best. Umm, we'll touch base tomorrow if you did end up calling me and asking for my name.
+[45 minutes 10 seconds][Customer] : Well, thank you.
+[45 minutes 9 seconds][Agent] : OK, perfect. Thanks Antoine. All the best. Bye.
+[45 minutes 14 seconds][Customer] : Thank you.
+[45 minutes 15 seconds][Agent] : Bye now.
+[45 minutes 14 seconds][Customer] : All the best to you. Bye.
+[45 minutes 15 seconds][Agent] : Bye, bye now.

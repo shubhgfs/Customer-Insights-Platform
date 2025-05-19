@@ -1,0 +1,77 @@
+[0 seconds][Agent] : Matthew, I've got Kirsten here from my customer support team there versus some further Kirsten, I've confirmed full name, date of birth, address, type of policy, contact number and e-mail address. Please go ahead. Thanks, Tim. Hi, Matthew, this is Kirsten from customer support. How are you today?
+[15 seconds][Customer] : I'm good. How are you?
+[17 seconds][Agent] : Good. Thank you so much for asking. I believe you hadn't. You've got a loading on your policy and now you're recovered from your injury, you'd like to have it reviewed, is that correct?
+[26 seconds][Customer] : That's correct. Yeah. It's been more than two years.
+[28 seconds][Agent] : OK, Yep, OK.
+[30 seconds][Customer] : I want that to be eliminated from conditions.
+[33 seconds][Agent] : Yeah, yeah, no problem. Let me just have a look for you. One of those reasons is your age. And so the price goes up for that, but also the benefit amount that you're both insured for that goes up by 5%. And so, yeah, that sounds. So I'm just bringing up the template to be able to send that off to the insurer to review.
+[1 minutes 1 seconds][Customer] : OK.
+[1 minutes 9 seconds][Agent] : No. OK, so I've just got a few questions if you don't mind. I'll just go through them with you now. So what is the reason you're you would like to have this reviewed? So you say you were fully recovered.
+[1 minutes 42 seconds][Customer] : Yes. Uh, it, it was already recovered at the time that I was getting the insurance. However, your colleague told me it has to be at least two years from the time that should be diagnosed.
+[1 minutes 52 seconds][Agent] : OK, Yeah.
+[1 minutes 53 seconds][Customer] : Uh, which that, uh, the two years was last December. Yeah.
+[2 minutes][Agent] : OK. And was it an injury?
+[2 minutes 3 seconds][Customer] : It wasn't an injury. I had the back pain, uh, on my, I had, I had the pain on my lower number, uh, which uh, I had, uh, weakness in my muscles that was uh, supporting the spine. I've been to the to exercise and stuff like that. No, of course, uh, my muscles spilled off. I don't, I don't have any, any problems in my back.
+[2 minutes 35 seconds][Agent] : Oh, OK, perfect. So did you have physio?
+[2 minutes 40 seconds][Customer] : Yeah. I went to physio.
+[2 minutes 46 seconds][Agent] : Yep, some.
+[2 minutes 41 seconds][Customer] : They just gave me some, uh, advices like what would be the training and exercise that that they need to do in gym?
+[2 minutes 51 seconds][Agent] : Yeah.
+[2 minutes 51 seconds][Customer] : And then that was it, yeah.
+[2 minutes 53 seconds][Agent] : OK, no problem. OK, I'm just gonna read through this for you. If I pop you on a short hold, I'll just give you 2 minutes. Is that OK? Thank you.
+[3 minutes 13 seconds][Customer] : Sure, that's.
+[7 minutes 30 seconds][Agent] : Thank you so much for your patience there.
+[7 minutes 33 seconds][Customer] : No problem.
+[7 minutes 34 seconds][Agent] : I was also having a look because you do have three different exclusions, so I do want to send you advice about the back disorder exclusion. We also have one for mental health and also osteo. Sorry, ostefs gal reflux.
+[7 minutes 54 seconds][Customer] : Yeah, the reflux is fully recovered as well. Yeah, that's no problem.
+[7 minutes 58 seconds][Agent] : Yeah. And how long has it been recovered for? Sorry, how long since it's been recovered?
+[8 minutes 1 seconds][Customer] : Yeah, it's been more than two years that it's recovered.
+[8 minutes 9 seconds][Agent] : OK, no problem. Yes. So you're, so you're currently taking medication. OK.
+[8 minutes 9 seconds][Customer] : Yeah, I don't, I, I'll, I'll, I'll take the medicine still, but yeah, the doctor told me you can reduce it and don't need to use it anymore, but yeah, I'll just yeah, if, if that's yes, uh, you can keep those exclusion.
+[8 minutes 32 seconds][Agent] : Yeah.
+[8 minutes 32 seconds][Customer] : Yeah, Yeah, that's correct. Yeah, I, I, I think so, yeah.
+[8 minutes 33 seconds][Agent] : Sorry, we might have to wait until if you're off medication and then with the mental health, sorry to ask, is it have you recovered from that one?
+[8 minutes 44 seconds][Customer] : Well, I think 10 years that I take medicines, I don't have any issue whatsoever. Just the last time, about six years ago when I was seeing my doctor, he told me just consider it like diabetics. You just need to take the medicine.
+[9 minutes 1 seconds][Agent] : Yeah, of course.
+[9 minutes 1 seconds][Customer] : Yeah, yeah.
+[9 minutes 3 seconds][Agent] : So you're still currently taking medication? Yeah, Yeah, Let me just double check that one.
+[9 minutes 3 seconds][Customer] : Just not, yeah, not sure what's in what would be the terms in your, umm, tables and, uh, explanation, yeah. But yeah. Well, this, this is what I've been thought, yeah.
+[9 minutes 14 seconds][Agent] : We Yeah, no problem. Thank you so much. I'll just, umm, have a look at what I'll, umm, specifics are for that one. OK, so you must be symptom free or have a safe treatment for at least six months.
+[9 minutes 41 seconds][Customer] : Yeah, that's OK.
+[9 minutes 36 seconds][Agent] : So, umm, unfortunately we wouldn't be able to to review that one. Sorry.
+[9 minutes 45 seconds][Customer] : No problem.
+[9 minutes 45 seconds][Agent] : OK, just have a look at the other questions. OK, and with the, umm, back disorder that you had, umm what was the the date of the most recent tests you had? So how long ago?
+[10 minutes 5 seconds][Customer] : Well, I didn't need to get any other tests two years ago. That's all I needed to do.
+[10 minutes 10 seconds][Agent] : Yeah, two years ago.
+[10 minutes 11 seconds][Customer] : Open diagnosis.
+[10 minutes 13 seconds][Agent] : OK, so no recent tests. Thank you. OK. And the last Test that you had, were the results clear?
+[10 minutes 12 seconds][Customer] : Yeah, last year. Say that again. Sorry.
+[10 minutes 27 seconds][Agent] : So you had a clearance from that, Sorry, the last Test or investigations you had for the back disorder, did you have one to say that it had gone back to normal?
+[10 minutes 44 seconds][Customer] : Yeah, well, I, I'll see my GP every like one month or two months and she's the person who gave me direction to go to physio and, and that's all. Yeah. And, and every single time there's no, there's nothing to check. It was a pain that is gone. There's nothing to check that was a pain that the pain is gone. Nothing needs to be checked like a headache. Headache is gone. Back pain is gone.
+[10 minutes 58 seconds][Agent] : Yeah, but you have cottage, did you have a check up which I would just say, OK, yeah, I understand, but the back dish was a little bit different to a headache though.
+[11 minutes 20 seconds][Customer] : Yeah, yeah, yeah. It was a pain which is gone. There's nothing nor other things that have been diagnosed but needs to be recovered or something. Yeah.
+[11 minutes 33 seconds][Agent] : OK, have a look. OK. So just confirming if, sorry, what treatment you're currently having, including any medication you're currently taking?
+[11 minutes 49 seconds][Customer] : No, no medication was required since the beginning, so I didn't take any medicine whatsoever.
+[11 minutes 54 seconds][Agent] : Yeah, yeah. So just all medications in general?
+[12 minutes 1 seconds][Customer] : No, no, I didn't get any medication from my back.
+[12 minutes 5 seconds][Agent] : No. So in general for your health. So Yep. OK, do you know what it's called? Fluoxetine and how many a day? 20 milligrams, 1 tablet a day.
+[12 minutes 7 seconds][Customer] : All the medications that yeah, well, it's, it's only the anxiety one and the yeah, the, the fluoxetine, yeah, 20 milligram one, yeah, yeah.
+[12 minutes 35 seconds][Agent] : OK, no problem. What I'm going to do is going to send this off to the insurer. Once they review that and give me the outcome, I will give you a call to let you know.
+[12 minutes 45 seconds][Customer] : Yeah.
+[12 minutes 46 seconds][Agent] : They usually take between. Oh, sorry, I'll make sense. Yep, 20 milligrams.
+[12 minutes 46 seconds][Customer] : And the one that's that I take, yeah, sorry before you go ahead, the one that I take for my stomach is next on 20 milligram next, next on the that's that's the name of the yeah, tablet.
+[13 minutes][Agent] : Yep, 1 tablet a day. OK.
+[13 minutes 3 seconds][Customer] : Yeah.
+[13 minutes 5 seconds][Agent] : And that was all.
+[13 minutes 6 seconds][Customer] : And that's all.
+[13 minutes 6 seconds][Agent] : Yep.
+[13 minutes 6 seconds][Customer] : Yeah, yeah.
+[13 minutes 7 seconds][Agent] : OK. Thank you so much. Thank you. OK, so I'll send out another. It does take between 24 to 48 business hours to hear back from them. So once I hear from them, I'll give you a call to let you know the outcome.
+[13 minutes 21 seconds][Customer] : No problem. Thank you.
+[13 minutes 22 seconds][Agent] : Perfect. Thank you so much.
+[13 minutes 24 seconds][Customer] : Cheers.
+[13 minutes 23 seconds][Agent] : Is there anything else I can help you with today?
+[13 minutes 26 seconds][Customer] : No, that's all. Thank you so much.
+[13 minutes 27 seconds][Agent] : OK, Thank you. Have a good day.
+[13 minutes 29 seconds][Customer] : You too. Bye.
+[13 minutes 30 seconds][Agent] : Bye.

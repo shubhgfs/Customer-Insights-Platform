@@ -1,0 +1,79 @@
+[1 seconds][Customer] : Hello. Hello.
+[5 seconds][Agent] : Calling from Australian Singers Insurance. How are you?
+[8 seconds][Customer] : Not bad at all. Sorry I didn't catch your name.
+[11 seconds][Agent] : Oh, my name's Amy. So I'm calling from Australian Singers Insurance in regard to the enquiry that's been popped through for our life insurance that we do have here.
+[21 seconds][Customer] : Yeah, that's right. I was just doing it on behalf of my mum here.
+[25 seconds][Agent] : Yeah, of course.
+[24 seconds][Customer] : She just wanted to know how much it would be for a quote for that.
+[30 seconds][Agent] : Yeah. No worries. Is there a particular reason that she's getting you to do that for her?
+[37 seconds][Customer] : You know, bit of both.
+[34 seconds][Agent] : Is she just not very text at me or does she have a problem with English or OK.
+[39 seconds][Customer] : Yeah, she's doesn't. Yeah, she just watches her iPad. But the English is she can understand if you don't speak very fast.
+[48 seconds][Agent] : Mm, Hmm.
+[48 seconds][Customer] : But yeah, we do everything for her. I'm her carer.
+[52 seconds][Agent] : Ah, OK. Does she have any cognitive issues or?
+[55 seconds][Customer] : No, no, nothing like that.
+[56 seconds][Agent] : OK. All right. No worries. So I can definitely have a look at some pricing there for you. Just keep in mind our calls are recorded. Any advice you provide as general nature may not be suitable to your situation. Now have your mother's name, is it Hori?
+[1 minutes 8 seconds][Customer] : Yes, Courier.
+[1 minutes 13 seconds][Agent] : Hori? Thank you.
+[1 minutes 14 seconds][Customer] : Yes. Yes, Junior. That's right.
+[1 minutes 14 seconds][Agent] : And then Demi and date of birth, the first of the 2nd 1952 and she's a female Australian resident.
+[1 minutes 25 seconds][Customer] : Yes.
+[1 minutes 26 seconds][Agent] : Very good. Now has she had a cigarette in the last 12 months?
+[1 minutes 30 seconds][Customer] : Yeah, she's that's my car.
+[1 minutes 34 seconds][Agent] : No worries. And do you have an e-mail address you can pop down?
+[1 minutes 38 seconds][Customer] : I'll give you mine.
+[1 minutes 39 seconds][Agent] : Sure.
+[1 minutes 39 seconds][Customer] : She doesn't have an e-mail address.
+[1 minutes 56 seconds][Agent] : That's OK.
+[1 minutes 40 seconds][Customer] : Soitssforsameforedwardaforapple_77_oneasinthenumbersyep@hotmail.com sorry I Created, THAT like 40 years ago and I'm just I just, COULDN'T be bothered trying to change that so yeah.
+[1 minutes 59 seconds][Agent] : No, it's alright. OK, So we can have a look at cover anywhere from 10,000 up to 200,000. What benefit amount was your mom wanting to look at? 200?
+[2 minutes 11 seconds][Customer] : She was looking at around 200,000, but I mean that can change depending on what the monthly thing is, if she can afford it or not.
+[2 minutes 19 seconds][Agent] : Yeah, the premiums and everything, of course, umm, and without cover. So the way that it works is it will pay that as a lump sum benefit to loved ones, uh, in the event that you pass away before your 85th birthday when the policy ends.
+[2 minutes 20 seconds][Customer] : Yeah, the premium, right.
+[2 minutes 34 seconds][Agent] : Uh, now we do also include the, if death is due to an accident. So anything that's to find an accident death triples the benefit amount.
+[2 minutes 41 seconds][Customer] : Yeah, OK, right.
+[2 minutes 44 seconds][Agent] : And we also included an advance payment of 20% of the benefit amount to help towards funeral costs or any other final. So we're looking at the $200,000 cover that comes to a monthly premium of $1052.72.
+[3 minutes 3 seconds][Customer] : Wow, that's very high.
+[3 minutes 6 seconds][Agent] : We can have a look at the level of cover. What was her budget per month?
+[3 minutes 6 seconds][Customer] : Yeah, no, she can't afford that Yeah, I not very high.
+[3 minutes 17 seconds][Agent] : That's OK.
+[3 minutes 14 seconds][Customer] : She's she's on a a pension, so she's.
+[3 minutes 17 seconds][Agent] : We can have a look at something much lower, maybe around 50-60 dollars a month. Does that sound?
+[3 minutes 23 seconds][Customer] : Yeah, yeah, that would probably be probably better. But what does that cover for her then?
+[3 minutes 30 seconds][Agent] : So that would cover the same benefits, but that would be a $10,000 cover for a monthly premium of 50 to 64.
+[3 minutes 38 seconds][Customer] : OK, so that's the total of the 10. Sorry, $10,000, you say? Yeah, I can explain that to her.
+[3 minutes 46 seconds][Agent] : Yeah, that's 10,000, yes.
+[3 minutes 49 seconds][Customer] : Like, I think for the reason she's wanting to do it, because I've got life insurance. So I think she was just thinking, you know, maybe she should get it as well. So she wanted me to get some quotes. I'll explain that to her, but I don't think she wanted it that low.
+[4 minutes 5 seconds][Agent] : Yeah. No, I understand. Look, the next one up would be 20,000. That would bring the monthly premium to $105.27 per month. Mm, Hmm.
+[4 minutes 5 seconds][Customer] : Yeah, yeah, that's probably, I'll explain it to her. Like, I mean, I've got my life insurance.
+[4 minutes 24 seconds][Agent] : Hmm. Mm.
+[4 minutes 21 seconds][Customer] : This is about like 240 grand actually, no, it's 440,000 and I don't pay anywhere near that.
+[4 minutes 31 seconds][Agent] : Yeah, but age is a factor.
+[4 minutes 31 seconds][Customer] : So yeah.
+[4 minutes 32 seconds][Agent] : So obviously as you age, the likelihood of needing a claim increases and that increase in risk is factored into the premiums.
+[4 minutes 42 seconds][Customer] : Fair enough. OK, alright, I'll explain all of this to her and if she wants to go ahead, I can give you guys a call back or send another message to the Internet.
+[4 minutes 53 seconds][Agent] : Alright, no worries. Would you like for me to send the quote through to your e-mail?
+[4 minutes 56 seconds][Customer] : That'll be perfect.
+[4 minutes 58 seconds][Agent] : Yeah, alright.
+[4 minutes 57 seconds][Customer] : Yes, I thought you were gonna do that anyway, so yeah.
+[5 minutes][Agent] : Yeah, no worries. I'll send that through to you to have a bit of a read through with her. Umm, I can follow up on Monday if you'd like.
+[5 minutes 4 seconds][Customer] : Alright, alright, if you can, yeah, leave it with me. I'll talk to her about it. If she's interested, I'll give you a call back.
+[5 minutes 9 seconds][Agent] : OK, no worries.
+[5 minutes 11 seconds][Customer] : But on the on the quote, if you can put a few different announce so I can get through the options with her. I don't know, she might want to do it. You never know. But just add as much information as you can and I'll Washington walk her through all of it.
+[5 minutes 28 seconds][Agent] : Yeah, sure. Well, I can also add maybe 20,000 and then say 30,000. Oh, another factor is smoking.
+[5 minutes 36 seconds][Customer] : Yeah, yeah.
+[5 minutes 35 seconds][Agent] : Because she's a smoker, that increased risk is factored into those premiums as well.
+[5 minutes 39 seconds][Customer] : She's not going to quit.
+[5 minutes 40 seconds][Agent] : Yeah, no.
+[5 minutes 40 seconds][Customer] : She's not going to quit.
+[5 minutes 41 seconds][Agent] : So.
+[5 minutes 41 seconds][Customer] : It's at her age. She's just not going to happen.
+[5 minutes 45 seconds][Agent] : Oh no, that's understandable.
+[5 minutes 47 seconds][Customer] : Like, I mean, I could probably lie and say yes, this is not going to happen. Yeah, Yeah.
+[5 minutes 47 seconds][Agent] : Umm, so yeah, no, I understand look, I mean it's something that would umm, need to be accommodated for anyway and we have to be honest with these things.
+[5 minutes 58 seconds][Customer] : Yeah, Exactly, Exactly. Alright, Send. Yes.
+[5 minutes 58 seconds][Agent] : So it's best that we do put yes umm, so I can put 20,000 and 30,000, the $30,000 cover that comes to the monthly premium. I'll just let you know before I send it down. That would be 100 and 5791 per month, but I'll get those three accounts. So she has a range between the 1020 and 30. Umm, and then can go from there.
+[6 minutes 15 seconds][Customer] : Yes, yes, Perfect. OK. Thank you very much for your time.
+[6 minutes 20 seconds][Agent] : All right, no worries. You as well. Bye.
+[6 minutes 26 seconds][Customer] : Thank you. Bye.

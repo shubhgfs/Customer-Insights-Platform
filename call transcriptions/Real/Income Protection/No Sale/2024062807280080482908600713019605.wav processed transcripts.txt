@@ -1,0 +1,72 @@
+[16 seconds][Customer] : Hello.
+[18 seconds][Agent] : Good evening. It's Neil speaking from Reel Insurance. Is that alias?
+[21 seconds][Customer] : Yes, it is again now.
+[23 seconds][Agent] : I'm good. Thank you, Sir. How are you today?
+[25 seconds][Customer] : Not too bad, thanks. Not too bad at all. And yourself?
+[27 seconds][Agent] : That's a story I'm following up on our chat from Friday. Good. Thank you. Good. You got some time to have a chat now.
+[31 seconds][Customer] : Yep, yeah, yeah. Look, I, I was having this thing over the weekend. Look my initial enquiry was around trying to reduce their the cover for a little bit to save some money on the premium, right.
+[45 seconds][Agent] : Right.
+[45 seconds][Customer] : So, and that's what I was comparing. And then and you, I know we briefly discussed some of the differences between the of pro offer, offer pro offering between the billing insurance, the bill cover and the income protection. So can I just verify So what information you have on me around the bill insurance?
+[1 minutes 3 seconds][Agent] : Yeah, yeah, yeah, of course.
+[1 minutes 10 seconds][Customer] : So I've I took take it out several years ago and and some of the questions W going through what we already a asking as part of the new ones. What what what was the answered? What do I have on record already?
+[1 minutes 26 seconds][Agent] : OK, look.
+[1 minutes 26 seconds][Customer] : I'm still with the insurance company, still in the project management or systems operations specialist in a way, but just wanted to verify some of what's really on file of me.
+[1 minutes 30 seconds][Agent] : Yeah, yeah, of course. Yeah, we can do that. OK.
+[1 minutes 40 seconds][Customer] : Yeah, thank you.
+[1 minutes 42 seconds][Agent] : Please, Please note all calls are recorded and any advice we provide is general in nature and may not be suitable for your situation. And could I get you to confirm, please, your name, date of birth and address?
+[1 minutes 55 seconds][Customer] : Sure. Elias Raish, number 19th of June, 75 #5 Brothers St., Dundas Valley.
+[2 minutes 1 seconds][Agent] : Excellent. Thanks again. We see we've got the mobile number, right? There's a landline number here, 0290810200. Is that current?
+[2 minutes 13 seconds][Customer] : 9801, sorry.
+[2 minutes 18 seconds][Agent] : 90810200 OK, thank you. 98010200 and e-mail E rash at optusnet.com dot AU. Excellent. Thanks a lot.
+[2 minutes 15 seconds][Customer] : 98010200 that should be 9801, yes, Yep.
+[2 minutes 39 seconds][Agent] : So we've got according to the informational file, we've got you down as a project manager office based and apart from that and the questions we've just answered, obviously that hasn't changed. You're still you're same age as you were and so on.
+[2 minutes 57 seconds][Customer] : Yep.
+[2 minutes 58 seconds][Agent] : That is basically all that Bill Cover asks.
+[3 minutes 3 seconds][Customer] : No, no, it was reasonably quick. Yep.
+[3 minutes][Agent] : So, yeah, no, that's, it's one of the great advantages or a lot of, uh, a lot of our customers really like build cover because it's a, a fairly simple one to set up And it's, uh, doesn't depend on income as such, which can work for somebody like yourself with the part time work, which, uh, you know, would generally not be included in normal income protection, uh, which you can kind of factor into your figures with, uh, build cover application. Also, the fact that because you've had it a few years, it has grown. So when we were over, when these policies were available for sale, the maximum, maximum monthly benefit we could set up was three and a half, $1000. It looks like you've probably had it set at the maximum benefit when you set it up, but of course it's grown over the years. So you've now got a monthly income benefit of $4468 on your bill cover.
+[3 minutes 42 seconds][Customer] : Oh, OK, OK, alright. OK.
+[3 minutes 55 seconds][Agent] : Now we, we're going to, I'm sorry, OK, go ahead.
+[3 minutes 59 seconds][Customer] : Yeah, yeah. So just think about that then.
+[4 minutes 7 seconds][Agent] : Unfortunately not.
+[4 minutes 1 seconds][Customer] : OK, Obviously bills do go up and bills just keep coming in and stop Corona or Corona.
+[4 minutes 8 seconds][Agent] : Yeah, Yeah, exactly. Yeah, of course.
+[4 minutes 11 seconds][Customer] : Alright then I might just reduce that cover down a bit to back to 3 1/2 then and I'll yeah, yeah, we'll just do that for now.
+[4 minutes 21 seconds][Agent] : OK, good. It's gold, but it's gold. OK. So now just to confirm, you can't apply to put it back up to the $4468, but you can let it grow over the years.
+[4 minutes 32 seconds][Customer] : Yep, Yep.
+[4 minutes 33 seconds][Agent] : So, you know, as much as it has done over the last few years, it'll continue to grow in the future. So let me just get that organised. So three and a half, $1000 and that'll bring the fortnightly premium back to $32.43.
+[4 minutes 54 seconds][Customer] : Thank you.
+[4 minutes 53 seconds][Agent] : Let me just get that organised so. First of all, please confirm that you agreed to reduce the monthly income benefit to three and a half $1000 and understand that you will not be able to increase this policy after you accept this change.
+[5 minutes 13 seconds][Customer] : Yes.
+[5 minutes 14 seconds][Agent] : Excellent. And just to finalize, sorry, just waiting for the computer to catch up. There we go. So can I confirm you are keeping the policy in place going forward? And the next payment will be the reduced amount of 3243 and that will be debited on the 15th of May. Is this correct? Excellent. OK, well, oh, now we do also need to update the credit card. I think the card we've got on file's expired.
+[5 minutes 42 seconds][Customer] : Yes, that's correct, isn't it? It's been coming out. Oh, it's 12/23.
+[5 minutes 56 seconds][Agent] : Oh, OK.
+[5 minutes 55 seconds][Customer] : I thought I did do that before.
+[5 minutes 57 seconds][Agent] : Do you mind if? OK, Whoops.
+[5 minutes 58 seconds][Customer] : I did do that before. I thought, 'cause that's where money is still coming out. So I've got it in place. It wouldn't be working alright.
+[6 minutes 1 seconds][Agent] : OK, we've got, yeah, we're S Yeah, no, it's still showing as 12th, 2019 on the system. But I know with a lot of customers that have long standing arrangements with us, when the bank changes the card and it's only the expiry date that changes, often they'll let the payments continue to go out. But our system's just flagged that it's expired. The only trick is I do need to grab the whole card details.
+[6 minutes 20 seconds][Customer] : OK, OK, sure.
+[6 minutes 24 seconds][Agent] : I can't just change the expiry date. You have the card handy?
+[6 minutes 27 seconds][Customer] : Perfect. Yep.
+[6 minutes 28 seconds][Agent] : Yeah, brilliant. For security purposes, while obtaining your card details, the call recording will stop and we'll recommence. Please be advised that the call recording is now resumed for quality and monitoring purposes. And can I also please confirm that you verbally agree for your fortnightly premiums to be debited from your card in the name of through our bulk electronic clearing system? Excellent. Thank you, Sir. Alrighty. Well, consider it then. Nice. You'll get a confirmation in the post of the changes we've made today. If you've got any questions or further changes to make, please don't hesitate to get in touch.
+[7 minutes 35 seconds][Customer] : Yes, no worries. Actually, I do.
+[7 minutes 51 seconds][Agent] : Yeah.
+[7 minutes 49 seconds][Customer] : WH while you have you on the phone, is it possible to get a tax invoice for the last last few years, please?
+[7 minutes 56 seconds][Agent] : You mean what for doing tax claim?
+[7 minutes 58 seconds][Customer] : Yeah, yeah.
+[7 minutes 59 seconds][Agent] : Yeah, OK. So it's what we call in the end of financial year statements. Let me just check. I think we should be able to get silverware, another system. Bear with me.
+[8 minutes 18 seconds][Customer] : Didn't have an online service for this, do you?
+[8 minutes 21 seconds][Agent] : Unfortunately not, no. That's actually a good idea. We haven't, I haven't actually heard anybody suggest that I might pass that on to my manager, but at this stage, no. So.
+[8 minutes 30 seconds][Customer] : No worries getting getting to calls, getting to speak to me. What what what we do from the online, online business thing. So trying to get things happening.
+[8 minutes 36 seconds][Agent] : Oh, OK, OK, OK, now so I can do the 1920 text year. Oh, actually, no, that's no good because we haven't finished the 1920 text year, so I'll send out 18191718161715160.
+[9 minutes 5 seconds][Customer] : Perfect.
+[9 minutes 5 seconds][Agent] : So then we go right back to 1415 and the one for the current tax year will be available generally about two weeks after the 1st of July.
+[9 minutes 15 seconds][Customer] : Yep.
+[9 minutes 14 seconds][Agent] : So feel free to give us a call back around that stage when you're getting ready. But the others should all be on their way and should arrive about the same time as you receive your updated documents.
+[9 minutes 25 seconds][Customer] : Thank you very much. There.
+[9 minutes 26 seconds][Agent] : Brilliant. Alrighty, thanks for your time to launch. Enjoy the rest of the day.
+[9 minutes 29 seconds][Customer] : Pleasure you too.
+[9 minutes 30 seconds][Agent] : Cheers.
+[9 minutes 30 seconds][Customer] : Thank you.
+[9 minutes 30 seconds][Agent] : Thank you.
+[9 minutes 31 seconds][Customer] : Bye. Bye.
+[9 minutes 31 seconds][Agent] : Bye bye.

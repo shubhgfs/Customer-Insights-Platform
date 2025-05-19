@@ -1,0 +1,152 @@
+[2 seconds][Agent] : Welcome to One Choice. You're speaking with Teresa. How can I help you?
+[6 seconds][Customer] : Hi I've missed a few phone calls from this number.
+[10 seconds][Agent] : That's OK. Thank you for returning our call. I can have a look for you. Can I please have your name and telephone number?
+[18 seconds][Customer] : My name is Tofu Osili. My telephone number is 0278687674.
+[27 seconds][Agent] : OK, Thank you. And the number, the telephone number that you've just given me, is that the number that we called you on?
+[33 seconds][Customer] : That is affirmative.
+[35 seconds][Agent] : OK, thank you. I'm not finding anything under the name, but the telephone number. Did you make an inquiry recently for insurance for anybody?
+[50 seconds][Customer] : Yes, I did that for my parents and my cousins.
+[53 seconds][Agent] : OK. And so we would give you a call in regards to those. I do have 3 inquiries. Umm, was it for life insurance or funeral?
+[1 minutes 7 seconds][Customer] : Does I did I did. I still need to be life insurance so can I assist you?
+[1 minutes 14 seconds][Agent] : Yeah, of course. Uh, let me open up, uh, one of the profiles. Uh, did you want to start with your sorry, Please note on our calls are recorded. Any advice provided is limited to the products we offer and assisting you to make a decision about whether or not it's suitable for their needs. So we don't consider the personal circumstances. Uh, but can I please have your mum's name and date of birth?
+[1 minutes 38 seconds][Customer] : Money for Marina, her date of birth is 9th of August 1959.
+[1 minutes 45 seconds][Agent] : OK, this one right. So what I need to do to help you with that inquiry is to stop by confirming the details uh, that way I can get some pricing and then I'll also go over what sort of features are already built into the policy for them. Now, can you please confirm, can I confirm that she's a female and a New Zealand resident as well?
+[1 minutes 56 seconds][Customer] : OK, OK, yes she is. She's museum so soon.
+[2 minutes 14 seconds][Agent] : Thank you. Now I know you've answered the question, but I do just need a clear use or no because it is a two-part question. And can I confirm that she's a female and a New Zealand resident as well? Thank you.
+[2 minutes 26 seconds][Customer] : Yes and yes.
+[2 minutes 28 seconds][Agent] : Thank you. Now, the telephone number and that you've given me, is it the best number to put into her profile?
+[2 minutes 37 seconds][Customer] : Yes, please.
+[2 minutes 38 seconds][Agent] : OK, thank you. And what was your e-mail address? Oh, what was the best e-mail address to put in?
+[2 minutes 42 seconds][Customer] : Oh, my e-mail address. I can't remember what one is. angelmariners78windows.com.
+[2 minutes 48 seconds][Agent] : OK, I actually don't have one in here, but I can add 1.
+[2 minutes 57 seconds][Customer] : Oh yes please.
+[2 minutes 58 seconds][Agent] : OK, sorry. What was it again? Yes.
+[3 minutes 1 seconds][Customer] : Angel Mariner, the#7@windowslive.com.
+[3 minutes 10 seconds][Agent] : OK, live.com, OK. I'm sorry.
+[3 minutes 25 seconds][Customer] : OK, Tussle. Oh, you want my full name?
+[3 minutes 19 seconds][Agent] : No, for the recording I'm going to take, can you give me your name and date of birth And one more time, just first and last.
+[3 minutes 32 seconds][Customer] : Tussle Affiliate, 27th of May 1982.
+[3 minutes 38 seconds][Agent] : Perfect. Thank you. OK, so without funeral cover, look, I'm going to try my best to help you. I've got other pricing in the features and we'll just take it one step at a time from there. When I do go in to give you a quote for your mum and your dad, I can quote between 3 and 30,000 each. Do you have an amount in mind that you wanted me to check first?
+[3 minutes 53 seconds][Customer] : OK, I'll just do next for both Cos I'm I'm not, I don't know about that stuff.
+[4 minutes 12 seconds][Agent] : OK. That's not a not a problem at all. So we'll stop there if you don't think it's suitable and I can still bring it down.
+[4 minutes 12 seconds][Customer] : So, yeah, OK.
+[4 minutes 20 seconds][Agent] : But basically the amount that is chosen for their cover is what we call the benefit amount. That's what we pay out to the family in the event that they pass away. Once the family or the nominated beneficiaries receive it, they have the freedom to use it exactly as it's been instructed and it can be used on more than just funeral costs. So it can be used on absolutely anything.
+[4 minutes 28 seconds][Customer] : OK, OK, OK.
+[4 minutes 46 seconds][Agent] : Now with this policy, uh, if the rid of or concentrate on your mom, so if your mom wants to pass away due to an accident, we would triple the benefit amount. So a policy of 30,000 then becomes a total of 90,000.
+[4 minutes 55 seconds][Customer] : I won't.
+[5 minutes 1 seconds][Agent] : There is also a second reason that we can triple the benefit amount. Umm, and that's if she was to suffer an accidental serious injury before her policy anniversary date that follows his 71st birthday. Such as quarter plea, job, power plea, job blindness business as examples. And so in that case, if that happens, we would triple her benefit amount and pay that directly to her and then she'll be able to choose how she uses that money from there. Now for the 1st 12 months, we'll cover her for accidents with it and exiting to a serious injury only. And then after the first 12 months, we'll cover her for death due to any cause.
+[5 minutes 33 seconds][Customer] : OK, OK.
+[5 minutes 49 seconds][Agent] : The policy also has a terminal illness built into the cover, which means after she's held the policy, sorry, a terminal illness benefit. So after she's held the policy for the 1st 12 months, if she was then first diagnosed with a terminal illness that was going to leave her with 12 months or less for less by a medical practitioner, we can pay a claim now to her in full. And then again, she gets to choose how she uses that money.
+[6 minutes 17 seconds][Customer] : OK.
+[6 minutes 18 seconds][Agent] : Once she reaches the age of 85, three things happen. So #1 the payments will stop, but the cover will continue #2 she receives a 25% bonus cover that's automatically applied to the benefit amount. So based on a cover of 30,000, once she reaches the age of 85, she's now covered for 37,500 and she doesn't have to make another payment towards the cover. The third thing that happens is she gains access to an early cash out option. This just means that any time after she reaches 85 years of age, she can choose the in the cover if she likes and we will pay out 75% of the benefit amount to him. But this also applies to the partner as they have a joint plan. Now I'm going to jump into pricing. This is also, we'll take your father's details so I can let you know what sort of pricing you've been looking at for him. The premiums are level, which means they're designed not to increase as she gets old or as they get older.
+[6 minutes 46 seconds][Customer] : OK, yeah.
+[7 minutes 23 seconds][Agent] : OK, now can I please have your third name and date of birth?
+[7 minutes 28 seconds][Customer] : Norman, Maryland. Thursday is 16th of September 1959.
+[7 minutes 34 seconds][Agent] : OK, Thank you. Ah, here we go. This one. Now, can I confirm that he is a male and a New Zealand resident?
+[7 minutes 46 seconds][Customer] : Yes and yes.
+[7 minutes 47 seconds][Agent] : OK, thank you. Umm, same telephone number and same e-mail.
+[7 minutes 52 seconds][Customer] : Yes, please.
+[7 minutes 51 seconds][Agent] : All right. Perfect. And can I list the list them as your mom's husband?
+[7 minutes 59 seconds][Customer] : Yes, please.
+[8 minutes][Agent] : All right, perfect. OK. Let's have a look at the pricing. Now, can I please confirm that you have the authority to disclose the personal information given on behalf, uh, of your parents, Manifa, Uh, sorry, Manifa and Mulu Marina.
+[8 minutes 31 seconds][Customer] : Yes, I do. I can't get them to say anything because they're up in Auckland on holiday at the moment.
+[8 minutes 32 seconds][Agent] : OK, now look, that's a, but this with the funeral cover. We don't even need to speak with them if it's something that you'll be taking care of on their behalf.
+[8 minutes 44 seconds][Customer] : Oh, cool. Thank you.
+[8 minutes 46 seconds][Agent] : You're welcome. Umm, so if we started the 30,000 each, uh, you're looking at a total of $191.60 a fortnight. So it's $95.80 each per fortnight.
+[9 minutes][Customer] : OK, yeah, that's. Yeah, I can do that.
+[9 minutes 3 seconds][Agent] : Those ones are suitable.
+[9 minutes 4 seconds][Customer] : Yes, please.
+[9 minutes 6 seconds][Agent] : OK, Now did you want that joint or did you want it separated? I could do both.
+[9 minutes 11 seconds][Customer] : Oh, does it make any difference?
+[9 minutes 14 seconds][Agent] : So the main differences between joint and separated is with uh, joint policy, it's one payment. Uh, with separated policies, they have more control over their own details. And so for this one, if you set it up as a joint cover, your mom would be the, what we call the first insured. So she has access over all the information more than your father would. That's the main difference. That and either separated or joint payment.
+[9 minutes 47 seconds][Customer] : I'll have it joint, please.
+[9 minutes 49 seconds][Agent] : OK, perfect. Now what I'm going to do is get it set up for the both of them and today.
+[10 minutes][Customer] : OK.
+[9 minutes 56 seconds][Agent] : Now you're not going to have to pay anything up front today, but we will have you choose the day that you want the first payment to come out. And I'll also attach bank account details, uh, so that I can send out all the policy documents so you can all sit down together and go over review it. It has a 30 day cooling off. So you can do that in place. If in the end it's not suitable or even if you just change your mind, that's fine. Now, if it's cancelled within the 30 days, they'll get a, or you'll get a full refund on any payments you've made in that time unless a claim has been made. OK, Now can I please confirm that you authorized to purchase this policy on behalf of of your mom and dad, Manaso and William Marina? OK, perfect. Now we'll send the copy via e-mail within 15 minutes, plus the copy via post within five to seven working days. Can I please have your post code? Thank you. And the suburb. OK, Thank you.
+[10 minutes 43 seconds][Customer] : Yes, 4500 Central 75 Campbell St., Wolloni.
+[11 minutes 6 seconds][Agent] : And the address, OK, now are the home address, sorry, are the home address and postal address the same?
+[11 minutes 18 seconds][Customer] : Yes.
+[11 minutes 18 seconds][Agent] : All right, thank you. OK, So just a little bit of the item before I take banking. So you might pay more in total premiums, either the last of the policy and the benefit amount. Also, this insurance does not have a savings or investment element. So if you do cancel it outside of the 30 days, the cover will stop like you wanted and you don't receive anything back. Unless you are eligible for and chose the early cash back offer at the time. So unless they were eligible for and chose the early cash back offer at the time.
+[11 minutes 55 seconds][Customer] : OK.
+[11 minutes 55 seconds][Agent] : Now in terms of banking, so you need to choose the day you want the first payment to come out. We generally click payment within the next 7 days and in the next 7 days will be suitable for you.
+[12 minutes 13 seconds][Customer] : Do you stop by a direct debit?
+[12 minutes 16 seconds][Agent] : Yes. So we'll set that all up for oh, sorry, I'll set that all up for you over the phone today. Umm, so that you don't have to worry about that.
+[12 minutes 27 seconds][Customer] : When you say direct debit, can you take it out the night of when the money goes in or does it have to be the next day?
+[12 minutes 35 seconds][Agent] : So if you chose the Thursday, it would be between the 1st to 10th would be between 2:00 AM and 4:00 AM of that Thursday.
+[12 minutes 46 seconds][Customer] : OK.
+[12 minutes 50 seconds][Agent] : OK, all right, perfect. So tomorrow, Wednesday, the 19th of July for the first payment and then every second Wednesday after that. Now, is the name on the account T affiliate or something else? Thank you. And the bank account number when actually I better confirm the spelling. So the surname is A I'm sorry.
+[12 minutes 47 seconds][Customer] : So it has to be Wednesday morning tomorrow please and to store Angel Afilly that is correct.
+[13 minutes 25 seconds][Agent] : The first name is TRS for Samantha R Angel, and then the surname is AF for Frederick ELE. All right, wonderful. Thank you. And the bank account number when you're ready.
+[13 minutes 38 seconds][Customer] : That is mostly correct, right?
+[13 minutes 57 seconds][Agent] : Yes, yes, yes.
+[13 minutes 55 seconds][Customer] : It is 02 12460367261 001. That is great.
+[14 minutes 8 seconds][Agent] : OK thank you I'll read it back 0212460367261001 thank you. Uh now we no longer send out the right debit request forms for you to fill out or sign. So instead I'm going to ask you 3 questions and read you a small declaration. I just need a clear yes or no for each part. OK #1 uh, have you canceled a direct debit authority for one choice with Clinical Life as the initiator in the last nine months on the account that you're providing? Thank you #2 Do you have the authority to operate this bank account online and do not need to jointly authorize debits? Thank you #3 I'll confirm that you're happy to set up a direct DIBIT authority without signing a form.
+[14 minutes 39 seconds][Customer] : OK, No, Yes, yes.
+[15 minutes 12 seconds][Agent] : Thank you. Now, just a confirmation at the end. You agreed. This authority is subject to the terms and conditions relating to the bank account provided and the specific DIBIT terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for One Choice, to direct debit this account in accordance with these terms and conditions. Thank you. You'll also receive the confirmation of that direct divot authority within the next 5 business times. Now I'm just going to read you the declaration for the policy itself. It's going to be longer because it also goes over who we are as a company and your mom and dad's, uh, coverage. And there's also three more questions where I'm asking for your understanding to what I would have just read you. If it any point, I'm going too fast, please don't hesitate to tell me to stop right away. OK?
+[15 minutes 40 seconds][Customer] : Yes, OK, OK, OK.
+[16 minutes 14 seconds][Agent] : Uh, thank you. It is important you understand the following information. I will ask for your agreement for these terms that the end in your policy will not be enforced unless you agree to these terms in full. One choice Funeral insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services NZ Limited, whom I referred to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice to this. The advice we have provided to you is limited to assisting you, so make a decision about whether One Choice Funeral Insurance is suitable for your needs on the basis of the information you've provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurers, products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sits out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this yes or no?
+[17 minutes 38 seconds][Customer] : Yes.
+[17 minutes 39 seconds][Agent] : Thank you. Your answer to the application questions in any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided. When assisting your application, we collect the personal information to provide insurance quotes, issue cover and other related services.
+[18 minutes 10 seconds][Customer] : Yeah.
+[18 minutes 1 seconds][Agent] : We will share this with Pinnacle, our related companies including Sorry, including those located in Australia and make sure with other service providers for the purpose of administering a policy or handling claims. A privacy policy which can be accessed on our website tells you more, including how to access incorrect this information or sorry and correct your information. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you can seem to allow us to contact you for this purpose until you opt out. You can opt out of this at any time they're contacting us or by using any unsubscribed facility on communications we send you. You have agreed to take out a joint One Choice funeral insurance policy with the following cover. Money for Marina is covered for $30,000 in the event of death. In the case with death is accidental or if you suffer a defined accidental serious injury, the benefit of Not with Triple Marina is covered for $30,000 in the event of death. In the case with death is accidental or of Mullen Mariner, such as a defined accidental serious injury, the benefit of that would triple and the 1st 12 months your policy is enforced. A death benefit is paid only in the event of accidental death. Once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum of 75% of the chosen benefit amount. If you take up this offer, you will no longer have a right to climb under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. As cover ends prior to age 85, life benefit is payable and there is no refund or premiums after the cooling off. If you choose to retain cover beyond age 85, you'll be entitled to an additional 25% of bonus cover from that date and you will not be required to pay any further premiums after the life insured's 85th birthday. The bonus cover is not payable if you take the early cash out option. Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for the first year of cover is $191.60 per fortnight. Your premiums are level which means they're designed to stay consistent year on year. And will any change if you owe to your cover or the insurer adjust the premium rates applying to your policy? The insurer can only make a change if it is applied consistently across all policyholders. You may pay more in premiums than the benefit amount over the life of the policy included in your premium as an amount payable to GFS of between 34% to 57% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. I am based is rated Pinnacle with AB plus financial strength and brackets good and a triple B minus issuer credit rating with an outlook of stable. You can read more about these writings on our website and in your policy documentation. The policy documentation will be sent to you by mail and if you have provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key section which outlines key aspects of your cover and plain language. You should carefully consider these documents to ensure the product meets your names. You have the 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GFS on O800 double O 58-O four or e-mail support@onechoice.co dot NZ. OK, uh, two more questions. Question number one, do you understand and agree with the declaration of this feature?
+[22 minutes 24 seconds][Customer] : Yes.
+[22 minutes 25 seconds][Agent] : Thank you. And #2 would you like any other information about the insurance right now or would you like me to read any part of the policy document to you right now?
+[22 minutes 36 seconds][Customer] : No.
+[22 minutes 37 seconds][Agent] : OK, thank you. Now I'll arrange to get all the appearance paperwork sent out. And the second to last page of the policy that you received in the post was the beneficiary nomination form. So when they're ready, they just need to fill it out with who they managed to go to, sign it and then send it back to us. Now I want to put your details in so that if you have any questions about the payments or anything like that, you can give us a call. And now can you for the recording, can you please confirm your address and telephone number?
+[23 minutes 10 seconds][Customer] : 75 Campbell St.
+[23 minutes 18 seconds][Agent] : That's absolutely perfect. Thank you. And now this all completed. Now, did you still want to move into a quote for your cousin? Was it your cousin?
+[23 minutes 12 seconds][Customer] : Wollanoi 0278687674 Yeah, my cousin slash brother. Yes please.
+[23 minutes 38 seconds][Agent] : OK, thank you. Uh, that was completed.
+[23 minutes 46 seconds][Customer] : I can put something about that one too.
+[23 minutes 48 seconds][Agent] : OK, perfect. Just going to make sure, uh, this one, sorry, just going to arrange for the paperwork to be seen to that. The e-mail.
+[24 minutes 8 seconds][Customer] : I got the e-mail, yeah.
+[24 minutes 16 seconds][Agent] : OK, thank you. This one will be the postal. OK, that's sorted. And now your cousin. Can I please have your cousin's name and date of birth?
+[24 minutes 28 seconds][Customer] : Christopher Merino, 7th of July 1981.
+[24 minutes 36 seconds][Agent] : And that one was also listed under your. Is that one also listed under your telephone number?
+[24 minutes 41 seconds][Customer] : Yes, it is 0278687674.
+[24 minutes 52 seconds][Agent] : OK. So the coverage would be the same. Now, can I confirm that he is a male and a New Zealand resident?
+[24 minutes 58 seconds][Customer] : Yes and yes.
+[25 minutes][Agent] : Thank you. And is it the same e-mail address that you want listed in his? All right. Thank you. Thank you.
+[25 minutes 5 seconds][Customer] : Yes please angel@windows.com 'cause I can change this if you decide who wants to take over A.
+[25 minutes 20 seconds][Agent] : That's correct. So because he's the the insured that his name, he'd be able to call in and switch it over to his bank, his own bank account details or either way he'll have access to those details. OK, now the funeral insurance components or the features are still the same, but anywhere between 3 and 30,000 for him.
+[25 minutes 30 seconds][Customer] : Oh awesome, Oh negative for him. I'd like to do life insurance.
+[25 minutes 43 seconds][Agent] : What amount did you want me to quit you on life insurance account? That one is different. I would need to speak with him so we could take him to the health and lifestyle questions, but it's not a problem.
+[25 minutes 59 seconds][Customer] : I can get him one minute.
+[26 minutes 2 seconds][Agent] : So it is slightly different to the funeral cover we went over and basically let me quickly go over it and so everything is done over the phone. Once again, no forms to fill out, no medical checks, but if they have health and lifestyle questions that I'd need to take him through because how he goes with those questions will determine or could change his final pricing. In terms of the policy, umm, if we can get him approved the policy, yeah, the terms might change actually in a month. So the policy also has a advanced payout of $10,000 to help towards any immediate cost such as funeral costs. And it's got a terminally owe advanced payment included, which means as he's diagnosed with 12 months or less by a medical practitioner, we can pay the claim out for him in full.
+[26 minutes 57 seconds][Customer] : I was in.
+[26 minutes 56 seconds][Agent] : OK, Now, has he had a pardon?
+[27 minutes][Customer] : He's asleep so I can't wake him up. He's on night stuff.
+[27 minutes 3 seconds][Agent] : That's all right. Look, I'm happy to give a call back another time, but for now, I just want to give you an idea on what the pricing will look like.
+[27 minutes 9 seconds][Customer] : Oh, yes, please. Thank you.
+[27 minutes 10 seconds][Agent] : You're welcome. Now, has he had a cigarette in the last 12 months?
+[27 minutes 15 seconds][Customer] : No.
+[27 minutes 16 seconds][Agent] : OK, uh, and sorry, is his current annual income $50,000 or more? Thank you. Now I can quote anywhere from $100,000, uh, and go all the way up to 10 million. How much would you like me to quote on for him?
+[27 minutes 23 seconds][Customer] : Yes, 2 million Max.
+[27 minutes 37 seconds][Agent] : 10 million a time. So $10 million of cover for him would be $97.89 a fortnight.
+[27 minutes 47 seconds][Customer] : Copy that. Yes, please.
+[27 minutes 49 seconds][Agent] : OK, perfect. Now the next step, if you're happy with that one, is to take him through those health and lifestyle questions. But as I mentioned, I'm happy to give a call back. When do you think would be best?
+[28 minutes 2 seconds][Customer] : Friday. Friday.
+[28 minutes 3 seconds][Agent] : Friday. I'm actually not in the office on Fridays. Is there another day? Was that the only best day for him?
+[28 minutes 19 seconds][Customer] : I won't this any day that we're off from at the same time or I can I can give you his number. That's it.
+[28 minutes 23 seconds][Agent] : OK, I'm I'm happy to do that. Is this something that you would be paying for on his behalf or something that he's paying for himself?
+[28 minutes 37 seconds][Customer] : I'll pay for it.
+[28 minutes 38 seconds][Agent] : OK, perfect. So I'll give him a call back and when, and then from there I can give you a call back once I've spoken with them.
+[28 minutes 48 seconds][Customer] : OK. Yes, please.
+[28 minutes 49 seconds][Agent] : OK, thank you.
+[28 minutes 53 seconds][Customer] : It is 0211019470.
+[28 minutes 50 seconds][Agent] : What was his telephone number 0211919479?
+[29 minutes 5 seconds][Customer] : That is correct.
+[29 minutes 6 seconds][Agent] : All right, perfect. And what time of the day do you recommend? Best to speak with them or call back from?
+[29 minutes 13 seconds][Customer] : Say mid afternoonish.
+[29 minutes 16 seconds][Agent] : So, umm, 3 or later.
+[29 minutes 22 seconds][Customer] : Three's good, three's good.
+[29 minutes 24 seconds][Agent] : OK, umm, so we've missed it today. So tomorrow at 3:00.
+[29 minutes 30 seconds][Customer] : Not tomorrow. He'll be on night shift again tomorrow night. Say Thursday.
+[29 minutes 46 seconds][Agent] : OK, perfect. I've set that up. Oh, that'd be perfect. Just let him know, call him on his number, and then we can go from there.
+[29 minutes 36 seconds][Customer] : If you call back Thursday, call him on Thursday at about 434, I'll need a yes, please.
+[29 minutes 55 seconds][Agent] : All right, perfect. Like if you have any questions, give us a call back. But otherwise, I'll speak with Christopher on Thursday between 3:00 and 4:00.
+[30 minutes 5 seconds][Customer] : Awesome. Thank you so much for your time.
+[30 minutes 4 seconds][Agent] : You're very welcome. Like Justine, enjoy. Enjoy the rest of your day for me.
+[30 minutes 12 seconds][Customer] : You too. Thank you.
+[30 minutes 13 seconds][Agent] : Thank you. Bye bye.
+[30 minutes 15 seconds][Customer] : Bye.

@@ -1,0 +1,92 @@
+[3 seconds][Customer] : Good morning Gavin speaking.
+[4 seconds][Agent] : Good morning, Gavin. Your name is Theresa. I'm calling from one choice. How are you?
+[8 seconds][Customer] : Alright, not spending yourself.
+[8 seconds][Agent] : I'm good, thank you. Thanks for asking. I'm actually just giving you a call today in response to your most recent enquiry about life insurance. Now, as you might remember, what I need to do is just quickly confirm some details that you've already sent through.
+[25 seconds][Customer] : OK, so so didn't I? I filled this online and there was going to be seems to be, wasn't it?
+[25 seconds][Agent] : I'll explain the process that I need to take you through and also go through some questions now before I confirm anything, please no so to get the quotes started because it will be indicative, I need to confirm the details.
+[44 seconds][Customer] : OK, OK, go for it.
+[46 seconds][Agent] : Once we've gone through health and lifestyle, I'll be able to send out some firm quotes but before that Please note all our calls are recorded. Any advice provided is limited to the products we offer and assisting you to make a decision about whether or not it's suitable for your needs, so we don't consider the personal circumstances. Could you please confirm your name and date of birth for me?
+[1 minutes 4 seconds][Customer] : Yes, it's Gavin Garrow 16/11/1970.
+[1 minutes 12 seconds][Agent] : Thank you. The telephone number that I've called you on is just your best contact number.
+[1 minutes 16 seconds][Customer] : Yes, yes. No, that's an old one, so please replace it with g.gareth@extra.co dot NZ. And that's the one that I used for this thing. So I'm surprised it's brought up Gareth and might have been from a older inquiry.
+[1 minutes 18 seconds][Agent] : OK, Now I've also got the e-mail address garrowfamily@extra.co dot NZ I believe so yeah, I'll just replace it. OK, perfect. And can I confirm that you're a male New Zealand resident and currently residing in New Zealand?
+[1 minutes 39 seconds][Customer] : Yeah, yeah, correct.
+[1 minutes 50 seconds][Agent] : Alright, beautiful. Thank you. Now, I do want to take a step back to your previous enquiry. Do you remember why you decided not to go with the policy with us?
+[1 minutes 59 seconds][Customer] : Oh, no, I can't remember. I I think every now and then I've just proof test my existing ones and, and at the time it obviously wasn't an improvement or maybe not price wise, but maybe overall package wise.
+[2 minutes 16 seconds][Agent] : OK.
+[2 minutes 14 seconds][Customer] : So we with a AIA and, and we have quite large insurances with them. But yeah, I'm just looking at different options. I've had some spare time this morning to so some, some reason insurance, life insurances are all over the Facebook this morning. So that's the only reason why I've made the enquiry.
+[2 minutes 37 seconds][Agent] : Well, there's definitely different and I will try my best to try and help you today with pricing being top priority. Now, are we comparing against the amount that you already have or a different amount?
+[2 minutes 41 seconds][Customer] : Yeah, N no, no, it's look, I mean, at the end of the day, I'm, I'm looking to see what I can get value for money. So I'm not going to be sharing what I'm paying elsewhere because I want to see a true value test, but at the end of the day, I'm definitely paying way too much and I've got a very lazy agent who's, umm, been topping the tickets for years.
+[3 minutes 9 seconds][Agent] : Alright, well as you might remember, we have tried to keep it all so that it's nice and simple and so I can get everything done for you over the phone. We also don't have any forms to fill out, accept, of course, the beneficiary nomination form which would be sent out once you've decided to take a policy with us.
+[3 minutes 9 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[3 minutes 28 seconds][Agent] : I don't need you to go to the doctors for any medical checks or blood tests either, and that's because I have health and lifestyle questions that I can take you through.
+[3 minutes 36 seconds][Customer] : No worries, of course.
+[3 minutes 36 seconds][Agent] : How you go with those questions will determine or it could change what the final price or final terms of the policy will be. Now, the policy already comes with an advanced payout of $10,000. So this is something that your beneficiaries can request when you pass to help towards any immediate costs such as funeral costs or even those that may pop up out of nowhere. Plus it's got a terminally ill advanced payment included.
+[3 minutes 44 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[4 minutes 5 seconds][Agent] : And this part just means that if you're diagnosed with 12 months or less to live by a medical practitioner, we're able to pay a claim out to you in full up to your benefit amount, and you'll be able to use that money how you need to from there.
+[4 minutes 18 seconds][Customer] : Yeah, yeah.
+[4 minutes 19 seconds][Agent] : Now, jumping into some pricing, have you had a cigarette in the last 12 months?
+[4 minutes 24 seconds][Customer] : No, not nothing. I mean 40 years.
+[4 minutes 29 seconds][Agent] : That's a good thing. Now, based on your details, I'm able to quote you anywhere from $100,000. From there, I can go up in $50,000 amounts to 1,000,000. How much did you want to quote on?
+[4 minutes 41 seconds][Customer] : Yeah. Well, the bare minimum I would cover would be 750. But again, it comes down to if I could get an affordable package for a million cover, then that would be great.
+[4 minutes 54 seconds][Agent] : I'll give you a quote on both.
+[4 minutes 53 seconds][Customer] : So yeah, yeah, maybe 750 and a million. Yeah, a fortnight. Yeah.
+[4 minutes 58 seconds][Agent] : OK, so if we start with the 750,000, this one is 100 and 5977 a fortnight, Yes. And then the 1,000,000 brings it up to $216.75 a fortnight.
+[5 minutes 7 seconds][Customer] : OK Yep, yeah, yeah, yeah. And that's just cover for me.
+[5 minutes 20 seconds][Agent] : That's correct, yes.
+[5 minutes 19 seconds][Customer] : Yeah, yeah, yeah. OK.
+[5 minutes 22 seconds][Agent] : No thanks.
+[5 minutes 22 seconds][Customer] : Because I, I'm, I'm, I'm also looking for my wife as well because. But I think the one with your enquiry didn't offer the the option of both at the same time. So I just did one of the. I've just done the one. And then if it looks like it's in the ballpark, then I would get my wife to do a separate one.
+[5 minutes 40 seconds][Agent] : That is correct. And that is because we need to take her through the exact same process.
+[5 minutes 42 seconds][Customer] : Yeah, yeah, cool.
+[5 minutes 46 seconds][Agent] : Now at the moment though, based on on pricing alone, are you leaning towards 1,000,000 or the 750,000?
+[5 minutes 52 seconds][Customer] : Well, I wouldn't mind if we could do 2 and I can get 2 written. I like to see visuals, so I wanna see what it is that then what it is and then I can do my C calculations and net and comparisons and then I can know which ones go it.
+[6 minutes 7 seconds][Agent] : OK, perfect.
+[6 minutes 14 seconds][Customer] : Cool.
+[6 minutes 8 seconds][Agent] : So what I'll do is I'll take you to the health and lifestyle questions that will give us final pricing as well as final terms because something could change now. Can you confirm your address for me? Beautiful.
+[6 minutes 19 seconds][Customer] : It's 219 Jet Loughlin Drive in Beachlands, Auckland, 2018.
+[6 minutes 26 seconds][Agent] : Thank you. So it's still the same now your home address and postal address, are they the same?
+[6 minutes 31 seconds][Customer] : Same. Same. Yeah.
+[6 minutes 33 seconds][Agent] : All right, so I'm gonna read out the pre underwriting disclosure. It goes over how we use your personal information, our responsibility to you when I'm asking you these questions and your responsibility to us when answering them. Just a confident yes or no to the question at the end.
+[6 minutes 50 seconds][Customer] : Cool.
+[6 minutes 51 seconds][Agent] : Please be aware all calls are recorded for quality and monitoring purposes. We collect the personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure with other service providers for the purpose of administering the policy or handling claims. Our privacy policy tells you more, including how to access incorrect information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insure. You have this duty until the time we enter into the contract. If you fail to disclose a matter or you make a false statement and answer to our questions, we may be able to decline a claim, impose new conditions on your policy, or avoid your policy entirely. Do you understand this? Yes or no?
+[8 minutes 2 seconds][Customer] : Yes.
+[8 minutes 3 seconds][Agent] : OK, Beautiful. Thank you. Now, it's the same thing. When answering all the questions, just be confident yes or no for each one. And if you need me to repeat any one of them, just let me know.
+[8 minutes 14 seconds][Customer] : Cool.
+[8 minutes 15 seconds][Agent] : OK. Open. All right now, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand? Yes or no?
+[8 minutes 28 seconds][Customer] : Yes.
+[8 minutes 29 seconds][Agent] : Thank you. Have you ever had symptoms of, been diagnosed with or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina?
+[8 minutes 49 seconds][Customer] : No, no, no, no.
+[8 minutes 50 seconds][Agent] : A lung disorder excluding asthma, sleep apnea or pneumonia, Cancer or leukemia, excluding skin cancer, kidney disorder, hepatitis, or any disorder of the liver.
+[9 minutes 8 seconds][Customer] : Yes. I had hepatitis C which got treated and cured. So I'm I'm no longer hepatitis done. I'm totally free.
+[9 minutes 17 seconds][Agent] : OK And will you require a transplant in the future? OK.
+[9 minutes 20 seconds][Customer] : No, actually not. Yeah.
+[9 minutes 23 seconds][Agent] : And you answered yes to hepatitis and it was just hepatitis C?
+[9 minutes 27 seconds][Customer] : So hepatitis CI contracted, yeah, from a blood transfusion and had it for many, many years. And in New Zealand there was a, a cure, underwent the treatment and I had a successful outcome.
+[9 minutes 39 seconds][Agent] : Oh, that's good.
+[9 minutes 38 seconds][Customer] : So basically NN the same as anyone who never had it. So it it has no impacts, loan effects or anything.
+[9 minutes 48 seconds][Agent] : OK. Now, did you also answer yes to cirrhosis or fibrosis?
+[9 minutes 54 seconds][Customer] : Don't have suppose no, I don't have anything. My health, my love is healthy. So it hasn't been damaged.
+[9 minutes 58 seconds][Agent] : OK, thank you. And is the liver disorder also related to alcohol?
+[10 minutes 6 seconds][Customer] : No, nothing.
+[10 minutes 8 seconds][Agent] : Is the disorder Gilbert syndrome?
+[10 minutes 8 seconds][Customer] : No, no.
+[10 minutes 15 seconds][Agent] : OK, perfect. Now moving forward, anxiety, depression or stress requiring medical treatment or any other mental health disorder. And have you been diagnosed with or currently undergoing testing for or has a doctor advised to be tested for motor neuron disease or any form of dementia, including Alzheimer's disease?
+[10 minutes 23 seconds][Customer] : No, no.
+[10 minutes 39 seconds][Agent] : OK, thank you. All right, perfect. So we've got an outcome based on your last answer. Well, not your last answer, but based on your description, the cover has been approved with the following changes to the policy terms. So we're able to offer you a benefit amount from 50,000 up to 100,000 and it comes with a policy term of 20 years. Now with this cover, for the 1st 12 months you would be covered for accidental death only. After 12 months you would be covered for death due to any cause. However, suicide is not covered in the 1st 13 months of the policy. You would still have access to that terminally ill advanced payment. Which means after holding your policy for that first 12 months, if you were diagnosed with 12 months or less to live by a medical practitioner, we can pay the claim out two and four. And of course your beneficiaries would still be able to access that advanced payer of $10,000.
+[11 minutes 40 seconds][Customer] : But that's covered to 100,000.
+[11 minutes 42 seconds][Agent] : That's correct, yes.
+[11 minutes 43 seconds][Customer] : Yes. I'm waste your time. I'm not interested in getting a life insurance policy for $100,000.
+[11 minutes 48 seconds][Agent] : No, that's definitely understandable. Like we do also offer, uh, income protection or funeral insurance.
+[11 minutes 49 seconds][Customer] : Yeah, yeah, yeah.
+[11 minutes 55 seconds][Agent] : Did you want me to go over either of these?
+[11 minutes 55 seconds][Customer] : No, no, no, no, no, no, no. Then no, no, not to worry. That's probably why the last one didn't happen.
+[12 minutes 1 seconds][Agent] : Quite possibly, yeah. Umm.
+[12 minutes 2 seconds][Customer] : Yeah, yeah, talk sighted and it's just a case of that. They obviously haven't done the updated work to understand that yes, to the hepatitis when it's been successfully treated, they should have something a little bit more intensive, but it's just a check box company obviously. So that's just the idea. Yeah, I think you should mention, because there's a lot of people now they've got that cure that are perfectly normal. So anyway, not to worry. I don't wanna waste any more time and I don't want you to waste any more time.
+[12 minutes 20 seconds][Agent] : And that's something I'm going to send over to our underwriting team as well to maybe look into a bit right idea now, like please give us a call if you have any questions or changes.
+[12 minutes 39 seconds][Customer] : No problem.
+[12 minutes 40 seconds][Agent] : We'll be happy to help.
+[12 minutes 41 seconds][Customer] : Awesome.
+[12 minutes 41 seconds][Agent] : Enjoy your day.
+[12 minutes 43 seconds][Customer] : You too, guys. Bye.
+[12 minutes 44 seconds][Agent] : Thank you. Bye bye.

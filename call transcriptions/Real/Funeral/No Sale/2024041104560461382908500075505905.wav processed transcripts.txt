@@ -1,0 +1,49 @@
+[2 seconds][Agent] : Welcome to Real Insurance. My name is Faraz. How can I help you?
+[5 seconds][Customer] : Oh yes, Hello, my name is Susan Ewer. I was speaking to a gentleman last week. We have funeral insurance and I was talking to him about reducing our funeral insurance benefits.
+[20 seconds][Agent] : OK. Yeah, yeah, yeah, I can help you with that. Umm, can you tell me your, umm, policy number please? And your date of birth, please.
+[28 seconds][Customer] : Our policy number is 230651653, 28th of the 9th 62.
+[40 seconds][Agent] : All right, perfect. OK. Is your home address 42 trolls and drive Chris Mead, Queensland 4132 and phone number that you're calling in, is that your best contact?
+[58 seconds][Customer] : Yes, Yes it is.
+[1 minutes 3 seconds][Agent] : Got a landline 0738034729?
+[1 minutes 7 seconds][Customer] : Yeah. None no longer exists.
+[1 minutes 10 seconds][Agent] : Ah, yeah, we'll get rid of that.
+[1 minutes 21 seconds][Customer] : You are.
+[1 minutes 17 seconds][Agent] : andsusanewa02@yephotmail.com Is that your e-mail?
+[1 minutes 24 seconds][Customer] : Yes.
+[1 minutes 25 seconds][Agent] : Yeah.
+[1 minutes 26 seconds][Customer] : Yes.
+[1 minutes 26 seconds][Agent] : Perfect. All right, let's help you with that. Just going into the policy here. OK, did you get any quotes or anything like that? Yep.
+[1 minutes 52 seconds][Customer] : The gentleman last week for my husband and myself to reduce to 10,000 and our accidental additional accidental death benefit to 30,000 and he quoted me $40.02 a fortnight.
+[2 minutes 12 seconds][Agent] : $40.02 per 4 notch and that was for you and your husband.
+[2 minutes 16 seconds][Customer] : Yep, yes.
+[2 minutes 22 seconds][Agent] : OK, alright. I'm just going to pop you on hold while I just have a look at the policy, if that's OK. Do you mind holding?
+[2 minutes 30 seconds][Customer] : OK, no worries.
+[2 minutes 31 seconds][Agent] : It might be longer than two minutes though.
+[2 minutes 33 seconds][Customer] : OK, no worries.
+[2 minutes 33 seconds][Agent] : Alright, thank you. Thank you. Hey, I'm so sorry about the whole day. Yeah.
+[8 minutes 8 seconds][Customer] : You're right.
+[8 minutes 8 seconds][Agent] : Umm, so basically, I can see that the quote was $40.02 for you and your husband, $10,000 of cover. Umm, do you want me to go ahead and apply that for you today or?
+[8 minutes 20 seconds][Customer] : Yes, please. Yes, please.
+[8 minutes 21 seconds][Agent] : OK, Yeah, no worries. All right. All expenses your current covers for how much 17,000?
+[9 minutes 4 seconds][Customer] : Yes.
+[9 minutes 9 seconds][Agent] : All right, umm, there's just some details that I need to read through with you, if that's OK. Just to formality supply this, umm, these changes, yeah. So your final expenses, insurance cover provide your family members with a cash benefit amount of what currently $17,960 in the event that you pass away. It can be used not only for funeral expenses, but also any other final expenses, any other final expenses like unpaid bills. If death was due to an accident, the benefit of man is tripled. For the 1st 12 months, you're covered against accidental death. Only after 12 months. It covers death due to any cause, including an accident. The. The benefit amount and the premium amount will. Oh no, that doesn't apply to you. Included in your cover is a cash out benefit, which means once the oldest person covered under the policy turns 85, you have the option to cancel your policy and save the cash out benefit of 50% on the funeral insurance benefit amount for one life insured. You also have a sum insured bonus. Once the oldest person covered under the policy turns 90, premiums are no longer payable and you'll also receive a 25% sum insured bonus on the funeral insurance benefit amount at no additional cost to you from the age of 90. If you opt to cancel your cover and receive a cash out benefit, it will be 50% of your funeral insurance increased funeral insurance benefit amount for one life insured. You also have a free subscription to the Seniors magazine day with your policy. OK, moving on. So could you just tell me the reason for the decrease affordability, OK, Alright.
+[11 minutes 2 seconds][Customer] : Affordability long term.
+[11 minutes 12 seconds][Agent] : So is that a temporary or a long term concern that affordability long term alright.
+[11 minutes 48 seconds][Customer] : Yeah.
+[11 minutes 28 seconds][Agent] : OK, all right. It's just a bit of a process that I have to do on my end. Umm. OK. Please confirm that you agreed to $10,000 of cover and understand that once you accept this change, any request to increase the insured amount in the future will be subject to age, eligibility and the application process, which may result in new terms and conditions for the application could be declined. Yes or no? Alright, perfect. Yep. OK, I've changed that over for you now. So, all right, so your new premium is going to be $40.02 on a four nightly basis. OK?
+[12 minutes 52 seconds][Customer] : Yes, Yep.
+[13 minutes 8 seconds][Agent] : That'll cover you and your husband for $10,000 each.
+[13 minutes 12 seconds][Customer] : Yes.
+[13 minutes 13 seconds][Agent] : OK. Yep. All done for you.
+[13 minutes 15 seconds][Customer] : Alright. Thank you.
+[13 minutes 14 seconds][Agent] : All right.
+[13 minutes 16 seconds][Customer] : And you will send out new paperwork.
+[13 minutes 18 seconds][Agent] : Yeah, of course. That's right.
+[13 minutes 20 seconds][Customer] : OK.
+[13 minutes 21 seconds][Agent] : OK.
+[13 minutes 23 seconds][Customer] : Alright.
+[13 minutes 22 seconds][Agent] : All right. No worries.
+[13 minutes 23 seconds][Customer] : Thank you very much.
+[13 minutes 23 seconds][Agent] : Thank you so much for your patience.
+[13 minutes 26 seconds][Customer] : No worries. Bye bye.
+[13 minutes 26 seconds][Agent] : Take care. Bye.

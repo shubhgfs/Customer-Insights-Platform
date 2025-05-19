@@ -1,0 +1,50 @@
+[0 seconds][Customer] : Hello. Richard. Speaking.
+[2 seconds][Agent] : Hey, Richard, sorry, DJ here calling you're back from Australia, UNC Insurance.
+[5 seconds][Customer] : Oh, yes. Yep.
+[6 seconds][Agent] : I'm just quickly remind Richard that our calls are recorded and any advice I provide is general in nature and may not be suitable to your situation. And Richard, just for security, if I could just quickly get you to confirm your first last name and date of birth for me.
+[20 seconds][Customer] : Yeah. Richard Dixon, 26 February 1967.
+[24 seconds][Agent] : Thank you. And Richard, I just spoke to your wife. She's provided me with your last joint account details.
+[29 seconds][Customer] : Yep.
+[29 seconds][Agent] : Umm, I just have to confirm, umm, with that joint account. Umm, you have authorization to debit from that account also.
+[36 seconds][Customer] : Yes.
+[36 seconds][Agent] : Yep. And to dimension in terms of the, the first payment that she was, I wanted that to start from next Wednesday on the 22nd of January. Is that OK with you?
+[45 seconds][Customer] : Yeah, that's fine. Yeah.
+[46 seconds][Agent] : OK, cool.
+[47 seconds][Customer] : Yeah.
+[47 seconds][Agent] : Awesome. You'll still be covered over the phone from today otherwise.
+[49 seconds][Customer] : Yeah. Yeah. No, that's fine. Alright.
+[49 seconds][Agent] : And then that first pay will start from next Wednesday and then it'll just be before that from that date onwards. But just to finalize, you'll cover there, Richard, I'll just have to read out a verbal declaration of your next UMM.
+[59 seconds][Customer] : Yep. Sure.
+[59 seconds][Agent] : And then at the end I have two quick questions just to ask the acceptance and that will be all completed for you.
+[1 minutes 4 seconds][Customer] : Yep.
+[1 minutes 4 seconds][Agent] : But just we said thank you, Richard. That said, it is important to answer all the information or actually agreements to these terms at the end and the policy will not be enforced unless you agree to these terms in full. Seniors life insurance is issued by Hanover Life Ari of Australasia Limited. Hanover has an arrangement with Greenstone Financial Services trading as Australian Seniors Insurance Agency to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing the application. That includes the information we initially collected from you to provide a quote. However, set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Richard, can you please confirm you have answered all of our questions in accordance with your duty?
+[1 minutes 59 seconds][Customer] : Yes.
+[2 minutes][Agent] : Thank you. May from time to time provide office to you via the communication difference you've provided to us in relation to other products and services. By this declaration you can see to allow us to contact you for this purpose until you opt out. The tip to cover pays a lump sum benefit amount of the following. Richard Dixon receives $120,000 in the event of death. If this is as a result of an accident, the benefit payment will include an accident or death benefit which will equate to a total payment of triple the benefit of now a benefit if it is not paid in the event of suicide in the 1st 13 months of the policy. You cover expires on the 25th of February 2015 at 12:00 AM. Your premium for your first year of cover is $119.60 per fortnight. Your premium is STEP, which means it will be calculated that each policy anniversary and will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium calculated on a level basis over the life of the policy. Your premium will be debited from your nominated bank account in the name of. RM and MJ Dixon are authorized to debit from and have provided to us. We may provide running communications to you by the e-mail address you provided to us. This will include any legal notices we are required to provide to you. If you would prefer to receive these only via mail, we can update your communication preference at any time. The policy documentation, PDS and if it's cheap will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should consider these documents to ensure the product reach your needs. You have a 30 day calling. When you may cancel your policy and any premium you may have paid will be refunded in full. Unless you have lodged a claim. They are associated with replacing policies. Azure New policy may not be identical to existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. Finally, we have a complaints process which can access at any time by contacting us. Full details are available online and in the documentation we are sending you. But just to see Richard and, and agree with the declaration, yes or no?
+[4 minutes 10 seconds][Customer] : Yes.
+[4 minutes 11 seconds][Agent] : And would you like any other information or would you like me to read any part of the product disclosure statement to you today?
+[4 minutes 18 seconds][Customer] : No, that's fine.
+[4 minutes 20 seconds][Agent] : Awesome. So you received the e-mail, you guys received the emails sent to you today. I'll just confirm I've got the correct spelling for that. So that's RICHANDREE 2010@hotmail.com. Was that right?
+[4 minutes 19 seconds][Customer] : I'll go through that when it comes in, correct?
+[4 minutes 36 seconds][Agent] : So, so I was gonna, you know, if it does request for password, the password should just be with your date of birth. So just the numbers only umm, and if it's not in your mail inbox, just double check your spam or junk. You know, it should be there for you otherwise.
+[4 minutes 49 seconds][Customer] : Yep, sure.
+[4 minutes 49 seconds][Agent] : But umm, I suppose a big welcome and thank you for choosing Australian Seasons Insurance. So Richard, you're now covered with us from today for the $120,000 of cover and your first fortnightly claim that will start from next Wednesday on the 22nd of January. It must be every fortnight from that date onwards.
+[5 minutes 6 seconds][Customer] : Excellent.
+[5 minutes 6 seconds][Agent] : Now, which is looking your beneficiaries. Would you like to do that over the phone through our service department?
+[5 minutes 12 seconds][Customer] : Yeah. But I won't be able to do it now.
+[5 minutes 14 seconds][Agent] : Not today.
+[5 minutes 14 seconds][Customer] : No. Sure.
+[5 minutes 14 seconds][Agent] : That's OK, I can always, umm, you can always give us a call back or I can reschedule a call back for you. Umm, it's up to you.
+[5 minutes 20 seconds][Customer] : Yeah.
+[5 minutes 22 seconds][Agent] : Oh yeah, sure.
+[5 minutes 20 seconds][Customer] : Look, I I'll, I'll give you a call back and and sort that out. Alright.
+[5 minutes 22 seconds][Agent] : Cool, no, that's not a problem at all.
+[5 minutes 28 seconds][Customer] : Thank you.
+[5 minutes 25 seconds][Agent] : But umm, other than that, I'll contact details open in the e-mail for you, umm, and then the post. You also receive a copy of that sent out to you in the mail as well. Now, one thing that we also provide umm, for you as well, which is a free online rule which is valued at $160.00 with each policy. So you receive the, uh, instructions about to utilize that through the e-mail as well.
+[5 minutes 33 seconds][Customer] : Yep, Yep. Sure. Thank you.
+[5 minutes 46 seconds][Agent] : Cool, but umm, anything else for today?
+[5 minutes 48 seconds][Customer] : No, thank you very much for that.
+[5 minutes 48 seconds][Agent] : Otherwise, no, that's OK. Well, hope you have a lovely rest of the morning dear Richard, and take care as well.
+[5 minutes 51 seconds][Customer] : Alright, thank you. Do that.
+[5 minutes 55 seconds][Agent] : Thank you.
+[5 minutes 56 seconds][Customer] : OK, Bye. Bye.
+[5 minutes 57 seconds][Agent] : Bye. Goodbye.

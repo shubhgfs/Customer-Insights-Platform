@@ -1,0 +1,480 @@
+[3 seconds][Agent] : Hi, Penny. My name's Kim. I'm calling from Real Insurance. How are you today?
+[7 seconds][Customer] : Yes, yeah, yeah, yeah. Uh, my wife's not finished yet. Uh, my daughter here help my daughter here. My daughter. Can I, my daughter help with me?
+[13 seconds][Agent] : Oh yeah, sure.
+[20 seconds][Customer] : Yeah. The insurance. Yeah. What? What can I do now?
+[28 seconds][Agent] : OK, so I'll just confirm a couple of details here with your penny.
+[33 seconds][Customer] : Sorry, Putting down the TV. Yep. Yep.
+[31 seconds][Agent] : So I've got your so I've got your. Sorry for saying your name incorrectly. Is it penny tour?
+[40 seconds][Customer] : Yeah. Penny two.
+[42 seconds][Agent] : And I've got your date of birth of the second of the 1st 1960.
+[41 seconds][Customer] : Oh yeah, yeah, that's right.
+[47 seconds][Agent] : And can I confirm that you are an Australian resident?
+[51 seconds][Customer] : Yep. Yeah, I've got the Australian citizen.
+[54 seconds][Agent] : Perfect. So Please note all our calls are recorded.
+[57 seconds][Customer] : Yeah.
+[57 seconds][Agent] : Any advice or provider is general in nature and may not be suitable to your situation.
+[1 minutes 2 seconds][Customer] : Yeah. Hmm. Mm.
+[1 minutes 3 seconds][Agent] : So umm Penny, you're having a look at some funeral cover for yourself, is that right?
+[1 minutes 8 seconds][Customer] : Yeah. Tell me about how to do this.
+[1 minutes 12 seconds][Agent] : How to apply?
+[1 minutes 13 seconds][Customer] : Yeah.
+[1 minutes 15 seconds][Agent] : Yes.
+[1 minutes 14 seconds][Customer] : How do you apply that, you know?
+[1 minutes 15 seconds][Agent] : So with the cover here it is easy to apply.
+[1 minutes 20 seconds][Customer] : MMM. What about the life insurance? Yeah, I need to apply for life insurance. Is that alright?
+[1 minutes 18 seconds][Agent] : There's no medical checks as long as you're the last you need to apply for life insurance.
+[1 minutes 29 seconds][Customer] : Yeah. Not the.
+[1 minutes 29 seconds][Agent] : I can definitely go through that with you as well. Yep. OK, well I'll run you through the life insurance there now I just so you and your wife. Yeah, now, umm, I will let you know how that works.
+[1 minutes 36 seconds][Customer] : So I I need to apply for a life insurance Yes me and my wife yes together yes.
+[1 minutes 52 seconds][Agent] : So with our life insurance here, this one is designed to provide financial protection your loved ones through a lump sum payment if you were to pass away.
+[2 minutes 2 seconds][Customer] : Can you tell me about life insurance? They cover up something happen me or seek set.
+[2 minutes 10 seconds][Agent] : Yes. So this is the life insurance I'm explaining to you here. Umm, Penny, do you need an interpreter at all?
+[2 minutes 18 seconds][Customer] : Hi do you have anyone that seek calm one?
+[2 minutes 22 seconds][Agent] : Uh, we don't have Simone interpreters here. I'm very sorry.
+[2 minutes 26 seconds][Customer] : Oh, then that's OK.
+[2 minutes 27 seconds][Agent] : Yeah. OK. Umm, uh, let me know if I need to repeat anything, I'm happy or if I'm going too fast. That's fine. Umm, So with this cover here, it's just, it's the payout, your family, a lump sum if you were to pass away. So it's there to give you Peace of Mind. Penny, if, umm, something happened to you, your family would have that financial security. OK, now.
+[2 minutes 44 seconds][Customer] : MMM, yeah, yeah, it's a yeah, like a life insurance better.
+[2 minutes 58 seconds][Agent] : Yeah.
+[2 minutes 59 seconds][Customer] : Yeah.
+[2 minutes 59 seconds][Agent] : OK, perfect. Now you can nominate up to five beneficiaries as well to receive their nominated benefit amount. OK, now I just need to note as well, Sir, I didn't say hello to your daughter before. What's her name?
+[3 minutes 12 seconds][Customer] : MMM, MMM, yeah, both.
+[3 minutes 15 seconds][Agent] : Hi, Justine. Sir, my name's Kim. I'm from Real Insurance, umm Please note all our calls are recorded. Any advice for providers general in nature and may not be suitable to your situation? Perfect. So umm penny with our cover here it is easy to apply. All we do is go through some health and lifestyle questions over the phone to see if you're approved.
+[3 minutes 33 seconds][Customer] : Yep, Yep.
+[3 minutes 39 seconds][Agent] : OK now if you are accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause. The only thing not covered is suicide in the 1st 13 months.
+[3 minutes 49 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 56 seconds][Agent] : OK now in addition there is a what we call a terminally ill advanced payment included in the cover.
+[4 minutes 14 seconds][Customer] : MMM, MMM. Yep.
+[4 minutes 4 seconds][Agent] : So for this one, if you were diagnosed with 12 months or less to leave by a medical practitioner, we will pay your claim in full while you're still alive to help you with like medical costs or helping your family, whatever you need there that money for now. We also include a $10,000 advance payment to help with funeral costs or any other final expenses at the time. Perfect. Do you have any questions? Sorry for a penny.
+[4 minutes 30 seconds][Customer] : OK, Yep. Yeah. How do you start? Put the money in.
+[4 minutes 41 seconds][Agent] : Yes, yes. So let's go through this to you now.
+[4 minutes 41 seconds][Customer] : Start it the Indian appalaida.
+[4 minutes 46 seconds][Agent] : So I'll give you some pricing 1st, and then we'll go through those health and lifestyle questions to see if we can get you approved today so we can get some cover in place. So Penny, first question here. Have you had a cigarette in the last 12 months? Yes or no?
+[5 minutes 3 seconds][Customer] : Nope.
+[5 minutes 4 seconds][Agent] : Perfect. And we'll have a look at that pricing here for you. Now in terms of pricing, we can look between $100,000 up to $300,000 in Carmel. How much would you like to look at being covered for?
+[5 minutes 22 seconds][Customer] : What do you mean? So if you ask me, So what was the price range or was?
+[5 minutes 27 seconds][Agent] : So it goes from $100,000 up to $300,000.
+[5 minutes 33 seconds][Customer] : Right.
+[5 minutes 38 seconds][Agent] : Mm hmm. Yes. So the lower the amount, the low, the less he'll be paying there.
+[5 minutes 34 seconds][Customer] : So if you pick umm the lower like so if you do 100,000 in the annual more or so less $300.00 yeah, because I'm working I'm not retired now, alright I'm retirement retired now.
+[5 minutes 50 seconds][Agent] : So yeah, yeah.
+[5 minutes 57 seconds][Customer] : So I, I have a money from uh, what do you do? Can you?
+[6 minutes 3 seconds][Agent] : So Penny for example, I'll give you, I'll give you the price of 100,000 and you let me know if that's suitable for you.
+[6 minutes 5 seconds][Customer] : Yes, Yeah, Yeah. That. I mean, Fortnite, I'm at the Fortnite.
+[6 minutes 11 seconds][Agent] : So for $100,000 of cover just for yourself there, that's $75.37 per fortnight, $75.37.
+[6 minutes 25 seconds][Customer] : Yeah. It's all Yeah, It's OK.
+[6 minutes 26 seconds][Agent] : That sounds OK.
+[6 minutes 27 seconds][Customer] : I'm happy that.
+[6 minutes 29 seconds][Agent] : Alright, perfect. Now I do need to let you know as well. Your premium is stepped, which means it will generally increase each year as your age.
+[6 minutes 30 seconds][Customer] : Yeah, yeah.
+[6 minutes 39 seconds][Agent] : Now in addition, this policy has automatic index indexation, which means each year your sum insured will increase by 5% with associated increases in premium. So I'll give you an idea what that will look like. And just so you know as well, Penny, you can opt out of this automatic indexation each year. So Penny, as an indication, if you make no changes to the policy, your premium mix, you'll be $91.50 per fortnight. So you can also find information about our premium structure on our website.
+[6 minutes 55 seconds][Customer] : Yep, alright, I I need to put down less, you know, put lower.
+[7 minutes 20 seconds][Agent] : Sorry, what was that?
+[7 minutes 20 seconds][Customer] : I I I have a lot of things to pay a bill and I paid a car.
+[7 minutes 27 seconds][Agent] : Yeah. Umm, let me have a look here, I'll see if I can go a bit lower. Let me just pop you on a quick hold.
+[7 minutes 28 seconds][Customer] : Yeah, He he can you give me a less money to pay a whole lot for me.
+[7 minutes 42 seconds][Agent] : Sorry.
+[7 minutes 43 seconds][Customer] : I'm not rich man.
+[7 minutes 44 seconds][Agent] : Yeah, bear with me for a moment. Let me just check something here.
+[7 minutes 48 seconds][Customer] : I can pay.
+[7 minutes 48 seconds][Agent] : Thank you.
+[7 minutes 49 seconds][Customer] : I can pay my payment, but I put that risk, please. Yeah, I don't want to go too high.
+[7 minutes 52 seconds][Agent] : One moment, one moment, Penny. I'll just pop you on hold. Thank you so much for holding there, Penny.
+[8 minutes 51 seconds][Customer] : That's OK.
+[8 minutes 52 seconds][Agent] : So umm, let's jump back and have a look at the funeral cover there that you're initially looking at. Umm, because we might be able to do something a bit cheaper with the funeral cover for you.
+[8 minutes 59 seconds][Customer] : Yep, Yep, Yep, Yep. What's the difference from what's the difference? Sorry, what's the difference from funeral and life cover?
+[9 minutes 4 seconds][Agent] : OK, so I'm going to jump over to that quote and if that yeah, sure. Umm, so the funeral cover here, umm, it is a lower amount. So it does cover between 3000 up to $15,000 in cover.
+[9 minutes 31 seconds][Customer] : Right and then life insurance.
+[9 minutes 23 seconds][Agent] : And, umm, it covers like, helps cover like, umm, funeral expenses or any other final expenses at the time, Life insurance.
+[9 minutes 36 seconds][Customer] : Hello.
+[9 minutes 34 seconds][Agent] : That's a life cover, Umm, so that, that covers if he passes away, also has that terminal illness benefit in there. And it's a higher level of cover that one there. So that one will remain in place for the term of his life, providing he pays those premiums there on a regular basis. Yeah, yeah.
+[9 minutes 46 seconds][Customer] : Yeah, Cos we were, we were more looking at life than you know, even though it is cheaper, but if we could find a cheaper alternative with life insurance.
+[10 minutes 9 seconds][Agent] : Mm hmm. Yeah.
+[10 minutes 13 seconds][Customer] : Hmm. There's 70 certainly around that 70 mark every fortnight. It's a lot.
+[10 minutes 10 seconds][Agent] : So the, umm, with the life insurance one that I've been through there, so that $100,000 is the lowest that I can go with the life insurance, that's $75.37 a fortnight. Yeah. So that's the lowest I can go there with the life insurance.
+[10 minutes 22 seconds][Customer] : So it's cheaper when you go to the funeral, but you will fly. You're looking at JKK or sorry. So another one just compare.
+[10 minutes 46 seconds][Agent] : None.
+[10 minutes 47 seconds][Customer] : Uh, uh, I think that I can afford it, $75 a four nut. Uh, are you, you got any office here in the Melbourne? I'm here in the Melbourne.
+[10 minutes 59 seconds][Agent] : Yes, Sir. We don't have any actual offices that you can come into to take out the cover. We do do it all over the phone.
+[11 minutes 12 seconds][Customer] : Yeah, it's OK.
+[11 minutes 6 seconds][Agent] : So if that $75 is affordable there for you, I can take you through the telephone lifestyle questions now and see if we can get you covered.
+[11 minutes 14 seconds][Customer] : Yeah, for $75. How much? Yeah, I'm happy to do that.
+[11 minutes 19 seconds][Agent] : Yep.
+[11 minutes 18 seconds][Customer] : Yeah, for the likely not the female.
+[11 minutes 19 seconds][Agent] : Alright, perfect.
+[11 minutes 22 seconds][Customer] : Yeah.
+[11 minutes 22 seconds][Agent] : Well, let's go through those health and lifestyle questions then and see if we can get that cover in place today. Now, Penny, I'm going to pop your address in before I go through those questions. What's your post code to begin with? Mm hmm.
+[11 minutes 34 seconds][Customer] : Number #7 Gold and cook yes. Code in Good and Glenroy, Victoria and Melbourne.
+[11 minutes 41 seconds][Agent] : 7 Gordon Court, 7 Gordon Court, Glenroy, Victoria 3046. Is that right?
+[11 minutes 48 seconds][Customer] : Yes, yes, yes, yes.
+[12 minutes][Agent] : Perfect. And is that the same as your postal address?
+[12 minutes 3 seconds][Customer] : Mm hmm.
+[12 minutes 6 seconds][Agent] : OK, so umm, what I'm going to do here is I'm going to read you what we call a pre underwriting disclosure. It's just about your duty of care while answering the questions here. OK, So Penny, as we go through, I just need you to give me a clear yes or no to each question unless otherwise specified. Now if you're not sure of something, please let me know and I'm more than happy to clarify there for you as well.
+[12 minutes 26 seconds][Customer] : Yeah, OK.
+[12 minutes 33 seconds][Agent] : Perfect. So I'll start with that pre underwriting disclosure. So it just reads. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and which complaints about purchase of privacy.
+[12 minutes 41 seconds][Customer] : Yeah, OK.
+[13 minutes 2 seconds][Agent] : By proceeding, you understand that you're applying to purchase a life insurance policy and just that you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I asked you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Can I do you understand and agree to your duty? Yes or no?
+[13 minutes 42 seconds][Customer] : Yes, a little bit. My daughter here helped me. Yeah, yeah, I think my daughter answered the question.
+[13 minutes 49 seconds][Agent] : So your daughter can't answer the questions for you. It has to be you that answers the questions for us to be able to proceed with the application. Do you do you need me to read that again for you, Penny?
+[13 minutes 54 seconds][Customer] : Yeah, yeah, my answered the question and and explained to him no so.
+[14 minutes 5 seconds][Agent] : No. OK. And so I just need to ask you. I'm gonna understand and agree to your duty. Yes or no. Thank you. Now, first question here. Have you been hospitalized for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no? Perfect. And are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia. Yes or no?
+[14 minutes 11 seconds][Customer] : Yes, yes, yes, yes, no, no, yes, yes, yes. I've got everything. New Zealand and Australia.
+[14 minutes 41 seconds][Agent] : Perfect. Now does your work require you to go underground?
+[14 minutes 51 seconds][Customer] : Nope. Nope. Nope.
+[14 minutes 46 seconds][Agent] : Work at heights above 20 meters, drive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore? Yes or no.
+[14 minutes 58 seconds][Customer] : Nope.
+[14 minutes 57 seconds][Agent] : OK, so the next section is just in relation to your height and weight. Umm, please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. Now, the system does not allow me to enter any approximate figures, words, or height and weight ranges. So Penny, what is your exact height? What's your height? 175 centimeters. And what is your exact weight? 98 kilos.
+[15 minutes 22 seconds][Customer] : What's that 177175 Yes, yes, yes 9098 19 sometime 100 sometime 99 that's only.
+[15 minutes 50 seconds][Agent] : OK, so I just need an accurate figure there. What how much did you weigh last time you weighed yourself? 95 last time you weighed yourself. Yeah.
+[15 minutes 57 seconds][Customer] : 95 Yes, yes, I'm in there.
+[16 minutes 4 seconds][Agent] : So I'll just, I'll just reconfirm that. So for your height, I've got 175 centimeters and for your weight, I've got 95 kilos.
+[16 minutes 13 seconds][Customer] : Yep, Yep, Yep.
+[16 minutes 16 seconds][Agent] : Is that right?
+[16 minutes 17 seconds][Customer] : Yes.
+[16 minutes 18 seconds][Agent] : Perfect. And have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months, Yes or no?
+[16 minutes 27 seconds][Customer] : Yes, No. Nope. Nope. Nope. Nope.
+[16 minutes 32 seconds][Agent] : And to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS, yes or no?
+[16 minutes 42 seconds][Customer] : Nope. Nope.
+[16 minutes 45 seconds][Agent] : Do you have definite plans to travel or reside outside of Australia, for example, booked or will be booking travel within the next 12 months? Yes or no?
+[16 minutes 55 seconds][Customer] : Nope, Nope, Nope, Nope. It's done.
+[16 minutes 58 seconds][Agent] : And do you have existing life insurance policies with other life insurance companies with the combined title sum assured of more than $5,000,000 yes or no Perfect. You're doing very well. The next part's a long part. It's just in regards to your medical history here, Penny. So just for you to have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma, or leukemia? Yes or no. Have you ever had an abnormal PSA test or an enlarged prostate? Yes or no.
+[17 minutes 36 seconds][Customer] : Nope, Nope, Nope.
+[17 minutes 45 seconds][Agent] : Stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure? Yes or no? You've had high blood pressure.
+[17 minutes 56 seconds][Customer] : Ah, some some type of ah, black pressure I take, I take the tablets for a for a.
+[18 minutes 5 seconds][Agent] : Yeah, OK, that's not a problem. So you take tablets for high blood pressure, is that right?
+[18 minutes 12 seconds][Customer] : Yeah, yeah. Take every day.
+[18 minutes 15 seconds][Agent] : Yeah, sure. So what we'll do is we'll follow the drop down. I'll answer yes for that one. So it just says here based on your response, please answer yes or no for each of the following.
+[18 minutes 28 seconds][Customer] : Nope. Nope. Nope. Nope.
+[18 minutes 25 seconds][Agent] : So stroke yes or no, chest pain, yes or no, pericarditis, yes or no heart condition for example, heart murmur, heart palpitations, heart attack or angina, but not limited to these conditions.
+[18 minutes 45 seconds][Customer] : Nope.
+[18 minutes 45 seconds][Agent] : No. And the next one is high blood pressure. So we'll probably yes for that one for you.
+[18 minutes 51 seconds][Customer] : Nope.
+[18 minutes 52 seconds][Agent] : And if the next question just ask here, is your high blood pressure caused by heart disease or kidney disease? Yes or no? Perfect, perfect. And it just says here, have you been prescribed medication to treat this condition? So we can put a yes for that one for you. And it just says, umm, did treatment commenced within the last three months? So how long ago did you start taking tablets there for your high blood pressure?
+[19 minutes][Customer] : No, just then one more sometime.
+[19 minutes 26 seconds][Agent] : Has it, has it been longer than three months?
+[19 minutes 25 seconds][Customer] : Uh, I started a uh, when I, uh, taken 2 two years now.
+[19 minutes 39 seconds][Agent] : Two years? OK, perfect. So we can pop a note for that one for you then if it's been about two years and it just says here as well, Penny, have you had your blood pressure checked in the past six months by your GP?
+[19 minutes 52 seconds][Customer] : Yeah, yeah.
+[19 minutes 54 seconds][Agent] : Yep, perfect.
+[20 minutes 3 seconds][Customer] : Yeah.
+[19 minutes 57 seconds][Agent] : And it just says, were you told by your doctor that your blood pressure has returned to within normal range the last time you had it checked? Yes or no?
+[20 minutes 7 seconds][Customer] : No, just everything. All right? Yeah.
+[20 minutes 11 seconds][Agent] : Yes, that was normal.
+[20 minutes 13 seconds][Customer] : Nothing.
+[20 minutes 12 seconds][Agent] : So we can put a yes for that for you then.
+[20 minutes 14 seconds][Customer] : Yeah. Everything good.
+[20 minutes 16 seconds][Agent] : Perfect.
+[20 minutes 19 seconds][Customer] : Yeah.
+[20 minutes 16 seconds][Agent] : That's a good outcome then, isn't it?
+[20 minutes 20 seconds][Customer] : Because I look after myself.
+[20 minutes 20 seconds][Agent] : Now we're just, yeah, makes a big difference. Now. Just moving down to the next question here, Penny. So next one is high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no.
+[20 minutes 35 seconds][Customer] : Nope, Nope. Nope. Nope.
+[20 minutes 40 seconds][Agent] : Diabetes, raised blood sugar, impaired glucose tolerance, or impaired fasting glucose. Yes or no.
+[20 minutes 47 seconds][Customer] : Nope.
+[20 minutes 49 seconds][Agent] : Hepatitis or any disorder of the liver, stomach, bowel, gallbladder, or pancreas. Yes or no.
+[20 minutes 55 seconds][Customer] : Nope.
+[20 minutes 57 seconds][Agent] : Epilepsy, motor neurone disease, multiple sclerosis, muscular dystrophy, Parkinson's disease, or paralysis.
+[21 minutes 6 seconds][Customer] : Nope.
+[21 minutes 5 seconds][Agent] : Yes or no Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no. Any illegal drug use, abusive prescription medication, or receive medical advice or counseling for alcohol consumption? Yes or no.
+[21 minutes 16 seconds][Customer] : No, Nope.
+[21 minutes 29 seconds][Agent] : Disorder of the kidney or bladder? Yes or no. Blood disorder or disease? Yes or no, asthma or other respiratory disorder, excluding childhood asthma, yes or no?
+[21 minutes 32 seconds][Customer] : Nope, no, Nope.
+[21 minutes 46 seconds][Agent] : You're doing so well. Now. The next question is a bit of a long one here, so let me know if you need me to repeat it there. So other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy, yes or no? And next question here. You're doing so well. We're nearly at the end. By the way, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks, yes or no? So the next part is just in regards to your family history. So, to the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? Yes or no?
+[22 minutes 9 seconds][Customer] : No, Nope, Nope, Nope. That's my mom said have have blood pressure.
+[23 minutes 2 seconds][Agent] : Your mum had high blood pressure as well.
+[23 minutes 2 seconds][Customer] : Yeah, that's why I have.
+[23 minutes 6 seconds][Agent] : Oh OK, perfect. That's fine. We don't need to include that there for her. Now the next question just asked as well. To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60? Yes or no? Your sister. Yeah. And what was that from?
+[23 minutes 21 seconds][Customer] : No, uh, this is my sister's sister passed away about five year, five year ago, right?
+[23 minutes 42 seconds][Agent] : Oh, that was cancer. And was she younger than 60? Was she?
+[23 minutes 44 seconds][Customer] : Yeah, no older than me.
+[23 minutes 50 seconds][Agent] : Oh, she was older. OK, so we don't need to include that because it just asked before the age of 60, so I'll just ask that question again. Umm, and we'll just double check that. So it just says here, to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke, or other hereditary disease prior to age 60? Perfect.
+[24 minutes 17 seconds][Customer] : Nope, Nope, Nope.
+[24 minutes 21 seconds][Agent] : And final question here, Penny. Umm, this is another long 1, so let me know if you want me to repeat it again. Other than one off events, gift certificate, flash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering up sailing, scuba diving deeper than 40 meters, cave or wreck diving, or any other hazardous activity? Yes or no? Not that adventurous, are we?
+[24 minutes 55 seconds][Customer] : No, no, no. Yeah.
+[25 minutes 1 seconds][Agent] : So I'm just gonna save your answers here. Penny, are you happy with all the answers you've provided me with today?
+[25 minutes 7 seconds][Customer] : Yes, yes, yes.
+[25 minutes 8 seconds][Agent] : Excellent. Perfect. Well, you've done so well. It says you're very healthy there, Penny.
+[25 minutes 15 seconds][Customer] : Thank you very much.
+[25 minutes 16 seconds][Agent] : Yeah, you do. Not a lot of people can get approved for these particular applications. So well done.
+[25 minutes 22 seconds][Customer] : Thank you for your help. Yeah.
+[25 minutes 21 seconds][Agent] : You've actually been approved there today, So what I can do now is go ahead and get you immediately covered over the phone and I'll send you all your tailored policy documents out to have a good read through. Now just so you know, the policy does give you a 30 day cooling off.
+[25 minutes 35 seconds][Customer] : Thank you. Yeah, Yeah. OK.
+[25 minutes 41 seconds][Agent] : So if you decide the policy isn't suitable or you're not happy with it, give us a call within the 30 days and cancel and you will receive a full refund of your premiums unless the claim has been made.
+[25 minutes 53 seconds][Customer] : But I.
+[25 minutes 54 seconds][Agent] : So Penny, let's confirm your details and get some cover sorted for you. So I'm just gonna confirm everything I've got on the profile and you let me know if it's correct.
+[26 minutes 6 seconds][Customer] : Yep.
+[26 minutes 4 seconds][Agent] : OK, so I've got your full name, here is Mr. Penny Tua, Date of birth is the second of the 1st 1960. I have you listed as a male Australian resident. I've got your address here is 7 Gordon Court, Glenroy Victoria 3046 and that's the same as your postal address. And I've got your phone number here is 0433660293. Is that all correct?
+[26 minutes 34 seconds][Customer] : You want to put my wife's number 2?
+[26 minutes 38 seconds][Agent] : Umm, I I can leave it as just your number, it's up to you.
+[26 minutes 43 seconds][Customer] : Yeah. Because sometimes if you call my my wife because we put together me and my wife in a living room, Sir.
+[26 minutes 52 seconds][Agent] : OK, so just so you know, they're Penny. So the cover we've gone through this for life insurance. That's just for yourself.
+[26 minutes 59 seconds][Customer] : Oh, yeah. Number.
+[26 minutes 59 seconds][Agent] : But in in order to get cover for your wife as well, I would need to go through the questions with her as well. I can, I can make it together, but it would need to be, I would need to go through the questions with her and explain the cover to her too.
+[27 minutes][Customer] : Uh, OK, he can't make things to care of me and my wife still just now OK to do that.
+[27 minutes 21 seconds][Agent] : Yeah.
+[27 minutes 18 seconds][Customer] : He's here now if you want to do this one as well or if you want he's here.
+[27 minutes 22 seconds][Agent] : Yeah, we can. We can do that. So let me do a quote up for her as well.
+[27 minutes 23 seconds][Customer] : Yeah, yeah he's here now. Yeah. I need make to get a me and my wife for the insurance.
+[27 minutes 33 seconds][Agent] : Perfect. Yeah.
+[27 minutes 32 seconds][Customer] : She alright, can talk to her now. What?
+[27 minutes 34 seconds][Agent] : So let me change that to a All right. So I just need your wife's first name, please.
+[27 minutes 44 seconds][Customer] : Yeah. Tell your name.
+[27 minutes 50 seconds][Agent] : So sorry to Leela. Please note or please all our calls are recorded. Any advice you're providing is general in nature and may not be suitable to your situation. So how do I spell your first name there? Yep.
+[27 minutes 45 seconds][Customer] : Yeah, it's Talla TALILA and it's TAUA FAL.
+[28 minutes 9 seconds][Agent] : So it's TAUASAL.
+[28 minutes 18 seconds][Customer] : Yeah, Incorporate.
+[28 minutes 21 seconds][Agent] : Yep, that's your last name.
+[28 minutes 21 seconds][Customer] : Oh yeah.
+[28 minutes 22 seconds][Agent] : Is it perfect? And Talila, what's your date of birth?
+[28 minutes 30 seconds][Customer] : O2 or 22nd of January 61.
+[28 minutes 37 seconds][Agent] : Perfect, and can I confirm that you are a female Australian resident? Your birthdays are very close together. Oh really?
+[28 minutes 41 seconds][Customer] : Yes, Yeah, my son is on the 1st and then yeah and Ben is the 2nd and me on the 2nd.
+[28 minutes 54 seconds][Agent] : Oh well, I've got a lot of family born in January as well. I've got my mum on the 1st, my uncle on the 10th and my sister's on the 20th.
+[29 minutes 2 seconds][Customer] : Oh, that's a good month for birthday.
+[29 minutes 11 seconds][Agent] : I know it seems that way. Alright, perfect. So I'm just adding your details in here to Lila. I'll go through the pricing with you both there, so you know what the pricing would be for yourself as well. Now I do need to ask you, have you had a cigarette in the last 12 months, yes or no? Perfect. And are we looking at $100,000 of cover for you as well?
+[29 minutes 20 seconds][Customer] : Yeah, no, yeah, yes, I lost.
+[29 minutes 42 seconds][Agent] : Yep, perfect. So just so you know the range of cover we can look at for you is between 100,000 up to 300,000 there.
+[29 minutes 56 seconds][Customer] : Yeah, yeah, 5050.
+[29 minutes 52 seconds][Agent] : Now, if we were to look at $100,000 of cover there for you to Lila that what your one is $52.03 per fortnight, $52.03 per fortnight.
+[30 minutes 7 seconds][Customer] : So why is it different for my?
+[30 minutes 10 seconds][Agent] : So there can be a number of factors that play umm in when the we went to the pricing for this. So it can be based on age and gender at the time of application there as well.
+[30 minutes 10 seconds][Customer] : Yeah, right.
+[30 minutes 21 seconds][Agent] : And it's also based on the outcome of the health and lifestyle questions.
+[30 minutes 24 seconds][Customer] : OK.
+[30 minutes 25 seconds][Agent] : Yeah. So all lamps will cover for $100,000 for each of you. It would be $127.40 for Fortnite. Yeah. Now I do wanna let you know as well. So Tulala, I just need to go through the cover with you.
+[30 minutes 35 seconds][Customer] : Yeah, yeah, yeah.
+[30 minutes 43 seconds][Agent] : So I'll just touch on the key points and we'll go through the health and lifestyle questions. Now, umm, I do need to let you know if you are accepted and want to decide to commence the policy, you will be covered immediately for just due to any cause. The only thing not covered is suicide in the 1st 13 months. We also have that terminally ill advanced payment included in the cover. So if you were diagnosed with 12 months or less to live by a medical practitioner, we can pay that money out to you in full while you're still alive.
+[30 minutes 57 seconds][Customer] : Yeah, yeah, OK, alright.
+[31 minutes 18 seconds][Agent] : You can use that money then, however you need to use it now. We also include a $10,000 advance payment for your loved ones there to help with funeral costs if anything could have suddenly happened to you while we're processing the claim for them.
+[31 minutes 34 seconds][Customer] : OK.
+[31 minutes 35 seconds][Agent] : OK, now I do need to let you know as well. Your premium is stepped, which means it will generally increase each year as your age. So in addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% with associated increases in premium.
+[31 minutes 36 seconds][Customer] : Yeah, Yeah, OK.
+[31 minutes 55 seconds][Agent] : Now you can opt out of this automatic indexation each year. So I'll give you an idea of this pricing there for the both of you all together. So as an indication, if you make no changes to the policy, your premium next year will be $153.37 per fortnight. So you can also find information about our premium structure on our website. Perfect. So Telena, do you have any questions there for me so far? Mm hmm.
+[32 minutes 13 seconds][Customer] : Yeah, no. So if something happened to one of us, umm, are you allowed your daughter or your son to?
+[32 minutes 36 seconds][Agent] : Yeah, most definitely. So how it works, you would nominate your beneficiaries. So if it's a joint policy, so because it's a joint policy here and your husband Penny would be the main policy owner there.
+[32 minutes 50 seconds][Customer] : Yeah, yeah.
+[32 minutes 50 seconds][Agent] : So if anything could have happened to you, he automatically, he's automatically your beneficiary. So he can claim the money there for you. Now Penny would need to nominate his beneficiaries there so he can nominate you or he can nominate, umm, one of the children. He can nominate up to five people though.
+[33 minutes 10 seconds][Customer] : OK.
+[33 minutes 10 seconds][Agent] : OK, sorry.
+[33 minutes 11 seconds][Customer] : Yeah, so do they pay six or five or is it just my mom is automatically my dad? Oh, OK.
+[33 minutes 20 seconds][Agent] : So your mum's automatically your dad, so your dad can nominate up to five people there, Yeah. Does anyone have any questions in regards to that?
+[33 minutes 31 seconds][Customer] : No, it's just me. No.
+[33 minutes 37 seconds][Agent] : Sorry.
+[33 minutes 37 seconds][Customer] : Well, yeah, I'll just continue with me and then we ask chapter.
+[33 minutes 44 seconds][Agent] : Alright, well let's go through those health and lifestyle questions there to Leila and see if we can get cover for yourself as well. Now I'm gonna read you, umm, a pre underwriting disclosure as well. So it's just about your duty of care while answering the question to you today.
+[34 minutes][Customer] : Yeah, yeah.
+[34 minutes 2 seconds][Agent] : So to Leila also before we proceed I need to confirm that you understand that proceeding under a joint application, any personal information we are holding on you will be available to Penny to us and this includes the answers to your health and lifestyle questions. Are you happy to proceed? Perfect. Now this is our pre underwriting disclosure here. So please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other Australian service providers for the purpose of administering your policy or handling claims.
+[34 minutes 48 seconds][Customer] : Hey.
+[34 minutes 45 seconds][Agent] : Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. So, Leila, do you understand and agree to your duty, yes or no? Thank you.
+[35 minutes 32 seconds][Customer] : Yes, Yeah.
+[35 minutes 34 seconds][Agent] : Now, when I go through the health and lifestyle questions with you there, I just need a clear yes or no to each question unless otherwise specified. Now, if you're not sure of a question I ask you, just let me know and I'm more than happy to clarify for you.
+[35 minutes 48 seconds][Customer] : OK.
+[35 minutes 49 seconds][Agent] : All right, So first question here is a COVID question. So, have you been hospitalized for COVID-19 in the last six months? Or have you been diagnosed with COVID-19 in the last seven days? Yes or no?
+[36 minutes 2 seconds][Customer] : No.
+[36 minutes 4 seconds][Agent] : Perfect. And are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia, yes or no? Does your work require you to go underground, work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore? Yes or no. The next section is in relation to height and weight. Please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to add to any approximate figures, words, or height and weight ranges.
+[36 minutes 13 seconds][Customer] : Yes, no 160.
+[36 minutes 49 seconds][Agent] : So Talila, what is your exact height 160 centimeters? And what is your exact weight?
+[36 minutes 57 seconds][Customer] : Yeah, like 87.
+[37 minutes 4 seconds][Agent] : Is that what you were last time you weighed yourself? Yeah. Perfect.
+[37 minutes 6 seconds][Customer] : Yeah, 95.
+[37 minutes 10 seconds][Agent] : Sorry.
+[37 minutes 10 seconds][Customer] : It, it was 95 before, now it's 87.
+[37 minutes 15 seconds][Agent] : Oh, lovely. That would have been a nice surprise.
+[37 minutes 18 seconds][Customer] : Yes.
+[37 minutes 20 seconds][Agent] : Now I'll just reconfirm that. So for your height, I've got 160 centimeters, and for your weight, I've got 87 kilos. Is that all correct?
+[37 minutes 25 seconds][Customer] : Yeah, that's right.
+[37 minutes 31 seconds][Agent] : Perfect. And I just asked you, have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months? Yes or no? Yes. So that was unexplained, was it? You're not sure why you lost the weight? Yeah.
+[37 minutes 41 seconds][Customer] : Yes, Yeah, yeah.
+[37 minutes 51 seconds][Agent] : So you hadn't been dieting or anything like that to lose it or?
+[37 minutes 56 seconds][Customer] : Oh, probably working too hard, working too much.
+[38 minutes 4 seconds][Agent] : OK, so umm, so you if it's unexplained, it means you don't know why you lost it, is that right? OK, so just for that question there where it says have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months? You're happy to answer yes for that one. Perfect. And I just asked, how much weight have you lost?
+[38 minutes 11 seconds][Customer] : Yeah, that's yeah, I've been been here. Oh.
+[38 minutes 36 seconds][Agent] : 10 kilos. And did you consult a health professional regarding your weight loss? No. Oh, OK.
+[38 minutes 45 seconds][Customer] : No 'cause they always put on take it off, that's why.
+[38 minutes 51 seconds][Agent] : So you normally fluctuate a fair bit, do you? Are they no weight? OK, So what does your weight normally fluctuate between? What's the highest and lowest that it normally goes between? Yeah, 85 up to what, 95 kilos there. 85 to 90 kilos.
+[39 minutes 17 seconds][Customer] : Between I always on 80 something 80 yeah around 808590 yeah 9085 to 90 yeah MMM between the number.
+[39 minutes 45 seconds][Agent] : OK, OK, so so you're normally between 85 to 90 kilos.
+[39 minutes 54 seconds][Customer] : MMM.
+[39 minutes 54 seconds][Agent] : So that's not that's not ten kilos there.
+[40 minutes 7 seconds][Customer] : MMM, I think so.
+[39 minutes 57 seconds][Agent] : Umm, sorry, has it been umm, more than 5 kilos that you've lost or more or less than 5 kilos?
+[40 minutes 11 seconds][Customer] : That's right. Yeah. MMM. That's 5 below.
+[40 minutes 18 seconds][Agent] : So it's just the 5 kilos that you normally fluctuate between.
+[40 minutes 20 seconds][Customer] : Yeah, Yeah. Between. Yeah. No.
+[40 minutes 24 seconds][Agent] : OK, well, if it's, umm, not more than 5 kilos, we can actually answer a noise for that one for you then.
+[40 minutes 32 seconds][Customer] : OK.
+[40 minutes 33 seconds][Agent] : Yeah.
+[40 minutes 34 seconds][Customer] : Yeah.
+[40 minutes 36 seconds][Agent] : All right, so where it says here, have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months? That would be a no. Is that right? Yep. Yeah. Because we just allow for that weight, that fluctuation there. So if it's only 5 kilos, that's OK.
+[40 minutes 46 seconds][Customer] : Oh yeah, yeah.
+[40 minutes 55 seconds][Agent] : Perfect. Now, to the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes a yes or no? And do you have definite plans to travel or reside outside of Australia, for example, booked or will be booking travel within the next 12 months, yes or no? And do you have existing life insurance policies with other life insurance companies with the combined total sum assured of more than $5 billion? Yes or no?
+[41 minutes 4 seconds][Customer] : No, no, no, no, no.
+[41 minutes 36 seconds][Agent] : So the next part is just in regards to your medical history. So this is a long part of the application.
+[41 minutes 41 seconds][Customer] : Yep.
+[41 minutes 42 seconds][Agent] : So Talila, have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma or leukemia, yes or no? Have you ever had an abnormal cervical smear? Yes or no. Stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure? Yes or no. High cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting. Yes or no.
+[41 minutes 58 seconds][Customer] : No, no, no, no.
+[42 minutes 29 seconds][Agent] : Diabetes, Raised blood sugar, impaired glucose tolerance, or impaired fasting glucose. Yes or no? Yeah. So we'll pop a yes for that.
+[42 minutes 36 seconds][Customer] : I had diabetes, but yeah, but I went to check. It's normal now.
+[42 minutes 49 seconds][Agent] : Yeah. Was it type one or type 2 diabetes? OK, so we can pop a yes for that one there. And it just said here, have you had any complications of your diabetes, including the following diabetic coma, neuropathy, kidney disease, excluding kidney stones, retinopathy or vascular disease, yes or no? Mm hmm, yes, I you've had kidney stones before, is that right? That's alright. We'll capture all that in there for you now. And your doctor definitely said it was diabetes that you had. Yeah. OK. And umm, so you haven't had any of those other complications that I mentioned there. OK. So now to Leila, just so you know, based on your answer, cover would not normally be available. We may be able to offer cover if we're able to access electronic health records.
+[42 minutes 47 seconds][Customer] : It's no diabetes type 1, I think, uh, I had the umm, stone removed before before a long time, but it's not the diabetes ghost before a long time, Yeah, yes, no, yeah.
+[44 minutes 7 seconds][Agent] : Now to do this, we would need to complete the rest of the health and lifestyle questions and our insurer would then contact you to obtain your consent to access your electronic health records from your doctor. Now, Tolila, would you like to continue and see if you're eligible?
+[44 minutes 20 seconds][Customer] : OK, Yep.
+[44 minutes 25 seconds][Agent] : Yeah, perfect. Now I'm gonna grab some details off you for your from your doctor. Now just in regards to the diabetes, have you seen your GP in the last 12 months for this condition, Yes or no?
+[44 minutes 37 seconds][Customer] : Yes.
+[44 minutes 38 seconds][Agent] : Yes, perfect. And it's going to search up your GP's details here. So what's your do you know your doctor's name?
+[44 minutes 52 seconds][Customer] : Doctor Bank, Doctor Bank PAIG.
+[44 minutes 54 seconds][Agent] : Sorry, how do I spell that pink? Perfect. And what's the Health Center that you normally go to? Hillcrest. So is it Hillcrest Health Center? Umm, where is that bank? Is that correct?
+[45 minutes 19 seconds][Customer] : Yeah, yes, that's right.
+[45 minutes 24 seconds][Agent] : Perfect. Alright, so I'll just pop these details in here, alright? And umm, I just need to grab some details off you so our underwriters can talk contact you to get your consent to speak to your doctor. So what is the best contact number there for you, Talila? Mm. Hmm, yeah, I think the phone just cut out there. Could you just repeat that for me?
+[45 minutes 50 seconds][Customer] : 0449 71663 0449716163.
+[46 minutes 4 seconds][Agent] : Mm hmm perfect, thank you. And do you have an e-mail address that they can contact you on as well or not?
+[46 minutes 17 seconds][Customer] : His name dot lastname@gmail.com.
+[46 minutes 33 seconds][Agent] : Perfect, so I've got first name talila.isittalsal@gmail.com.
+[46 minutes 37 seconds][Customer] : Yeah, yeah, it's all right.
+[46 minutes 42 seconds][Agent] : Sorry if I say that incorrectly, I'm terrible at pronouncing names at the best of times. Now, when's the best time to give you a? When would be the best time for them to give you a call there Talila? Would it be the morning? Afternoon.
+[46 minutes 44 seconds][Customer] : It's all. Do you stay anything on Tuesday?
+[46 minutes 56 seconds][Agent] : Do the preferred time of day any time on Thursdays. Umm, how about any other day of the week? Oh, OK, so Thursdays is your only day off.
+[47 minutes 13 seconds][Customer] : Because I'm working a day.
+[47 minutes 21 seconds][Agent] : OK, I just put popped a note there. So I just said Thursdays any time you work other days. All right, so we'll continue, umm, with that application there with the rest of the questions, and I'll have to send that one off to umm, our underwriter so they can get in contact with you and sort that one out. Now the next question here is hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. Yes or no?
+[47 minutes 42 seconds][Customer] : Yeah, no.
+[47 minutes 56 seconds][Agent] : Epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Yes or no? Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no. Any illegal drug use, abusive prescription medication or receive medical advice or counseling for alcohol consumption? Yes or no. Disorder of the kidney or bladder? Yes or no.
+[48 minutes 4 seconds][Customer] : No, no, no, no.
+[48 minutes 30 seconds][Agent] : So you mentioned before you had kidney stones previously, is that correct?
+[48 minutes 34 seconds][Customer] : Yes.
+[48 minutes 35 seconds][Agent] : Yeah, perfect. Just have a look here where I need to disclose that. All right, so perfect. So I'm going to answer yes for that one for you. And it just says based on your response, please answer yes or no for each of the following. So it says letter or urinary tract disorder, yes or no?
+[48 minutes 56 seconds][Customer] : Yes, yes. Is it for the kidney one?
+[48 minutes 58 seconds][Agent] : Yes, no. So the next question down is kidney disease or disorder.
+[49 minutes 4 seconds][Customer] : No, no.
+[49 minutes 5 seconds][Agent] : So we can answer yes for that. So the bladder or urinary tract disorder, we can answer no for that one.
+[49 minutes 11 seconds][Customer] : Oh yeah.
+[49 minutes 12 seconds][Agent] : Perfect. Now, umm, kidneys disease or disorder. I've answered a yes and it just says here was your kidney condition limited to kidney stones and have these been passed or treated? Yes or no? Yep. So kidney stones have passed or treated.
+[49 minutes 27 seconds][Customer] : Yes, Yeah.
+[49 minutes 34 seconds][Agent] : Perfect. So the next question here is just what disorder or disease, yes or no? And next one, asthma or other respiratory disorder excluding childhood asthma, yes or no? OK.
+[49 minutes 40 seconds][Customer] : No, no.
+[49 minutes 53 seconds][Agent] : And so the next one's a bit of a long question, so let me know if you want me to repeat it. So other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Yes or no? And other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Yes or no? Perfect. And the next part, just in regards to your family history. So to the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, all familial adenomatous polyposis, yes or no? And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60? Yes or no?
+[50 minutes 17 seconds][Customer] : No, no, no, no.
+[51 minutes 9 seconds][Agent] : The next one here, the final question, you've done so well. So other than one off events gift certificate slash couches, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering up sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity, Yes or no? Perfect. So that's the end of our questions there, Tulila. Now I just need to read, umm, a bit of a declaration here to you. So it just right here. You have agreed to establish cover as part of a joint policy and you will not have any rights to make changes to this policy unless you were granted access by the owner of this policy.
+[51 minutes 36 seconds][Customer] : No, Yeah, yeah.
+[52 minutes 1 seconds][Agent] : Now you will continue to have the right to access your personal information. The name of the insurer your cover is sorry. The name of the insurer of your cover is Head of the Library of Australasia Ltd, whom we will refer to as Hanover. Hanover has an A agreement with Greenstein Financial Services tomorrow, referred to as GFS, to issue and arrange this insurance on its behalf. You can obtain more information on GFS in the Financial Services Guide which we will be issuing to the owner of this policy. We will be sending information about the policy, including the answers you provided as part of your application for cover to the owner of this policy of the policy. Please take some time to read this information and if any information is incorrect, please contact us as soon as possible. So Paula, can you please confirm you understand this yes or no? And I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty, yes or no? Perfect. So you agree and understand with the declaration I've just read to you. Perfect. So just saving that there now and you're happy with all the answers you provided me with today. Perfect. Alright, so now I've now I've got your one all done here. Now I do need to let you both know that the application does need to be referred there.
+[52 minutes 52 seconds][Customer] : Yes, yes, yes, yes, yeah, yeah.
+[53 minutes 32 seconds][Agent] : Umm so in reference to your health and lifestyle answers there to Lila, your application needs to be referred to the underwriter for assessment and I will contact you to arrange the a consent form that will be used to gain access to the electronic health records. This form needs to be completed in order for the application to progress. Are you happy to proceed? Yes or no? Yeah. And while your application is being assessed, you will be covered for accidental death, which pays out if death was due to a direct result of an accident. Cover under this last until the insurer makes a decision on your application or 30 days from today, whichever is earlier.
+[53 minutes 53 seconds][Customer] : Yes, Yeah.
+[54 minutes 12 seconds][Agent] : Please note that if your application is successful, your cover will not start until you agree to be covered.
+[54 minutes 17 seconds][Customer] : OK. Yeah, yeah.
+[54 minutes 19 seconds][Agent] : OK, now I will contact you as soon as, umm, we do have an outcome from that there now, umm, just in regards to both of your policies there. Umm Penny, your one is approved. I can get you covered today while I refer to Lila's one off or I can refer them both together and we can wait for the outcome for them together. What would you prefer to do today? It's not gonna make a difference in the pricing. They're just so you're aware.
+[54 minutes 48 seconds][Customer] : Oh yeah, I think oh, OK, wait, wait until I get through and do it together.
+[55 minutes 5 seconds][Agent] : Yeah, perfect. Alright, so let me get this referred off. Umm, bear with me for one second.
+[55 minutes 20 seconds][Customer] : And I'm waiting for my approve.
+[55 minutes 22 seconds][Agent] : Yeah, of course we can do that. Bear with me for one second. Alright, let me get this sorted. Alright. Yeah.
+[55 minutes 55 seconds][Customer] : Just a question, So with mum diabetes, because it was so long ago, if, if, if you do get in contact with Doctor Bay, health records will always be the same regardless of doctor because, you know.
+[56 minutes 12 seconds][Agent] : Mm, hmm. So one of the questions was before we went into that was just asking if she's had a check up in regards to the diabetes in the last 12 months, umm, and she answered a yes to that one. That's why we're able to put those doctors details down. So it's just umm, they'll probably be checking up to see how it's all how it's all is now.
+[56 minutes 11 seconds][Customer] : Oh, OK. Yeah. Oh, yes. You've cleared up all that then. It's as easy as that.
+[56 minutes 34 seconds][Agent] : Yes, umm, So it can take a little while to come back. Umm, so it's just a matter of we've just gotta wait for our underwriters to get back and send me the outcome of that application there.
+[56 minutes 51 seconds][Customer] : Oh, OK.
+[56 minutes 53 seconds][Agent] : Yeah. So I'm just jumping into this here, so bear with me for a second while I just set this up.
+[57 minutes][Customer] : Yep.
+[56 minutes 59 seconds][Agent] : Umm, and we'll be able to look at getting, umm, Penny covered there today.
+[57 minutes 4 seconds][Customer] : Yep.
+[57 minutes 4 seconds][Agent] : So I'm just gonna pop you all on hold and I won't be too long.
+[57 minutes 7 seconds][Customer] : Yeah.
+[57 minutes 7 seconds][Agent] : Thank you.
+[57 minutes 8 seconds][Customer] : OK. Thank you.
+[1 hours 22 seconds][Agent] : OK, thank you so much for holding there for me.
+[1 hours 25 seconds][Customer] : It's OK.
+[1 hours 26 seconds][Agent] : Alright, so let's go ahead and get that cover sorted for Penny today. So Penny, I'm just gonna have to confirm all of his details with him there. Is he still available there?
+[1 hours 49 seconds][Customer] : Would there be any reason why my mum wouldn't be approved with the application in terms of her diabetes? Like what would be the Rea?
+[1 hours 50 seconds][Agent] : Yeah, of course, I can't say yes or no just because it does come down to the underwriters decision there.
+[1 hours 1 minutes][Customer] : That's all good, thank you.
+[1 hours 1 minutes 10 seconds][Agent] : Yeah.
+[1 hours 1 minutes 12 seconds][Customer] : Hello.
+[1 hours 1 minutes 10 seconds][Agent] : So I'm very sorry I can't answer that one for you. Hi, Penny, please. All our calls are recorded now. I'm just going to confirm all of the details here, Penny, and we'll get your cover in place for you. So I've got your full name here as Mr. Penny Tour date of birth is the second of the 1st 1960. I have you listed as a male Australian residence. Your address is 7 Gordon uh Court, Glenaroy, Victoria 3046 and that's the same as your postal address. And I've got your phone number here is 0433660293. Is that all correct?
+[1 hours 1 minutes 50 seconds][Customer] : Oh great, that's it.
+[1 hours 1 minutes 51 seconds][Agent] : Yep. And we don't have an e-mail on file for you, is that right? Or did you want me to add an e-mail address there?
+[1 hours 1 minutes 56 seconds][Customer] : I don't have it.
+[1 hours 2 minutes 1 seconds][Agent] : Yep. OK, that's fine. We can leave it with that one. So, umm, let's pop that cover in place. So what I'll need to do here? Umm, can you? Just so you wouldn't know, I'm gonna set the first payment. I'm gonna set the first payment date of your choice.
+[1 hours 2 minutes 14 seconds][Customer] : Yes, yes, yes, yes.
+[1 hours 2 minutes 16 seconds][Agent] : So any time within the next 30 days, I'll grab your banking details and I'm going to read you a declaration and you will be covered after that. OK.
+[1 hours 2 minutes 27 seconds][Customer] : You want to automate automate from my account.
+[1 hours 2 minutes 30 seconds][Agent] : Yeah. So we do it as a direct debit. Umm. So do you have a preferred day you'd like the first payment to come out?
+[1 hours 2 minutes 39 seconds][Customer] : What about the use my my wife altogether? Hang on what's up? Get get my wallet, you know, hang up.
+[1 hours 2 minutes 50 seconds][Agent] : You take your time, it's all good.
+[1 hours 3 minutes 6 seconds][Customer] : I need to open a new you OK, well, you're going to start next month, Start paying next month or this month's going to end anyway. Yeah, maybe the next month, next month.
+[1 hours 3 minutes 26 seconds][Agent] : So I can do it anytime in the next 30 days, just not on the weekends.
+[1 hours 3 minutes 30 seconds][Customer] : Can I come to pay uh in the bank myself?
+[1 hours 3 minutes 34 seconds][Agent] : So we do it all via direct debit using either a card or BSB account number?
+[1 hours 3 minutes 41 seconds][Customer] : Yeah, well, come to buy pay myself.
+[1 hours 3 minutes 46 seconds][Agent] : No, so we don't do it that way. We do it as a direct debit just so we know that the payments.
+[1 hours 3 minutes 43 seconds][Customer] : I wo I wo walk in the bank and put in there because I paid a payment in my car and I always go to bank. You got any book or something that bank book?
+[1 hours 3 minutes 59 seconds][Agent] : No, so we don't do the payment methods that way. I'm sorry there Penny. Umm. The only methods we do have is direct debit from a card or BSP and account number. So we don't have a way that you can physically go in and pay it for yourself each fortnight there.
+[1 hours 4 minutes 15 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[1 hours 4 minutes 17 seconds][Agent] : Yeah. Now, Penny, do you know what date you would like the first payment to come out?
+[1 hours 4 minutes 17 seconds][Customer] : Next month, the 4th of November, that's a Monday.
+[1 hours 4 minutes 27 seconds][Agent] : Yeah. Umm, I'll let you pick the date because I'm the latter pick it for you. I'm very sorry.
+[1 hours 4 minutes 35 seconds][Customer] : Next month, Yeah, every four. Every Monday or every the next the first week for next month. OK, so we'll do the the we'll do every Wednesday. Uh yeah, everyone. Oh, so the 6th of November, please.
+[1 hours 4 minutes 52 seconds][Agent] : OK, so I'll just confirm that, umm, so the 6th of November and every fortnight on a Wednesday, is that right?
+[1 hours 4 minutes 59 seconds][Customer] : Yeah, that would be good. Thank you.
+[1 hours 5 minutes][Agent] : Perfect. And Penny, I'll just confirm because it's coming out of your account. So you're happy with the 6th of November for the first payment date and then the, umm, payments will come out every fortnight afterwards. Is that you're happy with that? Perfect. And that's for your cover there for $100,000 for $75.37 per fortnight.
+[1 hours 5 minutes 13 seconds][Customer] : Yeah, yeah. OK.
+[1 hours 5 minutes 24 seconds][Agent] : OK. And you said you want to pay via card.
+[1 hours 5 minutes 27 seconds][Customer] : Yeah. Buy a car.
+[1 hours 5 minutes 28 seconds][Agent] : Alright, I'm gonna pause the call recording here.
+[1 hours 5 minutes 28 seconds][Customer] : Yeah, yeah.
+[1 hours 5 minutes 31 seconds][Agent] : So for security purposes, while obtaining your card details, the call recording will stop and we'll recommend after we have collected your details. So just pause.
+[1 hours 6 minutes 23 seconds][Customer] : The. The. The.
+[1 hours 7 minutes 41 seconds][Agent] : Excellent. So, Penny, please be advised that the call recording has now resumed for quality and monitoring purposes. So what I'm gonna do here is read you a declaration. I do apologize. It's a little bit lengthy now, Penny, I'm gonna ask you one question halfway through and two questions at the end, and then we'll be all done with your cover. Yours is all set up there for you then. OK, perfect. So I'll start that now. So thank you Penny Tour. It is important to understand the following information.
+[1 hours 8 minutes 3 seconds][Customer] : Yep, no worries.
+[1 hours 8 minutes 11 seconds][Agent] : I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Family life cover is issued by Hanover Live free of Australasia Ltd who may refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services tomorrow refer to as GFS Trading as real Insurance issue and arranges insurance on its behalf. Hanover relies upon the accuracy of the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of that you need to take reasonable care that you agreed to Penny.
+[1 hours 9 minutes 4 seconds][Customer] : Yes.
+[1 hours 8 minutes 58 seconds][Agent] : Can you please confirm you have answered all of our questions in accordance with your duty, Yes or no Thank you. We may from time to time provide offers to you by the communication methods you have provided to us in relation to other products and services. By going to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of Penny Tour that saves $100,000 in the event of of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year of cover is $75.37 per fortnight. Your premium is stepped which means it will be calculated age policy anniversary and will generally increase as you age. Your son insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is now payable to GSS of up to 65% the cover cost. Your premium will be debited from your credit card which you are authorized to debit from and have provided to us. The policy documentation, PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. Then you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a. There are risks associated with replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time for contacting us. Full details are available online and in the documentation we are sending you. So Penny, that's the end of the declaration there for you. Do you understand and agree with the declaration yes or no?
+[1 hours 10 minutes 52 seconds][Customer] : Yeah, it's OK. Yeah, Done.
+[1 hours 10 minutes 55 seconds][Agent] : So I just need a clear yes or no there.
+[1 hours 10 minutes 58 seconds][Customer] : Yes.
+[1 hours 10 minutes 59 seconds][Agent] : Thank you. And would you like any other information or would you like me to read any part of the PDS to you, yes or no?
+[1 hours 11 minutes 7 seconds][Customer] : No.
+[1 hours 11 minutes 9 seconds][Agent] : Perfect. OK. So just putting that cover in place there for you, Penny. So you're now covered for $100,000 there of life insurance. So what I'm gonna do is just jump over to your wife's profile now and I just wanna make sure umm, her, umm, everything's referred off correctly there. There's no issues for her.
+[1 hours 11 minutes 34 seconds][Customer] : So that's all good.
+[1 hours 11 minutes 35 seconds][Agent] : So Yep, your dad's all good, he's all sorted. So umm, you'll just need to keep an eye out.
+[1 hours 11 minutes 45 seconds][Customer] : Yeah.
+[1 hours 11 minutes 40 seconds][Agent] : Umm, there'll be policy documents coming in the post in the next 5 business days, but there will be a beneficiary form there for him to fill out.
+[1 hours 11 minutes 58 seconds][Customer] : OK.
+[1 hours 11 minutes 50 seconds][Agent] : Umm, So if there's any dramas filling that out and sending that back to us, just give us a call and we're more than happy to help you fill that out, umm, over the phone and get that all sorted over the phone. There. Now I've just jumped into your mom's profile here. Just wanna make sure everything's set up correctly here.
+[1 hours 12 minutes 5 seconds][Customer] : Thank you very much.
+[1 hours 12 minutes 9 seconds][Agent] : Not a problem, won't be a moment.
+[1 hours 12 minutes 13 seconds][Customer] : Oh oh, what's your question? I need to ask question Yeah.
+[1 hours 12 minutes 22 seconds][Agent] : Yeah, sure. Ask away. Mm Hmm. Yeah.
+[1 hours 12 minutes 20 seconds][Customer] : Oh, he want to ask questions uh, if you know money in a in a bank, my account opportunity to pay later yeah. Thank you.
+[1 hours 12 minutes 32 seconds][Agent] : So if you ever, if you ever say that you're gonna have trouble making the payment, just give us a call and we've got a fantastic support team here who'll be able to help, umm, get that payment date moved there for you so you can fix it up.
+[1 hours 12 minutes 46 seconds][Customer] : No worries. Thank you.
+[1 hours 12 minutes 45 seconds][Agent] : So, yeah, OK, yeah. No, no. So umm, your life insurance application is.
+[1 hours 12 minutes 49 seconds][Customer] : When sometime if you've got operation and in my body or what are you going to get a call or you never know what happens, you know.
+[1 hours 13 minutes 5 seconds][Agent] : So this is based off the time of application. So if anything that does happen down the future where you need an operation or something, you don't need to notify us of that. That's fine.
+[1 hours 13 minutes 15 seconds][Customer] : Thank you very much.
+[1 hours 13 minutes 16 seconds][Agent] : Perfect. Alright, so, Talila, I'm just, umm, sorting out your referral here. I just wanna make sure it's all sent off properly for you.
+[1 hours 13 minutes 26 seconds][Customer] : Yeah.
+[1 hours 13 minutes 27 seconds][Agent] : So just excuse my silence while I just double check yours and make sure everything's right.
+[1 hours 13 minutes 32 seconds][Customer] : Yeah. OK. Yeah, Yes. Are you there?
+[1 hours 13 minutes 40 seconds][Agent] : Is it? Yeah, I'm still here. I'm just double checking all your, umm, answers to make sure everything's referred off properly for you, alright. And I've just gotta read you one more little bit of information and I'll make sure I've got the right number to contact you on and I can let you all go Perfect.
+[1 hours 13 minutes 47 seconds][Customer] : Yep, Yep, Yep.
+[1 hours 13 minutes 59 seconds][Agent] : So I just need to let you know, uh, to Layla, to Layla, umm, If your application is successful, your cover will not start until we discuss the outcome with you and you agree to be covered As part of the assessment, the underwriter may request additional information if that is required. I will contact you on the details you have provided. Now, while the underwriter is assessing the application, you will be covered under the interim accidental death cover.
+[1 hours 14 minutes 27 seconds][Customer] : Yeah.
+[1 hours 14 minutes 28 seconds][Agent] : This will provide a payout of your nominated amount if death was due to a direct result of an accident in accordance with the terms of the PDS. So cover under this is temporary and last until the date the underwriter makes a decision on your application or 30 days from today, whichever is earlier. So I'll just let you know as well once I have been notified of the outcome, I will give you a call straight away. So as soon as they message me and let me know, I'll get in contact with you there. Now I just wanna make sure I've got the right number here for you. Can I just get you to confirm, please, your mobile number for me, please. Mm Hmm. I'll just reconfirm. So I've got 0449716163.
+[1 hours 14 minutes 54 seconds][Customer] : Yeah, 0449716163, Yeah.
+[1 hours 15 minutes 17 seconds][Agent] : Perfect. And what I'm gonna do is I'm gonna set a call back for you for about two weeks time and I'll give you an update where everything is at with that, if they've gotten back to me or not with that. OK, so let me set that call back there for you. So it'll be two weeks from today around the SA. I'll make it around 5:00. Does that work?
+[1 hours 15 minutes 29 seconds][Customer] : Yes, sorry.
+[1 hours 15 minutes 42 seconds][Agent] : If I call back on the 5th of umm, November around 5:00? Would that is that a OK time to contact you?
+[1 hours 15 minutes 50 seconds][Customer] : Yeah, Yeah, yeah, it's alright.
+[1 hours 15 minutes 54 seconds][Agent] : Yep, perfect. If I don't get hold of you that day, umm, I will. I will give you a call. Umm, I'll try you again.
+[1 hours 16 minutes 2 seconds][Customer] : Yeah, OK.
+[1 hours 16 minutes 2 seconds][Agent] : OK, alright, so I just, yeah, I'd like to keep you updated with what's happening with everything.
+[1 hours 16 minutes 8 seconds][Customer] : Yeah, alright.
+[1 hours 16 minutes 9 seconds][Agent] : Perfect. Alright. Do you have any other questions there for me today or anything else I can help you with?
+[1 hours 16 minutes 15 seconds][Customer] : No, I'm. No, it's alright.
+[1 hours 16 minutes 23 seconds][Agent] : Yeah, if you do have any questions while you're going through the documentation when it gets sent out, just give us a call. I'm more than happy to answer any questions you may have to.
+[1 hours 16 minutes 32 seconds][Customer] : Yeah, alright. Thank you.
+[1 hours 16 minutes 34 seconds][Agent] : Perfect. Well, thank you all for your time today.
+[1 hours 16 minutes 39 seconds][Customer] : It's OK. Yeah.
+[1 hours 16 minutes 36 seconds][Agent] : It's been lovely speaking with you and I hope you have a great weekend and I'll speak to you shortly.
+[1 hours 16 minutes 43 seconds][Customer] : Nice to you. Thank you, Godly.
+[1 hours 16 minutes 45 seconds][Agent] : Thanks.
+[1 hours 16 minutes 46 seconds][Customer] : Yeah.
+[1 hours 16 minutes 46 seconds][Agent] : Thank you. Bye.
+[1 hours 16 minutes 47 seconds][Customer] : Bye. Bye.

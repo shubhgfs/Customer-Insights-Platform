@@ -1,0 +1,217 @@
+[11 seconds][Customer] : Hello.
+[13 seconds][Agent] : Good afternoon. Today you're calling from the insurance. How are you?
+[17 seconds][Customer] : Yeah, good. Thank you.
+[19 seconds][Agent] : That's good. I'm following up in regards to the expression of interest you've received online for the funeral insurance. He'll be able to go through the quotes and the information, answer any questions that you might have to spell.
+[18 seconds][Customer] : But yes, sure.
+[31 seconds][Agent] : So just to start off, thank you. Please note all our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. The details here that you've entered online, can I just get you to confirm your name and date of birth?
+[45 seconds][Customer] : Yeah, Misery Sacristan, 5th of the 2nd 74.
+[49 seconds][Agent] : Fantastic, thank you so much. And can I confirm you are an Australian resident?
+[53 seconds][Customer] : Yes.
+[54 seconds][Agent] : Perfect. Thank you. So with what has got you looking into this funeral insurance, we comparing with something you have already so new to your.
+[1 minutes 3 seconds][Customer] : No. Just thought it'd be a good idea just to have it organised.
+[1 minutes 6 seconds][Agent] : Yeah, yeah. Perfect. Let's go through. So I can see you were looking at $15,000 of the funeral insurance. You can choose cover from $3000 up to $15,000 as well. We can definitely start on the top cover for you Sorry with our coverage is designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away. Now they can use the funds not only for funeral expenses but also any other final expenses like unpaid bills. And you can nominate up to five beneficiaries to receive their nominated benefit amounts. Like, have you thought of who you would have as your beneficiaries? Your children? Yeah. Perfect. How many children do you have? 3 Lovely. Any grandchildren? No. As I say, you're 50s. How old are your children?
+[1 minutes 29 seconds][Customer] : Yeah, it would be my children, 3, No 2523 and 21.
+[2 minutes 2 seconds][Agent] : Yep. Oh, perfect. No good ages. All growing up now.
+[2 minutes 7 seconds][Customer] : Yes, they are. Yeah.
+[2 minutes 7 seconds][Agent] : Yep, and now if that is due to an accident route, your chosen benefit amount will triple. And in addition, before the policy anniversary following your 75th birthday, if you were to suffer an accidental series injuries such as quadriplegical paraplegic benefit amount will also be triple. Now I do apologize. I'm just getting I'm being sick and my voice is a little bit funny.
+[2 minutes 30 seconds][Customer] : No, you're right. You're right.
+[2 minutes 30 seconds][Agent] : So thank you. So I do apologize now just to you're so you're aware is well, there are no medical checks of you're an Australian resident aged between 40 and 79. Acceptance is guaranteed.
+[2 minutes 43 seconds][Customer] : OK.
+[2 minutes 44 seconds][Agent] : Now, just so you know, for the 1st 12 months to be covered for that accidental death and accidental series injury, only after the first 12 months to be covered for death due to any cause. In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with 12 months or less to leave by a medical practitioner, we will pay your claim in full to help with things like medical expenses. Now, so I'm just going to bring up a quote on the 15,000. So just a couple of things to note, Ruth, that your premiums are designed to stay the same as you get older. When you reach the age of 85, your premiums will stay. So you'll have nothing more to pay and you'll automatically receive a 25% bonus cover and this will be applied to your benefit amount. You can find information, also find information about our premium structure on our website as well.
+[3 minutes 13 seconds][Customer] : Yes, yes, OK.
+[3 minutes 42 seconds][Agent] : Now the quote here for the 15th, and I'm just getting that one. Did you have any questions for me? Sorry for Ruth. Yeah, Yeah.
+[3 minutes 49 seconds][Customer] : No, you you're explaining it very thoroughly, darling.
+[3 minutes 52 seconds][Agent] : Perfect. Yeah, Yeah.
+[3 minutes 51 seconds][Customer] : So I wouldn't mind some even if you it's 15,000 till even 11,000.
+[3 minutes 58 seconds][Agent] : OK. Yeah, Perfect. We can do that.
+[3 minutes 59 seconds][Customer] : So we can go from Yeah, just to have something.
+[4 minutes 1 seconds][Agent] : Yeah, I'm happy to do as many quotes as you like.
+[4 minutes 4 seconds][Customer] : Yeah, Thank you.
+[4 minutes 4 seconds][Agent] : Yep, that's OK. So it goes from $15,000, we can go down to 11,000. It goes it down in $500 increments as well. So I'll have a look here. All right. Now you're understanding everything as well.
+[4 minutes 13 seconds][Customer] : OK, yes, Yep.
+[4 minutes 18 seconds][Agent] : Yeah, perfect. Do you have any other questions before we go through the quotes?
+[4 minutes 22 seconds][Customer] : No, that's fine.
+[4 minutes 23 seconds][Agent] : Not, not a problem at all.
+[4 minutes 23 seconds][Customer] : My love place, right?
+[4 minutes 24 seconds][Agent] : Perfect. OK, sorry. For $15,000 of the funeral insurance rate with $45,000 of accidental serious injury, you're looking at a fortnightly premium for $31.36.
+[4 minutes 39 seconds][Customer] : Yes, Yep.
+[4 minutes 37 seconds][Agent] : That's for the top cover of the 15,000. So how is that one sounding? Where do you think you want to go from here? Did you want to have a look at? I'm just trying to have a look.
+[4 minutes 47 seconds][Customer] : Yeah, I'll yeah, that's right. I'll have a look and see what.
+[4 minutes 48 seconds][Agent] : So yeah, did you want to go down to like the 14,000?
+[5 minutes 1 seconds][Customer] : 14 and 13 if you don't mind.
+[4 minutes 56 seconds][Agent] : If you want to go down to the 11,000 and say that difference between 11 and 15, Yep, not a problem. Sorry. For 14,000, it's $29.27 per fortnight.
+[5 minutes 11 seconds][Customer] : OK, so it's not much.
+[5 minutes 13 seconds][Agent] : Yeah, not too much difference here. Have you thought about what type of funeral?
+[5 minutes 13 seconds][Customer] : OK, Not quite sure. I'd have to discuss it with the kids.
+[5 minutes 18 seconds][Agent] : I know something we like to think about, but whether it was information or burial, yeah, Yeah, not a problem. So according to the government's Money Smart website, private funerals, they typically customer in the region of $4000 for a basic information up to $15,000 for a more detailed burial service. So just depends on, you know, what you're after for yourself as well. And now did you want to have a look at the 13 or do you want to go a bit further from there?
+[5 minutes 43 seconds][Customer] : Yes, Yeah, no, we'll go for saving them at 12 and it just gives me those options. Shall we?
+[5 minutes 49 seconds][Agent] : All right, so the 13,000 is $27.18 per fortnight.
+[6 minutes 1 seconds][Customer] : And then I'm assuming that in between that the the 13 half and 14 half are sort of pretty much in between those amounts bracket wise. You know, like yeah, OK, so that's the exact and estimate though. That's not a problem.
+[6 minutes 10 seconds][Agent] : Yes, yes, yes. Yeah, of course. Yeah, that's right. Yeah.
+[6 minutes 15 seconds][Customer] : That's why I prefer just go the full amount and then I can just sort of and what was it, 12,000 Gorgeous.
+[6 minutes 21 seconds][Agent] : Yep. So the 12,000 is $25.08 per fortnight.
+[6 minutes 28 seconds][Customer] : Alright, yes.
+[6 minutes 31 seconds][Agent] : No, you get. Yeah. OK.
+[6 minutes 29 seconds][Customer] : And then we'll just cap it there Cos we don't wanna go there.
+[6 minutes 32 seconds][Agent] : Not a problem at all.
+[6 minutes 33 seconds][Customer] : Yeah. I mean, 'cause my mother's tuna cost me a lot of the money.
+[6 minutes 36 seconds][Agent] : OK.
+[6 minutes 36 seconds][Customer] : A lot, lot money.
+[6 minutes 38 seconds][Agent] : Yeah.
+[6 minutes 37 seconds][Customer] : 15 years ago it was, it was 15, nearly 20,000 back then.
+[6 minutes 41 seconds][Agent] : Oh, wow. Yeah, of course.
+[6 minutes 42 seconds][Customer] : So yes, I don't.
+[6 minutes 44 seconds][Agent] : Yeah, yeah, yes, yes.
+[6 minutes 44 seconds][Customer] : Yeah, I'm just trying to be, you know, prepa, just something organised and these. Yeah, I do. It's crazy. So they're the fortnightly payments. Can you do monthly payments on those?
+[6 minutes 50 seconds][Agent] : So you know the cost of obviously, yes, funerals and yeah, yeah, yes, yeah. We you can do either fortnightly, monthly or you can do it annually as well.
+[7 minutes 4 seconds][Customer] : OK.
+[7 minutes 4 seconds][Agent] : So doesn't make the price difference here.
+[7 minutes 5 seconds][Customer] : Can I have the so as as far as monthly, is it just the 3136 * 2 and that's gives you a monthly or is it less than that?
+[7 minutes 11 seconds][Agent] : Yeah, it it doesn't work out like that. So I'm like I said, it doesn't make a difference over the umm, over the year.
+[7 minutes 19 seconds][Customer] : OK, Yep. Yeah, I think it comes that more expensive. Yeah, it's more that you pay more.
+[7 minutes 23 seconds][Agent] : Umm, but I'll tell you what it would be so I because there's not exactly yes, there's not Yeah, well, you don't pay more over the year. Umm, it does it does sound like it's a little bit more because you're not exactly just times in it by the two, but it does work.
+[7 minutes 33 seconds][Customer] : No, Yes, yeah, no, that's it.
+[7 minutes 38 seconds][Agent] : That is not exactly obviously, you know, 4 weeks and every month and because it's the 26 weeks and a fortnight. So if you go to I'll let you know the 15,000, sorry, that one would be for the month $67.94.
+[7 minutes 44 seconds][Customer] : Yes, yes, 6794. And what would it be? Yearly does anything it might be worth just paying yearly.
+[8 minutes][Agent] : Yeah, Yep. So if you go you like I said, it works out to be the same over the year. It just depends on the frequency that you prefer to pay. Sorry, it's $815.25 for the 15,000.
+[8 minutes 17 seconds][Customer] : OK then.
+[8 minutes 18 seconds][Agent] : That's for the year.
+[8 minutes 18 seconds][Customer] : Alright then. Awesome. Alright then.
+[8 minutes 22 seconds][Agent] : Now the the cover also you provide you with an early cash out option. So anytime after you've reached 85 years of age, you can choose to end your cover and we'll pay you 75% of the funeral insurance benefits. And then we provide you with a free online legal will valued at $160.00 with a policy and also a complimentary subscription of Australian Seniors Day magazine as well.
+[8 minutes 22 seconds][Customer] : So yeah, OK, OK then. Alrighty. Alright.
+[8 minutes 48 seconds][Agent] : So we include those As for you now. All right, let me just bring it up, sorry. And so we provide you with a the real reward. So following your first policy and the first rebate, we'll refund you 10% of the premiums you paid in that time. So that's what we offer here. So you get $81.53 back for the real reward there as well. So that's included. The Day magazine, that one's not included. It's the real, the real reward that we have here for you.
+[9 minutes 12 seconds][Customer] : OK then, OK, OK, fantastic. Alright, yes. Well, what I wanna do is that do you get, do you, can you send in like emails out with information regarding everything that we've discussed or not?
+[9 minutes 29 seconds][Agent] : Yeah, we we send the information out to you.
+[9 minutes 32 seconds][Customer] : Yes.
+[9 minutes 32 seconds][Agent] : So what we're able to do.
+[9 minutes 39 seconds][Customer] : No, no, that's sounding pretty good.
+[9 minutes 34 seconds][Agent] : So how was that with the 15,000 sounding suitable or was there another like what's the 15,000? Yeah. A month.
+[9 minutes 43 seconds][Customer] : Yeah, because if it's yeah, it is 6794 a month, so it's not too bad.
+[9 minutes 48 seconds][Agent] : Yeah, Yeah.
+[9 minutes 50 seconds][Customer] : But I'm just thinking might even be cheaper just to pay the 3136 at fortnight by the look of it.
+[10 minutes][Agent] : Yeah.
+[10 minutes 2 seconds][Customer] : Doesn't make a difference.
+[10 minutes 1 seconds][Agent] : So like I said, it doesn't make a difference whether it's fortnightly monthly or not or or annually.
+[10 minutes 4 seconds][Customer] : Nah, whatever it is, it's just more, it's more affordable.
+[10 minutes 5 seconds][Agent] : I know it sounds, I know it sounds like it's more over the month, but when you work it out, when you work it out over the the year, it works out to be the same. So it really just depends if it's, if you have any, like any payment coming out on a certain day, for example, if it's on, you know, like umm, say I'm just going to give you an example on a Wednesday to come out every four and on a Wednesday.
+[10 minutes 12 seconds][Customer] : Yeah, same time, yeah, Yeah, OK, yes.
+[10 minutes 24 seconds][Agent] : So if you get paid on a certain day, you always get certain pays go in, then we can work it out.
+[10 minutes 29 seconds][Customer] : So just deduct it stuff on that day.
+[10 minutes 30 seconds][Agent] : Yeah, yeah, that's exactly right. Yeah, yeah.
+[10 minutes 33 seconds][Customer] : So what was the 14,000 yearly amount like?
+[10 minutes 36 seconds][Agent] : Yep. So they 14,000 the yearly amount for that one, that one $760.90.
+[10 minutes 51 seconds][Customer] : Alright, OK, OK, OK, alright. I'm just trying to work out what? No, no, I'm just alright. It's never might do Cos I wanna discuss a few things with the kids with it all. They'll wanna see what their preference is as far as would they prefer to cremate or Berry 'cause I'll be there. So that doesn't make a difference. So without being rude, I don't really.
+[10 minutes 57 seconds][Agent] : Yeah, not too much difference between Yes, of course. Yes, Yeah. Yeah.
+[11 minutes 28 seconds][Customer] : It's more as the the factor of what they would prefer, you know, do they want to cremate so they can divide the ashes up and do what they would like to do with them or if it's, you know, they all do, they wanna. I'm very, very logic thinking.
+[11 minutes 45 seconds][Agent] : Yeah.
+[11 minutes 45 seconds][Customer] : So I might sound a bit morbid.
+[11 minutes 47 seconds][Agent] : No, no, that's it.
+[11 minutes 48 seconds][Customer] : I'm not. It's just after going to that experience with my mum, it's very, I'd just like to because then there's always a discrepancy that I have with the siblings and someone to do this, someone to do that. And I was like, you know what, I just followed mum's instructions.
+[11 minutes 48 seconds][Agent] : Yeah, yeah, yeah, yeah, of course.
+[12 minutes 4 seconds][Customer] : And So what I wanna do is discuss it, sit down with the kids and I wanna discuss it with them and then we can base it of how they feel and then I can go ahead. I mean, for the 15,000, it's not much anyway for the year. So if they feel comfortable with the fact that they may wanna do a burial, at least if I have that insurance in place, then it's available to them.
+[12 minutes 18 seconds][Agent] : Yeah, yeah, of course.
+[12 minutes 29 seconds][Customer] : So yeah.
+[12 minutes 30 seconds][Agent] : And it's not something you need to if you decide on the 15,000.
+[12 minutes 33 seconds][Customer] : OK. Yeah, yeah.
+[12 minutes 32 seconds][Agent] : So something you need to decide straight away whether you want a cremation or, you know, or a barrier is more when it comes to claims time. And the money will go to your beneficiaries. And then. Yeah. And then they're able to organize your funeral costs could be for unpaid bills, just whatever is going to make that time a bit easier there as well. And then, yeah.
+[12 minutes 41 seconds][Customer] : To the kids, yes yes, well, that's that's yeah, sorry. Go ahead.
+[12 minutes 51 seconds][Agent] : And, and then, no, that's OK. I was going to say. And that that's, you know, there's money left over there as well. If you decide, you know, to decommade, it ends up being less than they can do whatever they like with that remaining money as well. So then it's completely, completely up to them. Yeah.
+[13 minutes 2 seconds][Customer] : OK, it's up to them Alright then.
+[13 minutes 5 seconds][Agent] : Yeah, that's right. Yeah.
+[13 minutes 5 seconds][Customer] : Well, I might, I think this is something I need to put forward. Some are O open to hearing about it. The others, like we don't want to discuss it. I might.
+[13 minutes 12 seconds][Agent] : Yeah, of course. Yeah.
+[13 minutes 12 seconds][Customer] : Well, it's important too because you just never know.
+[13 minutes 15 seconds][Agent] : Especially at the ages they are as well.
+[13 minutes 17 seconds][Customer] : Well, exactly. And like for me, I'm very illogic and you just never know what can happen. So. Well, I've charged so many curveballs that year that. Yes, so.
+[13 minutes 18 seconds][Agent] : Yeah, yeah, yeah, of course. Yeah, that's exactly right.
+[13 minutes 27 seconds][Customer] : And my mum was not much older than me, so I want to.
+[13 minutes 30 seconds][Agent] : Oh, wow. Yeah.
+[13 minutes 32 seconds][Customer] : Yeah. So she was down in 63.
+[13 minutes 35 seconds][Agent] : Oh yeah. Yeah, of course.
+[13 minutes 34 seconds][Customer] : So I just want to make sure that I have all my ducks in a row and everything is sorted for the kids and for my, you know, siblings and all that.
+[13 minutes 41 seconds][Agent] : Yeah, yeah.
+[13 minutes 44 seconds][Customer] : Do you guys also do seniors insurance as well?
+[13 minutes 48 seconds][Agent] : I'm so Sterlington. That's a different company. So yeah. Oh, OK.
+[13 minutes 52 seconds][Customer] : OK, because my father who's 88, I want to do something for him because I don't think anyone else has gone ahead in the family and organised anything. And we had a bit brief discussion, my siblings and I the other day and I went well, we don't want to get in the same predicament.
+[14 minutes 6 seconds][Agent] : Yes, of course.
+[14 minutes 7 seconds][Customer] : His mum was great.
+[14 minutes 7 seconds][Agent] : And how old did you say he was? 88? Yes.
+[14 minutes 9 seconds][Customer] : He's 88, very fit and healthy.
+[14 minutes 10 seconds][Agent] : So our policy, they go from 40 to 70 to 79.
+[14 minutes 14 seconds][Customer] : All right, then I'll have to have a look and see what there is out there for him because he's super healthy. He's not the issue. So 98 year old trustee, he's got no medications. He's on. He's just still driving. He's still.
+[14 minutes 13 seconds][Agent] : So Yep, yeah, yeah, Yep, yeah.
+[14 minutes 27 seconds][Customer] : Yeah, he's.
+[14 minutes 27 seconds][Agent] : That sounds like my grandfather. He's my grandfather's 90.
+[14 minutes 28 seconds][Customer] : So that's what I it's there and I Yeah.
+[14 minutes 31 seconds][Agent] : He's actually 91.
+[14 minutes 32 seconds][Customer] : Wow, Oh, wow.
+[14 minutes 33 seconds][Agent] : Sorry, 91 is he still drives and he's fit as anything, so. Oh, definitely.
+[14 minutes 36 seconds][Customer] : See, I know it's crazy got to show you how how much they were made at stool back in the day, like how how their immune systems are so different to what ours are these days.
+[14 minutes 47 seconds][Agent] : Yeah, exactly.
+[14 minutes 47 seconds][Customer] : That's for sure.
+[14 minutes 48 seconds][Agent] : Yeah, that's exactly right. Yeah.
+[14 minutes 48 seconds][Customer] : So but no, that's right. Then I'll just what I'll do though, is I'll take the touchdown with the kids and I will discuss it all with them. I know they're gonna creak **** ** but I'm gonna be like, hey, if you discussed, I'll just get the fields to see how they feel and then I can make that fin, like you said, I can make that final judgement, I guess as to the amount and whether, you know, if they also look, if they're sort of humming and R ING on what they would prefer, then I'll just make that choice of decision myself.
+[14 minutes 50 seconds][Agent] : Unfortunately we wouldn't be able to help you out with him, but yeah, yeah, yeah. Not a problem, of course.
+[15 minutes 23 seconds][Customer] : So sure.
+[15 minutes 23 seconds][Agent] : So all right, sorry, I'm just gonna I'll leave it up to 15,000 and then you may pay more in total premiums over the life of the policy than the benefit amount.
+[15 minutes 32 seconds][Customer] : Yep, Yep. OK. Yes.
+[15 minutes 33 seconds][Agent] : Please be aware this insurance does not have a savings or investment elements that you cancel outside of the 30 days recoverable stock and you don't receive anything back unless you're eligible for and choose the early cash back offer now All right so the 15,000 sorry, did you want to was this the $15,000 one that you said was sounding suitable like at this stage, Yep, not a problem. So what we're able to do we can send the quotes free for you based on the 15,000 was there for you and alternatively as well. What we can do is organize for you to be covered over the phone and send all the documentation to you to review that we can go through with your and your children as well with, with you know what? So you, you want to organize that you know for yourself.
+[16 minutes 3 seconds][Customer] : Yep, Yep.
+[16 minutes 18 seconds][Agent] : And So what we do is that with the documentation, even though you'll be covered, we send all the documentation within 5 working days as well. The policy gives you a 30 day cooling off. So if you decide it's just not suitable and cancel within the 30 days and you've received a full refund of your premium and this the claim has been made.
+[16 minutes 35 seconds][Customer] : OK.
+[16 minutes 35 seconds][Agent] : Like I said, we can send just the, the quote 3 for you or alternatively we can send all the documentation out and have you covered there as well. What?
+[16 minutes 43 seconds][Customer] : I'll just do the quote for now and then I'll just see what the kids want to do and what they say and what have you not as well, if that's OK.
+[16 minutes 51 seconds][Agent] : Yeah, yeah.
+[16 minutes 53 seconds][Customer] : Please.
+[16 minutes 53 seconds][Agent] : Not a problem at all. We can do that.
+[16 minutes 56 seconds][Customer] : Awesome.
+[16 minutes 54 seconds][Agent] : I'll organize to send the quote through to your e-mail address.
+[16 minutes 58 seconds][Customer] : Thank you. Thank you.
+[16 minutes 59 seconds][Agent] : I have spiritualroot.1@hotmail.com.
+[17 minutes 2 seconds][Customer] : Correct. Correct. Yes.
+[17 minutes 3 seconds][Agent] : Yep, perfect.
+[17 minutes 3 seconds][Customer] : Thank you.
+[17 minutes 4 seconds][Agent] : Not a problem at all. You're welcome. I will send that through.
+[17 minutes 7 seconds][Customer] : No worries.
+[17 minutes 6 seconds][Agent] : You should receive that within the next few minutes there as well.
+[17 minutes 9 seconds][Customer] : Thank you.
+[17 minutes 9 seconds][Agent] : I will, You're welcome. I'll follow up with a call. When will be a suitable time to give you a call back?
+[17 minutes 16 seconds][Customer] : Can you do it tomorrow?
+[17 minutes 18 seconds][Agent] : I'm not actually able to give you a call tomorrow. I'm actually off tomorrow unfortunately.
+[17 minutes 20 seconds][Customer] : Oh, OK. When? What? What day? You.
+[17 minutes 22 seconds][Agent] : Umm, yeah, I can give you a call on Friday to have something at the my kids school and, umm, tomorrow.
+[17 minutes 29 seconds][Customer] : No, that's alright, darling. You're alright. Yeah. Friday sounds good.
+[17 minutes 32 seconds][Agent] : Yeah, not a problem.
+[17 minutes 33 seconds][Customer] : Can you? What time are you?
+[17 minutes 35 seconds][Agent] : Yeah, I can do anywhere from 9:00, umm, until three on Fridays. Yeah, I can do that.
+[17 minutes 39 seconds][Customer] : OK, Well, do you want to do just before 3 or whatever that's more the later in the afternoon convenience?
+[17 minutes 46 seconds][Agent] : Yeah, I can give you a call, say around 2:30.
+[17 minutes 48 seconds][Customer] : Yeah, that'd be good.
+[17 minutes 48 seconds][Agent] : Yep, not a problem. And can I describe your address to start with the post code?
+[17 minutes 53 seconds][Customer] : Yeah, sure. It's 4214.
+[17 minutes 56 seconds][Agent] : Yeah. And what's the purpose on it and the address?
+[17 minutes 59 seconds][Customer] : Arundel is 9 black bottle circuit.
+[18 minutes 7 seconds][Agent] : Thank you. Is that your postal address as well? All right. Fantastic. Thank you. And the best contact number 0435176431.
+[18 minutes 10 seconds][Customer] : Yes, Correct.
+[18 minutes 18 seconds][Agent] : Yeah. OK, perfect. So we have that there as well. All right, so organize to send that through. Now what we can do as well is I'm able as your cover UMM has been approved for that 15,000. What we can do is I'm going to e-mail you the policy schedule for the $15,000 of cover that's pending activation as well.
+[18 minutes 42 seconds][Customer] : OK, OK. Alright then. No worries.
+[18 minutes 42 seconds][Agent] : So what that means is if you're happy to go ahead with the $15,000 and you can just activate the policy online yourself, sorry, I will send that through as well. Sorry. We'll organize to do that for you.
+[18 minutes 59 seconds][Customer] : Awesome. Thank you.
+[18 minutes 58 seconds][Agent] : OK, So that's OK, not a problem. Otherwise, I will give you a call back on Friday. If you have gone ahead and activated the policy yourself on through the e-mail that we'll send free, then it comes through to us. Umm, but otherwise, I'll give you a call back at that time. We discussed on Friday and have you covered from there.
+[19 minutes 15 seconds][Customer] : OK, awesome.
+[19 minutes 15 seconds][Agent] : OK. Did you have any other questions?
+[19 minutes 16 seconds][Customer] : Staying in traffic, Yes. No, that's fine. Thank you. Thank you.
+[19 minutes 20 seconds][Agent] : No, sure.
+[19 minutes 21 seconds][Customer] : That's all good. Sorry.
+[19 minutes 21 seconds][Agent] : That's not a problem at all. No, you're right.
+[19 minutes 24 seconds][Customer] : Alright.
+[19 minutes 24 seconds][Agent] : Not a problem at all. I will speak to you then. You're.
+[19 minutes 26 seconds][Customer] : Thank you so much for your trouble. Alright.
+[19 minutes 27 seconds][Agent] : You're welcome.
+[19 minutes 29 seconds][Customer] : Thank you, darling. Thank you for your trouble today. Thank you, darling.
+[19 minutes 30 seconds][Agent] : Thanks for not a problem.
+[19 minutes 32 seconds][Customer] : Bye.
+[19 minutes 32 seconds][Agent] : Thanks.
+[19 minutes 32 seconds][Customer] : Bye.
+[19 minutes 32 seconds][Agent] : Bye.
+[19 minutes 32 seconds][Customer] : Right. Bye, honey. Bye. Bye.

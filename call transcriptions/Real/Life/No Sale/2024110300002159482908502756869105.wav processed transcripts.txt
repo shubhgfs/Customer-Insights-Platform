@@ -1,0 +1,226 @@
+[2 seconds][Agent] : Hello, thank you for calling. Real insurance you've reached on how can I help you today? Life insurance?
+[7 seconds][Customer] : I just want a quote on Li real life insurance 200 yeah.
+[16 seconds][Agent] : Yeah, sure. No worries at all. 2, $100,000 right? OK, sure.
+[17 seconds][Customer] : Two $200 Two, $200 How MU?
+[26 seconds][Agent] : I'd be happy to help out with the umm, yeah, life insurance.
+[29 seconds][Customer] : How MU?
+[29 seconds][Agent] : We can have a look into that for you.
+[31 seconds][Customer] : How much is it?
+[32 seconds][Agent] : Yeah, great question. Uh, well arranged is I'll grab some basic details of yours, start an inquiry. We'll go through the life insurance, a bit of detail, look at options available and you can help me guide just to what suits, Uh, what's your first and last name to start with, please? First name is Diane. Is that with one or two ends? Sure. And what was your surname? Diane. Yep. Patterson. No worries. And what's your date of birth please? Diane?
+[47 seconds][Customer] : My name My first name's Diane Patterson, 1 N Patterson with 1T 12th of the 12th, 1966.
+[1 minutes 9 seconds][Agent] : 12/12/66. Excellent. Thank you very much. And just keep in mind all our calls are recorded and any advice providing is general in nature and they'll be suitable to your situation. And I can lastly confirm you are a female and an Australian resident, is that right? Lovely. Thanks very much. I do appreciate you giving me a call today regarding our life insurance. And you mentioned you're looking into $200,000 of life cover, is that right?
+[1 minutes 23 seconds][Customer] : Yeah, yeah.
+[1 minutes 36 seconds][Agent] : Sure.
+[1 minutes 40 seconds][Customer] : Well, I've got it in my, in my. I've got it in my my, my garden book. Yeah.
+[1 minutes 36 seconds][Agent] : What's prompted you to look into life insurance options, Diane, in your garden book, right. OK. So as in you do have some cover in place already?
+[2 minutes 5 seconds][Customer] : What's that?
+[2 minutes 7 seconds][Agent] : No. Do you have life insurance cover at the moment?
+[2 minutes 10 seconds][Customer] : No, I don't.
+[2 minutes 12 seconds][Agent] : OK, Right. And what's the, what's this garden book that you're referring to?
+[2 minutes 18 seconds][Customer] : It's just ABC gardening.
+[2 minutes 22 seconds][Agent] : Oh, right. OK. So you just see an advertisement for our insurance. Yeah. OK. Right. OK.
+[2 minutes 25 seconds][Customer] : Yeah, in there and it says ring up for a quote. Now we can push the quote.
+[2 minutes 29 seconds][Agent] : And yeah, OK, easy. Oh, no worries then. And with regards to life insurance, what we've designed it for is to provide financial protection for your loved ones or a lump sum payment if you pass away. In your situation, what would it be there to assist with? Yeah, with life insurance. If something happened and you passed away, what would the $200,000 cover be there to assist with?
+[2 minutes 36 seconds][Customer] : Now what's that to my husband?
+[3 minutes 9 seconds][Agent] : Yeah, it's your husband. Fair enough. Absolutely. Oh, I definitely get that. And yeah, with life insurance as well. What you and I would do over the phone with it? It's quite simple. Just give you a rundown of how the cover works in a bit more detail. If you have questions at any stage, you're welcome to ask and I can help. We'll then go through a few options available together starting at 200,000. And for reference, Diane, we can look anywhere between $100,000 up to FI $500,000 based on your range.
+[3 minutes 50 seconds][Customer] : Yeah.
+[3 minutes 41 seconds][Agent] : Then once we do land on the comfortable life insurance amount for you to apply, I'll just take you through health and lifestyle questions over the phone to see if you're approved and if you're accepted. And once you decide to commence the policy, we cover you immediately for death due to any cause, only exception being suicide in the 1st 13 months. And there's also a terminally ill advanced payment including the cover in the event you're diagnosed with 12 months or less to live by a medical practitioner, making pay the claim in full whilst you're still living. Now, at the time of your passing as well, available for your family will be a $10,000 advance payment to help with your funeral costs and other made expenses. Umm, and otherwise this is also a 24/7 worldwide cover. OK, sure.
+[4 minutes 15 seconds][Customer] : Yeah, yeah, he's gonna ask me some health questions now.
+[4 minutes 32 seconds][Agent] : Uh, yes Sir. We generally do that after the quotation. Umm, yeah. Is there any concern with those health questions? OK, excellent. Good to hear. All right. And were there any other questions you had about how the insurance works, anything you didn't understand?
+[4 minutes 44 seconds][Customer] : No, no, I've seen lots of adverts.
+[4 minutes 59 seconds][Agent] : OK, Excellent. Good to see you then. In that case, to get us started here, I need to ask Diane, have you had a cigarette in the last 12 months? Yes or no?
+[5 minutes 10 seconds][Customer] : No, I don't smoke.
+[5 minutes 12 seconds][Agent] : Excellent. OK, alright. And you mentioned it was $200,000 cover you'd like to start with.
+[5 minutes 21 seconds][Customer] : Yeah.
+[5 minutes 21 seconds][Agent] : Let me know though if we have to adjust the figure up or down. I'm happy to assist on that front, but looking here for reference as well. Our premiums can be on a fortnightly, monthly or annual basis. I'll give you the fortnightly figure to start off with. For $200,000 of life insurance on A4 nightly basis, it would be $48 per fortnight. OK, So $24.00 a week.
+[5 minutes 46 seconds][Customer] : Yeah, yeah.
+[5 minutes 49 seconds][Agent] : Would this sit quite comfortably for you, Diane, or would we have to look at a higher or a lower amount of cover?
+[5 minutes 55 seconds][Customer] : No, no, just $24.00.
+[5 minutes 59 seconds][Agent] : Yeah, $24.00 a week, $48 a fortnight for $200,000. That's all.
+[6 minutes 5 seconds][Customer] : Yeah.
+[6 minutes 4 seconds][Agent] : OK, all right, easy. In that case, I'll load up the health and lifestyle questions. We'll determine your eligibility for the life insurance and it'll also determine the terms which we can offer cover in case, umm, we're able to still get you approved. But depending on some of your answers, there could be changes made. And while it loads, I'll just give you a brief insight on how the premium works over time because your premium Diane, what you pay on the policy is stepped, which means we'll generally increase each year as your age. In addition, the policy has automatic indexation, meaning each year your son insured will increase by 5% with associated increase in premium. You can opt out of this automatic indexation each year if you wish. It's up to you. As indication there, if you made no change the policy and decline indexation, the premium next year if it's $200,000 cover would be $54.91 fortnight. You can also find information about our premium structure on our website and otherwise I'll confirm a copy of details just while I finish starting the questions here. Diane, your contact number you called on today, is this the best number for you? And what's your best e-mail address?
+[7 minutes 15 seconds][Customer] : Yeah, it's diane.patterson1212@gmail.com.
+[7 minutes 26 seconds][Agent] : diane.patterson1212@gmail.com. Thank you very much.
+[7 minutes 30 seconds][Customer] : Yeah, 'cause I was born on the 12th of the 12th.
+[7 minutes 32 seconds][Agent] : Ah, yeah, that's the way. Excellent. The last thing I'll just confirm. Name is your address. Can I start with your post code and send it, please? Yeah, no worries. What's your address in Lewiston #19? Judd Rd. in Lewiston. Excellent. Your postal address where you received your mail, that's the same.
+[7 minutes 42 seconds][Customer] : 5501 Lewiston, 19 Judd Rd., Lewiston, yeah.
+[8 minutes][Agent] : No worries, I'll just take you through a pre underwriting disclosure before we begin the questions then, uh, this will give you some privacy policy information and outline what you need to take reasonable care to not make any misrepresentations in your answers. Uh, it reads. Diane, please be aware all calls are recorded for quality and monitoring purposes.
+[8 minutes 17 seconds][Customer] : Yeah, sure.
+[8 minutes 17 seconds][Agent] : We collect your personal information to provide insurance quotes it should cover and other related services. We'll share this to your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access incorrect information and lodge complaints about breaches of privacy. Now, by proceeding, you understand you're applying to purchase a life insurance policy and as such you have a duty to take reasonable care to not make any misrepresentations. This means you need to ensure you understand each question I'll ask you and they provide honest, accurate and complete answers. It answers question full, even provides information to us, the discussions you've had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. So Diane, do you understand and agree to your duty there? Yes or no?
+[9 minutes 6 seconds][Customer] : Yeah, yes.
+[9 minutes 8 seconds][Agent] : No worries. And these are just yes or no answer questions. I'll indicate otherwise where I need to. Firstly, have you been hospitalized for COVID-19 in the last six months, or have you been diagnosed with COVID-19 in the last seven days?
+[9 minutes 22 seconds][Customer] : No, I haven't had, I haven't had COVID ever.
+[9 minutes 26 seconds][Agent] : Oh, wow. There you go. Lucky, lucky. All right, next question then. Are you a citizen or permanent residence of Australia or New Zealand currently residing in Australia, yes or no?
+[9 minutes 39 seconds][Customer] : No, I'm an Australian.
+[9 minutes 42 seconds][Agent] : Yeah. OK. So you're an Australian citizen currently residing in Australia, is that right?
+[9 minutes 45 seconds][Customer] : Yeah, yeah. I don't work.
+[9 minutes 46 seconds][Agent] : Yeah, it OK, I will answer yes and all right, next question, does your work require you to go underground, work at heights of 20 meters, dive to depths like 40 meters, use explosives or travel to air? Is experiencing war, civil unrest or work offshore? You say you don't work?
+[10 minutes 2 seconds][Customer] : No, I don't work.
+[10 minutes 4 seconds][Agent] : Yeah, no worries. The next section is in relation to your height and weight. And please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow you to answer any approximate figures, words or height and weight ranges. Uh, firstly, Diane, what is your exact height in either centimeters or feet and inches, please? That's all. When was the last time you checked?
+[10 minutes 25 seconds][Customer] : I don't know I, I don't know I've, I've, I'll just, I'll just, I'll just measure myself.
+[10 minutes 43 seconds][Agent] : Sure. Take your time.
+[10 minutes 50 seconds][Customer] : I'll get and take measure.
+[10 minutes 52 seconds][Agent] : Sure. None.
+[12 minutes 28 seconds][Customer] : None.
+[12 minutes 45 seconds][Agent] : None. Yeah, I'm still here.
+[13 minutes 19 seconds][Customer] : Are you there 169? I am.
+[13 minutes 21 seconds][Agent] : Yeah, 169 centimetres. No worries. Thanks for taking a moment to measure for me.
+[13 minutes 28 seconds][Customer] : No Inches. Inches. 160 inches.
+[13 minutes 35 seconds][Agent] : Right, OK. Wouldn't be a tape measure in centimetres and millimetres.
+[13 minutes 41 seconds][Customer] : Centimeters. Yeah. Yeah.
+[13 minutes 43 seconds][Agent] : Oh, centimetres. OK, excellent. No drivers. Yep. 169 centimetres.
+[13 minutes 46 seconds][Customer] : 106, yeah.
+[13 minutes 47 seconds][Agent] : All right, no problems. Thank you. And what is your exact weights in either kilograms, pounds or stones, please?
+[13 minutes 55 seconds][Customer] : Oh, just weigh myself now. I just had tea though.
+[13 minutes 58 seconds][Agent] : Sure, that's OK. Yeah, 82.1kg, no worries. Thanks very much for that. Diana. I'd appreciate you taking the moment and make those managements for me. And all I have to ask here is have you experienced any unexplained, so with no reason weight loss of more than 5 kilograms in the last 12 months, yes or no?
+[14 minutes 24 seconds][Customer] : 82.1 Have I lost any weight in the last 12 months?
+[14 minutes 49 seconds][Agent] : Uh, no, it should be. It's questions asked you specifically, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? OK, no worries. Alright. The next question is a quick AIDS declaration. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[14 minutes 59 seconds][Customer] : No, no, no, I'm not.
+[15 minutes 14 seconds][Agent] : And you have definite plans to travel or reside outside of Australia, uh, IE booked or we booking travel in the next 12 months, right?
+[15 minutes 18 seconds][Customer] : No, no, no.
+[15 minutes 22 seconds][Agent] : OK. And you have existing life insurance policies and other life insurance companies with the combined, So the sum is short of more than $5 million.
+[15 minutes 32 seconds][Customer] : What's that?
+[15 minutes 33 seconds][Agent] : Do you have existing life insurance policies with other life insurance companies with the combined total sum is short of more than $5 million. Yep.
+[15 minutes 42 seconds][Customer] : No, I haven't got any other life insurance.
+[15 minutes 46 seconds][Agent] : Regardless, the next section's. In regards to your medical history, The overarching question asks have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following, first of which is cancer, tumour, mole, or cyst, including skin cancer, sunspots, Melanoma or leukemia?
+[16 minutes 8 seconds][Customer] : No.
+[16 minutes 9 seconds][Agent] : Have you ever had an abnormal cervical smear?
+[16 minutes 13 seconds][Customer] : Have I had a cert? What?
+[16 minutes 15 seconds][Agent] : H Have you? Yeah, it asks. Oh, yeah.
+[16 minutes 15 seconds][Customer] : No, I haven't had No, I've never had a no, I've never had a a bad cervical SCE scare, No.
+[16 minutes 27 seconds][Agent] : Seriousness. OK, No abnormal cervical smears. OK. Stroke, chest pain, palpitations, or heart conditions such as but not limited to heart attack and angina or high blood pressure.
+[16 minutes 38 seconds][Customer] : No, no, I'm on a I'm on a heart based diet.
+[16 minutes 45 seconds][Agent] : The heart based diet, right. OK, well, that's good. That's good to hear, I guess. And I get, I get.
+[16 minutes 48 seconds][Customer] : Yeah, that's just AI eat. Oh, I've got it here.
+[16 minutes 54 seconds][Agent] : That's just as a it's like a precaution measure, OK.
+[17 minutes 7 seconds][Customer] : I don't eat. I don't eat extra. I eat E Extravert 30 grams of nut a day, three serves of four oily fish a week, and I don't have deep fried feet.
+[17 minutes 21 seconds][Agent] : OK, OK, excellent. That's good to see. OK, well, in that case, I just asked that question again, just with a yes or no answer. It was a stroke, chest pain, palpitations or heart conditions such as not limited to heart attack and angina or high blood pressure. Just a yes or no. Excellent.
+[17 minutes 53 seconds][Customer] : No, I haven't got high blood pressure. I haven't got any of that.
+[17 minutes 59 seconds][Agent] : Yep. None of the other conditions I mentioned either. Is that right? No history of anything. Excellent. OK, next question. High cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting.
+[18 minutes 2 seconds][Customer] : No, no, no.
+[18 minutes 18 seconds][Agent] : Yeah, sure. That's OK.
+[18 minutes 13 seconds][Customer] : I've got high cholesterol, but that's why I'm on this heart diet to suit so I can, I've got the heart, the butter that the, the butter I use the butter that lowers your cholesterol.
+[18 minutes 34 seconds][Agent] : No problems. Well, in that case I'll we'll answer yes and then based on your response, please answer yes or no for each of the following. The first question I'll ask high cholesterol, we'll answer yes. Have you ever had a cholesterol blood test with the results greater than or equal to 7 millimols per litre? Yes or no?
+[18 minutes 54 seconds][Customer] : Well, I've had, I've had a test and it's high.
+[19 minutes 1 seconds][Agent] : OK. Did it exceed 7 millimoles per litre or not quite that high? OK. And not on any other occasion, haven't hit that number.
+[19 minutes 6 seconds][Customer] : No, not quite that high, no.
+[19 minutes 13 seconds][Agent] : OK, that's fine. Then we can answer no and just keep moving. Thank you.
+[19 minutes 21 seconds][Customer] : No, I haven't got a thyroid condition.
+[19 minutes 17 seconds][Agent] : And the next question is a thyroid condition, yes or no, and neurological symptoms such as dizziness or fencing, just a yes or no. OK, Moving on then.
+[19 minutes 28 seconds][Customer] : No, no, I'm not.
+[19 minutes 32 seconds][Agent] : Diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose, OK.
+[19 minutes 40 seconds][Customer] : I'm not like that.
+[19 minutes 42 seconds][Agent] : Yeah, None of those conditions, Sure. Hepatitis or any disorder off the liver, stomach, bowel, gallbladder or pancreas. Yes or no OK. Epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis.
+[19 minutes 50 seconds][Customer] : No, no, no, no, no.
+[20 minutes][Agent] : Yes or no. Anxiety, depression, or stress requiring medical treatment or any other mental health disorder. Yes or no. Any Yep, OK, no problems. Uh, and any illegal drug use, abuse or prescription medication or received medical advice or counseling for alcohol consumption. Yes or no? OK, sure. OK, understandable. So yeah, that's just like some sort of bladder re related disorder. That's OK, we can cancel that in the next question. That's fine. Umm, this question.
+[20 minutes 7 seconds][Customer] : No, I don't have a mental disorder N no, I don't ye no, I take AI take AI take a tablet that that because I because I because I wet my pants that's all Yeah well yeah yeah I had a bladder scan and it was alright, but but you know.
+[21 minutes 8 seconds][Agent] : OK, Sure, no worries. Uh, well, with this question, just for reference, all it's asking is umm, any illegal drug use, abuse of prescription medication or receive medical advice or counseling, alcohol consumption. Is that a yes or no? OK, and then the next question here asks disorder of the kidney or bladder. Uh, you mentioned the medication you take. Is that for your bladder?
+[21 minutes 28 seconds][Customer] : No, yeah, that's my bladder, Yeah.
+[21 minutes 41 seconds][Agent] : Sure. Uh, well that's a yes. Then based on your response, please answer yes or no to each the following, umm, the first of which is bladder or urinary tract disorder. Umm, so I answer yes here. You mentioned it's for the bladder. Umm, and in the past two years have you ha had any of the following either blood or sugar in your urine or more than more than two urinary tract infections?
+[22 minutes 6 seconds][Customer] : No, no, no, no. I haven't had infections.
+[22 minutes 11 seconds][Agent] : Umm, sure. Or had a cystoscopy, ultrasound or IVP.
+[22 minutes 19 seconds][Customer] : What? What do you mean I had it?
+[22 minutes 18 seconds][Agent] : IVP, uh, have you, uh, for the bladder or the bladder or urinary tract disorder, umm, or in this case bladder you mentioned, have you had to have a cystoscopy, ultrasound or IVP intravenous, umm, pilogram?
+[22 minutes 35 seconds][Customer] : I had no, I had a ultrasound on my bladder Cos Cos I think I've got a prolapse.
+[22 minutes 44 seconds][Agent] : Sure.
+[22 minutes 49 seconds][Customer] : No, it's just been.
+[22 minutes 45 seconds][Agent] : And was that in the last two years or has it been longer been more than two years?
+[22 minutes 54 seconds][Customer] : No, no.
+[22 minutes 59 seconds][Agent] : OK, what about this happened? When was the ultrasound on? OK, sure. No worries.
+[23 minutes 7 seconds][Customer] : Two weeks ago, Yes.
+[23 minutes 11 seconds][Agent] : So that's a yes then and I'll need to ask some further questions.
+[23 minutes 13 seconds][Customer] : Because my doctor ordered it. Because my doctor ordered it. Because I Yeah.
+[23 minutes 14 seconds][Agent] : Yeah, sure. All right, I'll ask you some further questions then and we'll, umm, I'll let you know what the steps look like from here. Uh, firstly I need to ask what was the, what is the name of the condition? What's the condition you have?
+[23 minutes 34 seconds][Customer] : I don't have a condition.
+[23 minutes 37 seconds][Agent] : OK.
+[23 minutes 37 seconds][Customer] : I just, I just, I just use pants.
+[23 minutes 37 seconds][Agent] : Is it just, mm, hmm, right. Is this like a, uh, just like a weak bladder type of situation?
+[23 minutes 50 seconds][Customer] : Yeah, just a weak bladder.
+[23 minutes 53 seconds][Agent] : No worries.
+[23 minutes 51 seconds][Customer] : Yeah, but I'm taking tablets for it, so you know.
+[23 minutes 59 seconds][Agent] : Sure. When did symptoms first begin? When did you first notice that the when did you first having issue start having issues with the weak bladder?
+[24 minutes 10 seconds][Customer] : About two years ago.
+[24 minutes 11 seconds][Agent] : Yep, two years ago. When did you last have symptoms? When did you last have issues with the weak bladder? Most recently?
+[24 minutes 26 seconds][Customer] : Well, I just got a weak bladder. Yeah.
+[24 minutes 29 seconds][Agent] : Yeah uh, when was the last time you've had issues as a results like, umm, like, for example, symptoms like, uh, unforced urination and things like that? When was the last time, like the most recent time you've had, umm, symptoms of this weak blah.
+[24 minutes 41 seconds][Customer] : What do you how many times?
+[24 minutes 52 seconds][Agent] : Now, when was the most recent time?
+[24 minutes 59 seconds][Customer] : Well, I I use, I use pants to do to control that. I use pants to control that.
+[25 minutes 10 seconds][Agent] : Yeah, sure. And when was the last time you've had to, I guess When was the last time they've been in use? Like it it wasn't a couple of weeks ago when you had to have the ultrasound.
+[25 minutes 23 seconds][Customer] : No, I ha. I still use them.
+[25 minutes 26 seconds][Agent] : Yeah. OK, OK. How do I refer this question? So is it like the symptoms are just ongoing and happens regularly?
+[25 minutes 37 seconds][Customer] : Well, it's my age.
+[25 minutes 40 seconds][Agent] : Yeah, OK, sure. I understand that. And how many episodes have you had? Is this just been 1 long prolonged instance of of weight bladder? You've just had it for the last two years all the way through?
+[25 minutes 54 seconds][Customer] : Yeah. Yeah, two years.
+[25 minutes 59 seconds][Agent] : Yep. OK, OK. And what treatment have you been given? So I know you've mentioned you take medication for it, OK. And otherwise you just wear an adult's diaper. Is that right? You mentioned you wear pants for this like an adult's diaper. Is that correct?
+[26 minutes 19 seconds][Customer] : Yeah, what's that I wear? I wear pants as I buy.
+[26 minutes 40 seconds][Agent] : Yeah, sure. Thank you. OK, so managers symptoms with medication. I'm just writing this down by the way, so just bear with me.
+[27 minutes 5 seconds][Customer] : Well, I'm 56, so you know.
+[27 minutes 13 seconds][Agent] : Alright. And then what tests have you had?
+[27 minutes 18 seconds][Customer] : Yeah. That's it.
+[27 minutes 16 seconds][Agent] : You mentioned you've had an ultrasound and that was just to confirm that there were no other issues with the bladder.
+[27 minutes 25 seconds][Customer] : Yeah.
+[27 minutes 27 seconds][Agent] : No worries. And it the doctors told you it's just more so age-related to these issues.
+[27 minutes 39 seconds][Customer] : Yeah.
+[27 minutes 46 seconds][Agent] : Have you had to have any other tests and things of that nature? Any checks like that with this week butter like initially two years ago? No.
+[27 minutes 55 seconds][Customer] : No, not two years ago, No.
+[27 minutes 58 seconds][Agent] : OK, so just only the ultrasound 2 weeks ago. OK, no worries. OK. The next question is what were the results? So the results, it was confirmed there were no issues in the bladder and the doctor confirmed that the issues are just age-related. All right. And then the next question, what was the dates of the last Test you had? You mentioned it was two weeks ago, is that right?
+[28 minutes 2 seconds][Customer] : Yeah, yeah, I had a ultrasound on my bladder.
+[28 minutes 32 seconds][Agent] : Yep.
+[28 minutes 31 seconds][Customer] : Yeah, I had to fill it up with water.
+[28 minutes 33 seconds][Agent] : Sure, sure. I understand. No worries. All right, We'll keep moving the rest of the application. And then what we do with this is called a referral. I'll let you know what the referral looks like there, Diane. The next question, though, I have to ask is kidney disease or disorder, Yes or no? Blood disorder or disease, asthma or other respiratory disorder, excluding childhood asthma. Lovely.
+[28 minutes 51 seconds][Customer] : No, no, no, no, I don't have. I've never had asthma.
+[29 minutes 4 seconds][Agent] : Yeah, excellent. And now other respiratory conditions, is that right? Excellent.
+[29 minutes 7 seconds][Customer] : No, never had any.
+[29 minutes 11 seconds][Agent] : Yeah, excellent. All right, next couple questions. I just worded differently to before. Firstly, other than what you have already told me about, in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy?
+[29 minutes 36 seconds][Customer] : No.
+[29 minutes 37 seconds][Agent] : Other than what you've already told me about, are you contemplating seeking medical advice? Any symptoms you're currently experiencing within the next two weeks?
+[29 minutes 47 seconds][Customer] : Well, I've got a doctor's appointment in on the 13th.
+[29 minutes 51 seconds][Agent] : Yeah. OK. Is that just to follow up the bladder? Yeah, sure. No worries. And you mentioned you already got some results when you had the init, the ultrasound before. So this is just a just another follow up conversation.
+[29 minutes 54 seconds][Customer] : Yeah, yeah.
+[30 minutes 6 seconds][Agent] : OK, no worries. That's fine then. Excellent. So yeah, you do already know the results from the ultrasound and everything. And so this, this is just more part of your regular check UPS, is that right?
+[30 minutes 19 seconds][Customer] : Yeah, she checked my, she checked my kidneys and they were fine.
+[30 minutes 20 seconds][Agent] : Sure, yeah, excellent. Kidneys are also OK. Uh, all right, no problems. I'll just write a quick note of that. Otherwise, outside of that, since this, this question is other than what you've already told me about, so we don't have to note that here, is there anything else we need to be aware of? Umm, Or is that all OK?
+[30 minutes 41 seconds][Customer] : It's all OK.
+[30 minutes 43 seconds][Agent] : Alright, excellent.
+[30 minutes 45 seconds][Customer] : I'm not sore. I'm not anything. I'm not sore. I'm not anything. I just have. I've always had problems with my female part.
+[30 minutes 45 seconds][Agent] : OK, yeah, sure, that's fair enough. And now it's like relating to the wheat bladder, is that right? Sure, that's OK Otherwise, umm, yeah, we can answer notes to this question then so we can keep moving. There's only a few questions left. Uh, first couple regarding family history. This only concerns your immediate family.
+[31 minutes 4 seconds][Customer] : Yeah, I don't, I don't know about my family Cos my father abused me and I left at 16.
+[31 minutes 17 seconds][Agent] : So mother, father, brother or sister, uh, sure. OK. So yeah, lost contact with your immediate family.
+[31 minutes 33 seconds][Customer] : No, because my father raped me and I and I don't don't see them.
+[31 minutes 44 seconds][Agent] : Yeah, that's fine. So yeah, one thing we can all for these questions, we can answer if you were, if you had lost contact with your immediate family, So don't speak with them, we can answer, don't notice these questions, that's fine.
+[31 minutes 59 seconds][Customer] : Yeah, I don't know. I don't know what's going on with my family.
+[32 minutes 4 seconds][Agent] : Sure, if you I'll answer don't notes both those questions then since you wouldn't know. Just one last question here, just regarding any hazardous pursuits other than one off events. Do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognised airline? Motor racing, parachuting, mouth nearing AB sailing, scuba diving deep into 40 meters, cable wreck diving or any other hazardous activity.
+[32 minutes 23 seconds][Customer] : No, no, no, no, I don't don't do anything like that.
+[32 minutes 34 seconds][Agent] : No dramas. Well, that's all the questions out of the way then. Diane, thanks very much. I'll submit the answers and we'll see what comes up here. Now of course, in relation to the week bladder, I do need to refer your assessment to the underwriter for the application. The underwriter for the assessment, umm, but outside of that, nothing else has come up at this stage. So, umm, the, there's no change to the premium nor any additional exclusions.
+[32 minutes 59 seconds][Customer] : What's that?
+[32 minutes 59 seconds][Agent] : So it remains at 200 uh, the, the policy you've uh, outside of the referral, there have been no changes that have come up just yet. So you have been fully appr uh, you may have been fully approved. We'll find out in the referral. Umm, but at this stage, there are no changes to the premium nor any changes and no additional exclusions. OK uh, so it remains at $48 per fortnight for $200,000 cover. And with the referral, what the steps are that we take from here, Diane, it's still this, umm, very similar to the usual, uh, we from here note down your preferred method of payment. We select the payment date in the future that suits best. And why we do that is because we need.
+[33 minutes 25 seconds][Customer] : Yeah, I'll give you my bank details.
+[33 minutes 44 seconds][Agent] : Yeah, sure. Bear with me one moment. Umm, just let you know when, uh, yeah, we select the payment dates. We can select the payment date that works for you. Umm, we'll allow the underwriter at least the business day to make their decision. But whatever date in the future works, umm, in your situation, Diane, I'm happy to work with you otherwise. And we'll read you a declaration and then the referral will be sent off thereafter. And while your application is being assessed, you will be covered for accidental death, which pays out if death was due to a direct result of an accident. Uh, cover under this loss until the insurer makes a decision on your application or 30 days from today, whichever is earlier. And, umm, for reference, the commensity of your cover will be subject to final assessment by the insurer if the insurer does approve cover without any changes. Umm, with these last steps, I'm able to record your acceptance of the policy. Now we'll send out all your policy information to your e-mail and postal address. OK. Uh, excellent. Sorry. In that case, uh, we'll start with your preferred net for the payment then. Would you prefer to have payments come out of a BSB and account number or card details?
+[34 minutes 22 seconds][Customer] : Yes, Alright, well, it could be.
+[34 minutes 54 seconds][Agent] : Yep, there's been an account number. No worries. Take them and grab those for me. Yep, Yep. And that's credit union.
+[34 minutes 52 seconds][Customer] : You should take him out of the bank and the BSB number is 805007 And what's that?
+[35 minutes 9 seconds][Agent] : That's the credit Union Bank, is that right? Yep, exactly right. No worries. OK. And the account number when you're ready? Yep, Yep. No worries. And the account, is it just under your name, Diane Patterson?
+[35 minutes 12 seconds][Customer] : It's credit union SA is 0013, 5687 and change.
+[35 minutes 39 seconds][Agent] : Yeah, Sorry. Could you repeat that, please?
+[35 minutes 41 seconds][Customer] : We both have the same account.
+[35 minutes 45 seconds][Agent] : Yes. So Diane and Shane Patterson, is that right? Sure. And I can confirm you have the authority to make debits on behalf of this joint account, is that correct?
+[35 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[35 minutes 56 seconds][Agent] : Sure. And is it a savings or cheque account you hold?
+[36 minutes 1 seconds][Customer] : It's a savings.
+[36 minutes 2 seconds][Agent] : All right, no worries. OK. And when would you like the first payment to come out for the life insurance on Friday? Sure. Would it be this Friday or next Friday?
+[36 minutes 13 seconds][Customer] : Well, on my Friday next Friday.
+[36 minutes 21 seconds][Agent] : Sure. So not this Friday the 12th, next Friday the 19th. No problems. In that case, if the referral's all successful, we'll have the first payment come out on Friday the 19th and every fortnight and a Friday from there, and I'll reach you. The declaration is the last step here. These are the terms, conditions of the policy. I'll reach you in full. There'll be a question in the middle and a couple more at the end. I'll just need clear yes or no answers for each. And for reference as well, Diane, with this life insurance and with the referral, if your, if the cover is approved, but the underwriter decides to make changes or if they decline the application outright, I'll give you a call and we'll be able to, I'll let you know, of course, those changes before we proceed thereafter. Otherwise, if it's approved with no changes made, then I'll click through on my end. You'll receive confirmation via your e-mail as well as the documentation and it'll also come to you via post as well.
+[37 minutes 19 seconds][Customer] : Sure, neighbors.
+[37 minutes 18 seconds][Agent] : OK easy, so the declaration here reads. Thank you Diane Patterson. It is important you understand the following information. Unless he agreements these terms at the end your policy will not be enforced unless he agrees these terms in full. Family life cover is issued by Hanover Life Free of Australasia Ltd who will refer to as Hanover. Hanover is arranged with Greenstone Financial Services, whom are referred to as GFS trading as real Insurance to issue and arrange this insurance on its behalf. However, it relies upon the accuracy the information you provided when assessing your application that includes the information we initially collected from you provide a quote. I had never said target market termination. First part describes how consumers this practice is on for these recent practices are consistent with this termination. You can send a copy on our website.
+[38 minutes 10 seconds][Customer] : Case ahead.
+[38 minutes 2 seconds][Agent] : Now I need to remind you the duty to take reasonable care that you agreed to Diane, can you please confirm you've answered all our questions in accordance with your duty, Yes or no Crazy. We may have from time to time provide office to you by the communication methods provides to us in relation to other products and services. By agreeing to this declaration, you can set to allow us to contact you for this purpose until you opt out. You can opt out of anytime by contacting us. The accepted card pays a lump sum benefit amount of Diane Patterson receives $200,000. In the event of life insurance a benefit is not paid. You've been a suicide in the 1st 13 months the policy. Your premium for your first year of cover is $48 per fortnight. Your premium is stepped, which means you calculate each policy anniversary and which generally increases your age. Your son insured will also increase automatically by 5% each year and you count down this each year including your premiums and are payable to GFS with up to 65% to cover costs. Your premium be debited from your nominated bank account in the name of Diane and Shane Patterson which you authorized. The debit form have provided to us the policy documentation. PDS and FHT will be mailed to you if you provide us with an e-mail address. Your policy documentation will also be mailed to you today. You should carefully consider these documents to ensure appropriate to your needs. You have a 30 day cooling off. Then you may cancel your policy and anything may have paid refunded in full unless you've lodged your claim. There are risks associated replacing paym Sorry, there are risks associated replacing policies. As your new policy may be identical to your existing color, we recommend you do not cancel the existing policy and see have received and reviewed our policy in full. We have a complaints process which can access any time by contacting us. Full details are available online and the documentation we're sending you. So just a couple final questions for you wrap up here. Firstly, do you understand and agree the declaration, yes or no? And would you like any other information about the insurance now or would you like me to read a new part of the PDS to you?
+[39 minutes 37 seconds][Customer] : Sure, yes, no, that's alright.
+[39 minutes 53 seconds][Agent] : Cheers. In that case firstly Diane, I wanna say thank you very much for choosing real insurance. I've got the referral sent off. So once again, if it's approved and no changes made once the result comes in, I'll click it through on my end. You'll receive confirmation and and your documentation. If however, I have to get into contact with you regarding any changes I'll or if it's declined, I'll do so ASAP. OK, easy. Otherwise, I do appreciate your time, Diane. Umm, do take care. Enjoy the rest of your evening and umm yeah, I'll follow up as soon if I need to.
+[40 minutes 16 seconds][Customer] : Alright, my P, my P problem problem wouldn't be a problem with it.
+[40 minutes 35 seconds][Agent] : Yeah. Uh, so that's what the application, uh, that's what the referral is to assess because, umm, in those circumstances, the underwriter considers it on a case by case basis, just because there's been some ultrasounds in the bladder area within the last two years. And so that, that's, so we can, uh, so, yeah, we've conveyed all that information to the underwriter. Uh, so they'll, they'll be able to make their assessment. We'll find out very soon, OK?
+[40 minutes 58 seconds][Customer] : Yeah, I've got a, I've got a eating for the health, for health, healthy heart.
+[41 minutes 7 seconds][Agent] : Yeah, yeah, yeah, easy. No worries. And so, yeah, that's all OK. Yeah, we've got our referrals sent for you. And yeah, it's good to see you've made those necessary changes to help. Otherwise, yeah. Did you have any other final questions for myself at this stage or all good to go? Alright, excellent. No worries. Well, do take care. OK, Diane, thanks very much for your time.
+[41 minutes 8 seconds][Customer] : Yeah, no, sure. Thanks.
+[41 minutes 32 seconds][Agent] : Alright, bye. Bye.
+[41 minutes 34 seconds][Customer] : Bye. Bye.

@@ -1,0 +1,191 @@
+[5 seconds][Agent] : Welcome to Real Insurance. You're speaking with Regina. How can I help?
+[9 seconds][Customer] : Oh, good afternoon, Regina. My name is Karen. How are you?
+[11 seconds][Agent] : Good. Thanks, Karen and yourself.
+[14 seconds][Customer] : Good. Thank you. I'm just ringing up because unfortunately I want to cancel my funeral insurance policy.
+[19 seconds][Agent] : Oh, no, look, sorry to hear that, but I can definitely help with that one there. Let's have a look and find your profile. If I can just get you to confirm your full name and your birthday. Thank you. And your address including post code. Thank you. And finally, just the e-mail address that we would have on the system.
+[29 seconds][Customer] : Yeah, Missus Karen Marie MacDonald and my birthday is the 20th of the 8th 1968 19 Harvest St., Marsden Park, NSW 2765 siso01@icloud.com.
+[55 seconds][Agent] : Thank you. I've got 0410879477 is the only contact number.
+[1 minutes 2 seconds][Customer] : That's correct.
+[1 minutes 3 seconds][Agent] : OK. I do want to let you know that we do require cancellation requests in writing. Now.
+[1 minutes 8 seconds][Customer] : Oh, OK.
+[1 minutes 8 seconds][Agent] : We are happy to accept it if it comes from like a verified means of an e-mail on file.
+[1 minutes 14 seconds][Customer] : Yep.
+[1 minutes 12 seconds][Agent] : Really simple, basically just full name, date of birth policy numbers.
+[1 minutes 18 seconds][Customer] : Yep, that's right.
+[1 minutes 17 seconds][Agent] : But before I give you those details there, you've actually had the policy running since 2010 for yourself and Paul there we've got 8000, yeah, $8145.00 each insured for. And I can see that we did start off at around the $5000 mark. And every year you've been accepting the automatic sum insured increases and the policies in turn has benefits of increase, but also the premiums.
+[1 minutes 25 seconds][Customer] : Yep, Yep.
+[1 minutes 44 seconds][Agent] : Any particular reason that you were wanting to let go the cover?
+[1 minutes 49 seconds][Customer] : First of all, I just said what age does it go to?
+[1 minutes 52 seconds][Agent] : So the particular cover that you've got here, you stop paying for it at the age of 90. And then if you opted to cancel the cover, then you'd receive the cash out benefit and it'll be 50% of the increase for your insurance benefit amount for the one life insurance.
+[2 minutes 6 seconds][Customer] : All right, go on. Sorry. No, you're all right. Go on.
+[2 minutes 5 seconds][Agent] : So the policy there do go on it. It doesn't have an expiry date. OK. So as soon as the oldest person does turn 90, that's when those premiums are no longer payable.
+[2 minutes 19 seconds][Customer] : All right.
+[2 minutes 19 seconds][Agent] : And then again, you've both served the waiting period. Now this because of the funeral coverage there they they have that 12 month waiting period to be covered for death due to any cause. But you've both served that one there. And again, it does provide that loved ones that cash benefit in the event that you pass away. So we don't actually specify how to use the funds.
+[2 minutes 42 seconds][Customer] : Yeah, alright.
+[2 minutes 38 seconds][Agent] : It's just a straight cash payment that's paid out to the beneficiary and can be yours any way that they want to use for Yeah, look, was there a RA? Was it the coverage that was an issue or was it the the benefit amounts?
+[2 minutes 51 seconds][Customer] : Oh yeah, he's a yeah, yeah. He's like the the cost a bit, but I just wasn't like I re. I really should have read. I mean, because I've had the policy for that long and I've sort of just forgotten about it and then grumbled every time it's gone up. Really haven't even like looked at it because it was at 5:00. Well, we were coming from 5000, but now you're staying at 8000. Is that what you said?
+[3 minutes 11 seconds][Agent] : Yeah. So, well, actually I'm waiting for the system to load up to see what you were originally at 2010 because it may have been lower, but in 2014 we were at the 5513 for each of your.
+[3 minutes 18 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[3 minutes 26 seconds][Agent] : I'm going to bring up the old system to see what the what you were originally.
+[3 minutes 33 seconds][Customer] : Yeah, Yeah.
+[3 minutes 30 seconds][Agent] : So 2012, yeah, you're at the 5000 each and then it's just been increasing ever since then.
+[3 minutes 39 seconds][Customer] : Alright.
+[3 minutes 39 seconds][Agent] : So yeah.
+[3 minutes 39 seconds][Customer] : So does it, does that continue to increase like with every year or does it say it that, that 8000, whatever it is that we're in?
+[3 minutes 47 seconds][Agent] : Yeah, yeah. So look, the policy that you've got here, I'm just going to make sure I'm giving you the right information because it's one of the older ones.
+[3 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[3 minutes 54 seconds][Agent] : Give me just a quick moment.
+[4 minutes 2 seconds][Customer] : Yeah.
+[3 minutes 55 seconds][Agent] : I know there is a certain age where the automatic payment should increase to stop, but I just want to double check that one now with the one that you've got as well, you do get 10% of the premiums refunded every three years.
+[4 minutes 10 seconds][Customer] : Oh, really? Did I?
+[4 minutes 8 seconds][Agent] : So last year on the SI, yeah, the 6th of May, you would have got 200 and 2876 refunded into your account. Did you remember getting that one through?
+[4 minutes 14 seconds][Customer] : Oh, oh, probably, yeah, I probably did. Yeah. Honestly, I probably can't remember. But I mean, you guys did it.
+[4 minutes 21 seconds][Agent] : Yes.
+[4 minutes 21 seconds][Customer] : It would have happened. I'm. I'm sure it would have happened. Yeah. Alright, so that's every every three years. Yeah.
+[4 minutes 27 seconds][Agent] : Every three years, OK, now the automatic summing should increases with your benefits increase by 5%.
+[4 minutes 33 seconds][Customer] : Yeah.
+[4 minutes 32 seconds][Agent] : That one may expires the policy anniversary following the 85th birthday. So that's where you'd get your final benefit increase. OK, so you know how you benefit increases by that 5%, That's the final one.
+[4 minutes 44 seconds][Customer] : Yep, Yep.
+[4 minutes 44 seconds][Agent] : Then the increase yearly until the policy anniversary of your eighty 80th birthday. That's the last time that your age base increase would be on there. Our new policies are quite different.
+[4 minutes 54 seconds][Customer] : Is that in sorry, is that, is that increase in price or increase in what the policies were? Sorry, I'm just a bit confused.
+[4 minutes 59 seconds][Agent] : So yeah, so the automatic summing should increase is the benefit amount, OK.
+[5 minutes 5 seconds][Customer] : Yep, Yep.
+[5 minutes 5 seconds][Agent] : And if you declined that, it's still going to increase with age, but it's not going to be much of an increase compared to having the other increase with the automatic summing should increase. We've got covers now that don't increase. They stay the same unless you change the coverage. I just wanted to see what the price difference would be if we find you, if we change it over, we've got 8000 each. Would you prefer an $8000 coverage for yourself and pull or?
+[5 minutes 23 seconds][Customer] : Alright, well to be honest, I I really wouldn't even know what the cost of a funeral is these days. Like we've been pretty lucky. We haven't had too many people pass away that I've had to worry about what the the cost, the cost, the cost of a of a funeral.
+[5 minutes 45 seconds][Agent] : Yeah, yeah, yeah.
+[5 minutes 51 seconds][Customer] : Alright, So as to the main, the main reason was obviously like the cost and long you can't tell me how often it's gonna go up in in price, obviously.
+[5 minutes 59 seconds][Agent] : Oh, look, I can actually, I can give you a projection. OK. It's just a rough estimate, though.
+[6 minutes 3 seconds][Customer] : Yep, Yep, Yep.
+[6 minutes 5 seconds][Agent] : OK, just keeping that in mind. I'm just having a look at the new one. I'm waiting for it to load up because the new ones you can they they stay the same benefit amount.
+[6 minutes 16 seconds][Customer] : Yep.
+[6 minutes 14 seconds][Agent] : They stay the same price unless you change the cover on listing.
+[6 minutes 20 seconds][Customer] : Yep. Yep.
+[6 minutes 18 seconds][Agent] : Sure, it does decide to to make a change, but that's coming at a very different price. So give me a quick moment. All right, here we go. So did you want to have the automatic summing to increases applied or did you want to not have them increased so your benefit increases?
+[6 minutes 36 seconds][Customer] : So what's that name again? Sorry. Yep, Yep, Yep.
+[6 minutes 37 seconds][Agent] : So, so if you had, because you've got your renewal coming up in April, OK, you can either have it go up to $8552.25 or you can keep it 88,145.
+[6 minutes 52 seconds][Customer] : OK. And if I, if I opted not to have it have a go, what what, what does that mean?
+[6 minutes 57 seconds][Agent] : Yeah, yeah, I can. Yeah, definitely. So look, I'm just waiting for it to load up. So if you kept it at $8145.00, it's really slow. I'm so sorry. I'm just waiting for it to load.
+[6 minutes 58 seconds][Customer] : Like regarding what the cost of the policy like yeah, that's alright.
+[7 minutes 11 seconds][Agent] : Keeping in mind it's got the multipliers as well. So if death was due to an accident, the benefit amount is going to be tripled. OK, sorry. If you kept it at $8145.00 on the renewal, it'd be the 8579. This is just an indicative only quote. Provided that you declined that 5% increase and you kept it at 8145, it'll be the 8579 a month. Was there a particular reason that you chose to pay for it monthly, not fortnightly?
+[7 minutes 36 seconds][Customer] : Yeah, because we both, oh, we were both getting paid monthly.
+[7 minutes 47 seconds][Agent] : Oh, OK. Are you still getting paid monthly now or fortnightly?
+[7 minutes 50 seconds][Customer] : Well, my husband gets paid monthly and I've got a new job on getting paid, paid weekly. But as I said that, yeah, the, the main, main reason is I was just thinking like we've had this policy since 2010.
+[7 minutes 55 seconds][Agent] : Oh, OK, yeah.
+[8 minutes 3 seconds][Customer] : I couldn't believe it's been that long 2010. And as I said, because I really haven't read the policy and thought that it like it expires right when you're in your 70s or something.
+[8 minutes 16 seconds][Agent] : Oh, no. So the policy doesn't.
+[8 minutes 16 seconds][Customer] : But you said said it, you said it goes until you until you what, pass away, right?
+[8 minutes 23 seconds][Agent] : Yeah, the the policy doesn't have an expiry date.
+[8 minutes 32 seconds][Customer] : Oh yes.
+[8 minutes 26 seconds][Agent] : The only time that that policy would end is if you cancel the policy or if a claim was made or if the policy lapsed, you do no payment, but you just stop paying premiums at the age of 90. So it it carries on up until you decide to stop paying or if you cashed it out at 85 because you've got that option as well.
+[8 minutes 33 seconds][Customer] : Oh, OK, alright, alright, OK yeah. I was wondering how, like, 'cause we're both still working on how people afford it, like when they're on the pensions and all that. Like it's just what my worry is like when I'm on the pension, like I'm gonna, I mean, I'm, I'm still way a way off that like at the at the moment. But yeah. So alright, let me let, I won't cancel that. Let me think about it because you've, yeah, you've shed some more light on things that I weren't, I wasn't aware of.
+[8 minutes 45 seconds][Agent] : Yeah, Yeah, yeah.
+[9 minutes 11 seconds][Customer] : And that's my fault for not reading the policy or because I said I've had it for that long.
+[9 minutes 13 seconds][Agent] : No, look, yeah.
+[9 minutes 15 seconds][Customer] : I've just, we've just been sticking along.
+[9 minutes 16 seconds][Agent] : You've had it for a really long time. Like a really long time. I can, I can e-mail you some information on the coverage there.
+[9 minutes 19 seconds][Customer] : Yeah, well, yeah, if you could, that'd be great.
+[9 minutes 23 seconds][Agent] : Umm, yeah, definitely. Let me organize that now for you. You can even jump online to therealinsurance.com dot AU website.
+[9 minutes 33 seconds][Customer] : Yeah.
+[9 minutes 33 seconds][Agent] : On the right hand side there's like a little button that says my account.
+[9 minutes 37 seconds][Customer] : Alright, OK. Yep.
+[9 minutes 37 seconds][Agent] : If you click on that button, all you need is just to enter your mobile number, open up a new page where you'd go find where it says, you know, live funeral IP.
+[9 minutes 46 seconds][Customer] : Yep. Yep.
+[9 minutes 46 seconds][Agent] : Click on that button and then it'll open up a new page where you'd enter your mobile number in.
+[9 minutes 52 seconds][Customer] : Yep.
+[9 minutes 51 seconds][Agent] : Now, after entering the mobile number, it will send you out a card to your mobile phone.
+[9 minutes 56 seconds][Customer] : Oh, Yep. Yep. Yeah. To make sure it's me.
+[9 minutes 56 seconds][Agent] : That card already lost about 10 or 15 minutes, I'd say before, Yeah, yeah.
+[10 minutes 2 seconds][Customer] : Yep, Yep.
+[10 minutes 3 seconds][Agent] : And then after 10 or 15 minutes, you won't be able to use it.
+[10 minutes 3 seconds][Customer] : To use it.
+[10 minutes 6 seconds][Agent] : You'd have to do it again. And then when you get the card, you can jump in and have a look at the cover and and so forth. You wouldn't be able to make changes to the particular cover, but you can update banking details. You can, umm, make payment arrangements and so forth on there.
+[10 minutes 7 seconds][Customer] : Yep, Yep, Yep, Yep, Yep, Yep, Yep. Alright, OK, OK, alright, yeah, then. That sounds good.
+[10 minutes 22 seconds][Agent] : OK, Umm, well, did you want me just to leave everything the way it is for now?
+[10 minutes 28 seconds][Customer] : Just leave it.
+[10 minutes 26 seconds][Agent] : And if you decide, yeah.
+[10 minutes 28 seconds][Customer] : Leave it as in just send me the information so I just can really have a good a good look at it and then we'll decide. Decide from then.
+[10 minutes 35 seconds][Agent] : The site, yeah, look and keeping in mind as well, you can always change it to fortnightly if you wanted to.
+[10 minutes 37 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[10 minutes 41 seconds][Agent] : So at the moment you're paying the 7831 a month, OK, But on your renewal, OK, if you had the increase, remember how it's saying the increase of the benefit amount.
+[10 minutes 45 seconds][Customer] : Yep, Yep.
+[10 minutes 51 seconds][Agent] : So if it goes from 818145 plus the 5%, it's going to be the 8552 dot 8552, OK, at the $90.08.
+[11 minutes 3 seconds][Customer] : Yep, Yep, Yep.
+[11 minutes 4 seconds][Agent] : Now if you change yeah, from $90.08 a month to fortnightly, I'm just going to work that out for you. Divided by 26, it comes in at roughly the $41.57 a fortnight.
+[11 minutes 17 seconds][Customer] : Yeah.
+[11 minutes 25 seconds][Agent] : Yep.
+[11 minutes 17 seconds][Customer] : But if we and I just want to get checked if we opted not to like take the increase and just keep your 8100, whatever it may be, does that still mean that we pay the same price for the policy or there will be an in an increase as well?
+[11 minutes 31 seconds][Agent] : It's it's still be an increase up until pulled terms on the policy anniversary of his 80th birthday.
+[11 minutes 39 seconds][Customer] : Alright, OK.
+[11 minutes 38 seconds][Agent] : So if you said to, yeah, if you said to me, let's keep it at 8145, it'll still be an increase, but it's not going to be the same increase. So yeah.
+[11 minutes 43 seconds][Customer] : Yep, it won't be as much as if it won't be as much as if as if we opted to have the PO the the amount increased. Is that what it means? Yeah. Yeah.
+[11 minutes 55 seconds][Agent] : Correct, Correct, correct.
+[11 minutes 56 seconds][Customer] : OK. Alright.
+[11 minutes 56 seconds][Agent] : 100% correct.
+[11 minutes 57 seconds][Customer] : OK. Yeah. That mate makes sense. Yeah. No, thank you. Thank you very much.
+[11 minutes 58 seconds][Agent] : OK, Yes, it Yeah, no, that's OK.
+[12 minutes 2 seconds][Customer] : You know, you've explained a lot.
+[12 minutes 2 seconds][Agent] : So just no.
+[12 minutes 3 seconds][Customer] : Explained a lot.
+[12 minutes 4 seconds][Agent] : Look, if you have any issues, give me a call back. You can always request to speak with me again.
+[12 minutes 8 seconds][Customer] : Yep. Yep.
+[12 minutes 8 seconds][Agent] : I'm here Monday to Friday, anywhere from 8:00 AM to 8:00 PM Eastern Standard Time.
+[12 minutes 9 seconds][Customer] : No, Yeah.
+[12 minutes 13 seconds][Agent] : But just going to confirm for now, Karen, that you're now happy to keep the policy in place going forward. And the next payment will be the amount of $78.31 that will be debit on the 16th of March 2000 and 23. Is this correct?
+[12 minutes 23 seconds][Customer] : Yep, that's correct. Yep.
+[12 minutes 28 seconds][Agent] : OK, thank you. And this is definitely going to be affordable going forward.
+[12 minutes 33 seconds][Customer] : Oh, no, no, it is as it is at the moment. It's not, it's not really the price of the policy. We just want to make sure that because I don't, I would hate to think of how much money was paid on this policy since 2010.
+[12 minutes 30 seconds][Agent] : Or do you want me to call you back or are you happy just to did you want me to have a look?
+[12 minutes 47 seconds][Customer] : I guarantee it's more than $8000 that were paid out since 2010. If you could tell me that, I'm probably going to fall over. But yeah, if you could tell me how much was paid.
+[12 minutes 57 seconds][Agent] : Yeah, let's have a look. I'm just waiting for it to load because I'm gonna go into an older system now remembering it's 8145 each. So not just for for one of you says Paul passed away, it's eight one 8145 for him and then 8145 for you.
+[13 minutes 9 seconds][Customer] : Yep, Yeah, yeah, Yep, yeah, yeah. The trips.
+[13 minutes 16 seconds][Agent] : And then again it's got the multiplier if if one of you passed away of an accident, it's 24,400.
+[13 minutes 23 seconds][Customer] : Alright. Yeah.
+[13 minutes 23 seconds][Agent] : Yeah and 35 at the moment. Let me just waiting for it to load.
+[13 minutes 24 seconds][Customer] : Oh, Yep, you're right.
+[13 minutes 27 seconds][Agent] : This old system they use was.
+[13 minutes 29 seconds][Customer] : Oh, look, I'll tell you, you don't talk to me about computer. I've had, I've had the week from week from hell so far and it's only Tuesday.
+[13 minutes 37 seconds][Agent] : Oh no.
+[13 minutes 39 seconds][Customer] : It works. Yeah, it's been a BA, it's been a bad one, but just Cos printers don't work. It's just all all computer things.
+[13 minutes 38 seconds][Agent] : Oh gosh I feel your pain. This is telling me can't load the tab. OK, so you've got 2595.32. Which is 2595.32. OK. And then you on that one there web pay display totals .74. All right, So currently to date, we're sitting at roughly $8235.06.
+[14 minutes 29 seconds][Customer] : Oh, is that all?
+[14 minutes 30 seconds][Agent] : Yeah, did did you?
+[14 minutes 30 seconds][Customer] : Oh, I I thought it'd be more than that. That's alright.
+[14 minutes 33 seconds][Agent] : Yeah.
+[14 minutes 33 seconds][Customer] : No, that's. Did you think it'd be more than that? Thought? Yeah, Yeah, I thought it'd be way more than that. Yeah, I mate.
+[14 minutes 34 seconds][Agent] : So the 8230 I did, you want me to work out how many, how much bonuses you got back as well?
+[14 minutes 44 seconds][Customer] : Oh, no, no, that's, that's fine. No, it's made me feel it was a bit bit better. But yeah. Oh, no, that's, that's cool. That's I mean, I know you've got to pay for it. Like I haven't got the issue with that. And it's just that I said I've been ignorant and I haven't, I haven't looked at the policy for a lot of years because I've just been paying it and paying it. There's been no dramas. So I'll get the bit bit of money back off you guys. So I thought then we just started talking about it the other day and I was sort of like, we both sort of said, I'm sure it runs out a lot when you're 70 odd years old or something. I think, Oh, hang on, you know, because there are, there are policies like once a year, some certain age, like I like 70 or something, it expires. So you pay all this money and then you you got 75 or 78, whatever it is, they expire. So he paid all that money. He passed away like just after, but he's 5. And you, you haven't got any money to cover your funeral, but you've paid thousands of dollars. But yeah, but no, that's that's that sounds good.
+[15 minutes 6 seconds][Agent] : Yeah, uh, they expire nor nor I look completely definitely understand where you're coming from with that. I would be a massive fight for a lot of people. I could imagine especially I don't even know companies were doing that.
+[15 minutes 52 seconds][Customer] : Yeah, yeah. Yeah.
+[15 minutes 54 seconds][Agent] : I know without like, I know like income protect out. Like when we were doing income protection policies, they had expiry dates and you know, the accidental death covers that we had.
+[16 minutes 4 seconds][Customer] : Yeah. Yeah.
+[16 minutes 4 seconds][Agent] : They had expiry dates, umm, but our funeral covers and new ones have an end date of of you know, the policy anniversary of the, you know, of of 100. But oh, when the customer turns 100, that's when the new ones end.
+[16 minutes 17 seconds][Customer] : Yeah.
+[16 minutes 17 seconds][Agent] : But then in saying that, we actually pay them out their funeral insurance benefit amount enforced immediately. And we'd also pay out their little bonus if they get paid out as well.
+[16 minutes 25 seconds][Customer] : Yeah. Yeah. Yeah, I see. Yeah, yeah. Yeah. Yeah.
+[16 minutes 25 seconds][Agent] : So you know, it's quite, quite different the new one from this one, but again, you've got benefits and features this one has, the other one doesn't have, and the other one has benefits and features that your one doesn't have.
+[16 minutes 39 seconds][Customer] : Yeah.
+[16 minutes 38 seconds][Agent] : So it just depends on what kind of coverage you're looking for. Umm and again, you know, the new one that we've got doesn't have the real bonus that your one does.
+[16 minutes 42 seconds][Customer] : Yeah, yeah, yeah. And that's it.
+[16 minutes 47 seconds][Agent] : So the new one only gets the 10% uh, after the first year and that's it only where is your one every three years.
+[16 minutes 54 seconds][Customer] : Oh, right. Every three years. Yeah, yeah, That's that's fine. Yeah, yeah, yeah.
+[16 minutes 55 seconds][Agent] : Yeah, yeah, I.
+[16 minutes 58 seconds][Customer] : So no, I definitely won't be I I won't be cancelling it today. But yeah, if you could just send me some more, some more information to my e-mail address just for me, just to have it have it all there. But no, you've been MO most helpful and I appreciate it.
+[17 minutes 3 seconds][Agent] : Yeah, yeah, no, Hey, look, my pleasure. Look at any issues or concerns, call me back. Keeping in mind your renewal is coming up in April, are you happy to leave?
+[17 minutes 20 seconds][Customer] : Yeah, that's fine. Yeah. No, I don't want to pay that much at the moment.
+[17 minutes 21 seconds][Agent] : Leave it be with the automatic summit Should increase and have it go to the $90.08 a month or no? OK so did you want me to remove it? Which just means once I remove it we can't add it back on? Umm, unless you call up before the renewal date.
+[17 minutes 29 seconds][Customer] : No, no, yeah, That's, that's, that's, yeah, that's, that's. Are you happy with that call? Right. We'll just keep it at 8100, whatever the the other bits and pieces is. But yeah, no, we're both happy to keep it, keep it at that.
+[17 minutes 49 seconds][Agent] : All right, so it'll be the 8145 and then on the 16th of April it'll go to the 8579. If you're finding that you don't want to pay that amount, umm, you can bring the coverage down. Umm, just keeping in mind we would you'd have to reapply and subject to age eligibility to increase again and any increases would have to reach the 12 month waiting period. Umm, in saying that as well, I've emailed you had a copy of the PDS have a read through it. If you get stuck with any of the terminology, call me back and let me know. We can go through it together.
+[17 minutes 53 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah. No problem. Yeah, Yep.
+[18 minutes 20 seconds][Agent] : Umm, and again, if you do find that yourself and poor have come through, you know, uh, and I'm just saying event that significant and urgent, like, you know, a massive bill that's come through or your car had an issue with the car or something that's unexpected and you're going through a bit of, you know, financial concern.
+[18 minutes 41 seconds][Customer] : Of course.
+[18 minutes 37 seconds][Agent] : They call me back and let me know because we always have some hardship options available as well because you never feel like you're stuck.
+[18 minutes 42 seconds][Customer] : Yeah, Yeah. Oh, I can't see that like being an issue. But, but, but no, I appreciate it and thank you. Thank you very much.
+[18 minutes 42 seconds][Agent] : All right, No, Look at my pleasure. Look, was there anything else I could help you with today?
+[18 minutes 52 seconds][Customer] : Nah, that's all. Today you've been most helpful.
+[18 minutes 54 seconds][Agent] : No, look at my pleasure. It looks nice to meet you. Carried any issues?
+[18 minutes 58 seconds][Customer] : You too.
+[18 minutes 58 seconds][Agent] : We're here Monday to Friday anywhere from 8:00 AM to 8:00 PM Eastern Standard Time.
+[19 minutes 2 seconds][Customer] : No problem. Thank you.
+[19 minutes 5 seconds][Agent] : Alright, Thank you. Take care.
+[19 minutes 3 seconds][Customer] : Yep, thank you very much for calling you too. Bye bye.
+[19 minutes 6 seconds][Agent] : Alright, bye.

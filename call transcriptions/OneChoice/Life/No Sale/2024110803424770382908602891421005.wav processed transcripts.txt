@@ -1,0 +1,326 @@
+[3 seconds][Agent] : Good afternoon. Thank you for calling. One choice. Oh, hi, Rebecca.
+[6 seconds][Customer] : Hi, Jane.
+[6 seconds][Agent] : Hi, Jane.
+[7 seconds][Customer] : Hello. How are you?
+[8 seconds][Agent] : Hello. How are you? I'm well. Thank you. How are you doing? Good.
+[10 seconds][Customer] : That's good. I'm good. Thank you.
+[12 seconds][Agent] : Thank you. I've got a customer on the phone.
+[12 seconds][Customer] : I've got a customer on the phone who would like to get funeral insurance for her uncle.
+[16 seconds][Agent] : She would like to get funeral insurance for her uncle. Hmm. Mm. Yeah, that's fine. No problem at all.
+[21 seconds][Customer] : So would you be able to speak to her regarding that?
+[23 seconds][Agent] : Yeah, of course. Yeah, absolutely. Just a question. Is she Geraldine?
+[26 seconds][Customer] : OK, so Yep, that's correct.
+[30 seconds][Agent] : That's correct. Yes. I've done ID checks on her. Hmm. Mm. Date of birth. Umm, address, phone number, e-mail address.
+[30 seconds][Customer] : Yes, I've done all ID checks on her full name, date of birth, umm, address, phone number, e-mail address.
+[39 seconds][Agent] : OK, So everything for her just to start the from scratch on her uncle. Yeah. All good. Whenever you're ready. I'm happy. Whenever you're ready.
+[45 seconds][Customer] : All right, I'm going to drop her straight in if that's OK.
+[44 seconds][Agent] : I'm gonna drop her straight in. Of course. It's OK. Yeah, no problem. All right.
+[50 seconds][Customer] : All right, I'll just pop her out.
+[50 seconds][Agent] : I'll just drop her out. Thanks, Rebecca.
+[51 seconds][Customer] : Actually, that would help, wouldn't it? And now I'm just spinning, right. OK, I'm going to drop her in now.
+[1 minutes 9 seconds][Agent] : Thank you.
+[1 minutes 9 seconds][Customer] : OK, 321.
+[1 minutes 10 seconds][Agent] : Thanks, Rebecca 3/2 one Hi there. Good afternoon, Geraldine. It's Jane here from One Choice Insurance. Thank you for your call. How are you today?
+[1 minutes 23 seconds][Customer] : Hello. Thanks. Thanks, Benny. Thanks for asking.
+[1 minutes 24 seconds][Agent] : Uh, that's, that's well, my pleasure. And, and I believe you want to set up a funeral cover for your uncle, is that correct?
+[1 minutes 31 seconds][Customer] : Yeah, well, actually I was just inquiring of what type of cover, like I mean does he have any type of life cover as well or is it should I have to stick to the funeral cover please?
+[1 minutes 40 seconds][Agent] : OK, well, let's explain how it works. Absolutely.
+[1 minutes 43 seconds][Customer] : Mm hmm.
+[1 minutes 43 seconds][Agent] : And yeah, no, my pleasure to do so. And just let me let you know first that the calls are recorded and any advice we provide is limited to the products we offer and assisting you to make a decision about whether they're suitable for your needs. We don't consider your personal circumstances. Thanks, Geraldine. OK, so you can actually do the whole thing from start to finish if it's a funeral cover, if it is a life insurance, we do have to speak to your uncle himself.
+[2 minutes 7 seconds][Customer] : Yes, because again, not home at the moment on this.
+[2 minutes 12 seconds][Agent] : All right. Fair enough. Yeah. Yeah, of course.
+[2 minutes 12 seconds][Customer] : I'm in a kick up and I just thought I was just going to make the enquiry while I could for for the funeral cover.
+[2 minutes 23 seconds][Agent] : Of course. Yeah. Mm. Hmm. OK. How old? What's your uncle's first name?
+[2 minutes 20 seconds][Customer] : Can you tell me please, if if he's actually quite he's, he's actually quite vibrant, but he is getting on how much, how much cover would he get to cover the funeral costs Christopher?
+[2 minutes 38 seconds][Agent] : All right, just pop this in here. And and his surname? Geraldine Wilson.
+[2 minutes 46 seconds][Customer] : W Wilson, Yes.
+[2 minutes 50 seconds][Agent] : And of course, the all important one is date of birth.
+[2 minutes 56 seconds][Customer] : 6th of June 1952.
+[2 minutes 58 seconds][Agent] : O 606-1952. Perfect.
+[3 minutes 11 seconds][Customer] : Yep.
+[3 minutes 1 seconds][Agent] : OK, so he's 72 and he can choose from 3000 minimum, maximum 33 O starting at 3000, it goes up in $1000 increments. And what happens is, is that if it's a funeral cover, if you do this on his behalf, we don't even have to speak to your uncle at all. It's just a matter of he's got a guarantee to be accepted.
+[3 minutes 27 seconds][Customer] : Yeah.
+[3 minutes 27 seconds][Agent] : He's between the ages of 18 and 79 in the New Zealand resident.
+[3 minutes 34 seconds][Customer] : Yes.
+[3 minutes 30 seconds][Agent] : So he's a New Zealand resident currently residing in New Zealand also perfect. Now it's called a third party purchaser, but the third part sheet purchaser must be the pay as well.
+[3 minutes 42 seconds][Customer] : Yep.
+[3 minutes 41 seconds][Agent] : So would you be paying for this or would he be?
+[3 minutes 45 seconds][Customer] : Me. I told him I'll I'll cover it.
+[3 minutes 48 seconds][Agent] : Yep. Fair enough. Yeah. That's great. Yeah, That's that's fine. That's absolutely fine. That can happen. The, umm, difference between the life insurance is, is that, you know, with the questions that would have to ask them, they're ask him, they're about his health and his lifestyle. And I think you have a policy with us, is that correct?
+[4 minutes 1 seconds][Customer] : Yes, I do.
+[4 minutes 4 seconds][Agent] : Yes. So yours is a life, is it?
+[4 minutes 7 seconds][Customer] : Nice.
+[4 minutes 6 seconds][Agent] : Or a funeral life? Yeah.
+[4 minutes 11 seconds][Customer] : Yeah.
+[4 minutes 8 seconds][Agent] : So remember when you went through questions, we'd be doing the same thing with him, but we'd have to do it individually with him. But of course, you know, you can do this. If it's the funeral cover, the money gets paid out in the lump sum to his chosen beneficiaries. So let's just say that you took this out for Christopher and then he named you as a beneficiary, let's say, and that money gets paid out in the lump sum under the terms of the policy to you.
+[4 minutes 22 seconds][Customer] : Yeah, yeah, yeah.
+[4 minutes 33 seconds][Agent] : However, whatever way you want to use that money is all to do with whatever you guys want.
+[4 minutes 38 seconds][Customer] : Hmm. Mm. Of course.
+[4 minutes 38 seconds][Agent] : We don't get involved at all, OK.
+[4 minutes 41 seconds][Customer] : OK, Yeah. What about so in bed stand pertaining to the life cover?
+[4 minutes 47 seconds][Agent] : Yeah. Your life cover is similar. Yeah. So you put your beneficiaries, you would have put your B beneficiaries on and so on, would you? Yeah, yeah, yeah, Yeah. Good on you.
+[4 minutes 47 seconds][Customer] : We yeah, yeah, yeah, of course, of course.
+[4 minutes 56 seconds][Agent] : No, it's, it's it's kind of surprising. Sometimes people forget, you know, sometimes they they can't forget, which is, you know, it is what it is.
+[5 minutes 1 seconds][Customer] : Now I'm one of those guys.
+[5 minutes 2 seconds][Agent] : Yeah. Good on you. Good for you.
+[5 minutes 2 seconds][Customer] : I am but and but planning to the the funeral cover would be like the same way if something was to happen. So they need a beneficiary in there as well.
+[5 minutes 15 seconds][Agent] : Correct, very simple like your own.
+[5 minutes 17 seconds][Customer] : OK.
+[5 minutes 17 seconds][Agent] : We send policy documents out. He fills out the form who he wants to be as beneficiary. He can have up to five people.
+[5 minutes 17 seconds][Customer] : Yeah, yeah, yeah.
+[5 minutes 24 seconds][Agent] : It comes back to what is the proper legal do a Bo, a binding document and beneficiaries get in touch upon him passing away.
+[5 minutes 32 seconds][Customer] : MMM.
+[5 minutes 31 seconds][Agent] : We work really closely our claims department works closely with them.
+[5 minutes 52 seconds][Customer] : Yeah.
+[5 minutes 35 seconds][Agent] : Now, the one thing about the funeral cover is, is that, and once we receive the relevant documentation that's needed, and you, as you probably know, it does not actually have be a death certificate, you know, you will actually, umm, we can have proof of death, say for a medical practitioner or police say we'll pay the funeral benefits within one working business day once we receive the relevant documentation that's needed.
+[5 minutes 59 seconds][Customer] : Oh, OK. Cool. No, that's awesome.
+[6 minutes][Agent] : OK, So it's pretty fast Tracks.
+[6 minutes 2 seconds][Customer] : Yeah. Cool. Because, you know, it takes time to get an actual certificate some days. Yeah. Yeah, that is.
+[6 minutes 2 seconds][Agent] : Yeah, yeah, well, that can happen and that's why we understand that and that's why we'll accept proof of death elsewhere as well, which I find a lot of our customers are quite, oh, they're quite like, oh, that's actually pretty good because, you know, at least they have that that yeah. Oh, look, I know. Waiting on things. Goodness gracious. And yeah. OK, so when you take it out for Christopher for the 1st 12 months, he'll be covered for accidental death and accidental serious injury only. OK, so there's like a wait. There, like a stand out wait. Then after that first 12 months he'll be covered for death due to any calls.
+[6 minutes 42 seconds][Customer] : Oh, OK, great. Here are we still talking about how the funeral cover or life cover?
+[6 minutes 43 seconds][Agent] : OK, yes, still on funeral. Still on funeral.
+[6 minutes 49 seconds][Customer] : Oh, OK. Oh gosh. OK, cool. They sound so someone getting getting confused. OK. Yep.
+[6 minutes 51 seconds][Agent] : Yep, they can. They can. Let's just stick a funeral for now.
+[6 minutes 56 seconds][Customer] : Yep.
+[6 minutes 56 seconds][Agent] : You know, we can have a look at the life if we want to.
+[7 minutes 1 seconds][Customer] : Yep.
+[6 minutes 58 seconds][Agent] : But especially because you're thinking about doing this for him, this is your option to do this for him.
+[7 minutes 3 seconds][Customer] : Yeah.
+[7 minutes 3 seconds][Agent] : You know, the life insurance is a bit different. Of course, you know, we can get a price for it.
+[7 minutes 7 seconds][Customer] : Yes.
+[7 minutes 6 seconds][Agent] : But, you know, we'd have to go through him, speak to him. But if this is something that he wants you to do and you want to do this, yeah, your funeral would be the way to go.
+[7 minutes 14 seconds][Customer] : Yeah. We'll we'll funeral. Thank you.
+[7 minutes 16 seconds][Agent] : Yeah, that's fine. So yes, absolutely. So back to that little bit of information again. So for the 1st 12 months, he'll be covered for accidental death and accidental serious injury.
+[7 minutes 27 seconds][Customer] : Yeah.
+[7 minutes 26 seconds][Agent] : Only after the first 12 months, he'll be covered for death due to any cause.
+[7 minutes 32 seconds][Customer] : No.
+[7 minutes 30 seconds][Agent] : Doesn't matter what it is now with the funeral cover. You might find Geraldine out there. There's some companies that have got a 24 month wait. Theirs is 24, ours is 12.
+[7 minutes 43 seconds][Customer] : 24 months. Wait. Yours is 12.
+[7 minutes 42 seconds][Agent] : OK, and wait 12. Yeah.
+[7 minutes 50 seconds][Customer] : Yeah. Yeah.
+[7 minutes 46 seconds][Agent] : So you know the way for the 1st 12 months, he'll be covered for accidental death and accidental series injure only there's some companies out there, it's 24 months that they gotta wait.
+[7 minutes 55 seconds][Customer] : Oh, no. You're so. So. That's cool. That's fine.
+[7 minutes 57 seconds][Agent] : OK, so ours is at 12 months. OK, so and what else? Oh, in addition. OK, so there is a terminal illness benefits already included for your uncle in this. No extra cost, of course, after him holding his policy for 12 months. OK, so he's got it in place for 12 months.
+[8 minutes 17 seconds][Customer] : Yep.
+[8 minutes 17 seconds][Agent] : And if he was first diagnosed with a terminal illness, if he was given 12 months or less to lead by medical practitioner, we will go ahead and pay the whole claim out in full.
+[8 minutes 30 seconds][Customer] : MMM. OK. Lovely. Thank you. Yep.
+[8 minutes 30 seconds][Agent] : OK, got the whole amount of money in full and let's have a look at the price because we may as well while we're here, of course. Now. Yeah, I know for sure. Now what and what e-mail address you want to jot down here? Do you want to put your one down or? Yeah, what was that?
+[8 minutes 37 seconds][Customer] : Yep, please, yes, please 'cause he's he doesn't have anything technical.
+[8 minutes 48 seconds][Agent] : Yeah, fair enough. And that's understandable. This happens and we do this a lot for, you know, the people that a bit more elderly, you know, the family members take it out and that reasons of course. What's his, umm, e-mail or what's your e-mail address? Sorry.
+[8 minutes 48 seconds][Customer] : Yeah, okjerrygerri276@gmail.com.
+[9 minutes 4 seconds][Agent] : Yeah, at gmailperfect.com. OK, so we've got ummgerri276@gmail.com. Perfect. Alrighty, so let's pop this in and let's have a look at some pricing as well, alright? So 3000 minimum, maximum 30. How much? What are you thinking? You'd like to look out for Christopher.
+[9 minutes 17 seconds][Customer] : Yes, I want the maximum, please.
+[9 minutes 30 seconds][Agent] : Alright.
+[9 minutes 30 seconds][Customer] : These multifinals ain't cheap.
+[9 minutes 32 seconds][Agent] : I, yeah, I, yes, I know that's for sure. But you know what? What a celebration of life though, right? So, you know, that's what it's all about.
+[9 minutes 38 seconds][Customer] : Yeah, yeah.
+[9 minutes 38 seconds][Agent] : I actually love the meaning behind, you know, the whole and this, it's like Irish, it's like those Irish people, like. So it's all about celebrating that life that they had. So I love that.
+[9 minutes 56 seconds][Customer] : Mm, hmm. OK.
+[9 minutes 48 seconds][Agent] : And OK, so now if sadly Christopher did pass away via an accident, OK, the benefit amount that he's insured for will automatically triple so and it'll go to his chosen beneficiaries in a tripled amount.
+[10 minutes 8 seconds][Customer] : Mm. Hmm.
+[10 minutes 5 seconds][Agent] : So for example, if he's insured for 30,000, his loved ones would get 90,000 if he had accidental death.
+[10 minutes 13 seconds][Customer] : OK, that's cool.
+[10 minutes 14 seconds][Agent] : OK, It will all.
+[10 minutes 15 seconds][Customer] : Wow.
+[10 minutes 15 seconds][Agent] : Yeah. And it it's it's just a feature there. It's not costing you anything extra.
+[10 minutes 20 seconds][Customer] : Mm. Hmm.
+[10 minutes 19 seconds][Agent] : Now, there's another tripling, which is if he survives this one. So if he had accidental serious injury, OK, if that happened to him before his policy anniversary following 75th birthday, it will triple. Also in that circumstance, he's still alive.
+[10 minutes 35 seconds][Customer] : It's a lot, but I had a serious injury. Wow. OK.
+[10 minutes 35 seconds][Agent] : Let's say if he was Co correct correct, but would triple it and just pay it out to him. He'll get paid out triple the amount. I mean touching water course on anything to happen. But let's say something like that happened and he was a parapegic.
+[10 minutes 42 seconds][Customer] : Oh, thanks.
+[10 minutes 48 seconds][Agent] : Will will pay out the triple amount.
+[10 minutes 50 seconds][Customer] : Yeah.
+[10 minutes 50 seconds][Agent] : Yeah, touch what? Of course, absolute touch. What so 30,000 you'll pay every fortnight.
+[10 minutes 59 seconds][Customer] : Is that that fortnight?
+[10 minutes 55 seconds][Agent] : It'll be $169.44 fortnightly correct, 169 and 44 cents.
+[11 minutes 3 seconds][Customer] : So having 161-6944 Hi.
+[11 minutes 9 seconds][Agent] : Yeah, it's under 170, just under 170A fortnight. OK.
+[11 minutes 14 seconds][Customer] : Yep, I'm I'm hearing you.
+[11 minutes 15 seconds][Agent] : So, yeah, so it's been over $80.00 a week. OK. Do you want to have a look at a bit less or is that comfortable or?
+[11 minutes 27 seconds][Customer] : I'm just thinking because yeah, I'm no string to this in our family, unfortunately. So that's easy.
+[11 minutes 32 seconds][Agent] : Oh, sorry, it's tough.
+[11 minutes 34 seconds][Customer] : No, I know my the last one.
+[11 minutes 36 seconds][Agent] : It's hard, hard thing to go through.
+[11 minutes 37 seconds][Customer] : No, no, it's OK. No, I'm just trying to remember how much it costed us for the last one we had.
+[11 minutes 43 seconds][Agent] : Oh yeah. Mm hmm.
+[11 minutes 45 seconds][Customer] : Yeah. Gosh, it was about 20. K.
+[11 minutes 44 seconds][Agent] : Do you want to have a look at 20?
+[11 minutes 50 seconds][Customer] : Yeah. Yes, please.
+[11 minutes 51 seconds][Agent] : Yeah, no harm, no harm done here.
+[11 minutes 54 seconds][Customer] : Yep.
+[11 minutes 53 seconds][Agent] : I'll even have a look for you for sure. And it goes up and down to 1000. So 20,000 would be $112.96 fortnightly.
+[12 minutes 1 seconds][Customer] : Oh, that. That's doable, actually. Yeah. Yeah, that's doable. Yeah.
+[12 minutes 3 seconds][Agent] : OK, that's more doable for you and and you know, at the end of the day, you you wanna be comfortable, you know you wanna be happy with and you want to make sure. OK, well look this is OK, I can afford this and you know that's the right amount for you. Yeah, for sure. Now that's called your premium. OK, so your premium on the funeral cover, our Co funeral cover, your premiums a level, OK, which means they're actually designed to stay consistent year on year as Christopher's getting older. So you know what you're budgeting for. You know what you're paying, spending every fortnights because it's a level premium, this one. OK, When he reaches. Yes. Yeah, correct.
+[12 minutes 36 seconds][Customer] : $112 fortnight. OK, so Yep, bring you it too. Mm hmm.
+[12 minutes 38 seconds][Agent] : Yeah, correct. Yep. And it's $0.96 when he reaches 85 years of age. OK, You do not have to pay for this anymore. OK, We will still cover him. So he'll still be covered. We'll add on an extra 25% bonus. We'll get added on to the benefit amount, just no more payments. Or you can have he can have what's called, we call it an early cash out option when he reaches the age of 85. There are sometimes some cases where people want to end the cover. That can happen sometimes for whatever the personal reasons. He can do that if he wants to. It's called an early cash out option. He can choose to end this cover when he reaches the age of 85, and we'll pay back 75% of the funeral insurance benefit amount, like refunded back.
+[12 minutes 49 seconds][Customer] : Wow, Oh wow.
+[13 minutes 26 seconds][Agent] : Yeah, it's pretty straightforward policy, really. But there's features in there, there's benefits in there, and there's some choices in there as well, you know? OK, so we'll go for the 20,000, will we? Correct. Yep, 112 and $0.96.
+[13 minutes 33 seconds][Customer] : Yeah, there you go, 112 and $0.96 and the other was 169. Something you think?
+[13 minutes 47 seconds][Agent] : Let's have a look at the other one again, just to make sure, reiterate, make sure. So that one was 30,000 and it was 169. I'm sure it was 169, yes. And 44 cents, correct. OK, perfect.
+[13 minutes 50 seconds][Customer] : Yeah, yeah, with with the I've got to go with affordability.
+[14 minutes 11 seconds][Agent] : Yeah, Well, that's important.
+[14 minutes 11 seconds][Customer] : Yeah, yeah.
+[14 minutes 13 seconds][Agent] : And I mean, look, this is such a wonderful thing you're doing for your uncle, of course, and it helps out family when that sad time comes up. Yeah, absolutely. Gives you Peace of Mind. But when you're on desserts, listen, we've got to live. You know, we all have bills to pay. We've got to live, too. So that's important for you. Now, what we're going to do is I'm going to grab his home address. What would that be?
+[14 minutes 31 seconds][Customer] : Yep, 53 Hillside Rd. at Wellington.
+[14 minutes 35 seconds][Agent] : Hillside, OK. Hillside Rd. Mount Mallerton. Perfect. Yeah.
+[14 minutes 36 seconds][Customer] : Yes, Yes, ma'am.
+[14 minutes 40 seconds][Agent] : 1062 The post code there is one 06/2. Thank you. Mount Mallerton.
+[14 minutes 49 seconds][Customer] : Can you, please, is it possible? Can you know, you can put his name on it, but can you also please attention my name on there somewhere because he'll open it, don't know what he's looking at, and he'll RIP it up.
+[14 minutes 47 seconds][Agent] : And 53 was yeah, yeah, that's OK. So I've got your e-mail address, so it's going to go to that, right.
+[15 minutes 5 seconds][Customer] : Oh, great.
+[15 minutes 5 seconds][Agent] : But if you like, I can send the documentation to you.
+[15 minutes 9 seconds][Customer] : Please. Thank you.
+[15 minutes 9 seconds][Agent] : Yeah, of course. You bet. So we got for his address. So because I need it up there, which is 53 Hillside Rd. Mount Wellington 453. Now, where do you want this to go? What's your address?
+[15 minutes 11 seconds][Customer] : Yeah, yeah, yeah, yeah. The same address. We don't.
+[15 minutes 21 seconds][Agent] : Oh, same.
+[15 minutes 21 seconds][Customer] : He lives away. Yeah.
+[15 minutes 22 seconds][Agent] : OK, perfect. All right. Now it's going to go to that address. Like I will say though, his, his name will be on it though. Is that OK?
+[15 minutes 26 seconds][Customer] : Yep, it's fine.
+[15 minutes 31 seconds][Agent] : Yep.
+[15 minutes 31 seconds][Customer] : But I'll be able to put like an pair of Jordan Philips somewhere.
+[15 minutes 36 seconds][Agent] : And what I'll do is I'll send an e-mail and see if we can do that.
+[15 minutes 41 seconds][Customer] : Yeah.
+[15 minutes 39 seconds][Agent] : I'll send it to our support team and see. So I'll see if we can actually do that. I don't have the facility here to do it, but umm, oh, hang on a minute, hang on, hang on, hang on, hang on, hang on. I just thought about something 1 moment. I might be able to put Co on the address. Let me just see if it allows me to do that. So 53. OK. Yeah. All right, so let me do this. And I know what you mean.
+[16 minutes 13 seconds][Customer] : Yeah, 'cause if he sees both our names on it, he'll know to he'll come to me straight away. He goes, oh, it's for me and you, bub.
+[16 minutes 18 seconds][Agent] : Yeah, I know what you mean.
+[16 minutes 20 seconds][Customer] : And I was like, yes, uncle, yeah.
+[16 minutes 22 seconds][Agent] : Yeah, of course.
+[16 minutes 22 seconds][Customer] : So if he sees his name on, he'll get confused and go, what's this?
+[16 minutes 26 seconds][Agent] : Right. Yeah.
+[16 minutes 26 seconds][Customer] : And he won't tell me about it.
+[16 minutes 27 seconds][Agent] : Well, yeah, fair enough.
+[16 minutes 33 seconds][Customer] : Yep.
+[16 minutes 29 seconds][Agent] : I could put on C-O, which is care of the address. The address. But what? Cause the documentation is gonna come. It's gonna. But we're not worried about the e-mail version 'cause that's gonna go to you anyway. OK, so that's gonna go to you. But the the hard copy. What I. What I'll do is Geraldine, I'll send support an e-mail. I'll do it as soon as I finish and see if we can put on. So yours is Geraldine. What's your surname again?
+[16 minutes 58 seconds][Customer] : Philip, Yes.
+[16 minutes 56 seconds][Agent] : Sorry, Phi Double L OK, And your date of birth as well.
+[17 minutes 4 seconds][Customer] : 2nd 678 June 1978.
+[17 minutes 6 seconds][Agent] : So the second of June 6, 1978. OK, So what we'll do is because the documentation will be in his name, of course. So I'll send an e-mail to see if I can actually get back care of put on there.
+[17 minutes 16 seconds][Customer] : Yep, thank you.
+[17 minutes 20 seconds][Agent] : And then I'm I'm not 100% sure. I can't really guarantee because I genuinely I've I've never really been asked this before. So I'm really not 100% sure, but all I can say is I'll try for you, OK? Yeah, OK, correct. Correct you. Yeah, correct. It would be from there.
+[17 minutes 31 seconds][Customer] : Yeah, no, as long as I'll, I'll, I'll remind him to, if he sees, you know, because you guys got one choice written on your envelope, say I'll tell him to keep an eye out. You know, I'll hopefully he'll remember and you'll remember to come and get me. I'll just inform him. Keep an eye out for the letter.
+[17 minutes 43 seconds][Agent] : OK, Yeah, exactly.
+[17 minutes 48 seconds][Customer] : Yeah.
+[17 minutes 48 seconds][Agent] : And I'll definitely, I'll try anyway, I'll see what they say. I'm not 100% sure, but I'll definitely try. But in saying that, don't forget it's coming as an e-mail anyway, so you're gonna get an e-mail version as well. Alright, perfect.
+[17 minutes 56 seconds][Customer] : Cool, Nice, nice.
+[17 minutes 59 seconds][Agent] : Alright, no problem.
+[18 minutes 6 seconds][Customer] : Thank you.
+[18 minutes][Agent] : So now what we're gonna do is I'll get this activated now for your uncle and then I'll send policy documents for you to review. You've got a thir, you've got a 30 day cutting off. As well. So if you decide that it's not suitable, you can cancel within that 30 days to see the full refund of your premium unless the claim has been made. You may pay more in total premiums over the life of the policy than the benefit of the matter. Just to be aware with this insurance, it doesn't have a savings or investment element.
+[18 minutes 28 seconds][Customer] : Yep.
+[18 minutes 26 seconds][Agent] : So if you cancel outside that 30 days, your cover will stop and you will not receive anything back. But you've definitely got that choice. And one question on this, and it is can I please confirm you're authorized to purchase this policy on behalf of the insured, which is your Uncle Christopher.
+[18 minutes 42 seconds][Customer] : Yep.
+[18 minutes 43 seconds][Agent] : Perfect. Now let's pick a date when you want the first payment to come out on. So today is the 16th Friday.
+[18 minutes 48 seconds][Customer] : Oh, hang on.
+[18 minutes 48 seconds][Agent] : What date suits you best?
+[18 minutes 49 seconds][Customer] : Let me keep my phone. Let me keep my phone.
+[18 minutes 50 seconds][Agent] : Yeah, yeah.
+[18 minutes 51 seconds][Customer] : 1 moment.
+[18 minutes 51 seconds][Agent] : Take your time. Take your time.
+[18 minutes 57 seconds][Customer] : What's the date today? The 16th?
+[19 minutes][Agent] : Today is the 16th. Yeah. 29th. Yeah. OK. Perfect.
+[18 minutes 59 seconds][Customer] : Yeah, I think 29th, please, of August and every fortnight after.
+[19 minutes 14 seconds][Agent] : Yeah. That's it. So 29th is Thursday. First payment coming out that day will be every two weeks after that.
+[19 minutes 21 seconds][Customer] : Oh, hang on. Just if I get that right.
+[19 minutes 19 seconds][Agent] : Then on a Thursday, 29th is a Thursday.
+[19 minutes 25 seconds][Customer] : Sorry, sorry, sorry. Can you make this the 30th?
+[19 minutes 27 seconds][Agent] : Yeah, of course. So two weeks from today, which is the 30th is a Friday, every four night after that, then on a Friday.
+[19 minutes 34 seconds][Customer] : Yes, please?
+[19 minutes 34 seconds][Agent] : Perfect. Now Geraldine, do you want to use an account number for this or do you want to use a debit Visa MasterCard?
+[19 minutes 42 seconds][Customer] : No, It'll be an account number. And can I send that through? Yeah. Do you need it now?
+[19 minutes 43 seconds][Agent] : OK, well I'll get it off you now in a minute. Yes, we'll do this now. We'll get it activated into another phone. And what I just need to do is ask you a couple of questions. It's kind of a request that I asked from you over the phone.
+[19 minutes 52 seconds][Customer] : OK, Yep, that's my problem.
+[19 minutes 56 seconds][Agent] : So first one is perfect. The first one is do you have authority to operate this bank account alone and do not need to join the authorized debits?
+[20 minutes 6 seconds][Customer] : Is that my own account?
+[20 minutes 7 seconds][Agent] : Your old one yet your your own 1 yet. So do you have authority to operate this bank account alone and do not need to join the authorized debits?
+[20 minutes 7 seconds][Customer] : Sorry, say that again, Correct. Yes, I have.
+[20 minutes 18 seconds][Agent] : Perfect, have you cancelled a Direct Debit Authority for one Choice with Pinnacle Life as the initiator in the last nine months on the account you are providing?
+[20 minutes 32 seconds][Customer] : No, I haven't.
+[20 minutes 30 seconds][Agent] : Have you cancelled it asking OK, Perfect, are you happy to set up a Direct Debit Authority without signing a form?
+[20 minutes 38 seconds][Customer] : Correct. Yes.
+[20 minutes 39 seconds][Agent] : Just thank you. And this last little piece just a yes or no. And this reads you agreed this authority is subject to the terms and conditions relating to the bank account provided and the specific oh, sorry, hang on. You agree This authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life. So is the initiator for one Choice to direct debit this account in accordance with these terms and conditions?
+[21 minutes 9 seconds][Customer] : Yes.
+[21 minutes 10 seconds][Agent] : Perfect. Whenever you're ready there, Jeremy, you can read out the account number. Whenever you're ready. Take your time.
+[21 minutes 19 seconds][Customer] : Hang on, hang on a second.
+[21 minutes 32 seconds][Agent] : Yes.
+[21 minutes 32 seconds][Customer] : On speaker.
+[21 minutes 33 seconds][Agent] : You take your time, then. No rush.
+[21 minutes 34 seconds][Customer] : Can you hear me?
+[21 minutes 35 seconds][Agent] : Yeah. I can hear you. Yeah. Louder. Yeah. Mm. Hmm. Yeah, mm Hmm.
+[21 minutes 37 seconds][Customer] : OK, 123100 025560200.
+[21 minutes 51 seconds][Agent] : OK, I'll repeat it. 123-1000 to 556-0200, ASB Bank. Now the name of that account, is it Geraldine Phillips or anything else?
+[21 minutes 50 seconds][Customer] : It takes me guilty. Noah Phillips. A parsonated name.
+[22 minutes 8 seconds][Agent] : Oh, yeah, OK, I put that in then as well. Is that Noah or is there another spelling?
+[22 minutes 13 seconds][Customer] : Just in a way. Hello.
+[22 minutes 15 seconds][Agent] : NOA? OK, perfect. And then- and then Phillips.
+[22 minutes 19 seconds][Customer] : Yeah.
+[22 minutes 19 seconds][Agent] : OK, OK, perfect. Let's put this in. So Geraldine, Geraldine. And then we have Noah NOA, and then we're- Phillips with 2L's in Phillips. Perfect. OK, now I'm going to read your declaration. Documentation's going to jerry276@gmail.com. I am going to send them an e-mail. I really cannot guarantee that it could have, you know, care all of there. But I, I, I can only ask, I suppose.
+[22 minutes 46 seconds][Customer] : That's OK.
+[22 minutes 47 seconds][Agent] : OK, yeah, I can.
+[22 minutes 48 seconds][Customer] : That's OK. Thank you.
+[22 minutes 48 seconds][Agent] : I'll definitely ask for you though, to be sure. And now, umm, I'm going to read this declaration and it will have a course, Christopher's name at the top of the documentation and it'll say thank you Christopher Wilson and thank you, of course, Geraldine. It is important to understand the following information. I will ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice funeral insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and Z Limited, whom I referred to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision, but whether One Choice Funeral Insurance is suitable for your needs on the basis of the information you provided us about your general circumstances. When providing this advice, we've not considered your specific financial needs or goals, or considered any other insurance products or services. We have verified that you understand the cover and that you considered that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Sen statement which sets out more information which can assist you to decide whether to act on any advice we provide. 1 short question and it reads. Can you please confirm that you understand and agree to this? Yes, just yes or no?
+[24 minutes 8 seconds][Customer] : Yeah.
+[24 minutes 9 seconds][Agent] : Thank you Charlene. Your answer to the application questions and any related documents form the basis of your contact of Insurance and Pinnacle relies upon the information you have provided when assessing your application and by agreeing to this declaration you consent to be contacted by us in relation to other products and services. You can opt out of this at any time. By contacting us, you've agreed to take out a single one choice funeral insurance policy with the following cover. Christopher Wilson is covered for $20,000 in the event of death. In the case where death is accidental or if you suffer a defined accidental serious injury, the benefit amount will triple in the 1st 12 months your policy is enforced. The death benefit is paid only in the event of accidental death. Once a life insured reaches age 85, you can choose to voluntary council that person's cover to receive a lump sum of 75% of the chosen benefit amount. If you take up this offer, you will no longer have a right to claim under the policy for that life insured. This policy is an insurance policy and does not have a savings or investment component. Cover ends prior to age 85. No benefit is payable and there is no refund of premiums after the cooling off. If covered continues beyond age 85, the life insured will receive an additional 25% of bonus cover from that date and will not be required to pay any further premiums. The bonus cover is not payable if the early cash out option has been taken out. Cover for each life insurance ends on the day prior to the 100th birthday. We'll pay the funeral benefit and bonus cover for the life insured. At this point your premium for the first year of cover is $112.96 per fortnight. Your premiums are level which means they are designed to stay consistent. Year on year will only change if you're all to your cover or the insurer adjust the premium rates applying to your policy. The insurer can only make a change if it is applied consistently across all policy holders. You may pay more on premiums than the benefit amount over the life of the policy. Included in your premium is an amount payable to GFS of between 36% and 60% of each premium.
+[26 minutes 9 seconds][Customer] : Mm hmm.
+[26 minutes 8 seconds][Agent] : Your premium will be deducted in accordance with the authority you have provided to us. AM investors rated Pinnacle with AB financial strength good and Triple B minus issue a credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cutting off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have launched a claim. 2 short questions and the very first one is do you understand and agree with the declaration? Just yes or no?
+[26 minutes 52 seconds][Customer] : Yes.
+[26 minutes 53 seconds][Agent] : Thank you Geraldine. And the last question is, would you like any other information now or would you like me to read any part of the policy documents to you?
+[27 minutes 3 seconds][Customer] : You know everything that you just stated, Is it going to be in that post document where I can read it? Yeah.
+[27 minutes 6 seconds][Agent] : Yeah, yes, a policy document is gonna have everything in it, not the declaration per SE, that every word of it, but there's lots in there about the policy. You know, that looks come your way. Yeah, it'll come to home address and e-mail. And so, yeah, if if you're happy, that's OK. So, but just that last question, either yes or no. So would you like any other information now or would you like me to read any part of the policy document to you?
+[27 minutes 27 seconds][Customer] : No, thank you.
+[27 minutes 28 seconds][Agent] : Awesome.
+[27 minutes 28 seconds][Customer] : I'm good for now. Thanks.
+[27 minutes 29 seconds][Agent] : OK, I just thought about something, Geraldine, I just thought, do you have another moment? Maybe I'll give them a quick ring and see if we can and if that's possible to do. Have you got a minute?
+[27 minutes 40 seconds][Customer] : Yeah, not a problem.
+[27 minutes 38 seconds][Agent] : And I'll just ring support real fast and say all right, yeah, OK, I'm just going to check.
+[27 minutes 42 seconds][Customer] : Yeah, I'm already pulled over on the side of the road. It's OK.
+[27 minutes 45 seconds][Agent] : You're awesome, you're awesome. But I mean, I may as well let you know now because I prefer to not, you know, keep you thinking. And so I've got an 02108641092 and your address is 53 Hillside. So I'm called Lives Review. All right, perfect. All right, just hold on a minute. I just called them just to see what they say and I'll be right back.
+[27 minutes 50 seconds][Customer] : Yeah, Yes, Yeah, OK.
+[28 minutes 8 seconds][Agent] : OK, thanks.
+[28 minutes 9 seconds][Customer] : Thank you.
+[28 minutes 9 seconds][Agent] : Well, no, my pleasure won't be long. Hi, Shanae. Hi, Jane.
+[28 minutes 25 seconds][Customer] : Hi, Jane.
+[28 minutes 25 seconds][Agent] : How you doing?
+[28 minutes 26 seconds][Customer] : How you going?
+[28 minutes 26 seconds][Agent] : Well, thank you. I just have a query.
+[28 minutes 27 seconds][Customer] : Well, thank you. I just got a query, by the way.
+[28 minutes 28 seconds][Agent] : By the way, I've got a customer on the line.
+[28 minutes 30 seconds][Customer] : I've got a customer on the line.
+[28 minutes 30 seconds][Agent] : It is my customer that I've just sold third party to for her uncle.
+[28 minutes 31 seconds][Customer] : It is my customer that I've just told third party to her uncle.
+[28 minutes 34 seconds][Agent] : She she wants to know whether or not on the envelope are we able to say care of her name.
+[28 minutes 34 seconds][Customer] : She wants to know whether that on the envelope are we able to say care of her name. I don't believe that they put it. I think they just put down the policy on his name.
+[28 minutes 47 seconds][Agent] : I thought so.
+[28 minutes 47 seconds][Customer] : We're unable to put anything else in there.
+[28 minutes 49 seconds][Agent] : Yeah, I thought so. And it's just like she thought he might get it and tear it up or, you know, so she would just so can I will I safely say sorry, we can't do that.
+[28 minutes 49 seconds][Customer] : Yeah, You know, so can I will I say to say sorry, we can't do that.
+[28 minutes 56 seconds][Agent] : I just let him know.
+[28 minutes 58 seconds][Customer] : I just let him know.
+[28 minutes 58 seconds][Agent] : Unfortunately. That's what the document. OK, Someone set it up on their behalf.
+[28 minutes 58 seconds][Customer] : Unfortunately, whoever his name is listed as the policy or, you know, they've that's what the documents will reflect, even if someone set it up on their behalf, unfortunately.
+[29 minutes 7 seconds][Agent] : OK, that's alright.
+[29 minutes 7 seconds][Customer] : OK, that's all right.
+[29 minutes 8 seconds][Agent] : I just wanted to sort of make sure. And while she was on the line.
+[29 minutes 9 seconds][Customer] : I just want. Yeah, of course. OK.
+[29 minutes 10 seconds][Agent] : OK, I'll let her know. That's fine.
+[29 minutes 11 seconds][Customer] : I'll let you know that.
+[29 minutes 11 seconds][Agent] : I'll hang up from you. Alright. Have a good day.
+[29 minutes 12 seconds][Customer] : Thank you today. You're right. Have a good day.
+[29 minutes 15 seconds][Agent] : You too.
+[29 minutes 15 seconds][Customer] : Bye.
+[29 minutes 15 seconds][Agent] : Thanks, sweetie.
+[29 minutes 16 seconds][Customer] : You too.
+[29 minutes 19 seconds][Agent] : Jerry, are you there?
+[29 minutes 21 seconds][Customer] : Yep.
+[29 minutes 21 seconds][Agent] : Yeah, thanks for holding. Look, I thought so it's really what it is, is because it's under the the person's name. That is the name that'll go on the envelope. OK, but just look out for it. Look, generally 5 to 10 business days, depending on the area, I suppose as well.
+[29 minutes 29 seconds][Customer] : Yep, Yep.
+[29 minutes 36 seconds][Agent] : But just keep your eye out. But don't forget your e-mail is coming anyway.
+[29 minutes 41 seconds][Customer] : Cool, cool.
+[29 minutes 39 seconds][Agent] : OK, now.
+[29 minutes 41 seconds][Customer] : So I'll just get on to him too. And, you know, I need to be, you know, don't RIP it up. Yeah.
+[29 minutes 47 seconds][Agent] : Yeah. Oh no, I totally understand. And you are the 2nd of June 1978 aren't you? Date of birth? Yeah perfect. OK now, umm, alright so but if you need anything down the track or anything, give us a call, OK? Never a problem, you know, always know we're here to support if you ever need anything. Uh, all right.
+[30 minutes 5 seconds][Customer] : Thank you so much.
+[30 minutes 6 seconds][Agent] : Now, my absolute pleasure. It's been really delightful to look after you. What a nice niece you are. My goodness gracious. It's awesome.
+[30 minutes 13 seconds][Customer] : You too. Same likewise.
+[30 minutes 15 seconds][Agent] : Thank you. Thanks, Jolene.
+[30 minutes 16 seconds][Customer] : Thank you. Thanks. Thank you. You too.
+[30 minutes 17 seconds][Agent] : All right, my pleasure. Have a wonderful day. Take care. Bye.
+[30 minutes 21 seconds][Customer] : Bye.

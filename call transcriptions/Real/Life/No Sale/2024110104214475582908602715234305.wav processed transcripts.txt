@@ -1,0 +1,359 @@
+[10 seconds][Customer] : I'm doing OK.
+[12 seconds][Agent] : Hello, this is Christine calling from real insurance Gen. Look I just following up in regards to enquiry for our life cover. Did you pop through a few days ago? How are you today?
+[20 seconds][Customer] : Oh yes, 5 minutes.
+[23 seconds][Agent] : That's good to hear. So I'm just calling to provide you with the pricing for that enquiry and answer any questions you may have before I can assist you. Can I make sure your first and last name is Jean Lucca Burger, is that correct?
+[28 seconds][Customer] : OK, yes, OK, yes, that's correct. Yes, right. Yes, that's right.
+[37 seconds][Agent] : And your date of birth is the 18th of December 71, lovely. Jean Lucca. I'll just confirm as well that you are a male and an Australian resident.
+[48 seconds][Customer] : Yes, that's right.
+[47 seconds][Agent] : Yes or no, Thank you and thanks for popping that enquiry through. So I'll be happy to explain how it works. Just be aware firstly that all calls are recorded. So any advice I provide is general in nature, may not be suitable to your situation.
+[55 seconds][Customer] : OK, OK. Yeah. OK.
+[1 minutes 3 seconds][Agent] : So I'll provide you with the pricing for the $400,000 of cover that you pop through.
+[1 minutes 8 seconds][Customer] : So, so before we continue, I'm, I'm not, I'm sure we're going to go through a number of questions. OK, I've only, I've got 15 minutes. Did you think you have to cover it?
+[1 minutes 16 seconds][Agent] : We don't have to go through the application now.
+[1 minutes 20 seconds][Customer] : OK, alright.
+[1 minutes 18 seconds][Agent] : It's just to provide you with the pricing and I can send that out for you.
+[1 minutes 21 seconds][Customer] : And then I it won't be for it won't be for 400. It will be for about 250.
+[1 minutes 26 seconds][Agent] : Oh, OK. Yeah, we can do 250.
+[1 minutes 28 seconds][Customer] : Yes. Oh, OK.
+[1 minutes 27 seconds][Agent] : So just to clarify, the level of cover ranges from $100,000 for you up to the maximum 750,000.
+[1 minutes 34 seconds][Customer] : Yeah.
+[1 minutes 34 seconds][Agent] : So just looking at the 250, I'll confirm. Jen, Luca, have you had a cigarette in the last 12 months? Yes or no?
+[1 minutes 40 seconds][Customer] : No, no.
+[1 minutes 42 seconds][Agent] : No worries. So for that $250,000 of life insurance per fortnight, the premium is $40.65. OK.
+[1 minutes 52 seconds][Customer] : OK, alright, so what's this?
+[1 minutes 54 seconds][Agent] : So I'll e-mail that to jim.lucas7007@gmail.com.
+[1 minutes 58 seconds][Customer] : So how much did you say $40 per fortnight for? For how much cover?
+[2 minutes 3 seconds][Agent] : Yes, $40.65 a fortnight, $250,000 of cover.
+[2 minutes 10 seconds][Customer] : OK, OK, send it through to me.
+[2 minutes 12 seconds][Agent] : OK. Is the e-mail jim.lucas7007@gmail.com.
+[2 minutes 17 seconds][Customer] : That's correct.
+[2 minutes 18 seconds][Agent] : Lovely. And did you want me to quote you on any other amounts or you're just happy with that amount?
+[2 minutes 22 seconds][Customer] : No, no, that's fine. I'm more about the question, you know, because is it like a full of medical that you need?
+[2 minutes 30 seconds][Agent] : So we just asked you some questions based on your health and lifestyle.
+[2 minutes 34 seconds][Customer] : OK, alright.
+[2 minutes 34 seconds][Agent] : You don't need to provide any medical checks at all.
+[2 minutes 34 seconds][Customer] : Oh, OK, alright.
+[2 minutes 36 seconds][Agent] : It will take 10 minutes so to take you through the application and that actually determines whether you're eligible for the cover or not.
+[2 minutes 40 seconds][Customer] : Oh, OK, alright.
+[2 minutes 43 seconds][Agent] : So without that application, you won't know.
+[2 minutes 46 seconds][Customer] : OK.
+[2 minutes 46 seconds][Agent] : So when would you like me to schedule a call back for you to take you through the application?
+[2 minutes 50 seconds][Customer] : Yeah. So if you're saying how long, you said how long should the application take? I mean, this one I'll ask.
+[2 minutes 54 seconds][Agent] : It takes it can take up to 10 minutes.
+[2 minutes 54 seconds][Customer] : I mean, oh, OK. So it's not like a lengthy thing. All right, So I don't need to go get my medical records or whatever. So it's a such.
+[3 minutes 1 seconds][Agent] : No, no, it's based off all the information that you provide to us.
+[3 minutes 5 seconds][Customer] : Ah, OK.
+[3 minutes 5 seconds][Agent] : You don't need to.
+[3 minutes 5 seconds][Customer] : All right. OK. So I don't need to go back. OK. Which is fine. That's why I'll ask because if it's like that, then I can do it over the weekend.
+[3 minutes 14 seconds][Agent] : We're closed on the weekend.
+[3 minutes 16 seconds][Customer] : No, no.
+[3 minutes 18 seconds][Agent] : Perfect. What time would you like Monday?
+[3 minutes 16 seconds][Customer] : Then you come back to me on Monday or, or or or do or. I mean, would you be able to action it if it's really only 10 minutes? If I do it? Like, are you saying I can do it 4:00 and you're going to phone me by 5:00 then I think Or can we do it on Monday? Oh. Oh, OK. Yeah. OK. OK.
+[3 minutes 31 seconds][Agent] : I can do it now if if you've got 5 to 10 minutes, I can run you through and then if you need to go, just let me know that you have to go and we can always reschedule for the rest. Yeah.
+[3 minutes 38 seconds][Customer] : So are you going to do it? So are you going to do it over the phone or e-mail? I'm not sure.
+[3 minutes 38 seconds][Agent] : How does that sound correct over the phone?
+[3 minutes 41 seconds][Customer] : Oh, OK. OK, that's fine. Yeah. OK.
+[3 minutes 42 seconds][Agent] : So I just have to read out a pre underwriting disclosure. So first that'll explain why I need to take you through the application.
+[3 minutes 48 seconds][Customer] : Yes, OK.
+[3 minutes 51 seconds][Agent] : And then what happens is we'll get through the application to determine not only if you're approved, but it'll also give you the final price based on the outcome of the questions, which I'll take you through.
+[3 minutes 58 seconds][Customer] : Oh, OK, alright, OK, OK, so I'm I'm with you now, so I see if you can do it.
+[4 minutes 2 seconds][Agent] : Perfect.
+[4 minutes 2 seconds][Customer] : I will find 10 minutes. Well let's do it. I thought it's something that you need me to fill out the document that's like 50 pages on it. No. Oh OK alright.
+[4 minutes 8 seconds][Agent] : No, no, no, that's fine. So let's let's to access this application first Tin Luca, I need to save an address for you. So what's your post code to start with, please?
+[4 minutes 16 seconds][Customer] : AH15AA with tear Rd.
+[4 minutes 20 seconds][Agent] : Your post code perfect. What's the suburbs? St. Ives or Saint Ives chase Lovely And it was what was the number again? Sorry 2015 A thank you. And what was the name of the street again or the road?
+[4 minutes 22 seconds][Customer] : UH-2074 then offset 15I awatia AWITES.
+[4 minutes 43 seconds][Agent] : Perfect. So making sure I've got that correct. Your residential and postal address 15 A for Apple Albertia Rd. in Saint Ives Chase, NSW 2075. Is that correct?
+[4 minutes 54 seconds][Customer] : That's correct.
+[4 minutes 56 seconds][Agent] : Thank you and I'll read this out to you Jim Luca. So please be aware firstly that all calls are recorded, so any advice I provide is general in nature may not be suitable to your situation. What we do is we collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. So by proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim or make adjustments to the terms and conditions of your policy. Jim, look, I do understand and agree to your duty. Yes or no, Thank you. First question is, have you been hospitalised for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Yes or no?
+[6 minutes 15 seconds][Customer] : Yes, No.
+[6 minutes 28 seconds][Agent] : And next question is, are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia, yes or no?
+[6 minutes 37 seconds][Customer] : Yes.
+[6 minutes 39 seconds][Agent] : Thank you. Does your work require you to go underground? Work at heights above 20 meters, dive to that's below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore.
+[6 minutes 54 seconds][Customer] : No.
+[6 minutes 53 seconds][Agent] : Yes or no, Thank you. The next section is just in relation to your height and weight, so please be aware that I'm required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So just firstly, what is your exact height please? Centimeters and what is your exact weight please?
+[7 minutes 15 seconds][Customer] : 165, yeah, that's like 72, just 173. So you want to talk to 73?
+[7 minutes 30 seconds][Agent] : The exact weight that you last time you measured yourself, what was it exactly? So it was 70, it was 73.
+[7 minutes 31 seconds][Customer] : Yes, like like I missed the once a week it was looking at like 73, just the 73.
+[7 minutes 41 seconds][Agent] : Perfect. So your exact height, you're 100% correct is 165 centimetres and your exact weight you're 100% correct. Accurate that it's 73 kilograms exactly. Is that correct?
+[7 minutes 40 seconds][Customer] : Yeah, 73, Yeah, that's right.
+[7 minutes 54 seconds][Agent] : Perfect. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? Yes or no? Thank you. I'll just get you to reconfirm your height and weight. Exact height was 165 centimetres, exact weight is 73 kilograms.
+[8 minutes][Customer] : No, that's right. Correct. Yes, yes, yes.
+[8 minutes 9 seconds][Agent] : Yes or no, Yes or no, Thank you. Perfect your age, decoration next to the best of your knowledge we take all applicants through as asking are you infected with or are you in a high risk category for contracting HIV which causes AIDS Yes or no? And do you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months? Yes or no?
+[8 minutes 28 seconds][Customer] : No, Yes.
+[8 minutes 40 seconds][Agent] : Yes. Wonderful. And which country or countries do you intend to travel to or reside in?
+[8 minutes 46 seconds][Customer] : Italy.
+[8 minutes 47 seconds][Agent] : Beautiful.
+[8 minutes 47 seconds][Customer] : Oh yeah. Travel 2. So it's like even a holiday, right?
+[8 minutes 52 seconds][Agent] : Yeah, that's fine.
+[8 minutes 50 seconds][Customer] : If I tell you, if I tell you, if you say it's a holiday, right. OK.
+[8 minutes 55 seconds][Agent] : Yep, that's fine. So it's just Italy, is that it?
+[8 minutes 55 seconds][Customer] : Yeah, Yes, yes. That's it.
+[8 minutes 59 seconds][Agent] : Thank you. And will you be overseas for longer than three consecutive months, yes or no?
+[9 minutes 4 seconds][Customer] : No.
+[9 minutes 5 seconds][Agent] : No, that's fine. Beautiful.
+[9 minutes 9 seconds][Customer] : Yes, my mum.
+[9 minutes 7 seconds][Agent] : Are you originally from Italy or are you just going there for a holiday?
+[9 minutes 10 seconds][Customer] : No, my mum is there. My mum lives there.
+[9 minutes 12 seconds][Agent] : Oh, that's wonderful.
+[9 minutes 13 seconds][Customer] : Yes.
+[9 minutes 13 seconds][Agent] : That would be nice to catch up with mum. Oh, beautiful. And I'm not sure if you're aware Jen will cover once this policy is in force. If you are approved, you actually are covered worldwide 24/7.
+[9 minutes 25 seconds][Customer] : Oh, OK. Excellent.
+[9 minutes 26 seconds][Agent] : So no matter where you are in the world, you'll continue to be covered.
+[9 minutes 29 seconds][Customer] : Yes. Alright.
+[9 minutes 29 seconds][Agent] : At least you have that Peace of Mind in place. Thank you. So the next question is, do you have existing life insurance policies with other life insurance companies with a combined total sum insured of more than $5,000,000, yes or no?
+[9 minutes 44 seconds][Customer] : How much? 5 million. Five. No, no, no.
+[9 minutes 46 seconds][Agent] : Yeah, more than $5,000,000 combined sum insured. Sum insured. Thank you. No. Then maybe gone to, we're just over halfway of the application now. This is the medical history section, so I'll just get you the confirm with a clear yes or no after each question.
+[10 minutes 11 seconds][Customer] : Yes. OK.
+[10 minutes 4 seconds][Agent] : Whether you have ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following cancer to molar cysts, including skin cancer, sunspots, Melanoma or leukaemia. Yes or no? Thank you. Have you ever had an abnormal PSA test or an enlarged prostate? Yes or no?
+[10 minutes 18 seconds][Customer] : No, No.
+[10 minutes 30 seconds][Agent] : Any stroke, chest pain, palpitations or heart conditions such as but not limited to heart attack and angina or high blood pressure. Yes or no?
+[10 minutes 39 seconds][Customer] : Yes.
+[10 minutes 40 seconds][Agent] : Thank you. And just based on response, please answer yes or no for each of the following. Was it regarding stroke, yes or no?
+[10 minutes 48 seconds][Customer] : No.
+[10 minutes 49 seconds][Agent] : Chest pain, yes or no? Thank you. And have you consulted a doctor for your chest pain, yes or no?
+[10 minutes 58 seconds][Customer] : Yes.
+[10 minutes 59 seconds][Agent] : And was your condition diagnosed to be heart related for the chest pain, yes or no?
+[11 minutes 3 seconds][Customer] : Yes.
+[11 minutes 5 seconds][Agent] : Thank you. So just in relation to based on that answer you provided that the, what was it called, chest pain was diagnosed to be heart related. Unfortunately, Jim Looka, we're unable to offer you the life cover at this time, although you can ask the insurer to review this decision if you're not happy with the outcome and you can request that we treat this as a complaint.
+[11 minutes 25 seconds][Customer] : OK.
+[11 minutes 25 seconds][Agent] : Otherwise I can still send you information on our guaranteed acceptance, you know, cover if you'd like me to e-mail that out to you.
+[11 minutes 33 seconds][Customer] : OK. So, so when you say, when you say art, so it was pericarditis, that's the that's the heart inflamma, yes. Would it exclude it?
+[11 minutes 41 seconds][Agent] : Oh, the term OK, So no, no, it's actually declined you for the life insurance as the chest pain was diagnosed with heart related.
+[11 minutes 44 seconds][Customer] : That's what you're excluding, yes.
+[11 minutes 52 seconds][Agent] : But if it's pericarditis, we do have that as a as a individual diagnosis in the application. So let me just bring that back up then, and then I'll.
+[12 minutes 1 seconds][Customer] : OK, that wasn't all they told me it was just, uh, you know, this vaccine, the vaccine caused it. So it wasn't the heart exactly. It was a very productive.
+[12 minutes 12 seconds][Agent] : OK. Let's go back into the application then. Just bear with me. I'll just bring the application back up and then we can put it as pericarditis and just see what happens. But thank you for your honesty. So going back into the application for you. OK, just bear with me while it's loading. Alrighty. So in that instance then going back to the chest pain, so we can say no to the chest pain.
+[13 minutes 9 seconds][Customer] : Yeah, yeah.
+[13 minutes 6 seconds][Agent] : If it was only pericarditis, was it only pericarditis?
+[13 minutes 10 seconds][Customer] : No, yes, it was only that.
+[13 minutes 11 seconds][Agent] : OK, so I can put no for the chest pain because next after that it asks was it pericarditis? Yes or no?
+[13 minutes 13 seconds][Customer] : And oh, oh, OK. Yes, yes.
+[13 minutes 20 seconds][Agent] : Yes, thank you. And for the chest pain, was that yes or no?
+[13 minutes 26 seconds][Customer] : So yes to the chest pain and yes to the pedicode office.
+[13 minutes 28 seconds][Agent] : No, it's it's yes to pericarditis.
+[13 minutes 31 seconds][Customer] : Yes.
+[13 minutes 31 seconds][Agent] : But have you also had chest pain or was it just pericarditis only?
+[13 minutes 34 seconds][Customer] : Oh, no, no, no, no, no, no, no, it's just pedicode office.
+[13 minutes 38 seconds][Agent] : OK, So just getting you to confirm any chest pain, yes or no?
+[13 minutes 37 seconds][Customer] : No, then that's it. No, no, I've been, I've been cleared about two years now.
+[13 minutes 46 seconds][Agent] : OK. And pericarditis, was that yes or no?
+[13 minutes 49 seconds][Customer] : Yes, that's right.
+[13 minutes 50 seconds][Agent] : Yes.
+[13 minutes 50 seconds][Customer] : Yes, yes, yes, yes. Pedicode items.
+[13 minutes 51 seconds][Agent] : Have you fully recovered?
+[13 minutes 52 seconds][Customer] : No purchase.
+[13 minutes 53 seconds][Agent] : OK.
+[13 minutes 53 seconds][Customer] : Yes, fully recovered.
+[13 minutes 54 seconds][Agent] : Have you fully recovered from all your symptoms for at least 12 months relating to the pericarditis, Yes or no?
+[13 minutes 58 seconds][Customer] : Yes, that. That's correct.
+[14 minutes 2 seconds][Agent] : Yes. Thank you. And was your pericarditis caused by a virus or other infection? Yes or no?
+[14 minutes 8 seconds][Customer] : That's him.
+[14 minutes 12 seconds][Agent] : So other infection, would that be classed as so? So was your pericarditis caused by a virus or other infections? I don't know if that would be classed as a vaccine.
+[14 minutes 22 seconds][Customer] : I know what it is. Well, unless you find.
+[14 minutes 25 seconds][Agent] : Did your doctor tell you that your last echo echocardiogram was normal?
+[14 minutes 30 seconds][Customer] : Yeah, everything's fine, everything's normal. I did all through running on a treadmill and everything.
+[14 minutes 37 seconds][Agent] : And the so the doctor, did they tell you that your last echocardiogram was normal though, yes or no?
+[14 minutes 43 seconds][Customer] : Yes, Yes. Everything was normal. Everything.
+[14 minutes 44 seconds][Agent] : Yes and OK, perfect. Do you require any further treatment for your pericarditis, yes or no? Thank you. That's good to hear. So what was the cause of the pericarditis described as by your doctor?
+[14 minutes 49 seconds][Customer] : No, no, there's a father. First dose of the father.
+[14 minutes 56 seconds][Agent] : So it was the which vaccine did you get the first dose of the Pfizer vaccine? OK, So I've gone and said no to, was your pericarditis caused by a virus or other infections?
+[15 minutes 14 seconds][Customer] : Yes, no.
+[15 minutes 14 seconds][Agent] : I put no, that's correct, isn't it?
+[15 minutes 16 seconds][Customer] : OK.
+[15 minutes 17 seconds][Agent] : Yeah.
+[15 minutes 17 seconds][Customer] : Yeah, that's correct.
+[15 minutes 17 seconds][Agent] : So then we can put in this section that it was from the first dose of the Pfizer vaccine. And what, when were you diagnosed with it? With the pericarditis.
+[15 minutes 28 seconds][Customer] : The December 2021 sorry December yeah 2021, that's correct that's what I have it does yes that's correct.
+[15 minutes 38 seconds][Agent] : Thank you. And how many times has the pericarditis occurred since then?
+[15 minutes 45 seconds][Customer] : I think I went on different and it eventually just disappeared. I think after a year I went back for a check up. Yes. It's only good once. Yes.
+[15 minutes 52 seconds][Agent] : So has it only occurred just the once then Once only since since being diagnosed it Washington it was only once.
+[15 minutes 59 seconds][Customer] : And then I went yes, only once. And then I went for a full checkup about 12 months after that. So it was in December 2020.
+[16 minutes 19 seconds][Agent] : And everything was all clear with no ongoing symptoms or follow-ups.
+[16 minutes 10 seconds][Customer] : 2/21/2022 Yes, yeah, everything's OK Bye. No, no, I mean, I've gone for, I've gone for checkups. I do CT scans every once a year now anyway and they don't find anything.
+[16 minutes 37 seconds][Agent] : OK. And the CT scan is in relation to the pericarditis as well. OK. So you still do have ongoing follow-ups just once a year.
+[16 minutes 42 seconds][Customer] : Yes, yes, yeah. It's a normal checkup, right? I mean, I do blood tests once a year.
+[16 minutes 51 seconds][Agent] : It's not really normal.
+[16 minutes 52 seconds][Customer] : I do.
+[16 minutes 52 seconds][Agent] : It's it's, it's based on preventing the pericarditis.
+[16 minutes 56 seconds][Customer] : Oh, OK.
+[16 minutes 55 seconds][Agent] : So it's a normal check up is if is, is if you have like a yearly sort of just blood test. But this this is in relation to something that's occurred in the past.
+[17 minutes 4 seconds][Customer] : Yes, Yes.
+[17 minutes 4 seconds][Agent] : So we can put it's everything was all clear with no ongoing symptoms, although you have once a year CT scans to ensure everything as well. Is that right?
+[17 minutes 9 seconds][Customer] : No, yes, yes, that's correct. That's great. Yeah.
+[17 minutes 30 seconds][Agent] : With the chest, OK.
+[17 minutes 33 seconds][Customer] : Already a full. I do. A full taste. Yeah. And a black taste.
+[17 minutes 34 seconds][Agent] : And it's just CT scan only and that's once a year as well.
+[17 minutes 45 seconds][Customer] : Yeah. There's also one for you.
+[18 minutes 6 seconds][Agent] : Perfect. So next question is asking then moving forward, do you look at any heart conditions, so for example, heart murmur, heart palpitations, heart attack or angina, but not limited to these conditions, yes or no? Any high blood pressure, yes or no? Thank you. Next question is high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting? Yes or no Diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose. Yes or no? Hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. Yes or no.
+[18 minutes 20 seconds][Customer] : No, no, no, no any disorder.
+[19 minutes 4 seconds][Agent] : Fatty liver did disease. Did you say? Yeah, we can put that as a yes then. So that'll be a disorder of the liver. So hepatitis or any disorder of the liver, stomach valve or butter or pancreas, I've put yes. And then based on your response, please answer yes or no for each of the following. Was it regarding hepatitis, yes or no? And was it regarding the disorder of disorder of the liver, yes or no? We can put yes for that. Yes. Thank you. Is the disorder cirrhosis or fibrosis? Yes or no? Is the disorder, is the liver disorder related to alcohol? Yes or no? OK.
+[18 minutes 54 seconds][Customer] : I I I had some either they said I had non 30 liver but on March 2021 yes yes, yes, yes, yes, no, yes, no, no, no, no it's none. NA means non alcoholic.
+[19 minutes 54 seconds][Agent] : OK. And then is the disorder Gilbert syndrome, yes or no? No. What was it? What was it that they diagnosed it as exactly? What was the name and what was the reason for fatty liver disease? OK.
+[19 minutes 58 seconds][Customer] : No, no, they just, they tell me diet, let me change my diet.
+[20 minutes 10 seconds][Agent] : Just in relation to diet, OK.
+[20 minutes 13 seconds][Customer] : No, the family. I'll just eat more fish. Then I'm going to need to eat more fish.
+[20 minutes 15 seconds][Agent] : Just bear with me, OK?
+[20 minutes 38 seconds][Customer] : No, no, it's not.
+[20 minutes 33 seconds][Agent] : But I just confirm it was was it sero, was the dis, is the disorder cirrhosis or fibrosis that was a yes or no? No, that's fine.
+[20 minutes 39 seconds][Customer] : No, no, it's not.
+[20 minutes 41 seconds][Agent] : Perfect. That's fine. Then let's move on. Which is confirming the next question is a disorder of the stomach or bowel. Yes or no? Gallbladder or pancreas, Yes or no? Thank you. Moving on to epilepsy, motor neurone disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Yes or no Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Yes or no.
+[20 minutes 40 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no, no, no.
+[21 minutes 16 seconds][Agent] : Any illegal drug, use of use of prescription medication or received medical advice or counselling for alcohol consumption. Yes or no. Disorder of the kidney or bladder? Yes or no. Blood disorder or disease? Yes or no. And then asthma or other respiratory disorder excluding childhood asthma. Yes or no?
+[21 minutes 24 seconds][Customer] : No, no, no, no.
+[21 minutes 39 seconds][Agent] : No, thank you. That's fine. Let's move on. OK, Gin, Look, we're about 90% of the way done.
+[21 minutes 48 seconds][Customer] : OK.
+[21 minutes 48 seconds][Agent] : So other than what you've already told me about through the application, I'll just confirm. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy? Yes or no? Thank you.
+[22 minutes 13 seconds][Customer] : No, but what actually I I don't know about the years I haven't gone for X-rays.
+[22 minutes 16 seconds][Agent] : And other than what you've ordered in the past three years and was that in relation to anything you haven't already told me about?
+[22 minutes 22 seconds][Customer] : No, no, no, no, no. Everything I've told you about.
+[22 minutes 31 seconds][Agent] : Yeah, no, that's fine.
+[22 minutes 33 seconds][Customer] : OK, hold on. Oh, OK. No, no. Good. Yes.
+[22 minutes 32 seconds][Agent] : This is in relation to what you haven't told me about already because you've, if it was X-rays relating to pericarditis or the CT scans, et cetera, we've already disclosed that.
+[22 minutes 41 seconds][Customer] : OK, Alright. OK.
+[22 minutes 41 seconds][Agent] : So this is anything other than that you've you've already disclosed CT scans, X-rays and wait, what was the X-ray for? Sorry.
+[22 minutes 42 seconds][Customer] : So if it's not, I've not described you and you mentioned what was it CT scans just repeat yes, No, no. Well basically they did extra for chest as well at the same time they did X-rays and CT scans or whatever. They did anything.
+[23 minutes 3 seconds][Agent] : Oh, OK. You, I don't think we advised, I don't think you mentioned you did an X-ray as well for the. So that was all relating to pericarditis, is that right?
+[23 minutes 10 seconds][Customer] : Yes, yes, yes, yes, yeah.
+[23 minutes 12 seconds][Agent] : OK.
+[23 minutes 12 seconds][Customer] : Because I don't know where to start. So they start in one place, they do the exercise, they find nothing wrong, they do the CTV now and so on.
+[23 minutes 18 seconds][Agent] : And that X-ray was more than three years ago.
+[23 minutes 18 seconds][Customer] : I do understand that we said no, no, no. It was when I told you exactly the issue.
+[23 minutes 21 seconds][Agent] : Was it December 2021?
+[23 minutes 27 seconds][Customer] : I told you yes, yes, yes.
+[23 minutes 34 seconds][Agent] : OK. So it's WI within the last 2021, yeah, 123 I think as if it was in December 2021 that would be.
+[23 minutes 55 seconds][Customer] : Yeah, but you know, but in actual fact, I don't think that the next try, I think I just want to see this game.
+[23 minutes 54 seconds][Agent] : Let me just check, I need you to be 100% accurate because you did mention in the question. Oh, OK.
+[24 minutes][Customer] : If I remember correctly, I'm I'm I'm I'm 100% sure. Yes. I just but just repeat the question you asked me. I see this game.
+[24 minutes 6 seconds][Agent] : So, but if it's relating to the chest, they would have done so they did a CT scan and a blood test.
+[24 minutes 17 seconds][Customer] : Yeah, I don't think that's it. I'm doing fine, but just read that question again to me. So what you're looking for anything in the last three years?
+[24 minutes 19 seconds][Agent] : OK, yeah, let's we can, let's advise that. Let's, let's, let's just put it in.
+[24 minutes 27 seconds][Customer] : OK.
+[24 minutes 26 seconds][Agent] : So I'll answer yes to make sure we don't miss anything.
+[24 minutes 31 seconds][Customer] : And BLE Yes.
+[24 minutes 30 seconds][Agent] : So the first one was what condition required the medical examination or advice.
+[24 minutes 40 seconds][Customer] : So you require what X-rays were done. Did did you have blood taste there as well?
+[24 minutes 37 seconds][Agent] : So it was just, yeah, we did put that in the previous.
+[24 minutes 50 seconds][Customer] : Did No, no, no.
+[24 minutes 49 seconds][Agent] : So if this is all just related to the pericarditis, we don't have to.
+[24 minutes 53 seconds][Customer] : Did No. Yeah. Give me something separate.
+[24 minutes 53 seconds][Agent] : But if it's just something separate, we do need to disclose it.
+[24 minutes 57 seconds][Customer] : Yeah, send me something separate.
+[24 minutes 59 seconds][Agent] : OK, what is? What was it relating to Something separate?
+[25 minutes 2 seconds][Customer] : Yes, I, I eventually, well, the blood test. The blood test can clean. OK, but was in the LA and eventually found it with a brace test. It was for liquor, bacter, bacteria.
+[25 minutes 15 seconds][Agent] : OK, Helicobacter. Alright, let's have a look then.
+[25 minutes 18 seconds][Customer] : Yeah, but the, but the blood test, there's a big blood test. The blood test can clean. They did a brace test and then they found it on a bracelet.
+[25 minutes 25 seconds][Agent] : Thank you. So that was within the last three years.
+[25 minutes 29 seconds][Customer] : Yes, that's correct.
+[25 minutes 31 seconds][Agent] : OK, so it was through a breath test.
+[25 minutes 34 seconds][Customer] : Yes, Yes.
+[25 minutes 33 seconds][Agent] : So Helicobacter bacteria.
+[25 minutes 37 seconds][Customer] : Yes.
+[25 minutes 46 seconds][Agent] : And that's it. Nothing else you need to disclose in this section. That's just it.
+[25 minutes 48 seconds][Customer] : No, that's it.
+[25 minutes 55 seconds][Agent] : That's other than what we've already mentioned.
+[25 minutes 55 seconds][Customer] : No, yes, that's it. That's it.
+[25 minutes 59 seconds][Agent] : Is it called Helicobacter pylori or just Helicobacter pylori?
+[26 minutes 4 seconds][Customer] : That's it, That's it.
+[26 minutes 8 seconds][Agent] : OK, alright. And that was found through a breath test.
+[26 minutes 10 seconds][Customer] : And let's and let's come back naked, yes. And I and I'll just want some medication. And I did that then I could do a test again. And it's thank you and it's negative.
+[26 minutes 24 seconds][Agent] : When did the they find that?
+[26 minutes 28 seconds][Customer] : I'll go right in November, last year, November 23.
+[26 minutes 42 seconds][Agent] : OK, so the code November 2023 and it was found through a breath test after doing some blood tests. Is that correct?
+[26 minutes 46 seconds][Customer] : Yeah, yes, that's correct. Yeah. They they they could find nothing on or wrong. They could find not on a blood test and they see if I listed a birth test.
+[26 minutes 52 seconds][Agent] : So that's please provide and what was the reason that they were looking into doing blood tests in the first place, OK? What were some other symptoms that occurred?
+[27 minutes 6 seconds][Customer] : Oh no, because I the are the symptoms really for the symptoms I just I'd just like a bit of taste in my mouth.
+[27 minutes 17 seconds][Agent] : OK, So please describe your reason for consultation, including symptoms and diagnosis. So it was Helicobacter pylori and it was because of a bitter taste in mouth. Was there any other symptoms? OK, Wendy to CUR which was November 2023. Please provide details of medical tests and it was found through a breath test after doing some blood tests. Nothing. Nothing shown on the blood test.
+[27 minutes 31 seconds][Customer] : No, Yes, yeah, that's correct.
+[27 minutes 47 seconds][Agent] : Is any further investigation or treatment planned regarding the Helicobacter pylori?
+[27 minutes 52 seconds][Customer] : No, no, no, it's been cleared.
+[27 minutes 57 seconds][Agent] : No all clear.
+[27 minutes 59 seconds][Customer] : It's that's OK. No, no.
+[28 minutes 1 seconds][Agent] : No ongoing symptoms of check UPS and please advise before recovery has been made.
+[28 minutes 11 seconds][Customer] : Yes.
+[28 minutes 12 seconds][Agent] : Yes, good to hear, thank you. Let's move on then. You mentioned you don't need to disclose anything further. So the next question, this is the second last section other than what you've already told me about Jim Looka. Are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks, yes or no? Good to hear. We're up to the family history section. So this is to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? Yes or no? And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke, or other hereditary disease prior to the age of 60?
+[28 minutes 30 seconds][Customer] : No, No, no, no.
+[28 minutes 57 seconds][Agent] : Yes or no, thank you. That's fine. Alrighty. And then on the final question regarding hazardous for suits, this is just confirming other than one off events, Jim Lucca, do you engage in or intend to engage in any of the following aviation and other than as if they're paying passenger on a recognized airline motor racing, parachuting, mountaineering, ABS sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazard to this activity. Yes or no? No worries. Thank you. That's the end of the application. So thank you so much for your patience throughout the outcome.
+[29 minutes 39 seconds][Customer] : OK, OK.
+[29 minutes 42 seconds][Agent] : So just in relation to the outcome, I will need to advise and reference the health and lifestyle application answers. We do actually need to refer your application to the underwriter for assessment.
+[29 minutes 55 seconds][Customer] : OK.
+[29 minutes 54 seconds][Agent] : So the reason is just in relation to your pericarditis, the other course that it's occurred and also the past three years medical advice you've provided.
+[29 minutes 58 seconds][Customer] : Yes, OK.
+[30 minutes 2 seconds][Agent] : So that's why we need to refer send it off to the refer for underwriting. Before I send it off, I do want you to be aware as well as it is a life insurance, generally your premium is stepped which means it will generally each year as you age. So in addition, this policy has automatic indexation which means of each year your sum insured will increase by 5% with associated increases in premium. Although you can opt out of this automatic indexation each year before I provide you with a premium projection on that though, I do also need to advise that your premium also has risen. I'll let you know the reason why and then I'll let you know what it's risen to before we actually go ahead and send this off. So the premium has risen in the application and that's just due to your liver that you mentioned.
+[30 minutes 16 seconds][Customer] : OK, OK, OK, OK.
+[30 minutes 50 seconds][Agent] : So the fatty liver, other due to health.
+[31 minutes 1 seconds][Customer] : Yes.
+[30 minutes 53 seconds][Agent] : So the premium has risen to fortnightly for the $250,000 of Co cover for you. 3 min Sorry, risen to a premium of just let letting it generate that price rise before we refer it. So instead of $40.65 a fortnight for the $250,000 of cover, the premium's risen. 2 Just finished this for you, so sorry. Alrighty, let's have a look. So per fortnight, that was the amount you were inquiring for, wasn't it? 250,000, is that right?
+[31 minutes 39 seconds][Customer] : Yes, disagree.
+[31 minutes 40 seconds][Agent] : Yes. Perfect. So then the premium per fortnight has then risen to $60.97 a fortnight. So that's in relation to the loading that I mentioned was applied. So what we can do? Yeah. So in relation to the LO, to the leather.
+[31 minutes 51 seconds][Customer] : OK, yes, it's quite hard loading it is so even even if it's been cleared, I mean, even if so, even if it's been even if there's not a problem anymore. Ah, OK. So just because I had it, just because I I just because I had it in a post, even if I don't have it anymore, then it's a premium loading. I just want.
+[32 minutes 5 seconds][Agent] : Correct, 'cause it's, it's the, it's your previous medical history in relation to the diagnosis of fatty liver, correct.
+[32 minutes 20 seconds][Customer] : Is that what you're saying?
+[32 minutes 21 seconds][Agent] : Just in relation to how our application process works, yes. So that's the outcome as of so far.
+[32 minutes 29 seconds][Customer] : Oh, OK.
+[32 minutes 27 seconds][Agent] : But the application's not even complete yet 'cause we've got to get it sent off to the referrer underwriter for assessments.
+[32 minutes 31 seconds][Customer] : Yes, yeah, if you can maybe.
+[32 minutes 32 seconds][Agent] : So I don't actually know whether you're approved or not.
+[32 minutes 34 seconds][Customer] : Yes. OK, OK, well, let's put it in. Yes.
+[32 minutes 35 seconds][Agent] : So what I was going to say is before we refer it, I, what I, what I can do is collect your payment details and read you a declaration so that I can get this assessed by the underwriter. But I'll just confirm, are you happy to proceed with that first?
+[32 minutes 49 seconds][Customer] : Yeah, that's fine. That's totally it.
+[32 minutes 51 seconds][Agent] : OK, So what we do while your application is being assessed, firstly I want to make you aware that you will be covered for accidental deaths, which pays out if death was due to a direct result of an accident and then cover under this last until the insurer makes a decision on your application or 30 days from today, so whichever is earlier. And then what we do to get this sent off by the underwriters, we just let you choose a payment date of your choice.
+[33 minutes 26 seconds][Customer] : OK.
+[33 minutes 17 seconds][Agent] : So if you're fully approved with no changes, so if you're approved without any changes made, then the first payment will be deducted on that date, even though in line with the terms and conditions will cover you immediately from the date you decide to be covered. So what date would you prefer to have your first payment deducted if you're approved? Can you look up?
+[33 minutes 35 seconds][Customer] : Oh, you can do it. It's a sports market, right?
+[33 minutes 39 seconds][Agent] : Yeah, it's up to you.
+[33 minutes 39 seconds][Customer] : OK, so you can do it whenever. Whenever. Yeah, whenever. I mean, I don't know. I mean, whenever you can. I can't give you a date. I mean, I don't know how long you're going to take for the underwriters.
+[33 minutes 48 seconds][Agent] : Yeah, correct.
+[33 minutes 48 seconds][Customer] : So like whenever you. Yeah. So whenever you're next. Next. OK, yeah, that's fine.
+[33 minutes 49 seconds][Agent] : So if in the future you get to choose what, what date would you like the 15th?
+[33 minutes 55 seconds][Customer] : I mean, so I'd like the the 1st and 15th, yes, Yeah, that's fine.
+[34 minutes 1 seconds][Agent] : Yeah, we can do that. Ah, so if the underwriter approves, you'll cover without any changes made for $250,000. Life insurance for the pre premium is $60.97 to be first deducted on the 15th of March, Friday, every fortnight, Friday from there. And then I'll just quickly give you the the premium projection for your awareness. So as an indication, if you make no changes to the policy, then your premium next year will be $71.31 a fortnight and your benefit now will increase to $262,500. Would cover for you there.
+[34 minutes 36 seconds][Customer] : Alright then.
+[34 minutes 35 seconds][Agent] : OK, alrighty. And then what we'll do next. We just need to pop in your payment method so I can read out your verbal declaration to get this sent off to the underwriter. Did you want to set up a bank account or a credit card there, Gianluca?
+[34 minutes 49 seconds][Customer] : Alright, a a call.
+[34 minutes 52 seconds][Agent] : Yeah, we can do that. Just hold onto your card for a second before you provide me the details. I'm just going to pause the recording so I'll let you know for security purposes while obtaining your card details, the call recording will stop and it will recommence after we have collected your DE. Music card details have been registered successfully and please be advised that now the call recording has resumed the quality monitoring purposes. So please be advised, and I just need to confirm as well the the credit card details you provided, I'll confirm is from your card and you're authorized to debit from that card, is that correct?
+[36 minutes 9 seconds][Customer] : That's it.
+[36 minutes 10 seconds][Agent] : Yes. Perfect. So what I'll do then all I've got left is to read out your declaration. But I'll just let you know that the commencement of your cover, it will we it will be subject to final assessment by the insurer. So Jim, look, I just want to confirm with you, if the insurer approves cover without any changes, are you happy for me to record your acceptance of this policy now and we'll send out all your policy information to your e-mail and postal address, yes or no?
+[36 minutes 37 seconds][Customer] : Yes, that's right.
+[36 minutes 39 seconds][Agent] : OK, thank you so much. So I'll read your declaration then and get this sent off. Before I do that, did you have any further questions or was everything understandable for you today that we've discussed?
+[36 minutes 49 seconds][Customer] : No, that's fine. So you'll just get back to me, OK?
+[36 minutes 51 seconds][Agent] : Yes, I just have to read this declaration 1st and then we'll get it sent off.
+[36 minutes 53 seconds][Customer] : Oh, OK, alright. No, no.
+[36 minutes 55 seconds][Agent] : Otherwise any further questions at all or no too easy. I'll read this out then. So thank you Jim. Luca Burger, It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Family life coverage issued by Hannah the Life Free of Australasia Limited, whom we will refer Jane Looka Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS Trading as Real Insurance, to issue and arrange this insurance on its behalf. Hanover has relied upon the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a I'll be on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you've answered all of our questions in accordance with your duty? Jim, look a yes or no.
+[38 minutes 2 seconds][Customer] : Yes.
+[38 minutes 3 seconds][Agent] : Thank you. I'll continue the declaration. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of the following. Jean Luka Burger receives $250,000 in the event of life insurance. A benefit is not paid in the event of suicide. In the 1st 13 months of the policy for Jean Luka Burger Life Insurance a loading was applied during the application process. By agreeing to this declaration you agree to any non standard exclusions or loadings placed on your policy and you understand they will remain in place for the life of the policy. You may request for any of these alternative terms to be reviewed at any time by calling US Gene Nuclear. Your premium for your first year of cover is $60.97 per fortnight. Your premium is a step premium, which means it will be calculated at each policy anniversary and will generally increase as your age. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 65% to cover costs. Your premium will be debited from your credit card which you are authorized to debit from and have provided to us. The policy documentation, PDS and FSG will be sent to you within 5 working days and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you lodge your claim. If you are replacing an policy with this cover, we recommend that you do not cancel that policy until you have received and reviewed our policy in full. There are risks associated with replacing policies. As your new policy may not be identical to existing cover, then there may be other risks you should consider depending on your circumstances. Finally, we have a complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. And so that's the end of the declaration, just before I complete the. Operation, I just wanted to remind you. So if you are approved without any changes, if you are accepted Gin Lucra and once you decide to commence the policy, you'll be covered immediately. Don't forget for death due to any cause, just the only thing not covered is suicide in the 1st 13 months and that terminally ill advanced payment. So if you diagnose the 12 months or less to leave by a medical practitioner, we'll pay the claim in full to you. OK, lovely. So two questions left then, and I'll send this off. So the first question is, do you understand and agree with the declaration? I've just read you. Yes.
+[40 minutes 37 seconds][Customer] : OK, yeah, so, so I've actually got the exact diagnosis of it, non fatty liver.
+[40 minutes 55 seconds][Agent] : For which one? Sorry. What was it called?
+[40 minutes 52 seconds][Customer] : It's actually I've got the exact diagnosis, the fatty liver, a non alcoholic fatty liver.
+[41 minutes 6 seconds][Agent] : Oh, so there's. Yeah. So there's an actual name for it. Yeah.
+[41 minutes 9 seconds][Customer] : Yes, yes, yes, yes. I've actually got the exact guide process.
+[41 minutes 10 seconds][Agent] : OK, let's bring up what was the exact diagnosis.
+[41 minutes 16 seconds][Customer] : It's called ebastic tier process.
+[41 minutes 23 seconds][Agent] : OK, No, that's fine, 'cause we that was none of any of the the men mentioning after you confirmed yes for the fatty liver. So that's that's why if none of that applied to you, we've just advised that that was the case. That was still a a disorder of the liver, is that correct?
+[41 minutes 42 seconds][Customer] : Is it I just put it, sorry, I'm not, I'm not with you.
+[41 minutes 46 seconds][Agent] : Well, that's a disorder of the liver, isn't it?
+[41 minutes 49 seconds][Customer] : I don't know.
+[41 minutes 49 seconds][Agent] : That's a disorder of the liver.
+[41 minutes 49 seconds][Customer] : I'm not a doctor.
+[41 minutes 52 seconds][Agent] : So could you want to spell it out for me? Yep. Liver. Yep. Stosis. STOSIS.
+[41 minutes 51 seconds][Customer] : Is it just one 2nd hetic HETATIC PSTSTEA DOFISSTASTOSI?
+[42 minutes 24 seconds][Agent] : OK, yes, it's fatty liver disease.
+[42 minutes 30 seconds][Customer] : Sorry, it was OK.
+[42 minutes 29 seconds][Agent] : So that's classed as a disorder of the liver. Yep. Alrighty.
+[42 minutes 33 seconds][Customer] : OK, so everything stays the same. OK, Not a problem. Yes.
+[42 minutes 34 seconds][Agent] : So we have we have disclosed it correctly in the application, but that's that's just still the case. I do appreciate though you trying to have mired me with the correct terminology.
+[42 minutes 45 seconds][Customer] : Yes.
+[42 minutes 45 seconds][Agent] : So in relation to the referral then it's still all correct for me to send it off to the underwriter for referral and we have, we have actually disclosed it correctly in the application.
+[42 minutes 49 seconds][Customer] : OK, Yes, OK.
+[42 minutes 53 seconds][Agent] : So unfortunately that is still will be with the loading applied for the liver condition or disorder. Should I save the liver? So in relation to the the full declaration I've just read out for you, Jim Lucas, do you understand and agree with the declaration? I've just read you yes or no? Lovely. And before sending this off to the underwriter for assessment, I just wanted to confirm would you like any other information about the insurance now or would you like me to read any part of the PDF to you? Yes or no?
+[43 minutes 10 seconds][Customer] : Yes, no, that's fine. It seems fine.
+[43 minutes 25 seconds][Agent] : No, that's fine. OK, no worries. So that's been then sent off now to the underwriter for assessment. So let me just confirm your best contact number in case we need to reach you once we receive the outcome 0432295478, is that right?
+[43 minutes 44 seconds][Customer] : That's great.
+[43 minutes 45 seconds][Agent] : OK, perfect. So that's been sent off then? So I will endeavour to reach out to you. If not by this evening, you'll hear from me first thing Monday. But hopefully we'll get it back by this evening anyway and I'll give you a call as soon as possible and I'll let you know the outcome.
+[43 minutes 59 seconds][Customer] : OK, perfect. Perfect. Thank you.
+[43 minutes 59 seconds][Agent] : OK, lovely. Well, thank you for your time. It's been a pleasure. Uh, Jim, Luca and I'll reach out to you very shortly. Won't shouldn't be too long.
+[44 minutes 7 seconds][Customer] : Good.
+[44 minutes 7 seconds][Agent] : You have a great afternoon.
+[44 minutes 8 seconds][Customer] : Thanks. Thank you.
+[44 minutes 9 seconds][Agent] : Cheers.
+[44 minutes 10 seconds][Customer] : Bye. Bye.

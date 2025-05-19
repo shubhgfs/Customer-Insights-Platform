@@ -1,0 +1,132 @@
+[11 seconds][Customer] : Hello, Alicia.
+[12 seconds][Agent] : Hey, Alicia, it's Eddie calling back from one choice. How you going?
+[12 seconds][Customer] : Speaking Good. Thank you.
+[17 seconds][Agent] : That's good.
+[17 seconds][Customer] : Thanks for calling back.
+[17 seconds][Agent] : I'm so that's OK. I'm sorry I'm a little bit late. I got stuck on another phone call.
+[22 seconds][Customer] : That's OK. No problem.
+[21 seconds][Agent] : I'm sorry or like OK, just as a new call, I need to let you know all of our calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances as it's a new call as well. If I can, please have you confirm your full name and date of birth.
+[40 seconds][Customer] : No, nothing at all.
+[44 seconds][Agent] : Thank you very much. And I know it's not been very long since we last spoke. Still didn't need to ask. Has anything changed to your help to your lifestyle since the last time we went through the application?
+[52 seconds][Customer] : Mm Hmm.
+[53 seconds][Agent] : OK, all those guys, let's get back to where we're up to. Just bear with me, I'm just bringing that back up. So where we're up to. You did mention that, umm, you were advised by your doctor that you had suspected IBS. Umm again, as it was suspected, it's not technically correct to capture that in a disorder of the stomach, bowel or pancreas as it is against suspected. What we'll need to do is just capture that in a different part of the application. Umm, as it is just so it is noted down, umm, and then we'll go from there as well.
+[1 minutes 28 seconds][Customer] : So.
+[1 minutes 29 seconds][Agent] : Umm, so just besides what you've mentioned to me, can I just confirm for a disorder of the stomach, bowel or pancreas, is that a yes or a no? Hepatitis or any disorder of the liver. Just cut out. Sorry, OK. Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Bladder or urinary tract disorder, Kidney disorder. Sorry, just cut out again. I'm so sorry yesterday, OK. Thought disorder or disease, sleep apnea or asthma, excluding childhood asthma. OK, next question. Now it is relating in the past three years. So other than what you already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist or are you awaiting the results of any medical tests slash invested site medical tests slash investigations?
+[1 minutes 37 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no.
+[2 minutes 32 seconds][Agent] : OK, I am going to answer a yes to this question. This is where we'll just note down the suspected IBS. Can I ask when did the doctor advise the suspected IBS?
+[2 minutes 43 seconds][Customer] : Like 10 years ago.
+[2 minutes 44 seconds][Agent] : 10 years ago?
+[2 minutes 46 seconds][Customer] : Yeah, it's an about. I don't remember.
+[2 minutes 45 seconds][Agent] : OK, that's OK. I'll put roughly. And if you don't mind me asking as well, what was the reason you initially get went to the doctor?
+[3 minutes 2 seconds][Customer] : Yeah, just constant up sit stomach.
+[2 minutes 58 seconds][Agent] : We having any symptoms at all or what was that again? Sorry.
+[3 minutes 6 seconds][Customer] : Just constant up sit tummy bloating. Yes, sturdy, all that kind of stuff over a period of a few months, yeah.
+[3 minutes 7 seconds][Agent] : Oh, OK, constant OK, Yep, bear with me.
+[3 minutes 40 seconds][Customer] : Probably like 3 months before I submit a good advice, but it it's not been like that anymore.
+[3 minutes 36 seconds][Agent] : And so that was consistent for two months, OK, Yeah, I understand that.
+[3 minutes 44 seconds][Customer] : So stay away from certain foods and good.
+[3 minutes 48 seconds][Agent] : Yeah, not a worry though. So that was umm, it's all resolved now. It's not ongoing anymore. OK. So I'm just going down. It was consistent for. Did you say it was three months? OK. And then so you went to your GP, was it?
+[3 minutes 54 seconds][Customer] : No, no, Yeah, yes, correct. Yeah.
+[4 minutes 22 seconds][Agent] : I'm just going down the advise you have suspected IBS but nothing diagnosed.
+[4 minutes 28 seconds][Customer] : Yes, yeah, 'cause they did like, nothing diagnosed. They took scans and they did blood tests and everything was normal. So they might have sort of saying there's nothing else. They said it's that 'cause it's one thing that you can't actually, I guess, diagnose properly.
+[4 minutes 30 seconds][Agent] : Yep Yep right thank you. So I did scans and tests and everything came back 100% clear and normal.
+[4 minutes 41 seconds][Customer] : So Yep.
+[4 minutes 56 seconds][Agent] : OK. And this occurred roughly 10 years ago. And has it been around that time since you've actually had symptoms or does it come and go?
+[5 minutes 6 seconds][Customer] : Yeah, like I said, it comes and goes with certain food, so it's just managed. It's just, you know, if I have certain foods that can play up a little bit, but I just stay away from those foods and I don't have an issue.
+[5 minutes 26 seconds][Agent] : Yep, Thank you. Do you require any medication? OK, umm, there's just a few drop down questions. Umm, just to take you through it. Sorry. Please describe the reason for the consultation, including symptoms and diagnosis. I just copy and paste what you've advised for me. Umm, and when does it occur? So it was roughly 10 years ago. OK. And please provide details of medical tests. So you said you had scans? Yeah.
+[5 minutes 44 seconds][Customer] : No, yeah, roughly, yeah, yeah, I had an ultrasound and then blood tests. Yeah, it was, yeah. When I went to the GP they, they sort of referred me just to check that there was nothing weird going on down there.
+[6 minutes 19 seconds][Agent] : And was that again roughly about 10 years ago as well or OK?
+[6 minutes 29 seconds][Customer] : And then yeah, it was all good. They couldn't really leave anything in.
+[6 minutes 33 seconds][Agent] : Yep, OK, sorry again. All all tests were normal. And is any further investigational treatment planned?
+[6 minutes 33 seconds][Customer] : So they yes, no, no, it's not it's not severe so.
+[6 minutes 51 seconds][Agent] : OK, and yes, I understand. And please advise if a full recovery has been made.
+[7 minutes][Customer] : Yes, we'll say yes.
+[7 minutes 1 seconds][Agent] : OK, All OK. Thank you so much for your honesty with everything. I do appreciate it as well. Umm, that's all we need to capture as part of that. So we'll move on to the next question. The next question asks, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Sorry, Alicia. Thank you. I'm not sure what's happening with the line we have. Sometimes it's very clear, but then sometimes it goes unclear. And then the second time you say it's perfectly clear, doesn't make a lot of sense.
+[7 minutes 4 seconds][Customer] : Well, OK, no, no, maybe I'm amble.
+[7 minutes 39 seconds][Agent] : You're fine. It's not you. Honestly, it just sounds very crackly. Oh, like we've only got a few more questions to go. So, to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? To the best of your knowledge, have any of your immediate family, uh, suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[7 minutes 56 seconds][Customer] : No, no.
+[8 minutes 8 seconds][Agent] : OK, here, final question for you. Hazardous activities. So other other than strictly one of events, sorry, other than one of events, gift certificate slash vouchers. Do you engage in or intend to engage in any of the following aviation other than as if they're paying passenger on a recognised airline, Motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 metres, cable wreck diving or any other hazardous activity.
+[8 minutes 36 seconds][Customer] : Absolutely not. Sounds terrible.
+[8 minutes 39 seconds][Agent] : Love the confidence of that answer. OK so sorry I had to say it's absolutely not, but just part of my compliance. Just need to get a clear yes or no. OK. Oh good though. OK just bear with me. Just finalizing this now. So just so you know, I completely agree with you. My biggest fear in life is heights. So don't know how anyone can do any of those kinds of things.
+[8 minutes 49 seconds][Customer] : Yeah, no, they're crazy.
+[9 minutes 5 seconds][Agent] : There really are. But sorry to be a bit of a paid Alicia. I just need to clarify that question because you said yeah, No, I just need to confirm for that last question. Is that a yes or no? Perfect. OK, good. And one other question I just needed to confirm with you, umm, just for the question of does your work require you to go underground worker heights above 20 meters start to that's below 40 meters. Use explosives or travel to areas experiencing war or civil unrest or work offshore. Sorry, was that a yes or no?
+[9 minutes 15 seconds][Customer] : No, doesn't know.
+[9 minutes 36 seconds][Agent] : Thank you. OK, so that does come to the end of the application. I'd like to thank you very much for your patience while going through everything here.
+[9 minutes 45 seconds][Customer] : That's fine.
+[9 minutes 45 seconds][Agent] : Takes just one moment just to load up the outcome. Have you had a good day so far?
+[9 minutes 54 seconds][Customer] : Yeah, it hasn't been too bad.
+[9 minutes 55 seconds][Agent] : Yeah.
+[9 minutes 55 seconds][Customer] : It's been busy.
+[9 minutes 56 seconds][Agent] : Been busy.
+[9 minutes 56 seconds][Customer] : That's a meeting.
+[9 minutes 57 seconds][Agent] : Yep.
+[9 minutes 58 seconds][Customer] : Yeah. And I'm picking up my children.
+[9 minutes 59 seconds][Agent] : There you go. At least it makes it that you go quick when it's nice and busy, though. That's the positive side of it.
+[10 minutes 3 seconds][Customer] : Yeah.
+[10 minutes 6 seconds][Agent] : OK, so Alicia, in reference to your health and lifestyle answers, your application needs to be referred to the under out of four further assessment.
+[10 minutes 13 seconds][Customer] : OK.
+[10 minutes 12 seconds][Agent] : They're going to have a quick review over your application and bring us and I'll come back very shortly. But the great news is all they have the liftings now completed for you. So I'll let you know what's going to come included as part of your policy. So if approved, this policy will cover you for deaths due to any cause.
+[10 minutes 32 seconds][Customer] : Mm. Hmm.
+[10 minutes 28 seconds][Agent] : Just accept the suicide in the 1st 13 months and then there's a timely ill advanced payment which means if you were diagnosed with 12 months or less relief by a medical practitioner, we will pay the entire life insurance claims to you.
+[10 minutes 43 seconds][Customer] : Mm, hmm.
+[10 minutes 44 seconds][Agent] : Your beneficiaries can still request an advance payout of $10,000 to help with funeral calls, unpaid bills as well.
+[10 minutes 51 seconds][Customer] : OK.
+[10 minutes 51 seconds][Agent] : And please be aware that your premium is stepped, which means it will generally increase each year. In addition, this policy has automatic indexation which means each your benefit amount will increase by 5% with associate increases in premium. However, you can opt out of this indexation each year.
+[11 minutes 8 seconds][Customer] : No, that's fine.
+[11 minutes 8 seconds][Agent] : So yeah, all they case. So now that we're at the end of the app application, so we can actually complete the whole process with you now. And what that looks like is we can link that up for a preferred payment method and read your final declaration. The purpose isn't doing this is once we have a final, I'll come back for you. If it comes back fully approved, no changes anyway, it really will be as simple as me giving you a quick call saying, hey, that's all been fully approved.
+[11 minutes 39 seconds][Customer] : Mm hmm.
+[11 minutes 34 seconds][Agent] : With a press bill button we can put that policy in and immediately enforce for you and then while your application is being assessed, you will be covered for accidental death, which pays out if death was a due. Sorry, repeat that which pays out if death was due to a direct result of an accident.
+[11 minutes 51 seconds][Customer] : Yeah.
+[11 minutes 51 seconds][Agent] : Cover under this loss until the insurer makes a decision on your application or 30 days from today, whichever is earlier.
+[11 minutes 57 seconds][Customer] : Mm. Hmm.
+[11 minutes 58 seconds][Agent] : You also don't need to make a payment today, you get to fix your first payment date in the future. So we generally click payment within the next 7 days when in the next 7 days would be more suitable for you. No worries.
+[12 minutes 8 seconds][Customer] : I get paid every Tuesday, so next Tuesday would be be that's correct.
+[12 minutes 12 seconds][Agent] : OK so that'll be the 14th of the 2nd 2023.
+[12 minutes 18 seconds][Customer] : Yep.
+[12 minutes 17 seconds][Agent] : The only thing is with this I can see you have a birthday coming up. So happy birthday from Monday. Umm just to let you know, if we do select the Tuesday it would actually change the premium because it is basing it on being a year older from that point. So the premium would then be $23.84 per fortnight. So if you wanted to look in the previous price, umm, for for that year, then I would have to do it before then. So I'll leave that decision up to you. What would you like to do?
+[12 minutes 48 seconds][Customer] : So, so if I was to start the premiums like Friday for example, I would get one year at the cheaper premium.
+[12 minutes 56 seconds][Agent] : That's correct. I'll bring up that premium again of what it initially was. Yeah, it's sorry, was $22.00 and just double checking the sentence, it was $22.50 the fortnight for the 700,000.
+[13 minutes 2 seconds][Customer] : It's about $22.00 or something like, yeah, you might want to make it on Friday.
+[13 minutes 15 seconds][Agent] : Yeah, OK, sorry about that.
+[13 minutes 19 seconds][Customer] : It's OK, Yeah.
+[13 minutes 21 seconds][Agent] : And then, but just so you know, in the future though, if you did want to change that, umm, that you are able to apply to give us a call, uh, you, you can give us a call to apply to change the payment as well at a later date.
+[13 minutes 33 seconds][Customer] : OK, cool.
+[13 minutes 34 seconds][Agent] : And I'm just bringing that all up again.
+[13 minutes 39 seconds][Customer] : Yeah, that's fine.
+[13 minutes 37 seconds][Agent] : So just confirming you're happy with the Friday, OK, And the commencement of your cover. It will be subject to a final assessment by the insurer. If the insurer offers cover without any alterations, umm, or your application is like UNACCE, sorry, unsuccessful. Are you happy for me to record your acceptance of these outcomes now? And I will leave you a voicemail to confirm the outcome with you.
+[14 minutes 4 seconds][Customer] : OK, yeah, sure.
+[14 minutes 5 seconds][Agent] : That's fine. OK. Just making sure that's all.
+[14 minutes 10 seconds][Customer] : Yes.
+[14 minutes 9 seconds][Agent] : OK with you there, Alicia. Yeah. OK.
+[14 minutes 10 seconds][Customer] : Yep, Yep, Yep, that's fine.
+[14 minutes 14 seconds][Agent] : And in regards for linking it up, we'll just try to pick it up. I'm so sorry. My computer's been very slow for me today. And in terms for linking that up for you, we have the options to link it up through direct debit, throughout the account number or through a Visa or MasterCard. What's best for you?
+[14 minutes 21 seconds][Customer] : OK, Probably the reason Master Coside what my account number is.
+[14 minutes 33 seconds][Agent] : Yeah, yeah, you're OK. Oh good. I just did a pause recording, so I've linked that up for the Friday. So that'll be the 10th of the 2nd 2023. And then every fortnight on the Friday. Umm. And for security purposes, while I'm sending your card details, the call recording will stop and we're recommenced after we have collected your details. The. OK, so just letting my apologies that after this we just need to read a final declaration, then you understand and agree it will be all completed from there. Just please be advised that the call recordings are received for quality and monitoring purposes. OK, so just going to read that final declaration and just with that credit card you provided, I also need to confirm you are authorized to debit from that credit card, yes or no?
+[16 minutes 18 seconds][Customer] : Yes.
+[16 minutes 19 seconds][Agent] : Thank you. And the name on the card? It's your full name, Alicia Mcniven. That's correct. OK, sorry. That final declaration it reads. Thank you. Alicia Mcniven. It is important you understand the following information. I will ask your agreement to these terms at the end, and your policy will not be enforced unless you agree to these terms in full. One Choice life insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Grainstone Financial Services and Z Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you have provided.
+[17 minutes 8 seconds][Customer] : OK.
+[17 minutes 6 seconds][Agent] : When just to spare to me, Sorry, I repeat, the advice we have provided to you is limited to assisting you to make a decision about whether one choice about whether one Choice life insurance is suitable for your needs on the basis of the information you have provide you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurance products or services. We have verified that you understand the cover and you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure segment which sets out more information which can assist you to decide whether to act on any advice we provide with a clear yes or no. Can you please confirm that you understand and agree to this? Your answer to the application questions and any related documents on the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you were great to with a clear yes or no. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure?
+[17 minutes 49 seconds][Customer] : Yes, yes.
+[18 minutes 12 seconds][Agent] : We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of this now by informing me or at any time by contacting us or by using any unsubscribed facility on communications we send you. You have agreed to take out a single one choice life insurance policy with the following cover. Alicia Mcniven received $700,000 in the event of life insurance that benefits not pay in the event of suicide in the 1st 13 months of the policy. The total premium for your first for the first year of cover is $22.50 per fortnight. Your premium is a stepped premium which means will be calculated. Each policy anniversary will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 77%.
+[19 minutes 11 seconds][Customer] : Bye.
+[19 minutes 10 seconds][Agent] : Sorry, put it in. Your premium is an amount payable to GFS of up to 77% of each premium to cover the distribution cost for this policy. Your premium will be deducted in accordance with the authority you have provided to us. AM Best has rated Pinnacle with AB Financial Strength with an outlook of fare and BB Plus credit Rating with an outlook of positive. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you by mail and if you have provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a key fax sheet which outlines key aspects of your cover and plain language. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. Periods in which you may cancel your policy at any premium you may have paid will be refunded in full unless you have pledged a claim. Finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GFS on 080000530800005804 or e-mail support@onechoice.co dot NZ. Umm, and I'll just confirm with one question I asked just through confirming. I sorry, I'm just going to repeat it one more time. The numbers I picked up actually in the top and an extra 0, sorry. So finally, if you have any questions about your policy or you wish to lodge a complaint, please contact GFS on 0800005804 or e-mail support@onechoice.co dot NZ. And just to make sure I had you clearly for the question or can you please confirm you have answered all of that questions in accordance with your duty of disclosure? Was that a yes or no? Thank you. And two other questions for you. Do you understand and agree with the declaration?
+[20 minutes 48 seconds][Customer] : Yes, yes.
+[20 minutes 54 seconds][Agent] : I've just read you and would you like thank you. So you it's asking do you understand and agree with the declaration? I've just read you. So is that a yesterday?
+[20 minutes 57 seconds][Customer] : And I agree, yes.
+[21 minutes 5 seconds][Agent] : Thank you. Would you like any other information about the insurance now or would you like me to read any part of the policy documents to you?
+[21 minutes 13 seconds][Customer] : No.
+[21 minutes 14 seconds][Agent] : OK, I just finalized that on your behalf. So thank you so much for spending the time going through that for yourself today. Umm, that's all been sent through to our insurers then to further assess. So as soon as I have an outcome come back, I'll give you a call back. So if it is possible for you to keep your phone on you, umm, if you do get a bit too busy, comes back fully approved, no changes. Anyway, umm, I can leave you a voicemail or touch word, but if it does come back unsuccessful as well, I'll leave you a voicemail to confirm that outcome.
+[21 minutes 42 seconds][Customer] : OK, sure. Do do.
+[21 minutes 43 seconds][Agent] : I'll just make sure I have all your details to you correctly as well before I let you run.
+[21 minutes 46 seconds][Customer] : So do you know how long it usually takes?
+[21 minutes 46 seconds][Agent] : Yes, I don't believe I'll be getting it back today. Just based on other ones I've sent through in the past, I believe I would be getting it back tomorrow. Umm, again, it is an approximate because it's all dependent on them sending it back, but again, based on the ones we've sent through in the past, I believe I'll be getting it back tomorrow.
+[21 minutes 54 seconds][Customer] : OK, OK.
+[22 minutes 3 seconds][Agent] : OK, umm, I'll make sure I have all your details here all correct. So your full name is Alicia Mcniven, Date of birth, 13th of the 2nd 1984. And you're a female New Zealand resident. That's all correct there. Thank you. Home and postal address 33 Matafi Rd., Mount Mingui, Umm, Mount Mingui 3116 and your e-mail address, alicia.mcniven@gmail.com. That's, that's contact number R 210717389.
+[22 minutes 19 seconds][Customer] : Yes, Yes, yes, yes.
+[22 minutes 41 seconds][Agent] : OK. Besides that, that's what we can really do for now. Thank you again so much for your patience while going through everything. Was there anything, uh, you need further assistance with? Any other questions you have?
+[22 minutes 53 seconds][Customer] : No. That's all.
+[22 minutes 54 seconds][Agent] : All good then. Well, OK. Well, I'll get back to you once I have an I'll come back.
+[22 minutes 59 seconds][Customer] : Thanks people.
+[22 minutes 58 seconds][Agent] : OK, that's OK. Enjoy the rest of the afternoon.
+[23 minutes 2 seconds][Customer] : OK, you too. Bye.
+[23 minutes 3 seconds][Agent] : Thank you. Bye.

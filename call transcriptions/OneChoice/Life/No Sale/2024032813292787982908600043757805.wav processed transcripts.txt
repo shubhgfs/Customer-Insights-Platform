@@ -1,0 +1,598 @@
+[2 seconds][Agent] : Welcome to One Choice life insurance. You're speaking with Karen. How can I help you today?
+[7 seconds][Customer] : Oh hi, I'm just making an enquiry on insurance policies for both my husband and myself.
+[8 seconds][Agent] : Hi, I'm just making an inquiry on insurance policies for both my husband and myself. We are with Cigna and shop at present. Yep.
+[14 seconds][Customer] : We are with Signor and Chubb at present and paying our premiums are about 185 a week for both of us for $240,000 cover.
+[20 seconds][Agent] : And paying our premiums are about 185 a week for both of us for $240,000 cover. Right, OK.
+[31 seconds][Customer] : So I'm just like doing a bit of a comparison and just, yeah, trying to work out whether to check there's a reason behind it.
+[30 seconds][Agent] : So I'm just like doing a bit of a comparison and yeah, trying to work out whether, but there's a reason behind it. Our insurance company didn't contact us and let us know that the payment has stopped coming out of our account and wasn't back on the bank account.
+[41 seconds][Customer] : Our insurance company Cigna didn't contact us and let us know that the payment has stopped coming out of our account and wasn't enrollment back on the bank account and had a look at it And I thought, well, that's pretty slack on your behalf.
+[50 seconds][Agent] : And I thought, well, that's pretty slack on your behalf and put an e-mail and contacted us. Yeah, yeah.
+[53 seconds][Customer] : You could and could emailed and contacted us to let us know. They said that we're still insured. We're insured up until today. We're still insured. But we've now got to back pay two and a half, $1000. And I went, well, that's really not acceptable. I'm happy to back pay. But I was like, you know what? I'm just gonna check in with another insurance company because I said as far as the customer service side of it. And they went, oh, you know, it's our systems and they don't always talk to each other. I said, well, that's, that's not the point. The point is he's allowed my payments not to go through.
+[1 minutes 23 seconds][Agent] : Yeah, I don't check my bank account regularly and he doesn't pay attention.
+[1 minutes 26 seconds][Customer] : I don't check my B husband's bank account regularly and he doesn't pay attention.
+[1 minutes 31 seconds][Agent] : We just set up a automatic system that was working for us. Yeah.
+[1 minutes 30 seconds][Customer] : We just set up a automatic system that was working for us and it wasn't until when they happened to look at it and go, oh, we're saving a little bit more money than we usually are and went back through trying to work out where it would come from and realised it was yeah, that.
+[1 minutes 34 seconds][Agent] : And it wasn't until one that happened to look at it and go, I was saving a little bit more money than we usually are and went back through trying to work out where it would come from and realized it was yeah, that. Oh my gosh, me contacting them.
+[1 minutes 44 seconds][Customer] : So if it wasn't for me contacting then we still would have been trucking along.
+[1 minutes 46 seconds][Agent] : Yeah, we still would have been trucking along. Yeah, yeah. Oh my gosh. Look, I, yeah, no, we make every effort to contact you, uh, via phone, e-mail, SMS, you name it. All right, let's have a look at some pricing information for you with us here at One Choice. Can I get your name and date of birth? Uh, my name is Perianne Hawthorne. Yeah and my date of birth is the 15th of the 1st 9:00.
+[1 minutes 55 seconds][Customer] : Yes, yes, my name is Kerry Anne Hawthorne and my date of birth is the 15th of the 1st 1965.
+[2 minutes 14 seconds][Agent] : Thanks very much there Carrie Anne. Now I will let you know that calls are recorded. Any advice I provide is limited to proxy offer and assist you to make a decision about whether a suitable few needs. We do not consider your personal circumstances.
+[2 minutes 14 seconds][Customer] : Oh, sorry, that's just because I was *******. Who's trying to do.
+[2 minutes 27 seconds][Agent] : Alright, so sorry.
+[2 minutes 32 seconds][Customer] : It's something about I just need to actually plug in my headphones in because it's just easier.
+[2 minutes 34 seconds][Agent] : Oh, OK. As yeah. Calls are recorded. Any advice I provide is limited to products we offer and assisting make a decision about whether a suitable few needs. We do not consider your personal circumstances.
+[2 minutes 36 seconds][Customer] : It was something about yeah, yeah, yeah, yeah.
+[2 minutes 47 seconds][Agent] : All right, now, I'll also confirm you are a female New Zealand residence.
+[2 minutes 49 seconds][Customer] : Nice, Yeah.
+[2 minutes 52 seconds][Agent] : Yeah. Yeah. OK. No problems at all. All right, so let's have a look at that for you. Umm. Now, have you had a cigarette in the last 12 months? Oh, yeah, no, Yeah.
+[3 minutes 3 seconds][Customer] : Oh yeah, no, I'm a a smoker, not heavy, but I am a smoker.
+[3 minutes 8 seconds][Agent] : No judgment here. So am I all right?
+[3 minutes 8 seconds][Customer] : Yep, yes, that's alright. It's OK. I I'm I'm honestly, I don't have a problem.
+[3 minutes 15 seconds][Agent] : Yeah.
+[3 minutes 15 seconds][Customer] : I I don't smoke tail and I just smoke rollies and I've probably only really been smoking in the last probably 15 years of my life, which I believe I took it up in my 40. That's 45.
+[3 minutes 22 seconds][Agent] : Oh, oh, no, I was very young.
+[3 minutes 24 seconds][Customer] : Yeah, I don't know.
+[3 minutes 25 seconds][Agent] : I'm, I was very young and I'm still smoking at 47, so. Yeah. All right. And, uh, you can choose from $100,000 up to $750,000. How much would you like me to quote you on? I've got sorry, we both got 240 thousand each with child life insurance. Mm hmm. We've got a separate one for 61,000.
+[3 minutes 39 seconds][Customer] : Yeah, well we have, we've both got, I've got, we've both got 240 thousand each with child life insurance and then I've got a separate 1 to 61,000. So I'm probably about 300,000.
+[3 minutes 52 seconds][Agent] : So I'm probably about 300,000 Yeah, but yeah, just focus on about if you guys do 250.
+[3 minutes 55 seconds][Customer] : But yeah, just quote us on about you don't do 253. So the 200 or 300?
+[4 minutes][Agent] : Do you yeah 300 or 300? No, as is in 50,000 slots slots.
+[4 minutes 7 seconds][Customer] : Yeah, just quite a summat. Thanks.
+[4 minutes 5 seconds][Agent] : So yeah, I can do 250, yeah, no problems at all. Now with our policies, they are single policies. You'd, we don't do a joint.
+[4 minutes 16 seconds][Customer] : Yeah, that's fine.
+[4 minutes 14 seconds][Agent] : Umm, one of the reasons for that is because there's two different parts that our insurances can take. So that's why.
+[4 minutes 21 seconds][Customer] : Yep, Yep, Yep.
+[4 minutes 21 seconds][Agent] : All right, so if we're looking at a $250,000 for yourself, their carry on, it's a fortnightly premium of $116.92 a fortnight. How does that sound for you there?
+[4 minutes 34 seconds][Customer] : Well, I'm paying 120 a week. I'm paying 120 a week. Yeah.
+[4 minutes 38 seconds][Agent] : Oh, OK, right. OK.
+[4 minutes 44 seconds][Customer] : Well, actually more than that. Yeah. Yeah.
+[4 minutes 41 seconds][Agent] : Well, look, with our life insurance, you've got that Peace of Mind that there's a yeah, yeah, with with our life insurance, you've got the Peace of Mind and knowing there is that lump sum available. It also allows your beneficiaries to request in advance pay out of $10,000 to help with any funeral costs. And that is generally paid within the first 48 hours to receive the completed documentation for that quick financial help there. And umm, now as far as the application process, guys, we go through health and lifestyle questions over the phone that determines final pricing in terms of policy rather than making you run around to get medical checks done. All right, umm, I've had that medical check.
+[4 minutes 58 seconds][Customer] : Yeah, Yep, I've had a medical check because with and I'll just be honest and upfront with Cigna because I had a brain injury seven years ago.
+[5 minutes 26 seconds][Agent] : Umm, and I'll just put on the front, umm, with umm, because I had a brain injury seven years ago. They go and see a neurosurgeon, right?
+[5 minutes 30 seconds][Customer] : They requested I go and see a neurosurgeon for my policy.
+[5 minutes 34 seconds][Agent] : Policy, right?
+[5 minutes 35 seconds][Customer] : So I went to the neurosurgeon, paid the $500, went to the neurosurgeon, he goes, look, you'll out last me.
+[5 minutes 41 seconds][Agent] : Oh, OK.
+[5 minutes 42 seconds][Customer] : Yeah, he goes the brain injury hasn't had an impact on your life span. And as you can tell, I'm quite articulated and I work in a high performing job from operations manager in a very big store. So yeah, so I've continued on in my merry little way and I'm doing all these things. But anyhow, for their benefit, I sent, I went in, paid the $500 or whatever it was got in the self assessed by the neurosurgeon.
+[6 minutes 1 seconds][Agent] : Yeah, I paid the $500 a $100, got the neurosurgeon and he goes perfectly fine. This does not impact any lifespan. Sent that through. They came back to me and went, yeah, so they had the brain in.
+[6 minutes 7 seconds][Customer] : He goes perfectly fine particularly so this will, this does not impact any lifespan sent that through they came back to me and went no, so they had the brain in me.
+[6 minutes 20 seconds][Agent] : They passed me at a high risk.
+[6 minutes 19 seconds][Customer] : Umm, they cost me at a high risk and so I pay 150% on those premiums.
+[6 minutes 23 seconds][Agent] : Pay 150% on those premiums. Right, right, right. All right, well, let's see what happens with our one. I'll take you through those health and lifestyle questions.
+[6 minutes 32 seconds][Customer] : Yep.
+[6 minutes 32 seconds][Agent] : Now, we won't make you go and get any medical checks done, that's for sure.
+[6 minutes 36 seconds][Customer] : Yeah, but I could afford that letter.
+[6 minutes 36 seconds][Agent] : Uh, we base it simply every March.
+[6 minutes 37 seconds][Customer] : It was only that letter was only about early this year, February, March.
+[6 minutes 41 seconds][Agent] : So Yep, yeah, yeah, no, but our process is simpler than that, even with it. Like we just base it purely on the questions. All right, so firstly, can I get your address there?
+[6 minutes 41 seconds][Customer] : So yeah, OK, it's 56 Golding Blind Martin.
+[6 minutes 51 seconds][Agent] : Uh, 56 Golden Blind Market and the postal code for Martin.
+[7 minutes 3 seconds][Customer] : I think it's 4710, but ours is 47448 I think 'cause we're on a rural Rd. Yeah. I'm just gonna yeah, 'cause my mail comes. I'm just wanting to put my mail. Gouldings GOLDIGS. I'm just having a look at a letter I've just got. You know, I can say something completely wrong. Sorry, 4787.
+[7 minutes 11 seconds][Agent] : OK, 4748, how do you spell the street name B OLDRCH? Oh, sorry, 47874787. So it's under RG1? Yeah, yeah, OK. And it was Golding's line, was it? And #26 beautiful.
+[7 minutes 43 seconds][Customer] : Yeah, yes, 5656.
+[7 minutes 54 seconds][Agent] : Oh, sorry, 56, that's even better. There it is. Alright. And that's also your postal address, is it?
+[7 minutes 56 seconds][Customer] : Yeah, yes.
+[8 minutes 3 seconds][Agent] : Yeah, fantastic.
+[8 minutes 15 seconds][Customer] : Yep, yes.
+[8 minutes 5 seconds][Agent] : Alright, so I'll read to a pre underwriting disclosure that outlines our responsibility to you in the collection, use of your personal information, as well as your responsibility to us in providing the answer to our questions that reads. Please beware. All calls are recorded for quality monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and collect your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to ensure you and on what terms. You do not need to tell us things that you already know or should know as an insurer or which it uses a risk. We insure you have this duty until the time we enter into the contract. If you start to disclose the matter or you make a full statement and it's to our questions, we may be able to decline a claim, impose your conditions on your policy or avoid your policy entirely. Do you understand this yes or no?
+[9 minutes 27 seconds][Customer] : Yes.
+[9 minutes 28 seconds][Agent] : Excellent. So with these questions, they are basically yes or no's I genetically yes or no response. Uh, there's also a question with regards to height and W umm weight. With that one I can accept your last 9 height and weight measurements. So the first question here asks are you a citizen or permanent resident of New Zealand or Australia? Currently residing in New Zealand, yes or no? Yes, I'm Australian thought I'm married to a senior. OK, so you've got citizenship or permanent residency in New Zealand? Yep.
+[9 minutes 55 seconds][Customer] : Yes, I'm Australian, but I'm married to a Yes, Yes, sorry.
+[10 minutes 6 seconds][Agent] : OK, no problems. No, that's alright, you're OK. Do you need a drink or something? No, no, it's OK.
+[10 minutes 11 seconds][Customer] : No, no, it's OK. The dog just threw something up my face and I just pickled his nose.
+[10 minutes 12 seconds][Agent] : The dog just put something up in my face. Fair enough.
+[10 minutes 17 seconds][Customer] : Don't wait.
+[10 minutes 18 seconds][Agent] : Alright. What type of dog have you got?
+[10 minutes 21 seconds][Customer] : Well, miniature snazzer, but very annoying.
+[10 minutes 24 seconds][Agent] : Oh, OK. Yeah, I've got a Maltese cross palm. So, all right, and uh, so have you ever had symptoms of being diagnosed with or treated for or in Tennessee medical advice, any of the following stroke or heart conditions such as but not limited to heart murmur, heart attack and angina. No lung disorder excluding asthma, sleep at meal or pneumonia, cancer or leukaemia, excluding skin cancer, kidney disorder. No hepatitis or any disorder of the liver.
+[10 minutes 44 seconds][Customer] : No, no, no, no, no.
+[11 minutes 7 seconds][Agent] : No anxiety, depression or stress requiring medical treatment or any other mental health disorder. Yes. Mm, Hmm.
+[11 minutes 14 seconds][Customer] : Yes, because of the brain injury, I had come out of that with a little bit of anxiety. I don't know how to explain that one.
+[11 minutes 16 seconds][Agent] : And now that that's a little bit of anxiety, mm hmm. OK, no problems. So we'll just break that down now.
+[11 minutes 23 seconds][Customer] : I'm all right now, but you know, yeah, as you can.
+[11 minutes 24 seconds][Agent] : But you know, yeah, yes, you can imagine having a brain injury and yeah, sort of coming out of it. Yeah.
+[11 minutes 26 seconds][Customer] : But as you can imagine, having a brain injury and then sort of coming out of it as I think that I'm fine.
+[11 minutes 30 seconds][Agent] : I think that I'm fine. I don't take any medication now, but when I first came out, I was, umm, suffering anxiety. Yep. Medication. So mm, hmm.
+[11 minutes 31 seconds][Customer] : I don't take any medication now, but when I first came out, I was suffering anxiety, so they gave me sort of blood pressure and medication to help me through.
+[11 minutes 39 seconds][Agent] : So and then I'm fine. OK, alright, so we'll just break that one down. So it says in the last five years, have you attempted suicide or been hospitalized for mental health condition? No.
+[11 minutes 40 seconds][Customer] : And then I'm fine, No?
+[11 minutes 51 seconds][Agent] : And is your condition as long as schizophrenia, bipolar or psychotic disorder? No. Is your condition a depression, anxiety, post Natal depression or stress, including post traumatic stress disorder?
+[11 minutes 57 seconds][Customer] : No, no, because I don't have it anymore.
+[12 minutes 5 seconds][Agent] : No, because I don't have it anymore. OK. So when you did have it, it was anxiety? Yes.
+[12 minutes 14 seconds][Customer] : Yes.
+[12 minutes 14 seconds][Agent] : Yep. OK. Just related to recovering from a brain injury, as you imagine.
+[12 minutes 15 seconds][Customer] : And it was just related to recovering from a brain injury.
+[12 minutes 19 seconds][Agent] : Yeah. Or that's like traumatic back on track.
+[12 minutes 18 seconds][Customer] : As you can imagine, that was sort of like getting myself back on track. Yeah, Yeah.
+[12 minutes 22 seconds][Agent] : Yeah, Yep, Yep, certainly. And uh, so B would be anorexia, universal bulimia, No C is ADHD or ADHD, no. And D is other mental illness not listed here, no.
+[12 minutes 29 seconds][Customer] : No, no, no.
+[12 minutes 41 seconds][Agent] : OK, so capture that under the eye for the anxiety. And it asks how many episodes have you had which required treatment? I've got one to 2/3 to 4/5 to six or seven plus.
+[12 minutes 40 seconds][Customer] : Oh, you're asking me to remember back. That's so sorry. What's the question?
+[13 minutes][Agent] : So let me give you a yeah. So how many episodes have you had which required treatments? So I'll give you a definition of an episode.
+[13 minutes 13 seconds][Customer] : Yeah, please.
+[13 minutes 12 seconds][Agent] : It's so yeah, that's alright. An episode is an event, occurrence or recurrence of symptoms with increase severity from normal mood and usually require either medical intervention, referral, treatment or alteration adjustment to existing maintenance treatment. Treatment can take the form of medication and or counseling or therapy.
+[13 minutes 33 seconds][Customer] : Oh, OK. Yep.
+[13 minutes 32 seconds][Agent] : So I've got 3 examples here. So if someone has mental health symptoms that require treatment, this is an episode and if they return to their doctor several times to monitor the situation and also repeat prescriptions, this is the same single episode. If, however, they have a relapse or symptoms worsen and treatment needs to be changed or increased, then this constitutes a second episode. Similarly, if the applicant recovers and treatment stops and the applicant is fine, but a later date symptoms return and I have to go back to the doctor to seek further advice, this would be a separate episode. OK one, just the one. OK so I went on the anxiety medication. Mm hmm.
+[14 minutes 8 seconds][Customer] : OK, it's one because I'm sure I went on the anxiety medication and then I was like, I stopped taking that.
+[14 minutes 14 seconds][Agent] : And then I was like, I stopped taking that and then I just went for some counseling just to help me. I'm just saying, you know, umm, coping mechanism for the brain injury and getting myself back to, you know, before.
+[14 minutes 16 seconds][Customer] : And then I just went for some counselling just to help me understand, you know, coping mechanisms for the brain injury and getting myself back to, you know, before I had the incident.
+[14 minutes 27 seconds][Agent] : Yeah, Yep, Yep. Certainly. All right, so, so we'll capture that to the one to two and asks have you had symptoms or treatment for this condition in the within the last six months? No. And have you ever seriously contemplated or attempted suicide? No. Excellent. So moving on from that, have you been, have you been diagnosed with or currently undergoing testing for as the doctor advised you'd be tested for measure neuron disease or any form of dementia including Alzheimer's disease?
+[14 minutes 39 seconds][Customer] : No, no, no.
+[15 minutes 2 seconds][Agent] : Excellent. The next section is in relation to height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height there, please? I AM 160, 100.
+[15 minutes 22 seconds][Customer] : I am 160. Oh, oh God, 160.
+[15 minutes 24 seconds][Agent] : Oh, 160. Oh, sorry.
+[15 minutes 27 seconds][Customer] : Sorry, name 100 and 67165 and 165.
+[15 minutes 29 seconds][Agent] : Name 157, 165.
+[15 minutes 36 seconds][Customer] : Sorry.
+[15 minutes 35 seconds][Agent] : OK, So last time you measured yourself?
+[15 minutes 36 seconds][Customer] : I'm just trying to remember. I it's been. Yeah, I would have.
+[15 minutes 37 seconds][Agent] : Yeah, I would accept this.
+[15 minutes 39 seconds][Customer] : That was a long time ago and I'm pretty sure it's 165.
+[15 minutes 40 seconds][Agent] : Long time ago. Not pretty sure. 165. Yep. OK, so you're confident that the last time you measured yourself was 165 centimeters?
+[15 minutes 48 seconds][Customer] : Yep.
+[15 minutes 48 seconds][Agent] : Yeah, Yep. OK. And what is your exact weight?
+[15 minutes 53 seconds][Customer] : It's 72 kilos.
+[15 minutes 55 seconds][Agent] : Yeah, beautiful. And have you experienced any unexplained weight loss of more than 5 kilos in the last 12 months?
+[16 minutes 4 seconds][Customer] : No, I wish.
+[16 minutes 4 seconds][Agent] : No, we. Well look, anything unexplained isn't necessarily a good thing.
+[16 minutes 12 seconds][Customer] : Yeah. Oh, yeah, it's true.
+[16 minutes 11 seconds][Agent] : If it was an explained weight loss, I can get right on board for that for myself.
+[16 minutes 14 seconds][Customer] : Yeah. Yeah, Yeah. Any weight loss is a good thing.
+[16 minutes 18 seconds][Agent] : Yeah, yeah, I'm bright. Blaming menopause and premenopause on my white guy 5 and his menopause.
+[16 minutes 18 seconds][Customer] : Yeah, yes, so am I. I was bloody travelling at 65 and hit menopause and I was like, oh, thanks for the blowout.
+[16 minutes 27 seconds][Agent] : And I was like, oh, thanks for the blowout. Yeah. Yeah. Oh, well, it's what happens. We've got to put up with so much as women.
+[16 minutes 30 seconds][Customer] : Yeah, yeah. Yeah, we do.
+[16 minutes 35 seconds][Agent] : All right Now, does your work require you to get underground? Work at heights above 20 meters, drive steps below 40 meters, Use explosives or travel to areas spiritually? War or civil unrest or work offshore? No, to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV, which causes AIDS? Do you have definite plans to travel or reside outside of New Zealand that is booked or will be booking travel within the next 12 months? Yeah. Whereabouts are you heading to? Uh, Yep.
+[16 minutes 49 seconds][Customer] : No, no, yes, being Australian, I'll be going home. I'd go home to Aussie in my family.
+[17 minutes 18 seconds][Agent] : What part of Australia from? So I do, I do that regularly. So I go to QLD.
+[17 minutes 21 seconds][Customer] : OK, So I do, I do that regularly. So I go to Queensland because my mother's in a nursing home there.
+[17 minutes 26 seconds][Agent] : Oh, OK. Yeah, certainly.
+[17 minutes 26 seconds][Customer] : So I pretty much fly in Brisbane, go there and then fly out.
+[17 minutes 28 seconds][Agent] : All right, OK, we'll look our cover is worldwide 24/7.
+[17 minutes 39 seconds][Customer] : Yeah, OK.
+[17 minutes 35 seconds][Agent] : So even whilst traveling, regardless of where it is, the cover will be in place and that so will you be will you be overseas for longer than three consecutive months? No. OK, All right now does your, uh, do you have existing life insurance policies with other life insurance companies with the combined total sum are short of more than $5,000,000?
+[17 minutes 45 seconds][Customer] : No, no.
+[17 minutes 57 seconds][Agent] : No, with regards to existing one, we do recommend that if you're looking to cancel or replace that one with ours, uh, you don't cancel until you review our policy in full because there can be differences. So let's move on to the next sort of questions. Have you ever had symptoms of being diagnosed with or treasured 4 or intend to seek medical advice in the following diabetes, raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure.
+[18 minutes 27 seconds][Customer] : No, I'm just trying to think a while back when I, I think I tried to quit smoking, they put me on nicotine patches and it gave me chest pains.
+[18 minutes 47 seconds][Agent] : Oh, OK.
+[18 minutes 45 seconds][Customer] : I ended up at the hospital and then they they, they couldn't find anything wrong with me, but they reckon it was possibly the nicotine patches.
+[18 minutes 53 seconds][Agent] : Oh, OK. Alright, so let's say yes to that one. Uh, so we can capture that chest pain.
+[18 minutes 55 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[18 minutes 58 seconds][Agent] : And just to break that down, it says based on your response, please says yes or no to each of the following. Uh, so chest pain, yes or no?
+[19 minutes 9 seconds][Customer] : Oh, so yes.
+[19 minutes 9 seconds][Agent] : So let's see yes to that one. Yep.
+[19 minutes 12 seconds][Customer] : Yep.
+[19 minutes 11 seconds][Agent] : Have you consulted a doctor for your chest pains? You said you went to hospital for that.
+[19 minutes 17 seconds][Customer] : Yeah. That was about seven years ago.
+[19 minutes 19 seconds][Agent] : Yeah, that was about seven years ago. Yeah, no problems. Now, was your condition diagnosed be heart related? No.
+[19 minutes 19 seconds][Customer] : 6-7 years ago, No.
+[19 minutes 27 seconds][Agent] : Did the chest pain occur with breathlessness? Yes. Yes it did. OK, Alright.
+[19 minutes 31 seconds][Customer] : Yes, yeah. I think it was a combination panic panic attack or anxiety cause at that stage I was still coming out of the brain injury.
+[19 minutes 35 seconds][Agent] : So Yep. Yep. OK. Right, and that just caused the the tightening of the chest and everything and, and the shortness of breath goes with anxiety.
+[19 minutes 48 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[19 minutes 50 seconds][Agent] : OK, All right, so it says what sort of thing in the middle of like an anxiety panic attack? MMM.
+[19 minutes 53 seconds][Customer] : So I could have been in the middle of like an anxiety panic attack and then with the nicotine patches it sort of just triggered something blaze weird. Yeah, yeah.
+[20 minutes][Agent] : And there was accumulated. Yep, Yep, Yep. All right. So it says what was the medical diagnosis, including results of the investigation, for example, blood tests. So umm, it was an anxiety attack. OK, Umm, uh, inside check.
+[20 minutes 13 seconds][Customer] : Yeah, they couldn't find anything, they found nothing.
+[20 minutes 23 seconds][Agent] : Yeah.
+[20 minutes 22 seconds][Customer] : So they just put it down to just having an anxiety attack and probably the nicotine patches might have been just stronger than I should have been using.
+[20 minutes 32 seconds][Agent] : Mm. Hmm. OK. All right. So in conjunction with strong nicotine patches, alright. And umm, so they ran all the Acgs and all that kind of thing as well. Yeah.
+[21 minutes][Customer] : Yeah, Nothing. Nothing. Yeah.
+[21 minutes 4 seconds][Agent] : OK, so ECG showed no issues.
+[21 minutes 12 seconds][Customer] : Yeah. There's no irregularity. There's nothing there. Well, if I'd just breathe into a paper bag, I would have been fine.
+[21 minutes 15 seconds][Agent] : OK, beautiful hindsight, 2020, isn't it? All right. And so when did you last experience chest pain? So is it is?
+[21 minutes 31 seconds][Customer] : Well, that was the last time. Yeah.
+[21 minutes 34 seconds][Agent] : Yeah. So you said that's about seven years ago.
+[21 minutes 33 seconds][Customer] : Then yeah, well, six, I can't yeah, I couldn't.
+[21 minutes 36 seconds][Agent] : Was it around six years ago?
+[21 minutes 40 seconds][Customer] : It's quite some time ago to be able to yeah, yeah, around six years ago yeah.
+[21 minutes 44 seconds][Agent] : OK, no, that's problem. No problems. How many times has this occurred?
+[21 minutes 51 seconds][Customer] : It was just that one big bout. It was just a one. It was a one off. Didn't know what was happening. It couldn't work it out. I was under a bit of stress at work, just returning to work from the brain injury and that and I think because I was sort of in a leadership role, so probably just trying to get back into work, into the swing of things.
+[21 minutes 53 seconds][Agent] : Yep, OK, Yep, Yep.
+[22 minutes 10 seconds][Customer] : And I think just under a bit of stress and pressure and trying to get the brain to rejig itself. And I must have just go, oh, it's all just too much. And yeah, at the moment.
+[22 minutes 19 seconds][Agent] : Oh, OK. Yeah.
+[22 minutes 20 seconds][Customer] : And then of course I was thinking I'll I'll not smoke and do all the right things. And I just don't think that'd help with the nicotine patches because I'll make it feel so sick.
+[22 minutes 28 seconds][Agent] : Oh, no. OK.
+[22 minutes 31 seconds][Customer] : Yeah.
+[22 minutes 31 seconds][Agent] : All right. Yeah.
+[22 minutes 35 seconds][Customer] : Yeah.
+[22 minutes 32 seconds][Agent] : So it's just a whole culmination of a lot of things. Yeah. But he said that's enough. All right, OK, and it says are you taking any medication or you are you receiving any other form of treatment?
+[22 minutes 35 seconds][Customer] : It was a just yeah, I'd say it was a one one day and just like yeah, Yep, I'm taking thyroxine, the thyroid pills for an under active thyroid.
+[22 minutes 51 seconds][Agent] : I'm taking OK, so we Yep OK, I can capture that coming up. But uh, with regards to the umm the chest pain.
+[23 minutes][Customer] : Oh, Oh, no, no. No, not that I'm aware of.
+[23 minutes 2 seconds][Agent] : Oh no, no, OK, all right, so, umm, moving on to the next ques Part of that is high cholesterol, yes or no and no.
+[23 minutes 17 seconds][Customer] : I've I had a medical not long ago.
+[23 minutes 21 seconds][Agent] : Yep.
+[23 minutes 19 seconds][Customer] : I was perfectly fine and I was like, oh, wow, OK, thanks for that.
+[23 minutes 21 seconds][Agent] : Oh, wow, excellent. And uh, high blood pressure. No OK, now tumor, mole or cyst including skin cancer, sunspots and Melanoma.
+[23 minutes 28 seconds][Customer] : No, Nope, Nope.
+[23 minutes 38 seconds][Agent] : Have you ever had an abnormal PAP or cervical spear thyroid condition or neurological symptoms such as dizziness or fainting?
+[23 minutes 53 seconds][Customer] : So I've got thyroid.
+[23 minutes 54 seconds][Agent] : Yep. So we'll answer yes to that one. We'll break that one down like we just did.
+[23 minutes 57 seconds][Customer] : Yeah, yeah.
+[23 minutes 58 seconds][Agent] : Based on your response, please answer yes or no each of the following. Thyroid condition, yes or no.
+[24 minutes 6 seconds][Customer] : Yes.
+[24 minutes 7 seconds][Agent] : And is it an overactive or under active condition? Yes or no?
+[24 minutes 11 seconds][Customer] : Under active.
+[24 minutes 12 seconds][Agent] : Yep. OK.
+[24 minutes 13 seconds][Customer] : Yes.
+[24 minutes 13 seconds][Agent] : So that's a yes to that one as well. Were you diagnosed in the last six months?
+[24 minutes 20 seconds][Customer] : No.
+[24 minutes 21 seconds][Agent] : And was your last thyroid function test normal?
+[24 minutes 27 seconds][Customer] : Yes. Oh, no. Well, no, because I take medication.
+[24 minutes 31 seconds][Agent] : Yes.
+[24 minutes 30 seconds][Customer] : So I mean, oh, how do you answer that? Yeah.
+[24 minutes 31 seconds][Agent] : So with with with the medication, is it functioning normally?
+[24 minutes 37 seconds][Customer] : Yes. Yes, yes.
+[24 minutes 37 seconds][Agent] : Yep, Yep, Yep.
+[24 minutes 39 seconds][Customer] : The medication keeps it normal. Yes, yes, yeah.
+[24 minutes 39 seconds][Agent] : Say, yeah, yeah, my mother in So and then the next one here is asking your logical symptoms such as dizziness or fainting. Yep. OK, based on your response, please answer yes, no for each of the following. So a disorder of the stomach will bow yes or no.
+[24 minutes 51 seconds][Customer] : OK, No, yes, yes.
+[25 minutes 21 seconds][Agent] : And so we'll break that down further to say stomach disorder, yes or no.
+[25 minutes 27 seconds][Customer] : I don't want any by the disorder, but yes, the internal bowel syndrome I think I've got.
+[25 minutes 32 seconds][Agent] : OK, Yep.
+[25 minutes 32 seconds][Customer] : Yeah, yeah.
+[25 minutes 33 seconds][Agent] : OK, no problems at all. All right, so it then says is it Barrett's esophagitis, yes or no stomach surgery? That is gastric band, gastric banding, gastric bypass or stomach stapling.
+[25 minutes 43 seconds][Customer] : No, no, yeah, I'm not too sure what you're asking, but I do.
+[25 minutes 54 seconds][Agent] : OK moving to on it asks about disorder, I'm not sure if you're asking, but I I was born with a flying bowel.
+[26 minutes 3 seconds][Customer] : I was born with a blind bowel, so I have had bowel surgery and I have got irritable bowel syndrome, so I don't know how to explain that.
+[26 minutes 5 seconds][Agent] : I have had bowel surgery. OK right.
+[26 minutes 18 seconds][Customer] : OK.
+[26 minutes 13 seconds][Agent] : OK umm, well the IBS I can actually capture a bit further on umm, it was hidden bowel was it?
+[26 minutes 22 seconds][Customer] : Yeah, like I, I suppose twisted bowel or whatever it was.
+[26 minutes 22 seconds][Agent] : Yeah, like I said, oh, OK.
+[26 minutes 25 seconds][Customer] : I had off the surgery when I was six weeks old and then when I was three months old, and then I had a fair bit of bowel surgery because endometriosis is on my bowel. Yeah.
+[26 minutes 25 seconds][Agent] : Oh, three months old and then I had see a bit of bowel surgery because endometriosis is on my back.
+[26 minutes 35 seconds][Customer] : So I've had this like a bit of bowel surgery throughout my life, but I'm perfectly fine since I was in my 30s and then in this bowel surgery since 30s, and I just suffer the deal.
+[26 minutes 39 seconds][Agent] : So I have this one a bit of bowel surgery. OK, Yep, Yep. Certainly so I can capture the IBS a bit later.
+[26 minutes 50 seconds][Customer] : OK.
+[26 minutes 49 seconds][Agent] : Umm, so let's see uh, so let's see yes to the batteries sort out so we can capture the all the surgeries there.
+[26 minutes 54 seconds][Customer] : Yeah, OK.
+[26 minutes 55 seconds][Agent] : Umm, or the twisted belt, It says, is it Crohn's disease or ulcerative colitis? Is it a bowel polyp? OK, all right. And moving on, it says pancreas, yes or no? Excellent. So epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis.
+[27 minutes 1 seconds][Customer] : No, no, no, no, just with that polyp thing.
+[27 minutes 30 seconds][Agent] : What about that policy?
+[27 minutes 30 seconds][Customer] : No, I did have a polyp removed about 3-4 years ago.
+[27 minutes 31 seconds][Agent] : No, I did have the policy moved about 3-4 years ago. Oh, OK. Yeah, yeah.
+[27 minutes 34 seconds][Customer] : But, and, but, yeah, yeah. But then I had a colonoscopy not long ago and I couldn't find anything, so I was fine. And that was only about six months ago.
+[27 minutes 36 seconds][Agent] : But then I had a polynoscopy not long ago and I couldn't find anything. So. OK, so you did have a power pull up at one stage.
+[27 minutes 44 seconds][Customer] : So, yeah, would have been maybe four years ago.
+[27 minutes 52 seconds][Agent] : All right, so we'll answer yes to the bow polyp.
+[27 minutes 56 seconds][Customer] : Yeah.
+[27 minutes 55 seconds][Agent] : Umm, just getting back to that one. It says is it familial adenomatous polyposis?
+[28 minutes 2 seconds][Customer] : I don't know what you mean by that.
+[28 minutes][Agent] : I don't know what you mean by that. OK, so let me. So that's an illness.
+[28 minutes 8 seconds][Customer] : It's it was benign or whatever.
+[28 minutes 10 seconds][Agent] : Yeah.
+[28 minutes 10 seconds][Customer] : Yeah, I don't know.
+[28 minutes 11 seconds][Agent] : OK, so, uh, let me just give you that, uh, definition of that won't be 1 moment. So a familial adenomatous polyposis is a disease of the large intestine that is marked by the formation, especially in the colon, the ****** of numerous adenomatous pots which typically become malignant if left untreated. That may be the asymptomatic or accompanied by diarrhea or bleeding. And it is inherited as an autosomal abdominant trait as abbreviation is FAP and also called familial polyposis.
+[28 minutes 30 seconds][Customer] : No, I wouldn't know 'cause nobody told me. Like I've just got my head out there that way.
+[28 minutes 47 seconds][Agent] : OK, so it's just a it was just a normal bowel polyp. It they didn't mention.
+[28 minutes 51 seconds][Customer] : Oh, oh, yeah, yeah, yeah.
+[28 minutes 53 seconds][Agent] : Yeah, OK.
+[28 minutes 54 seconds][Customer] : They didn't say anything. They just said it was, yeah. And then they asked me to have another colonoscopy in three years time. I did. And there was no outcome from that.
+[28 minutes 53 seconds][Agent] : And then they asked me to have another colonoscopy in three years time. OK. All right. So, umm, they said it was just a normal bowel polyp that was benign.
+[29 minutes 2 seconds][Customer] : So yeah, yeah, yeah, yeah.
+[29 minutes 7 seconds][Agent] : So we'll answer no to this familial polyposis. All right?
+[29 minutes 12 seconds][Customer] : OK.
+[29 minutes 12 seconds][Agent] : No problems at all.
+[29 minutes 24 seconds][Customer] : No, no.
+[29 minutes 13 seconds][Agent] : So skipping on to the next one, it asks any illegal drug use, abuse or prescription medication or received medical advice or counseling for alcohol consumption, bladder or urinary tract disorder, blood disorder or disease. Oh, sorry. Yeah. Bladder.
+[29 minutes 32 seconds][Customer] : Oh, actually, sorry. Bladder. Yes, because I had bladder surgery.
+[29 minutes 33 seconds][Agent] : Yes, because I had bladder surgery.
+[29 minutes 37 seconds][Customer] : You know how women be bleaking all the time, but I don't have disorder.
+[29 minutes 37 seconds][Agent] : You know how women, Yep, uh, prolapse bladder was it or something like that? Yeah.
+[29 minutes 44 seconds][Customer] : Yeah, yeah.
+[29 minutes 45 seconds][Agent] : All right, so we'll answer yes to that one and break it down. It asks in the past two years, have you had any of the following said blood or sugar in your urine or more than two urinary tract infections or had a cytoscopy, ultrasound, Dr. AP, which is an intravenous paleogram. Excellent. All right, so moving on, blood disorder or disease, sleep apnea or asthma, excluding childhood asthma.
+[29 minutes 55 seconds][Customer] : No, no, no, no.
+[30 minutes 18 seconds][Agent] : Excellent. And other than what you've already told me about in the past three years, have you sought medical advice or umm, or treatment by a medical practitioner specialist? Or are you waiting the results of any medical test investigation, for example, X-rays scans, blood tests or biopsy or are awaiting the any are awaiting the results.
+[30 minutes 43 seconds][Customer] : Nope. Help.
+[30 minutes 43 seconds][Agent] : So we will at we will at see.
+[30 minutes 50 seconds][Customer] : Oh, oh, sorry.
+[30 minutes 46 seconds][Agent] : So we will answer yes to that one so that I can capture the IBS, umm, which is on my pre approval. Yeah. No, that's all right.
+[30 minutes 53 seconds][Customer] : Yes, yes, actually, I'm sorry. I did go to the doctors about my bowel because I about a year ago because I was having a fair bit of gastro and it just wouldn't settle. And then that's where I think we we ended up doing the colonoscopy, but I think it's yeah, he can't, they just can't find anything wrong with me. I'm perfectly help, you know, healthier than that. Don't even take the six day off work.
+[31 minutes 18 seconds][Agent] : Yeah, yeah. OK. Yeah, just taking care and, and, uh, making sure you're reading the right things and yeah.
+[31 minutes 19 seconds][Customer] : So they put it down to IBS and I've just been watching food and diet and yeah, yeah, yeah, yeah, yeah.
+[31 minutes 30 seconds][Agent] : OK.
+[31 minutes 31 seconds][Customer] : Nothing spicy. And yeah, yeah.
+[31 minutes 33 seconds][Agent] : All right. Now in this part I will also, umm, capture the brain injury and the, and you said endometriosis as well.
+[31 minutes 42 seconds][Customer] : Yeah.
+[31 minutes 43 seconds][Agent] : Yeah. OK. Yeah, OK. And, uh, with regards to them, I'll just capture a bit further information. Umm, might be one second. All right, So first of all, it says please describe the reason for the consultation, including symptoms and diagnosis. Firstly, we'll capture the endometriosis, uh, and answer that one might be one second. OK, yes. So with regards to the endometriosis, it says please describe the reason for the consultation, including symptoms and diagnosis. So how did they find the endometriosis?
+[32 minutes 38 seconds][Customer] : I was 17 basically just through abdominal pain and Nope.
+[32 minutes 34 seconds][Agent] : Umm, I was 17, umm, basically umm, through abdominal pain, umm and.
+[32 minutes 48 seconds][Customer] : Pretty private, but yeah, painful sex, abdominal pain and just, yeah, really heavy periods.
+[32 minutes 57 seconds][Agent] : Mm Hmm.
+[33 minutes 3 seconds][Customer] : I was around about 17 or 18 at the time.
+[33 minutes 2 seconds][Agent] : OK, Yep. OK. And, uh, so when did it occur?
+[33 minutes 13 seconds][Customer] : Oh yeah, 17, yeah. I had a hysterectomy at 27 and that's for the cure.
+[33 minutes 12 seconds][Agent] : Uh, when you were 17, OK, around age 17 and actually let me just, I had a history 27 actually, I don't actually need to catch the endometriosis because that is on my pre approval. So that actually I'll just was looking at back out of my end of my list.
+[33 minutes 47 seconds][Customer] : Yeah.
+[33 minutes 40 seconds][Agent] : There is not pre approved there and OK, so that one that one is on the list, so I don't need to worry about capturing that one, but I will capture the uh the brain injury because that one isn't all right. OK, so scrap those questions that I just asked about the endometriosis.
+[33 minutes 53 seconds][Customer] : OK, OK. No, that's alright.
+[33 minutes 58 seconds][Agent] : So all right, umm all right. So with regards to brain injury, umm, how did that happen? Umm.
+[34 minutes 8 seconds][Customer] : I actually fell down an embankment like a like I was at a friend's place for a barbecue and I went down the pack of an abankment. So we were hav having Yeah, yeah, because TH they had this garden and the garden edging there. And I'll be honest about it bloody because this was before my bladder surgery.
+[34 minutes 39 seconds][Agent] : Yeah.
+[34 minutes 42 seconds][Customer] : So this was before my bladder surgery. And I my I just I was already being treated, treated for that. And I was having all these tests done and I, I was going on the list to have bladder surgery because I just couldn't hold when I need to go, I need to go to the toilet. So I went to that friend's place and we're having a barbecue in the afternoon. It was like in the afternoon and booked people, one toilet in the house, lots of people using the toilet. I was like, I can't wait, I can't wait, come back.
+[34 minutes 52 seconds][Agent] : Yeah, yeah, yeah.
+[35 minutes 10 seconds][Customer] : It was probably about 8:00 at night. I went, I'll be fine.
+[35 minutes 17 seconds][Agent] : Oh, no.
+[35 minutes 13 seconds][Customer] : I'm just stuck around behind a garden shed and go to the toilet and didn't realise when I stood up from going to the toilet and took a step back because it was in the dark that I thought I had a lot of lawn behind me. But it wasn't. I'd only had half an I don't even know how I didn't notice it going around. But there was a bit of a fence line. I only had probably about a meter.
+[35 minutes 25 seconds][Agent] : Yeah, yeah, yeah.
+[35 minutes 37 seconds][Customer] : So I'm stood up, stepped back pulling the pants up obviously and there was nothing behind me. And down the bank I went and there was concrete stairs. So So what happened was I had the shear bag luck.
+[35 minutes 44 seconds][Agent] : Oh, no, yeah, yeah. Oh, no. Oh, wow.
+[35 minutes 49 seconds][Customer] : If it was just grass, it would have been OK, but it was actually concrete steps that I landed on yes.
+[35 minutes 58 seconds][Agent] : And all because you needed to pay.
+[35 minutes 59 seconds][Customer] : And then and then when I went back to the hospital about my bladder, they said well, you know, I said to them, I said this has caused me to bloody have a brain injury once I come round from brain injury. I said this has caused me to have a brain injury. I need this bladder fixed. I'm just leaking all the time. I just can't. I can't I just you know, I can't live like this. It's causing me too much stress. I said, and anyhow, she goes, well, you're not the problem was. And she said your friend should have more than one toilet. I said, oh, it's a bit rude. I said, 'cause most people can actually wait. But I said I was at that point where I was just, it was just giving out on me, you know?
+[36 minutes 10 seconds][Agent] : Yeah, yeah, yeah, yeah, yeah, yeah, yeah.
+[36 minutes 34 seconds][Customer] : And I said, and it's, even though I had other stuff in there, like, you know, it's not that problem to capture. Not when your bladder is really full. Sometimes that's just not enough.
+[36 minutes 43 seconds][Agent] : It's not gonna work. Yeah no, that's right. That's right.
+[36 minutes 43 seconds][Customer] : Yeah, Yeah, yeah, yeah, Sonia. So then, yeah, after the brain injury, they gave me the bladder surgery within six months or so. After brain surgery, I went, well, that's a little bit late, but then. Yeah. Thanks for that.
+[36 minutes 46 seconds][Agent] : Yes, yeah, yeah, yeah. OK. And, umm, and you required to this, uh, surgery for the like brain surgery.
+[36 minutes 55 seconds][Customer] : Yeah, Yeah. I had a cranial, cranial or the Maple, whatever they call it.
+[37 minutes 3 seconds][Agent] : Yeah, I had a OK Umm. And was that for a brain brain blade or something? Was it?
+[37 minutes 18 seconds][Customer] : I think, yeah, pressure swelling, Yeah, I think it's just the swelling on the brain.
+[37 minutes 21 seconds][Agent] : OK, OK, all right. And that. So when did it occur?
+[37 minutes 23 seconds][Customer] : Just God. I'm pretty sure it's back in 2017, February 2017.
+[37 minutes 38 seconds][Agent] : Yeah, OK, uh, that's all right. I just need an approximate time frame there. Umm, So yes.
+[37 minutes 42 seconds][Customer] : I'll see if I can find in my notes because it's ah, yeah, I'm pretty sure.
+[37 minutes 48 seconds][Agent] : So around around February 17.
+[37 minutes 50 seconds][Customer] : My husband, yeah, 2017, I'm pretty sure.
+[37 minutes 54 seconds][Agent] : Yep. OK. And it says please provide details of medical test, examination, X-ray scans, blood tests or biopsy, including dates and the results. So umm, they did like an MRI or CT or something, did they?
+[38 minutes 13 seconds][Customer] : I don't know because I would have been unconscious and then I would have done whatever they've done and made the decision to operate.
+[38 minutes 24 seconds][Agent] : Yeah.
+[38 minutes 24 seconds][Customer] : And then when I woke up from the surgery, I had a fractured collar bone and the brain injury. And then that was it pretty much. And they put me in a brain injury unit for about PR probably lasts four or five days there. And I just said to my daughter, Get Me Out, I'm going home. I'll take care of myself, which I probably was good because I wasn't happy with the care and the brain injury. And I was articulated enough to know that this wasn't gonna work for me.
+[38 minutes 48 seconds][Agent] : Yeah, yeah.
+[38 minutes 50 seconds][Customer] : So I went home and I was back to work within three months, basically called me to start pupil.
+[38 minutes 55 seconds][Agent] : Oh, wow.
+[38 minutes 55 seconds][Customer] : So yeah, yeah.
+[38 minutes 57 seconds][Agent] : Wow.
+[38 minutes 57 seconds][Customer] : I mean, I did have speech. I did have speech problems and memory loss problems for about probably, I don't know, 8-12 months to 18 months. But they say your brain rebuilds itself if you use it. And so it has rebuilt itself. And, you know, I'm sucking along really, really well, you know, and I've put certain things in place, you know, but you know, I use the diary like notes down and I'm perfectly fine.
+[39 minutes 14 seconds][Agent] : Yeah, yeah, yes, yes, I have to do that regardless. Yeah.
+[39 minutes 23 seconds][Customer] : So yeah, sometimes some people say to me, I'd do that. And it's, it's called old age or forgetfulness. And I went, oh, I'm not that bad. I'm actually probably better than most people. I remember a lot of things. So I retain a lot of information and most of my work loads quite big.
+[39 minutes 36 seconds][Agent] : Yeah, yeah.
+[39 minutes 39 seconds][Customer] : So I functioned quite well.
+[39 minutes 43 seconds][Agent] : Wow. OK. Umm, so, yeah. And so you've made a full recovery there?
+[39 minutes 49 seconds][Customer] : Yes, yes.
+[39 minutes 49 seconds][Agent] : Yeah, excellent.
+[39 minutes 58 seconds][Customer] : Yep.
+[39 minutes 51 seconds][Agent] : All right, So I'll just, uh, with regards to the medical test, one I've put not sure as was unconscious, umm, but it would have likely been a CT, an MRI or something like that.
+[40 minutes 1 seconds][Customer] : Yes. Yes, yes.
+[40 minutes 4 seconds][Agent] : OK, OK. All right. And, uh, so it says, is any further investigational treatment plan? If so, when? And please advise before recovery has been made. Yep. All right, So the speech and, uh, memories have returned.
+[40 minutes 19 seconds][Customer] : No, yes, yeah.
+[40 minutes 35 seconds][Agent] : Yep. Oh, beautiful. That is a great outcome at all because you needed to pay. All right. And so I know what you've already told me about. Are you contemplating seeking medical advice? Any symptoms you're currently experiencing within the next two weeks?
+[41 minutes 1 seconds][Customer] : No 'cause I'm not experiencing any symptoms so I'm good.
+[41 minutes 4 seconds][Agent] : Excellent. No problems at all. And so I've got two family history questions. These are with regards to your immediate biological family. So your parents are your your parents and siblings only? Umm.
+[41 minutes 15 seconds][Customer] : Yep, Yep.
+[41 minutes 16 seconds][Agent] : So to the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease or familial ad adomatous polyperti? Sorry, familial adomatous polyposis? No. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other heritage disease prior to age 60?
+[41 minutes 29 seconds][Customer] : No, no, no.
+[41 minutes 45 seconds][Agent] : No.
+[41 minutes 45 seconds][Customer] : It's my brother, I think.
+[41 minutes 46 seconds][Agent] : My brother, I don't think he had.
+[41 minutes 50 seconds][Customer] : I don't think he had pancreatic cancer, but he had a tumour that the mood. But he that was when he was 62. But he's fully recovered. So I don't know what the story is there.
+[41 minutes 56 seconds][Agent] : He had a tremor that removed, but he was probably recovered. So. Oh, yeah. Yep. No problems at all. So OK. Yeah.
+[41 minutes 59 seconds][Customer] : Other than that, no, Yeah, no.
+[42 minutes 2 seconds][Agent] : No. No. OK. Yeah. So because he was over 60, we don't need to capture that.
+[42 minutes 4 seconds][Customer] : Are you just talking about my brothers and sisters?
+[42 minutes 7 seconds][Agent] : Parents and siblings, Yes.
+[42 minutes 6 seconds][Customer] : Height For what? Cancer. OK, my father, my father, Heart.
+[42 minutes 11 seconds][Agent] : Uh, so umm, so it is, uh, cancer, heart condition, stroke or other hereditary disease prior to age 60 Yeah. Was that before 60? Was it? Yep. OK, so we'll say yes to that question that case and break it down. So how many of your immediate family suffered from cancer before the age of 60? Heart condition and or stroke. So just dead. Was it my sister and my father. OK. And both before the age of 60.
+[42 minutes 24 seconds][Customer] : Yes, No, No2 no Sister and my father yes.
+[42 minutes 49 seconds][Agent] : Yeah.
+[42 minutes 49 seconds][Customer] : My sister was born with a heart murmur.
+[42 minutes 53 seconds][Agent] : Oh, OK.
+[42 minutes 55 seconds][Customer] : I don't know how to describe that.
+[42 minutes 55 seconds][Agent] : All right, let me just let me just quickly run that past my manager to see if I need to capture the heart member. Won't be 1 moment. Yeah.
+[43 minutes 3 seconds][Customer] : Yeah.
+[43 minutes 4 seconds][Agent] : Thanks. No problems. Thank you very much for holding there, Carrie Anne.
+[43 minutes 43 seconds][Customer] : Hi. Yep.
+[43 minutes 42 seconds][Agent] : All right, So yes, we'll capture the two there for the heart, for the heart murmur for your sister and your dad's heart condition and so other hereditary disease.
+[43 minutes 53 seconds][Customer] : No.
+[43 minutes 55 seconds][Agent] : No beautiful. All right, And moving on to the last question now, it asks other than one off events, for example, gift certificates of vouchers, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deep in the 40 meters, cable wreck diving or any other hazardous activity?
+[44 minutes 23 seconds][Customer] : No, been there, done that. No.
+[44 minutes 24 seconds][Agent] : Nope, I wouldn't do any of them. I'm definitely not that adventurous. All right. So just processing that through for us now won't be 1 moment while it does come up there. All right now Karen, with regards to your application, your with your answers there. Your application needs to be referred to the underwriter assessment. Now that is due to the chest pains with breath, breathlessness as well as the brain injury there OK.
+[44 minutes 48 seconds][Customer] : Yeah, Yep.
+[44 minutes 55 seconds][Agent] : Now if approved this policy will have you immediately for death due to any cause except suicide in the 1st 13 months. And as well as that there is a living benefit for called a terminally ill advanced payment. Now it is something we have is never actually needed. That does mean if you're diagnosed with 12 months or less to leave by a medical practitioner, we'll actually pay that claim to you in full while you're still living. All right? Now, based on your family history there with two or more with heart conditions, the premium has risen based on the $250,000 of cover to $175.39 a fortnight. OK.
+[45 minutes 22 seconds][Customer] : OK, Yep, sorry.
+[45 minutes 38 seconds][Agent] : Was it sorry, One 75175?
+[45 minutes 41 seconds][Customer] : One 75176. Yep.
+[45 minutes 45 seconds][Agent] : Yeah, 17539 it is. Yeah. OK. OK. No worries.
+[45 minutes 49 seconds][Customer] : OK, no worries.
+[45 minutes 51 seconds][Agent] : Now please be aware that your premium is stepped, which means it would generally increase each year. And in addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. You can opt out of this indexation each year, though it's something we'll offer you on an annual basis. So you've got that control flexibility. All right, So what we'll do is I'll.
+[46 minutes 7 seconds][Customer] : Oh yeah, OK, yeah, OK, OK damn it especially. But he's still alive too. With bloody heart murmur. He's older than me. He's struck him along just fine. I've got your bloody heart murmur.
+[46 minutes 22 seconds][Agent] : Yeah, yeah, yeah, yeah. Well, her and Dad, if it was only one, it would have been like it wouldn't have been.
+[46 minutes 26 seconds][Customer] : *** **** it, anyhow, yeah, yeah, I know, I know I will be like bloody hell, but you know, yeah, no. So yeah, I just went. But always that she's lived with it all her life and she's still trucking along just fine.
+[46 minutes 32 seconds][Agent] : Yeah, yeah, yeah.
+[46 minutes 41 seconds][Customer] : It's never caused or anything but yeah, anyhow, it is there.
+[46 minutes 44 seconds][Agent] : That's so good. Yeah, yeah, yeah.
+[46 minutes 45 seconds][Customer] : I just know it's there, you know, I and you know, and at the end of the day, I know it's there and I'm just like, well, I knew she had it, but I know it's 'cause any I couldn't probably just said no, but I didn't, so that's fine.
+[46 minutes 56 seconds][Agent] : Uh, look, it's best to be honest. Yeah, yeah. And, and Dad had his heart condition before the age of 60, wasn't it?
+[46 minutes 56 seconds][Customer] : To the yeah, yeah, no.
+[47 minutes 6 seconds][Agent] : Oh, oh, I'm sorry about that. Yeah.
+[47 minutes 4 seconds][Customer] : Dad died of the heart attack, so yeah, yeah, no, no, that that's OK. Yeah, no, yeah.
+[47 minutes 17 seconds][Agent] : Oh, yeah. He's a night shift worker.
+[47 minutes 12 seconds][Customer] : So, but he was just, I, he was work night shift, hard work stress, but he was a night shift worker and just work back in those days.
+[47 minutes 22 seconds][Agent] : And mm. Hmm.
+[47 minutes 21 seconds][Customer] : They worked really hard, used to watch him come home broken, you know, back before him, back before they said that's not too much, you know?
+[47 minutes 24 seconds][Agent] : Yeah, yeah, yeah, yeah. And, and. Yeah. And they didn't say that early enough, obviously. Yeah. Mm. Hmm.
+[47 minutes 28 seconds][Customer] : So yeah, yeah, yeah. Back in those days, they used to just work themselves into the ground and nobody really took any notice.
+[47 minutes 38 seconds][Agent] : Yes, I understand exactly what you're saying. I watched my dad do the same thing. He's he's still with me.
+[47 minutes 38 seconds][Customer] : So yeah, yeah, yeah.
+[47 minutes 44 seconds][Agent] : But yeah, he finally listened when I kept saying, Dad, you can't do this to yourself, so carry on.
+[47 minutes 50 seconds][Customer] : Carry on. Yeah. You're just flogging yourself into the ground.
+[47 minutes 51 seconds][Agent] : Yeah, yeah, yeah. Why?
+[47 minutes 52 seconds][Customer] : Yeah, yeah. It's really that. But how long will it take?
+[47 minutes 54 seconds][Agent] : Why, you know, yeah, if we need to go without brand issues, yeah, umm, yeah.
+[48 minutes][Customer] : Yeah, exactly. Yeah, Well, that's the same thing. How long will this take to process, do you know?
+[48 minutes 1 seconds][Agent] : Umm, how long will this take to post it, You know, uh, so it should be fairly quick. They normally get back to us, umm, within the same, uh, within the 24 hour period. Umm.
+[48 minutes 12 seconds][Customer] : OK, cool.
+[48 minutes 12 seconds][Agent] : So look, what I'll do is I'll collect your payment details, read your declaration to get this assessed by the underwriter. Are you happy to proceed? Yep, now.
+[48 minutes 20 seconds][Customer] : Yeah, yeah, yeah. No, I'm happy to proceed because at the end of the day, I think I'm just sorry, I'm just doing my math.
+[48 minutes 30 seconds][Agent] : You're right.
+[48 minutes 30 seconds][Customer] : So let's put Fortnite.
+[48 minutes 32 seconds][Agent] : That is per Fortnite, yes.
+[48 minutes 31 seconds][Customer] : Hey, so 90 per week, 90 per week. I've still got the other policy in place that I'm paying fortnitely on. I didn't know whether to wrap that one up as well, but I got the other one for 60,000.
+[48 minutes 34 seconds][Agent] : I've still got the other policy that I'm paying Fortnite and I didn't know whether to wrap that one up as well, but the other one says 60,000.
+[48 minutes 48 seconds][Customer] : I'm paying $40 a fortnight on.
+[48 minutes 48 seconds][Agent] : I'm paying $40 a Fortnite on.
+[48 minutes 51 seconds][Customer] : I'm just wondering if I just did this for 3300 thousand. I'm sorry.
+[48 minutes 51 seconds][Agent] : I'm just wondering if I'd that's all right.
+[48 minutes 57 seconds][Customer] : I'm just thinking because I still got a secondary one for 61,000. I'm paying 40. Yeah. What is it, $40? No, no, no, that I'll just leave that 16 because that's $80.00 a month. That's not.
+[49 minutes 3 seconds][Agent] : Yes, well, let me have a look at what the pricing would be for the 300,000 for you.
+[49 minutes 17 seconds][Customer] : Yeah, yeah.
+[49 minutes 17 seconds][Agent] : I just say, you know, you're with all the info there, so just give me one second there, OK? It's just gonna make me skip through these questions without answering them, uh, asking. I just need to go in through and, uh, quickly skip through the model. Umm, bear with me. Alright, so while I'm doing that, umm, while your application is being assessed to be covered for accidental death, which pays out if death was due to a direct result of an accident and cover under this last and for the insurer makes a decision on your application or 30 days from today, whichever is earlier. All right, now if we were looking at the $300,000 of cover, it is a fortnightly premium of $207.00 a fortnight.
+[49 minutes 49 seconds][Customer] : Yeah, yeah, 1105 a week.
+[50 minutes 15 seconds][Agent] : Uh, yeah, that, uh, it would be under that, yeah, approximately.
+[50 minutes 25 seconds][Customer] : OK. Do I have to make a decision on which one or can you approve me on one and I can up it to the other?
+[50 minutes 25 seconds][Agent] : Uh, do I have to make a decision on which one or can you include me on one and I can add it to the other? Well, you're not locked into any contracts with us.
+[50 minutes 30 seconds][Customer] : Just I'm just or do I have to decide?
+[50 minutes 35 seconds][Agent] : You don't need to side right now. So you're not looked into any contracts with us. So you can choose one or the other right now and if in the future you in the future you decide. Look, you know, I would like to either have them together or not have them together. Umm, you know, you can apply to an increase decrease subject to eligibility. Yeah. OK.
+[50 minutes 36 seconds][Customer] : Yeah, yeah, yeah, OK, alright, 'cause I'm, I'm, I'm just trying to do my calculations.
+[50 minutes 54 seconds][Agent] : I was just to find and do my calculation. Yeah. Calculate how much we've been paying my husband and myself to get on that other one. Mm hmm. And what that's the biggest chunk And then, yeah.
+[50 minutes 58 seconds][Customer] : I might, once I get off this call, calculate how much we've been paying my husband and myself to get on another one and what was the biggest chunk and then plus my separate one and work out whether it's better just to go for that 300,000 and just go get rid of both of the chub, the signal ones for me.
+[51 minutes 15 seconds][Agent] : So with the with the 300,000, it's $103.05 a week.
+[51 minutes 16 seconds][Customer] : Yeah, Yeah.
+[51 minutes 27 seconds][Agent] : Yep, Yep. Get into one payment.
+[51 minutes 23 seconds][Customer] : OK, I'll probably go with that one and just get rid of it and just cancel the others because at the end of the day, it's yeah, yeah, yeah, yeah. I'm just, it's just all over the place. It's very higgly higgly, you know what I mean?
+[51 minutes 40 seconds][Agent] : Yeah, yeah, yeah, yeah.
+[51 minutes 44 seconds][Customer] : And I'm just like, so I just, I ain't trying to track it all, but I've rather wrapped up my hair coming out in one lot Cos if I do that other lot 90 and then the 20 or with the other one, I would be about 110.
+[52 minutes 1 seconds][Agent] : Hmm. Mm.
+[51 minutes 58 seconds][Customer] : I'm only paying myself $5 a week, so I don't know. I don't know how much half do I need? How about that was. Yeah, OK. And then when you went on the fridge, I can drop it back.
+[52 minutes 5 seconds][Agent] : Well, if you like, we can set up for the 300 and then if you did want it, yeah, if you decide you wanna go with the 2:50 instead. Yeah, just a matter of giving us a call to apply to have that re reduced. Yeah.
+[52 minutes 12 seconds][Customer] : Yeah, yeah, yeah, yeah. OK.
+[52 minutes 20 seconds][Agent] : All right, no problems. All right, so the commencement of your cover will be subject to the final assessment by the insurer if the insurer of the, uh, approves coverage. No, without any changes.
+[52 minutes 28 seconds][Customer] : Yeah, yeah.
+[52 minutes 32 seconds][Agent] : Are you happy for me to record your acceptance of this policy now? And we will send you out all your policy information to your e-mail and postal address.
+[52 minutes 42 seconds][Customer] : Yes. So this is a life cover.
+[52 minutes 44 seconds][Agent] : Yes.
+[52 minutes 45 seconds][Customer] : I just, sorry, I'm just drawing it down there. This is a life cover. And like you said, if anything does happen to me, my family can access it for funeral. I think I'm more covered with funeral only. I've got that many super funds. And then the other side of it is it's say I do get something, cross my fingers in my toes, doesn't happen. I've been tracking really well. So something like 10 years down the track and it's like a cancer or something. We don't have cancer in the family, but if I think it's something 10 years down the track, it pays out. Is that my understanding?
+[53 minutes 18 seconds][Agent] : Yeah, if I think there's something ten years down on track, umm, it pays out. So so the generally I'll advance payment so that if you diagnose you 12 months or less, you leave by a medical practitioner, I will pay the full amount out to you while you're still in. Yep. OK, no worries.
+[53 minutes 36 seconds][Customer] : OK, Alright, OK, alright, no worries. Yes. Alright then that is a yes from me.
+[53 minutes 42 seconds][Agent] : Yep. OK, beautiful. Alright, So what I'll do is I'll get your preferred method of payment and what day you prefer your payments to come out and we'll get that sent off to the underwriters. So as far as when the payment comes out, we won't take anything out until such time as the underwriters have approved it. And as I said, if there's any changes to what we discussed today, I will be speaking with you.
+[54 minutes 2 seconds][Customer] : Yeah, Yep.
+[54 minutes 7 seconds][Agent] : Uh, but, umm, when would you prefer your payments to come out on a fortnightly basis?
+[54 minutes 16 seconds][Customer] : I don't think it really matters. I get paid monthly for them on a salary.
+[54 minutes 11 seconds][Agent] : Umm, I don't think it really matters if I get paid monthly. OK. Do you want a monthly, uh, payment? You can do fortnightly, monthly or annually. It works out.
+[54 minutes 20 seconds][Customer] : So I'm just trying to think it doesn't increase if it's monthly, does it doesn't change monthly?
+[54 minutes 29 seconds][Agent] : It works out the same on an annual basis. It sounds more when we're looking at monthly because we provide it so it's an even payment. So it's not up and down each month. Umm, so I just do a fortnightly then I just, it doesn't matter.
+[54 minutes 29 seconds][Customer] : Does it look just do AI just do a fortnightly then I it doesn't matter.
+[54 minutes 42 seconds][Agent] : I just leave money in my account all the time. Yeah.
+[54 minutes 43 seconds][Customer] : I just leave money in my account all the time anyhow. I've got a floating account that just whatever comes out comes out and I spend what I spend.
+[54 minutes 45 seconds][Agent] : Umm, I, I placed an account, whatever comes out comes out. OK, OK.
+[54 minutes 51 seconds][Customer] : So yeah, I'll just go with that one.
+[54 minutes 52 seconds][Agent] : Umm, yeah, I'll just tell it that one. Yeah, alright. No problem. Is there a preferred day for it to come out for you? Oh, OK.
+[55 minutes 10 seconds][Customer] : Question asking someone because the other one came was coming out of my husband's account but now I'm doing this independently because every both of us has wrapped up coming out of his account but he doesn't keep an eye on anything as we've just found out.
+[55 minutes 17 seconds][Agent] : Yep, Yep. All right. Would you like me to set up for say, Wednesday next week? Umm. And then that way we can make sure that that will you know, it's set up for when after the underwriters are gonna hopefully help. We'll we'll should have come back with a good decision. Yeah.
+[55 minutes 24 seconds][Customer] : So look it I don't think it really matters to me as long as I'm if it comes out monthly, sorry if it comes out monthly, how much is it a month?
+[55 minutes 45 seconds][Agent] : OK, yeah, let me switch it over the monthly and then we can look at that. OK, so monthly it is just waiting for the pop up.
+[56 minutes 1 seconds][Customer] : Just a monthly.
+[55 minutes 56 seconds][Agent] : Uh, it's $448.50 a month monthly.
+[56 minutes 2 seconds][Customer] : I get paid on of every month yeah, it just makes it easier.
+[56 minutes 2 seconds][Agent] : OK, Yep, Yep, no problems at all. And what day of the month is it? Uh, 16th? The 15th.
+[56 minutes 6 seconds][Customer] : I know it only goes in 15th so.
+[56 minutes 14 seconds][Agent] : OK, So what we'll do is I can make that for the, uh, do you want it on the 16th just in case it's like going in?
+[56 minutes 22 seconds][Customer] : Sixteenths.
+[56 minutes 23 seconds][Agent] : Yep. All right, so we'll set it for Monday the 16th of October and then each month on the 16th after that for you. OK, all right now, uh, do you want it coming out of an account or card they carry in?
+[56 minutes 23 seconds][Customer] : Yeah, yeah, yeah, yeah, yes, because it was a card last time and I think that's what went wrong.
+[56 minutes 44 seconds][Agent] : Uh huh.
+[56 minutes 41 seconds][Customer] : My husband's got a new card sent out and that's why it all started to fall over with the other one.
+[56 minutes 44 seconds][Agent] : OK, all right, let's use an account.
+[56 minutes 47 seconds][Customer] : So yeah, I've got the account in here.
+[56 minutes 49 seconds][Agent] : Yep. So I'll get the account number into a, a verbal authority with you out of the phone and send it out a confirmation for your records. Umm, So what's the account number? Uh, 06 mm hmm. 0549 Yep. 0630 Yep. 595 Yep. Dash 00. Beautiful. And that's in the name of Carrie Anne Hawthorne.
+[56 minutes 51 seconds][Customer] : It's Yep 06 0549 0630 595 dash 00, yes.
+[57 minutes 22 seconds][Agent] : Yep. So I'll confirm you have authority to operate this bank account loan and do not need to jointly authorize debits. Is that correct?
+[57 minutes 31 seconds][Customer] : Sorry.
+[57 minutes 32 seconds][Agent] : You have authority.
+[57 minutes 35 seconds][Customer] : Oh, yes. Yes. Yes.
+[57 minutes 33 seconds][Agent] : Authority to operate this bank account loan.
+[57 minutes 36 seconds][Customer] : Yes. Yes. Yes.
+[57 minutes 36 seconds][Agent] : And yeah, you don't need to jointly authorize debits. Beautiful.
+[57 minutes 39 seconds][Customer] : No.
+[57 minutes 39 seconds][Agent] : And you are happy to set up a direct debit authority without signing a form?
+[57 minutes 45 seconds][Customer] : Yes.
+[57 minutes 46 seconds][Agent] : And the next question makes reference to Pinnacle Life. Now they're actually our insurer.
+[57 minutes 54 seconds][Customer] : Yeah, I know.
+[57 minutes 50 seconds][Agent] : They're also a New Zealand company, been around well over 20 years selling life insurance direct to the public.
+[57 minutes 55 seconds][Customer] : Cynical. Yeah.
+[57 minutes 56 seconds][Agent] : Yeah, you do. Excellent. So you know we've got a strong company behind us as well.
+[57 minutes 56 seconds][Customer] : Yeah, yeah.
+[58 minutes][Agent] : So thi this question asks, have you canceled a direct give authority for one choice with Pinnacle Life is initiated in the last nine months on the account you're providing. So I'm gonna read a short declaration and that'll acceptance will actually implies your signature. It says you agree. This authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions related to this authority. You authorize your bank to allow Pinnacle life and is initiated for one choice to direct debit this account in accordance with these terms and conditions, yes or no? Excellent.
+[58 minutes 11 seconds][Customer] : No, Yep, yes, Yep, that's correct.
+[58 minutes 42 seconds][Agent] : All right, now I've got your e-mail asteza_amey@live.com dot AU excellent. Now. The final step to send that off is to read through your declaration once. You accept that'll, be on off to them I'll. Let you know what the outcome is if. It is approved, no changes. I'll Accept that on behalf and put that through with the first payment scheduled for the 16th of October. Now at the back of your documents is a beneficiary nomination form for you to complete and return to us. So we know who you want that paid out to.
+[59 minutes 11 seconds][Customer] : Yep, no.
+[59 minutes 20 seconds][Agent] : So that reads, thank you. Kerri Anne Hawthorne, it is important you understand the following information. I'll ask the agreement to these terms at the end and your policy would not be enforced unless you agree to these terms in full. One Choice life insurance is issued by Pinnacle Life Insurance Limited, whom are referred to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and ZED Limited, whom are referred to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals, or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice to provide. Can you please confirm you understand and agree to these yes or no? Your answer to the application questions and any related documents from the basis of your contract and insurance and Pinnacle relies upon the information you've provided when assessing your application. I need to remind you of the Judy of disclosure that you agreed to. Can you please confirm you've answered all of our questions in accordance with your Judy of Disclosure, Yes or no?
+[1 hours 40 seconds][Customer] : Yes, yes.
+[1 hours 1 minutes 4 seconds][Agent] : We may from time to time provide offers to you by the communication methods you provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can update this now by informing me or at any time by contacting us or by using any unsubscribed facility on communications we send you. You've agreed to take out a single one choice life insurance policy with the following cover. Kerri Anne Hawthorne received $300,000 in the event of life insurance to Kerri Anne Hawthorne. Life insurance with 50% loading was applied during the application process. Our benefit is not paid in the event of suicide. In the 1st 13 months of the policy, your total premium for the first year's cover is $448.50 per month. Your premium is a stepped premium, which means that we calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 77% of each premium to cover distribution costs for this policy. Your premium will be deducted in accordance with the authority provided to us. AM Best is rated Pinnacle with AB plus financial strength good and a triple B minus issue. A credit rating within Outlook is stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via mail and if you provided us with an e-mail address, this documentation will also be emailed to you today. We will also be sending you a case fact sheet which outlines key aspects of your covering plain language. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged a claim. Finally, if you have any questions about your policy or you should lodge a complaint, please contact GFS on 0800 double 05804 or e-mail support@onechoice.co dot NZ. Now just two final questions and that'll all be in place. Firstly, do you understand and agree the declaration of detract you, yes or no? Yes. And would you like any other information about insurance now or would you like me to read any part of the policy document to you? Yes or no? No. Excellent. Yeah, I do have one question.
+[1 hours 3 minutes 29 seconds][Customer] : Yes, No, but I, I do have one question might be able to help me with if I ring Chubb and I say you've got, you guys have approved me and I ring Chubb to cancel. That's it. Hey, you don't get anything back for all the money like we we're paying over 10,000 a year, we're paying only 12 or $13,000 a year.
+[1 hours 3 minutes 45 seconds][Agent] : Yes, if I ring you don't give anything back all the money like we we're paying over 10,000, you'll be paying only 12 or $13,000 a year. You don't give anything back.
+[1 hours 4 minutes 1 seconds][Customer] : You don't get anything back, do you?
+[1 hours 4 minutes 2 seconds][Agent] : So you just that's it.
+[1 hours 4 minutes 2 seconds][Customer] : Just that's it. You just cut off and say you're not paying anymore.
+[1 hours 4 minutes 5 seconds][Agent] : I can't speak to Chubb.
+[1 hours 4 minutes 15 seconds][Customer] : Yeah, understandable. Yeah.
+[1 hours 4 minutes 7 seconds][Agent] : I know that if it's outside of the 30 day waiting period that we have here that umm then you wouldn't receive anything back Umm so yeah yeah so there's a 3830 day cooling off. Umm with us umm yeah how they work. I couldn't actually say sorry. Yeah.
+[1 hours 4 minutes 24 seconds][Customer] : Yeah, no, that's OK.
+[1 hours 4 minutes 24 seconds][Agent] : So at the moment I probably even.
+[1 hours 4 minutes 26 seconds][Customer] : I so at the moment I probably even because childhood said to me we're still both insured and I just thought said to my husband, it's just ridiculous. I I, I I'm really annoyed, really annoyed.
+[1 hours 4 minutes 37 seconds][Agent] : Yeah, yeah.
+[1 hours 4 minutes 38 seconds][Customer] : I said it's not the fact I can pull the 2 1/2 grand and back pay them, but I said it's not about that.
+[1 hours 4 minutes 43 seconds][Agent] : It's the principle.
+[1 hours 4 minutes 44 seconds][Customer] : It's more behind. It's all behind them. Like own it, contact us. People are busy. You guys should be watching these policies. Like what the hell? If something had happened, I'd only just got back from Aussie not long ago, you know, like anything can happen.
+[1 hours 4 minutes 48 seconds][Agent] : Yeah, yeah, yeah, yeah, yeah, yeah.
+[1 hours 4 minutes 58 seconds][Customer] : And I said, and here we are thinking we're fully covered and you guys didn't alert us to the fact that the payments weren't coming out except via one text message, you know?
+[1 hours 5 minutes 8 seconds][Agent] : Oh really? Yeah.
+[1 hours 5 minutes 8 seconds][Customer] : So, yeah. So it's just I I'm just trying to work that out. But if I do cancel and I owed and we had that premium, then I'd still have to back pay them anyhow.
+[1 hours 5 minutes 10 seconds][Agent] : But if I do cancel and I hope and we have that premium, then I still have to back pay the mini out. I don't know.
+[1 hours 5 minutes 18 seconds][Customer] : I'm not too sure how that works. Yeah. You don't know. Yeah. It's OK.
+[1 hours 5 minutes 21 seconds][Agent] : I don't, I don't know how they work.
+[1 hours 5 minutes 23 seconds][Customer] : I'm asking the wrong person. Yeah. And and it.
+[1 hours 5 minutes 24 seconds][Agent] : So if if you were canceling our policy, umm, then I don't believe we make you back pay. Umm, with us here.
+[1 hours 5 minutes 31 seconds][Customer] : Yeah, well, I did have a good conversation with her. I said it's just ridiculous. And she agreed.
+[1 hours 5 minutes 36 seconds][Agent] : Yeah.
+[1 hours 5 minutes 36 seconds][Customer] : She said oh look, the systems, you know, they had this glitch and it doesn't thing. And I figured, oh good, that you're aware of the glitch in the system, but the system isn't alerting you to Alert me, you know. And I said, and it's left me in a predicament.
+[1 hours 5 minutes 42 seconds][Agent] : Yeah, yeah, yeah. No.
+[1 hours 5 minutes 49 seconds][Customer] : So alright, no, that's a good look. I'm happy, happy with what I've got today.
+[1 hours 5 minutes 51 seconds][Agent] : Well, yeah. So look, I've just sent that off to the underwriters now.
+[1 hours 5 minutes 54 seconds][Customer] : So yeah, Yep.
+[1 hours 5 minutes 57 seconds][Agent] : I should be here back shortly. Umm, And if it's approved with no changes, what I'll do is I'll send the policy documents out by I'll accept it and send the policy documents out by e-mail to you.
+[1 hours 6 minutes 8 seconds][Customer] : Yeah, yeah.
+[1 hours 6 minutes 8 seconds][Agent] : Today generally takes about 5 to 10 working days to come through the post. So umm, but you'll receive the e-mail just, uh, as soon as it's approved. It's, umm, yes.
+[1 hours 6 minutes 19 seconds][Customer] : OK, awesome.
+[1 hours 6 minutes 19 seconds][Agent] : So it only takes about 15 minutes to go through, uh, once it's accepted. So yeah, umm, but then just at the back of the documents, complete the beneficiary nomination form and send it back.
+[1 hours 6 minutes 25 seconds][Customer] : Alright, OK. Yep.
+[1 hours 6 minutes 30 seconds][Agent] : Umm, And as far as your husband, do you want to have a look at some pricing for him as well? Umm, I was thinking about it.
+[1 hours 6 minutes 40 seconds][Customer] : I was thinking about it but I'm just like probably.
+[1 hours 6 minutes 50 seconds][Agent] : Yeah, yeah. Oh yeah. Yeah. Yeah.
+[1 hours 6 minutes 45 seconds][Customer] : Trouble is, I do all the talking for him and that's a difficult one because I have to sit there beside him and talk with his education level's not at my level, you know, like he's a hard worker, don't get me wrong, but he's a ma, he's a just a truck driver, a manual labourer and he relies, I'll need to do all the business side of things. So it just makes it more difficult and he he just gets frustrated. He's like, oh, wow.
+[1 hours 7 minutes 1 seconds][Agent] : Yeah, yeah, yeah.
+[1 hours 7 minutes 9 seconds][Customer] : So I'll just see. I'll talk to him when he gets home from work.
+[1 hours 7 minutes 12 seconds][Agent] : Yeah.
+[1 hours 7 minutes 12 seconds][Customer] : I mean, I've looked after myself because it's ourself.
+[1 hours 7 minutes 14 seconds][Agent] : Yeah. Yeah.
+[1 hours 7 minutes 14 seconds][Customer] : I'll talk to him when he gets home from work and feels like if he wants me to sort of support him getting through the process of making the change or whether he just wants to just go status quo, you know, and just leave it at that.
+[1 hours 7 minutes 25 seconds][Agent] : Yep. Yep. No, I understand completely. Yeah, yeah. And I look, you know, as I said to you, we make every effort to contact you and it's not just a one off thing.
+[1 hours 7 minutes 25 seconds][Customer] : Yeah, yeah, yeah.
+[1 hours 7 minutes 33 seconds][Agent] : So I've seen them where they've where we've had to contact people up to, you know, 20 times kind of thing, whether it's text, e-mail, letter, you know, phone calls. We yeah. If there's, if there's a problem with payment, we'll we follow up with you because we want to make sure that, you know, everything's OK. You haven't just stopped paying it because you don't want it anymore kind of thing.
+[1 hours 7 minutes 49 seconds][Customer] : Yeah, yeah.
+[1 hours 7 minutes 53 seconds][Agent] : Umm, you know, so, yeah, it was. I know that I'd feel the same way if it was me. If I've missed a book. Yeah. The. So I'm actually probably going to be the one person that's going to come out of this one financially better. Hmm. Hmm. I mean, it's it's just so true. Yeah. He he's repaid. He's class is a low risk. So this is payment first overall. Hmm.
+[1 hours 8 minutes 1 seconds][Customer] : And at the end of the day, I'm actually probably going to be the one person that's going to come out of this one financially better because, I mean, if, if this goes through at this, he, he's repay, he's classed as a low risk.
+[1 hours 8 minutes 10 seconds][Agent] : Because of the brain injury.
+[1 hours 8 minutes 15 seconds][Customer] : So his repayments are ****** all.
+[1 hours 8 minutes 17 seconds][Agent] : Yeah. Threw me to the wall. Hmm.
+[1 hours 8 minutes 17 seconds][Customer] : But because of the brain injury, they just threw me to the wolves, you know what I mean?
+[1 hours 8 minutes 19 seconds][Agent] : And I thought there's more people out there.
+[1 hours 8 minutes 21 seconds][Customer] : And I thought, God, there's more people out there more at risk than me. Like I've, that was seven years ago. I'm fully recovered, very articulated, earning bloody good money and doing all the right things, you know, socially.
+[1 hours 8 minutes 27 seconds][Agent] : Yeah, Yeah, yeah, yeah, yeah. And it literally was an accident. Yeah.
+[1 hours 8 minutes 35 seconds][Customer] : Have a few glasses of wine on a Saturday, don't drink Monday, just Saturday, you know, and yet yet I'm being penalised, you know, for one accident, you know, So yeah, anyhow, and this is actually, it was an accident. And so this is just, yeah, I'm just like, really frustrated with the process behind it.
+[1 hours 8 minutes 54 seconds][Agent] : MMM. Any who.
+[1 hours 8 minutes 54 seconds][Customer] : So anyhoo, I just thought, oh, I'll give you guys a shot.
+[1 hours 8 minutes 56 seconds][Agent] : Yeah, I'll give you the slot.
+[1 hours 8 minutes 58 seconds][Customer] : And it's actually looking financially better off for me.
+[1 hours 9 minutes][Agent] : And it's actually looking financially better off for me. Yeah.
+[1 hours 9 minutes][Customer] : So yeah, I'm gonna go with it.
+[1 hours 9 minutes 2 seconds][Agent] : Yeah. Well, look, as as soon as I hear back from them, I will. If there's no changes, I'll put it through and send it all through for you.
+[1 hours 9 minutes 10 seconds][Customer] : Yep.
+[1 hours 9 minutes 9 seconds][Agent] : If there is anything different to what we've discussed today, I'll. I'll give you a call and let you know if there is whatever the change may have been, All right.
+[1 hours 9 minutes 17 seconds][Customer] : Alright, no worries. Thank you. Cheers.
+[1 hours 9 minutes 17 seconds][Agent] : But otherwise it's all ready to go as soon as they come back. All right. Thanks so much. All right.
+[1 hours 9 minutes 22 seconds][Customer] : OK, Thanks. Bye.
+[1 hours 9 minutes 22 seconds][Agent] : Thanks, Gary and bye.
+[1 hours 9 minutes 24 seconds][Customer] : Bye. Bye.

@@ -1,0 +1,45 @@
+[2 seconds][Agent] : Good evening. Welcome to Bill Insurance. My name is Penny. How may I help you today?
+[6 seconds][Customer] : Hello. Yes, how are you going?
+[8 seconds][Agent] : Good. Thank you. Thank you very much for asking. How can we help you?
+[12 seconds][Customer] : I'm just inquiring. I know it's probably not possible, but like my my brother's just been diagnosed with tumour and like we've got disability in that now. We've never had a insurance plan for it, my funeral plan, so they haven't gave him the time limit. So like, you know, could be this month's could be on my own.
+[39 seconds][Agent] : Yeah.
+[41 seconds][Customer] : Am I able to put a single claim together for you? Cos I was able to deal with this. One of the other insurance I've done it from me dad, like I've got a a single claim in place. Can I deal with your, your information?
+[1 minutes 1 seconds][Agent] : Yeah, yeah, yeah. Well, I've set a policy up for my dad, a funeral policy. So how old's your brother?
+[1 minutes 8 seconds][Customer] : Yeah, he's what I'm 50. He's 63.
+[1 minutes 13 seconds][Agent] : OK. There is a 12 month waiting period though. OK. So you wouldn't be able to make a claim in that first 12 months though.
+[1 minutes 17 seconds][Customer] : Yeah, alright.
+[1 minutes 24 seconds][Agent] : OK.
+[1 minutes 24 seconds][Customer] : Yeah, yeah, Cos other than that, and I think it's for me Dad, it's around 8000. That's just for, you know, information. So that's all I'd be looking at stepping up just for like a promotion 1. So I know that's that's around 8000.
+[1 minutes 25 seconds][Agent] : So you haven't been Yeah, yeah, sure. All right. What I will do for you is I will transfer you to the sales team and now be able to talk through the product that we have that's available to purchase.
+[1 minutes 47 seconds][Customer] : Yep, Yep.
+[1 minutes 52 seconds][Agent] : You can be the purchase of payee and buy a policy for your for your brother. That's perfectly.
+[1 minutes 57 seconds][Customer] : Well, that's what I did with me dad because me dad didn't want to deal with him.
+[2 minutes][Agent] : Yeah, yeah, yeah. That's OK.
+[2 minutes 1 seconds][Customer] : I didn't know what that one for him, Yeah.
+[2 minutes 5 seconds][Agent] : And I just, yeah, I just wanted to give you that heads up though, that there is a 12 month waiting period to get you to any calls. So in the 1st 12 months, it's for accidental death only.
+[2 minutes 17 seconds][Customer] : Yeah, yeah, That was the same as I had with the other. I knew.
+[2 minutes 19 seconds][Agent] : Yeah, yeah, yeah. All right.
+[2 minutes 20 seconds][Customer] : Yep, Yep.
+[2 minutes 22 seconds][Agent] : Well, what we'll do, Christopher, I'm speaking to is it OK, Christopher, just stay on the line with me and I'll transfer you to the sales team now. OK, Thank you.
+[2 minutes 31 seconds][Customer] : OK, thanks.
+[2 minutes 31 seconds][Agent] : Thank you. Hi.
+[4 minutes 6 seconds][Customer] : Hey, Penny, what you got for me?
+[4 minutes 7 seconds][Agent] : Hey Alfred, I'm getting something back OK, I have Christopher on the call, I'll help out of the lead.
+[4 minutes 14 seconds][Customer] : OK, Thank you.
+[4 minutes 15 seconds][Agent] : OK.
+[4 minutes 16 seconds][Customer] : I'm jumping.
+[4 minutes 17 seconds][Agent] : Umm, Yep, he wants to start a policy for his umm, brother. Oh, for his brother. Mm Hmm.
+[4 minutes 25 seconds][Customer] : Oh, for his brother. OK.
+[4 minutes 27 seconds][Agent] : OK, so you probably.
+[4 minutes 28 seconds][Customer] : What type of policy? We're talking funeral, of course. All right, then. I need to get out of this one.
+[4 minutes 35 seconds][Agent] : Yeah, I know. Yeah, that's what I'm trying to. I'm trying to say an answer.
+[4 minutes 38 seconds][Customer] : Sorry.
+[4 minutes 38 seconds][Agent] : Yeah, I just thought you'd need that to his name. OK.
+[4 minutes 42 seconds][Customer] : Christopher. Yeah, sure. All right, pop him through and I'll take him through the funeral cover for his brother. Perfect.
+[4 minutes 44 seconds][Agent] : OK, so popping through and I'll take you through the wonderful. Thanks. Here we go.
+[4 minutes 52 seconds][Customer] : Thank you.
+[4 minutes 54 seconds][Agent] : Thanks for holding there, Christopher. I have my colleague Alfred from the sales team on the call now.
+[4 minutes 59 seconds][Customer] : Yep.
+[4 minutes 58 seconds][Agent] : He's going to take over and assist you from here. All the very best. OK, Thank you.
+[5 minutes 2 seconds][Customer] : Thank you.
+[5 minutes 3 seconds][Agent] : Bye.

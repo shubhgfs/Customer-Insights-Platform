@@ -1,0 +1,72 @@
+[0 seconds][Agent] : Thank you again there.
+[1 seconds][Customer] : What can we do?
+[1 seconds][Agent] : Pay for your patience.
+[2 seconds][Customer] : Hello.
+[2 seconds][Agent] : I actually have Michael, who you were speaking with previously back on the line to help update your details there. And just to confirm, as mentioned earlier, a full ID has been completed full pair. Thank you. Hello again, Pia, it's Michael from the support department of Real Insurance. How are you?
+[18 seconds][Customer] : Hello. How are you?
+[19 seconds][Agent] : Good. All right. So I'm not going to make you repeat all the security questions then because we've already done them with you today. Now I assume we need to discuss having the name on the policy updated.
+[26 seconds][Customer] : Yeah, yeah. I need to cancel 1.
+[35 seconds][Agent] : OK, so you're going to have, so I was told you won't have the accidental death and serious injury policy canceled.
+[41 seconds][Customer] : Pardon.
+[42 seconds][Agent] : So I was told it was the accidental death and serious injury policy canceled, right? So what I'm doing is I have to put a request for one of our cancellation team to give you a call directly for the cancellation.
+[44 seconds][Customer] : Yes, Yes, yes, please.
+[53 seconds][Agent] : So setting up a policy, cancelling your policy is also done to a specialist department.
+[59 seconds][Customer] : Yeah.
+[58 seconds][Agent] : So I'll get one of them to give you a call directly.
+[59 seconds][Customer] : Yeah, OK. Yeah.
+[1 minutes 2 seconds][Agent] : Worst case scenario, maybe one to two business days. But from what I can see here, you didn't have any payments until the 17th of December anyway. So you'll be getting a call before that payment gets requested.
+[1 minutes 12 seconds][Customer] : Yeah, Yes, we do.
+[1 minutes 12 seconds][Agent] : But I was told that we also need to update the name on the funeral insurance policy, right? And, umm, just refresh my memory. It was, uh, a change due to marriage, OK. Now to have a name on a policy updated, it is actually something that would need to be done in writing. I'm happy to have, uh, this information sent out to you. Uh, but I'll go over with you over the phone as well. OK.
+[1 minutes 24 seconds][Customer] : Yes, Yeah, no worries.
+[1 minutes 41 seconds][Agent] : Now, basically it's not a special form that you need to fill out and send back. What you would send is, uh, a certified copy of either a MA marriage certificate or a photograph of a current driver's license for a proof of each card that shows the married name on there.
+[1 minutes 59 seconds][Customer] : Yeah, no problem.
+[1 minutes 58 seconds][Agent] : As long as we can see all the edges of the card, that'll be fine.
+[2 minutes 1 seconds][Customer] : Right?
+[2 minutes 4 seconds][Agent] : Yeah, just a certified copy, not the original.
+[2 minutes 1 seconds][Customer] : It's just, yeah, I'll just send you that, OK?
+[2 minutes 9 seconds][Agent] : Yep. Now attached to this second thing is just a cover letter. What the cover letter does is it tells us whose policy the change is for and what the change is. OK, so you'd put down your policy details, so I'll give you the funeral insurance policy number.
+[2 minutes 8 seconds][Customer] : Yeah, Yeah, yeah. Oh, sorry, I didn't do that again.
+[2 minutes 26 seconds][Agent] : So 6700, 250 and that's the case.
+[2 minutes 34 seconds][Customer] : I just got a good pitch right there. Hang on.
+[2 minutes 37 seconds][Agent] : Uh, let me know when you're ready. So this is the funeral insurance policy number.
+[2 minutes 45 seconds][Customer] : So it's just been, you know, yeah.
+[2 minutes 55 seconds][Agent] : Yep. So it's 6/7 Yep. And 00, Yep. And 250 6/7. Alright, So it should be 670025067.
+[2 minutes 58 seconds][Customer] : Oh, so 00, 250 6/7 So, So what is it?
+[3 minutes 19 seconds][Agent] : OK, I'll.
+[3 minutes 19 seconds][Customer] : I've got 0025067.
+[3 minutes 23 seconds][Agent] : Yeah, but it also starts with 6/7.
+[3 minutes 24 seconds][Customer] : So what was the the star 6-7?
+[3 minutes 28 seconds][Agent] : Yeah. So it should be spot on.
+[3 minutes 28 seconds][Customer] : Yeah, 0670025067, is that right?
+[3 minutes 34 seconds][Agent] : Yeah, so that's right. So you'd put down the policy number, uh, then the name as it is on the policy, the PM McLachlan and your date of birth.
+[3 minutes 39 seconds][Customer] : Yeah, my name. Yeah.
+[3 minutes 44 seconds][Agent] : Then you wanna Yep. And that you wanna change it to PSM and then you just sign it and date it.
+[3 minutes 54 seconds][Customer] : And oh, ****. Yeah.
+[4 minutes 4 seconds][Agent] : Mm hmm.
+[4 minutes 4 seconds][Customer] : OK. And Will, will your address be on there somewhere?
+[4 minutes 6 seconds][Agent] : And you can send that's right. It will have the, the PO Box address on there.
+[4 minutes 12 seconds][Customer] : Yeah. OK. No, it's alright. You don't have to.
+[4 minutes 12 seconds][Agent] : But I can get you that now as well if you'd like alright, so basically you attend this uh to us.
+[4 minutes 22 seconds][Customer] : Yep.
+[4 minutes 19 seconds][Agent] : Once we receive it, we update it and then we have a confirmation letter sent out as well.
+[4 minutes 25 seconds][Customer] : Yep. Yep. OK.
+[4 minutes 26 seconds][Agent] : Now the other thing that I have to double check, uh, let me just bring up the funeral insurance.
+[4 minutes 32 seconds][Customer] : Yep.
+[4 minutes 31 seconds][Agent] : Your additional yes, your additional, yes. Alright, Now the name on the bank account that your payments are coming from is in the name of Pia Verona.
+[4 minutes 45 seconds][Customer] : Yeah.
+[4 minutes 44 seconds][Agent] : Does that need to also be updated to Pia Smith or does that still under that same name?
+[4 minutes 48 seconds][Customer] : No, they don't. No, no, no.
+[4 minutes 49 seconds][Agent] : All right, So just make a note on that cover letter that the payment details do not need to be updated. Oth. Otherwise someone once we get it, we'll have to give you a call to confirm. That's why I wanted to confirm it ahead of time.
+[4 minutes 53 seconds][Customer] : Yeah, yeah, yeah.
+[5 minutes 5 seconds][Agent] : OK, now, so that's that.
+[5 minutes 11 seconds][Customer] : Yeah, that'd be great.
+[5 minutes 7 seconds][Agent] : I'm gonna organize to have the information sent out as well, uh, just to confirm exactly what's needed.
+[5 minutes 15 seconds][Customer] : Yep.
+[5 minutes 14 seconds][Agent] : And you should hear from our cancellation team very shortly.
+[5 minutes 18 seconds][Customer] : Alright, no worries. Thank you very much.
+[5 minutes 20 seconds][Agent] : But was there anything else I can help you with?
+[5 minutes 23 seconds][Customer] : Hello.
+[5 minutes 22 seconds][Agent] : Sorry, what was that? Was there anything else I can help you with?
+[5 minutes 26 seconds][Customer] : No, no.
+[5 minutes 28 seconds][Agent] : Not a problem, but thank you very much for your time and have a great day.
+[5 minutes 29 seconds][Customer] : OK, thank you. OK, you too. Bye.

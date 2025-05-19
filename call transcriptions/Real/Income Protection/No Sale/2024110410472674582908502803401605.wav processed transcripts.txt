@@ -1,0 +1,52 @@
+[13 seconds][Customer] : What?
+[15 seconds][Agent] : Good afternoon. My name's Emily. I'm calling from Real Insurance. Is this Deedee?
+[20 seconds][Customer] : Yep, it is.
+[22 seconds][Agent] : Yeah. Hi. I'm giving you a call to follow up on your money enquiries, the income protection. Just before we continue, I'll let you know calls are recorded. Any advice you providing is generally make sure I may not be suitable to your situation and I'll get you to confirm your name and your date of birth for me.
+[26 seconds][Customer] : Yes, yes, Yep, it's DDDED Asterk AZTURK 26th or 4th 71.
+[46 seconds][Agent] : Beautiful. And I'll confirm that you are a male Australian resident, is that right?
+[50 seconds][Customer] : That's right.
+[52 seconds][Agent] : Alright, perfect. Thank you. Now, did you want to ask what's made you interested in getting income protection today?
+[58 seconds][Customer] : I've been thinking about it. So yeah, just send it on the online, put your application and send it to me, yeah.
+[1 minutes 7 seconds][Agent] : Yeah, fantastic. And sorry, is this your first time looking at this kind of cover?
+[1 minutes 13 seconds][Customer] : Yep, it is. Yeah, the first time.
+[1 minutes 16 seconds][Agent] : Yes, fantastic. Well, I'll take you through it. I'll explain the benefits included and we'll start to build that quote together for yourself.
+[1 minutes 23 seconds][Customer] : Yep.
+[1 minutes 23 seconds][Agent] : If you've got any questions as we're going through it, jump in, let me know.
+[1 minutes 28 seconds][Customer] : OK.
+[1 minutes 26 seconds][Agent] : I'll be happy to help you out now without cover. It is designed to provide a monthly income benefit paid directly to you if you're unable to work due to a disabling sickness or injury and you suffer a loss of income. So it's designed to help cover your bills and living costs if your salary is interrupted. And you can apply if you work at least 15 hours per week in paid employment. Now we offer an income benefit of up to 70% of your monthly pre tax income from $1000 up to a maximum of $15,000. Now it's very easy to apply, we just ask you some health and lifestyle questions over the phone to see if you are approved and if so, on what terms we can offer cover. And once in place, it will cover you until your policy anniversary following your 65th birthday. Now keep in mind that there are some exclusions that apply as outlined in the PDS. And also keep in mind that premiums for income protection are generally tax deductible, which can make it even more cost effective for you. Yeah, I need to actually ask you some questions regarding your duties at work.
+[2 minutes 17 seconds][Customer] : Yep, Yep, Yep.
+[2 minutes 37 seconds][Agent] : Before answering any of our questions, it is important that you are aware, sorry you are aware of your duty to answer all of our questions accurately and honestly.
+[2 minutes 47 seconds][Customer] : Yeah.
+[2 minutes 46 seconds][Agent] : Failure to do so could impact your cover at claims time.
+[2 minutes 50 seconds][Customer] : OK, no worries.
+[2 minutes 52 seconds][Agent] : So with these questions, I can only accept definite yes when I answer for all of them. Do you work 15 hours or more per week?
+[3 minutes 1 seconds][Customer] : Yes.
+[3 minutes 3 seconds][Agent] : Beautiful. Is your role of an administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment? Do you perform heavy physical duties, use heavy machinery or drive a vehicle?
+[3 minutes 15 seconds][Customer] : No, Yes.
+[3 minutes 25 seconds][Agent] : Are you qualified at skilled or semi skilled or hold the required licences to perform your role?
+[3 minutes 34 seconds][Customer] : Qualified so much, yeah.
+[3 minutes 37 seconds][Agent] : OK so just to clarify because we can only gain clear yes or Nos for these questions. So do you work in? Sorry, are you qualified, skilled or semi skilled or hold the required licences to perform your role? Yes or no?
+[3 minutes 53 seconds][Customer] : Yes.
+[3 minutes 55 seconds][Agent] : Do you work in any of the following fields? Aviation. Is a pilot or crew, entertainment or sporting industry? Air Force, Army, armed forces or do you handle explosives? Do you regularly work underground or underwater, work at heights above 10 meters, work offshore, carry a firearm or drive a long haul?
+[4 minutes 27 seconds][Customer] : No.
+[4 minutes 29 seconds][Agent] : So I just wanted to, I just double checked there as well. Sorry Dee Dee, we just can't have anyone helping you answer any of our questions. I am more than happy to give you the definition of what we mean by long haul though. So long haul driving means the distance traveled from base is a radius greater than 200 kilometers. So this means drivers who drive further than 200 kilometers from their base are considered long haul. Where as those who drive within a 200 kilometer radius from base are considered short short distance. So, for example, Uber drivers who may drive 400 kilometers in a day but stay within a 200 kilometer radius from base.
+[4 minutes 42 seconds][Customer] : Yep, Yeah. OK. OK.
+[5 minutes 13 seconds][Agent] : So you drive long haul.
+[5 minutes 9 seconds][Customer] : It's been yes, Yep.
+[5 minutes 16 seconds][Agent] : OK, no problem. We'll put a yes down for that question. And what is your occupation?
+[5 minutes 18 seconds][Customer] : OK, truck driver.
+[5 minutes 24 seconds][Agent] : Truck driver? Beautiful, Bear with me. And have you had a cigarette in the last 12 months? OK beautiful. And I also need to confirm, are you currently employed or self-employed?
+[5 minutes 35 seconds][Customer] : No, I'm a self-employed.
+[5 minutes 47 seconds][Agent] : OK beautiful.
+[5 minutes 45 seconds][Customer] : I'm a sub subconstructor, yes.
+[5 minutes 48 seconds][Agent] : So self-employed, OK, fantastic. So pre tax income is your share of annual income earned in the business before tax directly due to your own personal efforts, less any business expenses and excluding super contributions. So this is the amount that the business would otherwise cease earning in the event you were unable to work due to a disability. So what is your annual pre tax income?
+[6 minutes 12 seconds][Customer] : OK, so I'm going to have to ask my wife because she does my bookkeeping. So is that OK?
+[6 minutes 25 seconds][Agent] : OK. Do you? Yeah, that's OK, that's fine.
+[6 minutes 25 seconds][Customer] : I think it was 126. And then because he didn't. Oh yeah, yeah, yeah.
+[6 minutes 27 seconds][Agent] : Do you even if you can find out what you made last financial year 126,000 before tax? Yep. Beautiful. OK, bear with me. So based on your duties and income, you can select a monthly benefit amount anywhere from $1000 up to a maximum of $5000 per month. Is there a benefit amount you'd like me to quote you on to start with?
+[6 minutes 42 seconds][Customer] : It's saying say for per year 126,000, yes, there wouldn't be enough. I can that wouldn't.
+[7 minutes 16 seconds][Agent] : So based on your duties, the the absolute maximum we can look at would be a $5000 benefit amount. So we can have a look at a quote for that one.
+[7 minutes 28 seconds][Customer] : No, that's not even a week's salary that we get. Look. Alright, alright, thanks for that. It won't be enough.
+[7 minutes 41 seconds][Agent] : OK, well, feel free to give us a call if you are interested in still looking at some sort of protection. We'll be happy to help you out.
+[7 minutes 48 seconds][Customer] : Thanks so much for the time.
+[7 minutes 50 seconds][Agent] : Alright, thank you. Bye.

@@ -1,0 +1,80 @@
+[1 seconds][Agent] : Andrew, how's it going?
+[3 seconds][Customer] : Hey Michael, good thanks. I've got a customer who'd like to add to a beneficiary form the first name, surname, date of birth, e-mail address and phone number check and she confirmed the policy was a funeral cover.
+[18 seconds][Agent] : OK, Let me know when you're out of the lead.
+[21 seconds][Customer] : Yep, I'm out now.
+[22 seconds][Agent] : OK, give me one second. OK, If you want a warm transfer, Theresa through, I'll give her a hand.
+[34 seconds][Customer] : Perfect. Hi there, Teresa.
+[33 seconds][Agent] : Hi there, Theresa.
+[38 seconds][Customer] : Thank you for holding for me.
+[38 seconds][Agent] : Thank you for holding for me. I've got Michael on the line.
+[39 seconds][Customer] : I've got Michael on the line from our support team and he can help assist you further.
+[45 seconds][Agent] : Good morning. As much. My name is Michael from the support department of Real Insurance, I believe. Theresa, So my name is Michael. I'm from the support department of Real Insurance. I believe I'm speaking with Theresa. Hi. How are you today?
+[59 seconds][Customer] : Yes, good. Thank you.
+[1 minutes 3 seconds][Agent] : Yep. Well, you've been transferred through to me. I just need to make sure I let you know that our calls are recorded and any advice providers generally, nature may not be suitable for your situation. And I'll just confirm the gentleman you're just speaking with, he's ready to check the name, date of birth, address, contact numbers, e-mail, everything was correct.
+[1 minutes 20 seconds][Customer] : Yep.
+[1 minutes 21 seconds][Agent] : I'm not going to make you repeat all over again then. So how can I help you today?
+[1 minutes 26 seconds][Customer] : Yeah, I'm about to put double as my beneficiary of my funeral insurance.
+[1 minutes 33 seconds][Agent] : Not a problem. Now for me to open up the beneficiary section. There is just an extra Security question for me to confirm for you. Straightforward. Can you tell me if the policy coverages yourself or yourself and someone else? Would you be able to tell me if?
+[1 minutes 44 seconds][Customer] : So I say it, are the boys the one that's the boy's the one that does or the other, like he said, benefic. He's the policy of the insurance. You know what I mean?
+[1 minutes 57 seconds][Agent] : OK, So what I'm asking is under this policy, are you the only person insured or is it you and someone else who's also insured under this policy?
+[1 minutes 55 seconds][Customer] : I don't know what Yeah, the boy is also insured, but he's got full cover insurance.
+[2 minutes 17 seconds][Agent] : OK, so, so just to confirm your funeral insurance policy number 380004537 has two people on it, is what you're saying?
+[2 minutes 13 seconds][Customer] : He's the but if he's, but if she is me and I'll yeah, not just myself is my my own insurance, but then like he's got his. But he's he's the one that pays.
+[2 minutes 33 seconds][Agent] : OK, his OK?
+[2 minutes 35 seconds][Customer] : Yeah, you can get what I mean. He's the one that pays for me. He's the one that set it all up. And yeah.
+[2 minutes 39 seconds][Agent] : OK, so his policy completely separate yours has no impact on any question I'm asking you today.
+[2 minutes 48 seconds][Customer] : OK, so then it's online, Yeah.
+[2 minutes 47 seconds][Agent] : So I'm asking security questions about your policy.
+[2 minutes 51 seconds][Customer] : Then selling myself online.
+[2 minutes 51 seconds][Agent] : Uh, can you tell me, uh, can you tell me if the payments being made fortnightly, monthly or annually for your insurance policy?
+[3 minutes 4 seconds][Customer] : That I that's, I don't, I don't know. I have to find that out through the wall because he's the one that's arranged the payments and everything, which is my hub, my partner. If that's would that be OK?
+[3 minutes 19 seconds][Agent] : OK, well, The thing is, if it's a Security question, if you're getting the information from someone else, I can't use this as a Security question. OK, so let's try something a little bit different. Uh, do you know how much we're covered for?
+[3 minutes 23 seconds][Customer] : I just might have been a fortnightly, you say? I'm not 100% sure either.
+[3 minutes 43 seconds][Agent] : That's OK.
+[3 minutes 41 seconds][Customer] : Like I said, I just wanted, yeah.
+[3 minutes 43 seconds][Agent] : Let's let's try this is there at the moment before I make any changes, is there any beneficiaries on the policy or not yet?
+[3 minutes 54 seconds][Customer] : What?
+[3 minutes 56 seconds][Agent] : So a beneficiary, the person who receives the benefit amount when you pass away, is there currently one on the policy or are we adding 1 today?
+[3 minutes 54 seconds][Customer] : What do you mean by I'm adding one? I'm adding the more to mine. So he's the beneficiary of mine.
+[4 minutes 8 seconds][Agent] : OK, so I'll, I'll use, OK, I'll use that as the other ID point because you are correct. There is currently no other beneficiaries on the policy. Now, while I open this part of the file, there's a little bit of information for me to go over with you appreciate it forward. I just need to make sure you're aware that when you nominate a beneficiary, uh, you as the, uh, policy owner of providing an instruction on who to pay the policy benefit to in the event of your death. This nomination will be processed in accordance with the conditions set out in your product disclosure statement. Can you please confirm that you understand this and that the information you provide is true? Incorrect. All right, so I'm going to get some of the details just so I can add them as a beneficiary. Can I start with their date of birth?
+[4 minutes 44 seconds][Customer] : Yes, Yep, yeah.
+[4 minutes 57 seconds][Agent] : OK. And how do I spell their first name?
+[4 minutes 53 seconds][Customer] : It's the 29th of the 7th, 1974 DABOR the ball.
+[5 minutes 5 seconds][Agent] : Yep. And their last name.
+[5 minutes 7 seconds][Customer] : Yep, I'll spell that. It's N for Nelly, I for Indio, M for Mary, C for Cat, S for Sam, O for Oscar, V for Victory, I for Indio, C for Cat and S for Sam. Sorry for the long one.
+[5 minutes 23 seconds][Agent] : OK, that's OK. And their relation to yourself, OK, And same postal address as yourself.
+[5 minutes 29 seconds][Customer] : I use my partner, yes.
+[5 minutes 34 seconds][Agent] : Yep, that one I figured out myself. And just to confirm you're happy freakable to receive the entire benefit amount. OK, let me update that for you. Just one second. All right. So Theresia, I can confirm that your beneficiary has been added. We're going to be sending you a policy schedule that's going to show you that you've got Gabor as your beneficiary. We just ask that when you get it, have a look over it to make sure the details are correct. If there's any issues, just give us a call to let us know, OK?
+[6 minutes 9 seconds][Customer] : Yeah, no problem. Before you go, my partner would like to talk to you about putting my mother, which is mother, his mother-in-law on in terms of yeah, I'll just pop pop him on and I'll let him talk to you one second. Hello.
+[6 minutes 19 seconds][Agent] : Oh, hello, my name's Michael. I'm from the support department of real Insurance. How are you today? This Sorry, just before I forget, I was for you calling the phone. I need to make sure I let you know that our calls are recorded. And any advice providers Generally nature may not be suitable for your situation. And how can I help you?
+[6 minutes 55 seconds][Customer] : I've got a life insurance policy with these guys and I'm also got a funeral policy with my wife. I've got a 72 year old mother-in-law who's think she's going to live forever. I'd like to take out a, uh, funeral plus on for her, on her behalf, which I'll be, I'll be, I'll be paying for.
+[7 minutes 17 seconds][Agent] : Mm hmm.
+[7 minutes 15 seconds][Customer] : I'll be buying off her if she, well, it's nothing to do with just at the moment, but she's 72 and she has been diagnosed with emphysema. Umm. So on that note, I'd like to take out a funeral cover for her like I did with my wife. I'll be paying for it.
+[7 minutes 33 seconds][Agent] : Mm hmm.
+[7 minutes 33 seconds][Customer] : 15 case, something goes wrong and like I said, she thinks she's gonna live forever, but she's not gonna live forever.
+[7 minutes 40 seconds][Agent] : Sure, I understand. What I'll do is I'll get some details so I can generate a file. Then the best thing for me to do would actually be to put you through to one of the people in our sales department because I'll be able to go over the the policy and the quite speedy. And if you want to go ahead, they'll be the ones who will be able to get us set up.
+[7 minutes 46 seconds][Customer] : Yeah, yes, I'm good.
+[7 minutes 55 seconds][Agent] : All right. Contact with your mother's date of birth. I'm sorry, your mother in law's date of birth.
+[8 minutes 3 seconds][Customer] : My mother-in-law, the date of birth is Yeah, yeah, yeah.
+[8 minutes 8 seconds][Agent] : Mm, hmm. Mm. Hmm.
+[8 minutes 7 seconds][Customer] : 25th or the 4th, 1950.
+[8 minutes 11 seconds][Agent] : And her name.
+[8 minutes 13 seconds][Customer] : Her name is Doris. Doris Joy JIY Haywood HAYW. Double ID.
+[8 minutes 22 seconds][Agent] : OK, all right. Now, while I get you through to the right place, I'll need to put you on hold.
+[8 minutes 30 seconds][Customer] : Yep. Yep.
+[8 minutes 30 seconds][Agent] : It may take me a minute or two, but I'll be as quick as I can for you.
+[8 minutes 34 seconds][Customer] : Oh, I appreciate it. Thank you very much for your help.
+[8 minutes 36 seconds][Agent] : Not a problem. Please hold.
+[8 minutes 38 seconds][Customer] : Thank.
+[9 minutes 15 seconds][Agent] : Hey Christopher, how's it going?
+[9 minutes 20 seconds][Customer] : Oh, there, there you go. How can I help today, Michael?
+[9 minutes 22 seconds][Agent] : So I have a man called Gabor on the line. He's looking at getting some quotes and setting up a funeral insurance for his mother-in-law, Doris.
+[9 minutes 31 seconds][Customer] : Yeah, of course. What sort of ID have you done today?
+[9 minutes 35 seconds][Agent] : Well, I made the file. So everything that's listed on that, except for the contact number, that's just the one he's on at the moment with the caller ID.
+[9 minutes 41 seconds][Customer] : Perfect. Thank you very much. Of course. Ready when you are.
+[9 minutes 44 seconds][Agent] : All right, I won't transfer him through now.
+[9 minutes 45 seconds][Customer] : Thanks, Michael.
+[9 minutes 45 seconds][Agent] : Uh, do you prefer Chris or Christopher for?
+[9 minutes 48 seconds][Customer] : Either either happy to do either.
+[9 minutes 47 seconds][Agent] : All right, here we go. Thank you for your patience. I'm sorry for the delay, but I've called Chris on the line to help you further.
+[9 minutes 57 seconds][Customer] : Thank you very much. I appreciate it too. Thank you.

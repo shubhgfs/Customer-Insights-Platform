@@ -1,0 +1,160 @@
+[20 seconds][Customer] : Hello.
+[20 seconds][Agent] : Hello. Hi there. May I speak with Avarosio please?
+[25 seconds][Customer] : Yes.
+[27 seconds][Agent] : Oh, wonderful. My name is Teresa. I'm calling from one choice. How are you?
+[26 seconds][Customer] : Speaking good, good.
+[34 seconds][Agent] : Very good to hear.
+[36 seconds][Customer] : Yes.
+[36 seconds][Agent] : I'm calling because we've received the most recent enquiry for a life insurance cover. What I need to do to be able to help you with that is to start by confirming your details. That way I can give you some pricing and I'll also quickly explain the sort of process that I take you through. And now, uh, before I do that, Please note all our calls are recorded. Any advice provided is limited to the products we offer and assisting you to make a decision about whether or not it's suitable for your needs. So we don't consider the personal circumstances.
+[56 seconds][Customer] : OK, OK, Yep.
+[1 minutes 13 seconds][Agent] : OK, Uh, now can you please confirm your name and date of birth for me?
+[1 minutes 19 seconds][Customer] : So my name is Aberration. What to say? And my date of birth is 25th of March 1979.
+[1 minutes 27 seconds][Agent] : Thank you. The telephone number that I've called you on, is this your best contact telephone number? OK, Now I've also got the e-mail address eddie.reticide@yahoo.co dot NC. OK, beautiful. Uh, and can I confirm that you're a male New Zealand resident and currently residing, uh, in New Zealand?
+[1 minutes 33 seconds][Customer] : Yes, Yep, Yep.
+[1 minutes 52 seconds][Agent] : All right. Thank you. No, I just want to take a quick step back here because I can see that you previously inquired with us for our life insurance. Can I ask what might have stopped you from taking the policy out at that time? OK, I said we were waiting on some information for you to come back with some information.
+[2 minutes 8 seconds][Customer] : Oh, it's just my my medical, Yeah.
+[2 minutes 21 seconds][Agent] : I see. OK, well look, I'm going to take you through the same process, umm, and we'll go from there. And as you might remember, our whole process is nice and simple. Umm, so I can actually do everything for you over the phone except for answer the questions. The, umm, uh, sorry. We also don't have any forms for you to fill out except for the beneficiary nomination form. And we don't need you to go to the doctors for any medical checks or blood tests because we have those health and lifestyle questions that I can take you through now. The Pol, the, how you go with those questions will determine or it could change what your final price and final terms of the policy will be.
+[2 minutes 37 seconds][Customer] : OK, OK, OK, OK. Yep.
+[3 minutes 8 seconds][Agent] : The policy does already come with an advanced payout built in, uh, of $10,000 that your beneficiaries can request upon your passing to help towards any immediate cost that they need to take care of, such as the funeral costs or unexpected bills. It's also got a terminally ill advanced payment included, which means if you're diagnosed with 12 months or less to live by a medical practitioner, we can pay the claim out to you in full and then you can use that money however you need to use it.
+[3 minutes 24 seconds][Customer] : OK, OK.
+[3 minutes 41 seconds][Agent] : OK. Now I'm going to jump right into pricing at this point, but have you had a cigarette in the last 12 months? OK, good. So you've not had a cigarette, but have you had a cigarette in the last 12 months?
+[3 minutes 52 seconds][Customer] : So I used to have a smoke which after five years now no.
+[4 minutes 4 seconds][Agent] : OK, thank you. Umm, and now, is your current annual income $50,000 or more account? Now, based on your details, I can quote you anywhere from a minimum of $100,000. From there I can go up all the way to one and a half million. How much would you like me to check for you first?
+[4 minutes 12 seconds][Customer] : Umm yes, yes please.
+[4 minutes 30 seconds][Agent] : Yeah. What amount would you like me to check for you first?
+[4 minutes 36 seconds][Customer] : So can I start with 800?
+[4 minutes 44 seconds][Agent] : Yeah, let's start there and if you don't think you're suitable, let me know. So 800,000 is 6739 a fortnight, so 1 suitable or would you like me to quote you on a different amount?
+[5 minutes 5 seconds][Customer] : Oh, I just speak on that 900 that I just called you.
+[5 minutes 10 seconds][Agent] : Pardon. Did you want to quote on the 900 as well?
+[5 minutes 11 seconds][Customer] : So if if I could just speak on that 900, then I fill out that that one trace application before you call yes.
+[5 minutes 25 seconds][Agent] : OK. So $900,000 of cover is 7533 a fortnight, that one. OK, so now that we've found the amount that you'd like to apply for, I need to read your pre underwriting disclosure so we can access those questions. Can you please confirm? I'm sorry, actually I'm going to read that to you.
+[5 minutes 35 seconds][Customer] : Yep, Yep, Yep, Yep.
+[5 minutes 54 seconds][Agent] : So it goes over how we use your personal information, our responsibility to you when I'm asking you these questions and your responsibility to us when answering them. Just a confident yes or no for each path. OK uh please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure with other service providers for the purpose of administering your policy or handling claims.
+[6 minutes 8 seconds][Customer] : Yes, OK, Yep, yes.
+[6 minutes 31 seconds][Agent] : Our privacy policy tells you more, including how to access and correct the information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract.
+[6 minutes 54 seconds][Customer] : Right.
+[6 minutes 49 seconds][Agent] : You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk. We insure you have this journey until the time we enter into the contract. If you fail to disclose the matter or you make a false statement and answer to our questions, we may be able to decline a claim, impose new conditions on your policy, or avoid your policy entirely. Do you understand this, yes or no? OK, wonderful. Thank you. Now it's the same thing when answering all the questions, just the confident yes or no for each one. And if you need me to repeat any of the questions, just let me know. OK.
+[7 minutes 26 seconds][Customer] : Yes, OK, thank you.
+[7 minutes 40 seconds][Agent] : You're welcome. Now, are you a citizen or permanent resident of New Zealand or Australia? Currently residing in New Zealand. Yes or no?
+[7 minutes 53 seconds][Customer] : No, I'm a Fijian citizen, but residents in the New Zealand, residing in New Zealand.
+[8 minutes 1 seconds][Agent] : OK, so you're a Fijian citizen, but a New Zealand resident.
+[8 minutes 10 seconds][Customer] : Yes, residing in New Zealand. Yep.
+[8 minutes 13 seconds][Agent] : OK, Then what I need to do is read out the what's the definition? Oh, no, actually permanent. So you're not a permanent resident and you're not a citizen. OK, thank you.
+[8 minutes 25 seconds][Customer] : Yes, OK.
+[8 minutes 27 seconds][Agent] : So we can confidently answer no to that question 1 moment now, do you currently have hold a current visa that entitles you to reside in New Zealand?
+[8 minutes 40 seconds][Customer] : Yes.
+[8 minutes 42 seconds][Agent] : OK, thank you. Now right away we come up with the residency exclusion. So it seems here it is hereby understood and agreed that cover will cease under this policy of the life insurance pieces to reside in New Zealand. So basically what that means is if you leave the country for good, then the policy would end.
+[9 minutes 5 seconds][Customer] : OK.
+[9 minutes 4 seconds][Agent] : But once you get your permanent residency or your citizenship, give us a call to apply to have that reviewed and then hopefully we can get that removed. But all options will be given to you at the time. OK, now moving forward, have you ever had symptoms of being diagnosed with or treated for or teens to seek medical advice for any of the following stroke or heart conditions such as but not limited to heart murmur, heart attack and angina. A lung disorder excluding asthma, sleep apnea or pneumonia. OK uh, cancer or leukemia, excluding skin cancer, kidney disorder, uh, hepatitis or any disorder of the liver. Anxiety, depression or stress requiring medical treatment or any other mental health disorder? Have you been diagnosed with or currently undergoing testing for, or has a doctor advised you to be tested for not a neuron disease or any form of dementia, including Alzheimer's disease?
+[9 minutes 32 seconds][Customer] : No, no, no, no, no, no, no, no.
+[10 minutes 26 seconds][Agent] : Uh, now the next section is in relation to your height and right. Please be aware that I am required to obtain a confident single, single measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and right ranges. Uh, but in saying that, what is your exact, uh height please?
+[10 minutes 48 seconds][Customer] : So my exact height is 6 feet 4 inch.
+[10 minutes 56 seconds][Agent] : 3-4 And what is your exact weight change?
+[10 minutes 59 seconds][Customer] : So my exact weight is 115 KG.
+[11 minutes 3 seconds][Agent] : Thank you. 115 OK, so I've got 6 feet 4 inches for your height and 115 KGS for your weight.
+[11 minutes 14 seconds][Customer] : Yep, yes.
+[11 minutes 18 seconds][Agent] : Beautiful. Thank you. Uh, have you experienced any unexplained weight loss of more than 5 KGS in the last 12 months?
+[11 minutes 31 seconds][Customer] : So before I was usually working in forestry, I usually get like just 100 KG, 205. So when working now in the Department of Corrections, so it goes up to 115.
+[11 minutes 51 seconds][Agent] : This movement makes sense. OK, that's alright for weight gain. What about weight loss of more than 5 KGS and just in the last 12 months?
+[12 minutes 3 seconds][Customer] : Nah.
+[12 minutes 4 seconds][Agent] : Alright, alright, that's OK. Now moving forward, does as your work require you to go underground? Work at heights above 20 meters, dive to bench below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore. To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[12 minutes 29 seconds][Customer] : Umm no, no.
+[12 minutes 42 seconds][Agent] : Do you have different plans to travel or reside outside of New Zealand IE booked or will be booking travel within the next 12 months?
+[12 minutes 53 seconds][Customer] : Umm yes.
+[12 minutes 58 seconds][Agent] : OK and what country do you intend to travel to or reside in?
+[13 minutes 4 seconds][Customer] : So umm, are we going at home umm, this Christmas? Yes.
+[13 minutes 8 seconds][Agent] : Oh, OK, nice. And anywhere else?
+[13 minutes 14 seconds][Customer] : No, that's it. So we just go for a month and then back to New Zealand.
+[13 minutes 18 seconds][Agent] : OK, perfect. Because the next question was, will you be overseas for longer than three consecutive months?
+[13 minutes 26 seconds][Customer] : No.
+[13 minutes 27 seconds][Agent] : OK, beautiful. Thank you. Basically, we cover your world one 24/7. Umm, we just need a cross reference against countries that have been in strife recently such as Ukraine. OK, uh, now do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than 5 million?
+[13 minutes 49 seconds][Customer] : Umm, no.
+[13 minutes 51 seconds][Agent] : OK, perfect. Thank you. Uh, OK, now it's not OK, I need to read out the definition for New Zealand resident.
+[14 minutes 4 seconds][Customer] : OK.
+[14 minutes 4 seconds][Agent] : Umm, although we've done that question, it's not registering the answer 1 moment until I do that. So, New Zealand Resident names a person who resides in New Zealand at the time of application and holds a New Zealand Australian citizenship or holds a New Zealand permanent residency visa or has been in New Zealand continuously for six months or more on a temporary work visa. OK, now have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following Diabetes rise blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure. So mole or cysts, including skin cancer, sunspots or Melanoma. Have you ever had an abnormal PSI test or an enlarged prostate? Thyroid condition or neurological symptoms such as dizziness or fainting. Disorder of the stomach, bowel, or pancreas.
+[14 minutes 48 seconds][Customer] : No, no, no, no, no, no, no, no.
+[15 minutes 19 seconds][Agent] : UH epilepsy, multiple sclerosis, muscular dystrophy, or UH Parkinson's disease or paralysis. Any illegal drug use, abuse, or prescription medication, or received medical advice or counseling for alcohol consumption. UH bladder or urinary tract disorder. Blood disorder or disease. Sleep apnea or asthma, excluding childhood asthma.
+[15 minutes 27 seconds][Customer] : No, no, no, no, no, no.
+[15 minutes 51 seconds][Agent] : OK, you're doing great. Five more questions to go now other than what you've already told me about. In the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting the results of any medical tests or investigations?
+[16 minutes 9 seconds][Customer] : Umm, umm, no.
+[16 minutes 15 seconds][Agent] : And yeah, sorry, three years. That's correct.
+[16 minutes 17 seconds][Customer] : So, so just for the last three years, uh, three years, yeah, yes.
+[16 minutes 38 seconds][Agent] : Oh, OK. OK. And so you did go see a doctor about your name. Umm, OK. And was it your foot? Was it, umm, your name? Was it umm?
+[16 minutes 26 seconds][Customer] : OK, so the last three years I've I've got like accident in the while working in the forestry, but yes, but now it was umm, OK, it's just my right leg and now it's umm it's 100% fit yes, No, it's my it's my, it's my, my foot.
+[17 minutes 3 seconds][Agent] : Foot and was it a broken bone?
+[17 minutes 6 seconds][Customer] : Uh, no, it's just umm, umm, like they said, there's this, uh, what can I see? So the doctor when they in Germany, they said there's nothing wrong with it, but I have to go on the official for bit of exercise.
+[17 minutes 24 seconds][Agent] : Oh, OK. Was it like a strain or sprain or a minor injury?
+[17 minutes 28 seconds][Customer] : Yeah, yeah, no, it was not fraction.
+[17 minutes 30 seconds][Agent] : OK, so just to make sure it wasn't for was it fractured and it wasn't broken?
+[17 minutes 37 seconds][Customer] : Yeah, it wasn't bro. It wasn't broken.
+[17 minutes 40 seconds][Agent] : OK, now did he put it down to like a sprain or the other one, the strain?
+[17 minutes 44 seconds][Customer] : Yeah, it's just yeah, they said it's a ligament, umm just to thumb ligament. It needs to be trained by officials, you know, for using like rubber bands just to set the lig ligaments back to the on the my feet. No, it's alright. It's OK.
+[18 minutes 5 seconds][Agent] : That's OK, but we don't need to disclosure for the application. What I need to know is what they put it down to. So they said it was a torn ligament in your foot. OK, umm, I've got a list to cross reference again.
+[18 minutes 9 seconds][Customer] : OK, yes, yes, yeah. Because it's just, there's nothing too serious about that because I was just off for three days and then after that I'm back to work.
+[18 minutes 39 seconds][Agent] : Uh, yes, I'm trying to find to see if it's on the list that I have here.
+[18 minutes 45 seconds][Customer] : Yes, Sir.
+[18 minutes 47 seconds][Agent] : Umm, but I don't have torn ligament injury.
+[18 minutes 50 seconds][Customer] : OK, Yeah.
+[18 minutes 51 seconds][Agent] : Let me double check something.
+[19 minutes 18 seconds][Customer] : Yeah, it's just, it's just, it's not like fractured or broken. Yeah, it's just like a screen.
+[19 minutes 11 seconds][Agent] : OK, umm, did the doctor say it was a sprain or he particularly said it was a OK, so I've got sprains or minor sports injuries.
+[19 minutes 34 seconds][Customer] : Yeah. Yeah. OK. I say yes.
+[19 minutes 36 seconds][Agent] : OK Spain. All right. Uh, anything else in the last three years?
+[19 minutes 42 seconds][Customer] : No, it's just on your neck.
+[19 minutes 44 seconds][Agent] : OK, thank you. Now, moving on, other than what you've already told me about, are you contemplating seeking medical advice for any symptoms you're currently experiencing within the next two weeks? OK, now, to the best of your knowledge, have any of your immediate family, living or deceased everything diagnosed with polycystic kidney disease, Huntington's disease, or familial eczematous polyposis? And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 16?
+[19 minutes 56 seconds][Customer] : No, no, no.
+[20 minutes 27 seconds][Agent] : Now the last, uh, question is in regards to, uh, hazardous pursuits. So other than one off events, do you engage in or teens to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, edge sailing, scuba diving deeper than 40 meters, cable rig diving or any other hazardous activity? OK, thank you. Now there's all the questions I had for you before we check how you did. Are you happy with the way you've answered the questions?
+[20 minutes 55 seconds][Customer] : No, yes.
+[21 minutes 5 seconds][Agent] : OK, Uh, perfect. Congratulations. Your application has been fully approved. Well done.
+[21 minutes 13 seconds][Customer] : Thank you.
+[21 minutes 13 seconds][Agent] : Now I'm going to go over what that means. You're very welcome. What that means for the final terms of the policy and double check the pricing and then I'll go over the next step.
+[21 minutes 24 seconds][Customer] : OK.
+[21 minutes 23 seconds][Agent] : So basically now that the application has been approved, it means that the policy would cover you for this due to any cause except suicide in the 1st 13 months that starts as soon as you accept the declaration. So essentially I can have you covered by this, uh, policy. By the end of this phone call, you would still have access to the terminally owed advanced payment and your beneficiaries would still have access to the advance payout of $10,000. Now, the premiums are stepped on the cover, which means it'll generally increase, uh, each year. And in addition, the policy has an automatic indexation increase, which means each year your benefit amount will increase by 5%. That comes with an associated increase in the premiums. The good news is you can opt out of the automatic indexation increase each year. OK, now what does that mean for the price? I've got to double check on the something. Oh, OK, so I've got some mark here on some fatty tissue that was excited. I so you had so something was on your shoulder.
+[22 minutes 47 seconds][Customer] : Yeah, Oh yeah. But yeah. But it was, umm, it was gone. It's like a lamp.
+[23 minutes 6 seconds][Agent] : Uh, OK. And when did that happen?
+[23 minutes 9 seconds][Customer] : So umm, it it was, it's just happened like that was in 1998, the green pruning trees.
+[23 minutes 23 seconds][Agent] : OK.
+[23 minutes 26 seconds][Customer] : So it's just like, umm, umm, I was umm, cutting a branch and then a branch just hit my shoulder. So. And after that, I mean, it's umm, like it was swelling.
+[23 minutes 23 seconds][Agent] : And what did it end up being? Oh, OK. So it ended up being just the just swelling from something hitting your shoulder.
+[23 minutes 42 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[23 minutes 50 seconds][Agent] : OK, I need to double check this because, umm, so that was back in 1999.
+[23 minutes 50 seconds][Customer] : It it, yes, Yeah. Back in 1999, yeah.
+[23 minutes 59 seconds][Agent] : OK, so that was over three years ago. Let me put you on a quick hold. OK, won't be long.
+[24 minutes 4 seconds][Customer] : OK. Thank you.
+[24 minutes 5 seconds][Agent] : You're welcome. Thank you so much for your patience.
+[26 minutes 40 seconds][Customer] : One SEC.
+[26 minutes 39 seconds][Agent] : So because it was over three years ago, umm, that's fine. We won't need to include it. Uh, so yes, you have been fully approved for the cover. Now in terms of the next step, umm, so the pricing is still the same as I mentioned, so 900,000 and 7533 a fortnight.
+[26 minutes 46 seconds][Customer] : OK, OK.
+[26 minutes 57 seconds][Agent] : What I can do now is get you immediately covered over the phone today.
+[27 minutes 2 seconds][Customer] : Thank you.
+[27 minutes 2 seconds][Agent] : You won't have to pay anything upfront today. You're very welcome. I'll also have you choose the day you want the first payment to come out and I'll take bank account details over the phone. I'll also send out all your personalized policy documents. Uh, you'll have a 30 day calling off. So that you can have the cover in place and go over all in place and be covered by us while you're going over everything. Now if you decide in the end that you're not happy with it or you change your mind, that's fine.
+[27 minutes 14 seconds][Customer] : OK, OK, OK.
+[27 minutes 35 seconds][Agent] : It's not a lock in contract. So if you cancel it within the 30 days, you get a full refund of any payments you had made unless the claim has been made.
+[27 minutes 44 seconds][Customer] : OK, alright, OK.
+[27 minutes 44 seconds][Agent] : OK, now you'll get a copy to the e-mail address that I confirmed earlier within 15 minutes or possibly by tomorrow morning at the latest, and a copy via post within 5 to 10 working days. Can you confirm your home address for me?
+[28 minutes 2 seconds][Customer] : So it's 79 Thatcher Street. So Thatcher is TT for three, H for horse, A for Apple, then T for Tango, Cher.
+[28 minutes 21 seconds][Agent] : OK, 7 to 9. Is that in four 501?
+[28 minutes 27 seconds][Customer] : Yes. 79 Fetcher St.
+[28 minutes 30 seconds][Agent] : All right, Beautiful. Thank you. Now your home address and postal address, are they the same?
+[28 minutes 36 seconds][Customer] : Yes.
+[28 minutes 38 seconds][Agent] : OK, thank you. OK, so within 5 to 10 working days, one moment. OK, five to 10 working days. Perfect. So that's, uh, set up to go. Now I just need to set up banking and then we, uh, uh, we, I'll have a couple of declarations to reach you. Now you get to choose the date, uh, that the first payment comes out and we generally click payment within the next 7 days. Uh, but what date would you like the first payment to be? Tuesday coming, so that will be Tuesday the 30th.
+[29 minutes 20 seconds][Customer] : So we get paid like every fortnight and the 1st payment is on Tuesday night so next Tuesday yes. Yep. Yeah.
+[29 minutes 39 seconds][Agent] : OK, so Tuesday the 30th of July and then every second Tuesday after that with the name on the bank account, is it under a Ratusai or Ratusai?
+[29 minutes 54 seconds][Customer] : So it's OK.
+[29 minutes 59 seconds][Agent] : OK. Thank you.
+[29 minutes 56 seconds][Customer] : The name is a Ratusai, so so it was on the joint account, Joint account. So do you, do you want me to give you that full name that on that on my account name account?
+[30 minutes 1 seconds][Agent] : And uh, yes, please. Is that the name that it's under there, the one that you gave me?
+[30 minutes 24 seconds][Customer] : Yes, yes. So it so it's like AN AAL Ratosai.
+[30 minutes 28 seconds][Agent] : OK, that's a different name. Is that still your bank account or?
+[30 minutes 45 seconds][Customer] : Yes.
+[30 minutes 51 seconds][Agent] : Oh, OK.
+[30 minutes 46 seconds][Customer] : So it's under the joint count, Yes.
+[30 minutes 52 seconds][Agent] : So there's a second person's name on the account if you want I can, I can put A&A.
+[30 minutes 57 seconds][Customer] : So if if you just do my one so I can just give you my one, Yes.
+[31 minutes 8 seconds][Agent] : Is that correct though?
+[31 minutes 10 seconds][Customer] : Yep.
+[31 minutes 11 seconds][Agent] : OK. And the bank account number when you're ready.
+[31 minutes 17 seconds][Customer] : So the bank account number is 0212450229019, then 001.
+[31 minutes 23 seconds][Agent] : Yes, yes, yes. OK, We are not too far from finishing this, but I am, I do need to pop you on another quick hold just to conserve with my manager. OK, it won't be too long.
+[31 minutes 43 seconds][Customer] : OK, all good.
+[31 minutes 43 seconds][Agent] : All right. Thank you. One moment.

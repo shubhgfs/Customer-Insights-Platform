@@ -1,0 +1,414 @@
+[1 seconds][Customer] : Hello, Hi. Welcome to a Welcome to rural insurance.
+[7 seconds][Agent] : Oh, who have I got?
+[5 seconds][Customer] : Sorry you're speaking with how can I help you today you got back from rural insurance?
+[11 seconds][Agent] : Real insurance. Real insurance? Yeah. I missed a call from you guys.
+[10 seconds][Customer] : Yeah, Yes, yes. It may have been with regards to an inquiry that you may have put through. Yeah.
+[21 seconds][Agent] : Oh, yeah, I did. I did. Actually, I did this morning. Yeah. Yeah, I know. I was just flown back from work last night, yesterday.
+[32 seconds][Customer] : Funeral insurance. Nice nice look. I'm more than happy to help you out with that regard now so I can assist you further. Can I get you to confirm your full name and your date of birth?
+[26 seconds][Agent] : And I was looking at what the one insurance that I think we all need is funeral, Charles Richard Norton and the 11th of May 1961. But we'll keep that just between you and I, mate.
+[48 seconds][Customer] : For sure. Look, I do need to let you know they're Charles. Please note all our calls are recorded. Any advice or provide is general in nature and may not be suitable to your situation. Now, Charles, can I get you to confirm that you are, of course, a male and an Australian resident?
+[1 minutes 3 seconds][Agent] : Yeah, I'm looking down between the leaves. I'm a male, alright.
+[1 minutes 7 seconds][Customer] : Yeah.
+[1 minutes 7 seconds][Agent] : No, I'm just having your old man, you know? You know where I need to. I'm New Zealand born, but I'm an Australian resident. I've been here for 2022 years.
+[1 minutes 15 seconds][Customer] : Yeah, nice, nice look. Umm, Charles, they're just for compliance purposes on my end. OK. And the calls are recorded, so I will just need to get you to confirm with a clear yes or no. OK, now I'll take the question. Can I get you to confirm that you are a male Australian resident there? Yep. Perfect. Really appreciate that one there, Charles.
+[1 minutes 32 seconds][Agent] : Yes, sorry not to laugh.
+[1 minutes 37 seconds][Customer] : No, that's all good. That's all good. Now what I'll do here, Charles, is I'll just have a look and see, uh, if one of my colleagues did try to call you.
+[1 minutes 45 seconds][Agent] : Yeah, yeah, it was, I thought in a thing this morning and it was yeah and it should be all there.
+[1 minutes 44 seconds][Customer] : OK, now, uh, yeah, yeah, that's no problem.
+[1 minutes 50 seconds][Agent] : It was for yeah, the aid and and yeah for 200,000 and yeah so yeah, so I yeah, I did a yeah the pretty quick 'cause I'm in WA yeah and I got yeah, I just, I just lay in a beard. No one, no one's home lost. I don't, she's at work and I just. And I just thought, well, you know, it was I I've only just slower.
+[1 minutes 59 seconds][Customer] : Yeah, yeah, yeah.
+[2 minutes 8 seconds][Agent] : And then I did two weeks on, two weeks off and yeah, yeah, I'm just sort of chilling out and what a way to start a day is get funeral insurance. I thought it sort of looked at me, hey, I've got life insurance and that, but I just thought funeral insurance. So I thought, yeah, yeah. With, you know, as you get older, you try not to think about those things, But yeah, you gotta have, you gotta have them. You gotta have them especially because, you know, if I, if I die, if I like I, I said to my wife, I ever die, I said, don't you bury me. I just wanna go back to New Zealand.
+[2 minutes 32 seconds][Customer] : Yeah, yeah. MMM.
+[2 minutes 42 seconds][Agent] : The only way that the only way, the only way we spoke about that is like was when COVID was on and I said, if you know, it was I come from, you know, a, a a big mouldy family in South Island. And yeah, and we don't believe in cremation.
+[2 minutes 47 seconds][Customer] : MMM, yeah.
+[2 minutes 56 seconds][Agent] : But I I said to to cremate me when COVID was on was I seen a friend of ours. He went back to the White House and his wife and kids couldn't go. But it was a decision they had to make to send their father home. Was he was the eldest of their family and the white Cato area and it was their tradition. So and it's the hardest thing I've ever seen. And I watched those kids faces and I thought you poor little, you know, I just said to my wife there and then I said, if I die, I said burn me, put me in a box and take then Take Me Home. Later on we came, it's all over.
+[3 minutes 13 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[3 minutes 26 seconds][Agent] : I said, don't you send me home, I'm me home, you know. And yeah, so we agreed on that. And yeah, it was, it was, you know, it was well over in Wai work in mining. I didn't lose, lose the job. My two sons, they didn't lose their jobs. My daughter, she was a hairdresser.
+[3 minutes 42 seconds][Customer] : MMM MMM.
+[3 minutes 40 seconds][Agent] : She, you know, she lost her job, but now she's back hairdressing now. And, yeah, we're lucky in WA And, you know, I lost two sisters in New Zealand during COVID, but, you know, not, not through COVID, but, you know, I couldn't go home, couldn't go home to the Chinese or funeral, whatever. Yeah. And yeah, it was hard, but you had to think about it. It was people all over the world. So, you know, we're not the only people, you know, it was happened to people all over the world. So that's why. And yeah, Yeah. And by the way, you know, coming from, coming from big motties and why we don't give you one of mine, one of my rallies, honey. And then I'd be going home every second week, you know, And mining's good, but it's not that good, bro.
+[4 minutes 6 seconds][Customer] : Yeah, yeah, yeah, for sure.
+[4 minutes 24 seconds][Agent] : Yeah.
+[4 minutes 22 seconds][Customer] : And I understand, like Kevin was definitely one of those. Hopefully it's one of those once in a lifetime sort of things and it doesn't carry on.
+[4 minutes 29 seconds][Agent] : Wow, Yeah, yeah, yeah, I'm 60. Yeah, I'm 63 and I've seen a fair bit in my life that that would be the worst thing I've ever seen.
+[4 minutes 37 seconds][Customer] : Yeah.
+[4 minutes 36 seconds][Agent] : You know, just the way it ha, the way it happened and a lot of it, you know, I I know people that don't know about the government and about the what they, they caused a lot of it, you know, you're having to get shots and that. But hey, you know, at the end of the day, we got through it and that's the main thing, you know, we well, yeah.
+[4 minutes 55 seconds][Customer] : Yeah, exactly right.
+[4 minutes 55 seconds][Agent] : W like it's still, it's still happening now.
+[4 minutes 57 seconds][Customer] : Exactly right.
+[4 minutes 57 seconds][Agent] : It's still happening now. But they don't pass it as COVID now. So, you know, you just yeah, yeah.
+[5 minutes 2 seconds][Customer] : Yeah.
+[5 minutes 2 seconds][Agent] : My son, my, one of my sons.
+[5 minutes 4 seconds][Customer] : More of the.
+[5 minutes 3 seconds][Agent] : He well, my, my, yeah, one of my sons. At that time, he was playing rugby league for the Dragons in Sydney. And he was, he he was contracted. He was an history ballplayer for them. He was only 18. But he come back to WA because, you know, he, he, well, he come back to WA and he, he had to, yeah. But because of COVID, he didn't wanna stay out, you know, the way it was. And now he's living, he's still, he's still, he's living here. But he plays league here for South Perth.
+[5 minutes 17 seconds][Customer] : Oh, well, yeah, yeah, yeah. Oh, nice.
+[5 minutes 32 seconds][Agent] : He's an electrician, you know, and yeah, he's done his apprenticeship and that.
+[5 minutes 37 seconds][Customer] : Yeah, nice.
+[5 minutes 36 seconds][Agent] : And so, yeah, that was a big thing.
+[5 minutes 47 seconds][Customer] : Yeah.
+[5 minutes 38 seconds][Agent] : A a lot of challenges for a lot of people and yeah, yeah, I know it was I, you know, back home with my wife, she was a New Zealand hockey player and I come from a sporting background that my uncle was all black captain.
+[5 minutes 51 seconds][Customer] : Oh, I'm not.
+[5 minutes 50 seconds][Agent] : So, you know, and you know, our our family and sport was, you know, really good.
+[5 minutes 55 seconds][Customer] : Yeah, yeah.
+[5 minutes 54 seconds][Agent] : But all my workmates, like my daughter plays NRL, you know, she travels touch it and you know, she's always at Coffs Harbour and bloody touch over East and, you know, playing the league in there and she was in Melbourne not so long ago. They won the Australian league gig competition and and all my mates in mind. Typical, typical bloody Kiwi. They do. And then they say, oh boy, bro, yours, your, your kids are real good at sport. Must be taken after their mum. But look at your little fat cookies and ******* me stomach me. Look at your little fat stomach, you know? Yeah. That's what you get when you that's what you that's what you get when you sit on a bigger or a dozer or a grater for bloody near 20 years. But. But yeah, it's all fun. It's all funny games.
+[6 minutes 38 seconds][Customer] : Well, yeah, yeah, for sure. Well, aren't they? Well, I heard that the NRL are planning to open up what a Perth team potentially.
+[6 minutes 42 seconds][Agent] : Yeah, yeah, yeah. Well, there's all there's, there's there. There should be one in here. But. But yeah, they were talking there, Talking about what's his name? Papa New Guinea Teeth and the government, the Australian government have gone put money into that, you know, because they don't want Papua New, Papua New Guinea to go to go to go side with China or, you know, things like that. But they just keep politics out of sport. You know that that's wrong. That's wrong.
+[6 minutes 59 seconds][Customer] : Yeah, yeah.
+[7 minutes 12 seconds][Agent] : You know, the you know, the the Australian, the NRL needs to branch out. You know, they've got the Warriors, they've got the Auckland Warriors. And what I should say is to my friends back in New Zealand, it's the, it's the wah's here this year. I've been saying that. Well, how many years for them? But yeah, but you know, well, they were looking at another team from the South Island. But then you got WA, you got no, yeah, YY, you need a team, you need Y, you need another cup of teams over Y in Australia, you know, and yeah, yeah, it's pretty. Yeah. I, I, it was my daughter. We went, we October, we went over to Queensland.
+[7 minutes 53 seconds][Customer] : MMM.
+[7 minutes 48 seconds][Agent] : She she had a she got offered a week's training with the Booley Beers, which a feeder club to the Titans women's side and she went to the Titans women's side a couple of years ago when she kept in the the WA state school side.
+[8 minutes 10 seconds][Customer] : Oh yeah. MMM.
+[8 minutes 4 seconds][Agent] : They they played at the played in Brisbane there at the home of the Dolphins and yeah. And then they got taken down to to to the Gold Coast or the Titans training run. And there was a couple of the girls and the team that was a couple of the Kiwi girls and the team were there from Perthier and they were related to a couple of the Titan girls from Kiwi girls from New Zealand. And yeah. So we went over there in October. She had a week's training, but WA Vega trying to keep her here.
+[8 minutes 36 seconds][Customer] : Yeah.
+[8 minutes 33 seconds][Agent] : Well, she they contract you here, but they want to keep her here because they want NRL woman's side and I jumped in there. But she yes, my daughter's got a manager. I try to keep out of it, but I jumped in there and I said, well, hang on a minute. I see you guys still haven't got a Mansa. I said, and you're trying to keep my daughter here, trying to keep her here. We see the faith of the rugby league here, everything that women's league and then she does radio things for them.
+[8 minutes 58 seconds][Customer] : MMM.
+[8 minutes 56 seconds][Agent] : And then and I said, you're trying to no. Well, to me, they're trying to deprive it because she she's you know, she is going to get office.
+[9 minutes 7 seconds][Customer] : Yeah. MMM.
+[9 minutes 4 seconds][Agent] : That like why her manager has told me she will get office from over 8 No, but WA want to try and keep it here. But why keep it here when you haven't even got a woman's side?
+[9 minutes 15 seconds][Customer] : Yeah, yeah.
+[9 minutes 13 seconds][Agent] : You haven't even got a men's side yet, you know, and I'm sure they'll they'll have a men's side before they have a woman's side, you know, if you know what I mean, you know.
+[9 minutes 21 seconds][Customer] : MMM.
+[9 minutes 21 seconds][Agent] : Well, yeah, yeah, it's it's it's like rugby and you know men's rugby first yeah and it's like wig and but you know, it's yeah, yeah, and I I'm a bit Dang looking at the moment. WA rugby league.
+[9 minutes 40 seconds][Customer] : MMM.
+[9 minutes 34 seconds][Agent] : They're trying to trying to keep her here, trying to pay her to stay here when and she's actually said to me, she said, dad, I'm actually thinking about, you know, well she plays, she plays touch too. She plays touch and she's actually been off she's, she's been go, she's going to a trial in February for the New Zealand #23 side. And the trial was actually in, in, in Cross Harbour 'cause there's that many young Kiwi girls playing over here. They're still eligible to play for New Zealand.
+[9 minutes 53 seconds][Customer] : Yeah, yeah.
+[10 minutes 4 seconds][Agent] : And now my daughter's only 19. She was born here. She can actually play for Australia or she made the Australian league tag side and you know, she, she was born here. But oh mate, I got, I got, I got five brothers. And you should have seen the emails I was getting from them, all the messages. What the, if the hell is that and all the rest of it they should make. I said she can play for whoever she wants. And I said she was actually born here. So she's eligible. And but what it was, it was like the IT was like the AFL. It's you have a grand final day and they pick the grand final side. And then that's what they've done in in the league day. They pick the team, but they don't have a game. But it's still good for their CVS, you know, for later on in life. And yeah, and that's what I was trying to explain to my to my big headed, bloody all black brothers. No, because their uncle was all black captain.
+[10 minutes 28 seconds][Customer] : MMM, Yeah, yeah, yeah.
+[10 minutes 50 seconds][Agent] : No, no, all the, all the, all the guys, all our my brothers, all good sports and that and yeah, yeah.
+[10 minutes 58 seconds][Customer] : Well, how do uh yeah.
+[10 minutes 58 seconds][Agent] : And yeah.
+[10 minutes 59 seconds][Customer] : How do they say on the same age friend tonight?
+[11 minutes][Agent] : So, so you know, that's why I yeah, I'm sort of looking after her interests. I'm not, I'm not worried about WA lately. They haven't got a team here yet. And they'll be, they'll be, they'll be looking, they'll be still 3-4 years down the track now this 19. She's got to make up her mind. And that's why she's said to me, she's your dad. I'm thinking about, you know, just doing touch. Well, she plays well. His touch is played just about all year round and yeah, like her, her cousin, yeah, my nephew, like he's an Australian touch. He played for Australia. I've been here since he was, he was born here too.
+[11 minutes 13 seconds][Customer] : Yeah, yeah, yeah.
+[11 minutes 31 seconds][Agent] : But true, he doesn't play, he doesn't play professional touch.
+[11 minutes 36 seconds][Customer] : MMM.
+[11 minutes 34 seconds][Agent] : Now he's he's in his 30s, but they call him Mr. Touch over here. Yeah, he sort of runs all the WA touch and whatnot and and that and all there's all the big touch ornaments have played in Cross Harbour, NSW there and yeah, Oh yeah. And it's good, it's good. It's, it's good. So, you know, that's why, Yeah. I'm actually looking at your thing now. The advert on TV, is it real insurance?
+[11 minutes 46 seconds][Customer] : Yes, Yeah, exactly right.
+[11 minutes 58 seconds][Agent] : Yeah, yeah, yeah.
+[11 minutes 58 seconds][Customer] : Real insurance.
+[12 minutes][Agent] : Purple one.
+[12 minutes][Customer] : Yeah, Yeah, exactly right.
+[12 minutes][Agent] : There's agency they're talking about and she's saying, Charlie, come to us. Yeah, yeah, no, no, yeah, Yeah. So that's what I've done. I just, I look, I know, I know I've got life insurance there. I that's all things. And then I know that that sort of covers, you know, anything, but I just, I just sort of, I'd see what the payments are.
+[12 minutes 20 seconds][Customer] : Yeah, yeah, yeah. And I'm, I'm sorry. Go on.
+[12 minutes 19 seconds][Agent] : I know that's gonna be a wee bit more for it because of me age, but it's to be expected, you know, and what I was, what, what I know and what I was, what I would have, what I, what I will do. But I suppose you've got to get here 'cause then is my wife. Do we SH my, you know, my wife, she's 58. So, you know, and but yeah, I just just wanted to see what sort of price range I was looking at.
+[12 minutes 42 seconds][Customer] : Yeah, yeah, no problem at all. I'm more than happy to take you to the cover. Now, before I do continue, just want to confirm full name was Charles Norton, correct?
+[12 minutes 50 seconds][Agent] : Yeah. Charles.
+[12 minutes 51 seconds][Customer] : Yeah.
+[12 minutes 51 seconds][Agent] : Richard Norton.
+[12 minutes 52 seconds][Customer] : Marlton. And your date of birth was the 11th of the 5th, 1961 there, correct.
+[12 minutes 56 seconds][Agent] : Yep, Yep.
+[12 minutes 57 seconds][Customer] : Perfect.
+[12 minutes 56 seconds][Agent] : Then at the main.
+[12 minutes 57 seconds][Customer] : And Yep, just the funeral cover you were looking at.
+[13 minutes 1 seconds][Agent] : Yeah, yeah, Yeah. Well, I think we, I, I don't know. I I know we got life insurance. I don't know whether it's with you or you know. Yeah, yeah, I don't know My wife, Well, she do, she does all this, but I'm the only one home. And I was just sort of this is what I do. I I come home and because I'm using the first day at home, I'm using fatigue and then, you know, being away for two weeks, I don't do a hell of a lot.
+[13 minutes 2 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[13 minutes 23 seconds][Agent] : I usually get on my phone and stuff things up. She tells me, She says to me, she goes, Oh yeah, I got hacked once. She says it's because you press all those things. You don't, you know, you don't do this, you don't do that. And I said, ah, Jesus Christ. And you know, she she goes on about things like that and she goes, she said, and I said, and like the compu, the computers and all that, the I say, I say it's just me age and even the phone, I say it's me age. I'm not used to this ****.
+[13 minutes 54 seconds][Customer] : Yeah.
+[13 minutes 50 seconds][Agent] : And because my daughters, when they were living it home, they used to do everything for me on computers and it and my wife, she she says, and she looks at me phone and she goes, yeah, she says, you have all this **** on there and she deletes it all. She says, I know one thing. I know a couple of things you got there that you know how to get on there. I said, what's that? She says Dan Murphy's and BWS apps and I said, well, that's because you, because you work at Woolworths, darling, with my wife's Woolworths and Woolworths owns Dan Murphy's and BWS and we get an extra discount on them. And that's why I got their apps. I said, oh, you know, I said they're your work apps. I said they're not my apps.
+[14 minutes 27 seconds][Customer] : Yeah.
+[14 minutes 26 seconds][Agent] : I know you're not dumb. You just make out you're dumb. You don't want to. Yeah, well, I shouldn't be dumb, but I, I, I do a GPS and do I operate a $8 million bigger and I haven't dropped the rock on a on a truck yet. So hey, hey, we wait gay here though there's a few St. trucks. I wouldn't mind dropping rocks on some of these like an idiot truck drivers.
+[14 minutes 51 seconds][Customer] : Don't want to push the buttons too much?
+[14 minutes 53 seconds][Agent] : Yeah. Nah, Nah, yeah, no, no. Oh, you sit there. You sit there. Yeah. You know, especially backing under the teeth and on the teeth or something like that. And yeah, you only have to turn around and back under. You don't have to go 100 metres down a rugby field and start backing up. But.
+[14 minutes 53 seconds][Customer] : You don't want your phone.
+[15 minutes 11 seconds][Agent] : Oh, well, Hey, hey, people. You, you all started. What? You all started fresh. You know, I started, you know, when I first started mining. But yeah, I was a train driver before I was a miner and buddy. Yeah. So you've got to start at the beginning. But yeah, I see some of these guys. I know a couple of them in two years and this you think they're still at the beginning, but they're good. Yeah. Good fellas as well, you know, injure people and, you know, that's the main thing. That's the main thing.
+[15 minutes 31 seconds][Customer] : Yeah, yeah, exactly right.
+[15 minutes 36 seconds][Agent] : And yeah, our boss Will I got we got no worry about our boss will be our boss as a rich person in Australia, mate. She she pays for our medical insurance, everything. Mrs. Reinhart. Oh, Gina. And yeah, she. I draw your mind. So that's our boss. Yeah. Yeah.
+[15 minutes 52 seconds][Customer] : Oh, nice, nice, nice, nice.
+[15 minutes 53 seconds][Agent] : Well, she sponsors the Olympic swimming team, doesn't she?
+[15 minutes 57 seconds][Customer] : Oh well.
+[15 minutes 57 seconds][Agent] : Bloody yeah, yeah, yeah, I know. She's, yeah. Richest person in Australia. But he. Yeah, yeah, yeah, I know.
+[16 minutes 4 seconds][Customer] : Uh, look, umm, yes, with regards to that, umm, look, umm, I understand you. Did you still want to go through the funeral insurance cover and did you want me to explain it there?
+[16 minutes 15 seconds][Agent] : Yeah, I just wanted, yeah, I just, I just wanted to get, get a price on it, a, a quote on it and then and then we'll take it from there and I'll ever talk to my wife. Well, you know, we SH we'd get her one too. So, you know, you can't can't get one.
+[16 minutes 16 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[16 minutes 28 seconds][Agent] : You can't get one without, you know, one or the other then.
+[16 minutes 31 seconds][Customer] : No problem.
+[16 minutes 32 seconds][Agent] : Yeah, yeah, yeah, I know, I know we've got life insurance and that so we, we, we're actually covered in that way. But I just thought, well, people do have life insurance and funeral insurance. So they.
+[16 minutes 43 seconds][Customer] : I'm unable to give advice on whether people carry both, but look, I wouldn't be, I wouldn't have the accurate information to provide to you.
+[16 minutes 53 seconds][Agent] : Yeah, I know. That's fine. That's fine. No, that's fine. That's fine. At least you're not a car salesman and say yeah, yeah, yeah, yeah. You have both brakes. You can. Yeah.
+[16 minutes 54 seconds][Customer] : So yeah, yeah, yeah, I'd rather be. I'd rather be really up front with you, yeah.
+[17 minutes][Agent] : That one's a bitter at least you at least you straight up, you know, car sales when they, they, they tell you if a car had three wheels on it still had four. I, I used to laugh over his yeah, yeah. I go to a car sale though, and they say, Oh yeah, they, they just ******* idiots. They, they come over to you and they here you go. And it was Nah, Nah, Nah. And you know, me being a traditional guy, I go on my shorts and T-shirt and that and you know, I earn 180 odd $1000 a year at a mine site and they look at you, what do you do for job? And I said, Oh yeah, I, yeah, drive a digger. And they said, oh, wee, wee. I said, oh, you know, I they said, oh, you're firefighter Then, oh, then it all changes. They start going from from the little $20,000 car to, oh, these ones over here, sixty $70,000. And one idea one day he, he just pushed me off that much. He was just, he was just an arrow. He says, Oh yeah, He said, what sort? What are you after? And I said, oh, actually, I'm actually looking for an ice cream. I was looking for an ice cream shop. He he just ****** me off. I just yeah, my wife says the mystery. He says don't get this much. I said no, you know, I know they've got a job to do. But you know, I I just say, look, mate, if I see something like I'll come and get you. Yes.
+[18 minutes 5 seconds][Customer] : Yeah, yeah, yeah. So.
+[18 minutes 20 seconds][Agent] : You know, don't, don't, don't follow me around and start, you know, talking to the wife about how you know how nice today it is and all this ****. I said don't try and Pansy that way. I said it doesn't work with me. Yeah.
+[18 minutes 31 seconds][Customer] : Yeah, look what what I'll do here. I'll, I'll explain the my features and benefits. I can run through some pricing options with you as well.
+[18 minutes 38 seconds][Agent] : Yeah, yeah. No, that's fine. That's fine.
+[18 minutes 38 seconds][Customer] : OK, now with regards to our cover, it's designed to provide a cash benefit of up to $15,000 to your loved ones when you pass away. They can use the funds not only for funeral expenses but also any other final expenses like unpaid bills. Now you can nominate up to five beneficiaries to receive the nominated benefit amount, and if that is due to an accident, your chosen benefit will triple as well. OK, now, uh, it is easy to apply. There are no medical checks for an Australian resident aged between 40 and 79. Acceptance is guaranteed. OK.
+[18 minutes 47 seconds][Agent] : Yeah, yeah.
+[19 minutes 11 seconds][Customer] : Now Charles, just so you know, if you were to suffer an accidental serious injury such as quadriplasia or para paraplasia before the policy anniversary following your 75th birthday, the benefit amount will also triple. Now for the 1st 12 months, you will be covered for accidental death and accidental serious injury only after the first 12 months.
+[19 minutes 30 seconds][Agent] : Yeah, can you hold on a second? I just sent in this TV down.
+[19 minutes 34 seconds][Customer] : Yeah.
+[19 minutes 33 seconds][Agent] : We we're here on the same. You're exactly what you're saying. It's on the TV right now, real insurance 13160 twenty O 27 and I'm listening to you and listening to you at the same time. Yeah, you're right now, man, I've seen it. Yeah, so good.
+[19 minutes 43 seconds][Customer] : Oh wow, yeah easy. So I'll reiterate that one. So for the 1st 12 months you will be covered for accidental death and accidental serious injury. Only after the first 12 months you will be covered for death due to any cause. In addition, there is a terminal illness benefit, which means after holding your policy for 12 months, if you were diagnosed with a terminal illness with 12 months or less lived by a medical practitioner. We pay your claim in forward to help you with things like medical expenses, OK? Now with, with regards to the coverage of the charge Charles, you can choose between $3000 up to $15,000. And a couple of things to note, your premiums are designed to stay the same as you get older and when you reach the age of 85, your premiums will cease. So you'll have nothing more to pay and you'll also automatically receive a 25% bonus cover. Now this will be applied to the benefit of me, OK? You can also find information about our premium instruction on our website there.
+[20 minutes 14 seconds][Agent] : Yeah, yeah, yeah, yeah.
+[20 minutes 40 seconds][Customer] : Look, another thing to note here as well, Charles is umm, your cover also provides you with an early cash out option. So at any time after you reach 85 years of age, you can choose to end your cover and we will pay you 75% off the funeral insurance benefit. OK, now I understand you.
+[20 minutes 55 seconds][Agent] : Is it the benefit of what you're, what you're what you've like say 15,000, you get 75% of that? Is that right? Yeah, yeah.
+[21 minutes 3 seconds][Customer] : Yeah, so, so if so at so this is a catch up option that you're referring to. So at any time after you reach 85 years of age, you can choose to end your cover and we pay you 75% of the funeral insurance benefit.
+[21 minutes 16 seconds][Agent] : No, I, yeah, yeah. No, I get that.
+[21 minutes 17 seconds][Customer] : Yeah, Yeah. Now look, with regards to that, umm, let's go through a bit of pricing together, OK.
+[21 minutes 17 seconds][Agent] : Yeah, yeah.
+[21 minutes 22 seconds][Customer] : Now, as I mentioned, uh, the level of cover ranges from $3000 up to $15,000. Now, Charles, what benefit of that would you like me to look out first yourself?
+[21 minutes 32 seconds][Agent] : Oh, I thought I'd, I thought when I'd done it this morning, was it. I thought I put, I, I thought I put 200,000.
+[21 minutes 40 seconds][Customer] : So that's for the life insurance policy. Did you want to go through the life insurance policy? Did you?
+[21 minutes 38 seconds][Agent] : I thought yeah, No, no. That was the funeral when I was looking at. I must be able when you were saying 15 and now I'm looking on here. Yeah, yeah. And yeah. No, That's, that's that's that's, yeah, that's fine. The funeral one's good.
+[21 minutes 47 seconds][Customer] : Yeah, yeah, yeah.
+[21 minutes 56 seconds][Agent] : That's as good as gold. But I know we've got life and. And I'd have to have a look with. I know the wife's got it here somewhere. Whether it's with you guys or whether it's someone else, I'm not quite sure.
+[22 minutes 2 seconds][Customer] : Yeah, yeah, yeah, that's completely fine. I do want to let you know that like, umm, with regards to the policy that you currently hold.
+[22 minutes 6 seconds][Agent] : Yeah, yeah, yeah, yeah. No, no, this is the, this one I've got at the moment is a life insurance. It's not a funeral. It's not a funeral. This is what I, I was looking at the funeral one. That's what I was looking at.
+[22 minutes 12 seconds][Customer] : So if you are replacing an existing policy, we recommend that you do not cancel it until your application is approved and you have reviewed this policy in full as it may not be identical to your existing cover and also OK, Yeah, OK. Yeah, just, yeah, just something just to let you, I'll finish this paragraph here. So you should also consider the benefits that may not apply or waiting periods that may start again. But look, with regards to the funeral insurance, that's something that you're still happy to look at there, right?
+[22 minutes 32 seconds][Agent] : And yeah, yeah, yeah, yeah, yeah.
+[22 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[22 minutes 48 seconds][Agent] : That's what I sort of wanted to sort of wanted to have have a look just to get a price of what it was worth because it was I, it was, I don't think I'd ever change my life because it was, we've been been saying at me for years and I know we haven't. Yeah.
+[23 minutes][Customer] : Yeah, that's one. Easy.
+[23 minutes 2 seconds][Agent] : And I wouldn't want to go do that and.
+[23 minutes 4 seconds][Customer] : No problem. Now, what's the cover? Was it you were looking at a joint policy for yourself and your wife there, correct?
+[23 minutes 10 seconds][Agent] : Yeah, yeah. But I could only put my name down when I done it this morning.
+[23 minutes 13 seconds][Customer] : Yeah, I can adjust this one to look at a joint policy now. I just need to collect a few details here. Now, what was your partner's first name and surname there?
+[23 minutes 14 seconds][Agent] : Yeah, it's me, Michelle Louise Jennings. Na. Michelle Jennings Norton. Yeah, She doesn't use her second name. She just uses her maiden name.
+[23 minutes 31 seconds][Customer] : Yeah, that's one.
+[23 minutes 31 seconds][Agent] : Yeah, I know what you're gonna ask me and I'm gonna go try and find it. I know her birthday's on the 8th of May. I think it's 9. I know it's because mine's on the 11th. That's why the 8th of May. I always buy her a good present. I've done it for. I've been married 33 years.
+[23 minutes 33 seconds][Customer] : OK, nice.
+[23 minutes 46 seconds][Agent] : And I know I get AI get a good present on the 11th. Oh, no, I'll go get you. I'll give you the passport. This I'll do.
+[23 minutes 53 seconds][Customer] : Yeah. What? What's her? What's her date of birth again? The 8th of the 5th.
+[23 minutes 53 seconds][Agent] : Yeah, it's eight, 8th of May. But I'm just trying to look at the year. I think she's 5857. I've got it right here. I've got the passport right here is. I can't go get this wrong, mate, but I I will be needing a funeral, insurance. I I'm only saying this because she's not home. She's at work. You never you never say these things in front of your wife. But hang on. I feel ya. Parcel Unsalt. Unsalt. Yeah. She's 58 or 57, eh?
+[24 minutes 3 seconds][Customer] : Yeah, yeah, yeah, 57.
+[24 minutes 26 seconds][Agent] : Hang on. Here. Here. I know it's been. Unless my daughter. What's this one? Here? It is Michelle Louise Jennings Norton. And her birthday is the 8th of May, 1967. Yeah.
+[24 minutes 45 seconds][Customer] : 1967 perfect.
+[24 minutes 47 seconds][Agent] : So what does that make you, 57? Yeah. Yeah, I was right. Jesus Christ. Thank God.
+[24 minutes 49 seconds][Customer] : Uh, 57, no problem. And I just wanted to confirm 11 last detail there.
+[24 minutes 57 seconds][Agent] : Yeah.
+[24 minutes 56 seconds][Customer] : Uh, Charles, to the best of your knowledge, can I get you to confirm that, uh, Michelle is female and gender and an Australian resident there, Correct. Yes or no?
+[25 minutes 3 seconds][Agent] : Yep, Yep, yeah. Australian resident.
+[25 minutes 6 seconds][Customer] : Yep.
+[25 minutes 6 seconds][Agent] : Yep, that's right.
+[25 minutes 7 seconds][Customer] : Perfect. OK. OK, so umm, we are up to the stage now between $3000 up to $15,000. How much do you feel like UMM would be beneficial? That will cover your funeral there. Yeah.
+[25 minutes 32 seconds][Agent] : Well, $15,000 would be because I, I know it costs a lot of money to take people back home to New Zealand.
+[25 minutes 39 seconds][Customer] : Yeah. So 15,000 each. Sorry. Yeah. OK. So I'll give you the breakdown for yourself as well as Michelle.
+[25 minutes 39 seconds][Agent] : And Yep, Yep, Yep.
+[25 minutes 48 seconds][Customer] : They're OK now for yourself there, Charles.
+[25 minutes 50 seconds][Agent] : You're, you're you're going to send this all to me, do I?
+[25 minutes 52 seconds][Customer] : Yeah.
+[25 minutes 52 seconds][Agent] : So I can. Yeah, yeah, yeah. I don't, I don't want to sit here. Just try and write it down.
+[25 minutes 53 seconds][Customer] : Yeah, I'll spend, yeah, No, that's fine. I'll send it to you. Uh, but I'll, I'll, I'll call you now. Now $15,000 for yourself there, Charles. Uh, you are looking at a fortnightly premium, $50.31 per fortnight, umm, for Michelle for $15,000 of cover. Umm, the fortnightly premium is $39.33 per fortnight.
+[26 minutes 18 seconds][Agent] : 90 bucks, 90 bucks for four months, Alright, that's, that's alright.
+[26 minutes 16 seconds][Customer] : So as a total, uh yeah, yeah, yeah.
+[26 minutes 22 seconds][Agent] : I, I, I was expecting something, you know, in the 200 mark that's, that's bloody and and that's, that's, that's like we can't die in the 1st 12 months.
+[26 minutes 34 seconds][Customer] : No, no. So for the 1st 12 months, you're, you're actually covered for accidental death and accidental serial.
+[26 minutes 33 seconds][Agent] : That's more or less, Yeah, Yeah. Excellent death and that. Yeah, I yeah, I got. But yeah. But if you just die of natural causes, it's yeah, yeah.
+[26 minutes 40 seconds][Customer] : Yeah, yeah, umm, after 12 months, that's where you're covered there. But.
+[26 minutes 48 seconds][Agent] : So if I, if I died of natural causes, I'd make sure I'd do so. I I'd put a knife beside me if I died. DA I already joking mate, didn't do it like that?
+[26 minutes 58 seconds][Customer] : That's fine. Umm, look, I do want to let you know that he's charged so you may pay more in total premiums over the life of the policy than the benefit amount. Please be insurance does not have a savings or investment, so if you cancel outside of the 30 days, your cover will stop and you'll not receive anything back. OK, Now, Charles, are you there?
+[27 minutes 16 seconds][Agent] : Yeah, yeah, yeah, I'm listening.
+[27 minutes 17 seconds][Customer] : Yeah, yeah. Uh, yeah.
+[27 minutes 17 seconds][Agent] : I'm I'm, I'm actually, I'm still, I'm still quite, quite intrigued, quite intrigued how, how cheap it is because I thought, I honestly thought it would be a lot more and, and yeah, yeah, that, yeah, it's just, well, I'm 63, I think touch wood. Well, that's stable now. Hoping that, that I don't die within 12 months.
+[27 minutes 35 seconds][Customer] : Yeah, Yeah.
+[27 minutes 39 seconds][Agent] : Yeah, yeah.
+[27 minutes 39 seconds][Customer] : Hello, umm with regards with regards to the cover look umm because you are happy with the $15,000 age of cover look I what I can do for you, I can get you covered over the phone today. I will send you all the policy documents to review with your wife. Now the policy gives you a 30 day cooling off.
+[27 minutes 55 seconds][Agent] : Yep.
+[27 minutes 55 seconds][Customer] : So if you the policy is not suitable for you and cancel within the 30 days then you will receive a full refund of your premium unless the claim has been made now. So apply for the cover. You're not required to pay anything today. We actually let you select the payment date of your choice. So are you happy to continue with that that option?
+[28 minutes 11 seconds][Agent] : Well, well, at TH that price, I I'm really, I'm really happy. I I, I, I should really. Washington. She didn't finish week at 1:00 1-30. But I don't want to have to ring back and go for it all again.
+[28 minutes 18 seconds][Customer] : Mm hmm, yeah, yeah.
+[28 minutes 21 seconds][Agent] : I reckon she'd be, you know, well, put it this way, if I do it. Yeah, it's that and it's the benefit us. It's not, it's not to not benefit us or well, it's more to benefit like the kids than that age if anything happens to both of us.
+[28 minutes 28 seconds][Customer] : Mm hmm mm hmm yeah. So you.
+[28 minutes 37 seconds][Agent] : So yeah, yeah, that's what I'm looking that that's what I'm yeah, you can probably tell that it through life I've been a bit of a it can be a bit of a clown. But as I'm getting older, I'm getting a bit, I'm getting a bit wiser too. But it's taken 63 years to get a bit wiser.
+[29 minutes][Customer] : MMM.
+[28 minutes 53 seconds][Agent] : But my uncle, but my uncle the all that, when he was all that captain, he died last year at Carne Norton and he was president of the New Zealand Rugby. You know, I always remember years ago he'd come and said, well, I got sad, six older brothers, I've got 5 now. But he'd come home, come up home, Kaikoda. And you know, having a be of dad and talking away there. And then he goes, he says you boys, and he pointed at me. I'm not, I'm not gonna try and thing myself or anything, but he pointed at me. He says he's ****** for you. He said you could have gone a long way. Well, that's How I Met my wife in sport. Well, she was a New Zealand hockey player and we met, we met through sport.
+[29 minutes][Customer] : MMM, yeah.
+[29 minutes 29 seconds][Agent] : And he says there's only two things that stopped you boys. And we looked at her and said, what's that? Ugly and the first thing he said was that the you know, glass a beer in his hand. He says that and then he touched down between the general. He says the beer and the power of the *****.
+[29 minutes 51 seconds][Customer] : Yeah. MMM. MMM.
+[29 minutes 46 seconds][Agent] : I shouldn't say that on, on, you know, but, but, but we just cracked up, you know, but not only, it happens to a lot of young, young talenters, you know, not just Kiwi, because I, I, I've worked with in mining for a long time and I see some young talented, bloody Aboriginal basketballers and you know, bloody but they get homesick. Friend of mine, mate of mine that lives in Broome, His son got sent to Melbourne.
+[30 minutes 14 seconds][Customer] : Oh, wow. MMM.
+[30 minutes 10 seconds][Agent] : He was on, he was on a scholarship, but he got homesick and went back, you know, things like that. And the same as over here when they had the Super League here, a mate of mine, his son come over here at 17.
+[30 minutes 23 seconds][Customer] : Yeah.
+[30 minutes 21 seconds][Agent] : He was picked up by the pulling by the Western Reds, but he got homesi. He got homesick. And yeah, yeah. That it's what happened to a lot, a lot of, you know, and especially in New Zealand, too, a lot of talent over there.
+[30 minutes 35 seconds][Customer] : MMM. Yeah.
+[30 minutes 32 seconds][Agent] : But it's just, it's the affordability of families to pay for it, you know, It's a shame, but but that's just the way things, that's the way things are, you know?
+[30 minutes 40 seconds][Customer] : MMM.
+[30 minutes 40 seconds][Agent] : And people always say to me like, you go back home and it seems to say dear over there now. But you know, to me, home's still home. I don't care. You know, home's still home.
+[30 minutes 48 seconds][Customer] : Yeah. Hmm. Mm.
+[30 minutes 48 seconds][Agent] : And you know, a lot of people come over here, come over here to better yourself and that, you know, and we have our kids. We got 4 kids, you know, I got, I got 4 grandkids and you know, and our kids have done well. I have arguments with Kiwis on mine site, you know, they go, oh, homes, you know, yeah, I said, mate, my kids are being a lot. My, my son's a shot fire underground shot fire. He's on $1100 a day. My other son's an electrician, my daughter's age. I said they're not saying they wouldn't do it in New Zealand, but they get more opportunities. Yeah. And it's the way it is. But at the end of the day, home's still home for me. I'll. I'll always get buried back home. And that's just the way it is. And that's why I know how much it costs to send people back home for funerals.
+[31 minutes 25 seconds][Customer] : Yeah, yeah, yeah.
+[31 minutes 30 seconds][Agent] : And, you know, especially if you haven't got the fund, it costs a lot of money.
+[31 minutes 36 seconds][Customer] : Hmm.
+[31 minutes 35 seconds][Agent] : And and that's why I was, I've actually been thinking about it. But I, but you know, I'm a typical male. I try to ignore it as you, but as you get older, you, you sort of think about it a bit more and. Yeah, yeah. And you, you don't want to leave stress on your kids for me. And that's, that's the one thing, right.
+[31 minutes 44 seconds][Customer] : Yeah, yeah, yeah, yeah. I understand where you're from.
+[31 minutes 51 seconds][Agent] : And I'm, I'm quite happy. I'm quite happy to do it with you today. You know, I am quite happy to do it with you today. And. Yeah, but.
+[31 minutes 55 seconds][Customer] : Yeah, yeah, it's it's my pleasure man, and I and I did it. I do enjoy umm, I did enjoy your conversation there. Umm and it is good. Do you have like you do have a plan to make sure that you do end up in New Zealand? It's good that you are, you are planning for that. So uh and mm Hmm.
+[32 minutes 14 seconds][Agent] : Yeah, well, yeah, it's just, it's just the way I've been brought up. Yeah, I come from big family back in back in our days, you know, multi families back home, especially when you get a multi family. There's fourteen of us. Mum and dad had 14, you know, 14 kids. And my dad was a hard worker. He we come from a S Island, New Zealand place called quite or he was a train driver. Plus we had a bit of a farm, you know, we had cheap cattle on it. Well, they had to with the fetus and, you know, and and, you know, we could live off the land. We could go down the beach and get kit crayfish piles, kinners or we'd go up the hill. We get venison, what you know, wild pork and things like that. You know, we you could live off the land there. But the government needs that many rules. You got it. Yeah. You, you know, you get treaty rights and all that. But yeah, I don't want to get into that. That kind of type of stuff was Dad always said to us as long as you got land, you got manner.
+[32 minutes 48 seconds][Customer] : Yeah, yeah, yeah.
+[33 minutes 2 seconds][Agent] : And he just says, he says and the man you get is the land you pay for. He says you don't go get, you know, you know, A&Y, you got to earn. You got to earn what you get. And that's what my father said. That was his motto. You said you earn what you get. And yeah, that's how we've been brought up. You know, we don't steal. You don't. Yeah. And things like that. Yeah. That's just the way.
+[33 minutes 24 seconds][Customer] : Yeah.
+[33 minutes 23 seconds][Agent] : Yeah, that's just the way I do it. But but that's. But that's like big families in New Zealand and a lot of people, you don't get it these days because people can't afford it.
+[33 minutes 25 seconds][Customer] : Yeah, yeah.
+[33 minutes 31 seconds][Agent] : And you know, like people say, oh God, didn't your father have TVI said yeah, but he just didn't like the channels, just things like that. All all it comes from a sporting family. Dad wanted his own all black team. Yeah. But it's all, it's all good. It's all good.
+[33 minutes 59 seconds][Customer] : None.
+[33 minutes 51 seconds][Agent] : And, you know, and when you got big families like mum, when mum died 20 odd years ago, mum and dad died, they had 202 hundred, 200 grandkids and great grandkids then. You know, that is, yeah. That's why I say, well, that's why I say, yeah, I, I could not go home to every one of my rally's funerals because I'll be going home every second week. I go home to immediate family, to brothers and sisters and niece and nephews. That's it, You know, and yeah, that's just the way it is. You know, it's not, it's not good, not nice.
+[34 minutes 10 seconds][Customer] : MMM yeah, yeah, just go back and forth.
+[34 minutes 20 seconds][Agent] : But that's just, you cannot afford to, you know, you know, you, you'd be, you'd be, yeah, I'd, I'd have to buy a plane, have my own plane at the airport and just, yeah, just go back and forth, go backwards. Oh, and, and you see the mouldy, they call it funeral. There's a tunny and, and, and, yeah. And a honey is a big feat. So I'd be going back every week for a tuning and a honey. But. But we better carry on, mate, because I don't want to waste any more of your time.
+[34 minutes 46 seconds][Customer] : Oh, no, that's all good.
+[34 minutes 51 seconds][Agent] : You probably think this guy's, this guy's out of it.
+[34 minutes 54 seconds][Customer] : No, it's been good fun. It's been good fun.
+[34 minutes 56 seconds][Agent] : Yeah.
+[34 minutes 56 seconds][Customer] : Look, I just wanted to reconfirm, you're happy to continue getting yourself and your wife, they're covered, correct?
+[35 minutes 2 seconds][Agent] : Yes, I are. Yes, yes, yes. And she she she was, yeah, $90.00 a fortnight. That's that's that's no problem. And I can, I can, I can set that up all up today. I wish my I wish my look, I need a card, don't I? I got a card here. What?
+[35 minutes 8 seconds][Customer] : Yeah, Yeah, yeah, yeah, yeah, yeah.
+[35 minutes 16 seconds][Agent] : My payday, wouldn't it?
+[35 minutes 17 seconds][Customer] : So you can, yeah, you can do it on the card or you can do a base bank account number. It's completely up to you.
+[35 minutes 21 seconds][Agent] : Oh, what, what, what was the other one you were talking about?
+[35 minutes 20 seconds][Customer] : But I do want to add the base bank account number.
+[35 minutes 26 seconds][Agent] : Oh yeah, I know. I hear you talk about that. I don't get, I don't get involved in that. I don't even know the pin numbers. No. Yeah.
+[35 minutes 28 seconds][Customer] : Yeah, that's fine. That's fine. That's that's part of this day and night, eh?
+[35 minutes 32 seconds][Agent] : Well, well, everything, everything you get everything I tap everything you tap, you tap rid of everything packed and well, it is Well, even when Cobit was on was I know Woolworths, they, they allowed $200 to to you could tap $200.00 and. And so that was alright.
+[35 minutes 53 seconds][Customer] : Yeah.
+[35 minutes 52 seconds][Agent] : And of course, I used to go to the supermarket.
+[35 minutes 57 seconds][Customer] : Hmm.
+[35 minutes 55 seconds][Agent] : Yeah, I take my daughter with me and I don't know, do that scanning **** and all that stuff. And I know it's easy to live well. Why she works at Woolworths. She's she's online manager. And anyway, so after COVID, this is just a little short story. I went to Woolworths and I got stuff from the girls there. Oh, I tell you, how you going? I hear you're good. And I got to stop it. It was over 100 bucks. It was in COVID. It was €200 and it was over 100.
+[36 minutes 8 seconds][Customer] : Yeah, yeah, Yeah.
+[36 minutes 23 seconds][Agent] : And I went to tap it and he goes, oh, you got to put pin. I said, oh, you better go get your boss without it. I mean, I don't know any pin number.
+[36 minutes 32 seconds][Customer] : Well.
+[36 minutes 32 seconds][Agent] : Here they go. Here they call for my wife to come to the counter and she goes, what have you done? I said. I said I gotta use a pin. I said I thought it was $200. She said it was during COVID, but now we're going back to 100. And I said, well, it's $101.00. And the girl, all the girls, they were just passing themselves. They they were passing themselves. And they just say, ah, yeah. So yeah, she's come and sorted it all out.
+[36 minutes 52 seconds][Customer] : Yeah, yeah, yeah. Perfect.
+[36 minutes 58 seconds][Agent] : But but no, no, no. What? Yeah, I'll be, I'm happy to do it. And can I get it? Can I get it taken out fortnightly? Do I get paid fortnightly? But we'll, yeah, we'll sort that out. Sort that out with me. Yeah. What do I need to do right now?
+[37 minutes 2 seconds][Customer] : Yeah, yeah, yeah, Before, yeah yeah, no problem. So I just wanted to confirm before, uh, just to make sure I don't send uh, any details or anything like that to the wrong person. I just wanna confirm a bit of details with your first. Their child's now. Umm, your address was 20 W Linton Circuit.
+[37 minutes 27 seconds][Agent] : No, no, no.
+[37 minutes 28 seconds][Customer] : Yeah, OK.
+[37 minutes 29 seconds][Agent] : It's 57 Oakwood Crescent.
+[37 minutes 31 seconds][Customer] : 57 Oakwood Crescent.
+[37 minutes 33 seconds][Agent] : Yeah. Oakwood. Yeah, yeah. God, that that must be an old we we might have life insurance reviews. It's it's like a old, old address. Yeah. I'm just looking at my license. I know where we live. I should know that. Yeah. Yeah.
+[37 minutes 33 seconds][Customer] : Yeah, OK, Yeah, yeah, OK.
+[37 minutes 48 seconds][Agent] : It is something simply 7 Oakwood. Oakwood Crescent, Waikiki, WA 6169.
+[37 minutes 54 seconds][Customer] : 57 Oakwood Crescent. Sorry. Yep.
+[37 minutes 56 seconds][Agent] : Yeah, Oak, Oakwood, WOOD Crescent, Waikiki, WAWAIKIKIWA.
+[38 minutes 5 seconds][Customer] : Yep.
+[38 minutes 6 seconds][Agent] : And it's 6169.
+[38 minutes 8 seconds][Customer] : Perfect. Is that the same as your postal address there? Yep, Perfect. Now. OK, that one's all updated. Now I just want to reconfirm. Your best phone number is 0429545517.
+[38 minutes 10 seconds][Agent] : Yep, Yep, 04042. What does it mean for 042?
+[38 minutes 26 seconds][Customer] : Yep.
+[38 minutes 27 seconds][Agent] : Do you got me thinking? 04? What'd you say? 04 in in 5517.
+[38 minutes 33 seconds][Customer] : Uh, uh yeah.
+[38 minutes 41 seconds][Agent] : Yep. That's it.
+[38 minutes 35 seconds][Customer] : Ends in 510429545517 Yep, perfect.
+[38 minutes 42 seconds][Agent] : Yeah, That's my number. That's my number.
+[38 minutes 43 seconds][Customer] : Easy and easy.
+[38 minutes 49 seconds][Agent] : Yep, That's right.
+[38 minutes 45 seconds][Customer] : Just to confirm, your e-mail was charlie.michelle@hotmail.com Yep, perfect. And your date of birth was the 11th of the 5th 1961, correct?
+[38 minutes 54 seconds][Agent] : Yep. Yep.
+[38 minutes 54 seconds][Customer] : Yep, perfect.
+[39 minutes 7 seconds][Agent] : Yeah. Can I do it? Can I start at next pay? Next fortnight?
+[38 minutes 55 seconds][Customer] : Now look what we can do umm, what I will do is I will just uh collect your payment details now I just wanted to confirm you wanted to do a fortnight work Yeah Yeah more than hap yeah yeah more than happy to do that.
+[39 minutes 11 seconds][Agent] : Yeah, yeah, yeah, yeah. I get, I get paid.
+[39 minutes 13 seconds][Customer] : OK yeah that's fine uh to experience tomorrow. So that would be the 30th.
+[39 minutes 15 seconds][Agent] : I get paid fortnightly and so what's a, what's 2 weeks from Tod from yesterday, from tomorrow or today, tomorrow, Tuesday, the 30th.
+[39 minutes 27 seconds][Customer] : Are you happy with the Yep.
+[39 minutes 29 seconds][Agent] : Yeah, yeah, Yep, yeah, that's fine.
+[39 minutes 30 seconds][Customer] : Are you happy with the 30th?
+[39 minutes 30 seconds][Agent] : Because, and is that, is that the $90.00 or do I have to pay extra or anything? Or is that, is that the $90.00 or do I have to pay extra or anything?
+[39 minutes 37 seconds][Customer] : What was that?
+[39 minutes 37 seconds][Agent] : Or is that is that the $90.00 or do I have to pay extra or like?
+[39 minutes 38 seconds][Customer] : Sorry, No, no. So that's the, uh, fortnightly premium. So the fortnightly premium, I'll reconfirm it for $15,000, uh, of carbon H for yourself and your wife. It's $89.64 per fortnight.
+[39 minutes 49 seconds][Agent] : Yeah, yeah, yeah, I, yeah, I just ran it off at 90. Yeah. So that's all I that's all. I'll pay the four, the $489.
+[39 minutes 54 seconds][Customer] : Yeah, yeah.
+[39 minutes 58 seconds][Agent] : Yeah, I don't have to pay extra or anything like that.
+[40 minutes][Customer] : No, no, no, no.
+[40 minutes][Agent] : I just I can tell you. Yeah, no, that's fine.
+[40 minutes 2 seconds][Customer] : There's no penalties or anything like that. Yeah.
+[40 minutes 3 seconds][Agent] : That yeah, that's fine.
+[40 minutes 5 seconds][Customer] : Umm, with the 30th.
+[40 minutes 7 seconds][Agent] : Yeah. The 30th and we get paid every every. Fortnight on the on Thursday. Oh yeah. So. So the next one up that'll be here. Yeah. And don't don't worry about my boss. She's she's not short of cash. She's the richest lady in the Florida. And if there's something wrong with our pay doesn't go in. I think all the time I've been mining, mining for this. Oh, it might have happened once. I it might have been a good. Oh no, it was a bank thing. It was a bank thing.
+[40 minutes 8 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[40 minutes 32 seconds][Agent] : The bank.
+[40 minutes 32 seconds][Customer] : Uh, yeah, Yep.
+[40 minutes 32 seconds][Agent] : Yeah, yeah, yeah. Because I could buy a bank with the NAB. So yeah. And yeah.
+[40 minutes 35 seconds][Customer] : Yeah, umm, look, Charles there, I'll just confirm. So first collection day 30th of the 1st 2025 and it'll be every fortnight on the Thursday after that.
+[40 minutes 43 seconds][Agent] : Yep. Yep.
+[40 minutes 43 seconds][Customer] : Now, umm, in saying that you wanted to do a you wanted to use your card details there, correct?
+[40 minutes 49 seconds][Agent] : Yeah, yeah. Just the TA, just the WH what my wage is going to that. That's the best way to do it, isn't it?
+[40 minutes 49 seconds][Customer] : Yeah, OK, yeah, yeah. So what I'll do, umm, it's completely up to you how you want to do it, but if we are doing, uh, card details or Visa or MasterCard, uh, we'll have to pause the recording for, umm, security purposes there.
+[41 minutes 4 seconds][Agent] : Yeah. Yeah.
+[41 minutes 4 seconds][Customer] : OK, yeah.
+[41 minutes 5 seconds][Agent] : Do you think that's the best way to do it? I I, I should really ask my wife, but I think that's the best way.
+[41 minutes 5 seconds][Customer] : So, umm, yeah, no problem.
+[41 minutes 11 seconds][Agent] : Saves her mucking, saves her mucking around doing it on that. Whatever you call that other thing, eh?
+[41 minutes 14 seconds][Customer] : Yeah, yeah, it's up to you.
+[41 minutes 15 seconds][Agent] : Yeah, yeah, yeah.
+[41 minutes 17 seconds][Customer] : But umm, if you do have that one accessible to you, I can collect those ones now.
+[41 minutes 20 seconds][Agent] : No, I've got it right in front of me.
+[41 minutes 22 seconds][Customer] : Yeah, easy.
+[41 minutes 21 seconds][Agent] : I've got it right in front of me.
+[41 minutes 22 seconds][Customer] : So what I'll do, I'll pause the record recording now. So, uh, for security purposes while obtaining your card details, the call recording will stop and we'll recommend after we have collected your details, OK?
+[41 minutes 32 seconds][Agent] : Yep, Yep. Now I got this goal right.
+[43 minutes 16 seconds][Customer] : I do need to let you know, please be advised that the call recording has now resumed for quality and monitoring purposes.
+[43 minutes 22 seconds][Agent] : Yeah, that was fine though.
+[43 minutes 21 seconds][Customer] : OK, now, yeah. Well, what I'll do now is I will just read your declaration. Now. The declaration just covers everything that we chatted about today. Umm, there is 2 yes or no, uh, questions towards the back end of the paragraph that I will need a confident yes or no too.
+[43 minutes 36 seconds][Agent] : Yep, no, it's fine.
+[43 minutes 35 seconds][Customer] : OK now, Yep. So with the declaration, the declaration rates. Thank you. Charles Norton, it is important you understand the following information. I will ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real funeral cover is issued by Hanover Life Rate of Australasia Limited, whom we refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services trading as real insurance to issue and arrange this insurance on its behalf. Ah, your answers to the application questions and any related document on the basis of your contract with insurance and Hanover relies upon the accuracy of the information you have provided when assessing your application. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it with other insurance service providers for the purpose of administering your policy and the link claim. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By agreeing to this declaration, you're consent to be contacted by us in relation to other products and services. You can opt out of this at any time. By contacting us. You have agreed to take out a joint real funeral cover with the following cover. Charles Norton is covered for $15,000 in the event of deaths. In the case where death is accidental or if you suffer the find accidental serious injury the benefit amount will triple. UMM Michelle Jennings is covered for $15,000 in the event of death. In the case where death is accidental or UH Michelle Jennings Norton suffer at the final accidental serious injury the benefit amount will triple. Cover is for accidental death only for the 1st 12 months of cover with death by any cause or diagnosis of the terminal illness covered thereafter. Accidental Serious Injury cover for each Life Insured Underage 75 starts immediately and ends on the policy anniversary following the life insured 75th birthday. Once a Life Insured rate is age 80 five, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you will no longer have a right to claim another policy for that life insured. UMM This policy is an insurance policy and does not have a savings or investment component. You can end your cover at any time by contacting us. If you stop paying your premiums, we may end your cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there is no free refund of premiums. The cooling off.
+[46 minutes 9 seconds][Agent] : Bye.
+[46 minutes 7 seconds][Customer] : If cover Conti continues beyond the age 85, the life insured will receive an additional 25% of bonus cover from that date and you will not be required to pay any further premiums. The bonus cover is not payable if the early cash out option has been taken out. Uh cover for each life insured and in the day prior to the 100 birthday we will pay the funeral benefit and bonus cover for the life insured. At this point your total premium for your first year of cover is $89.64 per fortnight. Your premiums level, which means they are designed to stay consistent year on year and will only change if you alter your cover or the insurer adjust the premium rate applying to your policy. The insurer can only make a change if it is applied consistently across all policyholders. You may pay more in premiums and the benefit amount over the life of the policy. Included in your premium is an amount payable to real insurance of between 34% and 54%, calculated on a level basis over the loss of the policy. Your premium will be debited from your credit card which you are authorized to debit from and have provided to us. Provide written communication to you by the e-mail address you have provided to us and this will include any legal notices we are required to provide you in writing. If you would prefer to receive these only by mail, you can update your communication preference at any time. The policy documentation, PDS and SSJ will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may cancel your policy and then you may have pay will be refunded in full unless you have lodged a claim. There are risks associated with replacing policies as a new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you have received and reviewed our policy in full. We have a complaints process which you can access at any time by contact contacting us. Full details all up. Full details are available online and the in the documentation we are sending you now. Uh, Charles, do you understand and agree with the declaration? Yes or no?
+[48 minutes 6 seconds][Agent] : Yes, I do.
+[48 minutes 7 seconds][Customer] : Yes. Perfect. Now Charles, would you like any other information or would you like me to read any part of the BDS to you?
+[48 minutes 7 seconds][Agent] : I've got to say. Can you read it again? You know that off my heart.
+[48 minutes 16 seconds][Customer] : No, no I don't. No, I don't have to read that.
+[48 minutes 20 seconds][Agent] : Oh, God, yeah, I was listening, mate. I was thinking have a breath, bro, have a breath. But no, no, no, no, I I understand. I understand. That was, that was bloody good. Because I always wonder because like, yeah, I could go to any one of those girls at the supermarket and say, oh, we're such and they know exactly what Ireland is.
+[48 minutes 30 seconds][Customer] : Yeah, yeah, yeah.
+[48 minutes 39 seconds][Agent] : It's like Bunnings, they know exactly what Ireland things are. And that's what I was thinking. I wonder if you know that off my heart.
+[48 minutes 46 seconds][Customer] : I wish I did. I wish I did.
+[48 minutes 47 seconds][Agent] : How many times did you reach out of time?
+[48 minutes 49 seconds][Customer] : Umm, I'm not quite sure what you guys. It really depends. It really depends.
+[48 minutes 54 seconds][Agent] : That was good. That was good. I I I yeah. I I couldn't while I was speaking to myself. Shall I stop even saying? Can you go back to the beginning? I appreciate that, mate. That was brilliant.
+[49 minutes 3 seconds][Customer] : Look just for compliance purposes towards the last. For the last question, I was just going to clear yes or no. OK, I'm very sorry.
+[49 minutes 15 seconds][Agent] : Yeah. No, you're right. You're right.
+[49 minutes 13 seconds][Customer] : Sorry to be pedantic now, I'll repeat it Now, would you like any other information or would you like me to read any part of the PDS to you?
+[49 minutes 20 seconds][Agent] : Yeah. No, that's fine. That's fine.
+[49 minutes 21 seconds][Customer] : Perfect.
+[49 minutes 21 seconds][Agent] : I understand it all. It was brilliant.
+[49 minutes 22 seconds][Customer] : Yeah, easy now, Charles. What I'll do, umm, is you will get an e-mail, uh, regarding the beneficiaries form as well as, umm, your policy documents and policy policy schedule there.
+[49 minutes 41 seconds][Agent] : Oh yeah, that's the one.
+[49 minutes 33 seconds][Customer] : Umm, what we do ask from you back is if you can complete that form as soon as possible, send that one back to us and then we'll be able to update your file now and OK, yeah, exactly right. Or, umm.
+[49 minutes 42 seconds][Agent] : Like if I die goes au automatically, Michelle will get the right Yeah, yeah, And it's and he dies. It comes, it comes, it goes to me. I'm I'm the bene beneficiary of a day. Is that right?
+[49 minutes 53 seconds][Customer] : Yes, so Michelle's, Michelle's naturally, umm, Michelle naturally is umm, your on her naturally, she's on your beneficiary. So, uh, yeah. So it goes either way. And then you kind of dominate up to five there.
+[49 minutes 54 seconds][Agent] : Yeah, yeah, yeah, yeah. Do do people do they nominate kids just in case, like, yeah, like car accident or something like that? What? Yeah. What happened? So what would happen here if I didn't nominate anyone else?
+[50 minutes 13 seconds][Customer] : Yeah, you can umm, yeah, you can nominate uh, so it goes to your estate there.
+[50 minutes 21 seconds][Agent] : Oh, yeah. Yeah. Right. Oh, yeah. Yeah.
+[50 minutes 22 seconds][Customer] : Yeah, umm, but yeah, you, you're more than happy to nominate your kids there if you like.
+[50 minutes 28 seconds][Agent] : Yeah. I'll just. I'll. I'll read it. I'll. I'll talk to her about that. A bit more serious. A bit more serious than than what I do.
+[50 minutes 31 seconds][Customer] : Yeah, yeah, yeah, no problem. No problem.
+[50 minutes 35 seconds][Agent] : Yeah, yeah, yeah.
+[50 minutes 36 seconds][Customer] : Look, if umm, with regards to that, umm, I do need to let you go uh, but look, if you do have any questions, just feel free to give us a call back, umm, and we'll be able to help you out here, OK?
+[50 minutes 46 seconds][Agent] : Yeah, no, that's, no, you've been. That's great. I was actually quite shocked how how tip was. I thought it was a lot dearer than that. And yeah, maybe, yeah, I should have done it a bit earlier. But no, no, no, I do appreciate it. And it's not like it's not like medical insurance and anything. You don't get any free Reeboks or anything. You don't give it give any free a free a free casket or anything.
+[51 minutes 7 seconds][Customer] : Umm, so I did forget to mention this one to you. So with regards to the policy, actually, so, umm, because you've taken that out, so, uh, let me just go to here. So with regards to the policy, we have something called a real reward. So that's attached to the policy. So following your first policy anniversary date, we refund you 10% of the premium you have paid in that time. Now, uh, because you're covered both for $15,000 each to cover, you'll be expecting a refund of 233 and 9 cents.
+[51 minutes 37 seconds][Agent] : Oh **** I'd either boxer Corona would have been even good.
+[51 minutes 41 seconds][Customer] : I mean, umm, hopefully you can get umm, more than that for 233 dollars.
+[51 minutes 47 seconds][Agent] : Well, I'll just tell her that that the rebate's $15. Thanks for that man. I do appreciate it.
+[51 minutes 50 seconds][Customer] : Yeah, no, not a problem.
+[51 minutes 55 seconds][Agent] : And I I'm actually, I'm actually quite shocked here here the price. I thought. I thought the older you get, the more you pay. Yeah. Yeah.
+[52 minutes][Customer] : Yeah, yeah, well, it does work. That that button. Yeah. Hmm.
+[52 minutes 4 seconds][Agent] : Well, you're doing, you're doing, you're doing medical insurance, you know, and and and, yeah, and life insurance in there, but, yeah. But I suppose so there's no, there's no way out of a day, you know, everyone's gonna die.
+[52 minutes 10 seconds][Customer] : Yeah, yeah, yeah.
+[52 minutes 15 seconds][Agent] : So, you know, that's the way it is. But, but it's like car insurance. Yeah. I'm 63 and I've never had a claim yet.
+[52 minutes 22 seconds][Customer] : Hmm.
+[52 minutes 21 seconds][Agent] : And that's not a word of a lie.
+[52 minutes 27 seconds][Customer] : Hmm.
+[52 minutes 22 seconds][Agent] : I've never claimed anything on a but the day I, the day I do not have one, it'll be the day something happens. Oh, don't worry. I've, I've, I've, I've had to get roadside assistance and things like that. I've had, you know, but I've never actually had an accident.
+[52 minutes 28 seconds][Customer] : Yeah, yeah, yeah.
+[52 minutes 37 seconds][Agent] : Yeah, yeah.
+[52 minutes 37 seconds][Customer] : Well, knock on wood, that doesn't happen, right?
+[52 minutes 39 seconds][Agent] : Oh, that's dead right. That's dead right because you know, right.
+[52 minutes 41 seconds][Customer] : Yeah, yeah.
+[52 minutes 42 seconds][Agent] : The other day at work, I was in an LV and one of the girls, she was flashing a lights at me and she said we was even there of each other. I said yeah. She said I was flashing the lights at you.
+[52 minutes 52 seconds][Customer] : Oh, wow, Wow.
+[52 minutes 51 seconds][Agent] : And I said last time someone flashing the light at me, I had to produce my license. I was just having her on.
+[52 minutes 58 seconds][Customer] : Yeah.
+[52 minutes 57 seconds][Agent] : But she just looked at me. She just looked at me and she says you're always a ******* clown. You alright? That's what you got to be in life, mate. You can't be grumpy all the time. You got to be happy. You got to be happy with life.
+[53 minutes 7 seconds][Customer] : Yeah, exactly right, Exactly right.
+[53 minutes 9 seconds][Agent] : Yeah, yeah, you know, but no, I thank you for your time and it's much appreciated. And I'm I'm very I'm very happy with that policy. I am.
+[53 minutes 14 seconds][Customer] : Yeah, Yeah, that's fine.
+[53 minutes 19 seconds][Agent] : It makes you quite shocked, but yeah, yeah, but I I'm not very shocked. I want to die. I don't want to go away.
+[53 minutes 25 seconds][Customer] : Yeah.
+[53 minutes 24 seconds][Agent] : You know, I got a, I got a few, got a few things I got to do yet before I go.
+[53 minutes 26 seconds][Customer] : Well, look, Yeah. So look, I'm happy to. I was, I was good talking to you today. And look, like I said, I'm more than happy to help out. And so if you do have any questions, OK, easy.
+[53 minutes 37 seconds][Agent] : Yeah, yeah, no, that's fine, mate. I say you got to get off the phone. Say to you say to you mate, oh, he was a clown. And they they say the one about the Obex, what happened? Why? Why we went there because of those two things. The the power of the beer and the power of the you know what and the and the and the that's all good, right?
+[53 minutes 44 seconds][Customer] : No, I was actually, I might tell my mate about the good conversation and then bagging down it easy.
+[54 minutes][Agent] : I enjoy it. OK.
+[54 minutes 1 seconds][Customer] : Really appreciate the time man.
+[54 minutes 2 seconds][Agent] : Yeah, yeah. You have a good day eh?
+[54 minutes 2 seconds][Customer] : Take Care now Charles, you too. Take care.
+[54 minutes 5 seconds][Agent] : I got it mate. Look up yourself.
+[54 minutes 5 seconds][Customer] : Bye now, take care.
+[54 minutes 7 seconds][Agent] : OK, bye bye, bye bye.

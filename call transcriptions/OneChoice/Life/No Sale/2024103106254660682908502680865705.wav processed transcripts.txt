@@ -1,0 +1,82 @@
+[16 seconds][Customer] : Hello.
+[17 seconds][Agent] : Hi there, Daniel, it's Teresa calling back from one Choice. How are you?
+[21 seconds][Customer] : Yeah, I'm good. Thank you.
+[22 seconds][Agent] : Beautiful. Thank you for returning my call. OK, So I just want to do the verification and then I can pick up where we left off from.
+[30 seconds][Customer] : Yeah.
+[31 seconds][Agent] : Please note, when our calls are recorded, any advice provided is limited to the products we offer and assisting you to make a decision about whether or not it's suitable for your names. So we don't consider the personal circumstances, but once again, can you please confirm your name and date of birth for me?
+[49 seconds][Customer] : Daniel Villani seeking on the face, 1977.
+[53 seconds][Agent] : Perfect. And can I confirm once again that you are a male New Zealand resident currently residing in New Zealand?
+[1 minutes][Customer] : Yeah, that's right.
+[1 minutes 1 seconds][Agent] : Thank you. Now while I'm opening up the questions to pick up where we left off from, once again, have you had a cigarette in the last 12 months?
+[1 minutes 9 seconds][Customer] : No.
+[1 minutes 10 seconds][Agent] : Thank you. And in terms of the questions that I have already taken you through and you have already answered, have any of your answers changed since we last went to the health and lifestyle application or in the last 30 days? Beautiful. Thank you. OK, so we were up to hazardous pursuits that you may follow. And during the process of elimination, we were up to long distance failing.
+[1 minutes 23 seconds][Customer] : No, no, no.
+[1 minutes 38 seconds][Agent] : OK, so long distance sailing, yes or no Hang Gliding, excluding one time guides, skydiving or parachuting, excluding one time jumps.
+[1 minutes 51 seconds][Customer] : Yes. No, No.
+[1 minutes 52 seconds][Agent] : OK, now scuba diving, Motorsports, excluding recreational trail bike riding and other hazardous pursuits or sports.
+[2 minutes 7 seconds][Customer] : Yes.
+[2 minutes 9 seconds][Agent] : Bungee jump. That's right. OK. And was it just bungee jumping?
+[2 minutes 14 seconds][Customer] : Yes.
+[2 minutes 15 seconds][Agent] : OK, thank you. Umm, how do you? OK, we're going to have to refer it. All right, so I'm First off and not unless bungee jumping.
+[2 minutes 38 seconds][Customer] : Excuse me?
+[2 minutes 39 seconds][Agent] : So how many times do you think you'll be, umm, bungee bungee jumping?
+[2 minutes 44 seconds][Customer] : I'm not too sure. I'll maybe be. I'll never be more than one once.
+[2 minutes 48 seconds][Agent] : OK, umm, but mine. That's more than once that he would like to try. How many times per annum do you participate in these activities? None at the moment and I'm sure on how many times, but none is it's more than once that he would like to try it. It's applicable. What pass on license or license or certification do you hold? No, not applicable. Now, will you be doing that in New Zealand, darling?
+[3 minutes 17 seconds][Customer] : Yeah, Yeah, yes, yes, yeah, it'll be. Yeah. I'll have to start here in New Zealand.
+[3 minutes 46 seconds][Agent] : OK, beautiful. All right, now before. So I'm going to have to send details about the bungee jumping over to the undivided to assist the risk based on the information I've put in. But with the skydiving doing it more than once and it does come up with an exclusion. So it says here.
+[3 minutes 58 seconds][Customer] : Yeah, yes, OK.
+[4 minutes 6 seconds][Agent] : No life benefits shall be payable under this policy for any claim arising as a result of practice for or participation in any form of parachuting or skydiving.
+[4 minutes 18 seconds][Customer] : Oh, OK.
+[4 minutes 19 seconds][Agent] : That OK, OK, beautiful. Now before I look in your answers and send that over to the underwriter, are you happy with the way you've answered those questions?
+[4 minutes 20 seconds][Customer] : Yeah, yeah, yeah. I'm happy with it.
+[4 minutes 30 seconds][Agent] : OK, beautiful. OK, perfect. So in reference to your health and life alliances, your application needs to be referred for to the underwriter for an assessment. But as it's approved, the policy will cover use of this due to any cause except suicide in the 1st 13 months. Then of course you will still have access to the terminally owed advanced payment and your family will still have access to the advanced payout of $10,000.
+[4 minutes 53 seconds][Customer] : Yeah, OK.
+[5 minutes 4 seconds][Agent] : The premiums are stepped on the cover which means it will generally increase each year.
+[5 minutes 9 seconds][Customer] : Yeah.
+[5 minutes 9 seconds][Agent] : In addition to that, the policy has an automatic indexation increase, which means each year your benefit amount increase will increase by 5%. That will come with an associated increase in the premiums. The good news is you can opt out of the automatic indexation increase each year. You're welcome.
+[5 minutes 27 seconds][Customer] : Oh, thank you.
+[5 minutes 29 seconds][Agent] : So what I do now is I collect your payment details, I read you a declaration, and then I send it over to be assessed by the underwriter while your application is being assessed.
+[5 minutes 39 seconds][Customer] : Thank you then.
+[5 minutes 40 seconds][Agent] : Pardon.
+[5 minutes 42 seconds][Customer] : Yeah.
+[5 minutes 43 seconds][Agent] : Uh, yes. So 7885 per fortnight, yes.
+[5 minutes 44 seconds][Customer] : Yep, Yep.
+[5 minutes 49 seconds][Agent] : Now, while the application is being assessed, we will cover you for exiting for this, which will pay out if your death was due to a direct result of an accident. Cover under that part will last until the insurer comes back or makes a decision on your application for 30 days from today, whichever is earlier. Umm, but they generally get back to us within a matter of hours. So I might be able to get back in touch with you by the end of today. Now, are you happy to proceed that way?
+[6 minutes 17 seconds][Customer] : Yeah, I'm happy to proceed with it.
+[6 minutes 19 seconds][Agent] : OK, Now the commencement of the cover will be subject to final assessment by the insurer if the insurer approves the cover and doesn't make any changes at all. Are you happy for me to record your acceptance of this policy now and we send you out all your policy information to your e-mail and postal address afterwards?
+[6 minutes 37 seconds][Customer] : Yes, I'm happy with it.
+[6 minutes 38 seconds][Agent] : Beautiful. Just note that if they do make any changes at all, I'll continue to try and get in touch with you or even leave a message for you to give me a call back when you're free.
+[6 minutes 47 seconds][Customer] : Yeah, no worries.
+[6 minutes 48 seconds][Agent] : OK, so you get to choose the date that you want the first payment to come out.
+[6 minutes 54 seconds][Customer] : OK.
+[6 minutes 53 seconds][Agent] : We generally click payment within the next seven days. What date would you like the first payment to be? Well, if you tell me the date you want, I'll try and work around you.
+[6 minutes 59 seconds][Customer] : Be sorry, it has to be S something within the seven days you're saying OK, yeah.
+[7 minutes 12 seconds][Agent] : This Wednesday?
+[7 minutes 10 seconds][Customer] : Can you try this Wednesday or go go Tuesday? Yeah, just your woods.
+[7 minutes 14 seconds][Agent] : Thursday, OK, and you wanted that to be this Thursday?
+[7 minutes 15 seconds][Customer] : Yeah, Thursday, yes.
+[7 minutes 19 seconds][Agent] : OK, so Thursday the 18th of January and then every second Thursday after that with the 9th on your bank account. Sorry, did you want to do that through card or bank account?
+[7 minutes 24 seconds][Customer] : OK uh yeah, just umm, like like umm, well, what do you mean? What's the difference?
+[7 minutes 35 seconds][Agent] : There's no difference. It comes down to your preference.
+[7 minutes 39 seconds][Customer] : Oh yeah, I'll yeah, I'll just stop or so I'll just pay it online.
+[7 minutes 43 seconds][Agent] : So we don't actually do online. We take details today, but you don't have to pay until that you've chosen which is the 18th.
+[7 minutes 52 seconds][Customer] : OK, Yeah, yeah, all the.
+[7 minutes 54 seconds][Agent] : Yeah. OK. So which did you want it to be, bank account or card?
+[8 minutes 1 seconds][Customer] : Uh, Todd?
+[8 minutes 1 seconds][Agent] : Card, OK.
+[8 minutes 6 seconds][Customer] : Yep.
+[8 minutes 3 seconds][Agent] : So for your security, while I'm taking the card details, I'm just going to pause the call recording and then I'll recommend to after I've collected them one moment. The. The.
+[9 minutes 37 seconds][Customer] : Alright.
+[9 minutes 39 seconds][Agent] : OK. So those have been registered successfully and please be advised the call recording has now resumed. One more thing to do which is redo the declaration and then I can get it off to the underwriters.
+[9 minutes 54 seconds][Customer] : No. So I did. So I'm. I'm with you. I'm with you.
+[9 minutes 51 seconds][Agent] : If I'm going too fast at any point, please don't hesitate to tell me to stop this, OK? Thank you. Daniel Belliani, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full.
+[10 minutes 10 seconds][Customer] : I agree.
+[10 minutes 10 seconds][Agent] : One Choice life insurance is issued by Clinical Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenspan Financial Services NZ Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. DFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice we have not considered your specific financial needs or goals or considered any other insurers, products or services.
+[10 minutes 59 seconds][Customer] : None.
+[10 minutes 55 seconds][Agent] : We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sits out more information which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this yes or no? Thank you. Your answer to the application questions and any related documents form the basis of your contract of insurance and clinical relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[11 minutes 16 seconds][Customer] : Yes, yes.
+[11 minutes 40 seconds][Agent] : Thank you. When they from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can up that of this now by informing me or anytime they're contacting us or by using any unsubscribe facility on communications we send you. You've agreed to take out a single one choice life insurance policy with the following cover.
+[12 minutes 16 seconds][Customer] : None.
+[12 minutes 12 seconds][Agent] : Daniel Belliami receives $1 million in the event of life insurance in addition to the standard exclusions contained within the policy document, the following exclusions apply for Daniel Belliami in terms of life insurance. My Life benefits shall be payable under this Policy for any claim arising as a result of practice for all participation and any form of parachuting or skydiving. A benefit is not paid in the event of suicide in the 1st 13 months of the Policy.
+[12 minutes 41 seconds][Customer] : None.
+[12 minutes 41 seconds][Agent] : Your total premium for the first year of cover is 78.

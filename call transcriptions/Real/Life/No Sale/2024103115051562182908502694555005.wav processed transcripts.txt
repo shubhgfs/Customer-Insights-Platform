@@ -1,0 +1,110 @@
+[12 seconds][Customer] : Hello.
+[13 seconds][Agent] : Good afternoon, Kane. It's Daniel giving you a call back from Real Insurance. How are you going today?
+[17 seconds][Customer] : Yeah. Goodnight. How are you, Daniel?
+[18 seconds][Agent] : No. Fantastic. Very well. Thank you for asking.
+[22 seconds][Customer] : Yep.
+[22 seconds][Agent] : Yeah, reason for my call.
+[23 seconds][Customer] : OK. I'd like to arrange the the quote.
+[30 seconds][Agent] : Beautiful.
+[30 seconds][Customer] : I'm, I'm just looking on, you know, because I'm on Pencil Inc.
+[35 seconds][Agent] : Yeah, beautiful.
+[35 seconds][Customer] : I'm just looking at when I get paid.
+[37 seconds][Agent] : No problem. I'll just jump into your quote for you. Can I just have your first and last name again, please?
+[41 seconds][Customer] : Yeah. CAIMEBAKER.
+[43 seconds][Agent] : Yep, Yep, there you go.
+[47 seconds][Customer] : Yeah.
+[47 seconds][Agent] : And date of birth was, uh, could you say that again?
+[51 seconds][Customer] : 16th of February, 1982.
+[53 seconds][Agent] : Beautiful. And just confirming that you're an Australian resident again as well.
+[56 seconds][Customer] : Yeah, I am.
+[57 seconds][Agent] : Beautiful. And I'll just let you know again that all calls are recorded and advice providers general in nature may not be suitable to your situation.
+[1 minutes 7 seconds][Customer] : Yep, Yep. I'd like to start that right. I, I get my pension goes here on the 27th.
+[1 minutes 3 seconds][Agent] : And yeah, no problem jumping into quote there for the $15,000 umm, for and that was $24.71 for fortnight twenty 28th of February. No problem there.
+[1 minutes 18 seconds][Customer] : So can I have them put it in the box so I can have them take it on the 28th of February please?
+[1 minutes 26 seconds][Agent] : Umm, just confirming, what was the e-mail address? Not the e-mail address, the, uh, home address to send these documents to. Yep, Yep, Yep. Beautiful. And the post code.
+[1 minutes 32 seconds][Customer] : Yeah, Yep, it's Unit 49 Ethel at Ethel Street, Randwick, 2031.
+[1 minutes 44 seconds][Agent] : Beautiful. Yep. Pop that in there.
+[1 minutes 49 seconds][Customer] : Yep. And also I'd like to get some like an app like also.
+[1 minutes 47 seconds][Agent] : OK, yeah, no problem.
+[1 minutes 54 seconds][Customer] : So thank you and this I've got if I give her her name and e-mail and he would give us a call back, say Monday.
+[2 minutes 7 seconds][Agent] : I can certainly organize that for you. I mean, I could have have that set up today. If, if she's around, if, if that's possible or if it's coming out the same account, I can organize that with you as well.
+[2 minutes 6 seconds][Customer] : Yep, no, I won't come out of that account.
+[2 minutes 17 seconds][Agent] : No problem.
+[2 minutes 17 seconds][Customer] : She's at work at the moment. That's all.
+[2 minutes 19 seconds][Agent] : Yeah, I can definitely organize that. Call back on Monday. Umm, OK. And did you need me to go over anything regarding the policy?
+[2 minutes 27 seconds][Customer] : Yep.
+[2 minutes 27 seconds][Agent] : Umm, beautiful.
+[2 minutes 27 seconds][Customer] : No, no, that's pretty straightforward what you said last time.
+[2 minutes 30 seconds][Agent] : No problem.
+[2 minutes 30 seconds][Customer] : So I'm and I've read over it too, bro.
+[2 minutes 34 seconds][Agent] : Oh, good. Oh good.
+[2 minutes 33 seconds][Customer] : So Yep, yeah, probably 28th of February please.
+[2 minutes 35 seconds][Agent] : So the 28th you said of February 28th of February.
+[2 minutes 41 seconds][Customer] : And then what I will do when you send out the documents, I've got to set up just a bank account with the Commonwealth Bank A at the moment.
+[2 minutes 52 seconds][Agent] : OK, right. Right now I'd have to take down some payment details. You have a credit card or anything like that that I can take down and then you can give us a call back and we can update those, uh, details with that.
+[2 minutes 48 seconds][Customer] : I've got to go to the bank probably, maybe next week if I can, and set up a bank account for it to be withdrawn from.
+[3 minutes 4 seconds][Agent] : Be an account number.
+[3 minutes 5 seconds][Customer] : Yeah, Yeah, yeah, yeah, alright.
+[3 minutes 8 seconds][Agent] : Beautiful. OK, so all right, and 28th, we'll set that there. OK, may say the 15th on the policy numbers, but I'm deferring that to the 18th. That's not the 18th. The 28th for yourself.
+[3 minutes 23 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 22 seconds][Agent] : OK, beautiful.
+[3 minutes 25 seconds][Customer] : My card number is.
+[3 minutes 25 seconds][Agent] : OK, one second, I'm just popping, uh, is that Visa or MasterCard?
+[3 minutes 31 seconds][Customer] : It's a debit MasterCard.
+[3 minutes 32 seconds][Agent] : Beautiful. OK. So for security purposes while obtaining your card details, the call recording will stop and we'll recommend after we've collected your details, OK?
+[3 minutes 41 seconds][Customer] : Yep.
+[4 minutes 23 seconds][Agent] : OK. And please be advised that the call recording is now resumed for quality and monitoring purposes. And I just need to ask all I need to do is bef, uh, before I get all these documents in place is read out your declaration.
+[4 minutes 30 seconds][Customer] : Yep, Yep.
+[4 minutes 37 seconds][Agent] : And I just need to ask, are you happy to continue?
+[4 minutes 41 seconds][Customer] : Yes, I am. Thanks.
+[4 minutes 41 seconds][Agent] : Yeah, beautiful. OK.
+[4 minutes 46 seconds][Customer] : No.
+[4 minutes 44 seconds][Agent] : And any questions for me before I read out this that beautiful. OK it just says here, thank you Kane Baker. It is important you understand the following information. I will ask the agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real funeral cover is issued by Hanover Live free of Australasia Ltd Hanover has an arrangement with Brainstone Financial Services, trading as real Insurance, to issue and arrange this insurance on its behalf. Your answers to the application questions and any related documents form the basis of your contract of insurance and Hanover relies upon the accuracy of the information you have provided when assessing your application. I know that has set the target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. We collect your personal information to provide insurance quotes, issue cover and other related services. We'll share this with your insurer and make sure with other Australian service providers for the purpose of administering your policy or handling claims. Our proxy policy tells you more, including how to access and collect your information and lost complaints about breaches of privacy. We may from time to time provide office to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. You can opt out of any Sorry. You can opt out at any opt out of this at any time. By contacting us you have agreed to take out a single real final cover with the following cover. Kane Baker is covered for $15,000 in the event of death. In the case where death is accidental or if you suffer defined accidental serious injury, the benefit amount will triple. Cover is for accidental death only for the 1st 12 months of cover with death by any cause or diagnosis of the terminal illness covered thereafter.
+[6 minutes 38 seconds][Customer] : None.
+[6 minutes 35 seconds][Agent] : Accidental Serious Injury cover for each Life Insured Underage 75 starts immediately and ends on the policy anniversary following the Life Insured 75th birthday. Once a Life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. If you take up this early cash out option, you will no longer have a right to claim under the policy for that Life insured.
+[7 minutes][Customer] : Yep.
+[6 minutes 59 seconds][Agent] : This policy is an insurance policy and does not have the savings or investment component. You can end your cover at any time by contacting us. If you stop paying your premiums, we may end your cover, but we will give you notice before doing so if cover ends. If cover ends prior to age 85, no benefit is payable and there's no refund of premiums after the cooling off. If you choose to retain cover beyond age 85, you'll be entitled to an additional 25% of bonus cover from that date and you will not be required to pay any further premiums after the life insurance 85th birthday. The bonus cover is not payable if you take the other cash out option. Cover for each life insured ends on the day prior to their 100th birthday. We will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for your first year of cover is $24.71 per fortnight. Your premiums are level which means they are designed to stay consistent year on year and will only change if you alter your cover or the insurer just the premium rates applying to your policy. The insurer can only make a change if it is applied consistently across or policy holders. You may pay more in premiums in the benefit of that over the life of the policy. Included in your premium is an amount payable to real insurance of between 32% and 59%, calculated on a level basis over the life of the policy. Your premium will be debited from your credit card, which we'll authorize to debit from and have provided to us. We may provide written communications to you by the e-mail address you have provided to us, and this will include any legal notices we are required to provide to you in writing. If you prefer to receive these only via mail, you can update your communication preference at any time. We will send you a welcome pack including your policy schedule, PDS and FSG via mail. If you have provided us with an e-mail address, your policy schedule will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. We have the complaints process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Thank you for listening to that. I just asked, do you understand and agree with the declaration I've read You Beautiful. And lastly, would you like any other information about the insurance now or would you like me to write any part of the PDF to you? Read any part of the PDF to You.
+[9 minutes 4 seconds][Customer] : Yes mate, I do I'm I'm just a beneficiary. It is. It's put down as my partner, yes. Yep.
+[9 minutes 13 seconds][Agent] : Beautiful yes, uh, Sir, in your welcome pack, you'll be receiving in the in your PDS in the back of the PDS, which is the product disclosure statement is the beneficiaries form. You can fill that out and send that back to us or there is a support number on that. You can call up and organize your beneficiary details through that as well.
+[9 minutes 40 seconds][Customer] : Yeah, I will. Yeah. Yeah.
+[9 minutes 41 seconds][Agent] : Beautiful.
+[9 minutes 41 seconds][Customer] : OK then. Yeah. Beautiful my lot. Thank you.
+[9 minutes 42 seconds][Agent] : OK, so, yeah, so, uh, your documents will be with you shortly and, umm, thank you for choosing reel as well.
+[9 minutes 51 seconds][Customer] : Thank you, Daniel.
+[9 minutes 50 seconds][Agent] : And what I'll do my, my pleasure. What I'm going to do, I'm just going to make sure that that payment is deferred to the 28th and then I'll jump in to make a quote for your wife and send that through to you.
+[10 minutes 3 seconds][Customer] : Yep, Yep, Yep. Alright then. Thank you.
+[10 minutes 3 seconds][Agent] : And then I'll organize that call back for, for Monday. Let me just jump out. Give me one second. OK, cool. OK, So what was your partner's name?
+[10 minutes 26 seconds][Customer] : Sarah, Sarah St.
+[10 minutes 29 seconds][Agent] : Yep, Sarah and surname Is that Baker as well?
+[10 minutes 33 seconds][Customer] : No, no.
+[10 minutes 38 seconds][Agent] : Beautiful. And what was her date of birth?
+[10 minutes 33 seconds][Customer] : Starden STODDERE 18th of the 3rd 1988.
+[10 minutes 45 seconds][Agent] : 1988.
+[10 minutes 46 seconds][Customer] : Yep.
+[10 minutes 47 seconds][Agent] : Beautiful. OK.
+[10 minutes 47 seconds][Customer] : And her and and I'll send you. I'll give you her e-mail. It is Sarah. Sarah. Sarah. Yeah, Yep.
+[10 minutes 55 seconds][Agent] : One second, let me just uh, sorry, uh, just loading up profile. OK, Yeah, sorry.
+[11 minutes 15 seconds][Customer] : Sarah Galbraith is Galbraith. Yep. Along H88 at at gmail.com.
+[11 minutes 13 seconds][Agent] : Her e-mail was Sarah Yep, Sarah Galbraith, all one word Yep at gmail.com.
+[11 minutes 33 seconds][Customer] : Yeah.
+[11 minutes 37 seconds][Agent] : And what was her phone number 2R? Yep, 272178 OK and so her date of birth was 18th of the 3rd 1988.
+[11 minutes 34 seconds][Customer] : Jaredgalbraith88@gmail.com 0420 Yep, 272178 Yes, yes, correct.
+[11 minutes 52 seconds][Agent] : OK so for this one, let's have a look for real insurance for this funeral cover. Umm, we do have an application age of between 40 and 79, so I think she's a bit too young to be covered with this, uh, for this policy, unfortunately.
+[12 minutes 16 seconds][Customer] : What policy can I get on then?
+[12 minutes 13 seconds][Agent] : If she is 35, umm, umm, let's have a look. We can have a look at term life color, umm, which is a little bit different, but I can send you through some information, umm, regarding that.
+[12 minutes 28 seconds][Customer] : Yeah, just send me some information and I'll have it. Is that a Daniel?
+[12 minutes 31 seconds][Agent] : No problem. OK. Umm, And does she go by misses or miss or miss? That's beautiful. So Miss Sarah Stodden and it's Sarah Gale, bright88@gmail.com umm, and I'll send you some information regarding some. Yeah. Sorry we couldn't get a covered for the funeral.
+[12 minutes 37 seconds][Customer] : Yes, Yeah, that's OK. It's all good. We'll we'll sort it out.
+[12 minutes 50 seconds][Agent] : Umm, uh, no problem. I'll send you some information and I'll set a call back for Monday. Did you say what time Monday, uh, would be good.
+[12 minutes 54 seconds][Customer] : So Monday day, say around the same time, alright.
+[13 minutes 4 seconds][Agent] : Beautiful. Yeah, no problem. OK. All right. And this time.
+[13 minutes 11 seconds][Customer] : Yep. Thank you, Daniel.
+[13 minutes 11 seconds][Agent] : OK, my pleasure. All right. Umm, Monday. There we go. OK, just popping that in there. All right? Anything else I can do for you while I have you on the phone? OK.
+[13 minutes 30 seconds][Customer] : I'm not at an expected moment and we will speak to you on M on Monday.
+[13 minutes 35 seconds][Agent] : Beautiful.
+[13 minutes 35 seconds][Customer] : But still you need to get it sorted, so that'll be good.
+[13 minutes 37 seconds][Agent] : Yeah, absolutely. Fantastic. All right, enjoy the rest of your day. My pleasure.
+[13 minutes 40 seconds][Customer] : Thank you Daniel, you too much.
+[13 minutes 41 seconds][Agent] : Cheers.
+[13 minutes 42 seconds][Customer] : Bye.
+[13 minutes 42 seconds][Agent] : Bye. Bye.

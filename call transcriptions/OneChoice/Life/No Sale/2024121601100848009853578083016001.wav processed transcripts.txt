@@ -1,0 +1,152 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hi, good afternoon. My name's Simone. I'm calling from One Choice Insurance.
+[8 seconds][Customer] : So where you calling from? Oh, yeah. Hi.
+[7 seconds][Agent] : How are you today, One Choice Insurance, I'll give you a call as we received your special interest online with regards to our life insurance.
+[17 seconds][Customer] : Yeah, that's correct.
+[18 seconds][Agent] : Yeah. So I'll give you a call there, take you through that information and also to provide you with some pricing as well.
+[24 seconds][Customer] : OK.
+[25 seconds][Agent] : And so I can assist you further here. Could I please confirm your full name I've got down is Aim Masso, is that correct? Thank you. And date of birth, I've got the 4th of December 1995, was that right?
+[34 seconds][Customer] : Yeah, yeah.
+[41 seconds][Agent] : Thank you. I know it's your birthday just recently. So you had a happy belated birthday.
+[46 seconds][Customer] : Thank you.
+[48 seconds][Agent] : And can I please confirm you are a female New Zealand resident currently residing in New Zealand?
+[53 seconds][Customer] : Sorry.
+[55 seconds][Agent] : Ah, can I please confirm that you are a female New Zealand resident currently residing in New Zealand?
+[1 minutes][Customer] : Yeah, yeah, yeah. Female citizen.
+[1 minutes 5 seconds][Agent] : OK, citizen. Thank you. And you're currently residing in New Zealand, correct?
+[1 minutes 8 seconds][Customer] : Yeah.
+[1 minutes 9 seconds][Agent] : Thank you and I'll just quickly let you know as well. All our calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. So thank you so much for taking up the time to inquire with us so I can have a better understanding of, you know, what stark your interest. Are you new to life insurance or do you kindly have some cover in place there for yourself?
+[1 minutes 39 seconds][Customer] : Sorry.
+[1 minutes 41 seconds][Agent] : Are you new to life insurance or do you currently have some cover in place for yourself?
+[1 minutes 46 seconds][Customer] : Yeah, I'm in.
+[1 minutes 48 seconds][Agent] : Oh, you're new? OK. Was there anything, you know that got you looking for life insurance? You know what sparked your interest? Oh, what sparked your interest? What could you look into life insurance for yourself?
+[1 minutes 56 seconds][Customer] : Sorry for the same because I have kids.
+[2 minutes 5 seconds][Agent] : OK, how many kids do you have there?
+[2 minutes 7 seconds][Customer] : I have 4:00.
+[2 minutes 8 seconds][Agent] : Oh wow, must be a busy household for yourself.
+[2 minutes 11 seconds][Customer] : Yeah.
+[2 minutes 10 seconds][Agent] : Are they all the how old are they?
+[2 minutes 15 seconds][Customer] : 1110, eight, 10/5.
+[2 minutes 19 seconds][Agent] : Oh wow, so all still very young.
+[2 minutes 22 seconds][Customer] : Yeah. I did feel very young.
+[2 minutes 21 seconds][Agent] : You know, you must be busy, busy mums just, you know, having to look after all of them. Well, must be, you know, very loud household as well. And So what I wanted to do today, I wanted to explain the main features and benefits of our life insurance.
+[2 minutes 23 seconds][Customer] : Yeah, Yeah, yeah.
+[2 minutes 38 seconds][Agent] : That way you also, you know, do have an understanding of how it works and the process. And then I'll go through some pricing with you as well. OK. If you did have any questions along the way, please don't hesitate to let me know, OK.
+[2 minutes 46 seconds][Customer] : OK, OK.
+[2 minutes 52 seconds][Agent] : So with our life insurance, it is designed to provide financial protection for your loved ones through a lump sum payment if you were to pass away. This benefit, it could be used to help maintain their lifestyle by helping them pay off, you know, any mortgage or loans, or could also be used to help with any other cost involved in raising a family. So basically it's there to give you the Peace of Mind that if something happened to you, your family would have that financial security, OK?
+[3 minutes 24 seconds][Customer] : Uh huh.
+[3 minutes 25 seconds][Agent] : And, umm, with our life insurance as well, you could nominate up to five beneficiaries to receive the benefit amount. If you want to nominate, you know, all four of your kids there, you can. You did have that option to nominate up to five people, OK? And in the event that you do pass as well your kids, they can also request an advanced payout of $10,000. So while the claim's being assessed there, they have access to that money to help with some of their immediate costs such as funeral or any other final expenses at the time, OK? There is a terminally ill advanced payout included in the cover as well, which I'll go in a bit more detail a bit later. OK, so we do keep it nice and simple for you.
+[4 minutes 14 seconds][Customer] : OK.
+[4 minutes 13 seconds][Agent] : Everything is done over the phone, no forms to fill in, no medical checks or blood tests to complete. We simply take you through health and lifestyle questions. I just will determine the pricing and terms of the policy. So what I'll do, let's load up some pricing together and have a look. Now, just bear with me one moment. So to begin with, have you had a cigarette in the last 12 months, yes or no? Oh, have you had a cigarette in the last 12 months, yes or no? No, that's good to hear. Very healthy lifestyle choice for yourself. Good to hear. Thank you for that.
+[4 minutes 44 seconds][Customer] : Have we had a no Yeah 50,000 under?
+[4 minutes 57 seconds][Agent] : And is your current annual income $50,000 or more under? So it's not more than $50,000, is that correct? OK, no worries. I'll put a no for that one. Thank you. So thank you for that. Keeping in mind with the life insurance, you can choose cover between $100,000 up to $1 million and it's $50,000 increments in between. So it starts from 100,000 next one's 150,200 thousand all the way up to a $1 million.
+[5 minutes 44 seconds][Customer] : OK, how much is can I choose 20? Sorry, 2200.
+[5 minutes 51 seconds][Agent] : 200,000 No worries, we can have a look at that. So for $200,000 of cover, you are looking at an indicative payment of $6.40 per fortnight. How's that sounding for you?
+[6 minutes 8 seconds][Customer] : Yeah, that sounds good to me.
+[6 minutes 10 seconds][Agent] : That's good to hear. Umm, So what I wanted to do with you, umm, next is to go through those health and lifestyle questions. This will determine the final premium in terms of your policy. So let's go through these questions together.
+[6 minutes 24 seconds][Customer] : OK, OK.
+[6 minutes 23 seconds][Agent] : Now before we go through the questions, I do need to read to you a pre underwriting disclosure statement that does require your confirmation at the end. So it does read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and much complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into a life insurance contract.
+[7 minutes 21 seconds][Customer] : None.
+[7 minutes 14 seconds][Agent] : You have a legal duty to provide to us any information you know or could recently be be expected to know, which may affect our decision to ensure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insure. You have this, Judy, until the time we enter into the contract. If you fail to disclose a matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose the conditions on your policy or avoid your policy entirely. Do you understand this yes or no? Thank you. So go through the questions together. If you need me to repeat anything or slow down, please don't hesitate to let me know, OK?
+[7 minutes 53 seconds][Customer] : Yes, OK.
+[8 minutes 4 seconds][Agent] : And if I, if I could please have a clear yes or no answer for all the questions as well. OK. So the first question, are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand, Yes or no? Yes.
+[8 minutes 23 seconds][Customer] : Yeah, Yeah, I'm a New Zealand citizen residing in Zealand.
+[8 minutes 29 seconds][Agent] : OK, thank you. Umm, we can't accept Yep as an answer, it will have to be yes or no. So for the first question, was that a yes?
+[8 minutes 34 seconds][Customer] : OK, yes.
+[8 minutes 38 seconds][Agent] : OK, thank you. Umm, next question. Have you ever had symptoms of being diagnosed with or treated for or intensive medical advice for any of the following? So the first one is stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina. Lung disorder excluding asthma, sleep apnea or pneumonia, cancer or leukemia excluding skin cancer, anxiety, depression or stress requiring medical treatment, or any other mental health disorder. Have you been diagnosed with a terminal illness, motor neurone disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy?
+[8 minutes 59 seconds][Customer] : No, no, no, no, no.
+[9 minutes 40 seconds][Agent] : In the last 10 years, have you used illegal drugs, abuse prescription medication, or received treatment or counseling for drug or alcohol consumption?
+[9 minutes 49 seconds][Customer] : No.
+[9 minutes 51 seconds][Agent] : Thank you. The next section is in relation to your height and weight. Please be aware that I am required to obtain a competent single seizure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words, or height and weight ranges. So the first one, what is your exact height in either centimeters or feet in inches?
+[10 minutes 17 seconds][Customer] : OK, this is the question where I think we're going to be stuck because I honestly don't know What is my height?
+[10 minutes 18 seconds][Agent] : Oh OK.
+[10 minutes 25 seconds][Customer] : Yes.
+[10 minutes 25 seconds][Agent] : Do you remember if maybe you know the last time you went to the doctors if they recorded your height there?
+[10 minutes 31 seconds][Customer] : Oh, wow. The last time I as I go to the office when I give birth to my kids. So they asked me the last time they did my he my height. It's probably five years ago. Yeah.
+[10 minutes 43 seconds][Agent] : Oh, OK, maybe do you have a measuring table or did you have an iPhone where you know you could use the measure app on the iPhone or if you had a measuring table where you could measure your height.
+[10 minutes 57 seconds][Customer] : No, I don't have any updates with me.
+[11 minutes 1 seconds][Agent] : OK, because order to continue with the application of do you need to enter your exact high?
+[11 minutes 7 seconds][Customer] : Yeah, I'll probably go back when I have my hike 'cause I I don't have it.
+[11 minutes 8 seconds][Agent] : So what I'll do, OK, no worries. What I'll do is I'll pop your application on hold and I'll, I'll give you a call back. I'll give you a call back tomorrow to follow up with you see if you do have your exact height. The next question as well, it does ask what is your exact weight. So if you want to grab your exact height and exact weight and then that way we can continue with the application.
+[11 minutes 27 seconds][Customer] : Yeah, OK, that's fine.
+[11 minutes 34 seconds][Agent] : Yeah, so.
+[11 minutes 35 seconds][Customer] : Before I before I let you go, let me ask, can I ask you one thing? Do you guys accept joint application?
+[11 minutes 43 seconds][Agent] : Not for the life insurance, no.
+[11 minutes 46 seconds][Customer] : Oh, So what do you guys accept joint application for?
+[11 minutes 50 seconds][Agent] : We have funeral insurance where you could do a joint, but for the.
+[11 minutes 53 seconds][Customer] : Oh, OK.
+[11 minutes 54 seconds][Agent] : Yeah, but for the life insurance, we don't do a joint policy.
+[11 minutes 59 seconds][Customer] : Oh, you don't do joint policy? And what is your what's your estimate prices and covers for funeral insurance?
+[12 minutes 1 seconds][Agent] : Yeah, for the funeral insurance, yeah. Give me one moment. I can load up some pricing for you. So with the funeral insurance, it is slightly different. It it provides a cash benefit of up to $30,000.
+[12 minutes 8 seconds][Customer] : OK, OK, OK.
+[12 minutes 20 seconds][Agent] : And it's designed to provide you that Peace of Mind that if you were to pass away, we'll pay that money to your loved ones to help not only for funeral expenses, but they can be used for any other final expenses such as unpaid bills.
+[12 minutes 37 seconds][Customer] : OK, so what's that mine? Sorry, sorry to cut you off.
+[12 minutes 36 seconds][Agent] : OK, that's OK.
+[12 minutes 40 seconds][Customer] : I'm sorry to So if I want to choose the 30,000 cover for me and my partner and one of us goes first, that's the whole 30 kids paid out or half of it because it's a joint one.
+[12 minutes 53 seconds][Agent] : No, So with the joint policy, you choose a benefit amount for each of you. So say for example, if you choose $30,000 for yourself and that's $30,000 for your partner. In the event if your partner does pass away there, they will pay up at $30,000 there.
+[13 minutes 11 seconds][Customer] : OK.
+[13 minutes 12 seconds][Agent] : But I will let, but I will let you know there is a waiting period, umm, of 12 months.
+[13 minutes 11 seconds][Customer] : So yeah, yeah, yeah. That should be on it for a year before, yeah. Because I had that once for my mom, but she passed away a few months after we had that cover, so we didn't get it. Yeah. So I kind of had a a little bit of understanding on that.
+[13 minutes 18 seconds][Agent] : So for the 1st, Oh, OK, yeah, yeah.
+[13 minutes 39 seconds][Customer] : Yeah. Hmm. Mm.
+[13 minutes 33 seconds][Agent] : So with our funeral insurance for the 1st 12 months you will be covered for accidental death and accidental serious injury only after the first 12 months you will be covered for death due to any cause, OK.
+[13 minutes 49 seconds][Customer] : Yeah.
+[13 minutes 50 seconds][Agent] : In addition, there was a terminal illness benefit, which means after holding your policy for 12 months, if you were first diagnosed with a terminal illness with a 12 months or less to live by a medical practitioner, we pay your benefit amount to you in full.
+[14 minutes 9 seconds][Customer] : OK.
+[14 minutes 8 seconds][Agent] : OK, So do I let you know as well with our funeral insurance, umm, there's no medical checks. Acceptance is guaranteed if you're a New Zealand resident residing in New Zealand and age between 18 and 79. So you've already got guaranteed acceptance there for our funeral insurance. OK. And I wanted to let you know as well. Umm, there was two ways where your benefit amount could triple. So the first one is if your death was due to an accident, your chosen benefit, it will triple. Say for example, you're insured for the $30,000 there and you passed away due to an accident, we'll triple that $30,000. So we'll pay out to your family $90,000 there, OK. And then that, then the next way is if you would have suffer an accidental serious injury such as quadriplegia or paraplegia before the policy anniversary following your 75th birthday, the benefit amount will also triple.
+[14 minutes 54 seconds][Customer] : OK, OK.
+[15 minutes 11 seconds][Agent] : OK, so without funeral insurance, you can choose cover between $3000 up to $30,000 and it's $1000 increments in between. So it starts from $3000 next one's 4005 thousand all the way up to $30,000. What benefit amount did you want me to quote you one first?
+[15 minutes 20 seconds][Customer] : Yeah, I will quote. Can you quote me 4 20,000 each?
+[15 minutes 45 seconds][Agent] : 20,000 No worries. So the full $20,000 of funeral cover, it's a fortnightly premium of $21.57. So to break that down roughly equates to $10.79 per week. And that's the leave behind $20,000 there for your children. OK.
+[16 minutes 11 seconds][Customer] : Is that the joint one?
+[16 minutes 10 seconds][Agent] : And I wanted no, so that's for just yourself. So, So what was your partner's first name and last name and date of birth? And that way I can see how much it is for him as well. Provide you with the quote.
+[16 minutes 17 seconds][Customer] : Oh, OK. First name is Peter.
+[16 minutes 28 seconds][Agent] : So Peter? Yep. Surname.
+[16 minutes 29 seconds][Customer] : Yeah, yeah.
+[16 minutes 36 seconds][Agent] : Yep.
+[16 minutes 32 seconds][Customer] : Surname is Farlongo F AA LOGO.
+[16 minutes 39 seconds][Agent] : Yep.
+[16 minutes 40 seconds][Customer] : Yeah.
+[16 minutes 41 seconds][Agent] : So s s AA LOGO, is that correct? Yep. And date of birth? Yes, The date of birth, 18th of the 9th, 1995.
+[16 minutes 46 seconds][Customer] : Yeah, 18/09/95, correct.
+[16 minutes 58 seconds][Agent] : Thank you. And can I please confirm Peter is a New Zealand resident, currently residing in New Zealand.
+[17 minutes 5 seconds][Customer] : Yeah. New Zealand citizen.
+[17 minutes 7 seconds][Agent] : OK. Yeah. And he's currently residing in New Zealand, is that correct? Thank you.
+[17 minutes 7 seconds][Customer] : Yeah, Yeah, OK.
+[17 minutes 16 seconds][Agent] : OK, bare with me one moment and I just want to confirm as well. Could you please confirm you are authorized to disclose personal information on behalf of your partner Peter? Thank you. And for Peter as well, do you want me to put you for $20,000 of cover for him as well? Yeah, no worries. So for both you and Peter for $20,000 of funeral cover, So for both of you, so they know the price individually. So for yourself, it's $21.57 per fortnight for $20,000 of cover. For Peter, it is the same.
+[17 minutes 31 seconds][Customer] : Yeah, Yeah, yeah. OK.
+[18 minutes 6 seconds][Agent] : So it's $21.57 per fortnight for $20,000 of cover. So in total for both of you on $20,000 of cover each, it's a fortnightly premium of $43.14 per fortnight, OK.
+[18 minutes 12 seconds][Customer] : Alright, cool. Yeah.
+[18 minutes 26 seconds][Agent] : And I wanted to let you know as well with your premiums, your premiums are level. So what that means is they're designed to stay consistent year on year. OK. And you also had a few options when you reach the age of 85. I know it's still a very, very long way away there for yourself.
+[18 minutes 47 seconds][Customer] : Yep.
+[18 minutes 47 seconds][Agent] : Still got many, many more birthdays to go.
+[18 minutes 49 seconds][Customer] : Mm hmm.
+[18 minutes 50 seconds][Agent] : Pardon me, sorry. But when you reach the age of 85, your premiums will stays, which means you will stop paying premiums.
+[18 minutes 59 seconds][Customer] : Mm hmm.
+[18 minutes 59 seconds][Agent] : Your funeral cover, it will still continue and a 25% bonus cover will be automatically added to your benefit amount there. OK.
+[19 minutes 9 seconds][Customer] : Yep.
+[19 minutes 10 seconds][Agent] : And then also there was another option and that's what we call the early cash out option.
+[19 minutes 16 seconds][Customer] : OK.
+[19 minutes 16 seconds][Agent] : So at any time after your 85th birthday, you will have an early cash out option. So that's where you can choose to end your cover and we will pay you 75% of the funeral insurance benefit. OK, so you did have those options available there.
+[19 minutes 32 seconds][Customer] : Yeah, yeah. Mm, hmm.
+[19 minutes 36 seconds][Agent] : So just to recap, for the $20,000 of cover for both you and your partner, it's a total premium of $43.14 per fortnight.
+[19 minutes 47 seconds][Customer] : Mm, hmm.
+[19 minutes 47 seconds][Agent] : How's the funeral cover sounding to you?
+[19 minutes 50 seconds][Customer] : Yeah, sounds OK. Well, for me, yeah, but I'll, I'll probably, we'll talk more about it when I have my. Will you call back tomorrow? Actually, yeah.
+[20 minutes 1 seconds][Agent] : Oh, OK, yeah, no worries. And you know, with the funeral insurance as well, What do you want to think about, you know, in particular with the funeral insurance?
+[20 minutes 11 seconds][Customer] : I don't know. Just wanted to know, but I think, yeah, I think I might just go with the life insurance.
+[20 minutes 18 seconds][Agent] : Oh, OK, no worries.
+[20 minutes 19 seconds][Customer] : Yeah.
+[20 minutes 19 seconds][Agent] : Not an issue. No worries. So what I'll do is I'll give you a call back tomorrow then to continue with the life insurance application.
+[20 minutes 27 seconds][Customer] : Hmm. Mm. Yeah, that's fine. Yeah.
+[20 minutes 28 seconds][Agent] : So I'll give you a call back, let's say tomorrow morning to follow up with you there.
+[20 minutes 33 seconds][Customer] : No, no, no. Tomorrow morning, No.
+[20 minutes 34 seconds][Agent] : Oh, afternoon, Wednesday afternoon. Yeah. OK, no worries.
+[20 minutes 36 seconds][Customer] : Can we do, can we do Wednesday afternoon maybe 12:00 or or maybe morning is fine.
+[20 minutes 45 seconds][Agent] : Yeah, OK, no worries.
+[20 minutes 49 seconds][Customer] : Yeah.
+[20 minutes 46 seconds][Agent] : I'll give you a call on Wednesday around 12:00 and then we continue with the application. So I'll need your exact height and your exact weight. OK.
+[20 minutes 55 seconds][Customer] : OK, cool. No worries.
+[20 minutes 57 seconds][Agent] : All right, Thank you for that. And we'll have a chat on Wednesday.
+[20 minutes 56 seconds][Customer] : Thank you. Alright, talk soon. Bye.
+[21 minutes][Agent] : All right, bye.

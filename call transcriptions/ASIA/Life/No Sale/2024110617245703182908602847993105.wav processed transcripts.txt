@@ -1,0 +1,76 @@
+[15 seconds][Customer] : Hello.
+[16 seconds][Agent] : Hi, Ben, it's Eric calling from Australian Seniors. I'm just giving you a call as we received the expression of interest online with regards to our life insurance. Yeah, I'm just so I can assist you further. Can I please have your full name and your date of birth?
+[25 seconds][Customer] : Oh yeah, Benson Alberina 07/02/1971.
+[35 seconds][Agent] : Yep. Awesome, thank you for that. So Please note all our calls are recorded. Any advice I provide of general nature and may not be suitable to your situation. Can I also confirm that you're a male Australian resident? OK awesome. So thank you for that there. I'm just so I can have a better understanding of what sparked your interest. Are you new to life insurance or do you currently have some in place?
+[42 seconds][Customer] : OK, Yeah, I got life insurance before, but I just transferred it at the moment.
+[59 seconds][Agent] : Yep, yes, I Do you have any cover in place at all or Uh huh? Yep, you wanted to transfer your.
+[1 minutes 7 seconds][Customer] : I, I, I got Hobart in New Zealand if it's still present, but I want to transfer it to here just like close, close the one in the New Zealand and I open up the one in Australia.
+[1 minutes 24 seconds][Agent] : Oh, OK, no worries at all. Umm, so mind me asking what's happened with your New Zealand policy? Was it, was it?
+[1 minutes 33 seconds][Customer] : I'm not really unsatisfied really. I'm, I'm OK with that New Zealand one. But The thing is we're getting the latest appointment.
+[1 minutes 31 seconds][Agent] : Were you unsatisfied with that or mm, hmm, uh huh.
+[1 minutes 40 seconds][Customer] : So that's that's the one in New Zealand spending money.
+[1 minutes 45 seconds][Agent] : Uh, OK. Uh, does your policy by any chance, umm, do they, does it cover you worldwide or? Yep. Oh, OK. Yeah, that currency, Yeah. OK. Well, what I can do for you now is that I can explain the main features and benefits with our policy and run through some pricing with you, if that's OK with you.
+[1 minutes 52 seconds][Customer] : I The topic is worldwide, but The thing is, if you need the money when something happens, have to deal with the currency exchange, yeah, yeah, that's alright.
+[2 minutes 16 seconds][Agent] : Yeah, OK, awesome. So we'd say with our policy, our seniors life insurance, it is designed to provide financial protection for your loved ones. They're a lump sum payment if you were to pass away before your 85th birthday when the policy ends. You can choose cover between up to 10 thou, I'm sorry between 10,000 up to $200,000 and nominate up to five beneficiary to receive their nominated benefit amount. If death is due to an accident, your choice of benefit will triple and we also include an advance payment of 20% of the benefit amount to help with funeral costs or any other final expenses at the time. It's easy to apply then all we just do here is just ask you 8 yes or no health. Uh, so eight yes or no questions relating to your health. Umm. If you are accepted and once you do decide to commence the policy, you will be covered immediately for death due to any cause except suicide in the 1st 13 months. In addition, there is a terminally ill advanced payment in the cover. So what that means is that if you were diagnosed with 24 months or less to live by a specialized medical practitioner, we can pay your benefit amount in full to help with medical costs and to ensure you receive the best care possible. Do you have any questions for me so far, Ben?
+[3 minutes 31 seconds][Customer] : OK. I got a question regarding terminal illness. I I don't have those ones, but it's just only a curiosity question.
+[3 minutes 35 seconds][Agent] : Yep, Yep.
+[3 minutes 41 seconds][Customer] : So you, you said that if there was advice from that specialist that the, the person is going to be dying within 10 to 12 months or 24 months, the benefits, you're gonna pay the benefits, but you're gonna pay the money.
+[3 minutes 47 seconds][Agent] : Yep, Yep, yes. So it says here also that. So I'll just repeat that again for you, just to recap for that for you and just to clarify that also. So in addition, there is a terminally ill advanced payment included in the cover. So what this means is that if you were diagnosed with 24 months or less to live by specialized medical practitioner, we can pay your benefit in full, your benefit amount in full. Does that make sense to you or did you need me to?
+[4 minutes 23 seconds][Customer] : OK, It, it makes sense.
+[4 minutes 26 seconds][Agent] : Did you have any other questions with more than 24 months?
+[4 minutes 28 seconds][Customer] : Nothing is what if, if, if you leave more than 24 months or you get the money and then the doctors say. But sometimes they, they're still human. They, they make mistakes. So, so what's gonna happen? You can you can, you can the guy you pay back the money.
+[4 minutes 50 seconds][Agent] : OK, that's a very good question actually. So just give me one second.
+[5 minutes][Customer] : Yes, yeah. That's like the people say, oh, he he's definitely so much believe.
+[4 minutes 54 seconds][Agent] : So with more than 24 months to live sorry or less than uh, so your question was, umm, would the, would the money be paid out if the, uh, if you have 24 months or more to live with more than 24 months, Sorry, Yeah, uh huh.
+[5 minutes 12 seconds][Customer] : And they claim the the money they they make a mistake.
+[5 minutes 18 seconds][Agent] : Oh, OK. Well, umm, in terms of that, if you, if there is something that was to happen to you with, umm, with, with, in relation to the terminally ill advanced pay and to become internally ill, sorry, umm, this all depends on claims. Uh, but all you, all you need to do is to have the supporting documents to support your evidence and then they can pay up that claim in full for you.
+[5 minutes 40 seconds][Customer] : Are you saying the document is just like medical examination diagnosis?
+[5 minutes 44 seconds][Agent] : Yeah, yeah, that is correct. Umm, but I, I don't think about all, all I do is just all I do is just require some like supporting documents that you have that is, that is proof of you that you have been diagnosed a 24 month old less to live by a socialized medical practitioner. Umm, but with that terminally with that, with that terminally, it would benefit umm, if they see less than so I'm not. So I think it'll only pay if it's less than 24 months, all 24, all 24 months exact.
+[6 minutes 22 seconds][Customer] : OK, OK.
+[6 minutes 22 seconds][Agent] : Yeah. Uh, did you have any other questions for me so far? Just so just before we can go into the quoting together.
+[6 minutes 29 seconds][Customer] : Not the moment.
+[6 minutes 30 seconds][Agent] : Yeah. OK, Awesome. So let's just go through a quote together. So just to begin with, have you had a cigarette in the last 12 months? Yeah. Yeah, I, I have. You had a cigarette in the last 12 months?
+[6 minutes 44 seconds][Customer] : I don't.
+[6 minutes 45 seconds][Agent] : Yeah.
+[6 minutes 45 seconds][Customer] : I don't smoke.
+[6 minutes 46 seconds][Agent] : Yeah. Was that yes or no? Sorry.
+[6 minutes 47 seconds][Customer] : No, no, no.
+[6 minutes 48 seconds][Agent] : OK. Thank you for that. OK. And what benefit would you like me to look at for you then? Yep. So we have a benefit amount of $10,000 up to $200,000. So which one would you like me to look at for you?
+[6 minutes 55 seconds][Customer] : What do you mean by benefit the the amount 100?
+[7 minutes 6 seconds][Agent] : 200,000, OK. I'm just keeping in mind that if you, if it if it is not suitable for you or if you can't find affordability, we can go lower on the benefit amount if you'd want. OK, OK, so with the benefit, with the benefit amount of $200,000, you'll be, you'll be paying a premium, a fortnightly premium of $129.45 a fortnight. Ah, for monthly, you want to look at monthly payments.
+[7 minutes 31 seconds][Customer] : Under 29 for months, for a month, yeah.
+[7 minutes 39 seconds][Agent] : OK, give me one second. OK. So monthly payments would breathe would be $280.49 per month.
+[7 minutes 49 seconds][Customer] : Is this a level, A level just like a same amount that I get old?
+[7 minutes 55 seconds][Agent] : What was that sorry.
+[7 minutes 55 seconds][Customer] : Or is it the same amount just like I know there was just like a straight amount and then there was a step.
+[8 minutes 3 seconds][Agent] : Yes, so this one would be the so this amount will be for $200,000, but this will be on a monthly premium of $280.49 every year, No, So there is no, there is no discounts or anything like that. But were you talking about if the if your rates will with your premium will increase? Sorry, umm, so just give me a second. Let me just have a look at that for you.
+[8 minutes 12 seconds][Customer] : Every year it gets higher, yeah, because I I talked to one of the life insurance as well. So they, they have two options.
+[8 minutes 38 seconds][Agent] : Mm Hmm.
+[8 minutes 38 seconds][Customer] : One they like a amount until that's the time they can increase the the premium.
+[8 minutes 43 seconds][Agent] : Yep, Yep, Yep.
+[8 minutes 50 seconds][Customer] : Wow.
+[8 minutes 53 seconds][Agent] : Yeah, umm, well in terms of the are the increase in your premium. So if I say your premium is debt, so it will increase each year, umm, but as an indication, if you make no changes to the policy, your premium next year would be let's see a monthly premium of $300.00.
+[8 minutes 51 seconds][Customer] : And then you're only covered by 200.
+[9 minutes 12 seconds][Agent] : Yeah, yes. So this is for, for the 200,000 benefit a member. We can always have a look lower at a lower benefit amount if you'd like me to. Umm. So how does that sound in terms of suitability for you?
+[9 minutes 26 seconds][Customer] : Yeah, no, I think that's all right. Because I got I got the half a million because I only, I only paying 70.
+[9 minutes 29 seconds][Agent] : I, I yeah. I'm sorry. You already have. I'll, I'll, you already have insurance with another company. Sorry, as you said before. Uh huh.
+[9 minutes 40 seconds][Customer] : No, I don't have any insurance company.
+[9 minutes 43 seconds][Agent] : Yep. Yep.
+[9 minutes 43 seconds][Customer] : I I can't sign off plan any insurance at the moment, but the party already gave me application.
+[9 minutes 51 seconds][Agent] : Uh huh. Oh, OK. Yep. Uh huh.
+[9 minutes 52 seconds][Customer] : But The thing is like asking about the system the way the process is because they have I have to goes to one hour like keeping my phone so that it's gonna be took my time. I was, I was too, too busy personally. That's the thing about the Australian theatres. Oh my God, the Australian theatres.
+[10 minutes 12 seconds][Agent] : Yep, Yep, Yep, uh huh. Yep. Oh, OK umm, well with the 200,000, yeah, as I said before, I maximum is only 200,000 and you're looking for more than half a million so is that what you said?
+[10 minutes 21 seconds][Customer] : And I thought it'd be more cheaper or not even maybe the same half. 1,000,070.
+[10 minutes 40 seconds][Agent] : Yeah. OK. Umm, well, unfortunately, umm, benefit man only goes up to $200,000.
+[10 minutes 45 seconds][Customer] : Yeah, the 201 is you're saying 124?
+[10 minutes 45 seconds][Agent] : Umm, if if you could repeat that, sorry, haven't had some of you.
+[10 minutes 48 seconds][Customer] : You're saying that the there are 200,000 overage for benefits just like 120 a month.
+[11 minutes 2 seconds][Agent] : So again, as I said before, with the benefit amount of $200,000, that equates to a monthly premium of $280.49. But your premium is stepped, so that means it will increase each year.
+[11 minutes 18 seconds][Customer] : OK, that's alright.
+[11 minutes 19 seconds][Agent] : Yeah.
+[11 minutes 19 seconds][Customer] : That's OK.
+[11 minutes 21 seconds][Agent] : OK. So that's all good. But you can also find information about our premium structure on our website if you request to do so. But yes, so how's that standing in terms of suitability?
+[11 minutes 27 seconds][Customer] : I I think that's, that's too much. That's pricey, I think and that's.
+[11 minutes 45 seconds][Agent] : Oh, OK. It's too pricey for you.
+[11 minutes 49 seconds][Customer] : Yeah. So thank you so much. There's no point of somebody going to give me a lower price in a higher coverage.
+[11 minutes 48 seconds][Agent] : Sorry OK no worries at all that's all good for that umm but yes we can always look at a lower amount if you want me to look at a lower amount for you or uh huh OK no worries at all. Well, that is all good then Umm, but yes, I can umm, So what I'll do is that I'll, I will close this lead off here for you. OK, OK, I'll just leave here for you and if you if you, if you're happy, if you like, if you're interested in if you're interested in signing with us, feel free to give us a call back and we're more than happy to help you out with it. OK, but I do apologize in advance for that, but have you have a great day. Thank you for that then. OK, thank you. That's OK, all good bye, bye for now.

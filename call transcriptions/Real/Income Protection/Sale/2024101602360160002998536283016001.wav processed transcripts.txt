@@ -1,0 +1,332 @@
+[1 seconds][Customer] : Hello.
+[4 seconds][Agent] : Good afternoon. Jenny, you're calling from real Insurance. How are you?
+[7 seconds][Customer] : Not too bad, are we?
+[9 seconds][Agent] : That's good, really. Well, thank you. I'm following up in regards to the expression of interest you received online for the income protection they'll be able to go through.
+[16 seconds][Customer] : Yeah, for the income protection insurance, Yeah.
+[18 seconds][Agent] : Yeah, yeah, I'll be able to go through the quotes and the information, answer any questions that you might have yourself.
+[24 seconds][Customer] : Yep.
+[23 seconds][Agent] : Then what has got you looking into the income protection for yourself?
+[29 seconds][Customer] : Because I work as a subconductor and I do my own business as well. So basically I just need a if I'm out of work or something. I just need something to secure, that's all.
+[32 seconds][Agent] : Oh, yeah, yeah, yeah, of course. And is it something that you need as you know, your requirement for certain areas that you're working as well or?
+[48 seconds][Customer] : Like, what do you mean?
+[49 seconds][Agent] : Yes. So has like someone asked you to get the income protection as well, you know, based on, you know, like you're being a contractor for certain job sites or. Yeah, OK.
+[58 seconds][Customer] : Yeah, I'm OK as a diesel mechanic and I do want a towing diesel as well.
+[1 minutes 1 seconds][Agent] : Yeah, OK.
+[1 minutes 4 seconds][Customer] : Yeah. So I just need something to check it out, that's all.
+[1 minutes 4 seconds][Agent] : Yeah, Yep, Yeah, of course. Did you say you're a mechanic? Diesel mechanic? Yeah.
+[1 minutes 12 seconds][Customer] : Yeah, I'm a diesel mechanic as well, Yeah.
+[1 minutes 15 seconds][Agent] : OK, not a problem. Alright, so regards to the question and the information, if you'll be able to answer any questions you might have. Is this the first time you're looking into the income protection?
+[1 minutes 26 seconds][Customer] : Yes, ma'am.
+[1 minutes 27 seconds][Agent] : Yeah. Oh, perfect.
+[1 minutes 26 seconds][Customer] : Yeah, yeah, I used it from one of my friends and they recommend you, you guys to go to the things. That's why I rang you guys. Yeah.
+[1 minutes 33 seconds][Agent] : Yeah, Yeah. Oh, fantastic. Well, thank you so much for giving us a call for that recommendation from your friend. Let's go in through it then. So Please note all our calls are recorded. Any advice or providers general in nature may not be suitable to your situation.
+[1 minutes 47 seconds][Customer] : OK.
+[1 minutes 46 seconds][Agent] : Can I just get you to confirm your name and date of birth?
+[1 minutes 51 seconds][Customer] : You want my name and date of birth?
+[1 minutes 52 seconds][Agent] : I guess confirm your name and date of birth. I have it for the information you've entered online.
+[1 minutes 55 seconds][Customer] : Yeah, playing with Bandara 10th of May 1993.
+[2 minutes][Agent] : Thank you. And may I confirm you are a male Australian resident?
+[2 minutes 3 seconds][Customer] : I'm a foreign resident yeah, and I'm a citizen on next year.
+[2 minutes 7 seconds][Agent] : OK, Thank you.
+[2 minutes 6 seconds][Customer] : So yeah, yeah, yeah. And I'm a I'm a I'm Australian a little reservoir as well.
+[2 minutes 8 seconds][Agent] : So just confirming with gender and residency you are male Australian residents, OK.
+[2 minutes 19 seconds][Customer] : So if I, you never know if a war something or start starts going on or something like that because I might have to go to the war and stuff. So that's why I'll, I just want to put this insurance as well.
+[2 minutes 32 seconds][Agent] : OK, not a problem. Now that's completely understandable. We'll go through the information here. So with our cover and just confirming, sorry, I just need a yes or no please. You are a male Australian resident, is that right?
+[2 minutes 29 seconds][Customer] : That's one of the other reasons as well, to be honest with you. That's right.
+[2 minutes 45 seconds][Agent] : Perfect, thank you. So our cover is designed to provide a monthly income benefit paid directly to you if you are unable to work due to a disabling sickness or injury and you suffer a loss of income.
+[2 minutes 57 seconds][Customer] : Hmm. Mm.
+[2 minutes 56 seconds][Agent] : So it's designed to help cover your bills and living costs of your salary is interrupted.
+[3 minutes 1 seconds][Customer] : Yep.
+[3 minutes 1 seconds][Agent] : Now you can apply if you work at least 15 hours per week in paid employment.
+[3 minutes 8 seconds][Customer] : No, go for it. Yeah. Yep.
+[3 minutes 6 seconds][Agent] : Now we offer it, Thank you. We offer an income benefit of up to 70% of your monthly pre tax income from $1000 up to a maximum of $15,000.
+[3 minutes 15 seconds][Customer] : Yep, Yep, Yep.
+[3 minutes 19 seconds][Agent] : And to apply we just ask you some health and lifestyle questions over the phone to see if you are approved and if so on what terms we can also cover.
+[3 minutes 27 seconds][Customer] : Righto.
+[3 minutes 27 seconds][Agent] : And once you've placed it will cover you into your policy anniversary following your 65th birthday. Now keep in mind that there are some exclusions applies outlined in the PDF and also keep in mind that premiums for income protection are generally tax deductible, which can make it more cost effective for you as well.
+[3 minutes 33 seconds][Customer] : OK, OK, Righto.
+[3 minutes 46 seconds][Agent] : And now alright, so we just need to go through some questions regarding your duties at work. So these are the yes or no questions and just bear with me. Now I do also want to bring up as well you mentioned about, was it, what is it that you're wanting that you want to be covered? You mentioned something about.
+[4 minutes 8 seconds][Customer] : Just my friends is I've got, I've got a mortgage as well and my mortgage and I've got a family as well. So if I'm, I'm wish it doesn't work, to be honest with you.
+[4 minutes 12 seconds][Agent] : OK, Yeah, yeah, OK. Yep.
+[4 minutes 20 seconds][Customer] : So I'm the one which is working.
+[4 minutes 25 seconds][Agent] : Yeah.
+[4 minutes 21 seconds][Customer] : So if something goes wrong, you never know, you know?
+[4 minutes 26 seconds][Agent] : Oh, of course. Yeah.
+[4 minutes 27 seconds][Customer] : Yeah.
+[4 minutes 26 seconds][Agent] : No, that's completely understandable. Now I just want to let you know because you didn't mention about war as well. So from the exclusions on the policy here, when we will, not when it's sorry, when will the benefit not be paid if there is an exclusion here for war, whether declared or not or war like activity or taking part in a right or civil promotion.
+[4 minutes 47 seconds][Customer] : It's not, it's not any rival thing like that. It's just Australian defence, that's all.
+[4 minutes 47 seconds][Agent] : So that is OK, not a problem.
+[4 minutes 53 seconds][Customer] : Yeah.
+[4 minutes 53 seconds][Agent] : I just wanted to let you know that because you did mention that anymore.
+[4 minutes 55 seconds][Customer] : No, no, it's not, it's not, it's not like a rival thing.
+[5 minutes][Agent] : Yeah, yeah, OK.
+[4 minutes 57 seconds][Customer] : It's just I'm, I'm Australian military itself because I was in the army before I gave me it too, Yeah.
+[5 minutes 4 seconds][Agent] : Sure. Yep, not a problem at all. No, that's understandable. So with these questions here just requiring a yes or no. And Please note, all our calls are recorded. So before answering any of our questions, it is important that you are aware of your duty to answer all our questions accurately and honestly. Failure to do so could impact your cover at claims time.
+[5 minutes 20 seconds][Customer] : That's fine. Yeah.
+[5 minutes 21 seconds][Agent] : So do you work? Thank you. Do you work 15 hours or more per week? Yes or no?
+[5 minutes 26 seconds][Customer] : I work around 50 hours a week.
+[5 minutes 28 seconds][Agent] : Yep, just a yes or no for these questions, please. Yep, thank you. It's definitely an understatement for yourself.
+[5 minutes 30 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah. I don't. I spend my time. No, I don't know. I work in a workshop here.
+[5 minutes 34 seconds][Agent] : And is your role of administrative, managerial or professional nature where you spend the majority of your time indoors in an office or clinical environment OK? Yep, thank you so much. And do you perform heavy physical duties, use heavy machinery or drive a vehicle? Yes or no?
+[5 minutes 55 seconds][Customer] : Yes.
+[5 minutes 56 seconds][Agent] : Thank you. Are you qualified, skilled or semi skilled or hold the required licenses to perform your role? Thank you. Do you work in any of the following fields? Aviation as a pilot or crew, entertainment or sporting industry, Air Force, Army, armed forces or do you handle explosives?
+[6 minutes 3 seconds][Customer] : Yes, I am Army, yes.
+[6 minutes 15 seconds][Agent] : OK, thank you. So this is so are you still employed as part of the Army?
+[6 minutes 25 seconds][Customer] : No, I'm just Army Reserve.
+[6 minutes 28 seconds][Agent] : What was that? Sorry.
+[6 minutes 29 seconds][Customer] : I'm a, I'm a Australian Army Reserve, yeah. So I don't know. I don't think that will be included in the thing, to be honest with you, Sir, because I'm a Reserve. I don't go all the time to be Army Sir.
+[6 minutes 32 seconds][Agent] : OK, so this is Yep. OK, so with this this one here, these questions here are based on on the duties for your occupation.
+[6 minutes 49 seconds][Customer] : Yeah, OK. OK.
+[6 minutes 51 seconds][Agent] : So as being a diesel mechanic. OK, alright.
+[6 minutes 51 seconds][Customer] : No, no, no, no, I'm just, no, yeah, I'm just.
+[6 minutes 55 seconds][Agent] : Yeah, OK. Thank you. So again, do you work in any of the following fields, aviation as a pilot or crew, entertainment or sporting industry, Air Force, Army, armed forces or do you handle explosives? Thank you. And do you regularly work underground or underwater, work at heights above 10 meters, work offshore, carry a firearm or drive long haul?
+[6 minutes 54 seconds][Customer] : No, no, no, I don't.
+[7 minutes 18 seconds][Agent] : Thank you. OK, so that concludes the duty based questions. So are you employed like as in the like you said, Army Reserve? OK, so do you still do that yourself now?
+[7 minutes 27 seconds][Customer] : Yeah, I do.
+[7 minutes 33 seconds][Agent] : Yeah. OK.
+[7 minutes 32 seconds][Customer] : But it's just once a year ago for a month that that's all just for training. That's pretty much it.
+[7 minutes 39 seconds][Agent] : OK. Yeah, alright, not a problem. Thank you for letting me know as well. Alright now have you had a cigarette in the last 12 months? Thank you. Just a yes or no? Sorry.
+[7 minutes 53 seconds][Customer] : I do, I do, yes.
+[7 minutes 57 seconds][Agent] : Thank you. Now also definitely confirm your employment status. You're currently employed or self-employed?
+[8 minutes 3 seconds][Customer] : I'm currently employed, so I work as a subcontractor.
+[8 minutes 7 seconds][Agent] : Yep. OK, not a problem.
+[8 minutes 7 seconds][Customer] : So I'm fully full time employed and I do own a towing business as well as a diesel mechanic. So employment, employment.
+[8 minutes 13 seconds][Agent] : So which one would you say you do the most hours in A and that was employed. OK, so it and those questions that you answered as well is that did you answer those questions based on a diesel, diesel mechanic? OK, perfect thank you. Now I just have to let you know the definition of pre tax income. So now pre tax income is the total annual remuneration paid to you by your employer before tax including salary, salary and regular commissions or bonuses excluding super contribution. So what is your annual pre tax income?
+[8 minutes 26 seconds][Customer] : Yes, for big.
+[8 minutes 45 seconds][Agent] : So this be based on your occupation as a diesel mechanic.
+[8 minutes 50 seconds][Customer] : So it's 120,000?
+[8 minutes 53 seconds][Agent] : OK, thank you. For 120,000 before tax for the year.
+[8 minutes 52 seconds][Customer] : Yeah, before that. Yes, ma'am.
+[8 minutes 58 seconds][Agent] : Yeah, OK, fantastic. Thank you. Now, based on your duties and income, you can select a monthly benefit amount from $1000 up to a maximum of $7000.
+[9 minutes 10 seconds][Customer] : OK.
+[9 minutes 9 seconds][Agent] : Now, if you are unable to work, what amount would be suitable for you per month?
+[9 minutes 18 seconds][Customer] : Can I go like with $9000 a month? Yeah, I'll go with 7000.
+[9 minutes 24 seconds][Agent] : 7000 is the maximum the 7000 yeah.
+[9 minutes 29 seconds][Customer] : Yeah.
+[9 minutes 29 seconds][Agent] : Now you also have the option to select different waiting periods and benefit periods depending on your circumstances. So the waiting period is a non payment period that you must wait before the income benefit is payable after the insured event. Now you can choose 30 days or 90 days. Please keep in mind the income benefit is paid monthly in a raise. This means if you choose a 30 day waiting period, your first payment would be 60 days after you were first eligible to claim. So which waiting period would you like me to select?
+[10 minutes 3 seconds][Customer] : So 30 days, it takes up to 60 days, isn't it?
+[9 minutes 59 seconds][Agent] : Is it 30 days or 90 days that. Yeah, that's correct.
+[10 minutes 7 seconds][Customer] : What about 90 days?
+[10 minutes 8 seconds][Agent] : Yeah. So 90 days would be 120 days that you get after you get.
+[10 minutes 12 seconds][Customer] : OK, I'll go with. I'll go with, I'll go with 30 days.
+[10 minutes 14 seconds][Agent] : OK, thank you. Now the benefit. Is the maximum amount of time that will pay the income benefits for anyone injury or illness. Now you have four options. So that's six months, one year, 2 years and five years. So which benefit. Would you like me to select?
+[10 minutes 30 seconds][Customer] : Five years. Mm Hmm.
+[10 minutes 32 seconds][Agent] : Thank you. OK, so $7000 monthly benefit, about 30 day waiting period and five year benefit. So you're looking at a fortnightly premium of $180.70. Now, included in your policy is a rehabilitation benefit along with a final expenses benefit, which pays $10,000 in the event that you pass away to assist with funeral costs or other final expenses. Yeah, your premium is stepped, which means it would generally increase each year as you age. So as an implication, if you make more changes to the policy, your premium next year will be actually remains the same for yourself. So it remains the same at $180.70 as well.
+[11 minutes 4 seconds][Customer] : Mm hmm mm hmm.
+[11 minutes 22 seconds][Agent] : And you can also, Yeah, that's correct. Yep. And you can also find information about our premium structure on our website as well. Did you have any questions in regards to anything we're going through?
+[11 minutes 28 seconds][Customer] : OK OK no. Like only thing is can I increase the monthly payment to?
+[11 minutes 36 seconds][Agent] : Yeah, yeah, that's the, that's the maximum benefit amount that's based on your duties and income. So your income that was 120 a 120,000.
+[11 minutes 50 seconds][Customer] : Yep. OK, OK, gotcha. Yeah, that's fine. Yeah, no questions.
+[11 minutes 54 seconds][Agent] : Yeah, that's 7000 for maximum.
+[11 minutes 56 seconds][Customer] : So we need the first payment deducted. I can give you my details to make a direct debit.
+[12 minutes 2 seconds][Agent] : OK. So the next step we need to do is run for your health and lifestyle questions and check your eligibility for the income protection. So we go through questions, the price and any terms of coverage determined on the outcome of these. So I'll take. So I'll take you through those questions now and then if you're approved, what we're able to do is organise to send the documentation out and have you covered as well. OK, All right. Now I'm just going to grab your address, just starting with the post code please. Thank you. And what suburb is that in? Great, thank you.
+[12 minutes 26 seconds][Customer] : OK 5108 Salisbury North, 7 Ferguson St.
+[12 minutes 45 seconds][Agent] : And the address Ferguson. Yeah, perfect. And the is that your postal address as well?
+[12 minutes 56 seconds][Customer] : Yes.
+[12 minutes 57 seconds][Agent] : Yep. Perfect. Thank you. Alright, now I'm just going to bring up a pre underwriting disclosure.
+[13 minutes 6 seconds][Customer] : Yep.
+[13 minutes 7 seconds][Agent] : And did you have any questions in regards to anything?
+[13 minutes 10 seconds][Customer] : No, not really.
+[13 minutes 11 seconds][Agent] : No, Yeah, not a problem at all. If you have any questions, you're more than welcome to ask. OK perfect. Now please be aware all calls are recorded for quality and monitoring purposes.
+[13 minutes 15 seconds][Customer] : OK, Yep.
+[13 minutes 21 seconds][Agent] : We collect your personal information to provide insurance quotes, issue cover and other related services.
+[13 minutes 31 seconds][Customer] : Yep.
+[13 minutes 27 seconds][Agent] : We will share this with your insurer and may share with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase an income protection policy and, as such, of the duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you provided some information to us in any earlier discussions you've had. If you do not take reasonable care, you may break your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy.
+[14 minutes 10 seconds][Customer] : Yeah, right.
+[14 minutes 10 seconds][Agent] : Do you understand and agree to your duty?
+[14 minutes 12 seconds][Customer] : Yeah.
+[14 minutes 13 seconds][Agent] : Great, Thank you. Now just going to ask you a question in regards to COVID. So just have you been hospitalized for COVID-19 in the last 12 months or have you experienced any ongoing symptoms or complications associated with your COVID-19 infection in the last 30 days? Great. Thank you. You said you have a a mortgage, your wife doesn't work. You have any children?
+[14 minutes 27 seconds][Customer] : No, no, I don't.
+[14 minutes 36 seconds][Agent] : No children. Yeah, not a problem.
+[14 minutes 38 seconds][Customer] : No, no.
+[14 minutes 39 seconds][Agent] : Yeah, perfect. So yeah, the obviously mortgage you need to pay any other bills if you're unable to work because it all all adds up, doesn't it? Now with these questions here that's requiring a yes or no response. If you get stuck on any of these, please let me know. I'll be happy to help you out. OK, perfect. So first question, are you a citizen or permanent resident of Australia or New Zealand? Currently residing in Australia. Fantastic to say yes or no, sorry. Thank you. Does your work require you to use explosives, travel to areas experiencing war or civil unrest, or work offshore? Thank you. And are you a employed or B self-employed? Yep, thank you. And have you been in your current occupation for at least 12 months? Thank you. Just a yes or no, sorry. Thank you. And you would tend to change your current occupation in the next 12 months?
+[14 minutes 47 seconds][Customer] : Yep, OK, all my resident in Australia, yes, No, I employed I I have yes, yes.
+[15 minutes 44 seconds][Agent] : Thank you. And will you be A employed or B self-employed? Thank you. And will your new occupation be in the same industry performing similar duties?
+[15 minutes 49 seconds][Customer] : Hey, yes.
+[15 minutes 58 seconds][Agent] : Great, thank you. And will your income reduce as a result of your occupation change? Thank you. All right, now, just bear with me. I'm just gonna place you on hold for one second, OK? It won't be too long.
+[16 minutes 3 seconds][Customer] : No, no.
+[16 minutes 11 seconds][Agent] : Thank you. Thanks for holding. Sorry about the wait.
+[18 minutes 31 seconds][Customer] : Yep.
+[18 minutes 32 seconds][Agent] : OK. So I just wanted to double check as well. And so we see your reserves. So that's that's it. You're employed for that as well.
+[18 minutes 43 seconds][Customer] : So it's fun employed, to be honest, it says.
+[18 minutes 45 seconds][Agent] : Yeah, OK.
+[18 minutes 48 seconds][Customer] : I don't say it's employed to be honest, because I don't go there often.
+[18 minutes 54 seconds][Agent] : OK. Once a year. OK.
+[18 minutes 55 seconds][Customer] : It's just once a month, once a year, once a year.
+[18 minutes 59 seconds][Agent] : So it's not because I just want to direct to see with that occupation question that we that I asked about as well.
+[18 minutes 59 seconds][Customer] : Yeah, Yeah. OK. Yeah, yeah. I don't think that. What's that?
+[19 minutes 4 seconds][Agent] : So, so is that classified as is that classified as like an occupation as well the Army Reserve?
+[19 minutes 13 seconds][Customer] : No, No, I don't think so.
+[19 minutes 16 seconds][Agent] : OK, not a problem.
+[19 minutes 14 seconds][Customer] : No, because I don't get paid from there or anything like that.
+[19 minutes 18 seconds][Agent] : OK, not a problem at all. No, that's understand. I just wanted to double check. Thank you for letting me know.
+[19 minutes 19 seconds][Customer] : Yeah, Only if I get deployed, I get paid. If I don't get deployed for some reason, I don't get paid.
+[19 minutes 22 seconds][Agent] : OK, OK. Yes, Yep.
+[19 minutes 29 seconds][Customer] : Yeah.
+[19 minutes 29 seconds][Agent] : So that's not yeah, it's not classed as an, a, an occupation that you that you do now.
+[19 minutes 33 seconds][Customer] : What's that?
+[19 minutes 34 seconds][Agent] : It's not classed as an occupation that you do now. Yeah. OK.
+[19 minutes 36 seconds][Customer] : No, no, no, no. Not at all.
+[19 minutes 38 seconds][Agent] : Yep.
+[19 minutes 38 seconds][Customer] : No.
+[19 minutes 39 seconds][Agent] : Not a problem. No. Thank you for letting me know. We'll go to the next question. It just says do you have a second occupation that generates a taxable income? Yes or no? Thank you. And combining both occupations, how many hours per week do you work in total? OK, Yep. So I was going to say, we've got here 65 hours or more or less than 65 hours.
+[19 minutes 47 seconds][Customer] : Yes, I do 60 to 65 hours a week, 65 hours.
+[20 minutes 5 seconds][Agent] : So yeah, less. So 65 hours or more or less than 65 hours. There's two different categories.
+[20 minutes 9 seconds][Customer] : I'll, I'll, I'll put it less than 65 hours, to be honest.
+[20 minutes 12 seconds][Agent] : Yeah. OK, Not a problem at all. And have you ever been declared bankrupt or placed in receivership, in voluntary liquidation, or under administration?
+[20 minutes 21 seconds][Customer] : No, nothing like that.
+[20 minutes 23 seconds][Agent] : Thank you. Now the next section is in relation to your height and weight. Please be aware that I'm required to obtain a confidence single figure measurement for each in order to continue with the application. This system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height? So how tall are you in either centimeters or feet and inches? So 5 feet, 9 inches. Thank you. And what is your exact? Yeah, weight in either kilogram, pounds or strength.
+[20 minutes 32 seconds][Customer] : Yep, 49, five roots, 9 inches and right is 8282 kilos.
+[20 minutes 52 seconds][Agent] : Yeah. OK, fantastic. Thank you.
+[20 minutes 53 seconds][Customer] : That's it. Yes.
+[20 minutes 55 seconds][Agent] : OK, perfect. So 5 feet 9 inches for your exact height and 82 kilograms for your exact weight.
+[21 minutes][Customer] : That's right.
+[21 minutes 1 seconds][Agent] : And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months to the best of your knowledge? Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? We have definite plans to travel or reside outside of Australia, IE booked or we'll be booking travel within the next 12 months.
+[21 minutes 6 seconds][Customer] : No, no, I don't think so.
+[21 minutes 25 seconds][Agent] : Yep, that's just a yes or no for that one, sorry.
+[21 minutes 27 seconds][Customer] : No.
+[21 minutes 27 seconds][Agent] : Thank you. So these questions are all based on now at the time of the application. So if you do obviously plan on going overseas, you don't need to let us know.
+[21 minutes 36 seconds][Customer] : OK.
+[21 minutes 37 seconds][Agent] : Now the next question just says do you have existing income protection cover?
+[21 minutes 44 seconds][Customer] : No, I don't.
+[21 minutes 45 seconds][Agent] : Thank you. And medical history. So have you ever had symptoms of being diagnosed with or treated for or intend to seek medical advice for any of the following cancer, tumour, mole or cyst, including skin cancer, sunspot, Melanoma or leukaemia? Have you ever had an abnormal PSA test or an enlarged prostate? Thank you. Stroke, chest pain, palpitations or heart conditions such as but not limited to heart attack and angina or high blood pressure, high cholesterol, thyroid condition or neurological symptoms such as dizziness or fainting, Diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose.
+[22 minutes 3 seconds][Customer] : No, no, no, no, nothing.
+[22 minutes 30 seconds][Agent] : Thank you. Hepatitis or any disorder of the liver, stomach, bowel, gallbladder or pancreas. Epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Thank you. Anxiety, depression or stress requiring medical treatment or any other mental health disorder?
+[22 minutes 30 seconds][Customer] : No, no, no, no, no, no, not at all.
+[22 minutes 51 seconds][Agent] : Thank you. Any illegal drug use, abuse or prescription medication or receive medical advice or counselling for alcohol consumption. Thank you. And disorder of the kidney or bladder? Yes or no, Blood disorder or disease, asthma or other respiratory disorder, excluding childhood asthma, back or neck pain or disorder.
+[22 minutes 59 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no.
+[23 minutes 16 seconds][Agent] : Just bear with me, Sorry. I just have to cough and I do want to cough in your ear, sorry. The next question says arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia, Joint or muscle pain, Ligament injuries, including replacement or reconstructive surgery, osteoporosis or osteopenia. Any defective hearing or sight other than which is corrected by glasses or contact lenses.
+[23 minutes 30 seconds][Customer] : No, no, no, no, not at all.
+[23 minutes 47 seconds][Agent] : Thank, you're doing well. Not too many questions to go. So other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays scans, blood tests or biopsy?
+[23 minutes 46 seconds][Customer] : No, I do a normal blood test every six months just to do a full body check up, that's all.
+[24 minutes 13 seconds][Agent] : OK, not a problem. So anything in particular, are you getting anything in particular checked?
+[24 minutes 19 seconds][Customer] : No, no, just do just a random check, that's all.
+[24 minutes 22 seconds][Agent] : OK. And you do that every six months.
+[24 minutes 25 seconds][Customer] : Yes, every six months.
+[24 minutes 27 seconds][Agent] : OK, not a problem. OK. Just bear with me. Let me just place you on hold. It won't be long. Thank you.
+[24 minutes 37 seconds][Customer] : Thank you.
+[26 minutes 26 seconds][Agent] : Thank you for holding. Sorry about the wait.
+[26 minutes 29 seconds][Customer] : No, you're up.
+[26 minutes 29 seconds][Agent] : OK, so for that one here, because I've got an annual check UPS where they were not presenting symptoms and everything came back normal. But because you do them every every six months, then I'm just going to have to ask you some further questions in regards to it.
+[26 minutes 40 seconds][Customer] : Yeah, Yeah.
+[26 minutes 44 seconds][Agent] : Sorry, I just need to have to refer it off to the underwriter for further assessment as well.
+[26 minutes 52 seconds][Customer] : OK.
+[26 minutes 55 seconds][Agent] : A6 monthly. And what kind of like what kind of tests and stuff do you do you do?
+[27 minutes 1 seconds][Customer] : Just a just a normal blood tape.
+[27 minutes 4 seconds][Agent] : OK, so blood tests every six months.
+[27 minutes 7 seconds][Customer] : Yeah.
+[27 minutes 8 seconds][Agent] : OK, thank you. So it just says please describe the reasons for consultation, including symptoms and diagnosis. Sorry. So blood tests every six months and how long have you been doing that for?
+[27 minutes 32 seconds][Customer] : For the last five years?
+[27 minutes 33 seconds][Agent] : OK, thank you. Alright.
+[27 minutes 52 seconds][Customer] : No, not really.
+[27 minutes 44 seconds][Agent] : Last five years and you don't check for anything in particular, alright. Alright, alright.
+[28 minutes 14 seconds][Customer] : I'm just checking if there's something wrong, that's all.
+[28 minutes 8 seconds][Agent] : So don't you don't check for anything in particular and yeah, not a problem.
+[28 minutes 20 seconds][Customer] : Yeah, everything. Because I train every day too.
+[28 minutes 18 seconds][Agent] : And is everything normally come back clear like do you does it the post OK?
+[28 minutes 23 seconds][Customer] : Because like, I do a really hard exercise at home and yeah, I do a Six Mile run every day afterwards.
+[28 minutes 31 seconds][Agent] : OK, yeah. So you don't check for anything in particular, just like to make sure the bloods and everything is are good?
+[28 minutes 38 seconds][Customer] : Yeah, just just to check out, just to make sure if there's something, then we can fix it before something goes really bad, you know?
+[28 minutes 44 seconds][Agent] : Yep, of course. Yeah, no, that's understandable. Alright, alright. And when did it occur? So when was your last your last blood test?
+[28 minutes 46 seconds][Customer] : Yeah, four months ago.
+[29 minutes 5 seconds][Agent] : Yeah. So last blood test four months ago, everything was clear and normal. Yeah.
+[29 minutes 19 seconds][Customer] : Yeah, I'll do so.
+[29 minutes 21 seconds][Agent] : Yeah. It says please provide details of medical tests, so examinations, X-ray scans, blood tests or biopsy, including dates and results.
+[29 minutes 32 seconds][Customer] : What's that?
+[29 minutes 29 seconds][Agent] : So was it just a blood test, just a blood test that you had done?
+[29 minutes 35 seconds][Customer] : Yeah, just the blood test, nothing else.
+[29 minutes 36 seconds][Agent] : Yeah. And is any further investigational treatment plan? If so, when?
+[29 minutes 49 seconds][Customer] : No.
+[29 minutes 50 seconds][Agent] : Yeah. And please advise before recovery has been made. So there was nothing that that you had? It was just for precaution.
+[29 minutes 58 seconds][Customer] : Yeah, just to check it out if you order that, aren't we?
+[30 minutes 1 seconds][Agent] : Yep. Not a problem. I just have to put it in.
+[30 minutes 4 seconds][Customer] : Yeah. OK.
+[30 minutes 5 seconds][Agent] : Yeah, Like I said, we've got annual, like annual check UPS because if one's not annual and you get them done every six months, then we just have to. Yeah, put it in the application here.
+[30 minutes 14 seconds][Customer] : OK.
+[30 minutes 22 seconds][Agent] : And is it the doctor asks you to get them done every six months or is it more that you're wanting to do that? Yep. OK, not a problem. Yep.
+[30 minutes 27 seconds][Customer] : I wanted to do that 'cause I was back in the Army as well before, before I came here. So I just want to check make sure everything is OK.
+[30 minutes 37 seconds][Agent] : Yeah, of course. Yeah. Alright, OK, perfect. So I've got the information there. So that's good. So like I said, we're just going to have to like refer to the underwriter for assessment because of the six monthly check out.
+[30 minutes 59 seconds][Customer] : OK, OK, right now.
+[31 minutes 1 seconds][Agent] : And so all results have come back normal is that that's that's right. So older have come back.
+[31 minutes 7 seconds][Customer] : Yeah, it would have been my normal.
+[31 minutes 8 seconds][Agent] : Yeah, Yeah. Alright, OK. All right. Now the next question just says other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you're currently experiencing within the next two weeks? Thank you. And other than what you have already told me about, have you ever during your working re sorry, working career required more than two consecutive weeks of work due to illness or injury? Thank you. And next question is family history. To the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis?
+[31 minutes 52 seconds][Customer] : No, no, no.
+[32 minutes 19 seconds][Agent] : Thank you. To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[32 minutes 29 seconds][Customer] : None of our members. They're still living. My grandfather's like 94 now.
+[32 minutes 34 seconds][Agent] : Oh, perfect. Very good. Good family history. Just a yes or no for that question as well. Sorry.
+[32 minutes 34 seconds][Customer] : No, Yep.
+[32 minutes 41 seconds][Agent] : OK, Thank you. So to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[32 minutes 40 seconds][Customer] : No, no, no, no.
+[32 minutes 49 seconds][Agent] : Thank you. And last question other than one off events example gift certificate slash vouchers do engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity.
+[33 minutes 13 seconds][Customer] : No, not at all.
+[33 minutes 14 seconds][Agent] : OK, thank you. And what about for the the Army Reserve training? Would you say that falls onto that part, that part at all?
+[33 minutes 14 seconds][Customer] : No, no, no, no. Because we don't, we don't do parachuting and stuff.
+[33 minutes 21 seconds][Agent] : Yeah, OK, not nothing like that applies.
+[33 minutes 24 seconds][Customer] : No, no.
+[33 minutes 25 seconds][Agent] : OK, not a problem at all. I just wanted to double check. OK, so that was the question there. Thank you so much for going through that and for your patience. Now, as I mentioned with the application here, so just in regards to the, the six month B blood test, we'd have to refer that to the underwriter. So I'm going to explain that to you as well. Umm, so as I mentioned in reference to your health and life for our answers, your application needs to be referred to the underwriter for assessment. Now, umm, so your application is referred with the below term. So exclusion second occupation. We will not pay an income benefit in respect of a claim for a disabling sickness or injury occurring directly or indirectly from the insured performing the duties of their second occupation. Any income derived from the second occupation will not be eligible to be included as financial evidence of your pre disability income. Now that amount there that remains the same of $180.70 per for that. Again, just confirming this is on the $7000 monthly benefit amount, 30 day waiting period and five year benefit.
+[34 minutes 17 seconds][Customer] : OK, Yeah, that's fine. Yeah.
+[34 minutes 30 seconds][Agent] : Great, thank you. Now what we do from here is we collect your payment details and we read you out a declaration so we can get this assessed by the UN underwriter.
+[34 minutes 40 seconds][Customer] : Yep.
+[34 minutes 40 seconds][Agent] : Now the commencement of your cover will be subject to final assessment by the insurer if the insurer approves cover without any changes. Are you happy for me to record your acceptance of this policy now and we'll send send you out all your policy information to your e-mail and postal address.
+[34 minutes 56 seconds][Customer] : Yeah, that's fine.
+[34 minutes 57 seconds][Agent] : Yep. Not a problem. Now the with payment. So you what that you did you want to do was first payment. So again, if it comes back approved with no changes made, it will automatically come out on that date.
+[35 minutes 7 seconds][Customer] : Yeah. Next week.
+[35 minutes 7 seconds][Agent] : Just Yep.
+[35 minutes 9 seconds][Customer] : No, no, no. When the when the final assessment comes after you guys done your thing, we can do it next week.
+[35 minutes 16 seconds][Agent] : Yeah, OK, Yep, not a problem. So that should get, they should get back to us either today or they do generally say within 24 to 48 hours. So if they come back to us, there's been no changes made what whatsoever. I'll accept that for you and you'll receive the e-mail and and post with all the documentation. So we can do payment anywhere. Did you want to say to we can do it anywhere from So maybe not today. I'm just thinking just to give it a couple of days for them to get back just in case they take a bit longer. So anywhere from Monday onwards?
+[35 minutes 35 seconds][Customer] : OK, yeah, that's fine. Yeah.
+[35 minutes 50 seconds][Agent] : What day would you prefer?
+[35 minutes 52 seconds][Customer] : Tuesday.
+[35 minutes 53 seconds][Agent] : Tuesday the 22nd?
+[35 minutes 55 seconds][Customer] : Yeah.
+[35 minutes 55 seconds][Agent] : Yep. So that comes back. No changes made. Payment will automatically come out on Tuesday the 22nd. So every fortnight on a Tuesday.
+[36 minutes 3 seconds][Customer] : Yep.
+[36 minutes 3 seconds][Agent] : If for some reason it's unsuccessful, no payment would be taken out at all. Just to let you know. And would you prefer it to be through direct debit or credit card? What's your preferred payment?
+[36 minutes 7 seconds][Customer] : Oh, very, very fine.
+[36 minutes 15 seconds][Agent] : Direct debit. Yeah. Was it a cheque or savings account? Was it a cheque or savings account?
+[36 minutes 19 seconds][Customer] : What's that savings account?
+[36 minutes 23 seconds][Agent] : Savings. Thank you. The account name, is that under your name?
+[36 minutes 24 seconds][Customer] : Yeah, yeah, it's under my name.
+[36 minutes 28 seconds][Agent] : Yep. Not a problem. So we just require the BSB and the account number when you're ready. Thank you. And the account number.
+[36 minutes 32 seconds][Customer] : BSB is 105056 123842040.
+[36 minutes 45 seconds][Agent] : Great. Thank you. And just confirming e-mail address yournamesolahirubandara796@gmail.com, is that right?
+[36 minutes 55 seconds][Customer] : Yes, ma'am.
+[36 minutes 56 seconds][Agent] : Thank you. And this is your best contact number, 0435773693.
+[37 minutes 4 seconds][Customer] : Yes, that's my number.
+[37 minutes 4 seconds][Agent] : Yep.
+[37 minutes 5 seconds][Customer] : OK.
+[37 minutes 5 seconds][Agent] : Yep. Perfect. Not a problem. So I'm just gonna read out your declaration and then we'll send the document. I'm sorry. And then we'll send the information off to the underwriter for that further assessment. OK.
+[37 minutes 14 seconds][Customer] : Ah, sounds good.
+[37 minutes 15 seconds][Agent] : Now just says thank you. How do I, I'm sorry. Sorry.
+[37 minutes 20 seconds][Customer] : The hero.
+[37 minutes 17 seconds][Agent] : How do I pronounce your name Lahira? Thank you. Thank you Lahira Bantara.
+[37 minutes 22 seconds][Customer] : Yeah, yeah.
+[37 minutes 23 seconds][Agent] : It is important you understand the following information. I will ask your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real income protection is issued by Hanover Live Ribos of Asia Ltd member referred to as Hanover. Hanover has an arrangement with Greenstone Financial Services. They may refer to as GFS trading as real insurance. The issue and arrange this insurance on its behalf. Hanover relies upon the information you provided on assessing your application. That includes the information we initially collected from you to provide a quote. And either I said I target market determination for this product, we describe the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you've agreed to. Can you please confirm you've answered all of our questions in accordance with your duty?
+[38 minutes 18 seconds][Customer] : Yep.
+[38 minutes 18 seconds][Agent] : Thank you. We may from time to time provide office to you by the communication methods you provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out.
+[38 minutes 31 seconds][Customer] : Yep.
+[38 minutes 31 seconds][Agent] : You can opt out of this at any time by contacting us. The acceptance number provides the following insurance cover for Sorry for the sorry Lahari Binzara. A monthly insured amount of $7000 with a waiting period of 30 days and a benefit period of six months. The monthly income benefit pay or in the event of a claim that may be less than the monthly insured amount, as your income benefit is limited to 70% of your average monthly income over any 12 consecutive months during the two years before you suffer your disabling sickness or injury.
+[38 minutes 34 seconds][Customer] : OK, Yep, Yep.
+[39 minutes 2 seconds][Agent] : Your income benefit can also be reduced if we receive other disability payments from other sources. There is a final expensive benefit of $10,000 paid to your beneficiaries if you pass away while your policy is in place. In addition to the standard exclusions contained within the PDF, the following exclusions apply for the Hari Bansara Income Protection Benefit. We were not paying income benefit in respect of a claim for a disabling sickness or injury occurring directly or indirectly from the insured performing the duties of their second occupation. Any income derived from the second occupation will not be eligible to be included as financial evidence of your pre disability income.
+[39 minutes 46 seconds][Customer] : Hold on.
+[39 minutes 40 seconds][Agent] : By agreeing to this declaration, you agree to any non standard exclusions or loading placed on your policy and you understand they will lay in place for the life of the policy. My request for any of these alternative terms to be reviewed at any time by calling us.
+[39 minutes 53 seconds][Customer] : Yep.
+[39 minutes 53 seconds][Agent] : Your cover expires on October 22, 2058, 12:00 AM. Your premium for your first year of cover is $180.70 per fortnight. Your premium is a stepped premium, which means it'll be calculated each policy anniversary and will generally increase each year.
+[40 minutes 9 seconds][Customer] : Yep. Yep.
+[40 minutes 9 seconds][Agent] : In addition to the sorry, I'll say that again. Included in your premium is an amount payable by hungover to G Vessel up to 37% and 51% to cover cost.
+[40 minutes 22 seconds][Customer] : Yep. Hello.
+[40 minutes 18 seconds][Agent] : Your premium will be debited from your nominated bank account in the name of Lahara Binzara, which you authorized a debit from and it provided to us the policy documentation. PDS and FSG will be mailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day calling off. When you may cancel your policy and any premium. You may pay the refund that in full unless you've lodged a claim. There are risks associated with the placing policies as your new policy may not be identical to your existing cover.
+[40 minutes 36 seconds][Customer] : Yep, Yep.
+[40 minutes 53 seconds][Agent] : We recommend it to not cancel any existing policy and have received and reviewed our policy in full.
+[40 minutes 58 seconds][Customer] : Bye bye.
+[40 minutes 58 seconds][Agent] : We have a complaint process which you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. We are all done there. Thank you so much for bearing with me. Do you understand and agree with the declaration?
+[41 minutes 11 seconds][Customer] : Yes, I did.
+[41 minutes 12 seconds][Agent] : Thank you. And would you like any other information about the insurance now or would you like me to read any part of the PDS to you?
+[41 minutes 19 seconds][Customer] : No, no thank you. e-mail it to me. Thanks.
+[41 minutes 21 seconds][Agent] : Yep. Not a problem at all. So we'll send it off to the underwriter if it comes back again. Fully approved, no changes made whatsoever. I'll accept that for you. And you'll receive e-mail and documentation as well.
+[41 minutes 32 seconds][Customer] : Oh, thank you.
+[41 minutes 31 seconds][Agent] : OK, That's OK. So that is all done. Is there anything else that I can assist you with?
+[41 minutes 37 seconds][Customer] : No, thank you. All good.
+[41 minutes 36 seconds][Agent] : Yeah, not a problem. You are more than welcome. You take care.
+[41 minutes 41 seconds][Customer] : Thank you. Bye.
+[41 minutes 42 seconds][Agent] : Thank you. Bye.

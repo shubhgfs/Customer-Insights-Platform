@@ -1,0 +1,130 @@
+[3 seconds][Agent] : Hello. Thank you for calling Australian Singers. You're speaking with Rick. How can I help you?
+[7 seconds][Customer] : Yeah, my, I just seen your ad on TV.
+[12 seconds][Agent] : Mm. Hmm.
+[13 seconds][Customer] : I'm, I'm 70 and I retired about 12 months ago and I just give the pension, right?
+[20 seconds][Agent] : Mm. Hmm.
+[20 seconds][Customer] : There's nothing wrong with me. I reckon I'm gonna be.
+[33 seconds][Agent] : Yep. That's good.
+[24 seconds][Customer] : So I'm 100, 'cause I excuse me, man, we kind of, we own everything, Bills or nothing.
+[36 seconds][Agent] : Yep.
+[39 seconds][Customer] : Yeah. It's something to mail. Want to be able to play a new grandkid something, you know?
+[45 seconds][Agent] : Yeah, fair enough. Yeah, Right.
+[49 seconds][Customer] : Yeah.
+[49 seconds][Agent] : So what?
+[49 seconds][Customer] : What do I do tonight?
+[50 seconds][Agent] : All right, so you're wanting to look at a bit of life insurance, was it?
+[54 seconds][Customer] : Yeah.
+[55 seconds][Agent] : Yeah. All right, So I can take you through how it all works. All right, so and feel free to jump in if you do have a question at any point. All right, So what it's all about with our policy, OK, it's a lump sum cash payout made to your beneficiaries if you pass away before your 85th birthday when the policy ends, OK? If your death is by accident, we will triple that payout, all right? So for example, if you're covered for $40,000 and your death is by accident, we will pay out $120,000 to your family, OK?
+[1 minutes 15 seconds][Customer] : Oh yeah, yeah, it must have just cost me now.
+[1 minutes 29 seconds][Agent] : All right, All right.
+[1 minutes 33 seconds][Customer] : And now they'll go there playing you.
+[1 minutes 35 seconds][Agent] : Alright, let's let me just grab a couple of details. Can I get your first name, surname and date of birth please? How do you spell your surname?
+[1 minutes 41 seconds][Customer] : Yes, my name is John Paul Inwood SINWARDES.
+[1 minutes 51 seconds][Agent] : Yep. And your date of birth, John.
+[1 minutes 50 seconds][Customer] : Alright, my date of birth is August the 9th 1954.
+[1 minutes 59 seconds][Agent] : Thank you. And I'll just confirm you are a male Australian resident. Yep. That's OK.
+[2 minutes 5 seconds][Customer] : Pom born in England.
+[2 minutes 8 seconds][Agent] : Yep, that's OK. But you're an Australian.
+[2 minutes 10 seconds][Customer] : I've been here there.
+[2 minutes 10 seconds][Agent] : It is an all permanent resident.
+[2 minutes 13 seconds][Customer] : I've been here there all my life. There.
+[2 minutes 16 seconds][Agent] : Yeah, one of. So yeah.
+[2 minutes 15 seconds][Customer] : You know, I found the idea when I was about 6.
+[2 minutes 17 seconds][Agent] : You're OK. Yeah. So you're a, you're a citizen, all permanent resident, Yeah. Of Australia. Yeah.
+[2 minutes 19 seconds][Customer] : Yeah, yeah, yeah, yeah.
+[2 minutes 25 seconds][Agent] : And you are a male. That's correct. Yeah. Thank you. Alright, Now I just wanted to let you know as also with the cover, if you're accepted, once you commence the policy, you will be immediately covered for death by any cause except for suicide in the 1st 13 months, OK. And there is also a terminally ill advance payment included where if you were diagnosed by a specialised medical practitioner that you have 24 months or less to live, we pay out your life insurance in full to you. OK.
+[2 minutes 59 seconds][Customer] : Yeah, yeah.
+[2 minutes 58 seconds][Agent] : All right, All right.
+[3 minutes][Customer] : They'll get a plan, you guys.
+[3 minutes 2 seconds][Agent] : Yep. So it's a fortnightly direct debit that we make from your bank account. So let's go through the pricing of everything now. OK, I just need to ask, have you had a cigarette in the last 12 months?
+[3 minutes 7 seconds][Customer] : Yeah, yeah, yeah. I wanna quit.
+[3 minutes 16 seconds][Agent] : Yep, Yep. That's OK. That's all good. So look, if you do get to a point where you you decide to give up and you go 12 months or more without having had a cigarette, you can call and let us know and you apply for your smoking status to be changed, OK, which can bring your pricing down a bit as well. OK.
+[3 minutes 32 seconds][Customer] : No, I don't smoke now.
+[3 minutes 36 seconds][Agent] : Yeah.
+[3 minutes 34 seconds][Customer] : I won't be here than no one ever again.
+[3 minutes 40 seconds][Agent] : And with the cover. So how much would you like to be covered for John?
+[3 minutes 49 seconds][Customer] : I'm the Grand Oregon.
+[3 minutes 51 seconds][Agent] : Alright, so if we cover you for $100,000, your fortnightly payment on that will be $240.17.
+[3 minutes 55 seconds][Customer] : Yeah, yeah, that's right.
+[4 minutes 2 seconds][Agent] : That's OK for you.
+[4 minutes 5 seconds][Customer] : Yeah, No, they're right. When can I start that then?
+[4 minutes 6 seconds][Agent] : Alright, alright, alright, let's we'll go through the questions to make sure you can be approved. I need to get your home address. Can I get your post code first please?
+[4 minutes 19 seconds][Customer] : Clarkston, WA. I don't know what the post code is.
+[4 minutes 23 seconds][Agent] : That's OK.
+[4 minutes 26 seconds][Customer] : I leave it.
+[4 minutes 25 seconds][Agent] : What's the suburb or the town again?
+[4 minutes 28 seconds][Customer] : 25 Bateson Heights, Clarkston.
+[4 minutes 26 seconds][Agent] : Sorry, How do you spell the town? This the town name or the suburb? Clarkson. There we go, 6030.
+[4 minutes 49 seconds][Customer] : Clarkson Hello.
+[5 minutes 1 seconds][Agent] : Sorry to make you repeat to say it was 25 Bateson Heights.
+[5 minutes 5 seconds][Customer] : Yep.
+[5 minutes 6 seconds][Agent] : Yeah. And that's your mailing address? Yeah.
+[5 minutes 9 seconds][Customer] : Yeah, everything goes to that.
+[5 minutes 11 seconds][Agent] : Oh, yeah. Yep. And this mobile number, 0429376484, that's your best contact number.
+[5 minutes 21 seconds][Customer] : There was, I'm talking on there.
+[5 minutes 24 seconds][Agent] : Yeah, that's the phone number you've called me from.
+[5 minutes 27 seconds][Customer] : Yeah, that's it mate. That's my phone.
+[5 minutes 29 seconds][Agent] : Yeah. Beautiful. Do you have e-mail on the computer at all or just everything by post?
+[5 minutes 36 seconds][Customer] : Just hear it in what post? It is set up, but I don't use it mate.
+[5 minutes 37 seconds][Agent] : Yeah, you don't know that. If you don't use it, we don't need it, so that's fine. Alright, so I'm going to read to you what we call a pre underwriting disclosure. It outlines our responsibility to you and also yours to us. Alright, so it says. Please be aware all calls are recorded for quality and monitoring purposes.
+[5 minutes 40 seconds][Customer] : I'll just yeah, yeah, yeah, yeah.
+[5 minutes 57 seconds][Agent] : We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other Australian service providers for the purpose of administering your policy or handling claims.
+[6 minutes 4 seconds][Customer] : Yeah, yeah.
+[6 minutes 13 seconds][Agent] : Our privacy policy tells you more, including how to access and correct information and lodge complaints about breaches of privacy. By proceeding, you understand that you're applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you provided some information to us in any earlier discussions you've had. If you do not take reasonable care, you may breach your duty. And if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty?
+[7 minutes 1 seconds][Customer] : Yep.
+[7 minutes 2 seconds][Agent] : Thank you. All right, so there is a COVID-19 screening question to start with. So it asks, have you been hospitalised for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days? Wonderful. In the last five years? Yeah. Wonderful. In the last five years, have you been admitted to hospital as an inpatient because of a heart attack, heart failure or stroke? In the last five years, have you been admitted to hospital as an inpatient because of a lung disease other than for asthma or pneumonia as the only conditions?
+[7 minutes 17 seconds][Customer] : No, no, no, no, no.
+[7 minutes 41 seconds][Agent] : In the last five years, have you been diagnosed with or treated for any of the following cancers, lung cancer, cancer of the esophagus, stomach or pancreas cancer, brain cancer, multiple myeloma or any other cancer that has spread to other organs? Or are you currently or soon to be treated with chemotherapy? Do you have a renal or kidney condition that currently requires dialysis or transplant or a doctor has advice will be required in the future?
+[8 minutes 1 seconds][Customer] : No do I have Walmart?
+[8 minutes 13 seconds][Agent] : So I'll start it again. So do you have a renal or kidney condition that currently requires dialysis or transplant or a doctor has advice will be required in the future? Wonderful. Do you have a liver condition that will require a transplant in the future? Have you been diagnosed with or currently undergoing testing for, or has a doctor advised you to be tested for motion neuron disease or any form of dementia, including Alzheimer's disease?
+[8 minutes 25 seconds][Customer] : No, no, no.
+[8 minutes 49 seconds][Agent] : In the last five years, have you attempted suicide or been hospitalized for a mental health condition? And are you experiencing any unexplained symptoms or are you currently undergoing or waiting for the results of any health rela health related tests or investigations or being diagnosed as having 12 months or less to live?
+[8 minutes 57 seconds][Customer] : No, no.
+[9 minutes 15 seconds][Agent] : Alright, so that's all the questions. So John, you are fully approved for colour. Congratulations. All right, so now to get that started, you don't have to make a payment today, but what date suits you to have that first payment deducted? Yep. So Wednesday of next week on the 15th.
+[9 minutes 31 seconds][Customer] : Not this Wednesday, but the next Wednesday is when I get paid, I think my pension, yeah, when my pension goes in.
+[9 minutes 42 seconds][Agent] : Yep, that's fine. And now I do want to let you know as well. So it does. The policy has a step premium, which means that it will increase each year what it looks like next year. As an indication, if you make no changes to the policy, your fortnightly payment will be $256.98. You can also find information that up, so it's $256.98, OK.
+[10 minutes 1 seconds][Customer] : How much 100 and what? I couldn't. I couldn't.
+[10 minutes 6 seconds][Agent] : And you can also at 256, that's OK. It was $256.98 per fortnight, Alright. And you can also, of course, find information. Yeah, yeah. And you can also find information about our premium structures on our website. OK.
+[10 minutes 15 seconds][Customer] : It is still right mate, that that calves me to everything. It won't not.
+[10 minutes 29 seconds][Agent] : So I just need to get from you, John, the BSB number and account number, please, Your bank account details, the BSB number and account number. Or if it's easier, we can use a Visa card or MasterCard and there's no surcharge.
+[10 minutes 43 seconds][Customer] : Hey. Oh my God. I have to get up and pull in the toilet.
+[10 minutes 45 seconds][Agent] : Yep, that's all right. You take as much time as you need.
+[10 minutes 49 seconds][Customer] : Yeah, hang on. I just said, look, you've got to be in my wallet. I think I got my wallet, but I can't see it. I have to bring the light on my.
+[10 minutes 54 seconds][Agent] : Yep, Yep, that's all right. You take your time, no rush.
+[11 minutes 31 seconds][Customer] : What do you want, ma'am? My driver's license number.
+[11 minutes 34 seconds][Agent] : No, no. It's the bank account details. So either your BSP number to account number or your debit card.
+[11 minutes 42 seconds][Customer] : Yeah, I don't. Hang on. I gotta put my glasses on to read it to you. Own the CAD.
+[11 minutes 52 seconds][Agent] : All right. Give me one second. I'm just going to pause the recording because we don't like to put card details on recording, OK? So for security purposes, while we obtain your card details, call recording will stop and we'll recommend once we've collected those.
+[12 minutes 19 seconds][Customer] : None. None. None. None. None. None.
+[17 minutes 15 seconds][Agent] : Yep, all good.
+[17 minutes 18 seconds][Customer] : None.
+[17 minutes 16 seconds][Agent] : So now that I've collected your card details, just please be advised, the call recording has now resumed for quality and monitoring purposes. OK, so I'm going to reach you the final declaration. It takes a couple of minutes. There's one question in the middle too at the end that I need you to answer with yes or no for me. And then we're all done and you're covered straight away. OK, so the declaration.
+[17 minutes 25 seconds][Customer] : There's no money. You you can't take any money out of that account yet.
+[17 minutes 40 seconds][Agent] : No, no, no.
+[17 minutes 41 seconds][Customer] : There's nothing in there.
+[17 minutes 41 seconds][Agent] : So the no, no, no. The payment will come out next week when your payment when your pension goes in. So next Wednesday the 15th.
+[17 minutes 49 seconds][Customer] : Yeah. I'm not sure if it's next Wednesday or the 1/2 tonight.
+[17 minutes 47 seconds][Agent] : That's alright. So did you get paid last week? Yeah. And it's fortnightly. Yeah. So, yeah. So it'll be next week on the Wednesday. Yeah.
+[17 minutes 57 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[18 minutes 7 seconds][Agent] : All right, so I'm just going to read you this declaration. All right, so it says thank you, John Paul England. It is important you understand the following information. I will ask for your agreement to these terms at the end, and your policy will not be enforced unless you agree to these terms in full. Seniors life insurance is issued by Hanover Life 3 of Australasia Limited. Hanover has an arrangement with the Greenstone Financial Services trading as Australian Seniors Insurance Agency to issue and arrange this insurance on its behalf. Hanover relies upon the accuracy of the information you've provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers this product is designed for. Our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. John, can you please confirm you've answered all of our questions in accordance with your duty?
+[19 minutes 12 seconds][Customer] : Yeah, definitely.
+[19 minutes 13 seconds][Agent] : Thank you. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration, you consent to allow us to contact you for this purpose until you opt out. The accepted cover pays a lump sum benefit amount of the following. John Paul Inglitz receives $100,000 in the event of death.
+[19 minutes 38 seconds][Customer] : None.
+[19 minutes 37 seconds][Agent] : If death is as a result of an accident, the benefit payment will include an accidental death benefit which will equate to a total payment of triple the benefit amount. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your cover expires on the 8th of August 20, 3912 AM. Your premium for your first year of cover is $240.17 per fortnight. Your premium is stepped, which means it will be calculated at each policy anniversary and it will generally increase each year. Included in your premium is an amount payable to Australian seniors of between 14% and 46% of each premium, calculated on a level basis over the life of the policy. Your premium will be debited from your credit card, which you're authorized to debit from and have provided to us. We may provide written communications to you via the e-mail address you've provided to us. This will include any legal notices we're required to provide to you. If you'd prefer to receive these only by mail, you can update your communication preference at any time. The policy documentation, PDS and FSG will be mailed to you, and if you provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the products meets your needs. You have a 30 day cooling off. When you may cancel your policy and any premium you may have paid will be refunded in full unless you've lodged your claim. There are risks associated with the replacing policies as your new policy may not be identical to your existing cover. We recommend that you do not cancel any existing policy until you've received and reviewed our policy in full. Finally, we have a complaints process which you can access at any time by contacting us.
+[21 minutes 21 seconds][Customer] : None.
+[21 minutes 20 seconds][Agent] : Full details are available online and in the documentation we're sending you. John, do you understand and agree with the declaration?
+[21 minutes 28 seconds][Customer] : Yeah, it's just, it's something did happen to me in a couple of weeks. It's I passed away. Where does it go?
+[21 minutes 29 seconds][Agent] : Yeah, yeah, yes, Yep, yes.
+[21 minutes 39 seconds][Customer] : To the the money?
+[21 minutes 40 seconds][Agent] : No, no, great question. So that's one of the forms. So one of the forms that we're sending you is the beneficiary form.
+[21 minutes 47 seconds][Customer] : Oh, right. Right. Yeah.
+[21 minutes 46 seconds][Agent] : So you need to fill that out telling you who you want the money to go to.
+[21 minutes 49 seconds][Customer] : Yes, you're right. Yeah. Yeah.
+[21 minutes 49 seconds][Agent] : Alright, Alright, So Yep. Final question, would you like any other information or would you like me to read any part of the product disclosure statement to you?
+[21 minutes 59 seconds][Customer] : No, you're right mate. I'll be right now.
+[22 minutes 2 seconds][Agent] : Beautiful. Well look, that's all covered. So you're covered from now. Alright, we'll get it all posted out to you.
+[22 minutes 8 seconds][Customer] : Alright. Thank you mate.
+[22 minutes 9 seconds][Agent] : Alright, Thanks. John, you take care.
+[22 minutes 12 seconds][Customer] : Will do you too, buddy. Thanks.
+[22 minutes 13 seconds][Agent] : Alright, all the be all the best mate. You take care. Bye bye.
+[22 minutes 16 seconds][Customer] : See you mate. Bye.

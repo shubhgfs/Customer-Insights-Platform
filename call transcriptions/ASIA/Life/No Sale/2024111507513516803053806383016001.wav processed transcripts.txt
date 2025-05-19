@@ -1,0 +1,86 @@
+[2 seconds][Customer] : Hello as well.
+[5 seconds][Agent] : Hello.
+[7 seconds][Customer] : Yeah.
+[7 seconds][Agent] : Hi.
+[8 seconds][Customer] : Hello.
+[8 seconds][Agent] : Hi, Wallace, this is Praveen calling from Australian Seniors. I'm calling in regards to your expression of interest in regards to our life insurance.
+[15 seconds][Customer] : Oh, yeah.
+[15 seconds][Agent] : So Wallace just yes. So just so I can assist you further, can I confirm your full name is Wallace Fawcett?
+[22 seconds][Customer] : Yeah. Well, it's Darrell if you want the full name.
+[25 seconds][Agent] : Waras. Daryl, you said.
+[28 seconds][Customer] : Yeah. Darrell. DA double RYL. Yeah.
+[31 seconds][Agent] : Let me just type that in for you.
+[38 seconds][Customer] : No, just DA double RYL.
+[33 seconds][Agent] : So that's DA double RE double L YL.
+[43 seconds][Customer] : Yeah.
+[42 seconds][Agent] : No worries, I'll put that in for you. So DA double RYL?
+[52 seconds][Customer] : Yeah, that's the middle name.
+[54 seconds][Agent] : Yep. And Fawcett something Forsyth.
+[53 seconds][Customer] : Yeah, Yeah, for five, actually, But it's the same, same FORSYGH.
+[59 seconds][Agent] : OK Forsyth.
+[1 minutes 3 seconds][Customer] : Yeah, Yep.
+[1 minutes 5 seconds][Agent] : So umm, I'm confirming it's Wallace Darrell Forsyth. Beautiful. And can I confirm your date of birth is the 13th of January 1948?
+[1 minutes 10 seconds][Customer] : Yes, that's correct.
+[1 minutes 18 seconds][Agent] : And Wallace, can I confirm you are a male Australian resident?
+[1 minutes 18 seconds][Customer] : Yeah, yeah.
+[1 minutes 25 seconds][Agent] : Thanks for that. Umm, before I proceed further, Please note all our calls are recorded. Any advice I provide is general in nature and may not be suitable to your situation. OK there Wallace. So Wallace, just so I can get a bunch of better understanding, what made you put through that expression of interest? Are you new to life insurance? Do you have some cover in place? What's happening?
+[1 minutes 32 seconds][Customer] : Sure, yeah, no, I don't have any cover in place and it would be nice to maybe have a bit a bit of a nest egg when I pass away.
+[1 minutes 56 seconds][Agent] : Mm, hmm. Mm, hmm.
+[1 minutes 55 seconds][Customer] : My wife might, you know, might be she's a little younger than me, so she I want her to be in a slightly better position than what she might otherwise be. So let's let's take a look at it. See, see what the sort of premiums there are.
+[2 minutes 7 seconds][Agent] : Yep, of course, of course. So from my understanding, you're, you're more looking into it for financial stability for your wife when you pass away. And that's and that's definitely what our product, uh, life insurance is designed to do. It's for that financial stability of your loved ones. When if that were to happen.
+[2 minutes 10 seconds][Customer] : Some are at my advanced age, you know, Yeah, yeah, yeah, yeah, yeah, yeah.
+[2 minutes 33 seconds][Agent] : OK, so in that case there Wallace, I'll run through the main features and benefits and then we'll go through some pricing S.
+[2 minutes 42 seconds][Customer] : OK, Yeah.
+[2 minutes 43 seconds][Agent] : So Seniors Life Insurance Wallace is designed to provide financial protection for your loved ones for a lump sum payment if you're to pass away before your 85th birthday when the policy ends, OK, You can choose cover between $10,000 up to $200,000 and nominate up to five beneficiaries to receive that nominated benefit. About that could be your wife like you had mentioned for when you pass, when you were to pass away, OK, And it could be any kids that you may have, OK.
+[3 minutes 13 seconds][Customer] : Yep.
+[3 minutes 12 seconds][Agent] : How many kids did you have any kids?
+[3 minutes 15 seconds][Customer] : Yeah, I got 4. All adults now.
+[3 minutes 17 seconds][Agent] : So I mean, if you wanted to Add all your kids and maybe your wife, that'll be your 5 beneficiaries there, OK.
+[3 minutes 24 seconds][Customer] : Yeah.
+[3 minutes 25 seconds][Agent] : And Wallace, if your death is due to an accident, your chosen benefit will triple. And we also include an advance payment of 20% of that benefit amount to help with funeral costs or any other final expenses at the time. OK. So we do pay out 20% of that earlier. Just S umm, so we can, you know, you can have some funds ready if you were to conduct your funeral. Yeah.
+[3 minutes 49 seconds][Customer] : Yep. Understood. Yep.
+[3 minutes 51 seconds][Agent] : Yep. So it's easy to apply for Wallace. We just ask you a yes or no questions relating to your health over the phone to see if you are approved and if you are accepted. And once you commence the policy, you'll be covered immediately for death due to any cause except suicide in the 1st 13 months. And in addition, W Wallace, there, there is a benefit here. I mean, I hope you never have to use it, but there is a terminally ill advanced payment including the cover.
+[4 minutes 23 seconds][Customer] : Yeah.
+[4 minutes 15 seconds][Agent] : So if you were diagnosed with 24 months or less to live by a specialized medical practitioner, hopefully it never happens, but we can pay your benefit amount in full to help with medical costs. So you get that the best care possible in that situation.
+[4 minutes 30 seconds][Customer] : All right.
+[4 minutes 31 seconds][Agent] : OK.
+[4 minutes 30 seconds][Customer] : OK. Yeah. What happens after 85 years old? Yeah.
+[4 minutes 32 seconds][Agent] : So do you have any questions for me so far there, Wallace, what happens after 85 years old? That's a good so.
+[4 minutes 42 seconds][Customer] : So is there no like no cover or what you said, you said it ends at age 85. So what ends the the cover or what the premiums or what? Yeah, yeah. And then that means no more cover.
+[4 minutes 54 seconds][Agent] : So your so on your 85th birthday the policy ends, Yes.
+[5 minutes 7 seconds][Customer] : So if I lived to 86, then I've just wasted all my money. Yeah, well, once I once I'm 86 or 87, then I don't have any more cover. Right.
+[5 minutes 14 seconds][Agent] : So if you're asking what would happen if you lived beyond age, Yep, I can definitely get that. I'll read from the PDS for you.
+[5 minutes 28 seconds][Customer] : Yeah.
+[5 minutes 32 seconds][Agent] : So cover for the life insured will end on any of the earliest of the following events on the on your 85th birthday, the date of your death, the date of payment of a terminal illness claim or the date you cancel the policy or we cancel the policy. OK, yeah, sure.
+[5 minutes 50 seconds][Customer] : Yeah, Yep. So it's a bit of a negative G, I'm gambling and I'm going to die before 85. That's what you're saying. So it's a bit of, a bit of a negative, a bit of a negative investment, to be honest.
+[5 minutes 51 seconds][Agent] : So what I can do is so it is, yes.
+[6 minutes 12 seconds][Customer] : I like to think I I like to think I live a little longer than 85. I'm I'm still working, still active.
+[6 minutes 12 seconds][Agent] : So your policy does Mm, hmm, mm, hmm. Mm, hmm.
+[6 minutes 20 seconds][Customer] : I'm still, I don't take any medication, no smoke, don't drink.
+[6 minutes 26 seconds][Agent] : Mm, hmm.
+[6 minutes 26 seconds][Customer] : So I'm I'm going to gamble.
+[6 minutes 32 seconds][Agent] : Mm hmm.
+[6 minutes 28 seconds][Customer] : No, I'm going to live beyond 85, OK, Which means, which means the policy is no use to me. So that means, so that means no sale. OK, So, so, so, so scratch me off the list. OK, I'm, I'm, I'm going to, I'm going to chance it. I'm I'm confident. So I'm going to keep going.
+[6 minutes 38 seconds][Agent] : I mean of of course, but you, yeah, of course, I, I of course in that case you can of course, I can always take you off that list.
+[7 minutes 2 seconds][Customer] : Yeah. So take no, no use.
+[7 minutes 2 seconds][Agent] : But did you want to just go ahead and see if you are approved for the cover and we can run through pricing and all that? Mm, hmm.
+[7 minutes 8 seconds][Customer] : No, no, no point because I'll pay premiums in for say nine years and if I don't pass away, then there's no benefit to me for that investment. I'm better off putting that money into buying silver or something. At least I'm going to still have it at the end.
+[7 minutes 31 seconds][Agent] : Mm, hmm.
+[7 minutes 32 seconds][Customer] : So that's what I'll do anyway.
+[7 minutes 34 seconds][Agent] : OK.
+[7 minutes 34 seconds][Customer] : Thanks.
+[7 minutes 37 seconds][Agent] : And nowheres at all.
+[7 minutes 35 seconds][Customer] : It was great talking to you and the best of luck with the next on your list. But I'm, I'm still going to take the chance because I'm feeling pretty good. As I say.
+[7 minutes 47 seconds][Agent] : Yeah, of course.
+[7 minutes 47 seconds][Customer] : I'm. I'm going to gamble that I'm going to live a little longer than 85. That's my that's my plan. Yeah. Thanks. So far so good, shall we say?
+[7 minutes 52 seconds][Agent] : And I and I hope you and I hope you do that, Wallace, like, yeah, of course, of course.
+[7 minutes 59 seconds][Customer] : All right. Yeah. Yeah. OK. That's great. Thanks.
+[7 minutes 59 seconds][Agent] : I mean, in that case, I will, you know, umm, close that off, close that inquiry off for you and no way there, Wallace.
+[8 minutes 8 seconds][Customer] : Thanks for that.
+[8 minutes 8 seconds][Agent] : I hope you enjoy the rest of your weekend there, OK?
+[8 minutes 12 seconds][Customer] : I will. I'm working tomorrow and Sunday, but that's OK. It's good.
+[8 minutes 17 seconds][Agent] : No worries there. Well, so I'll close that off.
+[8 minutes 19 seconds][Customer] : Yeah.
+[8 minutes 19 seconds][Agent] : You have a good rest of your day.
+[8 minutes 20 seconds][Customer] : OK. Thanks a lot. Yeah, bye for now.
+[8 minutes 20 seconds][Agent] : OK, no worries. Cheers. Bye.

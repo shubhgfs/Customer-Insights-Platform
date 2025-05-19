@@ -1,0 +1,38 @@
+[2 seconds][Agent] : Welcome to the One Choice customer support team. My name's Lucas. How can I help you?
+[7 seconds][Customer] : I just started a policy with you guys. On my documentation you've spelt my name wrong. I just need to get that corrected.
+[15 seconds][Agent] : OK, no problem. Sorry. Sorry about that. What was the policy number 8? Five. Yeah. Perfect. Thank you. And just your name and your date of birth is good on the file, please. Thank you. And what type of policy is that? Yep. And your e-mail address? No, no.
+[19 seconds][Customer] : It is 34100 eight 489 Robert, the yes, third of the 6th 86 look just like insurance shithinkrmbcontractingisittheoneoritllbebobbyd2009@windowslive.com.
+[48 seconds][Agent] : Perfect. Then I'll send you your address.
+[51 seconds][Customer] : 100 Mill Rd. Ihocca.
+[53 seconds][Agent] : Yeah. And it's an ID too. Is that correct?
+[56 seconds][Customer] : What's that? Sorry.
+[57 seconds][Agent] : Yeah, it's in Rd. 2. Is that right?
+[1 minutes][Customer] : Yes. Sevens. Yeah.
+[1 minutes 1 seconds][Agent] : Thank you. And I've got the the post code there is 7692 and I've got your contact number of 0210579246. Alright. And how should how should your name be spelt? Yep.
+[1 minutes 12 seconds][Customer] : Yeah mate, that's a lot with an E, not an O on Robert.
+[1 minutes 19 seconds][Agent] : Yeah, I'm sorry about that. I'm not sure why I've done that.
+[1 minutes 22 seconds][Customer] : That's right.
+[1 minutes 21 seconds][Agent] : That has been now rectified.
+[1 minutes 24 seconds][Customer] : Sweet.
+[1 minutes 24 seconds][Agent] : Just going to check one last one. Yeah, I'm going to send that out. I'm going to.
+[1 minutes 25 seconds][Customer] : Do you guys need to send me out new documents with that corrected name or 'cause I'm, I'm trying to use those to try and get a mortgage at the moment.
+[1 minutes 32 seconds][Agent] : Yep. I'm going to organise them for you now.
+[1 minutes 32 seconds][Customer] : So ah, dearly speak there.
+[1 minutes 34 seconds][Agent] : All right. No problem, Sam. Just checking one last thing. Won't be a moment. Yep. Perfect. All right, I'll organise those to come out to you. Did you need me to e-mail them through? Would that be easier?
+[1 minutes 56 seconds][Customer] : Yeah, that would be good. Yeah.
+[1 minutes 57 seconds][Agent] : Alright.
+[1 minutes 57 seconds][Customer] : I can just put them off.
+[1 minutes 58 seconds][Agent] : Yeah, no problem.
+[1 minutes 59 seconds][Customer] : That's cool, man.
+[1 minutes 59 seconds][Agent] : I'll do that for you now.
+[2 minutes][Customer] : Hey, have you guys started up the the income prediction thing yet?
+[2 minutes 4 seconds][Agent] : Yeah, we did. We started today.
+[2 minutes 4 seconds][Customer] : That was that was going to happen today, wasn't it?
+[2 minutes 6 seconds][Agent] : Yeah, we started today.
+[2 minutes 6 seconds][Customer] : Oh, sweet. I was due to get a call about starting that up as well.
+[2 minutes 13 seconds][Agent] : OK. I can transfer you through to. I can transfer you through. Oh, transfer you through to someone now.
+[2 minutes 14 seconds][Customer] : Are you able to do that over the phone now or do you want me to just wait for the oh good man. Yeah, that'd be good.
+[2 minutes 19 seconds][Agent] : So if you don't mind holding, I'll get someone on the phone. Thanks.
+[2 minutes 21 seconds][Customer] : Yeah, no worries at all. All right.
+[2 minutes 23 seconds][Agent] : Bye.
+[2 minutes 23 seconds][Customer] : Appreciate it.

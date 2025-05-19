@@ -1,0 +1,68 @@
+[3 seconds][Agent] : Welcome to Real Insurance. You've reached Dom, how can I help you today?
+[6 seconds][Customer] : I just missed your call. That's Matthew Markatani.
+[10 seconds][Agent] : Oh, sure, thanks. Thanks for receiving my call, Matthew. I was just, umm, following up our conversation regarding life insurance. We've spoken about previously, umm, and so I've got the result back, so I'll be happy to start a profile and we'll pick up where we left off.
+[16 seconds][Customer] : Yep, Yep.
+[23 seconds][Agent] : Umm not once again our call is recorded and advice provides general nature may not be suitable to your situation. Very confirmed. Your full name for me, Ma Matthew Marcantoni. Umm, uh, can I just give you to confirm your date of birth as well, please, ma'am?
+[37 seconds][Customer] : Yeah. 25th of June 1986.
+[39 seconds][Agent] : Alright, good day. Thank you. And yes, so last we spoke, we'd gone through the life insurance application and I'd send off a referral to the underwriter. I've got the result back from that now. Uh, can I just get you quickly confirm that they've been no changes to your answers from the health and lifestyle questions? We did, Yep. No worries. In that case, umm, the good news is, uh, we're able to get you a proof of life insurance. However, it was with the following terms. So they've been approved with changes made. OK.
+[1 minutes 8 seconds][Customer] : Yeah.
+[1 minutes 8 seconds][Agent] : And so based on the referral info, there have been the following changes uh, made to your policy terms. So the maximum benefit amount we'll be able to offer under the life insurance will be uh, between well, it'd be anywhere between $50,000 now up to $200,000 in the maximum uh, and it'd be to cover you under the policy, uh, for accidental death only for the 1st 12 months. And then after the first 12 months, you'll be covered for death due to any cause. Keeping in mind that suicide will not be covered for the 1st 13 months, the policy and other, this will cover you for a policy year 20, uh, 20 years, uh, or a policy term for 20 years or until your 8th birthday, whichever occurs first as well. The terminally ill advanced payment including the cover will be after you've held the policy for 12 months. In the event you're diagnosed with 24 months or necessarily by a medical practitioner, then we pay the claim in full while you're still there. And as reference, Matthew, for $200,000 of life insurance cover, uh, that would come to be a fortnightly premium of for $40.09.
+[1 minutes 40 seconds][Customer] : Right, right, right, right.
+[2 minutes 10 seconds][Agent] : OK, here it goes. Sorry, umm, are the, the new terms of the, uh, the new terms of the policy, these changes, are these gonna be suitable for you?
+[2 minutes 22 seconds][Customer] : Yeah, it's about, it's, it's something, yeah.
+[2 minutes 37 seconds][Agent] : Yeah, sure, sure. No worries. So, uh, yeah, always change the fine. It's just a matter of umm, uh, running it, running it by the wife one more time with these new changes.
+[2 minutes 28 seconds][Customer] : Are you able to S provide like an e-mail with a quote that I can just sort of sort it out with my wife and then make the payment based on Yeah, WWI might, I might see if I can get additional quotes. Let's see if I can sort of match that or improve it.
+[2 minutes 50 seconds][Agent] : OK, Yeah, no, I mean, I understand that much. Now this is keeping in mind, we obviously know that you're, you've got those upcoming cosmetic surgeries.
+[3 minutes 6 seconds][Customer] : Yep.
+[2 minutes 59 seconds][Agent] : So it is good that we have to refer, approve, use, uh, with those changes made, even bearing in mind those surgeries are coming up, Umm, and yeah, if I'm not mistaken, those surgeries are both in the six, right? So we've got a pretty, pretty small window to work with.
+[3 minutes 14 seconds][Customer] : Yeah, it is. Yeah.
+[3 minutes 14 seconds][Agent] : You sure. Uh, because, well, listen, I'll service during the meantime, uh, and I'll be sure to get back into contact with you, hopefully ideally before you, you know, I know you've gotta fly all the way over to, uh, to Turkey together, sorted out.
+[3 minutes 17 seconds][Customer] : But if I have like a quote, Yep, Yep.
+[3 minutes 31 seconds][Agent] : Umm, what about you flying out there?
+[3 minutes 33 seconds][Customer] : No, I'm flying on the 6th. So the the third is the 7th or 7th or 8th or something.
+[3 minutes 39 seconds][Agent] : Ah, OK, got you, got you my last day.
+[3 minutes 41 seconds][Customer] : Yep.
+[3 minutes 41 seconds][Agent] : OK, easy. As in that case, I'll call you toward the end of this week then, uh, just to follow up. Uh, and that way we can just, uh, constantly get that sorted out before you fly out.
+[3 minutes 51 seconds][Customer] : Yep. Are you able to provide that?
+[3 minutes 51 seconds][Agent] : Uh, bear with me just one moment. Yeah, yeah, that's exactly what I'm gonna do in the meantime as well. So, uh, I'm gonna send this through. It'll be in the form of pre activation e-mail this time though. So what that means is, umm, you're able to arrange it through the e-mail itself. There'll be a buy now button for you to, umm, click on and sort out, uh, the cover itself though, uh, or rather the quotation and all those details are in the attachment. That's gonna be password protected because I have your personal information in there.
+[3 minutes 53 seconds][Customer] : I got a written quote, right?
+[4 minutes 20 seconds][Agent] : Uh, the part like, like obviously your health and lifestyle questions and answers, uh, it's gonna be password protected for your privacy.
+[4 minutes 28 seconds][Customer] : Yep.
+[4 minutes 28 seconds][Agent] : The password, it won't tell you what it is. So I'll just tell you that now. Now it's gonna be your date of birth as an 8 digit number with no spaces or slash in between.
+[4 minutes 39 seconds][Customer] : Oh yeah, I got you. Yeah, yeah.
+[4 minutes 36 seconds][Agent] : OK, so 25/06/1986 and otherwise as well just umm you're fully informed with regards to premium, Matthew, what you pay on the policy, it is stepped, which means it will increase each year.
+[4 minutes 50 seconds][Customer] : Yeah.
+[4 minutes 50 seconds][Agent] : In addition, the policy has automatic indexation, meaning each year your sum insured, what you're covered for will increase by 5% with associate increase in premium. And so you reach the maximum benefit amount or until the policy anniversary following your 75th birthday. But you cannot add this automatic indexation each year.
+[5 minutes 7 seconds][Customer] : Mm. Hmm.
+[5 minutes 6 seconds][Agent] : OK, that's up to you. As indication though, if you made no change to policy and you kept the same, uh, $200,000 coming next year, which this is the maximum benefit amount already, umm, the next year's premium will be $42.90 a fortnight. And you can also find information about our premium structure on the website. OK.
+[5 minutes 23 seconds][Customer] : Yeah, OK. I is this, so this is not a lock in contract.
+[5 minutes 27 seconds][Agent] : Uh, otherwise correct. No, no, no. So it's uh, there is no locking contract associated with it. So you don't have to hold it for a minimum amount of time when you take out the insurance, uh, it will go until umm, and so you need to claim on the policy or UN until you cancel yourself or obviously this is excluding things like if there was like financial hardship, you have to lapse the policy, etcetera. Yeah. As far as what's in your control, uh, so long as you're keeping your premiums up to date, umm, the policy will last either until the end of the 20 year term or until you cancel the policy.
+[5 minutes 37 seconds][Customer] : OK, OK, right, right. OK. WW We'll almost certainly do it if that's the case.
+[6 minutes 1 seconds][Agent] : OK, It is Yep yeah, no drivers. I'll send this through and it'll come to e-mail at some point very shortly. It's rather instantaneous. And then, uh, we'll pick up this conversation again, uh, perhaps on the, on the 2nd, right after the public holiday.
+[6 minutes 20 seconds][Customer] : Yep. Oh, actually I did, I did sort of have something to bring up.
+[6 minutes 25 seconds][Agent] : Yep.
+[6 minutes 23 seconds][Customer] : Which was it? I, I, I've kind of said it was purely cosmetic. Well, I thought it was the kind of majority of it was sort of made, but it it, it is like affecting particularly the DVLA exception does affect the airwaves. And well, it's, it's kind of like a yeah, it's.
+[6 minutes 29 seconds][Agent] : Mm, Hmm, yeah, I do. I do recall we noted down. We did note that down within there, like I, just to correct me if I'm wrong though, is a what we noted down was that was a purely a cosmic decision, although it does affect Airways, but not to the extent that it needs to be like it's an emergency to fix it because you can't breathe or anything. Is that right?
+[7 minutes 3 seconds][Customer] : Yeah, it's, it's not an emergency now, but it it, it was kind of recommended because it's significant. Yeah.
+[7 minutes 5 seconds][Agent] : Yeah, Sounds good.
+[7 minutes 9 seconds][Customer] : Yeah, I just, I'm a bit funny with insurance. Yeah. I've seen all these things on Netflix or whatever, these documentaries with the insurance company kind of don't pay because you, you, you got a little detail.
+[7 minutes 17 seconds][Agent] : MMM, yeah.
+[7 minutes 19 seconds][Customer] : You got the detail wrong and it's kind of light on it.
+[7 minutes 21 seconds][Agent] : I mean, yeah. I mean, ultimately it is a matter of just disclosing the correct things, right?
+[7 minutes 27 seconds][Customer] : Yeah. I don't know.
+[7 minutes 26 seconds][Agent] : But also, umm, uh, in regards that making sure that's, uh, well, when keeping in mind when you're watching things like documentaries, you know, insurance companies around the world are different, uh, differently regulated.
+[7 minutes 40 seconds][Customer] : That's right. Yeah. TH these are all American companies and stuff, so.
+[7 minutes 41 seconds][Agent] : Umm, yeah, exactly. So that's completely, uh, I mean, like, obviously it's not like the Australian insurance industry hasn't had its own issues of that kind, but very different ballpark.
+[7 minutes 52 seconds][Customer] : Yeah, yeah, yeah.
+[7 minutes 53 seconds][Agent] : Umm, otherwise, as I said through the e-mail, what I'm gonna actually do, I'll just quickly double check what we've written in the application. Uh, let's see here. Yeah, OK, so, umm, what we've got written here just in regards to the, umm, the reason for the, umm, rhinoplasty slash septoplasty, just to remind you, we've written down has had a DEA SE septum for most of his life, which developed through his team. It wasn't any reason of injury or trauma. Uh, made a voluntary decision to have a cosmic surgery done to resolve it. Deviated septum has affected the client's ability to breathe out of his nose, but not the extent that it was an emergency. You could he could have lived with it his entire life if you chose to does the surgery was purely for cosmetic reasons yeah OK, no problems. If you're happy with that then umm yeah then that's all OK, uh and obviously you can re read that that'll be in the information umm in the attachments, the e-mail as well uh and we'll pick up this conversation again toward the end of the week. Umm, obviously if you make a decision before then you can just use the buy now button on the e-mail and get it arranged yourself.
+[8 minutes 18 seconds][Customer] : Yep, Yep, Yep, Yep.
+[9 minutes 5 seconds][Agent] : Uh, otherwise, umm, yeah. Otherwise, uh, we'll pick up again later on the week and we can sort out then.
+[9 minutes 11 seconds][Customer] : Uh, actually I've got a doctor, like the surgeon, the specialist, umm, wrote a letter for me to hand to the, to my own doctor.
+[9 minutes 19 seconds][Agent] : Uh huh. Yeah. Umm, fair question. And that won't be entirely necessary. If what you said, umm, if what you've told us is umm, satisfactory, then we can work off that's what, that, that's fine.
+[9 minutes 19 seconds][Customer] : Would it be good to pass that through to you and that that'll give you a very accurate sort of right.
+[9 minutes 34 seconds][Agent] : Easy. Oh, no problems. Any other questions or we're good to go.
+[9 minutes 33 seconds][Customer] : OK, Yeah, that's, that's all we've done. Thank you.
+[9 minutes 38 seconds][Agent] : Alright, good day mate. In that case, we'll speak soon, OK? Take care.
+[9 minutes 40 seconds][Customer] : All right, cheers. Yeah.
+[9 minutes 46 seconds][Agent] : Nice.
+[9 minutes 46 seconds][Customer] : Let's see the issue then.

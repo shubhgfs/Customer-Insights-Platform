@@ -1,0 +1,40 @@
+[12 seconds][Customer] : Afternoon, Norma Gibson. Good morning, Norma Gibson.
+[15 seconds][Agent] : Hi Novel Karen calling from One Choice Life Insurance, how are you?
+[19 seconds][Customer] : Hello.
+[22 seconds][Agent] : Yes. Hi, Novel Karen from One Choice Life Insurance, how are you?
+[26 seconds][Customer] : Yes, I did. Hello. I'm good.
+[29 seconds][Agent] : Oh, oh, sorry. I thought you said hello, Zoe, you didn't hear me.
+[33 seconds][Customer] : No, I'm alright.
+[34 seconds][Agent] : I'm sorry about that.
+[35 seconds][Customer] : That's OK.
+[36 seconds][Agent] : Look, just calling to touch base on our conversation from yesterday with regards to the life insurance and to see how you went reviewing that information I sent through for you.
+[44 seconds][Customer] : Haven't reviewed it yet 'cause I haven't seen it.
+[44 seconds][Agent] : Oh, OK. Right, right. OK. No problems at all.
+[54 seconds][Customer] : Hold on a minute.
+[53 seconds][Agent] : Well, look, how about I?
+[55 seconds][Customer] : Wait a minute, I will.
+[57 seconds][Agent] : Yeah.
+[56 seconds][Customer] : Gmail. Hold on. Yeah, because see, we have no Internet at home at the moment as we just shifted.
+[1 minutes 4 seconds][Agent] : Oh, OK.
+[1 minutes 13 seconds][Customer] : Yeah, yeah. Inspection. There's a link edition report. OK Spark.
+[1 minutes 7 seconds][Agent] : Yep, no.
+[1 minutes 22 seconds][Customer] : Lisa Brown viewing LinkedIn. Yeah, via one choice, still chain all I've got. The last one I've got from you is still keen to chat about life insurance on the 8th of November. That's it.
+[1 minutes 38 seconds][Agent] : Oh, OK, alright, no problems.
+[1 minutes 39 seconds][Customer] : Nothing from one choice in either my updates or primary folder. So if you send me something, I can read it.
+[1 minutes 45 seconds][Agent] : OK, no problems. Yep, certainly no problems at all. Did you discuss with your wife about the pricing and everything there for you?
+[1 minutes 54 seconds][Customer] : Not yet. I was waiting to show on my website. Oh, you know, on the e-mail. Yeah.
+[1 minutes 58 seconds][Agent] : OK, no problems at all.
+[2 minutes][Customer] : Talk about it there.
+[2 minutes][Agent] : Yep, Yep, Yep.
+[2 minutes][Customer] : Because it needs to be.
+[2 minutes 1 seconds][Agent] : Alright, no problems. Look, I've just resent it through. It should be in through within the next 15 minutes or so for you there.
+[2 minutes 9 seconds][Customer] : Yeah.
+[2 minutes 9 seconds][Agent] : Just keep an eye in jump and spam in case it pops into there.
+[2 minutes 12 seconds][Customer] : Yeah, I will. Hi.
+[2 minutes 12 seconds][Agent] : OK, alright, no problems.
+[2 minutes 13 seconds][Customer] : Can I catch you later? Yeah.
+[2 minutes 15 seconds][Agent] : I'll touch base on Tuesday, see how you're going after the weekend.
+[2 minutes 18 seconds][Customer] : No, that's OK. Yeah. No, that's good. Thanks.
+[2 minutes 20 seconds][Agent] : Alright, no problems. Thanks Noble.
+[2 minutes 22 seconds][Customer] : See ya. Bye.
+[2 minutes 23 seconds][Agent] : Alright, bye, bye.

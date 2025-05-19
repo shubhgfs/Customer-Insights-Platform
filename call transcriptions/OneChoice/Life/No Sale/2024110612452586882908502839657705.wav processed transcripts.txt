@@ -1,0 +1,94 @@
+[21 seconds][Customer] : Hello.
+[23 seconds][Agent] : Hello, Good afternoon. It's Barney calling back from One Choice Insurance. How are you?
+[28 seconds][Customer] : How's it going?
+[30 seconds][Agent] : Yeah, very well. How are you?
+[32 seconds][Customer] : Yeah, not too bad.
+[34 seconds][Agent] : No, that's great to hear. I was reaching back out in regards to the life insurance application. We're going to complete this for you.
+[43 seconds][Customer] : I did.
+[39 seconds][Agent] : Did you manage to get your height and weight OK?
+[46 seconds][Customer] : Weight seems to be about 80 KG or 712.7 stone and height seems to be 1 metre 770.
+[53 seconds][Agent] : OK, OK, perfect. Wonderful. Now just for us to go through that there so I can open that one up. Could I just get you to confirm your first name, last name and date of birth please?
+[1 minutes 11 seconds][Customer] : Yep, to the salad. Twenty. 22nd of February 1955.
+[1 minutes 16 seconds][Agent] : OK, perfect. Peter, thanks so much for that. Now, Please note all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances, uh, just not to quickly form you there Peter, in regards to the answers we've already gone through for you any changes at all?
+[1 minutes 41 seconds][Customer] : No, no.
+[1 minutes 42 seconds][Agent] : OK, perfect wonderful. Now you had mentioned your height was, uh 177 centimeters. OK, OK, OK, so one, well 11 meter 770. OK, so 770 wonderful now in kilograms. You had mentioned it was 80 kilograms. That's correct.
+[1 minutes 49 seconds][Customer] : Yeah, one made a 770, whatever that reach out and seem to me, yeah, 80 KG or I think it equates to 12.7 stone.
+[2 minutes 11 seconds][Agent] : OK, no worries. That's OK. Umm, now, uh, were you more confident with the kilograms? The 80 kilograms is the one you're more confident with, OK?
+[2 minutes 19 seconds][Customer] : Oh, I'm not really worried the that's what it come up on the scale.
+[2 minutes 24 seconds][Agent] : No, that's OK. Perfect. Wonderful. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[2 minutes 24 seconds][Customer] : So no. Well, evidence seems to say that same.
+[2 minutes 34 seconds][Agent] : OK, no worries. No, that's OK. That's all. Right. Now, does your work require you to go underground? Work at heights above 20 meters, dive to depths below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore. Perfect. Now pay to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Wonderful. Now do you have definite plans to travel or reside outside of New Zealand that is booked or will be booking travel within the next 12 months? And do you have existing life insurance policies with other life insurance companies with the combined total sum insured of more than $5 million?
+[2 minutes 55 seconds][Customer] : No, no, no, no. When you got funeral insurance?
+[3 minutes 34 seconds][Agent] : No worries, that's fine, that's OK. Now the next section for you is just says, have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following diabetes, Raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, mold or cyst, including skin cancer, sunspots or Melanoma?
+[3 minutes 56 seconds][Customer] : No, no, no. Not that I'm aware of.
+[4 minutes 12 seconds][Agent] : OK, perfect, wonderful.
+[4 minutes 19 seconds][Customer] : No, no, no.
+[4 minutes 13 seconds][Agent] : Have you ever had an abnormal PSA test or an enlarged prostate, Thyroid condition or neurological symptoms such as dizziness or fainting, Disorder of the stomach, bowel or pancreas, Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis? Any illegal drug use, abusive prescription medication or received medical advice or counselling for alcohol consumption?
+[4 minutes 42 seconds][Customer] : No, definitely not.
+[4 minutes 53 seconds][Agent] : OK perfect. Wonderful. Bladder or urinary tract disorder? Blood disorder or disease? Sleep apnea or asthma, excluding childhood asthma.
+[4 minutes 53 seconds][Customer] : No, no, no, no.
+[5 minutes 9 seconds][Agent] : Perfect. Now one to the final five questions for you, other than what you have already told me about in the past three years. Have you sought medical advice or treatments by a medical practitioner or specialist? Or are you awaiting the results of any medical test, selection, investigations? And other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Perfect. Now the next two questions have a term that says immediate family, which is only referring to your father, mother, brother or sister only. So, Peter, to the best of your knowledge, have any of your immediate family, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis?
+[5 minutes 27 seconds][Customer] : No, no, not that I'm aware of. No.
+[6 minutes 7 seconds][Agent] : OK, perfect. Wonderful. And to the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke, or other hereditary disease prior to age 60?
+[6 minutes 23 seconds][Customer] : First, my mother, my father passed away of cancer.
+[6 minutes 30 seconds][Agent] : I'm sorry to hear that.
+[6 minutes 28 seconds][Customer] : My mother had a stroke, but they were they were in their 80s.
+[6 minutes 34 seconds][Agent] : OK. No, I'm sorry to hear that about mom and dad. Was there anyone in your immediate family that suffered any of those before the age of 60 or any other hereditary disease before the age of 60?
+[6 minutes 46 seconds][Customer] : Not that I can think.
+[6 minutes 49 seconds][Agent] : OK, No worries. That's OK. So would you be happy for me to leave? No or don't know.
+[6 minutes 48 seconds][Customer] : I'll walk in, Ian. No.
+[6 minutes 57 seconds][Agent] : OK. All right. Perfect. Wonderful. Now final question for you there, Peter. Other than one of events, like if you had a gift certificate or a voucher, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline? Motor racing, parachuting, mountaineering up sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity. Perfect. So Peter, it's good to hear you're out of harm's way as well. Umm now it's good to hear you know if there's anything too dangerous there as well.
+[7 minutes 28 seconds][Customer] : No, no getting too old for that sort of thing.
+[7 minutes 36 seconds][Agent] : Umm, no, I can understand that's all right. You got to manage your risk right. You don't want to put this over homes away. Now with that Peter, no changes made at all. Congratulations. Your application has been fully approved for the life insurance. Umm, so with that I, you know, we did touch on earlier last week that it was something you wanted to leave behind on top of the funeral cover just to your loved 1, so they can look after everything in terms of how we can cover you. The policy will cover you for death due to any cause except suicide in the 1st 13 months. So we'll be able to pay that out to your loved ones and then they can use that however they need to. That is then the funeral advance of $10,000 for your loved ones as well that they can, uh, look after the funeral expenses right away, which we would generally pay out within 24 to 48 hours of us receiving all the correct documentation as well in the claim being processed and then pay the Touchwood. Of course, there's the terminally billed advance payments included in the cover where if you were diagnosed with 12 months or less to live by a medical practitioner, then we'll pay the insured amount to you in full and you can use that for any medical expenses or anything like that as well. Of course, hopefully that never happens.
+[8 minutes 53 seconds][Customer] : Yeah, I definitely don't want those sort of things to happen.
+[8 minutes 56 seconds][Agent] : Yeah, definitely, definitely. Now with the with the 100,000 there, it's still coming in at the same price for you of the $132.35 a fortnight. With regards to how your premium works, please be aware that your premium is stepped, which means it will generally increase each year. In addition, this policy has automatic indexation, which means each year your benefit amount will increase by 5% with associated increases in premium. But we'll always send you the notice of it of what it may look like for you. So you can opt out of this indexation each if you'd like to. You just need to let us know from there and we can do that as well.
+[9 minutes 38 seconds][Customer] : Alright.
+[9 minutes 38 seconds][Agent] : Now with that, what we can do from here because we've got you all approved for the cover as well. We can get you all set up with the insurance from today and send everything through to you via e-mail today and the hard copy posted out to you as well within the next 5 to 10 business days. The only thing that needs to be sent back to us is your beneficiaries form to let us know who would be paying the money out to. And you do have a 30 day cooling off period from your payment date that you select depending on what day that be. What that means is that if you decide the policy is no longer suitable and cancel within those 30 days then you will receive a full refund of your premium unless a claim has been made. But Peter, what day would work best for you for the payments to start? It wouldn't have to be today.
+[10 minutes 27 seconds][Customer] : No, I definitely want to take everything over before I go ahead with everything. Now you mentioned 13 months.
+[10 minutes 40 seconds][Agent] : Yes.
+[10 minutes 37 seconds][Customer] : Did you say earlier for something?
+[10 minutes 40 seconds][Agent] : So, yes, So that's due to any cause except suicide in the 1st 13 months is covered under the policy.
+[10 minutes 48 seconds][Customer] : So yeah, I just trying to get my head around everything.
+[10 minutes 53 seconds][Agent] : No, that's OK. That's all right. So, so, so all that means is that the only thing that's excluded in terms of causes of death for the 1st 13 months is suicide. Outside of that, though, every other cause of death is covered under the policy.
+[11 minutes 3 seconds][Customer] : Yeah, that's so basically everything's covered from when I take out the policy or does it only come into effect after that 13 months?
+[11 minutes 19 seconds][Agent] : No, no, no. So from the day that you accept the, the, the policy and you agree to be covered, then from that moment you're then covered for any cause of death except suicide in the 1st 13 months. And then after the 13 months, suicide is also included under that death cover as well.
+[11 minutes 37 seconds][Customer] : Oh, OK.
+[11 minutes 36 seconds][Agent] : That's what that means.
+[11 minutes 38 seconds][Customer] : Oh, I actually have.
+[11 minutes 39 seconds][Agent] : Of course, Peter, hopefully nothing would lead you to that, right? You know, hopefully nothing would would trouble you like that.
+[11 minutes 39 seconds][Customer] : OK, now I no, no, no, no, no, no. It's definitely not.
+[11 minutes 46 seconds][Agent] : Yeah, Now of course, uh, you know, you did touch and you wanted to give it some thought, which of course I can definitely understand. What did you need to give some thought about with regards to the cover?
+[11 minutes 56 seconds][Customer] : Well, like I say, I I have a $30,000 funeral cover at the moment. So I need to decide, OK, do I stop that and actually go with us or just stay with that or have them both? I don't know whether I can do that or not.
+[12 minutes 21 seconds][Agent] : Oh, I see.
+[12 minutes 23 seconds][Customer] : Yeah.
+[12 minutes 23 seconds][Agent] : OK. Yeah, that's fair. OK, well.
+[12 minutes 23 seconds][Customer] : So, yeah, just as part of this end, I need to think over basically now, if I was to take this out, looking down the track, say God forbid, 6 months down the track, eight months, 12 months, I was diagnosed with a terminal illness or passed away through natural causes. Does that full payment happen or not at that stage?
+[13 minutes 6 seconds][Agent] : No, great question. So do you. The key thing we rely on is your disclosure and your answer to the question. So it is a test based on your on your disclosure with your medical history.
+[13 minutes 12 seconds][Customer] : Yeah, yeah, yeah, for sure.
+[13 minutes 16 seconds][Agent] : But let's say you were diagnosed with 12 months or less to live by a medical practitioner. That's actually the terminally ill advanced payments where we pay your insured amount to you in full. So you would just need to let us know right away.
+[13 minutes 41 seconds][Customer] : Yeah, yeah.
+[13 minutes 29 seconds][Agent] : But, you know, touch would of course have, you know, let's say you were to pass away within, you know, six months or so, as long as it wasn't due to suicide that it would be covered under the policy because you'd be under the death to 20 calls except suicide coverage for those 13 months. Yeah, That's OK. That's all right.
+[13 minutes 44 seconds][Customer] : I just want to totally understand everything before I go ahead with anything.
+[13 minutes 51 seconds][Agent] : No, that's fair. I mean, you did.
+[13 minutes 50 seconds][Customer] : So yeah, sorry for the questions.
+[13 minutes 53 seconds][Agent] : No, that's not an issue at all. That's not an issue at all. We wouldn't want you to take out something you do, would you? Wouldn't understand mentioning, you know, you wanted to give it some thought. I'm more than happy to give you some time to give it some thought beforehand. On the other hand, since it was to assess whether you'd be keeping both covers in place or choosing one or the other, we can still cover you in the meantime whilst you give it some thought just so that we can save you some time and have that Peace of Mind. The reason why I mentioned that is because if let's say after that you do decide that it's something that's no longer suitable for you, it's not like a lock in contract or anything like that. So if you changed your mind about having it in place, you just need to let us know. Yeah.
+[14 minutes 36 seconds][Customer] : Yeah, yeah.
+[14 minutes 38 seconds][Agent] : Yeah.
+[14 minutes 37 seconds][Customer] : So I want to say I, I definitely want to give it a little bit of sort. I don't venture into anything without really seriously sitting down and taking everything over.
+[14 minutes 52 seconds][Agent] : Oh, I see. OK. OK.
+[14 minutes 56 seconds][Customer] : Yeah, I, I, yeah, I'm probably a little bit too cautious, I suppose, but yeah, I like to fully understand everything before I do with anything.
+[15 minutes 7 seconds][Agent] : MMM, OK, yeah, because even if you kept both, we'd still pay out alongside that cover as well if you would, if you would kept both of them, uh, in place, let's say that 30K funeral cover you had and the, and the life insurance as well.
+[15 minutes 20 seconds][Customer] : Oh, OK, OK.
+[15 minutes 21 seconds][Agent] : Yeah, yeah. Something that we can pay out alongside though. Umm, we, we with regards to that though, how did you feel about it? Are you happy to get it all set up for yourself and you could still give it simple for yourself?
+[15 minutes 33 seconds][Customer] : Yeah.
+[15 minutes 37 seconds][Agent] : OK, Yeah, that's fine. That's not an issue at all with that.
+[15 minutes 33 seconds][Customer] : Like I said, I I would rather just have a good think about it first, yeah.
+[15 minutes 42 seconds][Agent] : What I can do, I can always reach back out to you. Let's say you know, give you give you a couple of days at the end of the week, see how you're feeling about it then and I can send through this to you. It is the, uh, guaranteed offer there for you. So as long as there's no changes when we touch base next time, then we can still get it all set up for you based on that. It's guaranteed offer there for you. I'll send it through to you. Your e-mail I have here is peter.talent63@gmail.com and then I could I'll reach back at you around the same time, end of week, give you some time and we can see how you feel about it. Then if you're happy to go ahead. What we do is note down your preferred payment method and payment date over the phone and read out to you the terms and conditions, answer any questions you may have about it and then after that it's all sorted for you from there.
+[16 minutes 12 seconds][Customer] : Yep, Yep. No, that's that's good as gold. Yeah.
+[16 minutes 30 seconds][Agent] : That's OK. No, that's not an issue at all. I'll send it through to you now. The name and numbers on there as well in case you do decide any earlier. Feel free to give us a call as well, but I'll reach back out on Friday afternoon and we can see how you feel about it then.
+[16 minutes 28 seconds][Customer] : Like I say, I would like to yeah, take everything over and yeah, good as gold. Thank you very much.
+[16 minutes 48 seconds][Agent] : No worries. That's OK. Safe travels with everything. I'll speak to you on Friday.
+[16 minutes 52 seconds][Customer] : Thank you very much.
+[16 minutes 53 seconds][Agent] : No worries, take care.
+[16 minutes 55 seconds][Customer] : Thank you. Bye.
+[16 minutes 56 seconds][Agent] : Bye now.

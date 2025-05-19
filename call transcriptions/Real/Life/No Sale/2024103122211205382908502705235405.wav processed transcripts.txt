@@ -1,0 +1,199 @@
+[0 seconds][Customer] : Hey, Amy.
+[3 seconds][Agent] : Hey.
+[3 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hello.
+[4 seconds][Customer] : Hey.
+[4 seconds][Agent] : Hey. I've got umm. Mm Hmm.
+[4 seconds][Customer] : I've got so they'll be on the phone, but I'm sure Andrew's there. I'll get out of lead here, alright.
+[18 seconds][Agent] : Yeah, sure. Whenever you're ready, you can pop them through. OK. Down 3.
+[20 seconds][Customer] : No, it's going down 321.
+[25 seconds][Agent] : Hi, Penelope. This is Amy from Real Insurance. How are you today?
+[29 seconds][Customer] : Oh, good. Thank you. How are you?
+[30 seconds][Agent] : Oh, good. Thank you. I'm very good. Thank you for asking. Umm, thank you for giving me a call. Uh, so I understand we're having a look at cover for Andrew. Is he with you at the moment? Oh, perfect. All right, well, I can speak with him then. Let me just open this up.
+[43 seconds][Customer] : Yeah, yeah, yeah.
+[53 seconds][Agent] : Yeah.
+[51 seconds][Customer] : You just had to ask him the questions, I think.
+[53 seconds][Agent] : You just had to ask him a question. Yeah. Yeah, I do remember. I remember speaking with you. I'm just opening up this one here, and I'll run through everything with him.
+[53 seconds][Customer] : And yeah.
+[1 minutes 7 seconds][Agent] : So if you want to pop Andrew on the phone, I can run him through it all.
+[1 minutes 10 seconds][Customer] : Yep, sure. Here you go.
+[1 minutes 12 seconds][Agent] : Thank you so much.
+[1 minutes 15 seconds][Customer] : Hello. How are you?
+[1 minutes 17 seconds][Agent] : Hi, Andrew. I'm good. Thank you. My name's Amy. I'm from Real Insurance. I'm just saying you're wanting to have a look at some life insurance. I'm here to help you with that. Umm, I'll just let you know our calls are recorded and any advice are provided is general in nature and may not be suitable to your situation. I have your name here and date of birth. Can you confirm? Let me just bring it up. Can you confirm your name and date of birth, please? Yeah. Sandra. John Smith, 9th of the 5th 65 Thank you. And do actually can I grab your post code and suburb?
+[1 minutes 40 seconds][Customer] : Yeah, it's Andrew John Smith, Nineth of the 5th 65 Yeah. 2549 S Cambria.
+[1 minutes 51 seconds][Agent] : Yeah, 2549 S and street address please.
+[2 minutes 1 seconds][Customer] : Yeah. 812 Northview Drive.
+[2 minutes 2 seconds][Agent] : Yeah, 812 Northview Drive. Spell that for me.
+[2 minutes 10 seconds][Customer] : NORTHVIEW.
+[2 minutes 11 seconds][Agent] : NORTHVIEW. Oh, Northview Drive. Oh, yes. Yes, I do remember. Yes. And that's your home and postal address?
+[2 minutes 18 seconds][Customer] : Yeah, Yeah, that's right.
+[2 minutes 27 seconds][Agent] : Yeah, that's right. Thank you. And what was the best e-mail address to pop in your file? Umm, it's Smith. Drew Cooper.
+[2 minutes 32 seconds][Customer] : It's Smith, Drew Cooper at gmail.com.
+[2 minutes 39 seconds][Agent] : Mm Hmm at Gmail dot com. Thank you and I'll confirm as well that you are a male Australian resident.
+[2 minutes 52 seconds][Customer] : That's right.
+[2 minutes 54 seconds][Agent] : Thank you. So I'll take you through how the cover works and the main features and benefits. If you do have any questions along the way, feel free to stop me and ask away. Umm, our cover is pretty straightforward in the way that we offer it. It is designed to really provide financial protection for your loved ones for a lump sum payment if you were to pass away. So it's fair to give you Peace of Mind that if something happens to you, then your family has that financial security. Now at the easiest, very easy to apply. We just ask you some health and lifestyle questions over the phone to see if you are approved. If you are accepted and once you decide to commence the policy, you will be covered immediately for death due to any cause. The only thing not covered is suicide in the 1st 13 months.
+[3 minutes 38 seconds][Customer] : Oh yeah.
+[3 minutes 39 seconds][Agent] : In addition, there is a terminally ill advanced payment included in the cover. So if you were diagnosed with 12 months or less to live by a medical practitioner, then we'll pay your claim in full. So the money could be used for, say, medical costs to ensure that you receive the best care possible. And we also include a $10,000 advance payment to help with funeral costs or any other final expenses at the time. Generally paid out within 24 to 48 hours. Now, any questions for me so far? Too easy. I'll bring up a quote for you here. Now. Have you had a cigarette in the last 12 months?
+[4 minutes 6 seconds][Customer] : Yep, Nope.
+[4 minutes 21 seconds][Agent] : And we can have a look at cover for you anywhere from 100,000 going up in $50,000 increments to a maximum of let me see. So it'll be a maximum of half a million.
+[4 minutes 46 seconds][Customer] : Is 1/2 moon is Yes.
+[4 minutes 41 seconds][Agent] : So what benefit amount would you like for me to quote you up is a half million, Half a million, sure. So that comes to a fortnightly premium of $165.48, which equates to only $11.82 per day for half $1,000,000 cover. How does that sound?
+[5 minutes 10 seconds][Customer] : Is that what Penny's on? Is it?
+[5 minutes 14 seconds][Agent] : I can't give you any information about that just because I didn't ask for permission to, but I'm more than happy for you to take a second to talk to your wife if you'd like.
+[5 minutes 26 seconds][Customer] : It'll be 300, 3350. I think you're so I think she's, that's what she had.
+[5 minutes 29 seconds][Agent] : You want to look at 300-3350. OK, so 350,000 is a fortnightly premium of $115.84. You're happy with that?
+[5 minutes 41 seconds][Customer] : Yep, Yep, that's fine. Thank you.
+[5 minutes 47 seconds][Agent] : Sure. Now your premium is stepped, which means it will generally increase each year is your age. In addition, this policy has automatic indexation, which means each year your sum insured will increase by 5% for you, with associated increases in premium designed to try to keep up with the advertising cost of living for you and your family. You do get made on a month prior to these changes each year, and you can opt out of this automatic indexation each year depending on what you prefer at the time. But as an indication, if you make no changes to the policy, your premium next year will be, it will be once it comes up. And you can also find information about our premium shop shop on our website if you're interested. So it would then be $138.76 per fortnight and your benefit amount will then be $367,500.
+[6 minutes 49 seconds][Customer] : Yep, yeah, start discount after the year.
+[6 minutes 47 seconds][Agent] : OK, now I'll take you through a more check. Yeah. You can opt out of the automatic indexation each year depending on what you'd prefer at that time. You'll get made on a month prior to these changes each year.
+[7 minutes 5 seconds][Customer] : Yeah.
+[7 minutes 7 seconds][Agent] : Now I'll read you a quick disclosure before we get started with the questions. Which States? Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and they share with other Australian service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. By proceeding, you understand that you are applying to purchase a life insurance policy and as such, you have a duty to take reasonable care to not make any misrepresentations. This means that you need to ensure that you understand each question I ask you and that you provide honest, accurate and complete answers. You need to answer each question in full, even if you have provided some information to us in any earlier discussions you have had. If you do not take reasonable care, you may breach your duty and if this happens, your insurer may be entitled to cancel your policy, decline a claim, or make adjustments to the terms and conditions of your policy. Do you understand and agree to your duty?
+[8 minutes 20 seconds][Customer] : Yeah, Yes.
+[8 minutes 25 seconds][Agent] : Thank you. Alright, first question for us, for us is have you been diagnosed with COVID? Oh, sorry. Have you been hospitalised for COVID-19 in the last six months or have you been diagnosed with COVID-19 in the last seven days?
+[8 minutes 43 seconds][Customer] : No.
+[8 minutes 45 seconds][Agent] : Thank you. Are you a citizen or permanent resident of Australia or New Zealand currently residing in Australia?
+[8 minutes 52 seconds][Customer] : Can I see the thing?
+[8 minutes 55 seconds][Agent] : So you're a citizen of Australia, also currently residing in Australia.
+[8 minutes 53 seconds][Customer] : Yes, Yeah, yes.
+[9 minutes 1 seconds][Agent] : Thank you. Does your work require you to go underground, work at heights above 20 meters, dodge depth below 40 meters, use explosives or travel to areas experiencing war or civil unrest, or work offshore?
+[9 minutes 15 seconds][Customer] : No.
+[9 minutes 17 seconds][Agent] : The next section is in relation to your height and weight. Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges.
+[9 minutes 34 seconds][Customer] : Six or two.
+[9 minutes 32 seconds][Agent] : So what is your exact height please Uh, 6 feet 2 inches? And what is your exact weight please? Uh, one O 6 kilograms.
+[9 minutes 39 seconds][Customer] : That's right, 106, yes.
+[9 minutes 50 seconds][Agent] : Thank you. And have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months? To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS? Do you have definite plans to travel or reside outside of Australia, IE booked or will be booking travel within the next 12 months? Do you have existing life insurance policies with other life insurance companies with a combined total sum assured of more than $5 million?
+[9 minutes 59 seconds][Customer] : No, no, no, no.
+[10 minutes 44 seconds][Agent] : All right, onto medical history section now. All right. Have you ever had symptoms of, been diagnosed with or treated for or intend to seek medical advice for any of the following cancer, tumor, mole or cyst, including skin cancer, sunspots, Melanoma or leukaemia?
+[11 minutes 11 seconds][Customer] : Yeah, yeah. It's fun spot. So you know, they freeze them up.
+[11 minutes 9 seconds][Agent] : Yeah, Yeah, it's sunspots or yeah, they freeze them off. Yeah. So we say yes.
+[11 minutes 19 seconds][Customer] : Yeah.
+[11 minutes 19 seconds][Agent] : So basing your response, please answer yes or no for each of the following. Melanoma.
+[11 minutes 24 seconds][Customer] : Yeah.
+[11 minutes 23 seconds][Agent] : No, no. So Melanoma yes or no? No thank you. Any other form of skin cancer and or sunspot? Yes.
+[11 minutes 25 seconds][Customer] : No, no, yes.
+[11 minutes 42 seconds][Agent] : Was your skin cancer and or sunspot cut out? Was freezing, burning or skin cream the only treatment you received for removal of your skin cancer and or sunspots?
+[11 minutes 46 seconds][Customer] : No, Yes. Yeah.
+[12 minutes 12 seconds][Agent] : Mole or cyst tumor? Leukaemia. Other form of cancer.
+[12 minutes 21 seconds][Customer] : No, no, no.
+[12 minutes 33 seconds][Agent] : Have you ever had an abnormal PSA test or an enlarged prostate? What was the abnormality described as by your doctor? Enlarged prostate?
+[12 minutes 39 seconds][Customer] : Yes, enlarged prostate, that was the one I perceive. Yeah, it was annoying.
+[12 minutes 50 seconds][Agent] : So was it I have these are the options I have here prostate cancer, prostatitis, benign prostatic hypertrophy, don't know or something else That's the one hyperthy yeah the the 9 prosthetic hypertrophy. Please confirm if you have fully recovered. Uh, well, it's just an ongoing.
+[13 minutes 7 seconds][Customer] : Yes, well, it's just an ongoing piece of the older you get the PSA and that they just check them.
+[13 minutes 20 seconds][Agent] : I'll just check them.
+[13 minutes 20 seconds][Customer] : So I get it checked every year.
+[13 minutes 22 seconds][Agent] : I'll just check every year, yeah. Have you still be recovered from the benign prostatic carpentry fee though? Yes. OK, perfect. So please confirm if you have fully recovered. Yes or no.
+[13 minutes 28 seconds][Customer] : Yes, Yes.
+[13 minutes 36 seconds][Agent] : Thank you. Now stroke, chest pain, palpitations or heart conditions such as not limited to heart attack and angina or high blood pressure.
+[13 minutes 48 seconds][Customer] : Yes.
+[13 minutes 49 seconds][Agent] : Yes, Based on your response, please answer yes or no for each of the following Stroke, chest pain, pericarditis, heart condition EG heart murmur, heart palpitations, heart attack or angina but not limited to these conditions.
+[13 minutes 57 seconds][Customer] : No, No, no, no. Yes.
+[14 minutes 15 seconds][Agent] : High blood pressure Is your high blood pressure caused by heart disease or kidney disease? Have you been prescribed medication to treat this condition?
+[14 minutes 25 seconds][Customer] : No, Yes.
+[14 minutes 32 seconds][Agent] : Yes. Did treatment commence within the last three months?
+[14 minutes 39 seconds][Customer] : No.
+[14 minutes 42 seconds][Agent] : Have you had your blood pressure checked in the past six months by your GP?
+[14 minutes 47 seconds][Customer] : Yes.
+[14 minutes 50 seconds][Agent] : Were you told by your doctor that your bla. I'm sorry. Were you told by your doctor that your last. I don't know. Wait. Sorry. It's getting late in the day into coffee. What are you told by your doctor? That your blood pressure has returned to within normal range the last time you had it checked?
+[15 minutes 12 seconds][Customer] : Yes.
+[15 minutes 15 seconds][Agent] : Very good now next question. High cholesterol, thyroid condition, or neurological symptoms such as dizziness or fainting.
+[15 minutes 23 seconds][Customer] : Yeah.
+[15 minutes 25 seconds][Agent] : Diabetes, raise blood sugar, impaired glucose tolerance or impaired fasting glucose. Hepatitis or any disorder of the liver, stomach, bowel, gallbladder, or pancreas.
+[15 minutes 31 seconds][Customer] : No, no.
+[15 minutes 40 seconds][Agent] : Epilepsy, motor neuron disease, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis. Anxiety, depression, or stress requiring medical treatment or any other mental health disorder. Any illegal drug use, abuse of prescription medication, or received medical advice or counseling for alcohol consumption.
+[15 minutes 48 seconds][Customer] : No, no, no, no, no.
+[16 minutes 8 seconds][Agent] : Disorder of the kidney or bladder, blood disorder or disease, asthma or other respiratory disorder excluding childhood asthma.
+[16 minutes 23 seconds][Customer] : By Charlton. Yes.
+[16 minutes 27 seconds][Agent] : So this is excluding childhood asthma.
+[16 minutes 32 seconds][Customer] : Yeah. Nah, I've still loved. That's me, Yes.
+[16 minutes 36 seconds][Agent] : Oh, OK. So based on your response, please answer yes or no for each of the following. Sleep apnea, emphysema, chronic obstructive pulmonary disease, or any other chronic respiratory disease? Asthma. Yes. Have you required any treatment or used any medication within the last two years? Yes. Do you only use inhalers? Yes. Do you require more than one type of inhaler?
+[16 minutes 48 seconds][Customer] : Yeah, Yes, yes, yes, yeah.
+[17 minutes 17 seconds][Agent] : Are your symptoms seasonal or exercise induced? Only seasonal.
+[17 minutes 24 seconds][Customer] : Seasonal.
+[17 minutes 26 seconds][Agent] : OK, so we'll say yes.
+[17 minutes 28 seconds][Customer] : Yes.
+[17 minutes 31 seconds][Agent] : Yes. All right, now, other than what you have already told me that in the past three years, have you sold medical advice or treatment by a medical practitioner or specialist or are you awaiting results for any medical tests or investigations such as they're not limited to any surgeries, X-rays, scans, blood tests or biopsy, Yes. Yeah.
+[17 minutes 51 seconds][Customer] : Yes, yes.
+[17 minutes 53 seconds][Agent] : What was that for PSA or the PSA? So I've prostate checkup routine only as over 50 years old. Came back all clear and no further investigation planned other than repeat annual follow up. Is that right? Oh so is that all correct?
+[17 minutes 55 seconds][Customer] : I Oh, yes, yes.
+[18 minutes 18 seconds][Agent] : Oh yeah perfect, thank you. Other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[18 minutes 31 seconds][Customer] : Yes.
+[18 minutes 35 seconds][Agent] : And what's that for? For.
+[18 minutes 38 seconds][Customer] : That's for any upset.
+[18 minutes 36 seconds][Agent] : I mean, OK, is this something? Have you, what have you had something happened recently?
+[18 minutes 54 seconds][Customer] : No.
+[18 minutes 50 seconds][Agent] : Like have you gotten food poisoning or no OK. Have you been to the doctor about it yet at all?
+[19 minutes 2 seconds][Customer] : Yes.
+[19 minutes 4 seconds][Agent] : OK. And what have they said that's that's happening? Just medication, OK Medica The medication to do with your blood pressure to do with. Oh, OK. What's causing the your stomach upset?
+[19 minutes 8 seconds][Customer] : Just medication to do with the company upset oversight.
+[19 minutes 30 seconds][Agent] : A parasite. OK, is a Helicobacter pylori.
+[19 minutes 36 seconds][Customer] : Yeah, we've got many other ones. Have you got a few names? I let's have a look. I just haven't antibiotics, but yeah.
+[19 minutes 51 seconds][Agent] : Oh, anybody, It's OK. If I have anything for like parasite TPA, no.
+[20 minutes 31 seconds][Customer] : Let me spell it out to you.
+[20 minutes 34 seconds][Agent] : Sorry.
+[20 minutes 32 seconds][Customer] : Let me spell it out to you. The parasite.
+[20 minutes 39 seconds][Agent] : Oh yeah, sure. D IENT Yeah, AN OEVA dash FRAGILIS.
+[20 minutes 42 seconds][Customer] : It's DIENT ANOEB A-F RAGILIS just from.
+[21 minutes 4 seconds][Agent] : OK, Paris.
+[21 minutes 10 seconds][Customer] : Yeah, let us spell hygiene or something, yeah.
+[21 minutes 17 seconds][Agent] : Oh, that's OK. It's fine. I'm just trying to figure out where to put it because I don't have anything that's parasite. I might just have to type it in and get the application sent off for you.
+[21 minutes 32 seconds][Customer] : It's just you. Those are pretty stamping then body. So just give me just clear it.
+[21 minutes 39 seconds][Agent] : Yeah, I mean, it sounds similar. I know that like a helicopter back to Pylori, but it's like another.
+[21 minutes 44 seconds][Customer] : That's the same, but there's a few different strains.
+[21 minutes 43 seconds][Agent] : I think that might be more like a virus though.
+[21 minutes 47 seconds][Customer] : Yeah, there's all different strains, but this one's just a the pure ones.
+[21 minutes 53 seconds][Agent] : OK, alright, so let me put that in. So stomach parasite and then please describe the reason for the consultation including symptoms and diagnosis. Stomach upset, Diagnosed with. The stomach person actually let me go back because I wonder if it's in the stomach question. Let me just have a quick look. Stomach stomach. Bear with me, I'm gonna pop you in a quick hold. I wanna double check with my manager because we might be able to put it in like the stomach disorder section. Umm. So I'll just double check and come back to you.
+[23 minutes 45 seconds][Customer] : No worries.
+[27 minutes 51 seconds][Agent] : Thank you so much for holding. So we're just going to type in the details about it just because I think it doesn't quite fit in the stomach disorder based on what was explained to me.
+[28 minutes 13 seconds][Customer] : Antibiotics.
+[28 minutes 2 seconds][Agent] : I think with the stomach disorder, that would be something that such diagnose and and more so ongoing, whereas this one, hopefully once you finish the course of antibiotics, it'll go away. Yeah. So let's just put the details. Umm, when was it diagnosed? When did it occur?
+[28 minutes 27 seconds][Customer] : Oh, look, sorry, probably a few weeks ago. A month ago.
+[28 minutes 26 seconds][Agent] : Uh, two weeks ago, months ago. Yeah, I've just been to the doctor, so three to four weeks ago.
+[28 minutes 32 seconds][Customer] : But yeah, I've just been to the doctor early this week, yeah.
+[28 minutes 53 seconds][Agent] : Please provide details of medical tests.
+[29 minutes][Customer] : Look at that. It was the only X-ray.
+[28 minutes 55 seconds][Agent] : So what medical tests did you undergo and what was the results of the X-ray? Is that when they saw the parasite?
+[29 minutes 15 seconds][Customer] : No, that's just just need to make sure everything was right.
+[29 minutes 20 seconds][Agent] : Oh yeah, perfect.
+[29 minutes 19 seconds][Customer] : It was clear that was that was, you know, the whole test, the Wii and the number twos and all that.
+[29 minutes 21 seconds][Agent] : So X-ray results clear And what showed the parasites or parasites urine install? Install tests done. That was normal aside from parasite. I think a lot of people would be surprised how many parasites actually, you know, end up inside us.
+[29 minutes 42 seconds][Customer] : Yes, it's crazy. It is. Yeah.
+[30 minutes 13 seconds][Agent] : Yeah. And there's so many different kinds. Some things, sometimes I get affected. Some people do.
+[30 minutes 13 seconds][Customer] : And some people don't get affected and some PE something don't get affected and some people do like, like knocks me around like you.
+[30 minutes 21 seconds][Agent] : MMM, yeah, no, some of them can.
+[30 minutes 25 seconds][Customer] : Yeah.
+[30 minutes 24 seconds][Agent] : I hadn't heard of the one, the one that you have I haven't actually heard of, but umm, there's lots of other ones that I've heard, but yeah, they yeah.
+[30 minutes 30 seconds][Customer] : Yeah, the one I think you said before was probably the most common one.
+[30 minutes 36 seconds][Agent] : Umm, uh, So is any further investigation or treatment planned? So currently on antibiotics and you'll go back for follow up.
+[31 minutes][Customer] : Yeah.
+[30 minutes 59 seconds][Agent] : Is it just a follow up or what has Yeah. What did they say for you to go for the follow up for? So I mean, did they say like what they were gonna do with the next one that that they might be another course of antibiotics?
+[31 minutes 1 seconds][Customer] : Just a follow up, I seem to be working the tablets anyway just to maybe just another course if it if it wasn't, can you?
+[31 minutes 16 seconds][Agent] : Or course, if it if it wasn't, are you gonna do more urine and stool samples or no?
+[31 minutes 19 seconds][Customer] : Yes, that'll do that. Just to make sure it's clear. Yeah.
+[31 minutes 27 seconds][Agent] : Uh, that'll do that, just to make sure.
+[31 minutes 46 seconds][Customer] : But if if I go back and it's I don't feel any if I got any problems with it, I'll probably just leave it at that.
+[31 minutes 55 seconds][Agent] : Yeah, no, that's fine. Recovery has been made. So you you're feeling. You're feeling 100% again, aren't you?
+[32 minutes 22 seconds][Customer] : Yeah, yeah, it's clear enough.
+[32 minutes 24 seconds][Agent] : Yep.
+[32 minutes 25 seconds][Customer] : It's just got another three days. Of course it doesn't.
+[32 minutes 25 seconds][Agent] : So feeling 100, although still have three more days of antibiotics to finish. Perfect. Oops, if I could spell that right. Finish. OK, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Alright now family history. This is mother, father, brother, sister. To the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with Polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? To the best of your knowledge, have any of your immediate family suffered from cancer, heart conditions, stroke or other hereditary disease prior to age 60?
+[32 minutes 58 seconds][Customer] : No, no, no.
+[33 minutes 34 seconds][Agent] : And last question, other than one off events, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cable wreck diving or any other hazardous activity? Very good. All right. That is all done there for us. Now. Your application needs to be referred to the insurer for assessment just given that we've typed in that additional information that review the information that's there and come back to us with an outcome as soon as possible. Umm, I do finish up at about I think 6:00. So hopefully they review this before, umm 6 and then we can get you covered if there's no changes. So what I'll do if it does come back as fully approved, then we'll get you immediately covered. This policy, you're not required to make any upfront payments or anything like that, so we'll choose a collection day that's gonna suit you best.
+[33 minutes 56 seconds][Customer] : No, Yep.
+[34 minutes 41 seconds][Agent] : Now, while your application is being assessed, you will be covered for accidental deaths, which pays out if death was due to a direct result of an accident. Cover under this loss until the insurer makes a decision on your application or 30 days from today, whichever is earlier. The commencement of your cover will be subject to final assessment by the insurer. But if the insurer approves cover without any changes, are you happy for me to record your acceptance of this policy now and we'll send out all your policy information to your e-mail and postal address? Yeah, perfect. Now, when would be the best collection day for you?
+[35 minutes 13 seconds][Customer] : Yes, Thursday.
+[35 minutes 17 seconds][Agent] : Do you have a particular day you'd prefer Thursday? Yeah, sure. So next Thursday is the 28th of the third. Is that good for you? Yes.
+[35 minutes 27 seconds][Customer] : Yes, maybe.
+[35 minutes 29 seconds][Agent] : Savings for check account, Andrew and the account name is Andrew Smith. Yes, BSP for that moment. Have you already?
+[35 minutes 36 seconds][Customer] : Yes, PHP. You just want the number?
+[35 minutes 47 seconds][Agent] : Just for the number, yeah, Yeah, it's 52170. Is this a card number?
+[35 minutes 54 seconds][Customer] : Yeah, it's 5217, 295, yes.
+[36 minutes 2 seconds][Agent] : Oh, OK. Bear with me one second. So for security purposes, while obtaining your card details, the call recording will stop and we'll recommend after we've collected your details, OK?
+[36 minutes 52 seconds][Customer] : The. The.
+[37 minutes 22 seconds][Agent] : Alright, please do advise. The poor recording is now resumed for quality and monitoring purposes. Alright, now I'll read you your declaration, it states. Thank you Andrew Smith, it is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be in force unless you agree to these terms in full. Family life cover is issued by Hanover Life Re of Australasia Ltd, whom we will refer to as Hanover. Hanover has an arrangement with Greenstone Financial Services, whom I will refer to as GFS Trading as Real Insurance, to issue and arrange this insurance on its behalf. Hanover has relied upon the information you have provided when assessing your application. That includes the information we initially collected from you to provide a quote. Hanover has set a target market determination for this product, which describes the type of consumers. This product is designed for our distribution practices are consistent with this determination and you can obtain a copy on our website. I need to remind you of the duty to take reasonable care that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty?
+[38 minutes 31 seconds][Customer] : Yes.
+[38 minutes 33 seconds][Agent] : Thank you. We may from time to time provide offers to you via the communication methods you have provided to us in relation to other products and services. By agreeing to this declaration. You can send to allow us to contact you for this purpose until you opt out. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of the following. Andrew Smith receives $350,000 in the event of life insurance if benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your premium for your first year of cover is $115.84 per fortnight. Your premium is a step to premium, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year and you can opt out of this each year. Included in your premium is an amount payable to GFS of up to 65% to cover costs. Your premium will be debited from your credit card which you are authorized to debit from and have provided to us. The policy documentation, PDF and FSG will be sent to you within 5 working days and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. In which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. If you are replacing an existing policy with this cover, we recommend that you do not cancel that policy until you have received and reviewed our policy in full. There are risks associated with replacing policies, as your new policy may not be identical to your existing cover, and there may be other risks you should consider depending on your circumstances. We have the complaints process, but you can access at any time by contacting us. Full details are available online and in the documentation we are sending you. Do you understand and agree with the declaration I've just read to you? And would you like any other information about the insurance now or would you like me to read any part of the PDFs to you? Thanks. And just confirming, uh, is this your contact number? O4 O 613-9420? Not all right. Are you wanting to still keep this number on your file?
+[40 minutes 29 seconds][Customer] : Yes, no, no, Yes 0452259911.
+[40 minutes 59 seconds][Agent] : And what's your mobile #5 4-5 mm Hmm 2259911. Perfect. All right, Andrew, that's been sent off there for you. So I'll give you a call as soon as I hear anything. If anything comes back through that, I need to discuss with you. Otherwise I'll get your documentation sent out to you straight away.
+[41 minutes 23 seconds][Customer] : Thank you for all your help. Thanks.
+[41 minutes 21 seconds][Agent] : Thank you for your help. Thanks, Andrew. Bye.
+[41 minutes 28 seconds][Customer] : Bye.

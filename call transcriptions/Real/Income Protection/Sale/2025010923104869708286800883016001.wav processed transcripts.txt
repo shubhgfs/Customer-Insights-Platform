@@ -1,0 +1,21 @@
+[0 seconds][Agent] : Hi there. Thanks so much for your patience holding for me. Just quickly to make sure that e-mail is going to the right place. We have Mitchell on the line from our support team for you and Mitchell have already confirmed all points of ID, full name, date of birth e-mail, home address, phone number and policy type. If you do want to reconfirm the e-mail I just updated, go ahead when you're ready and thank you again for your time. So I do appreciate it.
+[21 seconds][Customer] : No worries. Thank you.
+[22 seconds][Agent] : Thank you. Thanks. I have mentioned my name is Mitch. I'm in customer support. So from what I understand, we just updated the e-mail address there last minute.
+[34 seconds][Customer] : Yep, no worries.
+[32 seconds][Agent] : We wanna make sure we're getting it through to the right one too easy. So it's N cooper41@i-car.com. Is that the one with you?
+[40 seconds][Customer] : Correct. That's it.
+[41 seconds][Agent] : Beautiful. Alright, I'll send one through. It might come through twice. If it doesn't, at least we'll get one of them through there.
+[40 seconds][Customer] : Yep, Yep. No worries.
+[47 seconds][Agent] : But now that's on its way for you to that e-mail address.
+[49 seconds][Customer] : Awesome. That was it all.
+[50 seconds][Agent] : Legend.
+[50 seconds][Customer] : Thank you very much.
+[51 seconds][Agent] : Thanks for that.
+[52 seconds][Customer] : Thanks.
+[52 seconds][Agent] : All good.
+[52 seconds][Customer] : *****.
+[52 seconds][Agent] : You take care.
+[53 seconds][Customer] : You too.
+[53 seconds][Agent] : You have a great weekend.
+[54 seconds][Customer] : You too. Bye.
+[55 seconds][Agent] : Bye bye.

@@ -1,0 +1,31 @@
+[2 seconds][Agent] : Welcome to one choice. My name is Francis. How may I help you?
+[7 seconds][Customer] : How are you?
+[9 seconds][Agent] : I'm well, thank you. How can I help you?
+[8 seconds][Customer] : You just need to check up your license. You.
+[17 seconds][Agent] : You'd like to apply, umm, apply for life insurance. Certainly I can help you with that. Umm, just bear with me. While. Is this the umm, Is this the first time you're looking into Life cover?
+[21 seconds][Customer] : Yeah, yes, yes, yeah.
+[34 seconds][Agent] : Perfect.
+[34 seconds][Customer] : This is the first time for me to.
+[36 seconds][Agent] : No, that's OK. Look, what I'm going to do is I'll collect some information from you, explain the way the life cover works and run through the features and benefits and also run through some pricing. So I'll let you know as well that all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. Can I start off with your first name, surname and date of birth? Yep, thank you so much. Can I also confirm that you are a male New Zealand resident? Permanent residence? A male New Zealand resident? You reside in New Zealand, correct?
+[1 minutes 12 seconds][Customer] : 16/03/70 1 Yes, I got the the my name, not a city, yeah.
+[1 minutes 34 seconds][Agent] : Thank you so much So that's no, you're you're you're a permanent resident, correct. Male, Umm, New Zealand permanent resident. Is that correct? Perfect. All righty, let's just have a look. Umm, I can see that you have inquired in the past, Umm. So let's have a look here for you. So what's got you looking back into live cover there? It looks like you inquired about two years ago and you're looking. So what's got you looking back into live cover there? Yeah. So is it any particular reason why that you're looking into live cover?
+[1 minutes 47 seconds][Customer] : Yes, alright, the life insurance just in case if I have a pass away or and some benefit for my daughter and my family.
+[2 minutes 28 seconds][Agent] : Yeah, perfect. Look, that's exactly what it's designed to do. It's that Peace of Mind that you have, that financial protection for your loved ones through a lump sum payment if you were to pass away. OK, I'll explain a little more how it works for you. Now there are 9 medicals or blood tests. I wouldn't get you to fill out any forms. What we have is a serious of health and lifestyle questions. Now with the health and lifestyle questions, the majority of them are a yes or a no answer. And then when it comes to the payment, it's indicative and the final premium in terms of the policy depends on the outcome of those umm, of those questions. Look, it may or may not change. We won't know that until we go through the application together. OK, So let's just umm, I'll open up an application here for you, so let me have a look. So just in regards to your smoking status, have you smoked a cigarette in the last 12 months? Yes or no? No thank you. Now with the level of cover, you can choose anywhere from $100,000 up to $1,000,000 and it goes up in 50,000 increments. What amount would you like me to quote you on?
+[3 minutes 38 seconds][Customer] : No, no, this is it's 500.
+[4 minutes 10 seconds][Agent] : So it's you can see it starts up at 100,000 and it goes up to $1,000,000. So umm 100,000, let's have a look at 100,000. So for $100,000 of life cover, you were looking at an indicative payment of $19.11 per fortnight. That's for 100,000. Did you want to look at another amount? Are you happy? Yes.
+[4 minutes 19 seconds][Customer] : 100,000 yeah 300,000.
+[4 minutes 46 seconds][Agent] : 300, yeah, yeah. For 300,000 you are looking at $41.96 per fortnight. 96 per fortnight, Yeah. Did you want to look at that one or another amount? Sure.
+[5 minutes 5 seconds][Customer] : OK, I'll be going to shut down to 200,000. OK.
+[5 minutes 14 seconds][Agent] : Yeah, 200,000 you're looking at an indicative payment of $30.54 per Fortnite that Yeah.
+[5 minutes 28 seconds][Customer] : But yeah, I have to to talk with my my wife when he come, he come back from work and I contact you.
+[5 minutes 39 seconds][Agent] : OK, All right, you've got my you've got my name and number. What I can do you is so you're going to speak to your umm, your partner, your wife first. OK, all righty.
+[5 minutes 47 seconds][Customer] : Yes, yes, Yeah.
+[5 minutes 50 seconds][Agent] : So umm, yeah, just give me. I'm here until 5:00.
+[5 minutes 55 seconds][Customer] : Alright.
+[5 minutes 54 seconds][Agent] : Umm, if you want to go ahead with this one, please feel free to give me a call back. My name is Francis. Happy to go through the umm, the umm, the questions with you to see, to see if anything changes.
+[6 minutes 5 seconds][Customer] : Alright. Alright.
+[6 minutes 4 seconds][Agent] : OK, Thank you so much.
+[6 minutes 7 seconds][Customer] : Thank you.
+[6 minutes 7 seconds][Agent] : Bye. Bye.
+[6 minutes 8 seconds][Customer] : Yeah, Thank you. Bye.
+[6 minutes 9 seconds][Agent] : Bye.

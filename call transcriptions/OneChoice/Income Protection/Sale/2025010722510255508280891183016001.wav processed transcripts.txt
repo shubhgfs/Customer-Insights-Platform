@@ -1,0 +1,302 @@
+[0 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hello, good morning. My name is Bonnie. I'm calling from One Choice Insurance.
+[8 seconds][Customer] : Oh, hi.
+[7 seconds][Agent] : Am I speaking with Lisa?
+[9 seconds][Customer] : Yes, you are. Yep. Yep, that's me.
+[11 seconds][Agent] : Hi Lisa, I was calling in regards to an income protection insurance inquiry we received for you over the weekend. So just confirming yours first insurance. I have here to pronounce your surname ALAC or ALAC.
+[17 seconds][Customer] : Yes, Alex. Yep. Whatever.
+[25 seconds][Agent] : OK, OK, perfect. No worries. And your date of birth there Lisa is the 23rd of April 1975.
+[32 seconds][Customer] : Yes, that's right.
+[33 seconds][Agent] : Alright, perfect. Now Lisa, Please note that all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances, umm, but thanks so much for taking the time there with that. Umm, Lisa, just to have a better understanding for you, is the income protection cover new for you or did you already have some at the moment?
+[1 minutes 4 seconds][Customer] : It's new. I had it with my old job, but I changed jobs last year and so I thought I'd better get into it. Yeah, that would be new. Yeah.
+[1 minutes 14 seconds][Agent] : Oh, OK, OK, now that's understandable. Umm, did you, did you have anything specific you needed to cover? Like if you're out of work, what would be the most important things to cover for you?
+[1 minutes 26 seconds][Customer] : With mortgage, yeah, I'd say yeah.
+[1 minutes 28 seconds][Agent] : OK, no worries. Yeah, that's OK. We can take a look at that. Umm, because our policy is mainly designed to provide you a monthly income benefit if you're unable to work due to the savings, sickness or injury and you were suffering a loss of income as well. And that way you could keep up with the mortgage payment.
+[1 minutes 49 seconds][Customer] : Yeah.
+[1 minutes 45 seconds][Agent] : So even any other day-to-day living expenses you do have at least. Did you currently live by yourself or did you have any other dependents that would need that assistance as well?
+[1 minutes 54 seconds][Customer] : No, it's just me. Yeah.
+[1 minutes 56 seconds][Agent] : OK, no that's understandable. Well, and they can be used for that. Umm, once the payments start, you're free to use them whichever way. We're best for you. Umm. Now the amount of cover we offer is up to 75% of your monthly pre tax income, which can go from $1000 up to $15,000. And then we do keep everything nice and simple for you as well. We can customize the policy to suit your needs best. And then I can take you through the health and lifestyle application to check your eligibility and let you know the pricing and terms.
+[2 minutes 28 seconds][Customer] : Alright, cool.
+[2 minutes 30 seconds][Agent] : And if it is something that you're more happy with and you're happy to start the policy, we do covet you until your policy anniversary following your 65th birthday. Just keep in mind that there are some exclusions that apply as outlined in the policy document. But after the health and lifestyle application, I can let you know the pricing in terms for yourself as well.
+[2 minutes 45 seconds][Customer] : Yeah, cool. OK, that'll be great.
+[2 minutes 54 seconds][Agent] : Lisa, can I confirm that you are a female New Zealand resident currently residing in New Zealand?
+[3 minutes][Customer] : Yes, that's good.
+[3 minutes 1 seconds][Agent] : OK, perfect. Now, umm, next I'll take you through what's called a duties based disclosure. It's just in regards to some of your duties at work. Umm, Firstly though, Lisa, what do you currently do for work at the moment?
+[3 minutes 13 seconds][Customer] : Insurance.
+[3 minutes 14 seconds][Agent] : Oh, OK, no worries.
+[3 minutes 18 seconds][Customer] : No, it's a claim. Claim. I don't. Insurance claim? Yeah.
+[3 minutes 15 seconds][Agent] : Insurance like a broker, agents, OK. Insurance claims like a claims assessor.
+[3 minutes 26 seconds][Customer] : No. Claim. Paid less. I work for an insurance company.
+[3 minutes 25 seconds][Agent] : OK OK insurance claims. Hello wonderful. Now umm. Before answering any of our questions it is important that you are aware of your duty to answer all our questions accurately and honestly. Failing do so could impact cover a claims time. Umm, do you work 15 hours or more per week?
+[3 minutes 29 seconds][Customer] : Yeah, yeah, yeah.
+[3 minutes 50 seconds][Agent] : Is your role of an administrative, managerial, or professional nature? Will you spend the majority of your time indoors in an office or clinical environment?
+[4 minutes 2 seconds][Customer] : Yes.
+[4 minutes 3 seconds][Agent] : Are you required to perform any physical duties? Do you work in any of the following fields, aviation as a pilot or crew, entertainment industry, Air Force, Army, armed forces? Or do you carry a firearm or handle explosives? OK, perfect. And the next part here, have you had a cigarette in the last 12 months?
+[4 minutes 7 seconds][Customer] : No, no, no cigarette. I do that, but I don't need cigarette.
+[4 minutes 32 seconds][Agent] : OK, No, that's OK, that's fine. And are you currently employed or self-employed?
+[4 minutes 33 seconds][Customer] : Yeah, employed.
+[4 minutes 40 seconds][Agent] : OK, perfect. Umm, the next thing I'll read out is a pre tax income definition. Umm, what that is, is the total annual remuneration paid to you by your employer before tax, including salary and regular commissions or bonuses. However excluding employer, Kiwi saver and super contributions. But Lisa, what is your annual pre tax income?
+[5 minutes 2 seconds][Customer] : Right, It's a decision. I think it's 120, but it's just 125. Hold on. I'm just trying to have a look.
+[5 minutes 10 seconds][Agent] : OK, yeah, that, that's OK. That's what I can understand.
+[5 minutes 19 seconds][Customer] : Yeah, I know. That's all I do.
+[5 minutes 17 seconds][Agent] : Sometimes you just work so hard that you forget to text them other things.
+[5 minutes 20 seconds][Customer] : But I I know I've got a pay rise. Oh, ****. My system's not giving me login, I think.
+[5 minutes 27 seconds][Agent] : Do you have, uh, access to like my IR by any chance? Would take you a lot.
+[5 minutes 30 seconds][Customer] : Yeah, yeah, my system, my system's down at the moment, Yeah. If you could work it, because I know I've got a 2 bit 122,000, but yeah, that I might need to change that. But could if you could give me a quote based on that for now. I'm sorry, yeah.
+[5 minutes 39 seconds][Agent] : OK, OK, OK, no worries. So that's OK. Umm, based on that, your, UMM, with regards to your UMM, based on 122,000 UMM, as a monthly benefit amount and based on your duties as well, you could select A benefit amount of $1000 up to $7624.00 per month. Umm, So how much would you I guess would best assist you with looking after the mortgage payments if you're out of work.
+[6 minutes 9 seconds][Customer] : Well, I I think more than, I think more than yeah, I think TH TH the higher one because I know monthly I get over 7000 anyway.
+[6 minutes 18 seconds][Agent] : OK, OK, yeah, that's all right. So the, the 7624.
+[6 minutes 17 seconds][Customer] : So that would yeah, yeah, yeah, yeah.
+[6 minutes 24 seconds][Agent] : OK, no worries. Uh, the next two things are your waiting period and benefit. Umm, what the waiting period is, is the non payment period that you must wait before the income benefit is payable after the insured events. You can choose 30 days or 90 days. And which one would you like to select?
+[6 minutes 45 seconds][Customer] : Probably 30, actually. Yeah.
+[6 minutes 46 seconds][Agent] : OK, but the benefit. Is the maximum amount of time that we will then pay the income benefit for anyone injury or illness. You can choose between six months, one year, 2 years and five years. Which benefit. Would you like to select?
+[7 minutes 7 seconds][Customer] : Oh, sorry, I've just got into the system, so my salary is 125. Yeah, yeah, yeah.
+[7 minutes 11 seconds][Agent] : OK, no worries 125,000 OK, so if it was 125,000 instead, the uh, maximum monthly benefit amount would go up to 7812.
+[7 minutes 26 seconds][Customer] : OK. Yeah. Oh yeah.
+[7 minutes 26 seconds][Agent] : Umm, W would you want to keep it at the other amount or would you want to have it be on a 12?
+[7 minutes 31 seconds][Customer] : Just give me a quote for the top one, yeah?
+[7 minutes 34 seconds][Agent] : OK, no worries. That's OK. And with the benefit. Which one would you like me to select for you?
+[7 minutes 41 seconds][Customer] : So what was the, what was the longest one?
+[7 minutes 39 seconds][Agent] : Uh, so the longest one was five years. Yeah. So there was six months, one year, 2 years and then five years.
+[7 minutes 48 seconds][Customer] : 51, maybe 2-5?
+[7 minutes 55 seconds][Agent] : OK, you know, worries I can do 5 for you. Umm, next I'll take you through the application so I can get you that quit there for you as well. What I need to read out to you next is a pre underwriting disclosure.
+[7 minutes 54 seconds][Customer] : Yeah, yeah.
+[8 minutes 6 seconds][Agent] : Umm, but what this information will let you know are the reasons why we collect your details and it'll also let you know about your duty of disclosure. So it says. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and may share it with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access and correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure before you enter into an income protection contract. You have a legal duty to provide to us any information you know or could reasonably be expected to know, which may affect our decision to insure you and on what terms. You do not need to tell us things that we already know or should know as an insurer or which reduces the risk we insure. You have this, Judy, until the time we enter into the contract. If you fail to disclose a matter or you make a false statement in answer to our questions, we may be able to decline a claim, impose new conditions on your policy, or avoid your policy entirely. Lisa, do you understand this?
+[9 minutes 50 seconds][Customer] : Yep, Yep. Exactly.
+[9 minutes 52 seconds][Agent] : OK, perfect. Now with each of the questions, all I need is a yes or no from you as well. If you need me to repeat anything or clarify anything, please just let me know.
+[10 minutes][Customer] : Yep.
+[10 minutes 1 seconds][Agent] : First one is are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand?
+[10 minutes 11 seconds][Customer] : Yes.
+[10 minutes 12 seconds][Agent] : Have you ever had symptoms of, been diagnosed with, or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina? Cancer or leukemia, excluding skin cancer?
+[10 minutes 33 seconds][Customer] : No, no. Oh, I did have a a tumour on my thyroid. They took half of it out, but it wasn't a cancerous tumour.
+[10 minutes 51 seconds][Agent] : Oh, OK, no worries.
+[10 minutes 52 seconds][Customer] : Yeah.
+[10 minutes 53 seconds][Agent] : That's OK.
+[10 minutes 53 seconds][Customer] : So is there. Yeah. They, they just did the test and it was fine.
+[10 minutes 57 seconds][Agent] : OK.
+[10 minutes 56 seconds][Customer] : Yeah, yeah.
+[10 minutes 58 seconds][Agent] : So he was confirmed noncancerous.
+[11 minutes][Customer] : No, they can't.
+[11 minutes 1 seconds][Agent] : OK, no worries. We can disclose that on a later question there for you.
+[11 minutes 1 seconds][Customer] : Yeah, OK. No, no, no, nothing. No, no.
+[11 minutes 5 seconds][Agent] : Outside of that, anything else in regards to cancer or leukemia, excluding skin cancer, lung disorder, excluding asthma, sleep apnea or pneumonia, kidney disorder, hepatitis or any disorder of the liver, anxiety, depression or stress requiring medical treatments or any other mental health disorder.
+[11 minutes 36 seconds][Customer] : I was on antidepressant.
+[11 minutes 34 seconds][Agent] : OK, OK, OK.
+[11 minutes 41 seconds][Customer] : I think it was about 2016 for a couple of years, but that was to do with my job since why I lived. Yeah, but nothing at the moment.
+[11 minutes 50 seconds][Agent] : No, that's OK.
+[11 minutes 50 seconds][Customer] : Don't take anything that was easier.
+[11 minutes 52 seconds][Agent] : No, that's all right. That's OK.
+[11 minutes 55 seconds][Customer] : OK.
+[11 minutes 54 seconds][Agent] : We can disclose it into further questions underneath.
+[11 minutes 57 seconds][Customer] : Yeah.
+[11 minutes 56 seconds][Agent] : Umm the next one just asks in the last five years have you attempted suicide or been hospitalized for a mental health condition and is your condition or form of schizophrenia, bipolar or psychotic disorder?
+[12 minutes 5 seconds][Customer] : No, no.
+[12 minutes 13 seconds][Agent] : OK now with that the the drop down there has four options that I'll read out for you.
+[12 minutes 19 seconds][Customer] : Yep.
+[12 minutes 19 seconds][Agent] : You just ask, is your condition option A depression, anxiety, post Natal depression or stress including post traumatic stress disorder? Option B is OK. Perfect.
+[12 minutes 29 seconds][Customer] : The first one, sorry.
+[12 minutes 32 seconds][Agent] : Wonderful. No, that's OK. That's right. I'll just read out the rest.
+[12 minutes 35 seconds][Customer] : OK, Yeah, all good.
+[12 minutes 34 seconds][Agent] : But of course if it's option A you're leaving, that's completely fine.
+[12 minutes 37 seconds][Customer] : Sorry.
+[12 minutes 37 seconds][Agent] : No, that's alright. Umm, Option B is anorexia, universal or bulimia, Option C is ADHD or ADD, and then option D is other mental illness not listed here. Umm.
+[12 minutes 51 seconds][Customer] : Yes, yes.
+[12 minutes 49 seconds][Agent] : So just confirming it was just option A OK perfect. Now umm, there's the dot dot down question underneath that asks how many episodes have you had which required treatment. Umm it can. It can sound a bit tricky there. So I read out the definition. What's classified as like a single second and separate episode? Umm. How to define though is an episode is an event, occurrence, or recurrence of symptoms with increased severity from normal mood and usually require either medical intervention, referral treatments, or a change to existing maintenance treatments, whether they're treatment to this medication or even counseling or therapy. What's defined as a single episode is if you have symptoms of a condition that require treatment that would be classified as one episode, and if you return to your doctor several times to either monitor the situation or for repeat prescriptions, that still counts as the same single episode. Umm, If, however, you have a relapse or symptoms worsen and treatment needs to be changed or increased, this would then be, uh, considered a second episode. And then similarly, if you were to recover and then treatment stops and you're fine, umm, but at a later date, symptoms returning, you have to go back to your doctor for further advice. This would be a separate episode. I'm so the options we have there that we can disclose this Sunday is one to two episodes 3 to 4-5 to six or seven plus.
+[14 minutes 28 seconds][Customer] : Oh God. Well, it's just a single, isn't there really? I just went once, got some toes, took them and didn't need them anymore.
+[14 minutes 34 seconds][Agent] : Oh, OK.
+[14 minutes 34 seconds][Customer] : So yeah. So yeah.
+[14 minutes 35 seconds][Agent] : And it was just the same prescription.
+[14 minutes 37 seconds][Customer] : Yeah. Yeah.
+[14 minutes 38 seconds][Agent] : OK, Yeah, no worries.
+[14 minutes 38 seconds][Customer] : Well, I think single is. Yeah. Is it single spot?
+[14 minutes 41 seconds][Agent] : Yeah, yeah.
+[14 minutes 41 seconds][Customer] : Yeah, yeah.
+[14 minutes 42 seconds][Agent] : So we we can we can disclose that under just one episode there for you now have you had symptoms or treatment for this condition within the last six months And have you ever seriously contemplated or attempted suicide and have the factors or causes that triggered the symptoms been partially or fully removed? OK wonderful. And in the last 10 years have you required hospitalization as a result of this condition? OK. And in the UMM in the last five years, how much time off work have you required as a result of this condition?
+[14 minutes 51 seconds][Customer] : No, no, holy rood, no, no.
+[15 minutes 23 seconds][Agent] : Umm that can be 0 on not at all at that time. OK perfect. Now moving on to the next section. Have you been diagnosed with or currently undergoing testing for or has a doctor advised you to be tested for no term urine disease or any form of dementia including Alzheimer's disease? OK, perfect.
+[15 minutes 44 seconds][Customer] : Not yet, no.
+[15 minutes 46 seconds][Agent] : That's good to hear. That's very good to hear. The the next section is in relation to your height and weight.
+[15 minutes 54 seconds][Customer] : Yep.
+[15 minutes 54 seconds][Agent] : Please be aware that I am required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So in either centimeters or feet and inches, What is your exact height please?
+[16 minutes 15 seconds][Customer] : And so I'm one point sector, yes.
+[16 minutes 17 seconds][Agent] : OK, 166 centimeters and in either kilograms, pounds or stones. What is your exact weight, please? Now, have you experienced any unexplained weight loss of more than 5 kilograms in the last 12 months?
+[16 minutes 26 seconds][Customer] : 65 kilos, No, no, unexplained. I've just changed my diet and stuff.
+[16 minutes 40 seconds][Agent] : Yeah, that's good. No, that, no, that's very good. That's very good. No, that's OK. That's completely fine. And the the next section just asks, does your work require you to use explosives, travel to areas experiencing war or civil unrest, or work offshore?
+[16 minutes 39 seconds][Customer] : So, fully explained, yeah, but nothing unexplained, no.
+[16 minutes 57 seconds][Agent] : OK, perfect. The next one is are you A, employed or B self-employed?
+[17 minutes 2 seconds][Customer] : I'm sorry.
+[17 minutes 1 seconds][Agent] : We had already confirmed you were employed earlier.
+[17 minutes 3 seconds][Customer] : Yeah, Yeah.
+[17 minutes 4 seconds][Agent] : Have you been in your current occupation for at least 12 months?
+[17 minutes 8 seconds][Customer] : Not yet. No.
+[17 minutes 10 seconds][Agent] : Do you intend to change your current occupation in the next 12 months?
+[17 minutes 14 seconds][Customer] : No.
+[17 minutes 15 seconds][Agent] : And have you been performing the same occupational duties in the past 12 months?
+[17 minutes 20 seconds][Customer] : Yes.
+[17 minutes 22 seconds][Agent] : OK, wonderful. Now, do you have a second occupation that generates a taxable income? Have you ever been declared bankrupt or placed in receivership, in voluntary liquidation or under administration?
+[17 minutes 27 seconds][Customer] : No, no.
+[17 minutes 38 seconds][Agent] : To the best of your knowledge, are you infected with or are you in a high risk category for contracting HIV which causes AIDS?
+[17 minutes 48 seconds][Customer] : No.
+[17 minutes 50 seconds][Agent] : Do you have definite plans to travel or reside outside of New Zealand like booked or will be booking travel within the next 12 months?
+[18 minutes][Customer] : Oh, sorry. Does that include holidays? Oh.
+[18 minutes 3 seconds][Agent] : Yeah, if you, if you think I would intend to go for a holiday as well.
+[18 minutes 5 seconds][Customer] : Oh, yeah, yeah. Oh, absolutely. Yeah, Yeah.
+[18 minutes 7 seconds][Agent] : OK. When do you intend to travel to?
+[18 minutes 11 seconds][Customer] : Well, I usually just go like Ferraro or Fiji, but I haven't made any definite plans when. But yeah, they'll definitely be incredible.
+[18 minutes 18 seconds][Agent] : Oh, OK, no worries. Is is the possibilities for now just some Fiji and did you say Rarotonga? Sorry.
+[18 minutes 18 seconds][Customer] : Yeah, yeah, yeah.
+[18 minutes 24 seconds][Agent] : OK. Yeah, no worries. That's OK. And if you do travel, will you be overseas for longer than three consecutive months? OK. Now, do you have existing income protection cover?
+[18 minutes 30 seconds][Customer] : No, no.
+[18 minutes 36 seconds][Agent] : OK, perfect. Well, on to the middle section. This one just asks, have you ever had symptoms of been diagnosed with or treated for, or intend to seek medical advice for any of the following diabetes, Raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumor, mold or cyst, including skin cancer, sunspots, or Melanoma. We can put the tumor section here that you let me know about earlier. Just outside of that, anything in regards to a normal cyst, including skin cancer, sunspots or Melanoma. OK. And under the tumor section, was it a brain or bone tumor?
+[18 minutes 58 seconds][Customer] : No, no, yeah, no, I haven't seen anything neither. It was thyroid.
+[19 minutes 31 seconds][Agent] : OK And has the tumor been confirmed benign? OK, perfect. So moving on from that section, have you ever had an abnormal Pap or cervical smear, Thyroid condition or neurological symptoms such as dizziness or fainting, Disorder of the stomach, bowel, gallbladder or pancreas, Epilepsy, multiple sclerosis, muscular dystrophy, Parkinson's disease or paralysis? Any illegal drug use, abuse of prescription medication, or received medical advice or counseling for alcohol consumption. Bladder or urinary tract disorder, blood disorder or disease, Sleep apnea or asthma, excluding childhood asthma.
+[19 minutes 43 seconds][Customer] : No, no, no, no, no, no, no, no. Oh well, yeah, I had. I have got mild asthma, but since I've lost a lot of weight, it's gone away. But it was diagnosed at like 13. But I suppose it's childhood asthma, isn't it?
+[20 minutes 38 seconds][Agent] : OK, OK. Yeah, no worries. That's OK.
+[20 minutes 43 seconds][Customer] : But yeah, yeah.
+[20 minutes 43 seconds][Agent] : Anything under the age of 18.
+[20 minutes 46 seconds][Customer] : OK. Yep, Yep. OK. So nothing, right?
+[20 minutes 45 seconds][Agent] : Is your childhood asthma OK? Perfect now, Uh, back or neck pain or disorder?
+[20 minutes 53 seconds][Customer] : No.
+[20 minutes 54 seconds][Agent] : Arthritis, chronic pain, gout, repetitive strain injury, chronic fatigue syndrome or fibromyalgia. Joints or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Osteoporosis or osteopenia any defective hearing or sight other than which is corrected by glasses or contact lenses.
+[21 minutes 3 seconds][Customer] : No, no, no, no.
+[21 minutes 25 seconds][Agent] : OK, perfect. Now the next one just asks other than what you have already told me about in the past three years, have you sought medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as been unlimited to any surgeries, X-rays, scans, blood tests or biopsy?
+[21 minutes 53 seconds][Customer] : I don't know if it's 4, but three years ago I had liposuction.
+[21 minutes 57 seconds][Agent] : Oh OK.
+[21 minutes 58 seconds][Customer] : Yeah.
+[21 minutes 58 seconds][Agent] : Umm, was that like umm, OK, so liposuction, let's just see.
+[22 minutes 4 seconds][Customer] : Cosmetics IS3. I'm sure.
+[22 minutes 4 seconds][Agent] : OK, OK, no, no worries. That's OK. Umm, so umm, OK, so I so just confirming was the, was the, was the liposuction due to umm obesity or had you done that for cosmetic purposes?
+[22 minutes 5 seconds][Customer] : I'm sure I should disclose it, but no, no, just media purposes.
+[22 minutes 22 seconds][Agent] : OK, no worries.
+[22 minutes 22 seconds][Customer] : Yeah, Just yeah, yeah.
+[22 minutes 23 seconds][Agent] : No, that's OK, that's all right. So umm we can do that.
+[22 minutes 30 seconds][Customer] : What do? What do you mean by that? Right.
+[22 minutes 26 seconds][Agent] : So cosmetic surgery and was it full recovery as well as in like umm, the cosmetic surgery? Umm, did you? Do you still have any like investigational treatment plan or anything like that at all?
+[22 minutes 37 seconds][Customer] : Oh, no, no, no, that was no, no, that's all. All one and done. Yeah. Four weeks later, all the. Yeah.
+[22 minutes 39 seconds][Agent] : Or OK, no worries, No perfect, wonderful. Outside of that, anything else in the past three years at all?
+[22 minutes 48 seconds][Customer] : Three years. No, I think that's been it, Yeah.
+[22 minutes 50 seconds][Agent] : OK, perfect. Now, umm, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks?
+[23 minutes 5 seconds][Customer] : Oh, I hope not. No, everything's pretty good.
+[23 minutes 7 seconds][Agent] : OK, perfect, wonderful. And other than what you have already told me about, have you ever during your working career required more than two consecutive weeks of work due to illness or injury?
+[23 minutes 22 seconds][Customer] : No, no, no, no.
+[23 minutes 24 seconds][Agent] : OK, OK perfect. Now next two questions have a term that says immediate family, umm, which is only referring to your father, mother, brother or sister only.
+[23 minutes 35 seconds][Customer] : What?
+[23 minutes 35 seconds][Agent] : So to the best of your knowledge, have any of your immediate family living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis?
+[23 minutes 52 seconds][Customer] : I don't know what they left on us, but no.
+[23 minutes 54 seconds][Agent] : No, that's OK. That's right. I've got a I've got a medical definition. It sounds a bit like a Harry Potter spell when you say it. Umm, let me see. So to be honest, I can't remember the definition of the top of my head, but I'm pretty sure, uh, OK, so familial adenomatous polyposis.
+[24 minutes 15 seconds][Customer] : Oh, right. Oh, no. Yeah.
+[24 minutes 11 seconds][Agent] : OK, So what it is, is a disease of the large intestine that is marked by the formation, especially in the colon or ****** of adenomatous polyps, and then they can become malignant if left untreated as well.
+[24 minutes 24 seconds][Customer] : Ah, interesting. I can't. Yep. No. Nice. All those. Yep.
+[24 minutes 26 seconds][Agent] : OK, no perfect. Now that's OK. And to the best of your knowledge have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60, so before their 60th birthday? OK, perfect. Now final question for you is other than one off events, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline, Motor racing, parachuting, mountaineering and sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity.
+[24 minutes 44 seconds][Customer] : No, absolutely not. No.
+[25 minutes 15 seconds][Agent] : OK, perfect. That's OK. I'm a bit of a, I'm not too much of A myself to be honest. So I can understand, umm, great news. Your application has been approved there for the income protection cover. Umm, another great part of this though, is it's approved with no changes. So throughout the application, questions and answers, there were no, umm, exclusions added or chapter or chapter terms changed or anything like that. Umm, now included in the policy is, uh, what's called a rehabilitation benefit. Uh, what this is, is if you were to suffer disabling sickness or injury and out of work, umm, what we can do is pay an additional reimbursement of up to 50% of your monthly income benefit to a maximum of $3000 to assist you with rehabilitation costs whilst you're claiming. Umm, another thing that that rehabilitation benefit can do is reimburse up to six times your income benefit towards any, that type of cost of equipment or modifications required to assist you with your return to work.
+[26 minutes 24 seconds][Customer] : Oh, OK, cool.
+[26 minutes 17 seconds][Agent] : So in case maybe you need a different kind of working space or even any of the assistance if you do work from home, umm, that can be used for those purposes as well with regards to this. So the approved amount there for you for the monthly benefit amount of $7812.00, waiting period of 30 days and benefit period of five years, you'd be looking at a fortnightly premium of $248.86 per fortnight. But Lisa, how did that sound?
+[26 minutes 51 seconds][Customer] : Oh yeah, it seems to have been what I thought. Is that OK?
+[26 minutes 54 seconds][Agent] : OK, it can be, it can be customized differently in the sense that, umm, if, if a monthly benefit amount less than that can work for you still to look after the mortgage or even the benefit. Can be reduced as well. Did you have like a budgeted figure that you had in mind to pay for the income protection? OK.
+[27 minutes 12 seconds][Customer] : No, I I don't Yeah, No, to be honest, I I actually have no idea how much this sort of stuff cost, but yeah. But you know, I'm not, I'm not saying it's not doable. It's just, you know, so was it 248 is at least 240.
+[27 minutes 29 seconds][Agent] : Yeah. So $248.86 per fortnight if you kept everything that at that same way of the maximum monthly benefit amounts and next month benefit.
+[27 minutes 39 seconds][Customer] : What about if you it's, you know how I had the 30 day waiting period? What about does it go down if you go to whatever the next one is?
+[27 minutes 44 seconds][Agent] : Yeah, yeah, yeah. So the 90 day. Actually reduces that down.
+[27 minutes 48 seconds][Customer] : Is it 90 days or something? OK.
+[27 minutes 54 seconds][Agent] : So so to bring that down there for you, I'll let you know what the adjusted one would be. OK Yeah. And that's that's fair. It's good to you that you're well prepared. I guess sometimes, you know, you may need the savings for anything else, but you know anything une unexpected can happen.
+[27 minutes 58 seconds][Customer] : Yeah, that'd be good because I have got savings I can dip into if something happens, so maybe, yeah.
+[28 minutes 12 seconds][Agent] : The if we bring that to 90 days there for you. That way you can still have the same monthly benefit amounts as well as the same benefit period of five years. That brings that down to an approved price of $150.62 per 4th. I didn't stand now over this. Your premium is stamped, which means it will generally increase as you age.
+[28 minutes 25 seconds][Customer] : Oh, alright, Yeah, yeah.
+[28 minutes 36 seconds][Agent] : In addition, this policy comes with what's called automatic indexation. OK, So what this means is that each year your sum insured that you have will increase by 3% until you reach the maximum benefit of $15,000 per month with associated increases in premium. Umm, that, uh, indexation there isn't, uh, uh, what's it like a mandatory thing? So if you'd like to opt out of that, what we do is send you the renewal notice of your policy and you can opt out of this indexation each you to keep that at the same amount there for yourself as well moving forward.
+[29 minutes 7 seconds][Customer] : Oh, OK, OK. Oh no, that sounds good. Alright. No, that's that's cool. Do you see something? I've got a couple of other places I'm waiting to get it.
+[29 minutes 14 seconds][Agent] : Yeah, Now, yeah.
+[29 minutes 21 seconds][Customer] : Would you be able to e-mail me a like that quote and then Cos I, I want to get it sorted in the next two weeks and then I can come back to you guys. But yeah, I've just got a couple more places that I'm waiting to hear that from.
+[29 minutes 35 seconds][Agent] : Yeah, of course. No, that's OK.
+[29 minutes 34 seconds][Customer] : So is that alright?
+[29 minutes 36 seconds][Agent] : Are you as in like you're just shopping around as well?
+[29 minutes 36 seconds][Customer] : Yeah, yeah, yeah, yeah, yeah.
+[29 minutes 39 seconds][Agent] : Yeah, of course. Well, since that's the case, I can do this two different ways there for you.
+[29 minutes 50 seconds][Customer] : Cool.
+[29 minutes 43 seconds][Agent] : Based on what such a situation, I can send you through general information and pricing to start out with before going ahead with the policy.
+[29 minutes 52 seconds][Customer] : Perfect. Yep.
+[29 minutes 53 seconds][Agent] : Since the key thing you mentioned is you're also doing some shopping around. Another option is we can get you covered with the policy from today. The key thing is that you don't have to start the payments from today, so you can choose a later payment date that you'd prefer whilst shopping around for some other options in case you do find something else that suits you better. Though there's no lock in contracts or cancellation fees so you would just need to give us a call and let us know if you went with a different option as well.
+[30 minutes 19 seconds][Customer] : Oh, oh, OK.
+[30 minutes 21 seconds][Agent] : Does that option sound better for you?
+[30 minutes 23 seconds][Customer] : Yeah, that sounds OK. That sounds good. Yeah yeah.
+[30 minutes 25 seconds][Agent] : Yeah, because whilst whilst this is what we will still e-mail you to all the documentation and I'll send out a hard copy for you. The policy does give you a 30 day cooling off.
+[30 minutes 32 seconds][Customer] : Oh, super yeah, yeah. Cool.
+[30 minutes 36 seconds][Agent] : So if you do change your mind about the policy after the payments already started and cancel within 30 days of that first payment, you will receive a full refund of your premiums unless a claim has been made now.
+[30 minutes 50 seconds][Customer] : Well, that sounds. Sorry, I've got to ask earlier. So this in capitation. What about does it cover like I get if you've got sickle something or had an accident, What about does it cover like if you get fire or like made redundant or something like that? Is there any provision to cover for that or is it just purely for sickness and accident? Right.
+[31 minutes 8 seconds][Agent] : Yes, so the monthly income benefit is mainly payable for if you suffer disabling sickness or injuries.
+[31 minutes 17 seconds][Customer] : OK.
+[31 minutes 14 seconds][Agent] : It can't be paid in the event of redundancy, however if you do, if you are made a voluntary redundant, we do have a redundancy premium waiver benefit. Umm. What that means is that we will waive your policies regular premium for a maximum of three consecutive months.
+[31 minutes 23 seconds][Customer] : Oh, OK.
+[31 minutes 30 seconds][Agent] : During this.
+[31 minutes 30 seconds][Customer] : Oh, that's good. Yeah, Yeah, Yeah. Cool.
+[31 minutes 31 seconds][Agent] : Your policy will remain in force, which means even in the event that you aren't a are able to work due to a disabling sickness or injury, you'll still be able to make a claim back from the policy during that time as well.
+[31 minutes 42 seconds][Customer] : OK. No, that's that's alright. I mean, it's easy enough to get another job for insurance, so yeah, that's fine. OK. No, that's cool.
+[31 minutes 48 seconds][Agent] : No, that's OK, I'll just confirm your details I have here.
+[31 minutes 51 seconds][Customer] : Yep.
+[31 minutes 51 seconds][Agent] : Umm, listen one thing though, I do not want to put you your surname. Can you just let me know how to pronounce it again?
+[31 minutes 57 seconds][Customer] : LH.
+[31 minutes 58 seconds][Agent] : Elledge. OK, perfect. So e-mail address ihavehereisllh6969@gmail.com.
+[32 minutes 4 seconds][Customer] : Yes.
+[32 minutes 5 seconds][Agent] : OK, perfect. And please. So what is your home address please? Yep. OK.
+[32 minutes 9 seconds][Customer] : 12 Oh, I'm kind of so 12, No 13 Hooper Air Pop of Colour yeah, yeah.
+[32 minutes 20 seconds][Agent] : Did you recently moved by any chance or OK? Yeah no that's OK, that's alright. That's happened to me before as well. Umm, my address has two different actual numbers associated because it was a lot 1st and now it's a normal address so sometimes I get it mixed up as well.
+[32 minutes 22 seconds][Customer] : I took a passport with my sister, so yeah, yeah, yeah, yeah. But I yeah, 13 13 Hooper EV. That's right. I'm just looking at my date. Yeah, 13 Hooper.
+[32 minutes 36 seconds][Agent] : Umm, is it perfect in, uh, Pukekohe 21210? OK, perfect. SO2120. And is that your postal address as well where your mail goes?
+[32 minutes 51 seconds][Customer] : No, my mail goes to to be annoying.
+[32 minutes 55 seconds][Agent] : Yeah, that's OK. We can choose a different one as well.
+[32 minutes 57 seconds][Customer] : Oh, OK. My postal stuff goes to 12 Henderson Air to a cow.
+[33 minutes 3 seconds][Agent] : 12 Henderson is OK, perfect. Now that's 2121, uh, OK, perfect. All right, perfect. So home address 13 Huber Ave. whereas postal address 12 Henderson Ave. All right, perfect. Now again with this, whilst you're reviewing any other policies as well, no upfront payment required. What day would you be happy for the first payment to be for the policy?
+[33 minutes 18 seconds][Customer] : Yeah, let's have a look now. How do you, how do you do it fortnightly, monthly?
+[33 minutes 37 seconds][Agent] : So the, the three options, they have a four nightly, monthly and yearly. So it's just based on which one suits you best. It's the same amount you pay per year for the policy. It's just either, uh, once annually, 12, uh, divided by 12 if it's monthly or 26 full nightly.
+[33 minutes 36 seconds][Customer] : What's what's the goodwill in? I looked, was it $150.62? That was the fortnight, wasn't it?
+[33 minutes 58 seconds][Agent] : Uh, yes, that's correct, $150.62 a four.
+[34 minutes 3 seconds][Customer] : Might be better than just doing monthly because I get paid monthly.
+[34 minutes 8 seconds][Agent] : OK.
+[34 minutes 8 seconds][Customer] : So we can start. Yeah.
+[34 minutes 10 seconds][Agent] : Let me just adjust that for you, OK.
+[34 minutes 21 seconds][Customer] : So could we start from from next month? Because I'm not sure. Yeah, because I'm not sure when I'll hear back from this other crowd.
+[34 minutes 24 seconds][Agent] : Yeah, of course, Yeah, of course, of course.
+[34 minutes 29 seconds][Customer] : So maybe the 16th of every month starting from February.
+[34 minutes 35 seconds][Agent] : So the maximum we can do for this one is 30 days from today.
+[34 minutes 41 seconds][Customer] : Oh, I see.
+[34 minutes 39 seconds][Agent] : The date that I could do for you 1234, umm, I can do the 7th of February if that would work for you.
+[34 minutes 46 seconds][Customer] : Oh, OK. Yeah, that that works for me.
+[34 minutes 49 seconds][Agent] : OK. The the monthly amount instead would be $326.34 monthly umm and we can schedule that for the 7th of February and then monthly from then onwards.
+[34 minutes 48 seconds][Customer] : Yeah, yeah, yeah, it sounds good. Yeah.
+[35 minutes][Agent] : Umm, next what I just need to confirm is your preferred payment method. Would you be happy to use a Visa or MasterCard or your bank account number instead?
+[35 minutes 10 seconds][Customer] : Probably bank account.
+[35 minutes 12 seconds][Agent] : OK, No worries. Lisa, could I please just get you to read out your account number for me?
+[35 minutes 17 seconds][Customer] : Yep, hold on. I'll just need to find it.
+[35 minutes 19 seconds][Agent] : No, that's all right. That's OK. Yep. Yep. Yep. O1O. Yep, 57 OK, perfect.
+[35 minutes 21 seconds][Customer] : So it's an ASP account and it's hold on 123068 010 387857, yeah. Oh, it's under L in Ellitch, Yeah.
+[35 minutes 47 seconds][Agent] : And that's under your first and last name, Lisa, Alex OK, L and Alex OK perfect, but that's your first name and middle names initials. OK, perfect. Now next is just some direct of an authority questions. Umm, the first one they ask. Lisa, do you have authority to operate this bank account alone? Do you need to jointly authorize debits? Have you cancelled a direct debit authority for one choice with Pinnacle Life as the initiator in the last nine months on the accounts you are providing?
+[36 minutes 14 seconds][Customer] : No, no, no.
+[36 minutes 28 seconds][Agent] : And are you happy to set up a direct debit authority without signing a form?
+[36 minutes 34 seconds][Customer] : Yep.
+[36 minutes 35 seconds][Agent] : OK, perfect. So, Lisa, you agree this authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for one Choice to direct debit this account in accordance with these terms and conditions? Yes, owner.
+[37 minutes 1 seconds][Customer] : Yes.
+[37 minutes 2 seconds][Agent] : OK, perfect. Now the last PC is just for me to read out to you the declaration of the policy. Umm, what this is, is the same information that we'll be sending through to you.
+[37 minutes 13 seconds][Customer] : Yep, Yep.
+[37 minutes 13 seconds][Agent] : I just need to read it out to you first to confirm your yes or no agreement and understanding, but also to answer any final questions that you have about the policy before it's in place, Which if you do, umm, please just definitely stop me and let me know. I'm more than happy to go through any questions there with you as well before it's in place.
+[37 minutes 30 seconds][Customer] : OK.
+[37 minutes 31 seconds][Agent] : But it says thank you. Lisa Ellich. It is important to understand the following information. I will ask for your agreements to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One Choice Income Protection Insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and said Limited, whom I refer to as GFS, to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Income Protection Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our financial advice Disclosure statement which sets out more information which can assist you to decide whether to act on any advice we provide. Please. So with a yes or no, can you please confirm that you understand and agree to this?
+[39 minutes 10 seconds][Customer] : Yes, I understand.
+[39 minutes 12 seconds][Agent] : OK, perfect. And just confirming you agree as well.
+[39 minutes 11 seconds][Customer] : Yep, Yes, I agree.
+[39 minutes 16 seconds][Agent] : OK, wonderful. Now your answer to the application questions and any related documents from the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to with a yes or no. Can you please confirm that you have answered all of our questions in accordance with your duty of disclosure?
+[39 minutes 44 seconds][Customer] : Yes.
+[39 minutes 45 seconds][Agent] : OK, now by agreeing to this declaration, you consent to be contacted by us in relation to other products and services. You can opt out of this at any time. By contacting us, you have agreed to take up a single one choice in competition insurance policy with the following cover. For Lisa, allege a monthly insured amounts of $7812.00 with a waiting period of 90 days and a benefit period of 60 months. The monthly income benefit payable in the event of a claim may be less than the monthly insured amounts as your income benefit is limited to 75% of your average monthly income over any 12 consecutive months during the two years before you suffered you a disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments or offsets from other sources. Your cover expires on February 7th, 2041 at 12:00 AM. Your premium for the first year of cover is $326.34 per month. Your premium is stamped, which means it will be calculated at each policy anniversary and would generally increase as you age. Your monthly benefit amounts will also increase automatically by 3% each year and you can opt out of this. Included in your premium is an amount payable to GFS of between 26% and 56% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. AM Best has rated Pinnacle with AB plus financial strength good and Triple B minus issuer credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs and you have a 30 day cooling off. During which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Now, Lisa, thanks so much for your patience throughout that. That's the declaration I'll complete there for you at the end. There's just two final yes or no questions. But again, any questions you have for me, I'm more than happy to go through as well. Firstly, Lisa, with the yes or no, do you understand and agree with the declaration? Now while I've got you on the phone, would you like any other information now or would you like me to read any part of the policy document to you?
+[42 minutes 39 seconds][Customer] : No, I'd like to wear that one, yeah.
+[42 minutes 42 seconds][Agent] : Great, no worries. That's OK. The e-mail copy comes to you today and hard copies posted out to you to your address. That'll arrive within the next 5 to 10 business days as well. Umm, So I'd like to thank you so much for choosing one choice insurance for the income protection policy. Umm, outside of that, we do also offer a guaranteed acceptance funeral cover and the life insurance as well. Umm, will you cover it for any of those at the moment at all Lease.
+[43 minutes 6 seconds][Customer] : Why? I've got no one to lose it to. It's not my problem. I don't know my family. Yeah. All good.
+[43 minutes 10 seconds][Agent] : Oh, OK O OK, yeah, no worries. No, that's OK. Well, in case anything like that is something you need or give, the money doesn't have to only be used for anything specific. You can leave it behind for anything at all. But feel free to let us know.
+[43 minutes 25 seconds][Customer] : Cool.
+[43 minutes 24 seconds][Agent] : We'd be more than happy to help you out with this policies as well.
+[43 minutes 27 seconds][Customer] : Alright. That sounds good. Thank you so much for your help.
+[43 minutes 28 seconds][Agent] : No worries Lisa.
+[43 minutes 30 seconds][Customer] : Thank you.
+[43 minutes 30 seconds][Agent] : Thanks so much for your time as well. Best of luck with everything.
+[43 minutes 31 seconds][Customer] : No worries.
+[43 minutes 32 seconds][Agent] : You take care.
+[43 minutes 32 seconds][Customer] : Thank you. Bye. Bye.
+[43 minutes 33 seconds][Agent] : No worries, Bye for now.

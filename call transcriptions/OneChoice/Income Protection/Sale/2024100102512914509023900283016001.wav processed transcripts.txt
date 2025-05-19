@@ -1,0 +1,20 @@
+[1 seconds][Customer] : Hello, Matt. Speaking. Hey, how's it going?
+[3 seconds][Agent] : Hiya, Matt, it's Jane calling you back from. I'm well, thanks. How are you?
+[9 seconds][Customer] : Yeah, too bad. Not too bad.
+[8 seconds][Agent] : Ah, that's lovely. OK then let me just go in quickly because I was, you managed to answer really fast before I had a look at it. That's OK though. Matt, can I just get you to give me full name and date of birth? Thanks.
+[21 seconds][Customer] : Matthew Ellwood Casino Franks, 10th of March 1997.
+[27 seconds][Agent] : Beautiful. And you go with Matthew Franks, is that correct?
+[30 seconds][Customer] : Yep.
+[31 seconds][Agent] : Yeah. Lovely. Jane here from One Choice Insurance, just letting you know the call, they're recorded again. And also just to also let you know that the interim accidental death cover has now ceased. Let me just go in and see if there's anything changes and let me just go in here, OK?
+[53 seconds][Customer] : Let me just put you on speaker.
+[54 seconds][Agent] : OK. Yeah, of course, of course. Yeah. And I'm delighted to tell you, OK, the underwriters did not make any changes at all to the referral for you. So exactly what you wanted, what we spoke about, you can have, which is gonna be the monthly benefit of $4437. You've got the wait period of 30 days, the benefit period of six months, and it's $41.24 per fortnight and first payment coming out on the 10th of the 10th, OK, Before that, after that, on a Thursday, I'll go ahead and I'll accept this for you, OK? Cos I've got all your details as well in Yeah, Can you hear me?
+[54 seconds][Customer] : Yep, Yep, Yep.
+[1 minutes 34 seconds][Agent] : OK, Beautiful, beautiful. I'm just going to go ahead and accept that for you now. So listen, thanks a million. I'm going to send you all your details. If you need anything, you know where I am.
+[1 minutes 43 seconds][Customer] : Yep, thank you very much.
+[1 minutes 42 seconds][Agent] : OK, Alright. All documentation's on its way. All right, Well, listen, you mind yourself.
+[1 minutes 47 seconds][Customer] : Sweet as thank yourself.
+[1 minutes 49 seconds][Agent] : Have a great afternoon.
+[1 minutes 51 seconds][Customer] : You too. Thank you very much.
+[1 minutes 52 seconds][Agent] : You're welcome. Bye, Matt. Take care. Bye.
+[1 minutes 55 seconds][Customer] : See you later.
+[1 minutes 55 seconds][Agent] : Bye. Bye.

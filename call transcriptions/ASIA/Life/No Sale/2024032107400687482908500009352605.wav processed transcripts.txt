@@ -1,0 +1,41 @@
+[9 seconds][Customer] : Oh yeah, speaking.
+[10 seconds][Agent] : Hi there, Theo, this is Cody calling from Australian Seniors. I'm giving you a call as we have received that expression of interest come through online in regards to our life insurance there.
+[18 seconds][Customer] : Oh yes, yes, I did that on Friday. Yeah, I just want to do enquire about taking out a life insurance policy. I just wanted to know a couple of things. Firstly, obviously there's I think there's a 100,000, a $200,000 policy.
+[36 seconds][Agent] : Yes.
+[37 seconds][Customer] : That's right. Yep. And there's a calf age of, of is it 85?
+[37 seconds][Agent] : Yeah, that is correct, yes.
+[43 seconds][Customer] : Yeah, Yeah, right. See, I'm well, I'm 67 at the moment, so I'm OB obviously again talking something, anything, you know, in the event that something happens.
+[52 seconds][Agent] : Of course.
+[53 seconds][Customer] : So umm, to take something out to the value of either or both, could you just forward me either e-mail me or I'm just a working moment. I can't talk for long, but umm and give me some info on it and then I can re reply back to you.
+[1 minutes 9 seconds][Agent] : Yeah, definitely. What I'll do is I'll just confirm some of your details.
+[1 minutes 12 seconds][Customer] : Yep.
+[1 minutes 12 seconds][Agent] : Uh, So what I've got here is I've got Theo Fraser.
+[1 minutes 15 seconds][Customer] : Yep.
+[1 minutes 15 seconds][Agent] : Yeah, perfect.
+[1 minutes 19 seconds][Customer] : That's right.
+[1 minutes 16 seconds][Agent] : Your date of birth is the third of the 1st 1956 perfect. And you are a male Australian resident.
+[1 minutes 20 seconds][Customer] : Yep, I am. Yes.
+[1 minutes 23 seconds][Agent] : Perfect. So I'll just let you know that all calls are recorded. Any advice I provide is general nature and may not be suitable to your situation there.
+[1 minutes 26 seconds][Customer] : Yep, Sure.
+[1 minutes 30 seconds][Agent] : Umm, so I know you, you, you're at work at the moment and you don't have much time to talk.
+[1 minutes 34 seconds][Customer] : Yep.
+[1 minutes 34 seconds][Agent] : Uh, how much time do you would you say that you do have there? Yes, about 5 minutes.
+[1 minutes 38 seconds][Customer] : At the moment, the appointments, yeah, I'm just finishing lunch. That work? Yeah.
+[1 minutes 42 seconds][Agent] : OK, yeah, no perfect. Well what I can do is I can set up a call back to a time that you are more readily available. That way I can run through the policy with you, let you know what will the information and what we to provide you and then I can get it to surprising for yourself there. Yeah, perfect. So I start work at roughly around 9:00.
+[1 minutes 56 seconds][Customer] : Yeah, actually tomorrow would be, would be better for me, Yeah, because in the morning maybe sometime I'll be up and about by then. So if you, you can ring me then that'll be good.
+[2 minutes 8 seconds][Agent] : Yeah. Perfect. I can definitely do that for yourself there. Mm. Hmm.
+[2 minutes 10 seconds][Customer] : And we can, Yeah, we just thought just so I just, I don't have any, a lot of queries, but obviously just I, I read the the information that I've got online and I made an application. So I was just really inquiring just so you get an idea of what the premiums would be.
+[2 minutes 23 seconds][Agent] : Thank you very much for that.
+[2 minutes 24 seconds][Customer] : And obviously you cut off like we, we know what that is.
+[2 minutes 29 seconds][Agent] : So this information here just for.
+[2 minutes 28 seconds][Customer] : But anyway, yeah, we can, we can talk tomorrow and we'll, we'll, we'll try and sort something out.
+[2 minutes 32 seconds][Agent] : Thank you, James, Robert, it is important you understand the following information.
+[2 minutes 34 seconds][Customer] : Oh, that would be great. What was your name again?
+[2 minutes 36 seconds][Agent] : Perfect.
+[2 minutes 36 seconds][Customer] : Sorry, Katie. You're alright. Thanks, Katie. Good on you.
+[2 minutes 36 seconds][Agent] : Sounds good there, Cody.
+[2 minutes 39 seconds][Customer] : Thank you.
+[2 minutes 39 seconds][Agent] : No, no. Thank you so much. I'll speak to you tomorrow then. There.
+[2 minutes 40 seconds][Customer] : Alright, will do. OK. Thank you. Bye.
+[2 minutes 42 seconds][Agent] : Bye now. Bye.
+[2 minutes 43 seconds][Customer] : See ya.

@@ -1,0 +1,112 @@
+[1 seconds][Customer] : Hello.
+[3 seconds][Agent] : Hello there Wayne, it's Kayla calling you back from real insurance. I'm just giving you a call back this afternoon regards to your enquiries for the funeral insurance. So I'm just seeing how I can help you. Just so I can do that. Can I get you to confirm your full name and your date of birth there please?
+[7 seconds][Customer] : Yes, yes, it's Wayne Martin. Date of birth, 28th of April 1952.
+[25 seconds][Agent] : Thank you for that. Can I also confirm you're an Australian residence? Can I also confirm you're an Australian residence?
+[30 seconds][Customer] : Sorry, yes, correct.
+[35 seconds][Agent] : Yeah, thank you. I'll let you know that all our calls are recorded. Any advice I provide is general with nature, may not be suitable to your situation now just so I can help you the best I can as well and get a better understanding from you. Do you currently have any cover for your funeral at the moment or is this something new for you?
+[53 seconds][Customer] : No, this is something new.
+[54 seconds][Agent] : OK, beautiful. Just to explain the cover, so you would have seen when applying for our website that you can choose to cover from $3000 up to $15,000. Whatever you end up choosing, that's the amount that your family receive and they, we pay that as a cash benefit and they use those funds to pay for your final wishes.
+[1 minutes 5 seconds][Customer] : Yep, right.
+[1 minutes 14 seconds][Agent] : Ha, Have you thought about as well like what you're wanting in terms of your, in terms of your funeral, whether you're wanting to be cremated or have a burial or something else, for example?
+[1 minutes 25 seconds][Customer] : No, still still deciding. Possibly chromated, but yeah, still still deciding at this stage.
+[1 minutes 30 seconds][Agent] : Fair enough. Yeah, no worries at all. Even if you're still deciding on what the type of funeral you're wanting to have, you can still purchase funeral insurance as well. So we just get you to choose the amount, umm, you wish to require or your family to receive and that's the amount they've received upon your passing. Now I see that you've also, uh, looked at, uh, you're wanting to cover, uh, someone else's. Will you select to join?
+[1 minutes 49 seconds][Customer] : Yep, yes, I just, it was a bit confusing as to how that worked. So was it 15,000 for both or was it 15,000 each?
+[2 minutes 3 seconds][Agent] : You can choose you, you can choose to have a both or each. It's it's entirely up to you E each person you can choose to have them cover from 3000 up to $15,000.
+[2 minutes 14 seconds][Customer] : Right. OK, well, I don't know going on from what I can gather with prices, it's probably, you're probably looking at 15 each. Yep.
+[2 minutes 15 seconds][Agent] : The idea for you was it to have $15,000 each or as a combined Yeah, no worries. I'll quote on 15,000 each. Then I'll. Who was the second person that you're wishing to insure? Yeah. And what's your wife's first name? Thank you. Same surname or different surname?
+[2 minutes 37 seconds][Customer] : My wife, Leslie Lesley, No, same surname.
+[2 minutes 48 seconds][Agent] : Thank you. I assume husband and wife, of course. And lastly, Leslie's date of birth, please.
+[2 minutes 55 seconds][Customer] : Yep. 7th of September 1954.
+[2 minutes 59 seconds][Agent] : Thank you. Leslie is also an Australian residence.
+[3 minutes 2 seconds][Customer] : Yes, she is.
+[3 minutes 3 seconds][Agent] : Yep, thank you. Now it's easier to get umm, both of you covered. It's guaranteed acceptance. So meaning that there's no medicals that you're required to pick or no forms to be filled in either. Just so you know, for the 1st 12 months of the cover, you and Leslie will be covered for accidental death and accidental serious injury only. After the first 12 months of the cover you're both covered for death due to any 'cause now.
+[3 minutes 15 seconds][Customer] : Right, right, right.
+[3 minutes 30 seconds][Agent] : In addition, there is a living benefit. It's called a terminal illness benefit, which means that after holding the policy for 12 months, if you were first diagnosed with a terminal illness for 12 months and still live by a medical practitioner, what you're being insured for gets paid out to you whilst you're still alive.
+[3 minutes 53 seconds][Customer] : Yep.
+[3 minutes 47 seconds][Agent] : So if you've got any medical expenses or you simply want to leave the funds behind to the family, that's entirely up to you how those funds have been used.
+[3 minutes 56 seconds][Customer] : OK. Yep.
+[3 minutes 58 seconds][Agent] : Now when you're in Leslie turn 85 as well. So we no longer charge you anymore of your premiums, but you're still covered beyond the age of 85 as well, even though you're not required to pay anymore.
+[4 minutes 9 seconds][Customer] : Right. Yep.
+[4 minutes 9 seconds][Agent] : What we also do is include a 25 bonus cover. So we increase that $15,000 automatically to $18,750 per person.
+[4 minutes 20 seconds][Customer] : Right.
+[4 minutes 21 seconds][Agent] : Otherwise, there's a benefit called an early cash out option. So at any time after you endlessly turn 85, you could choose to end your cover. We'll pay you 75% of your funeral insurance benefit.
+[4 minutes 34 seconds][Customer] : Right.
+[4 minutes 34 seconds][Agent] : Do you have any questions so far or is that sounding straightforward there for you, Wayne?
+[4 minutes 39 seconds][Customer] : Yeah. No, it sounds OK.
+[4 minutes 41 seconds][Agent] : OK, no worries. Now with premiums, they're designed to stay the same. So they're not designed to go up as you unless they get older. Uh, you can also find information about our premium structure and that's available on our website too. But let's go through some pricing there for you. So I'm gonna quote on the both of you together to start off with. So each fortnight it's $161.14. That's to be covered for our maximum $15,000. Now we should put the cover to $45,000 in the event of an accident to get as well. But starting with that $15,000 funeral cover there. How does that sound? Is that sounding suitable? Did you want me to explore other options and look at going lower than the 15,000?
+[4 minutes 53 seconds][Customer] : Right, OK, right, right, yeah.
+[5 minutes 27 seconds][Agent] : Yes, of course.
+[5 minutes 25 seconds][Customer] : What about what about if we try about 8:00 or 10 maybe maybe yeah or 10 maybe start maybe do 10.
+[5 minutes 29 seconds][Agent] : So 8000, yeah, Yep, sure. And then we can, yeah, we can look at 8 as well for the both of you.
+[5 minutes 34 seconds][Customer] : Yep, right.
+[5 minutes 39 seconds][Agent] : So $10,000, that's going to deepen the cover down to $107.42 a fortnight, $8000.
+[5 minutes 48 seconds][Customer] : So that's sorry.
+[5 minutes 50 seconds][Agent] : Oh yeah. Oh, no, you're also the premiums are together, but it's $10,000 each.
+[5 minutes 50 seconds][Customer] : So that's so that, so that's each or Yeah. OK. Yep.
+[5 minutes 58 seconds][Agent] : That's right, yeah. And then $8000 cover would then drop it down again. Let's have a look to see what will be. So it's $85.94 a fortnight if you drop $8000.
+[6 minutes 14 seconds][Customer] : And that's 8. And so that's 8000 each. Yep. OK.
+[6 minutes 16 seconds][Agent] : Yeah, 8000 H that's right.
+[6 minutes 18 seconds][Customer] : All right. Yep.
+[6 minutes 18 seconds][Agent] : Wherever you decide to start as well, like if you start lower to far or you know, wherever you decide, you can apply to INCREA or take out more cover or decrease it subject to your eligibility at the time as well.
+[6 minutes 31 seconds][Customer] : Right.
+[6 minutes 30 seconds][Agent] : So you want to start with something just to have something there, that security there for your funeral. Was there a level of cover that stood out to you though between those 3?
+[6 minutes 42 seconds][Customer] : Probably we could probably go look at the 10, probably 10 each.
+[6 minutes 46 seconds][Agent] : Yeah, an age, yeah, of course. So if you want to start there just to have that security there for your funeral wine, the next step is to get you and Leslie cover covered. So what the process for that is, we issue all the policy documents via post to the both of you and send out an e-mail.
+[6 minutes 47 seconds][Customer] : Yep, Yep, Yep.
+[7 minutes 3 seconds][Agent] : There's a form we get you to fill out. It's called a beneficiaries form because the idea to nominate each other down as each other's beneficiaries. Or do you, Leslie, have children together you're wishing to nominate?
+[7 minutes 16 seconds][Customer] : We do have children, but it I suppose it depends if it's, well, I mean, if one of us is still here, well, then they would be the beneficiary. But yeah, I mean, if we after we're after, yeah.
+[7 minutes 27 seconds][Agent] : Yeah, yeah, that's fair enough.
+[7 minutes 31 seconds][Customer] : I mean at at some stage if the children would be brought into it, I would think yeah, yeah. Yep.
+[7 minutes 37 seconds][Agent] : Yeah.
+[7 minutes 38 seconds][Customer] : Yep.
+[7 minutes 38 seconds][Agent] : Well, you can nominate up to five beneficiaries anyway there. Umm, Wayne.
+[7 minutes 41 seconds][Customer] : OK, Yep.
+[7 minutes 41 seconds][Agent] : So what we get you to fill that form out, sign it, and then send that back through.
+[7 minutes 47 seconds][Customer] : OK.
+[7 minutes 46 seconds][Agent] : Now, even though we get you and Leslie protected on that $10,000 from today, we just get you to choose exactly when you'd like to start with your first payment as well.
+[7 minutes 55 seconds][Customer] : OK.
+[7 minutes 55 seconds][Agent] : Are you happy to continue?
+[7 minutes 58 seconds][Customer] : Yes. But yeah, so, so and so we've got to basically wait for the paperwork to come out and fill that out and then we sort of nominate a date for it to start from.
+[8 minutes 9 seconds][Agent] : Or you could start like for, for example, we issue the umm, so generally released within umm, three to five working days. We get you to choose when you want to start with your first payment from today. All we ask from you is you just fill out the beneficiary form sign and send it back through. But everything else we do for you today. So in terms of payment, umm there you're not required to fill out a form of banking details or anything like that.
+[8 minutes 34 seconds][Customer] : Right.
+[8 minutes 34 seconds][Agent] : Umm, there, we just do that for you. You from today's date. So if you've got a certain day where you'd prefer us to debit, we just let you know. Just let us know what's worth most suitable for you. Well, what I'll do in that case. Do you mind if I just grab your home address there, please?
+[8 minutes 47 seconds][Customer] : OK, sure.
+[8 minutes 55 seconds][Agent] : Yep, Yep, Yep.
+[8 minutes 53 seconds][Customer] : It's 303 Stroke 121 Ocean Parade, Coffs Harbour, 2450.
+[9 minutes 5 seconds][Agent] : Beautiful. Thank you for that. Is that your postal address as well?
+[9 minutes 9 seconds][Customer] : Yes, it is.
+[9 minutes 10 seconds][Agent] : Yeah, thank you. Alright, great. Have you organized your wills yet or is it yet to be organized too?
+[9 minutes 17 seconds][Customer] : Nah, Nah, that's all organised.
+[9 minutes 18 seconds][Agent] : Good stuff. That's awesome to hear that. I'll just also let you know that you and UMM Leslie are entitled for a little bonus that we've got this quarter. Real reward. So once you hit one year with our funeral insurance following your first policy of this three day, what we also do is a business is refund 10% of your premiums back to you. So next year what we're going to refund back into your account. I just see calculation. So that is going to be $279.31 that we're going to refund back into your account next year. Now lastly with the cover, I just want to let you know it's not a savings or an investment. So you may pay more in total premiums over the life of the policy than the benefit amount.
+[9 minutes 44 seconds][Customer] : Yep, OK, Yep.
+[10 minutes 1 seconds][Agent] : Please be aware this insurance does not have a savings or an investment element. So if you cancel outside of the 30 days, your cover will stop and you'll not receive anything back unless you are eligible for and decide to take out that early cash option at 85 S.
+[10 minutes 16 seconds][Customer] : Right. OK.
+[10 minutes 16 seconds][Agent] : That's the last thing umm there. So with this one here. So even though we're covering you and Leslie from today, when did you want to set your first payment there, Wayne?
+[10 minutes 29 seconds][Customer] : I'm just having a think about it.
+[10 minutes 31 seconds][Agent] : Yeah, that's OK.
+[10 minutes 33 seconds][Customer] : So, yeah, OK. So what are we, So what are we looking at? What what sort of payment are we looking at if we start it from today?
+[10 minutes 42 seconds][Agent] : So it's just would be the fortnightly premium of $107.42 and then it'll just be debited every fortnight on the Wednesday.
+[10 minutes 48 seconds][Customer] : So that OK. And that's for that's for the two of us.
+[10 minutes 53 seconds][Agent] : Yep, you're both covered.
+[10 minutes 55 seconds][Customer] : Yep, OK, Yep. OK. So what do you want to do it through a credit card or?
+[10 minutes 54 seconds][Agent] : That's right up to you. You, you told me, do you want us to do it through your bank account or a debit or a credit card?
+[11 minutes 8 seconds][Customer] : Yep, No, I'll do a credit card.
+[11 minutes 10 seconds][Agent] : Yep, sure. I'm just going to pause the record for you as well. So in the meantime, just for security purposes there while obtaining your card details, the call recording will stop and we'll recommend after we have collected your details. So give me just. The. None the call recording now. So please be advised that the call recording is now resumed for quality monitoring purposes. Now your e-mail address ivegotiswgregory62@outlook.com.
+[12 minutes 29 seconds][Customer] : That's it. Yep.
+[12 minutes 30 seconds][Agent] : Yep, perfect. Your mobile is 0411712365.
+[12 minutes 35 seconds][Customer] : Yes, that's it.
+[12 minutes 37 seconds][Agent] : Thank you. I've just got one more step to go and we're all done today. So all we've got left now is read out your terms and conditions. Doesn't take me long at all, just takes me a few minutes to read. At the end. I'm just going to ask you two final questions and we're all done. I'm not sure if I've advised you of this one, Wayne, but I'll just explain it again what I've quoted you today, that $107.42, it's not a stepped premium. So your premiums are designed to stay the same year on year as well.
+[13 minutes 4 seconds][Customer] : Yep.
+[13 minutes 5 seconds][Agent] : Now, uh, you can also find information about our premium structure that's on our website too.
+[13 minutes 5 seconds][Customer] : OK, OK.
+[13 minutes 10 seconds][Agent] : But I'll start reading, umm, terms and conditions out. So it says thank you, Wayne Martian. It is important you understand the following information. I will ask the agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. Real funeral cover is issued by Hanover Live free of Australasia Limited. He will refer to as Hanover. Hanover has arrangement with Greenstone Financial Services trading as real Insurance to issue and arrange this insurance on it's behalf. The answer is to the application questions and any related form. The basis of your contract and insurance and Hanover relies upon the accuracy of the information you have provided when assessed the application. Head over to set a target market determination for this product, which describes the type of consumers this product is designed for.
+[14 minutes 2 seconds][Customer] : You're good.
+[13 minutes 57 seconds][Agent] : Our distribution practices are consistent with this determination and you can all send a copy on our website now. We collect your personal information to provide insurance quotes issue covered other related services. We will share this with your insurer and they share with the Australian service providers for the purpose of administering your policy while handling claims. Our privacy policy tells you more, including how to access the correct information and lodge complaints about breaches of privacy. By agreeing to this declaration, your consent to be contacted by us in relation to other products and services and you can opt out of this at any time. By contacting us now you have agreed to take our at a joint real funeral cover with the following cover. So Leslie Martian is covered for $10,000 in the event of death. In the case of this accidental or if Leslie Martian suffer a defined accidental serious injury, the benefit amount will triple. Wine Martian is covered for $10,000 in the event of death. In the case where death is accidental or if you suffer a defined accidental serious injury, the benefit amount will triple. That covers for accidental death only for the 1st 12 months of cover with death by any cause or diagnose of a terminal illness cover thereafter accidental serious injury cover for each lung. Underage 75 starts immediately and ends on the policy anniversary following the life insured 75th birthday. Now, once a life insured reaches age 85, you can choose to voluntarily cancel that person's cover to receive a lump sum payment of 75% of the chosen benefit amount. Now, if you take up this early cash out option, you will no longer have a right to claim under the policy for that life insured. This policy is an insurance policy. It does not have a savings or an investment component. You can cover any time by contacting us. If you stop paying your premiums, we may end. You'll cover, but we will give you notice before doing so. If cover ends prior to age 85, no benefit is payable and there's no refund of premiums after the cooling off. If cover continues beyond age 85, the life insured will receive an additional 25% of bonus cover from that day and you'll not be required to pay any further premiums. The bonus cover is not payable if the early cash option has been taken out now. Cover Life Insured ends on the day prior to their 100th birthday and we will pay the funeral benefit and bonus cover for the life insured. At this point, your total premium for your first year of cover is $107.42 per fortnight. Ah, your premiums are level which means they are designed to stay consistent year on year and will only change if you owe to your cover or the insurer adjusted premium rates point to your policy. The insurer could only make a change if it is applied consistently across all policy holders. Can I pay more in premiums than the benefit amount over the life of the policy? And included in your premium is an amount payable to real insurance of between 34% and 54% calculated on a level basis over the life of the policy. Your premium will be debited from your credit card, which you're authorized to debit from, and then provided to us. And we may provide written communications to you by the e-mail address you provided to us. And this will include any legal notices we're required to provide to you in writing. Now, if you would receive these only by mail, you cannot set your communication preference at any time. The policy documentation PDS necessary will be emailed to you and if you have provided us with an e-mail address, your policy documentation will also be emailed to you today. Uh, you should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. When you may can't see your policy and any premium you may paid will be refunded before unless you've lodged the claim. They're risks associated with replacing policies as your policy may not be identical to existing come up. And we recommend that you do not cancel any existing policy until you have received and reviewed our policy full. We have a complaint to process, which you can access at any time by contacting us in full details available online and in the documentation we're sending you. Thank you so, so, so much for listening and I really appreciate that as well. I have two final questions there for you and we're all done today and we're going to e-mail you and post all the policy documents as well. The first question that we ask you, do you understand and agree with the declaration? I've just read you yes or no?
+[18 minutes 19 seconds][Customer] : Yes.
+[18 minutes 20 seconds][Agent] : Thank you. The very last question asked, would you like any other information about the insurance now or would you like me to read any part of the product disclosure statement to you?
+[18 minutes 30 seconds][Customer] : No, it's OK. Thank you.
+[18 minutes 31 seconds][Agent] : You're very welcome. Thank you. Well, that's all been completed for you there. So when the beneficiary form comes through, just fill that out, sign it and send it back through to us and that's all done for you.
+[18 minutes 42 seconds][Customer] : OK, thank you.
+[18 minutes 43 seconds][Agent] : That's all right. Enjoy the rest of your afternoon. You take care.
+[18 minutes 47 seconds][Customer] : Thank you. Bye.
+[18 minutes 47 seconds][Agent] : That's OK. Bye.

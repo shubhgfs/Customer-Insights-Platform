@@ -1,0 +1,157 @@
+[4 seconds][Customer] : Hello.
+[7 seconds][Agent] : Thank. Thank you for calling. One choice you're speaking with Gaz. How can I help you?
+[11 seconds][Customer] : It's not that good. I'm returning your call. So you're trying to call us a few seconds.
+[17 seconds][Agent] : OK. Thank you for giving us a call back here. So I do see the profile here associated with your name. So can I just get you to confirm your date of birth as well?
+[27 seconds][Customer] : Yeah, that's 7th December 1986.
+[32 seconds][Agent] : Wonderful. OK, so I do see the reason why we're reaching up to you. We did go through some information last time when you did call in about our life insurance and we've gone through the questions, but you weren't aware of your height and weight. Are you looking at $600,000 worth of cover?
+[51 seconds][Customer] : Yes, Yeah, that's correct.
+[1 minutes][Agent] : Yeah. Wonderful. So did you end up getting those answers there? Your height and weight?
+[1 minutes 6 seconds][Customer] : Yes, I do get them now.
+[1 minutes 7 seconds][Agent] : You did. OK, beautiful. So let me just pop that one open up again.
+[1 minutes 15 seconds][Customer] : Bye, bye.
+[1 minutes 18 seconds][Agent] : All right, so I will just confirm. So what we do have so far there, I do just want to confirm that you are a male New Zealand resident currently residing in New Zealand. Yes, you are wonderful.
+[1 minutes 28 seconds][Customer] : Yes, yes. Correct. Correct.
+[1 minutes 30 seconds][Agent] : And your full name was Nober Gutu NOBERT g.utucorrectyepyouremailthatwedidhavewasyourfirstname.lastname@gmail.com.
+[1 minutes 45 seconds][Customer] : Yes.
+[1 minutes 46 seconds][Agent] : Yes, it was wonderful. And then we were looking at $600,000 worth of cover there for yourself and the fortnightly, sorry, the monthly indicative payment was $63.58. And now we were going through the health and loss of questions there. So I'll pop those ones back up there for you. OK, wonderful. So just to confirm with you, has anything changed since we did the last ones?
+[2 minutes 24 seconds][Customer] : Nothing changed.
+[2 minutes 26 seconds][Agent] : OK, no worries. So we'll just start from the top. So, are you a citizen or permanent resident of New Zealand or a sorry or a citizen of Australia currently residing in New Zealand?
+[2 minutes 39 seconds][Customer] : Yes.
+[2 minutes 40 seconds][Agent] : Yes. Have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following stroke or heart conditions such as, but not limited to palpitations, heart murmur, heart attack and angina?
+[2 minutes 59 seconds][Customer] : No.
+[3 minutes 1 seconds][Agent] : Lung disorder excluding asthma, sleep apnea or pneumonia, Cancer or leukemia excluding skin cancer, anxiety, depression or stress requiring medical treatment, or any other mental health disorder. Have you been diagnosed with a terminal illness, motor neurone disease, any form of dementia, including Alzheimer's disease, or has a doctor? I'm sorry. Or being told by a doctor that you have a condition that will reduce your life expectancy? Sorry. Was that a no there? Yeah. OK. Beautiful. And then last one, in the last 10 years have you used illegal drugs, abuse prescription medication or received treatment or counseling for drug or alcohol consumption?
+[3 minutes 13 seconds][Customer] : No, no, yes, no, that's a no no.
+[3 minutes 58 seconds][Agent] : Yep, wonderful. Alright, now the next session is in relation to your height and weight. So once again, please be aware that I am requi required to obtain a confident single figure measurement for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or height and weight ranges. So what is your exact height? So 182 centimeters, Yep. And then what is your exact weight?
+[4 minutes 23 seconds][Customer] : My data is 1.82 metres, yes 92 KGS.
+[4 minutes 40 seconds][Agent] : 92 KGS. OK. And the next question, have you experienced any unexplained weight loss of more than 5 KG in the last 12 months? No. Wonderful. Does your work require you to go underground? Work at heights above 20 metres, dive to depths below 40 metres, use explosives or travel to areas experiencing war or civil unrest or work offshore. No to the best of your knowledge. Are you infected with or are you in a high risk category for contracting HIV which causes AIDS? No Do you have definite plans to travel or reside outside of New Zealand IE booked or will be booking travel within the next 12 months?
+[4 minutes 56 seconds][Customer] : No, no, no, no, no, no, no, no, no.
+[5 minutes 53 seconds][Agent] : No Do you have existing life insurance policies with other life insurance company companies with a combined total sum assured of more than $5 million, right. Beautiful. And next question is also your medical history in a bit more detail. Now the Have you ever had symptoms of being diagnosed with or treated for, or intend to seek medical advice for any of the following diabetes, Raised blood sugar, impaired glucose tolerance or impaired fasting glucose, chest pain, high cholesterol or high blood pressure, tumour, mole or cyst including skin cancer, sunspots or Melanoma? Have you ever had an abnormal PSA test or an an enlarged prostate, Thyroid condition or neurological symptoms such as dizziness or fainting?
+[6 minutes 30 seconds][Customer] : No, no, no, no, no, no, no, no.
+[6 minutes 59 seconds][Agent] : Disorder of the stomach bowl, gallbladder or pancreas Hepatitis or any disorder of the liver Epilepsy, multiple sclerosis, Muscular dystrophy, Parkinson's disease or paralysis BLA. Bladder or urinary tract disorder. Kidney disorder, blood disorder or disease. Sleep apnea or asthma excluding childhood asthma.
+[7 minutes 19 seconds][Customer] : No, no, no, no, no, no.
+[7 minutes 40 seconds][Agent] : No beautiful. Alrighty, next questions here, other than what you have already told me about in the past three years, have you sought medical device for Oh sorry, have you sought a medical advice or treatment by a medical practitioner or specialist? Or are you awaiting results for any medical tests or investigations such as but not limited to any surgeries, X-rays, scans, blood tests or biopsy?
+[8 minutes 17 seconds][Customer] : It is X-ray.
+[8 minutes 20 seconds][Agent] : Yep. And what was the X-ray for?
+[8 minutes 23 seconds][Customer] : It was for my next. Next pain?
+[8 minutes 28 seconds][Agent] : For your neck pain. OK.
+[8 minutes 30 seconds][Customer] : Yeah.
+[8 minutes 29 seconds][Agent] : And then what condition required the medical examination or a advice? What was the condition called?
+[8 minutes 38 seconds][Customer] : The government, my GP just advised to get an X-ray to see what is bothering me. And then the X-ray came in and then she said there's nothing, nothing wrong with it. So I remember that was last year in February.
+[8 minutes 53 seconds][Agent] : OK, so it was just, it was just neck pain, correct. Just neck pain.
+[8 minutes 57 seconds][Customer] : Yeah, it was just neck pain, Yeah.
+[8 minutes 59 seconds][Agent] : OK, no worries. I'll just add that one in. OK. And then next question, other than what you have already told me about, are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? No.
+[9 minutes 26 seconds][Customer] : No, not in the next two weeks.
+[9 minutes 29 seconds][Agent] : OK, beautiful. Now, to the best of your knowledge, have any of your immediate family, so mother, father, brother or sister, living or deceased, ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial adenomatous polyposis? No. To the best of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60?
+[9 minutes 29 seconds][Customer] : No, no, no, no.
+[10 minutes 10 seconds][Agent] : No. And the last question is, other than one off events, gift certificates, slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fair paying passenger on a recognized airline? Motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cable or wreck diving or any other hazardous activities. No. Beautiful. Alright, so that's the last one there. So I'll lock that one in here.
+[10 minutes 46 seconds][Customer] : No, hold on, hold on, hold on. Sorry, Sorry, sorry, sorry. Hold on. There is another question that you asked about my immediate relatives, hereditary disease, does it include asthma? Because I know that my mother suffered from asthma.
+[10 minutes 53 seconds][Agent] : So just give me a Oh, OK, give me one second. So it's very so OK. And did she suffer from that prior to age 60?
+[11 minutes 26 seconds][Customer] : Yes, she's 60. Yeah.
+[11 minutes 27 seconds][Agent] : OK, OK, give me one second. I'm just gonna confirm that. Just give me one second. I'm just going to pop you on a quick hold and I'll be right back, OK?
+[11 minutes 33 seconds][Customer] : OK, OK, OK, cool.
+[22 minutes 4 seconds][Agent] : Hey, no, but are you still there with me?
+[22 minutes 6 seconds][Customer] : Yes, I'm still with you.
+[22 minutes 8 seconds][Agent] : So, so thank you so much for your patience there. I did just actually discussed with the manager just to make sure we did get the right things there. So what I'm going to do is I do need to further ask you another question there. So with your mum having asthma, do you believe that's hereditary or is it just a one off thing with your mum? Or do you believe asthma is hereditary?
+[22 minutes 32 seconds][Customer] : I think it's a one of three because she's the only one in the family who has it. So yeah, no one has it except her. Yeah.
+[22 minutes 37 seconds][Agent] : OK, so no one else has it except turn on further than that.
+[22 minutes 42 seconds][Customer] : Nah, just here.
+[22 minutes 43 seconds][Agent] : OK, OK, no worries at all. Well, if you're saying just turn, leave it the one off. We'll leave it as no there. Alrighty. And then and was there anything else that was that you remembered or was everything all all done now?
+[22 minutes 43 seconds][Customer] : OK, that's all. That's all.
+[23 minutes 1 seconds][Agent] : Oh, that's all.
+[23 minutes 1 seconds][Customer] : I give you a number.
+[23 minutes 1 seconds][Agent] : OK, beautiful. Well, that's all done now. Are you satisfied with the answers provided? Accepting them now, we'll lock the application. Yep.
+[23 minutes 9 seconds][Customer] : Yes, I am Clippy.
+[23 minutes 10 seconds][Agent] : OK, OK, beautiful. So let me pop that through there. Alrighty, give me one second. So I'll come back with a decision there for me. Alright, beautiful, we're looking. GG. Congratulations then over. I'm pleased to let you know that you have been approved for our life insurance here. So we can definitely offer you cover there. Now keeping in mind, we did look at the $600,000 worth of life insurance there. And with that money, you can also nominate up to five beneficiaries, which you did mention you were looking to do on the previous phone call there.
+[23 minutes 47 seconds][Customer] : OK, OK. Yes.
+[24 minutes 3 seconds][Agent] : Now with this now in terms of the coverage itself, because you have been approved, this policy will cover you for death due to any cause except suicide in the 1st 13 months. Now in addition to this as well, there is a terminally ill advanced payment included in the cover. So if you were diagnosed with 12 months or less to live by a medical practitioner, we will pay out the $600,000 to you in full. That way you can ensure you receive the best care possible there for yourself. OK, now, now with this as well, we still do have the option for you where your beneficiaries will still be able to request a funeral advance payer of $10,000 at the time of passing as well. OK, just for those immediate expenses. OK, alrighty, beautiful. Now if you are liking the sounds of everything and we can confirm that the fortnightly, sorry, the monthly premium of $63.58 per month is affordable there for you.
+[24 minutes 42 seconds][Customer] : OK, OK, OK. Sounds good.
+[25 minutes 19 seconds][Agent] : Yeah, wonderful. So what we'll do is we'll get you immediately covered over the phone today and what I'll do is I'll send you all the policy documents for you to review. Now with this, we do offer you a 30 day cooling off. So if you decide this policy is not suitable for you and cancel within the 30 days, then you will receive a full refund of your premium unless the claim has been made.
+[25 minutes 46 seconds][Customer] : OK.
+[25 minutes 45 seconds][Agent] : OK, OK, beautiful. Now please be aware that your premium is stepped, which means it will generally increase each year. Now in addition, this policy has automatic indexation, which means each year your benefit amount will increase by five years, sorry, by 5% with associated increases in premium. So you can opt out of this indexation each year, OK, So you have that option there available for you as well.
+[26 minutes 16 seconds][Customer] : That's OK. So that means that hold on, on the indexation question. So that means that the monthly premium will also increase, but I have an option to opt out if I don't want to do increase, right?
+[26 minutes 16 seconds][Agent] : OK, alrighty, OK, no, so, so the monthly premium is stepped, which means your premium is stepped, which means it will generally increase each year, but in terms of the indexation which will increase by 5% with associated increases in premium. So you can opt out of the indexation each year, but your premium it is step. So we'll still generally increase each year.
+[26 minutes 50 seconds][Customer] : So roughly, but how much does the premium increase each year with you, with you now?
+[26 minutes 55 seconds][Agent] : OK. That is a good question. So I can give you some indicative projections. So this isn't 110%. Once again, it's just an indicative premium projection.
+[27 minutes 9 seconds][Customer] : Yeah.
+[27 minutes 8 seconds][Agent] : So let's just say one year from now as the policy owner is right now you're 38 as you're 39. So a year from now, the total monthly premium would be $69.42 per month.
+[27 minutes 22 seconds][Customer] : OK.
+[27 minutes 24 seconds][Agent] : OK. And yeah, that's just some projection there for you, OK, For the following year.
+[27 minutes 25 seconds][Customer] : OK, OK, OK.
+[27 minutes 30 seconds][Agent] : Alrighty, alrighty. So what we'll do is we'll grab a few more details off you here. So I will just confirm the address. So could I please one second here, Sorry. OK, alright, so just give me one second here. I'm just gonna pop everything in order there for you, OK?
+[28 minutes 12 seconds][Customer] : Alright, alright.
+[28 minutes 50 seconds][Agent] : Alright, just give me one second here. Alrighty, wonderful. So now that's come up there. OK, beautiful. So I've got everything in order there. And just to recap with you as well, we did look at the $600,000 for $63.58 per month there. Now the next step here, Nova is dependent on you. So we actually have to get you to choose a day where you would want your first payment to get taken out. So we give you that flexibility here. So you're not required to make any payments today. So what day would suit you best there for your first payment there? The 30th of this month. OK, no worries. Let me pop that in.
+[30 minutes 28 seconds][Customer] : I would say the 30th of this month, yeah, no, sorry, sorry, sorry, sorry. We are going to have that 30 days from now, right?
+[30 minutes 39 seconds][Agent] : So the 30th, What was that? Sorry.
+[30 minutes 48 seconds][Customer] : So now, so are we. Do I have the option to give like 30 days before I start game?
+[30 minutes 55 seconds][Agent] : No, no. So how it works is you have a 30 day cooling off. That starts from the day you start your first payment.
+[31 minutes 3 seconds][Customer] : OK.
+[31 minutes 3 seconds][Agent] : So when you start your FIR you'll be covered immediately by the day you start your first payment. From then on you have a 30 day cooling off. And then if you cancel within the 30 days, then you receive a full refund of your premiums.
+[31 minutes 4 seconds][Customer] : Oh, OK, OK. Makes sense.
+[31 minutes 18 seconds][Agent] : Yes. But if you want to, you do, you can stretch out your first payment to whatever suits you best. So if you want to do it this month, you can do it this month. If you want to do it early next month, you can do it early next month as well. So what day suits you best, Sir?
+[31 minutes 34 seconds][Customer] : Is it possible to do it on the 20th of next month? Yep.
+[31 minutes 38 seconds][Agent] : On the 20th of next month, it could potentially be. Let me have a look. Yeah. So I can pop your first collection date as the 20th of January 2025, and then it'll be every month on the 20th from then on.
+[31 minutes 54 seconds][Customer] : Yep, Yep. We can do that.
+[31 minutes 58 seconds][Agent] : OK. You happy with that?
+[31 minutes 59 seconds][Customer] : Yep.
+[32 minutes][Agent] : Yeah, beautiful. And then I do need to grab your address as well, please.
+[32 minutes 9 seconds][Customer] : So my post code is 8014.
+[32 minutes 5 seconds][Agent] : So could I please start off with your post code 8014? And what suburb was that one in Merryville. And then what was the address?
+[32 minutes 15 seconds][Customer] : Yeah, that's Merryville at 63 Andover St.
+[32 minutes 29 seconds][Agent] : So do you say 63, so 6, three, Andover, Andover St. Yep. And that's Merryville, Christchurch, 8014.
+[32 minutes 33 seconds][Customer] : Yes, yes.
+[32 minutes 43 seconds][Agent] : Wonderful. And then is your postal address the same as your home address? Yes, it is beautiful.
+[32 minutes 48 seconds][Customer] : Yes, Yep.
+[32 minutes 52 seconds][Agent] : Alright, So what we like to do here, Nova, is we like to send out the documents to your e-mail, as well as a hard copy out to your address as well. That way you have a soft copy and a hard copy on hand. OK, just to make it a bit easier for you.
+[33 minutes 8 seconds][Customer] : OK.
+[33 minutes 10 seconds][Agent] : Alright, so we'll pop that in. Alrighty now and the next step here. So we are in the final stretch here. So the only thing that has to do to get the policy in place is to grab your preferred payment method to attach to this policy. So this is the payment method that we will debit from on the 20th of January 2025. So you've got two options here for you. You have direct debit so through your bank account or you have credit slash visa slash MasterCard. So what was your preference?
+[33 minutes 54 seconds][Customer] : OK, David. David.
+[33 minutes 53 seconds][Agent] : Yeah, right through the bank. No worries.
+[33 minutes 57 seconds][Customer] : Yep.
+[33 minutes 57 seconds][Agent] : And then just to confirm, the account name that you're about to present is under your full name. Nob. I'm good to.
+[34 minutes 5 seconds][Customer] : Yes.
+[34 minutes 6 seconds][Agent] : Yep. And then just to confirm, it's just that your first name and surname, correct. No middle names or anything like that?
+[34 minutes 13 seconds][Customer] : No, let me do that.
+[34 minutes 14 seconds][Agent] : No, no middle name. Beautiful. And then whenever you are ready, I'll grab that account number off you.
+[34 minutes 14 seconds][Customer] : OK, one second.
+[34 minutes 24 seconds][Agent] : Oh good. Take your time.
+[34 minutes 48 seconds][Customer] : Uh huh. So my account number is 02 dash 0820, Dash 064, 7950 dash 000.
+[34 minutes 50 seconds][Agent] : Yep, 02 0820 06/4 7950 000. So just to confirm, that's 02-0820 DASH 0647950 DASH 000.
+[35 minutes 28 seconds][Customer] : Yes.
+[35 minutes 29 seconds][Agent] : Yes, Wonderful. And now I do have a few questions that I do need to ask you regarding your direct debit request. So the first question is, do you have authority to operate this bank account alone, Yes or no?
+[35 minutes 47 seconds][Customer] : No, the joint account is my partner.
+[35 minutes 51 seconds][Agent] : OK, so with when you say it's a joint account with your partner, now what is the account name under your name? Or is it your name and your partner's name?
+[35 minutes 59 seconds][Customer] : My name is my partner's name as well.
+[36 minutes 1 seconds][Agent] : OK, so that's completely OK that it's a joint account, that's no issue at all. But do you have authority to O operate this bank account alone? So are you allowed to debit from this account?
+[36 minutes 13 seconds][Customer] : Yes, I'm allowed.
+[36 minutes 14 seconds][Agent] : OK, OK, so Ji do just need key yes or no answers for this one here just for the call recording that we do have. So just to confirm, do you have authority to operate this bank account alone?
+[36 minutes 27 seconds][Customer] : Yes.
+[36 minutes 28 seconds][Agent] : Yes. And then the next following question is once again, it's completely OK, that is a joint account. But the question is just asking do you need to jointly authorise debits?
+[36 minutes 41 seconds][Customer] : No.
+[36 minutes 42 seconds][Agent] : No, OK, beautiful. And have you cancelled a direct debit authority for One Choice with Pinnacle Life as the initiator in the last nine months on the account you are providing? No. And then of course, are you happy to set up a direct debit authority without signing a form?
+[36 minutes 53 seconds][Customer] : No, yes.
+[37 minutes 1 seconds][Agent] : Yes. And then last one is you agree this authority is subject to the terms and conditions relating to the bank account provided and the specific direct debit terms and conditions that relate to this authority. You authorise your bank to allow Pinnacle Life, who is the initiator for One Choice, to direct debit this account in accordance with these terms and conditions? Yes, ma'am, yes. OK, wonderful. Now, because you did say it was a joint account, so your wife's name is on it as well, which is once again completely OK, but we'll just need to grab the full account name. So it was your full name, first name, surname and then what was after that?
+[37 minutes 42 seconds][Customer] : And then N Phyllis, Gigima, Phyllis that is spelled like PHILISTER and then second name will be Gigima GIJIMA.
+[38 minutes][Agent] : OK. So GIJIMA, correct.
+[38 minutes 4 seconds][Customer] : Yes.
+[38 minutes 5 seconds][Agent] : OK, so we've got Nova and then Nova, Guta and Filistar. Gigima, is that correct, Gigima?
+[38 minutes 11 seconds][Customer] : Alright, Yep.
+[38 minutes 12 seconds][Agent] : Yeah. OK, beautiful. Thank you for that. Alrighty, so we've got both that popped in. Alrighty. So we are in the final stretch here now. So all I have left to do now is just read out the following declaration. So this does take me about 3:00 to 4:00 minutes, maybe 4 to 5 minutes to go through. And it does ask for a clear yes or no throughout it. And then two questions at the end as well.
+[38 minutes 39 seconds][Customer] : OK.
+[38 minutes 38 seconds][Agent] : OK, alrighty, that reads. Thank you. Nobert Gutu. Sorry, am I? How do I pronounce your name? Just to make sure I'm getting it correct when I do say is it Nobert Gutu?
+[38 minutes 49 seconds][Customer] : Yes, that's correct.
+[38 minutes 51 seconds][Agent] : That's great, OK, thank you. No, but Guddu, it's important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice life insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and Z Limited, whom I refer to as GFS to issue and arrange this insurance on it's behalf. GFS is licensed by the Market Authority to provide a financial advice service. The advice we have provided you is limited to assisting you to make a decision about whether One Trace Life Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, you have not considered your specific financial needs or goals while considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We'll send you a copy of our Financial Advice disclosure Statement, which sets, without more information, which can assist you to decide whether to act on any advice we provide. Can you please confirm that you understand and agree to this?
+[40 minutes 2 seconds][Customer] : The confirm I understand.
+[40 minutes 3 seconds][Agent] : Yep. Wonderful. So sorry, just to confirm, was that a yes there? Yes, OK, Beautiful. You'll answer to the application questions in any related documents form. The basis of your contract of insurance and Finnical relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all our questions in accordance with your duty of disclosure?
+[40 minutes 9 seconds][Customer] : Yes, yes.
+[40 minutes 35 seconds][Agent] : Yep. By agreeing to this declaration, you consent to be contacted by us in relation to other products and services. You can opt out of this at any time by contacting us. The accepted cover pays a lump sum benefit amount of Novgothu receives $600,000 in the event of life insurance. A benefit is not paid in the event of suicide in the 1st 13 months of the policy. Your total premium for the first year of cover is $63 and $0.58 per month. Your premium is stepped, which means it will be calculated at each policy anniversary and will generally increase as you age. Your sum insured will also increase automatically by 5% each year. Then you can opt out of this. Included in your premium is an amount payable to GFS of between 24% and 71% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. AM Best is rated Pinnacle with AB plus financial strength good and Triple B minus issuer credit rating with an outlook of stable. You could read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed to you and if you have provided us with an e-mail address, will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your proceed and any premium you may have paid will be refunded in full unless you have lost a claim. Thank you so much for your patience there so far. Just as last two yes or no questions for you.
+[42 minutes 16 seconds][Customer] : Yes.
+[42 minutes 11 seconds][Agent] : First one is do you understand and agree with the declaration and the full and last one is would you like any other information now or would you like me to read any part of the policy document to you?
+[42 minutes 26 seconds][Customer] : No.
+[42 minutes 28 seconds][Agent] : No, wonderful. I'll accept this one here. Alrighty, wonderful. So thank you so much. Is it your application has been gone through there? So you have that did that. Beautiful. Let me pull that up. Alrighty, wonderful. So that's all completed there for you and your documents. They will be with you very shortly as well. So once again, we will send them out to your e-mail and then we'll send them out to your address as well as a hard copy there for you.
+[43 minutes 14 seconds][Customer] : Oh, good. Thank you.
+[43 minutes 13 seconds][Agent] : OK, alrighty, no worries at all. And then while I've got you on the phone, is there anything else I can assist you with there?
+[43 minutes 21 seconds][Customer] : I couldn't offer today.
+[43 minutes 23 seconds][Agent] : That's all for today. Alrighty, no worries at all then. No, but thank you so much for your time today. You have a wonderful day ahead of yourself.
+[43 minutes 30 seconds][Customer] : Oh, good. Thank you. Bye.
+[43 minutes 32 seconds][Agent] : Thank you. Bye bye.
+[43 minutes 34 seconds][Customer] : Bye.

@@ -1,0 +1,42 @@
+[1 seconds][Customer] : Hello.
+[2 seconds][Agent] : Hello. It's Slafiana calling you back from One Choice Income Protection to continue. Yeah. All right. Now, just because it's a new call, I'm just required to let you know. Again, all calls are recorded. Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs. We do not consider your personal circumstances. I just need you to confirm your first and last name and date of birth, please. Thank you. And Patrick, can I confirm that you are a male New Zealand resident currently residing in New Zealand?
+[6 seconds][Customer] : Yes, Patrick, my 12/4/66 Yes.
+[35 seconds][Agent] : All right, now, just before umm, we go ahead and continue where we left off. I'm just required to ask you, has anything changed to your answers?
+[43 seconds][Customer] : No.
+[43 seconds][Agent] : Yeah. All right, let's have a look. We'll go in and just continue where we left off. You've got umm, Wait, will you be doing a card today?
+[52 seconds][Customer] : Yes. Look, I'm really pushed for time. How long is this going to take?
+[56 seconds][Agent] : It's not going to take long. I'll. I'll do it quickly.
+[58 seconds][Customer] : OK, OK, cool.
+[58 seconds][Agent] : 5 minutes.
+[1 minutes][Customer] : OK.
+[1 minutes][Agent] : We'll do it really quick. OK.
+[1 minutes 1 seconds][Customer] : Up to Yeah. Yep.
+[1 minutes 2 seconds][Agent] : Yeah, yeah, yeah. I've already confirmed your e-mail and home address already. You've selected already when you want the first payment to be. You've told me it's the 3rd.
+[1 minutes 13 seconds][Customer] : Yep.
+[1 minutes 12 seconds][Agent] : 28 days from tomorrow.
+[1 minutes 14 seconds][Customer] : Yep.
+[1 minutes 14 seconds][Agent] : Yeah.
+[1 minutes 14 seconds][Customer] : Correct. Yep.
+[1 minutes 15 seconds][Agent] : OK. The 3rd of December. Now I'm going to stop the call recording for me to collect the card number and then I'll read you a declaration really quick. OK.
+[1 minutes 22 seconds][Customer] : OK.
+[1 minutes 23 seconds][Agent] : OK. Quickly for security purposes while attending your card details, the call recording will stop and we'll recommend after we have collected your details.
+[1 minutes 56 seconds][Customer] : Music.
+[2 minutes 29 seconds][Agent] : Please be advised, the call recording has now resumed for quality and monitoring purposes. I just need to read you the final declaration. Just to confirm, for your documents, umm, your first and last name is Patrick, am I correct? Yeah. All right, let's go ahead and read the declaration and then I'll let you go.
+[2 minutes 26 seconds][Customer] : The OK correct OK.
+[2 minutes 45 seconds][Agent] : OK, alright, so this reads. Thank you Patrick and why it's important that you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full on choice. Income protection insurance is issued by Pinnacle Life Insurance Limited whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and Z Limited whom I refer to as GFS to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority. Provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Income Protection Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered just specific financial needs or goals or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our financial advice disclosure statement Which without more information, which can assist you to decide whether it's act on any advice we provide. Can you please confirm that you understand and agree to this yes or no? Thank you. Your answer to the application questions in any related documents form the basis of your contract of insurance and Pinnacle relies upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure, Yes or no?
+[3 minutes 55 seconds][Customer] : Yes, yes.
+[4 minutes 15 seconds][Agent] : Thank you. By agreeing to this declaration you consent to be to being contacted by us in relation to other products and services. You can opt out of this any time. By contacting us you have agreed to take out a single one choice Income Protection insurance policy with the following cover for Patrick Mia Monthly insured amount of $8312.00 with a waiting period of 90 days and a benefit period of 12 months. The monthly income benefit payable in the event of a claim may be less than the monthly insured amount as your income benefit is limited to 75% of your average monthly income over any 12 consecutive months during the two years before you suffered your discipline, sickness or injury. Your income benefit can also be reduced if you receive other disability payments or offsets from other sources. Your cover expires on December 3rd, 2031 at 12:00 AM. Your premium for the first year of cover is $83.87 per fortnight. Your premium is stepped, which means that will be calculated each policy anniversary and will generally increase as you age your summit. Sorry. Your monthly benefit amount will also increase automatically by 3% each year and you can opt out of this. Included in your premium is an is an amount payable to GSS of between 26% and 56% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. AM Best has rated clinical with AB plus financial shrink good and Triple B minus issue a credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be sent to you via mail and if you have provided us with an e-mail address, will also be emailed to you today. You should carefully consider these documents to ensure the product meets your needs. You have a 30 day calling off. During which you may cancel your policy and any premium you may have paid will be refunded in full. Unless you have lodged a claim, there is no refund of premiums after the calling off when you're done. Just two questions and then you can go, OK, so do you understand and agree with the declaration, yes or no?
+[6 minutes 22 seconds][Customer] : Yes.
+[6 minutes 22 seconds][Agent] : Perfect. And I'm going to send out the document to you by e-mail and by mail. Other than that, would you like any other information or would you like me to read any part of the policy document to you? Yes or no?
+[6 minutes 33 seconds][Customer] : No.
+[6 minutes 33 seconds][Agent] : Yeah, I'll go ahead and accept this for you. You'll be covered OK from today and you'll receive your documents. Make sure you read everything. If you need anything, give us a call.
+[6 minutes 45 seconds][Customer] : OK. No problem.
+[6 minutes 45 seconds][Agent] : All right, that's all done for you.
+[6 minutes 47 seconds][Customer] : OK.
+[6 minutes 47 seconds][Agent] : We've finished it.
+[6 minutes 48 seconds][Customer] : Thank you. Cool. Cool. OK. Thank you.
+[6 minutes 49 seconds][Agent] : All right, Patrick, thank you so much for your time.
+[6 minutes 52 seconds][Customer] : Y Yeah. You're welcome. And you have a good day.
+[6 minutes 55 seconds][Agent] : You too. Thank you.
+[6 minutes 56 seconds][Customer] : Thank you. Bye. Bye.
+[6 minutes 57 seconds][Agent] : Bye.

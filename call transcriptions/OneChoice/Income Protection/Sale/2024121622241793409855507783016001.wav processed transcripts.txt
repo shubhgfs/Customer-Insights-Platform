@@ -1,0 +1,243 @@
+[3 seconds][Agent] : Hi, my name is Aiden. I'm calling from One Choice Insurance. How are you?
+[2 seconds][Customer] : So I'm speaking good, thanks.
+[8 seconds][Agent] : Great to hear the reason I'm giving you a call. We've received your online enquiry for the income protection cover. I'm a specialist. Yeah, I am here to take you through your cover today. I'll take you through some basic information and if you have any questions along the way, that's exactly what I'm here for.
+[20 seconds][Customer] : Cool.
+[21 seconds][Agent] : I'll just need to double check. I do have your details correct.
+[24 seconds][Customer] : Yep.
+[24 seconds][Agent] : Your full names and hearts. Is that correct?
+[26 seconds][Customer] : Yes, that's correct.
+[27 seconds][Agent] : Thank you. Date of birth, 7th of November 1987 And you're a female New Zealand resident currently residing in New Zealand.
+[30 seconds][Customer] : Yep, yes, Yep.
+[35 seconds][Agent] : Perfect. And I'll just let you know. Also, all calls are recorded.
+[42 seconds][Customer] : Cool.
+[38 seconds][Agent] : Any advice I provide is limited to the products we offer and assisting you to make a decision about whether they are suitable for your needs.
+[46 seconds][Customer] : Sure.
+[46 seconds][Agent] : We do not consider your personal circumstances. Thank you again so much for taking the time to inquire for the income protection problem. Again, I specialize with the income protection, so any questions at all please do let me know. Umm, but to give you an idea on what we're here to do, we provide a monthly benefit directly to you. If you are unable to work you to a disabling sickness or injury and you suffer a loss of income. Again, of course, we step in, provide the monthly benefit to you to be able to help you cover your bills and living costs if your salary wants to be interrupted. Just so you get a bit of a more of an understanding of your situation. What kind of expenses are you wanting to have covered if you're unable to work? Yep, excellent.
+[1 minutes 24 seconds][Customer] : My mortgage and the living costs for the family from the Signus contributed to our income.
+[1 minutes 34 seconds][Agent] : Completely understand that. So you've got mortgage bills, you have kids at home, so do you.
+[1 minutes 39 seconds][Customer] : Yeah, yes.
+[1 minutes 40 seconds][Agent] : Nice. How many children do you have? That must be a very busy household, I'm sure, raising six kids.
+[1 minutes 42 seconds][Customer] : Asset, yeah.
+[1 minutes 47 seconds][Agent] : But again, I understand that you've got these kind of expenses and you're wanting to have those covered. And the reason I ask these kind of questions, first of all, Touchwood, you never have to claim on the income protection, but in the unfortunate case, you can have that pace in mind. We'll be providing that monthly benefit to you. And in terms for those funds available, you have complete control on how every dollar is spent.
+[1 minutes 56 seconds][Customer] : Yep, Yep, Yep.
+[2 minutes 6 seconds][Agent] : We have no say if it's to cover the mortgage, children's raising expenses, bills around the home, Even so the medical expenses, it's there to cover those kind of expenses so you can focus on your recovery.
+[2 minutes 18 seconds][Customer] : Sure.
+[2 minutes 19 seconds][Agent] : What kind of expens? Sorry, what kind of occupation do you do? Oh, very nice. You've been in health management for very long.
+[2 minutes 23 seconds][Customer] : Health management, Yeah, yeah, a few years.
+[2 minutes 26 seconds][Agent] : All right. You must love what you do by the sounds feed. You've been doing it for a while.
+[2 minutes 31 seconds][Customer] : Yeah, yeah.
+[2 minutes 33 seconds][Agent] : Good to hear. It's so important to go through a job we enjoy every day. We're at our jobs more than with our own families.
+[2 minutes 38 seconds][Customer] : That's right.
+[2 minutes 38 seconds][Agent] : So pleased to hear that, umm, to let you know a bit more about your cover. So we're going to be able to offer you an income benefit of up to 75% of your monthly pre tax income.
+[2 minutes 49 seconds][Customer] : Mm. Hmm.
+[2 minutes 49 seconds][Agent] : So ranges from $1000 as a minimum to a maximum of $15,000 per month.
+[2 minutes 55 seconds][Customer] : Hmm. Mm.
+[2 minutes 55 seconds][Agent] : And then you can choose to receive that monthly benefit for a period of six months up to a maximum of five years. Umm, And then in regards for applying, we keep it nice and simple. It's done all over the phone. There's no forms you need to fill in. There's no medical checks that needs to be completed. It's just yes or no questions.
+[3 minutes 14 seconds][Customer] : Hmm. Mm.
+[3 minutes 11 seconds][Agent] : And that's what confirms what the final price will be in the exact terms of your policy. Umm, And then once the policy is in place, it will cover you until your policy anniversary following your 65th birthday. Just keep in mind that there are some exclusions that apply.
+[3 minutes 25 seconds][Customer] : Mm. Hmm.
+[3 minutes 24 seconds][Agent] : It's outlined in the policy document.
+[3 minutes 27 seconds][Customer] : Yep.
+[3 minutes 26 seconds][Agent] : OK, umm, that's sort of surprising. Let's work out the best policy for you to be covered for. We'll make sure it's all affordable as well. I do just need to ask you some questions about your duties at work.
+[3 minutes 34 seconds][Customer] : Yep, Yep.
+[3 minutes 37 seconds][Agent] : Umm, just before answering any of our questions, it is important that you are aware of your duty to answer all our questions accurately and honestly. Failure to do so, it could impact your coverage claims time. OK. Ah, so with a clear yes or no, can you please confirm, do you work 15 hours or more per week?
+[3 minutes 48 seconds][Customer] : Sure, Yes.
+[3 minutes 56 seconds][Agent] : Is your role of an administrative, managerial or professional nature?
+[4 minutes 5 seconds][Customer] : Yep.
+[4 minutes][Agent] : We spend the majority of your time indoors in an office or clinical environment with yes for that one.
+[4 minutes 7 seconds][Customer] : Ah, yes.
+[4 minutes 8 seconds][Agent] : Thank you. Are you required to perform any physical duties? Do you work in any of the following fields? Aviation as a pilot or crew, entertainment industry, Air Force, Army, armed forces? Or do you carry a firearm or handle explosives? OK, because yeah, it's a lot safer than those kind of things find in that question. Uh, and need to confirm as well with you. Have you had a cigarette in the last 12 months?
+[4 minutes 12 seconds][Customer] : No, no, no.
+[4 minutes 36 seconds][Agent] : OK. And are you currently employed or self-employed?
+[4 minutes 39 seconds][Customer] : Employed.
+[4 minutes 40 seconds][Agent] : Ah, the reason that we ask that question. We do need to know down your annual income before tax. Just so you know, our definition of free tax income is the total annual remuneration paid to you by your employer, Umm, before tax. It is including your salary and regular commissions or bonuses. However, it's excluding employer, Kiwi saver and super super contributions. So based on that, can I ask for your annual income before taxes please?
+[5 minutes 2 seconds][Customer] : OK I'm just trying to figure out how I work it out without the QE saver. So the I'm just looking at our pay slip thingy Majiggy. So it is on here. My salary is 334,000 079.84 but I'm not sure if it's with or without the Kiwi saver component. I don't know. I can't remember if that's the total remuneration package.
+[5 minutes 31 seconds][Agent] : I say, OK, did you say 334,000?
+[5 minutes 35 seconds][Customer] : And yes that's correct, it just doesn't.
+[5 minutes 40 seconds][Agent] : OK, give me one second, I say.
+[5 minutes 47 seconds][Customer] : It's not clear now system how to differentiate.
+[5 minutes 55 seconds][Agent] : Yeah, we would need to be able to find that out. Sorry.
+[5 minutes 58 seconds][Customer] : I, I can try and get it off my I just don't have it in front of me. My individual employment agreement or something like that, that would I be able to provide that by e-mail after the call? I just don't want to get stopped here and then not be able to provide anything because I'd have to go and find it.
+[5 minutes 58 seconds][Agent] : Then Yeah, yeah, for sure. Like just to save you from sending the e-mail, we do it all over the phone. So I would need to have you provide that over the phone.
+[6 minutes 21 seconds][Customer] : OK, Strings.
+[6 minutes 22 seconds][Agent] : But we can arrange it on the call to be able to find that out.
+[6 minutes 24 seconds][Customer] : Yeah, yeah, all good.
+[6 minutes 24 seconds][Agent] : Umm, we can based on that $334,000 figure for now. And then if we need to adjust it, we can.
+[6 minutes 30 seconds][Customer] : Yeah, yeah, sure.
+[6 minutes 33 seconds][Agent] : So what that means is you have the options to to like cover a minimum $1000 to a maximum of $15,000 per month. And then there's $100 increments in between.
+[6 minutes 49 seconds][Customer] : Cool.
+[6 minutes 44 seconds][Agent] : Now, I understand there's the mortgage that you're wanting to have covered, there's your children's expenses, bills, those kind of things. When you take it in consideration on a monthly basis, how much would you need from your income protection?
+[6 minutes 57 seconds][Customer] : And it's only going to be at 75 percentile of what I currently earn. That's calculated.
+[7 minutes 3 seconds][Agent] : It's up to 75% of your monthly pre tax income, but up to a maximum 15,000 per month.
+[7 minutes 5 seconds][Customer] : Yeah, Yeah, I've marched the pretax, yeah, yeah, which will be I'll be over the maximum I. So I suppose if I think about our current mortgage obligations for we've got 2 properties, so that's 7, 832 plus. It's about 15,000 and that's just for the mortgage.
+[7 minutes 36 seconds][Agent] : Yeah, I see. OK.
+[7 minutes 37 seconds][Customer] : So for the mortgages. So I'd probably need to be looking at a, a quote for the higher highest end of that availability.
+[7 minutes 45 seconds][Agent] : OK, not to worry at all. I'll load that on the 15,000. And then there's a couple of other things you need to factor in as well. There's the waiting period. The waiting period is the non payment period that you must wait before the income benefit is payable after the insured event. So you have the options for either 30 days or 90 days. Which waiting period would you like me to select?
+[7 minutes 58 seconds][Customer] : Yes, yeah, 30 days would be helpful.
+[8 minutes 8 seconds][Agent] : OK. And then there's the benefit. The benefit. Is the maximum amount of time that we will pay the income benefits for anyone injury or illness. You have the options from six months, one year, two years or five years.
+[8 minutes 25 seconds][Customer] : What's, what's the usual, what's the people usually I have no clue.
+[8 minutes 29 seconds][Agent] : It's a good question.
+[8 minutes 30 seconds][Customer] : Yeah, yeah.
+[8 minutes 31 seconds][Agent] : It's a, it's a hard one to answer because to be very honest with you, it's always different in terms of what people choose because it's such a hard question to answer. Like if you ever need to use the income protection, how long are you going to need it for?
+[8 minutes 36 seconds][Customer] : Yeah, exactly. Yeah.
+[8 minutes 43 seconds][Agent] : I know how hard of a question it is, I truly do. If you would like to look at a few or if you'd like to look at all of them, I'm happy to try and help as much.
+[8 minutes 50 seconds][Customer] : Yeah, if I could, if I could look at all of them, that'd be really good. Just see what it looks like.
+[8 minutes 54 seconds][Agent] : Yeah, of course. Did you want to have a look at all of them? Six months, one year, 2 years and five.
+[8 minutes 55 seconds][Customer] : Yeah, Yeah.
+[9 minutes][Agent] : All right, let's start with six months.
+[9 minutes 4 seconds][Customer] : Yep.
+[9 minutes 2 seconds][Agent] : This is purely indicative only just to be transparent because we still have the yesterday questions to go through. If we have a look at the top monthly benefit of 15 K, 30 day waiting period benefit period of six months, that is $78.94 per fortnight. Going to one year as the benefit that will be a fortnightly premium of $90.95 per fortnight.
+[9 minutes 32 seconds][Customer] : Right. So it gets more as you increase your coverage time frame? Yep.
+[9 minutes 35 seconds][Agent] : Yeah, that's right there. Yes, if we go to a two year, it would be $114.66 per fortnight. And then if we look at our top cover that we can offer for you, 15 K, 30 day waiting period, five year benefit.
+[9 minutes 59 seconds][Customer] : Mm hmm.
+[9 minutes 53 seconds][Agent] : This is the top policy that would be $154.94 per fortnight.
+[10 minutes][Customer] : Yeah, OK.
+[10 minutes 3 seconds][Agent] : Umm, and I wanted to check in with you. Are you aware that the premiums that you pay, that they're generally tax deductible?
+[10 minutes 9 seconds][Customer] : Oh, no, I didn't know that.
+[10 minutes 11 seconds][Agent] : It's always something I'd like to point out. Keep in mind that the premiums for income protection are generally tax deductible depending on the policy structure, which could make it even more cost effective for you.
+[10 minutes 20 seconds][Customer] : MMM, yeah, sure.
+[10 minutes 19 seconds][Agent] : Uh, but of course it needs to be affordable for you right now though out of those amounts, uh, do you have, it was the one that stood out again, six months was 7894, one year 9095, uh, two years 114.66 and the five year 154.94. MM Hmm OK.
+[10 minutes 38 seconds][Customer] : They're all pretty comparable from the price point probably I'd be looking between the one to two years maybe like yeah, that's probably maybe more towards the one year. You would hope and assume that if anything was to happen that you'd be able to get out of it after, you know, no longer than a year.
+[10 minutes 49 seconds][Agent] : Yep, Yeah, I know what you mean. Yeah, not a worry at all. Then we can keep it as up for now. Then for the 15 pay, 30 day waiting period and benefit period of one year. Umm, the next step is for you of going through the yes or no questions to be able to confirm a final price.
+[11 minutes 14 seconds][Customer] : MMM, sure.
+[11 minutes 14 seconds][Agent] : Generally I do need to have all the information correct before I can go through it. Going back to the income, I want to double check if I can still go through the question because I'd love to be able to tell you what the final price would be and if we can offer the insurance for you as well.
+[11 minutes 17 seconds][Customer] : OK, Yep, sure.
+[11 minutes 27 seconds][Agent] : Umm, would it be alright if I just pop you a really short hold?
+[11 minutes 31 seconds][Customer] : Cool.
+[11 minutes 32 seconds][Agent] : Thank you so much. Be one quick moment. Hi. Thanks for your patience. So I just wanted to double check to see if you knew this figure, would you know what it would be based on your most recent tax return? Because that's something that we can go by as well.
+[13 minutes 2 seconds][Customer] : All good, I've pulled up my renew.
+[13 minutes 16 seconds][Agent] : Uh huh.
+[13 minutes 14 seconds][Customer] : I can review the tab which I was able to find. I've got my I'm assu. I'm just making this assumption. So I'm just going to take off the 3% Kiwi saver which I'm assuming this is how this is calculate. I'm just trying to work out how to take off so that that number I gave you 344102.24 that's inclusive of a 3% employer contribution securely saver.
+[13 minutes 42 seconds][Agent] : Right.
+[13 minutes 42 seconds][Customer] : So can you wo I don't know how to work it out, but I don't know how to work it out backwards to take 3% off of that 344102.24.
+[13 minutes 54 seconds][Agent] : Yeah, OK.
+[13 minutes 51 seconds][Customer] : And that would give us my base salary amount, not inclusive of the because we don't get salaries or bonuses or anything like that.
+[13 minutes 59 seconds][Agent] : Yeah, right. Yeah, I see what you're saying. OK, So it's 344, what was after that?
+[13 minutes 59 seconds][Customer] : It's a fixed amount, Yep, 1102.24 my the wrong number, but I've just pulled up the the letter and so it's a -, 3% off of that and that gives us the salary component without the inclusion of the Kiwisaver employer contribution.
+[14 minutes 21 seconds][Agent] : So you're on a a working statement today.
+[14 minutes 33 seconds][Customer] : It sounds about right. Yeah.
+[14 minutes 26 seconds][Agent] : If I just minus that by 3%, that would be $10,323 like yeah, like a equals that would give me a figure of $333,779.17.
+[14 minutes 42 seconds][Customer] : Yep, that sounds.
+[14 minutes 43 seconds][Agent] : Would you be confident for me to write that down?
+[14 minutes 45 seconds][Customer] : That would be it. Thank you.
+[14 minutes 47 seconds][Agent] : No worries at all. Thank you so much for providing those details. Alright, perfect. So now we've got it all accurate. Umm, I don't think it's gonna impact the amount at all that we can offer. No, not one bit. So we can still offer the full 15K, the 30 day waiting period benefit. One year, that's $90.95 per fortnight.
+[15 minutes 6 seconds][Customer] : Mm hmm.
+[15 minutes 6 seconds][Agent] : But let's go through the questions. Let's confirm what the final price is going to be in the terms of the policy.
+[15 minutes 8 seconds][Customer] : Sure, sure.
+[15 minutes 12 seconds][Agent] : Uh, there is just a quick paragraph that I need to read to you before I do go through those questions and then I'll see understanding at the end. So it does read. Please be aware all calls are recorded for quality and monitoring purposes. We collect your personal information to provide insurance quotes, issue cover and other related services. We will share this with your insurer and make sure it's with other service providers for the purpose of administering your policy or handling claims. Our privacy policy tells you more, including how to access correct your information and lodge complaints about breaches of privacy. I also need to inform you about your duty of disclosure. So before you enter into our income protection contract, you have a legal duty to provide to us any information you know or could recently be expected to know, which may affect our decision to ensure you and what terms. You do not need to tell us things that we already know or should know as an insurer or it reduces the risk. We insure you have this duty until the time we enter into the contracts. If if you fail to disclose the matter or you make a false statement in answer to our questions, we may be able to decline a claim and post new conditions on your policy or avoid your policy entirely. So the clear yes or no, can you please confirm? Do you understand this? OK, so with the questions just require a clear yes or no for each place. But if you do need to clarify anything along the way, do let me know. Uh, the first question I need to read is are you a citizen or permanent resident of New Zealand or a citizen of Australia currently residing in New Zealand.
+[16 minutes 26 seconds][Customer] : Yes, yes.
+[16 minutes 44 seconds][Agent] : Yes, order next section now it's a pre qualifying medical history rates. Have you ever had symptoms of been diagnosed with or treated for or intend to seek medical advice for any of the following first question with this one reads stroke or heart conditions such as sorry, let me repeat that stroke or heart conditions such as but not limited to palpitations, heart murmur, heart attack and angina. Yes or no Lung disorder excluding asthma, sleep apnea or pneumonia? Cancer or leukemia excluding skin cancer, anxiety, depression or stress requiring medical treatments, or any other mental health disorder? Have you been diagnosed with a terminal illness, motor neurone disease, any form of dementia including Alzheimer's disease, or been told by a doctor that you have a condition that will reduce your life expectancy? In the last 10 years, have you used illegal drugs, abused prescription medication or received treatment for counseling for drug or alcohol consumption?
+[17 minutes 10 seconds][Customer] : No, no, no, no, no, no, no.
+[17 minutes 51 seconds][Agent] : Moving on to our next section. The next section is in relation to your height and your weight. Please be aware that I'm required to obtain a confidence single figure measurements for each in order to continue with the application. The system does not allow me to enter any approximate figures, words or heights and weight ranges. May I ask you what is your exact height? So either centimeters or feet and inches please. That was one six 767. Thank you. And what is your exact weight please? OK, we understand why it does fluctuate. That's where we can accept the five kilogram fluctuation. Umm, is that basing from the last time you checked? OK, any confidence for me to note that down is your exact weight?
+[18 minutes 12 seconds][Customer] : 167 into metres, yeah, fluctuates, but it's around 125 kilos, so yeah, yes, yes, Yep.
+[18 minutes 36 seconds][Agent] : No worries, let's move on. Next question asks about your occupation. So it raises your work, require you to use explosives, travel to areas experiencing war or simple unrest, or work offshore?
+[18 minutes 49 seconds][Customer] : No.
+[18 minutes 51 seconds][Agent] : Are you a employed or be self-employed?
+[18 minutes 53 seconds][Customer] : Employed.
+[18 minutes 55 seconds][Agent] : Do you have a second? Oh sorry, have you been in your current occupation for at least 12 months?
+[19 minutes 1 seconds][Customer] : Yes.
+[19 minutes 2 seconds][Agent] : Do you intend to change your current occupation in the next 12 months?
+[19 minutes 5 seconds][Customer] : No.
+[19 minutes 7 seconds][Agent] : Do you have a second occupation that generates a taxable income? Have you ever been declared bankrupt or place in receivership and voluntary liquidation or under administration to the best of your knowledge? Are you infected with or are you in a high risk categories for contracting HIV which causes AIDS?
+[19 minutes 11 seconds][Customer] : No, no, No.
+[19 minutes 28 seconds][Agent] : Do you have definite plans to travel or reside outside of New Zealand, for example books or will be booking travel within the next 12 months? Yes. Do you have existing income protection color?
+[19 minutes 35 seconds][Customer] : No, no.
+[19 minutes 38 seconds][Agent] : OK next section now is for medical history. So it reads have you ever had symptoms of been diagnosed with or treated for or intend to seek medical advice for any of the following? First question with this one reads diabetes impaired fasting glucose, impaired glucose tolerance for Sorry should spew it on me. There we go, diabetes raise blood sugar, Impaired glucose tolerance or impaired fasting glucose. Yes or no? Chest pain, high cholesterol or high blood pressure, tumour, Molar cysts, including skin cancer, sunspots or Melanoma. Have you? Have you ever had an abnormal pap or cervical smear, Thyroid condition or neurological symptoms such as dizziness or fainting, Disorder of the stomach, bowel with gallbladder or pancreas, hepatitis, Sweaty disorder of the liver, Epilepsy, multiple sclerosis, Muscular dystrophy, Parkinson's disease or paralysis, Bladder or urinary tract disorder? Kidney disorder, Blood disorder or disease? Sleep apnea or asthma, excluding childhood asthma. Back or neck pain or disorder.
+[20 minutes 7 seconds][Customer] : No, no, no, no, no, no, no, no, no, no, no, no, no, no.
+[21 minutes 4 seconds][Agent] : Arthritis. Chronic pain, gouts, repetitive strain injury. Chronic fatigue syndrome or fibromyalgia. Joint or muscle pain. Ligament injuries, including replacement or reconstructive surgery. Osteoporosis or osteopenia. Any defect of hearing or sight other than which is corrected by glasses or contact lenses. Next section. Now it's just relating in the past three years only. So rates other than what you have already told me about in the past three years, have you sought medical advice or treatments by a medical practitioner or specialist? Well, are you awaiting results for any medical tests or investigations such as not limited to, uh, sorry, such as? They're not limited to any surgeries, X-rays, stands, blood testable, biopsy. Yes or no?
+[21 minutes 11 seconds][Customer] : No, no, no, no, no.
+[21 minutes 56 seconds][Agent] : Other than what you have already told me about. Are you contemplating seeking medical advice for any symptoms you are currently experiencing within the next two weeks? Other than what you have already told me about? Have you ever during your working career required more than two consecutive weeks of work due to illness or injury?
+[22 minutes 5 seconds][Customer] : No, no.
+[22 minutes 16 seconds][Agent] : Next section is for family history. Now this is asking about immediate family which is mother, father, brother or sister. Where it's. To the best of your knowledge, have any of your immediate family, living or deceased ever been diagnosed with polycystic kidney disease, Huntington's disease, or familial and the mother's polyposis? To the rest of your knowledge, have any of your immediate family suffered from cancer, heart condition, stroke or other hereditary disease prior to age 60 to the AH? And then lastly, other than one off events, a gift certificate slash vouchers, do you engage in or intend to engage in any of the following aviation other than as a fare paying passenger on a recognized airline? Motor racing, parachuting, mountaineering, AB sailing, scuba diving deeper than 40 meters, cave or wreck diving or any other hazardous activity, Yes or no?
+[22 minutes 35 seconds][Customer] : No, no, no.
+[23 minutes 13 seconds][Agent] : Good to hear you like to keep your feet on the ground. By the way, I couldn't agree with you anymore on that one. Ah, well, that comes to the end of the question there.
+[23 minutes 25 seconds][Customer] : OK.
+[23 minutes 21 seconds][Agent] : I just want to thank you very much for taking the time out of your day to go through that, your patience and your honesty as well. Umm, but again, Greg, is, is that's the heavy lifting done. We finished all those questions and I'm very happy to tell you once you've taken great care of yourself further down to it, you have been approved for the income protection so we can offer the cover for you, which is great to see. So we can still offer you the full $15,000 benefit with the 30 day waiting period and a benefit period of one year. Of course designing to cover you pay the full monthly benefit if you're unable to work due to a disabling sickness or injury and if you were to suffer a loss of income. I'm so I'm so sorry. I've actually mistaken UMM said something incorrectly there. It's just updated the terms of the policy right after I said that. So your application, it has been approved with the below terms. So the Max benefit amount and the benefit. That we can offer is $5000 and a two year benefit.
+[24 minutes 10 seconds][Customer] : OK, OK.
+[24 minutes 16 seconds][Agent] : So again, maximum we can offer is the 5K.
+[24 minutes 22 seconds][Customer] : Yeah.
+[24 minutes 19 seconds][Agent] : This was due to high and weight in the underwriting application and then there was a premium adjustment due to height and wage, umm so loading due to BMI 250% again in the underwriting application. So if we were to have a look at the $5000 monthly benefit with a 30 day waiting period and a benefit period of one year, that comes in at a fortnightly premium of $114.25 per fortnight.
+[24 minutes 44 seconds][Customer] : Oh yeah, that's Requi quite a while now.
+[24 minutes 48 seconds][Agent] : Yes, that's what we're able to offer for you. The great news is in terms for your health and lifestyle, now that you've been approved, you will be covered for the entire duration of the policy.
+[24 minutes 46 seconds][Customer] : Yep, Yep.
+[24 minutes 58 seconds][Agent] : It's not like if you were to have any complications to your health, umm, it's going to impact your policy in any way, shape or form. Again, once you're approved, you're approved for the whole life of the policy.
+[25 minutes 8 seconds][Customer] : Cool.
+[25 minutes 9 seconds][Agent] : So you do know, umm, so that's what we can offer for you.
+[25 minutes 9 seconds][Customer] : Yep, cool.
+[25 minutes 12 seconds][Agent] : How does that policy sound for you?
+[25 minutes 14 seconds][Customer] : Yeah, I'm I'm happy with that. Obviously if I am able to work on my BMI, height to weight ratio stuff. Does it like do you get an opportunity to reformat the cover? Should I be able to drop some of that weight to get into a more healthier BMI range? But will that make a difference in future?
+[25 minutes 37 seconds][Agent] : Mm hmm. Great question. You asked. You are able to apply to have it reviewed and in in terms of the loading, you can apply to have the loading reviewed.
+[25 minutes 36 seconds][Customer] : Like not obviously, not immediately, yes.
+[25 minutes 47 seconds][Agent] : Give me one second because we do have something on this. Just give me one second, sorry UMM and I'll There's an FAQ that UMM advises will customer be able to apply to review BMI loading if their weight changes.
+[26 minutes 12 seconds][Customer] : OK, cool.
+[26 minutes 7 seconds][Agent] : So yes, a customer must have maintained their new weight for at least 12 months before they can apply to change or remove the BMI loading on their policy.
+[26 minutes 16 seconds][Customer] : So football. Yeah, Yeah. Great.
+[26 minutes 16 seconds][Agent] : Of course, there is no guarantee we will be able to change or remove the BMI loading, but UMM, of course you do have that option to apply in the future.
+[26 minutes 23 seconds][Customer] : That's awesome.
+[26 minutes 24 seconds][Agent] : Yeah, reach out if you'd like to, umm, acquire for that.
+[26 minutes 28 seconds][Customer] : Yes.
+[26 minutes 27 seconds][Agent] : Umm, But to explain to you some other things I haven't quite taken you through with your income protection. So in terms for the cover, there is a rehabilitation benefit that comes included as well. So explain to you this a bit further. So the rehabilitation benefit pays an additional reimbursement of up to 50% of your monthly income benefits to a maximum of $3000 to hold with rehabilitation costs worth claiming.
+[26 minutes 40 seconds][Customer] : Yeah, right.
+[26 minutes 55 seconds][Agent] : Or we can reimburse up to six times your income benefit towards cost of equipment or modifications required to assist you to return to work.
+[27 minutes 3 seconds][Customer] : Cool.
+[27 minutes 4 seconds][Agent] : In terms of the amount that you're covered for automatically increases, I'll explain to you how it works. So firstly, please be aware that your premium is stepped, which means it will generally increase each year as you age.
+[27 minutes 15 seconds][Customer] : OK.
+[27 minutes 16 seconds][Agent] : In addition, this policy has automatic indexation which means each year your benefit amounts will increase by 3% until you reach the maximum benefit amounts of $15,000 per month with associated increases in premium.
+[27 minutes 16 seconds][Customer] : Yeah, OK, OK.
+[27 minutes 30 seconds][Agent] : However, you can opt out of this indexation each year though, OK, this automatic indexation each year. So that's everything that comes included with the income protection. I understand that you're happy with that $5000 monthly benefit, 30 day waiting period benefit.
+[27 minutes 46 seconds][Customer] : Yep.
+[27 minutes 45 seconds][Agent] : For the one year and that's $114.25 per fortnight. So in terms of getting this one arranged for you today, I'll give you the heads up on what the process is. Firstly, you are not going to need to make any payments straight away. You get to select the first payment date in the future for when suits you best. Umm. In the meantime, what we're going to do is get all your tailored documents sent across.
+[28 minutes 2 seconds][Customer] : OK, perfect.
+[28 minutes 6 seconds][Agent] : It will be sent to your e-mail address and also put in hard documents to be sent to your home address as well.
+[28 minutes 12 seconds][Customer] : OK, Yeah.
+[28 minutes 12 seconds][Agent] : Gives you an opportunity to have a good review over the policy while having the pace in mind that you are covered now if anything wants to change. If you have a change of heart for any reason. The policy does provide a 30 day cooling off. So if you decide the policy is no longer suitable for you and cancel the policy within the 30 days then you are going to receive a full refund of your premium. Just unless the claim has been made.
+[28 minutes 37 seconds][Customer] : Sure.
+[28 minutes 36 seconds][Agent] : OK, I'll just record your address so we know where to get the documents sent. Do you know what your post code is? The 4 digits. Thank you. That would have been very easy to remember this. Yeah. 2024. Yeah. Just put your sub up as well, please. Beautiful. Thank you. Your E address as well, please.
+[28 minutes 43 seconds][Customer] : 2024 East MANGEREE, 51 Akin St. in Little C capital KIN for Nelly STRY Ave. and that's among the east.
+[29 minutes 6 seconds][Agent] : Yeah, thank you. And so your home address, is that the same as your postal address as well?
+[29 minutes 17 seconds][Customer] : Yep. Thanks.
+[29 minutes 18 seconds][Agent] : Oh, glad to you receive all your mail though.
+[29 minutes 20 seconds][Customer] : Yep.
+[29 minutes 21 seconds][Agent] : Perfect. OK, now with learning this 1 today. As I was mentioning, you do not need to make any upfront payments. If you did want to keep it in line with that pay cycle or if you have a preferred day at all, I'll help you with that. Now when would work best for you? When would you want the first payment to be? Yep.
+[29 minutes 38 seconds][Customer] : We get paid on a fortnightly cycle, so that's going to be this week. So it wouldn't. That's too quick. So maybe in a fortnight's time on a Thursday.
+[29 minutes 47 seconds][Agent] : Yeah, we can do that. I unfortunately actually I can't on the Thursday because it's the day after New Year's, which is a public holiday. I can do the Friday if that would work.
+[29 minutes 54 seconds][Customer] : OK, all Good Friday. That's fine. Yeah. All good.
+[29 minutes 57 seconds][Agent] : OK, no worries.
+[30 minutes 1 seconds][Customer] : Yep.
+[29 minutes 59 seconds][Agent] : That'll be the 3rd of January 2025, every fortnight on the Friday for you. OK.
+[30 minutes 4 seconds][Customer] : Yep.
+[30 minutes 5 seconds][Agent] : And then lining that one up, we can make this through either a direct debit using an account number or through a Visa or a MasterCard. What would work better for you? OK. I'll just need to jot down the account number. I'm happy to hold if you need a moment to get the details on.
+[30 minutes 13 seconds][Customer] : Direct debit I I know it off the heart.
+[30 minutes 19 seconds][Agent] : I don't know how. It's a long number. I'm quite impressed. Good on you. I'm ready whenever you are. Thank you. Yeah. Yeah.
+[30 minutes 28 seconds][Customer] : Yep, 0305990507843 and then Suffolk says 00.
+[30 minutes 40 seconds][Agent] : Thank you, I'll just repeat it back to you just to make sure I've got it correct. It's 030599050784300. Thank you. Umm, account name under your first surname? Alright, Now I just need to ask you some questions in terms for the direct debit, if I can just have a clear yes or no for each place. Starting off with, do you have authority to operate this bank account alone and do not need to jointly authorize debits? Is that correct?
+[30 minutes 54 seconds][Customer] : Yes, Say that again. Sorry.
+[31 minutes 12 seconds][Agent] : Yeah. Uh, do you have authority to operate this bank account alone and do not need to jointly authorize debits? Would that be correct?
+[31 minutes 21 seconds][Customer] : Yep.
+[31 minutes 21 seconds][Agent] : OK, so sorry to be a pain just for the call recording. I do record.
+[31 minutes 25 seconds][Customer] : Oh, yes. Yes.
+[31 minutes 26 seconds][Agent] : Yes, sorry to be a pain. Umm have your chance with a direct Debit authority for one choice with technical life as the initiator in the last nine months on the account you are providing. Are you happy to set up a Direct Debit authority without signing a form?
+[31 minutes 36 seconds][Customer] : No, No, Yes.
+[31 minutes 44 seconds][Agent] : One last thing. You agree this Authority is subject to the terms and conditions relating to the bank account provided and the specific Direct Debit terms and conditions that relate to this authority. You authorize your bank to allow Pinnacle Life, who is the initiator for one choice to direct debit this accounts in accordance with these terms and conditions, yes or no? OK, before we do finalize this one, I'll triple check I've got your details correct here. So full name Missus Ella Hart's date of birth, 7th of November 1987 and you're a female New Zealand resident and you're currently residing in New Zealand.
+[32 minutes 2 seconds][Customer] : Yes, Correct.
+[32 minutes 20 seconds][Agent] : OK, Home and postal address, 51 McKenna St.
+[32 minutes 26 seconds][Customer] : Yep. Yes.
+[32 minutes 23 seconds][Agent] : Ave., Mangadir E, Auckland 2024, your best contact number 82108327944. e-mail SEOAHHA RT07 at gsorry@hotmail.com.
+[32 minutes 33 seconds][Customer] : Yes, Correct.
+[32 minutes 42 seconds][Agent] : Oh good, I have a final declaration to read out to you now. I will ask for your understanding and your approval by the end. If you do, I'll accept that on your behalf and then I'll let you enjoy the rest of your morning for yourself.
+[32 minutes 41 seconds][Customer] : Yes, correct.
+[32 minutes 51 seconds][Agent] : OK, Thank you for your patience with everything. Uh, so it does read. Thank you as Aloha. It is important you understand the following information. I will ask for your agreement to these terms at the end and your policy will not be enforced unless you agree to these terms in full. One choice income protection insurance is issued by Pinnacle Life Insurance Limited, whom I will refer to as Pinnacle. Pinnacle has an agreement with Greenstone Financial Services and said Limited, whom I refer to as GFS to issue and arrange this insurance on its behalf. GFS is licensed by the Financial Markets Authority to provide a financial advice service. The advice we have provided to you is limited to assisting you to make a decision about whether One Choice Income Protection Insurance is suitable for your needs on the basis of the information you provided to us about your general circumstances. When providing this advice, we have not considered your specific financial needs or goals, or considered any other insurance products or services. We have verified that you understand the cover and that you consider that the premiums are affordable. We will send you a copy of our Financial Advice Disclosure Statement which sets out more information which can assist you to decide whether to act on any advice we provide with a clear yes or no. Can you please confirm that you understand and agree to this?
+[34 minutes 10 seconds][Customer] : Yes.
+[34 minutes 12 seconds][Agent] : Your answer to the application questions and any related documents form the basis of your contract of insurance and spinnical realize upon the information you have provided when assessing your application. I need to remind you of the duty of disclosure that you agreed to with a clear yes or no. Can you please confirm you have answered all of our questions in accordance with your duty of sorry, Repeat the question. Can you please confirm you have answered all of our questions in accordance with your duty of disclosure? Sorry, must have lost you. Was that a yes or no?
+[34 minutes 39 seconds][Customer] : Yes, yes, yes.
+[34 minutes 45 seconds][Agent] : Thank you. By going to this declaration you can tend to be contacted by us in relation to other products and services. You can opt out of this at the time by contacting us. You have a great to take out a single one choice income Protection insurance. Sorry, One choice Income Protection insurance policy with the following cover for seller huts a monthly insured amount of $5000 with a waiting period of 30 days and a benefit period of 12 months.
+[35 minutes 16 seconds][Customer] : OK.
+[35 minutes 12 seconds][Agent] : The monthly income benefit payable in the event of a claim maybe less than the monthly insured amount as your income benefit is limited to 75% of your average monthly income over any 12 consecutive months during the two years before you suffered your disabling sickness or injury. Your income benefit can also be reduced if you receive other disability payments or offsets from other sources. Wasilla Hutch uh, income protection benefit. A loading was applied during the application process. Your cover expires on January 3, 2053 to uh, 12:00 AM. Sorry, just for being that's Your cover expires in January 3, 2053 12:00 AM. Your premium for the first year of cover is $114.25 per fortnight. Your premium is theft, which means it will be calculated at each follows anniversary and will generally increase as you age. Your monthly benefit amount will also increase automatically by 3% each year and you can opt out of this. Included in your premium is an amounts payable to GFS of between 26% and 56% of each premium. Your premium will be deducted in accordance with the authority you have provided to us. AM Best has rated Pinnacle with AB Plus Financial Strength goods and Triple B Minus issue our credit rating with an outlook of stable. You can read more about these ratings on our website and in your policy documentation. The policy documentation will be mailed will be sent to you via mail and if you have provided us with an e-mail address, it will also be emailed to you today. You should definitely consider these documents to ensure the product meets your needs. You have a 30 day cooling off. During which you may cancel your policy. You have a 30 day cooling off. In which you may cancel your policy and any premium you may have paid will be refunded in full unless you have lodged a claim. Two final questions for you. Thank you so much for your patience while I read that with a clear yes or no, can you please confirm? Do you understand and agree with the declaration? Would you like any other information or would you like me to read any parts of the policy document to you? I'll go ahead and accept that one on your behalf. Just want to thank you very much again for taking the time out of your day and also your trust in US for choosing one choice of your income protection, but that one's been all put in place for you there.
+[37 minutes 17 seconds][Customer] : Yes, no, Great. Thank you very much.
+[37 minutes 37 seconds][Agent] : OK, My pleasure. If you have any questions at all in the future, our direct contact details will be on those documents we're sending you through. So please reach out if you need a hand. I'll be more than happy to help with anything you need. OK.
+[37 minutes 51 seconds][Customer] : Great. Thank you very much.
+[37 minutes 53 seconds][Agent] : My pleasure. Umm. But besides that, just wanna wish you a very Merry Christmas. Have a lovely new year. Thank you again so much for your time.
+[37 minutes 59 seconds][Customer] : Alright, thank you. You too.
+[38 minutes][Agent] : Oh, you take care though.
+[38 minutes 2 seconds][Customer] : Bye.
+[38 minutes 2 seconds][Agent] : Bye. Bye.
