@@ -1,5 +1,6 @@
 import json
 import os
+import openai
 from dotenv import load_dotenv
 from agno.agent import Agent
 from agno.knowledge.pdf import PDFKnowledgeBase
@@ -17,14 +18,18 @@ from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.team.team import Team
 from agno.vectordb.chroma import ChromaDb
 from agno.embedder.azure_openai import AzureOpenAIEmbedder
+from agno.knowledge.text import TextKnowledgeBase
+from agno.document import Document
+from agno.document.reader.text_reader import TextReader
 
 load_dotenv()
 
-os.environ["AZURE_EMBEDDER_OPENAI_API_KEY"] = os.getenv("AZURE_OPENAI_API_KEY_AQMAGENTICOS")
-os.environ["AZURE_EMBEDDER_OPENAI_ENDPOINT"] = os.getenv("AZURE_OPENAI_ENDPOINT_AQMAGENTICOS")
-os.environ["AZURE_EMBEDDER_DEPLOYMENT"] = "gpt-4o-mini"
-
-embedder = AzureOpenAIEmbedder()
+embedder = AzureOpenAIEmbedder(
+    api_key=os.getenv("AZURE_EMBEDDER_OPENAI_API_KEY"),  # or set your key directly for testing
+    api_version="2024-12-01-preview",
+    azure_endpoint=os.getenv("AZURE_EMBEDDER_OPENAI_ENDPOINT"),
+    azure_deployment="text-embedding-3-large"
+)
 
 storage_sql_agent = SqliteStorage(
     table_name="tblMaster_CIP",
@@ -145,36 +150,42 @@ def create_knowledge_base(base_path, collection):
         embedder=embedder,
     )
     
-    knowledge_base = PDFKnowledgeBase(
+    knowledge_base = TextKnowledgeBase(
         name=collection,
         path=base_path,
         vector_db=vector_db,
-        num_documents=5
+        reader=TextReader(chunk=True, chunk_size=1000),
     )
-    c=0
+
     for file in os.listdir(base_path):
-        if c>0:
-            switch = False
-        else:
-            switch = True
-        c+=1
-        if file.endswith(".pdf"):
+        print(base_path,file)
+        if file.endswith(".txt"):
             folders = base_path.split('/')
             brand, product, sale_status = folders[-3], folders[-2], folders[-1]
-            print(f"Loading {file} into {collection} knowledge base with path {base_path}")
-            print(f"Brand: {brand}, Product: {product}, Sale Status: {sale_status}")
-            knowledge_base.load_document(
-                  path = os.path.join(base_path, file),
-                  metadata = {
-                      "brand": brand,
-                      "product": product,
-                      "sale_status": sale_status,
-                      "year": file[:4],
-                      "month": file[4:6],
-                      "day": file[6:8],
-                  },
-                  recreate=switch
-                  )
+
+            with open(os.path.join(base_path, file), "r", encoding="utf-8") as f:
+                content = f.read()
+
+            doc = Document(
+                name=os.path.join(base_path, file),
+                content=content,
+                meta_data={
+                    "brand": brand,
+                    "product": product,
+                    "sale_status": sale_status,
+                    "year": file[:4],
+                    "month": file[4:6],
+                    "day": file[6:8],
+                })
+            # print(doc)
+            try:
+                knowledge_base.load_document(
+                      document=doc,
+                    #   upsert=True,
+                      skip_existing=True,)
+            except openai.BadRequestError as e:
+                print(f"Skipping {file} due to error: {e}")
+                continue
 
     return knowledge_base
 
