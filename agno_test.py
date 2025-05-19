@@ -15,7 +15,7 @@ from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 
 storage = SqliteStorage(
     table_name="tblMaster_CIP",
-    db_file="tmp_usr.db",
+    db_file="/mnt/chatdata/tmp_usr.db",
 )
 
 with open(r'agent_config.json', 'r') as f:
@@ -66,7 +66,7 @@ thinking_tool = ThinkingTools(
     add_instructions=True,
 )
 
-master_db = r"sqlite:////home/shubh/Documents/Customer Insights Platform/tblMaster_CIP.db"
+master_db = r"sqlite:////mnt/chatdata/tblMaster_CIP.db"
 sql_tool = SQLTools(db_url=master_db)
 
 agent = Agent(
@@ -89,7 +89,7 @@ agent = Agent(
     add_references=True,
     storage=storage,
     show_tool_calls=True,
-    reasoning=True,
+    reasoning=False,
     read_chat_history=True,
     read_tool_call_history=True,
     system_message_role="system",
@@ -108,5 +108,7 @@ agent = Agent(
 
 app = Playground(agents = [agent]).get_app()
 
+
 if __name__ == "__main__":
-    serve_playground_app("agno_test:app", reload=True)
+    serve_playground_app("agno_test:app", host="0.0.0.0", port=7777, reload=True)
+
