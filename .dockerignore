@@ -1,1 +1,11 @@
 .env
+.mp4
+.docx
+.pdf
+.sqlw
+.md
+.cip-venv
+.__pycache__
+*.pyc
+*.pyo
+*.pyd

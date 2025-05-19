@@ -6,3 +6,4 @@
 *__pycache__/
 *__pycache__
 *.db
+/call transcriptions/*.txt
