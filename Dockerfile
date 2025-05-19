@@ -23,7 +23,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY . .
 
 # Expose the port Streamlit or your app might use (default: 8000 or 8501)
-EXPOSE 8000
+EXPOSE 7777
 
 # Run the app using uvicorn
 CMD ["python", "agno_test.py"]
