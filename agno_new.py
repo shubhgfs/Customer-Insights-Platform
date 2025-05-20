@@ -3,7 +3,6 @@ import os
 import openai
 from dotenv import load_dotenv
 from agno.agent import Agent
-from agno.knowledge.pdf import PDFKnowledgeBase
 from agno.knowledge.json import JSONKnowledgeBase
 from agno.models.azure import AzureOpenAI
 from agno.playground import Playground, serve_playground_app
@@ -17,11 +16,7 @@ from agno.knowledge.combined import CombinedKnowledgeBase
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.team.team import Team
 from agno.embedder.azure_openai import AzureOpenAIEmbedder
-from agno.knowledge.text import TextKnowledgeBase
-from agno.document import Document
-from agno.document.reader.text_reader import TextReader
-import weaviate
-# from weaviate_agents.query import QueryAgent
+from transcription_tool import TranscriptionSearchTool
 
 load_dotenv()
 
@@ -143,37 +138,70 @@ sql_agent = Agent(
 ####################     TRANSCRIPTION AGENT     ######################
 #######################################################################
 
-
+transcription_agent = Agent(
+    name="Transcription Agent",
+    model=azure_model,
+    tools=[
+        TranscriptionSearchTool(
+            deployment="o3-mini",
+            system_prompt=transcription_agent_config.get('system_prompt', None),)],
+    context=transcription_agent_config.get('context', None),
+    add_context=True,
+    resolve_context=True,
+    add_history_to_messages=True,
+    num_history_runs=10,
+    knowledge=sql_knowledge_base,
+    search_knowledge=True,
+    update_knowledge=True,
+    add_references=True,
+    storage=storage_sql_agent,
+    show_tool_calls=True,
+    reasoning=False,
+    read_chat_history=True,
+    read_tool_call_history=True,
+    system_message_role="system",
+    system_message=transcription_agent_config.get('system_message', None),
+    description=transcription_agent_config.get('description', None),
+    goal=transcription_agent_config.get('goal', None),
+    instructions=transcription_agent_config.get('instructions', None),
+    expected_output=transcription_agent_config.get('expected_output', None),
+    markdown=True,
+    add_name_to_instructions=True,
+    add_datetime_to_instructions=True,
+    timezone_identifier="Australia/Sydney",
+    add_state_in_messages=True,
+    monitoring=True,
+)
 
 #######################################################################
 ###########################     TEAM     ##############################
 #######################################################################
 
 
-master_collection = Weaviate(
-        collection="master_collection",
-        search_type=SearchType.hybrid,
-        distance=Distance.COSINE,
-        vector_index=VectorIndex.HNSW,
-        embedder=embedder,
-        # local=True,
-    )
+# master_collection = Weaviate(
+#         collection="master_collection",
+#         search_type=SearchType.hybrid,
+#         distance=Distance.COSINE,
+#         vector_index=VectorIndex.HNSW,
+#         embedder=embedder,
+#         # local=True,
+#     )
 
-all_knowledge_bases = CombinedKnowledgeBase(
-    sources=[
-        sql_knowledge_base,
-        # transcription_knowledge_bases,
-    ],
-    vector_db=master_collection
-)
+# all_knowledge_bases = CombinedKnowledgeBase(
+#     sources=[
+#         sql_knowledge_base,
+#         # transcription_knowledge_bases,
+#     ],
+#     vector_db=master_collection
+# )
 
 customer_insight_team = Team(
     name="Customer Insight Team",
     mode="coordinate",
     model=azure_model, 
     members=[
-        sql_agent,
-        # transcript_agent,
+        # sql_agent,
+        transcription_agent,
     ],
     show_tool_calls=True,
     markdown=True,
@@ -186,7 +214,7 @@ customer_insight_team = Team(
     add_datetime_to_instructions=True,
     add_member_tools_to_system_message=True,
     add_context=True,
-    knowledge=all_knowledge_bases,
+    # knowledge=all_knowledge_bases,
     enable_agentic_context=True,
     share_member_interactions=True,
     get_member_information_tool=True,
@@ -197,8 +225,8 @@ customer_insight_team = Team(
     storage=storage_cip_team,
 )
 
-app = Playground(agents=[sql_agent], teams=[customer_insight_team]).get_app()
+app = Playground(agents=[transcription_agent], teams=[customer_insight_team]).get_app()
 
 if __name__ == "__main__":
-    serve_playground_app("agno_test:app", host="0.0.0.0", port=7777, reload=True)
+    serve_playground_app("agno_test:app", port=7777, reload=True)
 
