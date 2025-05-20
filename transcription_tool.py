@@ -7,6 +7,7 @@ import uuid
 class TranscriptionSearchTool(Toolkit):
     name = "TranscriptionSearchTool"
     description = "Selects the right index and searches transcription data using Azure AI Search."
+    print(name, description)
 
     def __init__(self, deployment: str, system_prompt: str):
         self.client = openai.AzureOpenAI(
