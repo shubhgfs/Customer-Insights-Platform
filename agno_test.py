@@ -12,8 +12,25 @@ from agno.tools.sql import SQLTools
 from agno.tools.thinking import ThinkingTools
 from agno.vectordb.search import SearchType
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
+from agno.team.team import Team
+from agno.vectordb.chroma import ChromaDb
+from agno.embedder.azure_openai import AzureOpenAIEmbedder
+from agno.knowledge.text import TextKnowledgeBase
+from agno.document import Document
+from agno.document.reader.text_reader import TextReader
+import weaviate
+from weaviate_agents.query import QueryAgent
 
-storage = SqliteStorage(
+load_dotenv()
+
+embedder = AzureOpenAIEmbedder(
+    api_key=os.getenv("AZURE_EMBEDDER_OPENAI_API_KEY"),  # or set your key directly for testing
+    api_version="2024-12-01-preview",
+    azure_endpoint=os.getenv("AZURE_EMBEDDER_OPENAI_ENDPOINT"),
+    azure_deployment="text-embedding-3-large"
+)
+
+storage_sql_agent = SqliteStorage(
     table_name="tblMaster_CIP",
     db_file="tmp_usr.db",
 )
