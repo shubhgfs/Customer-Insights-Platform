@@ -21,6 +21,8 @@ from agno.embedder.azure_openai import AzureOpenAIEmbedder
 from agno.knowledge.text import TextKnowledgeBase
 from agno.document import Document
 from agno.document.reader.text_reader import TextReader
+import weaviate
+from weaviate_agents.query import QueryAgent
 
 load_dotenv()
 
@@ -70,16 +72,18 @@ azure_model = AzureOpenAI(
 ####################     SQL AGENT     ################################
 #######################################################################
 
-sql_knowledge_base = JSONKnowledgeBase(
-    path = r"knowledge",
-    vector_db=Weaviate(
-    collection="master",
+sql_collection = Weaviate(
+    collection="sql_collection",
     search_type=SearchType.hybrid,
     distance=Distance.COSINE,
     vector_index=VectorIndex.HNSW,
     local=True,
     embedder=embedder,
     )
+
+sql_knowledge_base = JSONKnowledgeBase(
+    path = r"knowledge",
+    vector_db=sql_collection
 )
 
 sql_knowledge_tool = KnowledgeTools(
@@ -148,6 +152,7 @@ def create_knowledge_base(base_path, collection):
         distance=Distance.COSINE,
         vector_index=VectorIndex.HNSW,
         embedder=embedder,
+        local=True,
     )
     
     knowledge_base = TextKnowledgeBase(
@@ -190,33 +195,35 @@ def create_knowledge_base(base_path, collection):
     return knowledge_base
 
 all_kb = [
-    [r'call transcriptions/ASIA/Life/No Sale', "asia_life_no_sale"],
-    [r'call transcriptions/ASIA/Life/Sale', "asia_life_sale"],
-    [r'call transcriptions/OneChoice/Life/Sale', "onechoice_life_sale"],
-    [r'call transcriptions/OneChoice/Life/No Sale', "onechoice_life_no_sale"],
-    [r'call transcriptions/OneChoice/Income Protection/Sale', "onechoice_income_protection_sale"],
+    # [r'call transcriptions/ASIA/Life/No Sale', "asia_life_no_sale"],
+    # [r'call transcriptions/ASIA/Life/Sale', "asia_life_sale"],
+    # [r'call transcriptions/OneChoice/Life/Sale', "onechoice_life_sale"],
+    # [r'call transcriptions/OneChoice/Life/No Sale', "onechoice_life_no_sale"],
+    # [r'call transcriptions/OneChoice/Income Protection/Sale', "onechoice_income_protection_sale"],
     [r'call transcriptions/OneChoice/Income Protection/No Sale', "onechoice_income_protection_no_sale"],
-    [r'call transcriptions/Real/Life/Sale', "real_life_sale"],
-    [r'call transcriptions/Real/Life/No Sale', "real_life_no_sale"],
-    [r'call transcriptions/Real/Funeral/Sale', "real_funeral_sale"],
-    [r'call transcriptions/Real/Funeral/No Sale', "real_funeral_no_sale"],
-    [r'call transcriptions/Real/Income Protection/Sale', "real_income_protection_sale"],
-    [r'call transcriptions/Real/Income Protection/No Sale', "real_income_protection_no_sale"],
+    # [r'call transcriptions/Real/Life/Sale', "real_life_sale"],
+    # [r'call transcriptions/Real/Life/No Sale', "real_life_no_sale"],
+    # [r'call transcriptions/Real/Funeral/Sale', "real_funeral_sale"],
+    # [r'call transcriptions/Real/Funeral/No Sale', "real_funeral_no_sale"],
+    # [r'call transcriptions/Real/Income Protection/Sale', "real_income_protection_sale"],
+    # [r'call transcriptions/Real/Income Protection/No Sale', "real_income_protection_no_sale"],
 ]
+
+transcription_collection = Weaviate(
+        collection="transcription_collection",
+        search_type=SearchType.hybrid,
+        distance=Distance.COSINE,
+        vector_index=VectorIndex.HNSW,
+        embedder=embedder,
+        local=True,
+    )
 
 transcription_knowledge_bases = CombinedKnowledgeBase(
     sources = [
         create_knowledge_base(path, collection)
         for path, collection in all_kb
     ],
-    vector_db=Weaviate(
-        collection="transcription master",
-        search_type=SearchType.hybrid,
-        distance=Distance.COSINE,
-        vector_index=VectorIndex.HNSW,
-        embedder=embedder,
-        # local=True,
-    )
+    vector_db=transcription_collection
 )
 
 transcription_knowledge_tool = KnowledgeTools(
@@ -229,12 +236,43 @@ transcription_knowledge_tool = KnowledgeTools(
     add_few_shot=True,
 )
 
+# def query_agent_request(query: str) -> str:
+#     weaviate_client = weaviate.connect_to_local(
+#         headers = {
+#             "X-OpenAI-Api-Key": os.getenv("AZURE_OPENAI_API_KEY_AQMAGENTICOS")
+#         },
+#     )
+
+#     query_agent = QueryAgent(
+#         client=weaviate_client,
+#         collections=[
+#             "asia_life_no_sale",
+#             "asia_life_sale",
+#             "onechoice_life_sale",
+#             "onechoice_life_no_sale",
+#             "onechoice_income_protection_sale",
+#             "onechoice_income_protection_no_sale",
+#             "real_life_sale",
+#             "real_life_no_sale",
+#             "real_funeral_sale",
+#             "real_funeral_no_sale",
+#             "real_income_protection_sale",
+#             "real_income_protection_no_sale",
+#             "master",
+#             "combined master",
+#             "transcription master",
+#         ]
+#     )
+#     return query_agent.run(query).final_answer
+
 transcript_agent = Agent(
     name="Transcript Reasoning Agent",
     model=azure_model,
     tools=[
         transcription_knowledge_tool,
+        ReasoningTools(add_instructions=True),
         ThinkingTools(add_instructions=True),
+        # query_agent_request
     ],
     knowledge=transcription_knowledge_bases,
     search_knowledge=True,
@@ -269,23 +307,26 @@ transcript_agent = Agent(
 #######################################################################
 
 
+master_collection = Weaviate(
+        collection="master_collection",
+        search_type=SearchType.hybrid,
+        distance=Distance.COSINE,
+        vector_index=VectorIndex.HNSW,
+        embedder=embedder,
+        # local=True,
+    )
+
 all_knowledge_bases = CombinedKnowledgeBase(
     sources=[
         sql_knowledge_base,
         transcription_knowledge_bases,
     ],
-    vector_db=Weaviate(
-        collection="combined master",
-        search_type=SearchType.hybrid,
-        distance=Distance.COSINE,
-        vector_index=VectorIndex.HNSW,
-        embedder=embedder,
-    )
+    vector_db=master_collection
 )
 
 customer_insight_team = Team(
     name="Customer Insight Team",
-    mode="collaborate",
+    mode="coordinate",
     model=azure_model, 
     members=[
         sql_agent,
@@ -315,6 +356,14 @@ customer_insight_team = Team(
 
 app = Playground(agents=[sql_agent,transcript_agent], teams=[customer_insight_team]).get_app()
 
+print(f'{transcription_collection.exists()}, {transcription_knowledge_bases.exists()}')
+# if not transcription_collection.exists():
+#     transcription_collection.create()
+print(f'{transcription_collection.exists()}, {transcription_knowledge_bases.exists()}')
+print(f'{sql_collection.exists()}, {sql_knowledge_base.exists()}')
+print(f'{master_collection.exists()}, {all_knowledge_bases.exists()}')
+
+# print(transcription_collection.hybrid_search("customer sentiments for onechoice income protection no sale"))
 
 if __name__ == "__main__":
     serve_playground_app("agno_test:app", host="0.0.0.0", port=7777, reload=True)
