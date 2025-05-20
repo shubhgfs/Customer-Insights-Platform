@@ -16,13 +16,12 @@ from agno.vectordb.search import SearchType
 from agno.knowledge.combined import CombinedKnowledgeBase
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.team.team import Team
-from agno.vectordb.chroma import ChromaDb
 from agno.embedder.azure_openai import AzureOpenAIEmbedder
 from agno.knowledge.text import TextKnowledgeBase
 from agno.document import Document
 from agno.document.reader.text_reader import TextReader
 import weaviate
-from weaviate_agents.query import QueryAgent
+# from weaviate_agents.query import QueryAgent
 
 load_dotenv()
 
