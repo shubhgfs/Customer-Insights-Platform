@@ -218,6 +218,11 @@ transcription_collection = Weaviate(
         local=True,
     )
 
+transcription_collection.get_client()
+
+if not transcription_collection.exists():
+    transcription_collection.create()
+
 transcription_knowledge_bases = CombinedKnowledgeBase(
     sources = [
         create_knowledge_base(path, collection)
@@ -357,8 +362,6 @@ customer_insight_team = Team(
 app = Playground(agents=[sql_agent,transcript_agent], teams=[customer_insight_team]).get_app()
 
 print(f'{transcription_collection.exists()}, {transcription_knowledge_bases.exists()}')
-# if not transcription_collection.exists():
-#     transcription_collection.create()
 print(f'{transcription_collection.exists()}, {transcription_knowledge_bases.exists()}')
 print(f'{sql_collection.exists()}, {sql_knowledge_base.exists()}')
 print(f'{master_collection.exists()}, {all_knowledge_bases.exists()}')
