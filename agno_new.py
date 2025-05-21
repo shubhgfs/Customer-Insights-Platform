@@ -73,33 +73,6 @@ client = openai.AzureOpenAI(
 ####################     SQL AGENT     ################################
 #######################################################################
 
-# sql_collection = Weaviate(
-#     collection="sql_collection",
-#     search_type=SearchType.hybrid,
-#     distance=Distance.COSINE,
-#     vector_index=VectorIndex.HNSW,
-#     )
-
-# sql_knowledge_base = JSONKnowledgeBase(
-#     path = r"knowledge",
-#     vector_db=Weaviate(
-#     collection="master",
-#     search_type=SearchType.hybrid,
-#     distance=Distance.COSINE,
-#     vector_index=VectorIndex.HNSW,
-#     )
-# )
-
-# sql_knowledge_tool = KnowledgeTools(
-#         knowledge=sql_knowledge_base,
-#         think=True,
-#         search=True,
-#         analyze=True,
-#         instructions=sql_agent_config.get('instructions', None),
-#         add_instructions=True,
-#         add_few_shot=True,
-# )
-
 sql_thinking_tool = ThinkingTools(
     think=True,
     instructions=sql_agent_config.get('instructions', None),
@@ -143,180 +116,19 @@ sql_agent = Agent(
     monitoring=True,
 )
 
-
-def select_index(query: str) -> str:
-    """
-    Use an LLM to choose the correct index name from a predefined list.
-    Returns a strictly valid index name or refuses if not possible.
-    """
-
-    # Valid index choices
-    valid_indexes = [
-        "asia-life-nosale",
-        "asia-life-sale",
-        "onechoice-incomeprotection-nosale",
-        "onechoice-incomeprotection-sale",
-        "onechoice-life-nosale",
-        "onechoice-life-sale",
-        "real-funeral-nosale",
-        "real-funeral-sale",
-        "real-incomeprotection-nosale",
-        "real-incomeprotection-sale",
-        "real-life-nosale",
-        "real-life-sale",
-    ]
-
-    # System prompt with deep context
-    system_prompt = """
-You are an expert assistant tasked with selecting the most appropriate index name from a predefined list.
-
-Each index name is a combination of:
-1. **Brand**: 'asia', 'onechoice', or 'real'
-2. **Product**: 'life', 'incomeprotection', or 'funeral'
-3. **Sale status**: 'sale' or 'nosale'
-
-The format is: `<brand>-<product>-<sale_status>`, all lowercase.
-
-The user query may mention any combination of brand, product, or sale intent. Based on this, select the best matching index name from the provided enum list. Only return a valid match if it exactly maps to one of the 12 allowed index names.
-
-If no clear match exists, **do not select anything**.
-
-Examples:
-- "What happened in Real Life Sale calls?" → real-life-sale
-- "Insights from OneChoice income protection where no sale happened" → onechoice-incomeprotection-nosale
-- "Funeral insurance no-sale data for Real brand" → real-funeral-nosale
-
-**Do not guess.** If the brand or product is missing, ambiguous, or mismatched, return nothing.
-"""
-
-    # Define function schema with enums
-    functions = [
-        {
-            "name": "choose_index",
-            "description": "Return the most relevant index name from the 12 allowed options based on the user query.",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "index_name": {
-                        "type": "string",
-                        "enum": valid_indexes,
-                        "description": "The selected index name from the allowed list."
-                    }
-                },
-                "required": ["index_name"]
-            }
-        }
-    ]
-
-    # LLM call with system context
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": f"Query: {query}"}
-    ]
-
-    response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS"),
-        messages=messages,
-        functions=functions,
-        function_call={"name": "choose_index"},
-    )
-
-    # Extract and validate response
-    function_args = response.choices[0].message.function_call.arguments
-
-    try:
-        index_name = json.loads(function_args)["index_name"]
-        if index_name in valid_indexes:
-            return index_name
-        else:
-            return ""  # fallback safety
-    except (KeyError, json.JSONDecodeError):
-        return ""
-
-
-@tool(
-    name="search_transcriptions",
-    description="Run a search query against the transcription data to find factual insights from call recordings. Results are grounded in retrieved citations only.",
-    show_result=True,
-)
-def search_transcriptions(query: str) -> str:
-    """
-    This tool searches call transcription data stored in Azure AI Search vector indexes.
-    It:
-    1. Selects the appropriate index using brand-product-sale classification.
-    2. Uses the query to retrieve relevant transcript chunks (citations).
-    3. Extracts grounded insights such as customer intent, agent behavior, call outcome, and sentiments.
-    4. Returns a factual summary based ONLY on the retrieved citations.
-    """
-    
-    selected_index = select_index(query)
-    
-    if not selected_index:
-        return "No valid index could be determined for the query. Please try rephrasing or check brand/product/sale intent."
-
-    # System message to tightly control LLM behavior
-    system_prompt = """
-You are a Transcription Intelligence Agent built to analyze and summarize insights from customer-sales agent call transcriptions stored in vector indexes (Azure AI Search).
-
-Your task:
-1. Use the user’s query and retrieved transcript citations to determine the purpose and outcome of the call.
-2. Summarize:
-   - The customer's **intent or sentiment**
-   - The agent's **response or persuasion**
-   - The **outcome** (sale/no sale, confusion, objections, interest, etc.)
-3. Cite only factual information that is present in the retrieved transcript snippets.
-4. Do NOT make up or assume anything that is not in the retrieved citations.
-5. If no meaningful insight is found, state that clearly.
-
-Be concise but insightful. Your summary must reflect what the actual conversation shows.
-"""
-
-    print('System Prompt:', system_prompt)
-    print('Query:', query)
-    print('Selected Index:', selected_index)
-
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": query}
-    ]
-
-    response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS"),
-        messages=messages,
-        extra_body={
-            "data_sources": [{
-                "type": "azure_search",
-                "parameters": {
-                    "endpoint": os.environ["AZURE_AI_SEARCH_ENDPOINT"],
-                    "index_name": selected_index,
-                    "authentication": {
-                        "type": "api_key",
-                        "key": os.environ["AZURE_AI_SEARCH_API_KEY"],
-                    }
-                }
-            }],
-        }
-    )
-
-    # Extract message + citations
-    answer = response.choices[0].message.content
-    citations = response.choices[0].message.model_extra.get("context", {}).get("citations", [])
-
-    print("Answer:", answer)
-    print("Citations:", citations)
-
-    return answer, citations
-
-
 #######################################################################
 ####################     TRANSCRIPTION AGENT     ######################
 #######################################################################
+
 
 transcription_agent = Agent(
     name="Transcription Agent",
     model=azure_model,
     tools=[
-        search_transcriptions,
+        TranscriptionSearchTool(
+            deployment=os.environ.get("AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS"),
+            system_prompt=transcription_agent_config.get('system_message', None),
+        )
     ],
     context=transcription_agent_config.get('context', None),
     add_context=True,
@@ -351,23 +163,6 @@ transcription_agent = Agent(
 #######################################################################
 
 
-# master_collection = Weaviate(
-#         collection="master_collection",
-#         search_type=SearchType.hybrid,
-#         distance=Distance.COSINE,
-#         vector_index=VectorIndex.HNSW,
-#         embedder=embedder,
-#         # local=True,
-#     )
-
-# all_knowledge_bases = CombinedKnowledgeBase(
-#     sources=[
-#         sql_knowledge_base,
-#         # transcription_knowledge_bases,
-#     ],
-#     vector_db=master_collection
-# )
-
 customer_insight_team = Team(
     name="Customer Insight Team",
     mode="coordinate",
@@ -398,8 +193,8 @@ customer_insight_team = Team(
     storage=storage_cip_team,
 )
 
-app = Playground(agents=[sql_agent, transcription_agent], teams=[customer_insight_team]).get_app()
-
-if __name__ == "__main__":
-    serve_playground_app("agno_new:app", port=7777, reload=True)
-
+aa = customer_insight_team.print_response('List top 3 underwriting reasons for real life', markdown=True, show_full_reasoning=True)
+print(aa)
+print(type(aa))
+print(help(aa))
+print(dir(aa))
