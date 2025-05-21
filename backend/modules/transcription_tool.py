@@ -24,7 +24,6 @@ class TranscriptionSearchTool(Toolkit):
         Returns a strictly valid index name or refuses if not possible.
         """
 
-        # Valid index choices
         valid_indexes = [
             "asia-life-nosale",
             "asia-life-sale",
@@ -40,7 +39,6 @@ class TranscriptionSearchTool(Toolkit):
             "real-life-sale",
         ]
 
-        # System prompt with deep context
         system_prompt = """
     You are an expert assistant tasked with selecting the most appropriate index name from a predefined list.
 
@@ -63,7 +61,6 @@ class TranscriptionSearchTool(Toolkit):
     **Do not guess.** If the brand or product is missing, ambiguous, or mismatched, return nothing.
     """
 
-        # Define function schema with enums
         functions = [
             {
                 "name": "choose_index",
