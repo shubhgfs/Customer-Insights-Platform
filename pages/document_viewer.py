@@ -1,7 +1,7 @@
 import streamlit as st
 import re
 from azure.cosmos import exceptions
-from modules.cosmos_db_connection import get_cosmos_client
+from backend.modules.cosmos_db_connection import get_cosmos_client
 
 container = get_cosmos_client("Customer Insights Platform", "Citations")
 
