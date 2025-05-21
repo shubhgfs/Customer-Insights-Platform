@@ -4,9 +4,9 @@ from agno.tools.sql import SQLTools
 from agno.tools.reasoning import ReasoningTools
 from agno.tools.thinking import ThinkingTools
 from agno.team.team import Team
-from backend.transcription_tool import TranscriptionSearchTool
-from backend.config_loader import load_config
-from backend.constants import *
+from backend.modules.transcription_tool import TranscriptionSearchTool
+from backend.modules.config_loader import load_config
+from backend.modules.constants import *
 from agno.vectordb.search import SearchType
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.knowledge.json import JSONKnowledgeBase
