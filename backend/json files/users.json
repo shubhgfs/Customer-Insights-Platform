@@ -1,0 +1,33 @@
+{
+  "usernames": {
+    "shubhm01": {
+      "email": "shubh.mehta@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Shubh",
+      "last_name": "Mehta",
+      "logged_in": false,
+      "password": "shubh-cip"
+    },
+    "devasu01": {
+      "email": "devashish.upadhyay@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Devashish",
+      "last_name": "Upadhyay",
+      "logged_in": false,
+      "password": "devashish-cip"
+    },
+    "krisht01": {
+      "email": "krishna.tammireddy@greenstone.com.au",
+      "failed_login_attempts": 0,
+      "first_name": "Krishna",
+      "last_name": "Tammireddy",
+      "logged_in": false,
+      "password": "krishna-cip"
+    }
+  },
+  "cookie": {
+    "expiry_days": 30,
+    "key": "8b221ae6-42ec-4761-ad75-3c5d984f22c8",
+    "name": "customer-insights-platform"
+  }
+}
