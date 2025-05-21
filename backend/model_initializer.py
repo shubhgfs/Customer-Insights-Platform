@@ -25,19 +25,19 @@ def init_sql_agent(model):
         search_type=SearchType.hybrid,
         distance=Distance.COSINE,
         vector_index=VectorIndex.HNSW,
-        )
+    )
 
     knowledge_base = JSONKnowledgeBase(
         path = r"knowledge",
         vector_db=vector_db,
     )
 
-    cfg = load_config("sql_agent_config.json")['agent_config']
+    cfg = load_config(r"backend/sql_agent_config.json")['agent_config']
     return Agent(
         name="SQL Analyst Agent",
         model=model,
         tools=[
-            SQLTools(db_url="sqlite:///tblMaster_CIP.db"),
+            SQLTools(db_url="sqlite:///backend/tblMaster_CIP.db"),
             ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
             ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True)
         ],
@@ -68,7 +68,7 @@ def init_sql_agent(model):
 
 
 def init_transcription_agent(model):
-    cfg = load_config("transcription_agent_config.json")['agent_config']
+    cfg = load_config(r"backend/transcription_agent_config.json")['agent_config']
     return Agent(
         name="Transcription Agent",
         model=model,
@@ -101,7 +101,7 @@ def init_transcription_agent(model):
 
 
 def init_team(sql_agent, transcription_agent, model):
-    cfg = load_config("cip_team_config.json")['team_config']
+    cfg = load_config(r"backend/cip_team_config.json")['team_config']
     return Team(
         name="Customer Insight Team",
         model=model,
