@@ -3,46 +3,14 @@ import os
 import openai
 from dotenv import load_dotenv
 from agno.agent import Agent
-from agno.knowledge.json import JSONKnowledgeBase
 from agno.models.azure import AzureOpenAI
-from agno.playground import Playground, serve_playground_app
-from agno.storage.sqlite import SqliteStorage
-from agno.tools.knowledge import KnowledgeTools
 from agno.tools.reasoning import ReasoningTools
 from agno.tools.sql import SQLTools
 from agno.tools.thinking import ThinkingTools
-from agno.vectordb.search import SearchType
-from agno.knowledge.combined import CombinedKnowledgeBase
-from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.team.team import Team
-from agno.embedder.azure_openai import AzureOpenAIEmbedder
-from transcription_tool import TranscriptionSearchTool
-import openai
-from agno.tools import tool
+from backend.transcription_tool import TranscriptionSearchTool
 
 load_dotenv()
-
-# embedder = AzureOpenAIEmbedder(
-#     api_key=os.getenv("AZURE_EMBEDDER_OPENAI_API_KEY"),
-#     api_version="2024-12-01-preview",
-#     azure_endpoint=os.getenv("AZURE_EMBEDDER_OPENAI_ENDPOINT"),
-#     azure_deployment="text-embedding-3-large"
-# )
-
-storage_sql_agent = SqliteStorage(
-    table_name="tblMaster_CIP",
-    db_file="tmp_sql_agent.db",
-)
-
-storage_transcription_agent = SqliteStorage(
-    table_name="tblMaster_CIP",
-    db_file="tmp_transcription_agent.db",
-)
-
-storage_cip_team = SqliteStorage(
-    table_name="tblMaster_CIP",
-    db_file="tmp_cip_team.db",
-)
 
 with open(r'sql_agent_config.json', 'r') as f:
     file = json.load(f)
@@ -97,7 +65,7 @@ sql_agent = Agent(
     search_knowledge=True,
     update_knowledge=True,
     add_references=True,
-    storage=storage_sql_agent,
+    # storage=storage_sql_agent,
     show_tool_calls=True,
     reasoning=False,
     read_chat_history=True,
@@ -139,7 +107,7 @@ transcription_agent = Agent(
     search_knowledge=True,
     update_knowledge=True,
     add_references=True,
-    storage=storage_transcription_agent,
+    # storage=storage_transcription_agent,
     show_tool_calls=True,
     reasoning=False,
     read_chat_history=True,
@@ -190,11 +158,18 @@ customer_insight_team = Team(
     read_team_history=True,
     enable_team_history=True,
     num_history_runs=10,
-    storage=storage_cip_team,
+    # storage=storage_cip_team,
 )
 
-aa = customer_insight_team.print_response('List top 3 underwriting reasons for real life', markdown=True, show_full_reasoning=True)
-print(aa)
-print(type(aa))
-print(help(aa))
-print(dir(aa))
+import asyncio
+
+# Your async handler
+async def get_team_response(team, message):
+    response = await team.arun(message)
+    return response
+
+
+aaa = asyncio.run(get_team_response(customer_insight_team, "What is the customer sentiment in the asia life sale calls?"))
+print(aaa)
+print(type(aaa))
+
