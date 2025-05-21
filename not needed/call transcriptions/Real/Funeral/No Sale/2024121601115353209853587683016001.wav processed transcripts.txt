@@ -1,9 +1,0 @@
-[3 seconds][Agent] : Good afternoon. Real insurance, Joanne speaking. How can I help you today?
-[7 seconds][Customer] : Hi, Joanne, I have an insurance, funeral insurance policy with you and I just need to cancel that one at the moment. Thank you.
-[13 seconds][Agent] : OK, If I can just get you to confirm your name and your date of birth and I can transfer you through to the correct department to organise, get that organised for you. OK, So what I'll do is I'll see if there's an agent available and we can get that organized for you. Just bear with me.
-[21 seconds][Customer] : Yes, Megan Peddler, 25th of the 11th, 73, you're right. Thank you.
-[1 minutes 43 seconds][Agent] : Yeah. Hello. Are you there? Thank you.
-[1 minutes 45 seconds][Customer] : Yes, I am.
-[1 minutes 44 seconds][Agent] : Thank you so much for holding. I've got Neil on the phone. He'll be able to assist you further from from here.
-[1 minutes 50 seconds][Customer] : Thank you.
-[1 minutes 49 seconds][Agent] : Umm, Neil. Megan has confirmed her name, date of birth and policy card. I'll transfer it through now. Thank you so much.

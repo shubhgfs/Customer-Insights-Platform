@@ -1,9 +1,0 @@
-[2 seconds][Agent] : Hello and welcome to Real Insurance. You're speaking with Cameron. How may I help you today?
-[6 seconds][Customer] : Hey Cameron, it's Charmaine Lovell. Is Dominic available to speak to? I'll have to ring him back about the condition to do with my real insurance.
-[17 seconds][Agent] : OK, I I can get, I can assist you in getting a bit of Don. I just need to confirm your identity. I didn't quite catch your name at the start. Sorry. What was your name? Thanks, Edith. And your date of birth.
-[27 seconds][Customer] : Sorry, it is Charmaine Lovell 6649, but I'd like to be called Charmaine.
-[35 seconds][Agent] : Thanks, Charmaine. I'll just see if Tom's available for you one second.
-[39 seconds][Customer] : Thank you.
-[40 seconds][Agent] : You're welcome. Charmaine, are you there? Thanks for your patience. Dom's on the line with us. He's here to look after you. Uh, Dom with Charmaine, we've confirmed her name and date of birth. Have a great day, guys. Thank you.
-[1 minutes 34 seconds][Customer] : Yes, thank you.
-[1 minutes 42 seconds][Agent] : Alright, excellent. Thank you, Cameron.
