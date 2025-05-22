@@ -25,7 +25,7 @@ class MarkdownFormattingTool(Toolkit):
         self.deployment = AZURE_DEPLOYMENT_O3
 
         # self.register(self.list_tools)
-        self.register(self.call)
+        self.register(self.format_markdown)
 
     # def list_tools(self):
     #     tool = self.config["tool"]
@@ -37,10 +37,7 @@ class MarkdownFormattingTool(Toolkit):
     #         )
     #     ]
 
-    def call(self, tool_name, arguments):
-        if tool_name != self.config["tool"]["name"]:
-            raise ValueError("Unknown tool name")
-
+    def format_markdown(self, arguments):
         raw_text = arguments.get("raw_response", "")
 
         completion = self.client.chat.completions.create(
