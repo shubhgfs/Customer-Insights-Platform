@@ -25,6 +25,8 @@ class TranscriptionSearchTool(Toolkit):
     
     def select_index(self, query: str) -> str:
 
+        print('Calling select index tool')
+
         functions = self.config['select_index']['functions']
         system_prompt = self.config['select_index']['system_prompt']
 
@@ -48,6 +50,9 @@ class TranscriptionSearchTool(Toolkit):
         return index_name
 
     def search_transcriptions(self, query: str) -> str:
+
+        print('Calling search transcriptions tool')
+
         selected_index = self.select_index(query)
         
         if not selected_index:
