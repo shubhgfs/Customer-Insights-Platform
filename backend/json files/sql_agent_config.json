@@ -253,65 +253,6 @@
         "SumInsured": "Financial metric",
         "TeamName": "Sales hierarchy"
       },  
-      "postcode_classifications": {
-        "NSW": {
-          "ranges": ["1000-1999", "2000-2599", "2619-2899", "2921-2999"],
-          "metro": "2000-2234",
-          "rural_regional": "2250-2899"
-        },
-        "ACT": {
-          "ranges": ["0200-0299", "2600-2618", "2900-2920"],
-          "metro": "2600-2920"
-        },
-        "VIC": {
-          "ranges": ["3000-3999", "8000-8999"],
-          "metro": "3000-3207",
-          "rural_regional": "3208-3999"
-        },
-        "QLD": {
-          "ranges": ["4000-4999", "9000-9999"],
-          "metro": "4000-4207",
-          "rural_regional": "4208-4999"
-        },
-        "SA": {
-          "ranges": ["5000-5799", "5800-5999"],
-          "metro": "5000-5174",
-          "rural_regional": "5175-5799"
-        },
-        "WA": {
-          "ranges": ["6000-6797", "6800-6999"],
-          "metro": "6000-6199",
-          "rural_regional": "6200-6797"
-        },
-        "TAS": {
-          "ranges": ["7000-7799", "7800-7999"],
-          "metro": "7000-7010",
-          "rural_regional": "7011-7799"
-        },
-        "NT": {
-          "ranges": ["0800-0899", "0900-0999"],
-          "metro": "0800-0820",
-          "rural_regional": "0821-0899"
-        },
-        "special_ranges": {
-          "large_volume_receivers": [
-            "1000-1999",
-            "0200-0299",
-            "8000-8999",
-            "9000-9999",
-            "5800-5999",
-            "6800-6999",
-            "7800-7999",
-            "0900-0999"
-          ]
-        },
-        "notes": [
-          "Metropolitan areas typically include capital cities and major urban centers",
-          "Rural/Regional areas are those outside metropolitan zones",
-          "Some postcodes may cover both metropolitan and rural areas",
-          "Large Volume Receivers (LVRs) and PO Boxes have dedicated ranges in each state"
-        ]
-      },
       "custom_features": {
         "tone_calibration": {
           "description": "Adjusts the tone of responses based on user role or intent",
