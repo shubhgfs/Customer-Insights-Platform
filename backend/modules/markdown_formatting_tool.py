@@ -20,9 +20,9 @@ class MarkdownFormattingTool(Toolkit):
         self.client = openai.AzureOpenAI(
             api_key=AZURE_API_KEY_AQMAGENTICOS,
             azure_endpoint=AZURE_ENDPOINT_AQMAGENTICOS,
-            api_version=AZURE_API_VERSION,
+            api_version=AZURE_OPENAI_API_VERSION_AQMAGENTICOS,
         )
-        self.deployment = AZURE_DEPLOYMENT_O3
+        self.deployment = AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS
 
         # self.register(self.list_tools)
         self.register(self.format_markdown)
@@ -42,11 +42,17 @@ class MarkdownFormattingTool(Toolkit):
         print('Calling markdown formatting tool')
         print(f'arguments: {arguments}')
 
+        # If arguments is a dict with 'text', extract it
+        if isinstance(arguments, dict) and 'text' in arguments:
+            user_content = arguments['text']
+        else:
+            user_content = str(arguments)
+
         completion = self.client.chat.completions.create(
             model=self.deployment,
             messages=[
                 {"role": "system", "content": self.config["system_prompt"]},
-                {"role": "user", "content": arguments}
+                {"role": "user", "content": user_content}
             ]
         )
 
