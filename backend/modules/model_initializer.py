@@ -42,6 +42,9 @@ def init_sql_agent(model):
     )
 
     cfg = load_config(r"backend/json files/sql_agent_config.json")['agent_config']
+
+    print('Calling SQL agent')
+
     return Agent(
         name="SQL Analyst Agent",
         model=model,
@@ -79,6 +82,9 @@ def init_sql_agent(model):
 
 def init_transcription_agent(model):
     cfg = load_config(r"backend/json files/transcription_agent_config.json")['agent_config']
+
+    print('Calling Transcription agent')
+
     return Agent(
         name="Transcription Agent",
         model=model,
@@ -113,10 +119,13 @@ def init_transcription_agent(model):
 
 def init_team(sql_agent, transcription_agent, model):
     cfg = load_config(r"backend/json files/cip_team_config.json")['team_config']
+
+    print('Calling Customer Insight Team')
+
     return Team(
         name="Customer Insight Team",
         model=model,
-        mode="coordinate",
+        mode="route",
         members=[sql_agent, transcription_agent],
         tools=[
             MarkdownFormattingTool(),
