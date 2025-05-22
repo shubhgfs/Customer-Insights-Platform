@@ -11,6 +11,14 @@ from agno.vectordb.search import SearchType
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.knowledge.json import JSONKnowledgeBase
 from backend.modules.markdown_formatting_tool import MarkdownFormattingTool
+from agno.vectordb.chroma import ChromaDb
+from agno.embedder.azure_openai import AzureOpenAIEmbedder
+
+
+AZURE_EMBEDDER = AzureOpenAIEmbedder(api_key=AZURE_EMBEDDER_OPENAI_API_KEY,
+                                     azure_endpoint=AZURE_EMBEDDER_OPENAI_ENDPOINT,
+                                     azure_deployment=AZURE_EMBEDDER_DEPLOYMENT,
+                                     api_version=AZURE_EMBEDDER_API_VERSION,)
 
 def init_model():
     return AzureOpenAI(
@@ -21,16 +29,16 @@ def init_model():
     )
 
 def init_sql_agent(model):
-    vector_db = Weaviate(
-        collection="master",
-        search_type=SearchType.hybrid,
-        distance=Distance.COSINE,
-        vector_index=VectorIndex.HNSW,
-    )
+    # vector_db = Weaviate(
+    #     collection="master",
+    #     search_type=SearchType.hybrid,
+    #     distance=Distance.COSINE,
+    #     vector_index=VectorIndex.HNSW,
+    # )
 
     knowledge_base = JSONKnowledgeBase(
-        path = r"knowledge",
-        vector_db=vector_db,
+        path = r"backend/json files/knowledge",
+        vector_db=ChromaDb(collection="master", embedder=AZURE_EMBEDDER),
     )
 
     cfg = load_config(r"backend/json files/sql_agent_config.json")['agent_config']
@@ -38,9 +46,9 @@ def init_sql_agent(model):
         name="SQL Analyst Agent",
         model=model,
         tools=[
-            SQLTools(db_url="sqlite:///backend/tblMaster_CIP.db"),
-            # ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
-            # ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
+            SQLTools(db_url="sqlite:////home/shubh/Documents/Customer Insights Platform/backend/tblMaster_CIP.db"),
+            ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
+            ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
             MarkdownFormattingTool()
         ],
         context=cfg.get("context"),
@@ -110,6 +118,9 @@ def init_team(sql_agent, transcription_agent, model):
         model=model,
         mode="coordinate",
         members=[sql_agent, transcription_agent],
+        tools=[
+            MarkdownFormattingTool(),
+        ],
         context=cfg.get("context"),
         instructions=cfg.get("instructions"),
         description=cfg.get("description"),
