@@ -1,6 +1,16 @@
 import streamlit as st
+import json
 from backend.modules.model_initializer import init_model, init_sql_agent, init_transcription_agent, init_team
 from backend.modules.response_handler import get_team_response
+from backend.modules.save_session_state import save_session_state
+from streamlit_lottie import st_lottie
+
+# Load Lottie animation
+def load_lottie_animation(path):
+    with open(path, "r") as f:
+        return json.load(f)
+
+animation = load_lottie_animation("backend/json files/animation.json")
 
 # Optional: Load authenticator from session state
 authenticator = st.session_state.get("authenticator")
@@ -45,17 +55,26 @@ if prompt := st.chat_input("Ask a question to the team..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.chat_message("user").write(prompt)
 
-    with st.spinner("Thinking..."):
+    # Show thinking animation
+    with st.chat_message("assistant"):
+        placeholder = st.empty()
+        with placeholder.container():
+            st_lottie(animation, height=75, key="thinking", quality="high", width=75)
+            st.markdown("Thinking...")
+
         response = get_team_response(st.session_state.team, prompt)
         assistant_msg = response.content
 
+        placeholder.empty()
+        st.write(assistant_msg)  # Final response within same assistant block
+
     st.session_state.messages.append({"role": "assistant", "content": assistant_msg})
-    st.chat_message("assistant").write(assistant_msg)
 
 # Sidebar options
 st.sidebar.markdown("---")
 if st.sidebar.button("Logout", type="primary"):
     if authenticator:
+        save_session_state()
         authenticator.logout()
     st.session_state.clear()
     st.switch_page("login.py")
