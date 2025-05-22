@@ -139,7 +139,7 @@
         "IsCurrent": ["binary", "INTEGER"]
       },
       "data_source": {
-        "tblMaster_CIP.db": "Master database with all relevant insurance, sales, underwriting, and lifestyle data."
+        "tblMaster_CIP": "Master database with all relevant insurance, sales, underwriting, and lifestyle data."
       },
       "column_descriptions": {
         "DateID": "Date of the record, used for time-based filtering.",
