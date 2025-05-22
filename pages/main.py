@@ -36,9 +36,13 @@ st.title("💬 Customer Insight Chatbot")
 # Initialize backend (run once per session)
 if "team" not in st.session_state:
     model = init_model()
+    print("Model initialized")
     sql_agent = init_sql_agent(model)
+    print("SQL agent initialized")
     transcription_agent = init_transcription_agent(model)
+    print("Transcription agent initialized")
     st.session_state.team = init_team(sql_agent, transcription_agent, model)
+    print("Customer Insight Team initialized and added to session state")
 
 # Message history
 if "messages" not in st.session_state:
