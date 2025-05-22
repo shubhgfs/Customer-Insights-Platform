@@ -47,6 +47,9 @@ class TranscriptionSearchTool(Toolkit):
         function_args = response.choices[0].message.function_call.arguments
 
         index_name = json.loads(function_args)["index_name"]
+
+        print('Returned index name:', index_name)
+
         return index_name
 
     def search_transcriptions(self, query: str) -> str:
