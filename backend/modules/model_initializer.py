@@ -39,8 +39,8 @@ def init_sql_agent(model):
         model=model,
         tools=[
             SQLTools(db_url="sqlite:///backend/tblMaster_CIP.db"),
-            ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
-            ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
+            # ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
+            # ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
             MarkdownFormattingTool()
         ],
         context=cfg.get("context"),
@@ -75,7 +75,8 @@ def init_transcription_agent(model):
         name="Transcription Agent",
         model=model,
         tools=[
-            TranscriptionSearchTool()
+            TranscriptionSearchTool(),
+            MarkdownFormattingTool(),
         ],
         context=cfg.get("context"),
         add_context=True,
