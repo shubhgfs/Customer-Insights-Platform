@@ -4,7 +4,7 @@ import pytz
 import datetime
 import streamlit as st
 from azure.cosmos import exceptions
-from modules.cosmos_db_connection import get_cosmos_client
+from backend.modules.cosmos_db_connection import get_cosmos_client
 
 container = get_cosmos_client("Customer Insights Platform", "Chats")
 
@@ -15,12 +15,16 @@ def get_sydney_time_now():
 
 def save_session_state():
     session_state_dict = dict(st.session_state)
+    print('session_state_dict:', session_state_dict)
+    
+    session_state_dict.pop('team')
+
     if 'authenticator' in session_state_dict:
         authenticator = session_state_dict['authenticator']
         del session_state_dict['authenticator']
         
 
-    session_state_dict["timestamp"] = str(get_sydney_time_now())
+    session_state_dict["updated_at"] = str(get_sydney_time_now())
 
     chat_id = st.session_state.get('selected_chat_id', str(uuid.uuid4()))
     session_state_dict["chat_id"] = chat_id

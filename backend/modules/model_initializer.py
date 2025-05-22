@@ -10,6 +10,7 @@ from backend.modules.constants import *
 from agno.vectordb.search import SearchType
 from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.knowledge.json import JSONKnowledgeBase
+from backend.modules.markdown_formatting_tool import MarkdownFormattingTool
 
 def init_model():
     return AzureOpenAI(
@@ -39,7 +40,8 @@ def init_sql_agent(model):
         tools=[
             SQLTools(db_url="sqlite:///backend/tblMaster_CIP.db"),
             ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
-            ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True)
+            ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
+            MarkdownFormattingTool()
         ],
         context=cfg.get("context"),
         add_context=True,
