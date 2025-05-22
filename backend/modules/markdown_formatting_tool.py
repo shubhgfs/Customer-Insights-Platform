@@ -38,15 +38,16 @@ class MarkdownFormattingTool(Toolkit):
     #     ]
 
     def format_markdown(self, arguments):
-        raw_text = arguments.get("raw_response", "")
+
+        print('Calling markdown formatting tool')
+        print(f'arguments: {arguments}')
 
         completion = self.client.chat.completions.create(
             model=self.deployment,
             messages=[
                 {"role": "system", "content": self.config["system_prompt"]},
-                {"role": "user", "content": raw_text}
-            ],
-            temperature=0.4,
+                {"role": "user", "content": arguments}
+            ]
         )
 
         return completion.choices[0].message.content
