@@ -1,9 +1,14 @@
 import streamlit as st
 import json
-from backend.modules.model_initializer import init_model, init_sql_agent, init_transcription_agent, init_team
+from streamlit_lottie import st_lottie
+from backend.modules.model_initializer import (
+    init_model,
+    init_sql_agent,
+    init_transcription_agent,
+    init_team
+)
 from backend.modules.response_handler import get_team_response
 from backend.modules.save_session_state import save_session_state
-from streamlit_lottie import st_lottie
 
 # Load Lottie animation
 def load_lottie_animation(path):
@@ -30,7 +35,6 @@ elif st.session_state["authentication_status"] is None:
     st.stop()
 
 # ---------- Main Chatbot App ----------
-
 st.title("💬 Customer Insight Chatbot")
 
 # Initialize backend (run once per session)
@@ -46,9 +50,10 @@ if "team" not in st.session_state:
 
 # Message history
 if "messages" not in st.session_state:
-    st.session_state.messages = [
-        {"role": "assistant", "content": "Hi there! How can I help you gain insights from customer interactions today?"}
-    ]
+    st.session_state.messages = [{
+        "role": "assistant",
+        "content": "Hi there! How can I help you gain insights from customer interactions today?"
+    }]
 
 # Render message history
 for msg in st.session_state.messages:
@@ -59,7 +64,6 @@ if prompt := st.chat_input("Ask a question to the team..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.chat_message("user").write(prompt)
 
-    # Show thinking animation
     with st.chat_message("assistant"):
         placeholder = st.empty()
         with placeholder.container():
@@ -67,15 +71,28 @@ if prompt := st.chat_input("Ask a question to the team..."):
             st.markdown("Thinking...")
 
         response = get_team_response(st.session_state.team, prompt)
-        assistant_msg = response.get("content", "Sorry, I couldn't find an answer to your question. Server is currently down.")
+        assistant_msg = response.get(
+            "content",
+            "Sorry, I couldn't find an answer to your question. Server is currently down."
+        )
         placeholder.empty()
         st.write(assistant_msg)
 
-    st.session_state.messages.append({"role": "assistant", "content": assistant_msg, "ai_full_response": response})
+    st.session_state.messages.append({
+        "role": "assistant",
+        "content": assistant_msg,
+        "ai_full_response": response
+    })
     save_session_state()
 
-# Sidebar options
+# ---------- Sidebar ----------
 st.sidebar.markdown("---")
+st.sidebar.info("SQL Agent Disclaimer: The data in the SQL is from January 2022 till May 2025.")
+st.sidebar.info("Transcription Agent Disclaimer: The data in the transcription is from October 2024 till March 2025.")
+st.sidebar.warning("🤖 Trust AI, but verify!")
+
+st.sidebar.markdown("---")
+
 if st.sidebar.button("Logout", type="primary"):
     if authenticator:
         save_session_state()
