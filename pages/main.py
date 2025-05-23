@@ -63,7 +63,7 @@ if prompt := st.chat_input("Ask a question to the team..."):
     with st.chat_message("assistant"):
         placeholder = st.empty()
         with placeholder.container():
-            st_lottie(animation, height=75, key="thinking", quality="high", width=75)
+            st_lottie(animation, height=100, key="thinking", quality="high", width=100)
             st.markdown("Thinking...")
 
         response = get_team_response(st.session_state.team, prompt)
