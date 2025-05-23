@@ -19,4 +19,4 @@ RUN pip install --upgrade pip \
 EXPOSE 8501
 
 # Change this line to match your actual main script
-CMD ["python", "app.py"]
+CMD ["python", "login.py"]
