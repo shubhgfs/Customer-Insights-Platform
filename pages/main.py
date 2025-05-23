@@ -93,6 +93,11 @@ st.sidebar.warning("🤖 Trust AI, but verify!")
 
 st.sidebar.markdown("---")
 
+if st.sidebar.button("FAQ ❓"):
+    st.switch_page("pages/help.py")
+
+st.sidebar.markdown("---")
+
 if st.sidebar.button("Logout", type="primary"):
     if authenticator:
         save_session_state()
