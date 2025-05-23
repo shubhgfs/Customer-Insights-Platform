@@ -8,3 +8,4 @@
 *.db
 /call transcriptions/*.txt
 /call transcriptions/*.pdf
+*.docx
