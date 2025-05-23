@@ -1,8 +1,13 @@
-import asyncio
-
-async def run_team(team, user_message: str):
-    response = await team.arun(user_message)
-    return response
-
 def get_team_response(team, user_message: str):
-    return asyncio.run(run_team(team, user_message))
+    print("🔍 Received user message:")
+    print(f"👉 {user_message}\n")
+
+    print("🔧 Starting orchestration process...")
+
+    # Hook into Agno’s built-in tool invocation tracking if supported
+    print("🤖 Running message through team...")
+    response = team.run(user_message).to_dict()
+
+    print("\n📦 Final response generated:")
+    print(response)
+    return response

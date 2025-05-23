@@ -4,7 +4,7 @@ import pytz
 import datetime
 import streamlit as st
 from azure.cosmos import exceptions
-from modules.cosmos_db_connection import get_cosmos_client
+from backend.modules.cosmos_db_connection import get_cosmos_client
 
 container = get_cosmos_client("Customer Insights Platform", "Chats")
 
@@ -15,17 +15,16 @@ def get_sydney_time_now():
 
 def save_session_state():
     session_state_dict = dict(st.session_state)
-    if 'authenticator' in session_state_dict:
-        authenticator = session_state_dict['authenticator']
-        del session_state_dict['authenticator']
-        
+    # print('session_state_dict:', session_state_dict)
+    
+    team = session_state_dict.pop('team', None)
+    authenticator = session_state_dict.pop('authenticator', None)
 
-    session_state_dict["timestamp"] = str(get_sydney_time_now())
-
-    chat_id = st.session_state.get('selected_chat_id', str(uuid.uuid4()))
+    session_state_dict["updated_at"] = str(get_sydney_time_now())
+    chat_id = st.session_state["chat_id"]
     session_state_dict["chat_id"] = chat_id
 
-    document_id = st.session_state.get('selected_id', str(uuid.uuid4()))
+    document_id = st.session_state["document_id"]
     session_state_dict["id"] = document_id
 
     partition_key = chat_id
@@ -38,9 +37,12 @@ def save_session_state():
             print(f"Error occurred while trying to delete document: {e.message}")
 
     try:
+        # print('Uploading document to Cosmos DB:', session_state_dict)
         container.upsert_item(session_state_dict, partition_key=partition_key)
+        print('Document uploaded to Cosmos DB successfully')
     except exceptions.CosmosHttpResponseError as e:
         print(f"Error occurred: {e.message}")
-        print("Document being uploaded:", session_state_dict)
-
+    
     st.session_state['authenticator'] = authenticator
+    st.session_state['team'] = team
+
