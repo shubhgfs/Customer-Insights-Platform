@@ -9,6 +9,37 @@ from backend.modules.model_initializer import (
 )
 from backend.modules.response_handler import get_team_response
 from backend.modules.save_session_state import save_session_state
+import time
+import random
+import uuid
+
+# Class A: Initial Thinking Phase
+initial_thinking_messages = [
+    "Thinking...",
+    "Processing your request...",
+    "Reasoning through your input...",
+    "Exploring possibilities...",
+    "Analyzing context...",
+    "Evaluating relevant information...",
+    "Scanning for patterns...",
+    "Absorbing your query...",
+    "Working through the logic...",
+    "Reflecting on your question..."
+]
+
+# Class B: Finalizing Response Phase
+finalizing_response_messages = [
+    "Piecing together the final response...",
+    "Composing your answer...",
+    "Structuring the insight...",
+    "Finalizing thoughts...",
+    "Refining the response...",
+    "Formatting your answer...",
+    "Bringing everything together...",
+    "Wrapping it up...",
+    "Just a moment more...",
+    "Almost ready..."
+]
 
 # Load Lottie animation
 def load_lottie_animation(path):
@@ -33,6 +64,14 @@ elif st.session_state["authentication_status"] is None:
     st.switch_page("login.py")
     st.warning("Please enter your username and password")
     st.stop()
+
+# Ensure a persistent chat ID for the session
+if "chat_id" not in st.session_state:
+    st.session_state["chat_id"] = str(uuid.uuid4())
+
+# Ensure a persistent document ID for the session
+if "document_id" not in st.session_state:
+    st.session_state["document_id"] = str(uuid.uuid4())
 
 # ---------- Main Chatbot App ----------
 st.title("💬 Customer Insight Chatbot")
@@ -67,14 +106,26 @@ if prompt := st.chat_input("Ask a question to the team..."):
     with st.chat_message("assistant"):
         placeholder = st.empty()
         with placeholder.container():
+            starting_message = random.sample(initial_thinking_messages, k=2)
+            ending_message = random.sample(finalizing_response_messages, k=2)
             st_lottie(animation, height=100, key="thinking", quality="high", width=100)
-            st.markdown("Thinking...")
+            msg_placeholder = st.empty()
+            for msg in starting_message:
+                msg_placeholder.markdown(f"**{msg}**")
+                time.sleep(4)
 
         response = get_team_response(st.session_state.team, prompt)
         assistant_msg = response.get(
             "content",
             "Sorry, I couldn't find an answer to your question. Server is currently down."
         )
+
+        msg_placeholder.empty()
+        for msg in ending_message:
+            msg_placeholder.markdown(f"**{msg}**")
+            time.sleep(4)
+            msg_placeholder.empty()
+            
         placeholder.empty()
         st.write(assistant_msg)
 
@@ -85,7 +136,22 @@ if prompt := st.chat_input("Ask a question to the team..."):
     })
     save_session_state()
 
+    # Subtle disclaimer below chat input
+    st.markdown(
+        '<div style="text-align:center; color:#888; font-size:0.85em; margin-top:0.5em;">'
+        'ℹ️ <span style="vertical-align:middle;">Trust AI, but verify!</span>'
+        '</div>',
+        unsafe_allow_html=True
+    )
+
 # ---------- Sidebar ----------
+
+if st.sidebar.button("New Session 🆕", type="primary"):
+    if authenticator:
+        save_session_state()
+    st.session_state.clear()
+    st.rerun()
+
 st.sidebar.markdown("---")
 st.sidebar.info("SQL Agent Disclaimer: The data in the SQL is from January 2022 till May 2025.")
 st.sidebar.info("Transcription Agent Disclaimer: The data in the transcription is from October 2024 till March 2025.")
