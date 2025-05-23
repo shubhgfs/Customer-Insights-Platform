@@ -12,7 +12,10 @@ from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
 from agno.knowledge.json import JSONKnowledgeBase
 from backend.modules.markdown_formatting_tool import MarkdownFormattingTool
 from agno.vectordb.chroma import ChromaDb
+import json
 from agno.embedder.azure_openai import AzureOpenAIEmbedder
+
+
 
 
 AZURE_EMBEDDER = AzureOpenAIEmbedder(api_key=AZURE_EMBEDDER_OPENAI_API_KEY,
@@ -34,12 +37,17 @@ def init_sql_agent(model):
     #     search_type=SearchType.hybrid,
     #     distance=Distance.COSINE,
     #     vector_index=VectorIndex.HNSW,
+    #     local=True
     # )
 
-    knowledge_base = JSONKnowledgeBase(
-        path = r"backend/json files/knowledge",
-        vector_db=ChromaDb(collection="master", embedder=AZURE_EMBEDDER),
-    )
+    # knowledge_base = JSONKnowledgeBase(
+    #     path = r"/home/shubh/Documents/Customer Insights Platform/backend/json files/knowledge",
+    #     # vector_db=ChromaDb(collection="master", embedder=AZURE_EMBEDDER),
+    #     vector_db=vector_db,
+    #     embedder=AZURE_EMBEDDER,
+    # )
+
+    # knowledge_base.load(recreate=True)
 
     cfg = load_config(r"backend/json files/sql_agent_config.json")['agent_config']
 
@@ -49,17 +57,16 @@ def init_sql_agent(model):
         name="SQL Analyst Agent",
         model=model,
         tools=[
-            SQLTools(db_url="sqlite:////home/shubh/Documents/Customer Insights Platform/backend/tblMaster_CIP.db"),
+            SQLTools(db_url="sqlite:///backend/modules/tblMaster_CIP.db"),
             ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
             ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
-            MarkdownFormattingTool()
         ],
         context=cfg.get("context"),
         add_context=True,
         resolve_context=True,
         add_history_to_messages=True,
         num_history_runs=10,
-        knowledge=knowledge_base,
+        # knowledge=knowledge_base,
         search_knowledge=True,
         update_knowledge=True,
         add_references=True,
@@ -90,7 +97,6 @@ def init_transcription_agent(model):
         model=model,
         tools=[
             TranscriptionSearchTool(),
-            MarkdownFormattingTool(),
         ],
         context=cfg.get("context"),
         add_context=True,
