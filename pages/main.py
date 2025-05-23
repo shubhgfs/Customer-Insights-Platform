@@ -67,12 +67,12 @@ if prompt := st.chat_input("Ask a question to the team..."):
             st.markdown("Thinking...")
 
         response = get_team_response(st.session_state.team, prompt)
-        assistant_msg = response.content
-
+        assistant_msg = response.get("content", "Sorry, I couldn't find an answer to your question. Server is currently down.")
         placeholder.empty()
-        st.write(assistant_msg)  # Final response within same assistant block
+        st.write(assistant_msg)
 
-    st.session_state.messages.append({"role": "assistant", "content": assistant_msg})
+    st.session_state.messages.append({"role": "assistant", "content": assistant_msg, "ai_full_response": response})
+    save_session_state()
 
 # Sidebar options
 st.sidebar.markdown("---")

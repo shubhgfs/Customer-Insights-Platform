@@ -15,7 +15,7 @@ def get_sydney_time_now():
 
 def save_session_state():
     session_state_dict = dict(st.session_state)
-    print('session_state_dict:', session_state_dict)
+    # print('session_state_dict:', session_state_dict)
     
     session_state_dict.pop('team')
 
@@ -42,6 +42,7 @@ def save_session_state():
             print(f"Error occurred while trying to delete document: {e.message}")
 
     try:
+        print('Uploading document to Cosmos DB:', session_state_dict)
         container.upsert_item(session_state_dict, partition_key=partition_key)
     except exceptions.CosmosHttpResponseError as e:
         print(f"Error occurred: {e.message}")

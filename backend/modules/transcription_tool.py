@@ -91,8 +91,8 @@ class TranscriptionSearchTool(Toolkit):
         answer = response.choices[0].message.content
         transcriptions = response.choices[0].message.model_extra.get("context", {}).get("citations", [])
 
-        print("Answer:", answer)
-        print("Transcriptions:", transcriptions)
+        # print("Answer:", answer)
+        # print("Transcriptions:", transcriptions)
 
         return {
             "answer": answer,

@@ -40,7 +40,7 @@ class MarkdownFormattingTool(Toolkit):
     def format_markdown(self, arguments):
 
         print('Calling markdown formatting tool')
-        print('System prompt:', self.system_prompt)
+        # print('System prompt:', self.system_prompt)
         print(f'arguments: {arguments}')
 
         # If arguments is a dict with 'text', extract it
