@@ -7,11 +7,11 @@ from agno.team.team import Team
 from backend.modules.transcription_tool import TranscriptionSearchTool
 from backend.modules.config_loader import load_config
 from backend.modules.constants import *
-from agno.vectordb.search import SearchType
-from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
-from agno.knowledge.json import JSONKnowledgeBase
+# from agno.vectordb.search import SearchType
+# from agno.vectordb.weaviate import Distance, VectorIndex, Weaviate
+# from agno.knowledge.json import JSONKnowledgeBase
 from backend.modules.markdown_formatting_tool import MarkdownFormattingTool
-from agno.vectordb.chroma import ChromaDb
+# from agno.vectordb.chroma import ChromaDb
 import json
 from agno.embedder.azure_openai import AzureOpenAIEmbedder
 

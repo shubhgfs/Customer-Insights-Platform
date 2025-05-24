@@ -15,8 +15,8 @@ COPY . /app
 RUN pip install --upgrade pip \
     && pip install -r requirements.txt
 
-# Expose the default port for Streamlit (if used) or Flask
+# Expose the default port for Streamlit
 EXPOSE 8501
 
-# Change this line to match your actual main script
-CMD ["python", "login.py"]
+# Run the app using Streamlit
+CMD ["streamlit", "run", "login.py", "--server.port=8501", "--server.address=0.0.0.0"]

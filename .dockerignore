@@ -3,9 +3,10 @@
 .docx
 .pdf
 .sqlw
-.md
+.sql
 .cip-venv
 .__pycache__
 *.pyc
 *.pyo
 *.pyd
+*table understanding
