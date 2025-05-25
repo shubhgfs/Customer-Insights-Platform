@@ -112,7 +112,7 @@ if prompt := st.chat_input("Ask a question to the team..."):
             msg_placeholder = st.empty()
             for msg in starting_message:
                 msg_placeholder.markdown(f"**{msg}**")
-                time.sleep(4)
+                time.sleep(3)
 
         response = get_team_response(st.session_state.team, prompt)
         assistant_msg = response.get(
@@ -123,7 +123,7 @@ if prompt := st.chat_input("Ask a question to the team..."):
         msg_placeholder.empty()
         for msg in ending_message:
             msg_placeholder.markdown(f"**{msg}**")
-            time.sleep(4)
+            time.sleep(3)
             msg_placeholder.empty()
             
         placeholder.empty()

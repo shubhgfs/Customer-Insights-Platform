@@ -24,6 +24,9 @@ AZURE_EMBEDDER = AzureOpenAIEmbedder(api_key=AZURE_EMBEDDER_OPENAI_API_KEY,
                                      api_version=AZURE_EMBEDDER_API_VERSION,)
 
 def init_model():
+
+    print('Calling Azure OpenAI model')
+
     return AzureOpenAI(
         api_key=AZURE_API_KEY_AQMAGENTICOS,
         azure_endpoint=AZURE_ENDPOINT_AQMAGENTICOS,
@@ -57,7 +60,7 @@ def init_sql_agent(model):
         name="SQL Analyst Agent",
         model=model,
         tools=[
-            SQLTools(db_url="sqlite:///backend/modules/tblMaster_CIP.db"),
+            SQLTools(db_url="sqlite:///backend/tblMaster_CIP.db"),
             ReasoningTools(instructions=cfg.get("instructions"), add_instructions=True),
             ThinkingTools(think=True, instructions=cfg.get("instructions"), add_instructions=True),
         ],

@@ -54,6 +54,7 @@ elif st.session_state['authentication_status']:
         'role': st.session_state['roles']
     }
     st.session_state['authenticator'] = authenticator
+    print(f'{st.session_state["user"]["name"]} logged in and going to main.py.')
     st.switch_page("pages/main.py")
 elif st.session_state['authentication_status'] == None:
     if 'customer-insights-platform' in st.session_state['init']:
