@@ -44,6 +44,7 @@ finalizing_response_messages = [
 first_name = st.session_state['user']['name'].split()[0] if 'user' in st.session_state else "User"
 
 # Load Lottie animation
+@st.cache_data
 def load_lottie_animation(path):
     with open(path, "r") as f:
         return json.load(f)
@@ -129,7 +130,7 @@ if prompt := st.chat_input("Ask a question to the team..."):
             msg_placeholder.empty()
             
         placeholder.empty()
-        st.write(assistant_msg)
+        st.write_stream(assistant_msg)
 
     st.session_state.messages.append({
         "role": "assistant",
@@ -147,8 +148,25 @@ if prompt := st.chat_input("Ask a question to the team..."):
     )
 
 # ---------- Sidebar ----------
+# Apply custom CSS to the "New Session" button using its unique key
+st.markdown("""
+    <style>
+    .stButton > button[data-testid="stButton-new_session"] {
+        background-color: #008CBA;  /* Custom blue color */
+        color: white;
+        border-radius: 8px;
+        font-weight: bold;
+        padding: 0.5em 1em;
+        transition: background-color 0.3s ease;
+    }
+    .stButton > button[data-testid="stButton-new_session"]:hover {
+        background-color: #005f7f;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
-if st.sidebar.button("New Session 🆕", type="primary"):
+# Create the "New Session" button in the sidebar with a unique key
+if st.sidebar.button("New Session 🆕", key="new_session"):
     if authenticator:
         save_session_state()
     st.session_state.clear()
