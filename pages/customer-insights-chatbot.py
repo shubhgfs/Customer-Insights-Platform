@@ -131,23 +131,10 @@ if prompt := st.chat_input("Ask a question to the team..."):
         placeholder.empty()
         st.write(assistant_msg)
 
-        # Feedback buttons after assistant response
-        feedback_key = f"feedback_{len(st.session_state.messages)}"
-        col1, col2 = st.columns([1,1])
-        with col1:
-            if st.button('👍', key=feedback_key+"_up"):
-                st.session_state[f"{feedback_key}_given"] = 'up'
-                st.success("Thank you for your feedback!")
-        with col2:
-            if st.button('👎', key=feedback_key+"_down"):
-                st.session_state[f"{feedback_key}_given"] = 'down'
-                st.info("Thank you for your feedback!")
-
     st.session_state.messages.append({
         "role": "assistant",
         "content": assistant_msg,
         "ai_full_response": response,
-        
     })
     save_session_state()
 

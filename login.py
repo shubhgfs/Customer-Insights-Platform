@@ -54,8 +54,8 @@ elif st.session_state['authentication_status']:
         'role': st.session_state['roles']
     }
     st.session_state['authenticator'] = authenticator
-    print(f'{st.session_state["user"]["name"]} logged in and going to main.py.')
-    st.switch_page("pages/main.py")
+    print(f'{st.session_state["user"]["name"]} logged in and going to customer-insights-chatbot.py.')
+    st.switch_page("pages/customer-insights-chatbot.py")
 elif st.session_state['authentication_status'] == None:
     print(f'{st.session_state} before the init code')
     if 'init' in st.session_state and 'customer-insights-platform' in st.session_state['init']:
