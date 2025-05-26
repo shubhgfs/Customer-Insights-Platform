@@ -144,7 +144,12 @@ if prompt := st.chat_input("Ask a question to the team..."):
 
 # ---------- Sidebar ----------
 
+st.logo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfl7WV2_kaIWDL1Td55G6-FXOeoyLJHLUnDg&s", size="large")
+
+st.sidebar.markdown("---")
+
 st.sidebar.title(f"Welcome, {st.session_state['user']['name']}! 👋")
+
 st.sidebar.markdown("---")
 
 # Create the "New Session" button in the sidebar with a unique key
@@ -154,15 +159,14 @@ if st.sidebar.button("New Session 🆕", help='Start a new session.'):
     st.session_state.clear()
     st.rerun()
 
+if st.sidebar.button("FAQ ❓", help='Frequently Asked Questions'):
+    st.switch_page("pages/help.py")
+
 st.sidebar.markdown("---")
+
 st.sidebar.info("SQL Agent Disclaimer: The data in the SQL is from January 2022 till May 2025.")
 st.sidebar.info("Transcription Agent Disclaimer: The data in the transcription is from October 2024 till March 2025.")
 st.sidebar.warning("🤖 Trust AI, but verify!")
-
-st.sidebar.markdown("---")
-
-if st.sidebar.button("FAQ ❓", help='Frequently Asked Questions'):
-    st.switch_page("pages/help.py")
 
 st.sidebar.markdown("---")
 
