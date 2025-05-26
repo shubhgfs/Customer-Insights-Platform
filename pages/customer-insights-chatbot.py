@@ -130,7 +130,7 @@ if prompt := st.chat_input("Ask a question to the team..."):
             msg_placeholder.empty()
             
         placeholder.empty()
-        st.write_stream(assistant_msg)
+        st.write(assistant_msg)
 
     st.session_state.messages.append({
         "role": "assistant",
@@ -140,33 +140,15 @@ if prompt := st.chat_input("Ask a question to the team..."):
     save_session_state()
 
     # Subtle disclaimer below chat input
-    st.markdown(
-        '<div style="text-align:center; color:#888; font-size:0.85em; margin-top:0.5em;">'
-        'ℹ️ <span style="vertical-align:middle;">Trust AI, but verify!</span>'
-        '</div>',
-        unsafe_allow_html=True
-    )
+    st.badge("ℹ️ Trust AI, but verify!")
 
 # ---------- Sidebar ----------
-# Apply custom CSS to the "New Session" button using its unique key
-st.markdown("""
-    <style>
-    .stButton > button[data-testid="stButton-new_session"] {
-        background-color: #008CBA;  /* Custom blue color */
-        color: white;
-        border-radius: 8px;
-        font-weight: bold;
-        padding: 0.5em 1em;
-        transition: background-color 0.3s ease;
-    }
-    .stButton > button[data-testid="stButton-new_session"]:hover {
-        background-color: #005f7f;
-    }
-    </style>
-    """, unsafe_allow_html=True)
+
+st.sidebar.title(f"Welcome, {st.session_state['user']['name']}! 👋")
+st.sidebar.markdown("---")
 
 # Create the "New Session" button in the sidebar with a unique key
-if st.sidebar.button("New Session 🆕", key="new_session"):
+if st.sidebar.button("New Session 🆕", help='Start a new session.'):
     if authenticator:
         save_session_state()
     st.session_state.clear()
@@ -179,7 +161,7 @@ st.sidebar.warning("🤖 Trust AI, but verify!")
 
 st.sidebar.markdown("---")
 
-if st.sidebar.button("FAQ ❓"):
+if st.sidebar.button("FAQ ❓", help='Frequently Asked Questions'):
     st.switch_page("pages/help.py")
 
 st.sidebar.markdown("---")
