@@ -57,9 +57,13 @@ elif st.session_state['authentication_status']:
     print(f'{st.session_state["user"]["name"]} logged in and going to main.py.')
     st.switch_page("pages/main.py")
 elif st.session_state['authentication_status'] == None:
-    if 'customer-insights-platform' in st.session_state['init']:
+    print(f'{st.session_state} before the init code')
+    if 'init' in st.session_state and 'customer-insights-platform' in st.session_state['init']:
         authenticator.login(location="main")
         st.rerun()
     else:
+        # Initialize 'init' for first-time users if not present
+        if 'init' not in st.session_state:
+            st.session_state['init'] = {}
         authenticator.login(location="main")
 
