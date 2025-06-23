@@ -263,3 +263,7 @@ select count(distinct clientid) from #final1 where saleflag='Sale' and leaddate 
 
 
 
+evolve.dbo.tblclient
+
+
+[Evolve].[dbo].[tblClientLead] where clientid=3503873

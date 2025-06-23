@@ -859,7 +859,7 @@ AND monthstarting < GETDATE()
 and brandid =1 and producttypeid2=1;
 
 
-select f.*, t.*, c.dob, c.gender, c.isresidentofbrandcountryid, 
+select f.*, t.leads, t.contacts, t.quotes, t.sales, c.dob, c.gender, c.isresidentofbrandcountryid, 
 c.state, s.sourcecategory from #factroileads f
 left join #funnel t on f.clientid=t.clientid
 AND CONVERT(VARCHAR(7), f.dateid, 120) = CONVERT(VARCHAR(7), t.monthstarting, 120)
@@ -867,3 +867,6 @@ left join evolve.dbo.tblclient c on f.clientid=c.clientid
 left join hollarddw.dbo.dimsource s on f.sourceid=s.sourceid
 AND s.brandid=1
 AND s.producttypeid=1
+and c.dtmlastupdated >= DATEADD(MONTH, -12, GETDATE())
+AND c.dtmlastupdated < GETDATE()
+
