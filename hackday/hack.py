@@ -26,6 +26,7 @@ class RecommendSIToolkit(Toolkit):
         self.df_tblProductBenefitRecommendedSIBeta = pd.read_csv(r'tblProductBenefitRecommendedSIBeta.csv')
 
     def recommend_premium(self, input_data):
+        print("Input Data:", input_data)
         """ 
         Recommend premium based on input data criteria.
         
@@ -219,9 +220,10 @@ class RecommendSIToolkit(Toolkit):
 
         # LLM call with system context
         messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"Query: {query}"}
+            {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
+            {"role": "user", "content": [{"type": "text", "text": query}]}
         ]
+
 
         response = self.client.chat.completions.create(
             model=self.deployment,

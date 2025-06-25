@@ -6,20 +6,18 @@ from agno.agent import Agent
 from agno.models.azure import AzureOpenAI
 from dotenv import load_dotenv
 import os
+import json
 
 # Load environment variables
 load_dotenv()
 
-# -----------------------------------------
-# Pydantic input schema
-# -----------------------------------------
 class RecommendSIInput(BaseModel):
     product_code: str
     benefit_code: str
-    gender: int = Field(ge=0, le=2)
-    smoker: int = Field(ge=0, le=2)
-    age: int = Field(ge=0, le=120)
-    premium: float = Field(gt=0)
+    gender: int
+    smoker: int
+    age: int
+    premium: float
     cover_type: int
 
 # -----------------------------------------
@@ -43,7 +41,6 @@ agent = Agent(
     num_history_runs=10,
     search_knowledge=True,
     update_knowledge=True,
-    add_references=True,
     show_tool_calls=True,
     read_chat_history=True,
     read_tool_call_history=True,
@@ -86,8 +83,8 @@ app = FastAPI(
 @app.post("/recommend-si")
 async def recommend_sum_insured(payload: RecommendSIInput):
     try:
-        input_data = payload.dict()
-        result = await agent.run(input_data)
-        return result
+        input_data = payload.model_dump()
+        result = agent.run(str(input_data))
+        return result.content
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
