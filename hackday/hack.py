@@ -21,9 +21,9 @@ class RecommendSIToolkit(Toolkit):
 
         self.register(self.recommend_premium)
         
-        self.df_tblpremium = pd.read_csv(r'hackday/tblpremium.csv')
-        self.df_tblProductBenefitRecommendedSI = pd.read_csv(r'hackday/tblProductBenefitRecommendedSI.csv')
-        self.df_tblProductBenefitRecommendedSIBeta = pd.read_csv(r'hackday/tblProductBenefitRecommendedSIBeta.csv')
+        self.df_tblpremium = pd.read_csv(r'tblpremium.csv')
+        self.df_tblProductBenefitRecommendedSI = pd.read_csv(r'tblProductBenefitRecommendedSI.csv')
+        self.df_tblProductBenefitRecommendedSIBeta = pd.read_csv(r'tblProductBenefitRecommendedSIBeta.csv')
 
     def recommend_premium(self, input_data):
         """ 
@@ -230,15 +230,15 @@ class RecommendSIToolkit(Toolkit):
 
         return response.choices[0].message.content
     
-a = RecommendSIToolkit()
-input_data = {
-    "product_code": "AFP",         # string matches dtype: object
-    "benefit_code": "DTH",         # string matches dtype: object
-    "gender": 0,                   # integer matches dtype: int64
-    "smoker": 0,                   # integer matches dtype: int64
-    "age": 52,                     # integer matches dtype: int64
-    "premium": 3000.0,             # float matches dtype: float64
-    "cover_type": 1                # integer matches dtype: int64
-}
-result = a.recommend_premium(input_data)
-print("Result:", result)
+# a = RecommendSIToolkit()
+# input_data = {
+#     "product_code": "AFP",         # string matches dtype: object
+#     "benefit_code": "DTH",         # string matches dtype: object
+#     "gender": 0,                   # integer matches dtype: int64
+#     "smoker": 0,                   # integer matches dtype: int64
+#     "age": 52,                     # integer matches dtype: int64
+#     "premium": 3000.0,             # float matches dtype: float64
+#     "cover_type": 1                # integer matches dtype: int64
+# }
+# result = a.recommend_premium(input_data)
+# print("Result:", result)
