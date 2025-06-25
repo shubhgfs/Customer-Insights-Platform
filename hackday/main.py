@@ -16,8 +16,8 @@ load_dotenv()
 class RecommendSIInput(BaseModel):
     product_code: str
     benefit_code: str
-    gender: int = Field(ge=0, le=1)
-    smoker: int = Field(ge=0, le=1)
+    gender: int = Field(ge=0, le=2)
+    smoker: int = Field(ge=0, le=2)
     age: int = Field(ge=0, le=120)
     premium: float = Field(gt=0)
     cover_type: int
