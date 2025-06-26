@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 import os
 import json
 
-# Load environment variables
 load_dotenv()
 
 class RecommendSIInput(BaseModel):
@@ -72,7 +71,7 @@ agent = Agent(
 # FastAPI App
 # -----------------------------------------
 app = FastAPI(
-    title="Greenswan Insurance Pricing API",
+    title="Greenstone Financials Insurance Pricing API",
     description="API for recommending sum insured based on customer premium budget",
     version="1.0.0"
 )
