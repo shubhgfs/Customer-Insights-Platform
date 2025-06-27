@@ -2,11 +2,18 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from typing import Optional
 from hack import RecommendSIToolkit
+from ashish import TranscriptionSearchTool
 from agno.agent import Agent
 from agno.models.azure import AzureOpenAI
 from dotenv import load_dotenv
 import os
 import json
+import re
+import json
+
+def load_config(file_path: str) -> dict:
+    with open(file_path, 'r', encoding="utf-8") as f:
+        return json.load(f)
 
 load_dotenv()
 
@@ -18,6 +25,9 @@ class RecommendSIInput(BaseModel):
     age: int
     premium: float
     cover_type: int
+
+class GetTranscriptsInput(BaseModel):
+    query: str
 
 # -----------------------------------------
 # Agent Setup
@@ -67,6 +77,37 @@ agent = Agent(
     add_datetime_to_instructions=True,
 )
 
+cfg = load_config("transcription_agent_config.json")
+
+transcription_agent = Agent(
+        name="Transcription Agent",
+        model=model,
+        tools=[
+            TranscriptionSearchTool(),
+        ],
+        context=cfg.get("context"),
+        add_context=True,
+        resolve_context=True,
+        add_history_to_messages=True,
+        num_history_runs=10,
+        search_knowledge=True,
+        update_knowledge=True,
+        add_references=True,
+        show_tool_calls=True,
+        read_chat_history=True,
+        read_tool_call_history=True,
+        system_message_role="system",
+        system_message=cfg.get("system_message"),
+        description=cfg.get("description"),
+        goal=cfg.get("goal"),
+        instructions=cfg.get("instructions"),
+        expected_output=cfg.get("expected_output"),
+        add_name_to_instructions=True,
+        add_state_in_messages=True,
+        markdown=True,
+        add_datetime_to_instructions=True,
+    )
+
 # -----------------------------------------
 # FastAPI App
 # -----------------------------------------
@@ -84,6 +125,28 @@ async def recommend_sum_insured(payload: RecommendSIInput):
     try:
         input_data = payload.model_dump()
         result = agent.run(str(input_data))
-        return result.content
+        response = result.content.strip()
+        cleaned = re.sub(r'^```json\\n|```$', '', response).replace(r'```json', '')
+        cleaned = cleaned.encode('utf-8').decode('unicode_escape')
+        print(cleaned)
+        parsed = json.loads(cleaned)
+        print(parsed)
+        return parsed
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/get-transcripts")
+async def get_transcripts(payload: GetTranscriptsInput):
+    try:
+        input_data = payload.model_dump()
+        result = transcription_agent.run(str(input_data))
+        response = result.content.strip()
+        # cleaned = re.sub(r'^```json\\n|```$', '', response).replace(r'```json', '')
+        # cleaned = cleaned.encode('utf-8').decode('unicode_escape')
+        # print(cleaned)
+        # parsed = json.loads(cleaned)
+        # print(parsed)
+        return response
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
