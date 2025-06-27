@@ -23,8 +23,8 @@ class RecommendSIInput(BaseModel):
     gender: int
     smoker: int
     age: int
-    premium: float
-    cover_type: int
+    premium: float | None = None
+    suminsured: float | None = None
 
 class GetTranscriptsInput(BaseModel):
     query: str

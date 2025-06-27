@@ -163,7 +163,6 @@ class RecommendSIToolkit(Toolkit):
         smoker = input_data.get('smoker', None)
         age = input_data.get('age', None)
         premium = input_data.get('premium', None)
-        cover_type = input_data.get('cover_type', None)
         sum_insured = input_data.get('sum_insured', None)
         
         query, params = self.generate_dynamic_sql_query(
