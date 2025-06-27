@@ -9,13 +9,21 @@ import pandas as pd
 import pyodbc
 import sqlalchemy
 import urllib.parse
+import httpx
 
 load_dotenv()
 
+print('connecting')
 connstring="driver={ODBC Driver 17 for SQL Server};server=evm02.prod.db.hfs.local,1272;database=evolve;schema=dbo;Trusted_Connection=yes;"
 evkpiconn = pyodbc.connect(connstring)
 quoted_conn_str = urllib.parse.quote_plus(connstring)
 engine = sqlalchemy.create_engine('mssql+pyodbc:///?odbc_connect={}'.format(quoted_conn_str))
+print('Connection Made')
+
+print(os.getenv("AZURE_OPENAI_API_KEY_AQMAGENTICOS"))
+print(os.getenv("AZURE_OPENAI_ENDPOINT_AQMAGENTICOS"))
+print(os.getenv("AZURE_OPENAI_API_VERSION_AQMAGENTICOS"))
+print(os.getenv('AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS'))
 
 class RecommendSIToolkit(Toolkit):
     def __init__(self, **kwargs):
@@ -25,6 +33,7 @@ class RecommendSIToolkit(Toolkit):
             api_key=os.getenv("AZURE_OPENAI_API_KEY_AQMAGENTICOS"),
             azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT_AQMAGENTICOS"),
             api_version=os.getenv("AZURE_OPENAI_API_VERSION_AQMAGENTICOS"),
+            http_client=httpx.Client(verify=False)
         )
         self.deployment = os.getenv('AZURE_OPENAI_DEPLOYMENT_ID_AQMAGENTICOS')
 
@@ -34,7 +43,7 @@ class RecommendSIToolkit(Toolkit):
         self.df_tblProductBenefitRecommendedSI = pd.read_csv(r'tblProductBenefitRecommendedSI.csv')
         self.df_tblProductBenefitRecommendedSIBeta = pd.read_csv(r'tblProductBenefitRecommendedSIBeta.csv')
 
-    def aggregate_suminsured_fixed_bands(tbl, band_width=5000):
+    def aggregate_suminsured_fixed_bands(self, tbl, band_width=5000):
         si_min = tbl['SumInsured'].min()
         si_max = tbl['SumInsured'].max()
 
@@ -174,6 +183,8 @@ class RecommendSIToolkit(Toolkit):
             sum_insured=sum_insured,
             total_premium=premium,
         )
+
+        print(query, params)
 
         upload = pd.read_sql(query, con=evkpiconn, params=params)
 
