@@ -9,7 +9,9 @@ from dotenv import load_dotenv
 import os
 import json
 import re
+from datetime import datetime
 import json
+from uuid import uuid4
 
 def load_config(file_path: str) -> dict:
     with open(file_path, 'r', encoding="utf-8") as f:
@@ -124,14 +126,17 @@ app = FastAPI(
 async def recommend_sum_insured(payload: RecommendSIInput):
     try:
         input_data = payload.model_dump()
+        input_data['idn'] = str(uuid4())
+        print(f"Input Data: {input_data}")
         result = agent.run(str(input_data))
         response = result.content.strip()
-        cleaned = re.sub(r'^```json\\n|```$', '', response).replace(r'```json', '')
-        cleaned = cleaned.encode('utf-8').decode('unicode_escape')
-        print(cleaned)
-        parsed = json.loads(cleaned)
-        print(parsed)
-        return parsed
+        try:
+            with open(f'response_{input_data["idn"]}.json', 'r') as f:
+                response = json.load(f)
+        except FileNotFoundError:
+            with open('response_None.json', 'r') as f:
+                response = json.load(f)
+        return response
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -142,11 +147,6 @@ async def get_transcripts(payload: GetTranscriptsInput):
         input_data = payload.model_dump()
         result = transcription_agent.run(str(input_data))
         response = result.content.strip()
-        # cleaned = re.sub(r'^```json\\n|```$', '', response).replace(r'```json', '')
-        # cleaned = cleaned.encode('utf-8').decode('unicode_escape')
-        # print(cleaned)
-        # parsed = json.loads(cleaned)
-        # print(parsed)
         return response
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

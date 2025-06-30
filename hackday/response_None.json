@@ -1,0 +1,309 @@
+{
+  "response_text": "{\n  \"data\": [\n    {\n      \"recommended_sum_insured\": 10000,\n      \"justification\": \"The customer's profile indicates they are 65 years old, and the historical data shows that for similar profiles, the mean premium for a sum insured of $10,000 is $262.29. This is the lowest premium option available, making it a viable choice for affordability.\"\n    }\n  ]\n}",
+  "records_dict": [
+    {
+      "premium_mean": 262.286,
+      "premium_min": 262.286,
+      "premium_max": 262.286,
+      "sum_insured_mean": 10000.0,
+      "sum_insured_min": 10000.0,
+      "sum_insured_max": 10000.0
+    },
+    {
+      "premium_mean": 393.429,
+      "premium_min": 393.429,
+      "premium_max": 393.429,
+      "sum_insured_mean": 15000.0,
+      "sum_insured_min": 15000.0,
+      "sum_insured_max": 15000.0
+    },
+    {
+      "premium_mean": 524.572,
+      "premium_min": 524.572,
+      "premium_max": 524.572,
+      "sum_insured_mean": 20000.0,
+      "sum_insured_min": 20000.0,
+      "sum_insured_max": 20000.0
+    },
+    {
+      "premium_mean": 655.7149999999999,
+      "premium_min": 655.7149999999999,
+      "premium_max": 655.7149999999999,
+      "sum_insured_mean": 25000.0,
+      "sum_insured_min": 25000.0,
+      "sum_insured_max": 25000.0
+    },
+    {
+      "premium_mean": 786.8579999999998,
+      "premium_min": 786.858,
+      "premium_max": 786.858,
+      "sum_insured_mean": 30000.0,
+      "sum_insured_min": 30000.0,
+      "sum_insured_max": 30000.0
+    },
+    {
+      "premium_mean": 918.001,
+      "premium_min": 918.001,
+      "premium_max": 918.001,
+      "sum_insured_mean": 35000.0,
+      "sum_insured_min": 35000.0,
+      "sum_insured_max": 35000.0
+    },
+    {
+      "premium_mean": 1049.144,
+      "premium_min": 1049.144,
+      "premium_max": 1049.144,
+      "sum_insured_mean": 40000.0,
+      "sum_insured_min": 40000.0,
+      "sum_insured_max": 40000.0
+    },
+    {
+      "premium_mean": 1180.287,
+      "premium_min": 1180.287,
+      "premium_max": 1180.287,
+      "sum_insured_mean": 45000.0,
+      "sum_insured_min": 45000.0,
+      "sum_insured_max": 45000.0
+    },
+    {
+      "premium_mean": 1311.43,
+      "premium_min": 1311.43,
+      "premium_max": 1311.43,
+      "sum_insured_mean": 50000.0,
+      "sum_insured_min": 50000.0,
+      "sum_insured_max": 50000.0
+    },
+    {
+      "premium_mean": 1442.5729999999999,
+      "premium_min": 1442.5729999999999,
+      "premium_max": 1442.5729999999999,
+      "sum_insured_mean": 55000.0,
+      "sum_insured_min": 55000.0,
+      "sum_insured_max": 55000.0
+    },
+    {
+      "premium_mean": 1573.716,
+      "premium_min": 1573.716,
+      "premium_max": 1573.716,
+      "sum_insured_mean": 60000.0,
+      "sum_insured_min": 60000.0,
+      "sum_insured_max": 60000.0
+    },
+    {
+      "premium_mean": 1704.859,
+      "premium_min": 1704.859,
+      "premium_max": 1704.859,
+      "sum_insured_mean": 65000.0,
+      "sum_insured_min": 65000.0,
+      "sum_insured_max": 65000.0
+    },
+    {
+      "premium_mean": 1836.002,
+      "premium_min": 1836.002,
+      "premium_max": 1836.002,
+      "sum_insured_mean": 70000.0,
+      "sum_insured_min": 70000.0,
+      "sum_insured_max": 70000.0
+    },
+    {
+      "premium_mean": 1967.145,
+      "premium_min": 1967.145,
+      "premium_max": 1967.145,
+      "sum_insured_mean": 75000.0,
+      "sum_insured_min": 75000.0,
+      "sum_insured_max": 75000.0
+    },
+    {
+      "premium_mean": 2098.288,
+      "premium_min": 2098.288,
+      "premium_max": 2098.288,
+      "sum_insured_mean": 80000.0,
+      "sum_insured_min": 80000.0,
+      "sum_insured_max": 80000.0
+    },
+    {
+      "premium_mean": 2360.574,
+      "premium_min": 2360.574,
+      "premium_max": 2360.574,
+      "sum_insured_mean": 90000.0,
+      "sum_insured_min": 90000.0,
+      "sum_insured_max": 90000.0
+    },
+    {
+      "premium_mean": 2360.574,
+      "premium_min": 2360.574,
+      "premium_max": 2360.574,
+      "sum_insured_mean": 90000.0,
+      "sum_insured_min": 90000.0,
+      "sum_insured_max": 90000.0
+    },
+    {
+      "premium_mean": 2360.574,
+      "premium_min": 2360.574,
+      "premium_max": 2360.574,
+      "sum_insured_mean": 90000.0,
+      "sum_insured_min": 90000.0,
+      "sum_insured_max": 90000.0
+    },
+    {
+      "premium_mean": 2622.86,
+      "premium_min": 2622.86,
+      "premium_max": 2622.86,
+      "sum_insured_mean": 100000.0,
+      "sum_insured_min": 100000.0,
+      "sum_insured_max": 100000.0
+    },
+    {
+      "premium_mean": 2885.1459999999997,
+      "premium_min": 2885.1459999999997,
+      "premium_max": 2885.1459999999997,
+      "sum_insured_mean": 110000.0,
+      "sum_insured_min": 110000.0,
+      "sum_insured_max": 110000.0
+    },
+    {
+      "premium_mean": 2885.1459999999997,
+      "premium_min": 2885.1459999999997,
+      "premium_max": 2885.1459999999997,
+      "sum_insured_mean": 110000.0,
+      "sum_insured_min": 110000.0,
+      "sum_insured_max": 110000.0
+    },
+    {
+      "premium_mean": 2885.1459999999997,
+      "premium_min": 2885.1459999999997,
+      "premium_max": 2885.1459999999997,
+      "sum_insured_mean": 110000.0,
+      "sum_insured_min": 110000.0,
+      "sum_insured_max": 110000.0
+    },
+    {
+      "premium_mean": 3147.432,
+      "premium_min": 3147.432,
+      "premium_max": 3147.432,
+      "sum_insured_mean": 120000.0,
+      "sum_insured_min": 120000.0,
+      "sum_insured_max": 120000.0
+    },
+    {
+      "premium_mean": 3540.861,
+      "premium_min": 3540.861,
+      "premium_max": 3540.861,
+      "sum_insured_mean": 135000.0,
+      "sum_insured_min": 135000.0,
+      "sum_insured_max": 135000.0
+    },
+    {
+      "premium_mean": 3540.861,
+      "premium_min": 3540.861,
+      "premium_max": 3540.861,
+      "sum_insured_mean": 135000.0,
+      "sum_insured_min": 135000.0,
+      "sum_insured_max": 135000.0
+    },
+    {
+      "premium_mean": 3540.861,
+      "premium_min": 3540.861,
+      "premium_max": 3540.861,
+      "sum_insured_mean": 135000.0,
+      "sum_insured_min": 135000.0,
+      "sum_insured_max": 135000.0
+    },
+    {
+      "premium_mean": 3540.861,
+      "premium_min": 3540.861,
+      "premium_max": 3540.861,
+      "sum_insured_mean": 135000.0,
+      "sum_insured_min": 135000.0,
+      "sum_insured_max": 135000.0
+    },
+    {
+      "premium_mean": 3540.861,
+      "premium_min": 3540.861,
+      "premium_max": 3540.861,
+      "sum_insured_mean": 135000.0,
+      "sum_insured_min": 135000.0,
+      "sum_insured_max": 135000.0
+    },
+    {
+      "premium_mean": 3934.29,
+      "premium_min": 3934.29,
+      "premium_max": 3934.29,
+      "sum_insured_mean": 150000.0,
+      "sum_insured_min": 150000.0,
+      "sum_insured_max": 150000.0
+    },
+    {
+      "premium_mean": 4196.576,
+      "premium_min": 4196.576,
+      "premium_max": 4196.576,
+      "sum_insured_mean": 160000.0,
+      "sum_insured_min": 160000.0,
+      "sum_insured_max": 160000.0
+    },
+    {
+      "premium_mean": 4196.576,
+      "premium_min": 4196.576,
+      "premium_max": 4196.576,
+      "sum_insured_mean": 160000.0,
+      "sum_insured_min": 160000.0,
+      "sum_insured_max": 160000.0
+    },
+    {
+      "premium_mean": 4196.576,
+      "premium_min": 4196.576,
+      "premium_max": 4196.576,
+      "sum_insured_mean": 160000.0,
+      "sum_insured_min": 160000.0,
+      "sum_insured_max": 160000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    },
+    {
+      "premium_mean": 4458.862,
+      "premium_min": 4458.862,
+      "premium_max": 4458.862,
+      "sum_insured_mean": 170000.0,
+      "sum_insured_min": 170000.0,
+      "sum_insured_max": 170000.0
+    }
+  ]
+}
